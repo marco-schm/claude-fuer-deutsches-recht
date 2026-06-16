@@ -1,3 +1,14 @@
+# v332.0.0 — Release-Asset-Verifikation für Mega-Prompt-Markdowns
+
+Nach dem v331-Upload zeigte der Remote-Validator eine Lücke: Die Release-Pipeline lädt inzwischen pro Plugin zusätzlich `*-megaprompt.md` als direkt herunterladbares Markdown-Asset hoch, der Validator behandelte diese Dateien aber noch als unerwartete Zusatzassets. Der v331-Run wurde deshalb sauber abgebrochen; v332 enthält den Validator-Fix und den erneuten konsistenten Versionsstand.
+
+## Reparaturen
+
+- `scripts/validate-release-assets.py` erkennt jetzt neben ZIPs, `marketplace.json` und `checksums-sha256.txt` auch `*-megaprompt.md` als erwartete Release-Assets.
+- Versionsstand von `v331.0.0` auf `v332.0.0` in Marketplace, Plugin-Manifesten, README, SKILLS.md, skills-index und Testaktenübersicht fortgeführt.
+
+---
+
 # v331.0.0 — Sanity-Fix, Download-Hinweis und Release-Hygiene
 
 Kleiner Glattzug nach v330: Versionsstand, README-Zahlen, Benchmark-Daten und automatisch generierte Skill-Indizes sind wieder synchron. Die Mega-Prompt-Übersicht weist jetzt ausdrücklich darauf hin, dass die einzelnen Markdown-Dateien direkt über GitHub oder gesammelt über das Release-ZIP heruntergeladen werden können.

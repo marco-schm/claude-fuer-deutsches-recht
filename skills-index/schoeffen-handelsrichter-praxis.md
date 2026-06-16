@@ -1,6 +1,6 @@
 # schoeffen-handelsrichter-praxis
 
-**80 Skills** · Stand `v331.0.0`
+**80 Skills** · Stand `v332.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schoeffen-handelsrichter-praxis/README.md)

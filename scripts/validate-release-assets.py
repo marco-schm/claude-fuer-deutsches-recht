@@ -50,7 +50,8 @@ def expected_assets(dist: Path) -> dict[str, dict[str, Any]]:
     for path in sorted(dist.iterdir(), key=lambda p: p.name):
         if not path.is_file():
             continue
-        if path.suffix != ".zip" and path.name not in ASSET_NAMES:
+        is_megaprompt_markdown = path.name.endswith("-megaprompt.md")
+        if path.suffix != ".zip" and path.name not in ASSET_NAMES and not is_megaprompt_markdown:
             continue
         data = path.read_bytes()
         expected[path.name] = {

@@ -1,6 +1,6 @@
 # lobbyregister-bundestag
 
-**52 Skills** · Stand `v331.0.0`
+**52 Skills** · Stand `v332.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/lobbyregister-bundestag/README.md)

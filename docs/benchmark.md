@@ -1,6 +1,6 @@
 # Benchmark — Klotzkette German Legal Skills vs. Harvey LAB
 
-> Stand v331.0.0. Vergleich, Methodik und Werkzeuge.
+> Stand v332.0.0. Vergleich, Methodik und Werkzeuge.
 
 ## Inspiration
 
