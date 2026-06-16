@@ -28,6 +28,20 @@ Viele Skills in diesem Repo sind im Kern strukturierte **Mega-Prompts** — also
 
 Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sortierte Liste: **[Klotzkettes Juristische Promptliste](./PROMPTLISTE.md)** — alle Angaben ohne Gewähr, mit großem Disclaimer auf der Seite. Workflow-Eingangs-Skills, generische Router und ausgesprochen historisch-exotische Inhalte (Preußisches Landrecht, Römisches Recht, Kanonisches Recht, Weltraumrecht) bleiben dort bewusst ausgespart.
 
+## Verbindliche Gliederungsregel für alle Vorlagen und Verträge
+
+Diese Regel gilt **dauerhaft und für jedes Werkzeug**, das in diesem Repository arbeitet – Claude, Codex, Perplexity, Cloud und jedes weitere Modell. Sie ist auch in [`CLAUDE.md`](./CLAUDE.md) und [`AGENTS.md`](./AGENTS.md) festgehalten.
+
+- **Ausschließlich dezimale Gliederung:** `1`, dann `1.1`, dann `1.1.1`, dann `1.1.1.1` und so weiter, beliebig tief.
+
+- **Niemals** römische Ziffern (`I`, `II`), Großbuchstaben (`A`, `B`, `C`), Kleinbuchstaben (`a`, `b`) oder gemischte Verlags-Gliederungen (`A. I. 1. a) aa)`) – genau diese Schemata sind verboten, weil man sich darin nicht zurechtfindet.
+
+- **Leerzeile** zwischen Gliederungspunkt und seinem Inhalt sowie zwischen den Gliederungsebenen, sonst ist es nicht lesbar.
+
+- **Einrückung sparsam** – nur leicht einrücken, gerade so viel, dass die Hierarchie sichtbar bleibt und es gut aussieht, nie so tief, dass das Dokument zerfleddert wirkt.
+
+Gilt für alle Vorlagen, Verträge, Memos, Schriftsätze und sonstigen Dokumente in diesem Repository.
+
 ## Überblick
 
 | Kennzahl | Wert |
