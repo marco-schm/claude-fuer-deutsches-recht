@@ -344,6 +344,10 @@ Verlage müssen für jede **Ausgabeform** (Print, E-Book, Hörbuch, Audiostream,
 - **Honorarübersicht**: Tantiemensätze je Ausgabe
 - **Checkliste unbekannte Nutzungsarten** für Altverträge (§ 31a UrhG)
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ---
 
 ## Skill: `honorar-vorschuss-absatzhonorar-und-abrechnung`
@@ -622,6 +626,10 @@ Führt durch das **gerichtliche Verfahren** bei Preisbindungsstreitigkeiten: Unt
 - **Widerspruchs-Schriftsatz** (für Beklagten)
 - **Monitoring-Protokoll** nach Verfügungserlass
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ---
 
 ## Skill: `redaktionsvertrag-freelancer-und-arbeitnehmer`
@@ -752,6 +760,10 @@ Verlage beschäftigen **Redakteure, Lektoren, Übersetzer, Fotografen und Grafik
 - **KSA-Berechnungssheet**: Honorarsumme × Abgabesatz
 - **Nutzungsrechts-Klausel**: Standardformulierung für Freelancer-Verträge
 - **Statusfeststellungsantrag-Briefing** für DRV
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
@@ -1160,6 +1172,10 @@ Die E-Book-Preisbindung ist ein Spezialbereich mit erheblichem Konfliktpotenzial
 - **Abmahnungsentwurf** bei Preisbindungsverstoß durch Plattform
 - **MFN-Klausel-Risikoanalyse**
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ---
 
 ## Skill: `presserecht-gegendarstellung-und-unterlassung`
@@ -1289,6 +1305,10 @@ Verlage und Zeitschriften operieren im Spannungsfeld zwischen **Pressefreiheit**
 - **Unterlassungserklärung** (strafbewehrt)
 - **Abmahnungs-Antwort**: Reaktion auf presserechtliche Abmahnung
 - **Online-Archiv-Audit**: Berichte mit Aktualisierungsbedarf identifiziert
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 

@@ -274,6 +274,10 @@ Detaillierte Angaben zu RoU, Leasingverbindlichkeiten, Laufzeiten und Cash-Auswi
 - **Sanierungsmaßnahmen-Matrix**: Option – Effekt – Kosten – Zeitplan
 - **IFRS-16-vs-HGB-Vergleich**: Bilanzielle Darstellung im Plan
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ---
 
 ## Skill: `agb-klauseln-restwertgarantie`
@@ -375,6 +379,10 @@ Bei Verbrauchern (B2C) strenge Anforderungen. Bei Unternehmern (B2B, § 310 I BG
 - **Klauselmatrix**: Klausel – Norm – BGH-Bewertung – Wirksam/Unwirksam
 - **Redline-Empfehlung**: Geänderte Klauselfassung für AGB-Konformität
 - **Prüfbericht**: Klausel-für-Klausel-Analyse mit Handlungsempfehlung
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ## Normen und Rechtsprechung
 
@@ -494,6 +502,10 @@ _Leasingvertrag-Redline aus Leasingnehmersicht: Problematische Klauseln identifi
 - **Gegenentwurf-Formulierungen**: Fertige Redline-Texte
 - **Verhandlungsbrief**: LN fordert Änderungen mit Begründung
 - **Risikoabsicherungsplan**: Welche Versicherungen, welche Klauseln
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
@@ -747,6 +759,10 @@ Dieser Skill bearbeitet **Fahrzeugleasing Kilometervertrag Restwertvertrag Rück
 - Insolvenzmatrix
 - Stundungsentwurf
 - Portfolio-Dashboard
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 

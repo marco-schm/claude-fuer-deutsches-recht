@@ -324,6 +324,10 @@ Für Mandatsannahme und GwG zusätzlich `assets/templates/mandatsannahme-gwg-sta
 - Aktenstruktur.
 - Übergabeliste an Fristen, Zeit und Honorar.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Normen und Rechtsprechung
 
 ### Kuratierte Normen-Bibliothek
@@ -446,6 +450,10 @@ Skript prüft alle drei Monate:
 - Monatlicher und jaehrlicher Report.
 - Liste lang ruhender Mandate zur Klärung.
 - Wiedervorlagen-Einträge im Tagesbrief.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ## Normen und Rechtsprechung
 
@@ -1019,6 +1027,10 @@ Wenn kein Validator verfügbar ist, nicht behaupten, dass die E-Rechnung gültig
 - `assets/templates/gobd-rechnungsprotokoll.md`.
 - Bei normaler Rechnungsarbeit zusätzlich `assets/templates/rechnungsdatenblatt.md`.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ---
 
 ## Skill: `freundlicher-copilot-kanzlei`
@@ -1116,6 +1128,10 @@ Wenn Text juristisch schwach, zu pauschal oder nicht beweisbar wirkt:
 ## Ausgabe
 
 `assets/templates/freundlicher-copilot-hinweise.md` verwenden, wenn mehrere Hinweise gesammelt werden.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
@@ -1392,6 +1408,10 @@ Beste Grüße aus der Kanzlei
 - Tagesbrief-Eintrag.
 - Versand-E-Mails als Entwurf zur Freigabe.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ---
 
 ## Skill: `handelsregisterabruf`
@@ -1500,6 +1520,10 @@ Für Rechnung und Buchhaltung:
 
 `assets/templates/handelsregisterabruf-protokoll.md` verwenden.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ---
 
 ## Skill: `hr-personal-kanzlei-intake`
@@ -1580,6 +1604,10 @@ Wenn Daten fehlen:
 ## Ausgabe
 
 `assets/templates/personalstammblatt.md` und `assets/templates/hr-onboarding-offboarding.md` verwenden.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 

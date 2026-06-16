@@ -235,6 +235,10 @@ Jeder JVEG-Vorgang, bei dem Zeitpunkt der Leistungserbringung und Antragstellung
 | Wiedereinsetzungsrisiko | [Gering / Mittel / Hoch] |
 | Empfehlung | [Antrag stellen / Wiedereinsetzung prüfen / Anspruch erloschen] |
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Ausgabe
 Fristennotiz mit Risikoeinschätzung und Handlungsempfehlung.
 
@@ -931,6 +935,10 @@ Eingang eines Schreibens des Kostenbeamten oder Gerichts zu JVEG-Positionen.
 **Frist für Antwort/Beschwerde:** TT.MM.JJJJ
 **Empfehlung:** [Gegendarstellung / Beschwerde / Keine Maßnahme]
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Ausgabe
 Strukturierte Schreibenanalyse mit Fehlertypen, Normverweisen und Handlungsempfehlung.
 
@@ -1001,6 +1009,10 @@ Eingang einer Sachverständigenrechnung zur Festsetzung nach § 4 JVEG.
 | **Restforderung** | **00,00** | | | **00,00** |
 
 **§ 8a-Risikoeinschätzung:** [Keine / Teilkürzung / Vollkürzung]
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ## Ausgabe
 Positionsgenaues Prüfergebnis mit § 8a-Risikoeinschätzung und Vorschusssaldo.
@@ -1161,6 +1173,10 @@ Erhalt eines Kostenfestsetzungsbeschlusses mit Kürzungen oder Ablehnung.
 **Beschwerdeschrift-Entwurf:**
 [Gericht], Az. [X] — Beschwerde gegen Kostenfestsetzungsbeschluss v. [Datum]
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Ausgabe
 Beschwerdeschrift-Entwurf mit strukturierten Angriffsmitteln und Antrag.
 
@@ -1225,6 +1241,10 @@ Gutachten liegt vor und Kostenbeamter oder Gericht erwägt Kürzung nach § 8a J
 | Vorschussüberschreitung | § 3 JVEG | [Befund] | [Gering/Mittel/Hoch] | 00,00 |
 | Befangenheit | § 8a JVEG | [Befund] | [Gering/Mittel/Hoch] | 00,00 |
 | **Gesamtkürzung** | | | | **00,00** |
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ## Ausgabe
 Risikoübersicht mit Kürzungsbeträgen, Normbezug und Begründungsentwurf.
@@ -1295,6 +1315,10 @@ Sachverständiger, Zeuge oder Dolmetscher beantragt Vorschuss vor oder während 
 | Anrechnungshinweis | [Vorschuss wird auf Festsetzung angerechnet] |
 | Empfehlung | [Antrag stellen / Betrag anpassen] |
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Ausgabe
 Vorschussprüfung mit Erheblichkeitsbewertung, Betragsberechnung und Anrechnungshinweis.
 
@@ -1357,6 +1381,10 @@ Eingang eines JVEG-Antrags oder einer Rechnung, wenn die Rolle der anspruchsbere
 | Maßgebliche Normen | [§§ …] |
 | Mehrfachrolle | [Ja / Nein — Begründung] |
 | Ergebnis | [Anspruchsberechtigung bejaht / verneint] |
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ## Ausgabe
 Rollenzuordnung mit Normenbegründung; Weiterleitung an spezifische Vergütungsprüf-Skills.

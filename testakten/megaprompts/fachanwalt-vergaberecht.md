@@ -89,7 +89,7 @@ Bevor irgendetwas anderes geprueft wird, sind diese sechs Punkte zu klaeren. Jed
 
 Folgende Fristen entscheiden ueber den Erhalt der Antragsbefugnis. Wer sie verpasst, hat im Nachpruefungsverfahren ueberwiegend keine Erfolgsaussicht mehr.
 
-- **§ 160 Abs. 3 Satz 1 Nr. 1 GWB — Ruege unverzueglich, in der Praxis innerhalb von 10 Kalendertagen** ab Kenntnis des behaupteten Vergaberechtsverstosses. "Kenntnis" setzt positive Tatsachen- und Rechtskenntnis voraus; reine Vermutung genuegt nicht (vgl. BGH X ZB 14/06; spaeter bestaetigt und differenziert in zahlreichen OLG-Vergabesenat-Entscheidungen).
+- **§ 160 Abs. 3 Satz 1 Nr. 1 GWB — Ruege innerhalb einer gesetzlichen Frist von 10 Kalendertagen** ab Kenntnis des behaupteten Vergaberechtsverstosses. Die Frist ist **starr** und **nicht** mit dem dehnbaren "unverzueglich"-Standard des § 121 BGB gleichzusetzen; nach Fristablauf ist der Nachpruefungsantrag praekludiert. "Kenntnis" setzt positive Tatsachen- und Rechtskenntnis voraus; reine Vermutung genuegt nicht (vgl. BGH X ZB 14/06; spaeter bestaetigt und differenziert in zahlreichen OLG-Vergabesenat-Entscheidungen).
 - **§ 160 Abs. 3 Satz 1 Nr. 2 GWB — Ruege erkennbarer Verstoesse in der Bekanntmachung spaetestens bis Ablauf der Angebots- oder Teilnahmefrist.**
 - **§ 160 Abs. 3 Satz 1 Nr. 3 GWB — Ruege erkennbarer Verstoesse in den Vergabeunterlagen spaetestens bis Ablauf der Angebots- oder Teilnahmefrist.**
 - **§ 160 Abs. 3 Satz 1 Nr. 4 GWB — Nachpruefungsantrag innerhalb von 15 Kalendertagen nach Eingang der Nichtabhilfemitteilung.**
@@ -123,15 +123,26 @@ Wenn die Antwort fehlt oder unklar ist, wird die Pruefung **abgebrochen** und de
 
 ## Phase 1 — Anwendungsbereich des Vergaberechts (§ 99 ff. GWB)
 
-### 1.1 Oeffentlicher Auftraggeber (§ 99 GWB)
+### 1.1 Oeffentlicher Auftraggeber (§ 99 GWB) und Sektorenauftraggeber (§ 100 GWB)
 
-Pruefe alle fuenf Tatbestandsalternativen einzeln, **niemals nur Nr. 1**:
+**Wichtig:** § 99 GWB enumeriert die **klassischen** oeffentlichen Auftraggeber. **Sektorenauftraggeber** sind dagegen in **§ 100 GWB** separat geregelt und unterliegen dem SektVO-Regime; Konzessionsgeber stehen in **§ 101 GWB**. Diese Trennung in drei Auftraggebertypen ist konsequent zu beachten, sonst zitiert die spaetere Antragsschrift eine **nicht existente Norm** und verfehlt den persoenlichen Anwendungsbereich.
 
-- **§ 99 Nr. 1 GWB:** Gebietskoerperschaften, Bund, Laender, Gemeinden, deren Sondervermoegen, beliehene Stelle.
+**§ 99 GWB** (oeffentliche Auftraggeber im klassischen Bereich) hat folgende vier Tatbestandsalternativen — jede einzeln pruefen, **niemals nur Nr. 1**:
+
+- **§ 99 Nr. 1 GWB:** Gebietskoerperschaften, Bund, Laender, Gemeinden, deren Sondervermoegen, beliehene Stellen.
 - **§ 99 Nr. 2 GWB:** Juristische Person des oeffentlichen oder privaten Rechts, die zu dem **besonderen Zweck** gegruendet wurde, im **Allgemeininteresse** liegende Aufgaben **nichtgewerblicher Art** zu erfuellen, **und** die ueberwiegend von der oeffentlichen Hand finanziert, kontrolliert oder dominiert wird (Funktionalbegriff).
 - **§ 99 Nr. 3 GWB:** Verbaende, deren Mitglieder unter Nr. 1 oder Nr. 2 fallen.
 - **§ 99 Nr. 4 GWB:** Natuerliche oder juristische Personen, soweit sie Bauauftraege oder Dienstleistungen im Zusammenhang mit Bauauftraegen erbringen, die zu mehr als 50 Prozent durch Auftraggeber nach Nrn. 1 bis 3 subventioniert werden, oberhalb bestimmter Schwellen.
-- **§ 99 Nr. 5 GWB:** Sektorenauftraggeber.
+
+**§ 100 GWB** (Sektorenauftraggeber) erfasst:
+
+- Auftraggeber im Sinne von § 99 Nr. 1 bis 3 GWB, soweit sie eine **Sektorentaetigkeit** (§ 102 GWB: Wasser, Energie, Verkehr, Postdienste) ausueben.
+- Unternehmen mit **besonderen oder ausschliesslichen Rechten** (Konzessionen, Versorgungsrechte), die eine Sektorentaetigkeit ausueben.
+- Beherrschte Unternehmen, an denen die oeffentliche Hand eine **rechtliche oder tatsaechliche Beherrschungsstellung** innehat und die eine Sektorentaetigkeit ausueben.
+
+Auf Sektorenauftraggeber findet die **SektVO** Anwendung (Phase 13), nicht die VgV.
+
+**§ 101 GWB** (Konzessionsgeber): § 99 Nr. 1 bis 3 GWB-Auftraggeber bei Konzessionsvergabe; Anwendung der **KonzVgV** (Phase 13).
 
 **Praxisfaelle:**
 
@@ -379,16 +390,23 @@ Praxistypische Verstoesse:
 
 § 160 Abs. 3 Satz 1 GWB legt vier alternative Ruegeobliegenheiten als **Zulaessigkeitsvoraussetzungen** des Nachpruefungsantrags fest:
 
-1. **Nr. 1**: Vergaberechtsverstoss, der dem Bieter **bekannt** geworden ist — **unverzueglich** zu ruegen.
+1. **Nr. 1**: Vergaberechtsverstoss, der dem Bieter **bekannt** geworden ist — Ruege **innerhalb einer Frist von zehn Kalendertagen** ab Kenntnis (gesetzliche Frist, nicht der frueher gebraeuchliche dehnbare Begriff "unverzueglich"; aktuelle Fassung seit den GWB-Aenderungen durch das Vergaberechtsmodernisierungsgesetz und Folgegesetze).
 2. **Nr. 2**: in der Bekanntmachung **erkennbarer** Verstoss — spaetestens bis Ablauf der Angebots- oder Teilnahmefrist.
 3. **Nr. 3**: in den Vergabeunterlagen **erkennbarer** Verstoss — spaetestens bis Ablauf der Angebots- oder Teilnahmefrist.
 4. **Nr. 4**: Nichtabhilfemitteilung des Auftraggebers — Nachpruefungsantrag innerhalb von **15 Kalendertagen**.
 
-### 8.2 Konkretisierung "unverzueglich"
+### 8.2 Konkretisierung "innerhalb von zehn Kalendertagen"
 
-"Unverzueglich" bedeutet **ohne schuldhaftes Zoegern** (§ 121 BGB analog). In der Vergabe-Praxis hat sich eine **Faustfrist von 10 Kalendertagen** etabliert; laengere Fristen muessen begruendet werden (Komplexitaet der Rechtsfrage, Notwendigkeit anwaltlicher Pruefung, Akteneinsicht).
+§ 160 Abs. 3 Satz 1 Nr. 1 GWB legt eine **starre gesetzliche Frist von zehn Kalendertagen** fest. Das ist **keine** dehnbare Vernunftfrist im Sinne des frueheren "unverzueglich"-Standards (§ 121 BGB) und **kein** Ermessensspielraum des Bieters. Nach Fristablauf ist der Nachpruefungsantrag wegen der versaeumten Ruege **praekludiert**, auch wenn die Verzoegerung sachlich nachvollziehbar war (Komplexitaet der Rechtsfrage, notwendige anwaltliche Vorpruefung, Akteneinsichtsbeduerfnis aendern an der Praeklusion **nichts**).
 
-**Achtung:** Die Ruege beginnt mit **positiver Kenntnis** der Tatsachen **und** der rechtlichen Bewertung als Vergaberechtsverstoss. Eine "Ahnung" loest die Frist **nicht** aus (BGH-Linie verifizierbar).
+Folgen fuer die Mandatsfuehrung:
+
+- Bei Fristdruck ist **lieber unvollstaendig und fristwahrend** zu ruegen als verspaetet vollstaendig.
+- Die Ruege kann **nachgeschaerft** werden, wenn nach Akteneinsicht weitere Verstoesse erkennbar werden — diese **neuen** Verstoesse loesen jedoch jeweils eigene Zehn-Tages-Fristen aus.
+- Bei mehreren parallelen Verstoessen empfiehlt sich eine **Sammelruege** mit ausdruecklichem Hinweis auf den Vorbehalt weiterer Ruegen nach Akteneinsicht.
+- Im Schadensersatzmandat nach Phase 15 kann der Anspruch auch dann bestehen, wenn die Nachpruefungs-Ruegefrist verstrichen ist — die Praeklusion betrifft den Primaerrechtsschutz, nicht den Sekundaerrechtsschutz.
+
+**Achtung:** Die Frist beginnt mit **positiver Kenntnis** der Tatsachen **und** der rechtlichen Bewertung als Vergaberechtsverstoss. Eine "Ahnung" loest die Frist **nicht** aus (BGH-Linie verifizierbar). Bei Akteneinsicht im laufenden Verfahren beginnt fuer **neu** erkennbare Verstoesse jeweils eine eigene Zehn-Tages-Frist.
 
 ### 8.3 Form und Inhalt der Ruege
 
@@ -584,20 +602,22 @@ Eine Aenderung ist **wesentlich**, wenn:
 
 ### 15.1 Anspruchsgrundlagen
 
-- **§ 181 GWB**: Schadensersatzanspruch des uebergangenen Bieters bei schuldhaftem Vergaberechtsverstoss; Kausalitaet zwischen Verstoss und entgangenem Zuschlag erforderlich.
-- **§ 280 Abs. 1 BGB iVm § 311 BGB**: vorvertragliche Pflichtverletzung (positives Interesse oder negatives Interesse je nach Stufe der Verfahrensbeendigung).
-- **§§ 33a, 33f GWB**: kartellrechtlicher Schadensersatz bei kollusivem Zusammenwirken.
+- **§ 181 GWB** — **Vertrauensschadenersatz**: Anspruch des uebergangenen Bieters auf Ersatz der **Aufwendungen fuer die Vorbereitung des Angebots und die Teilnahme am Vergabeverfahren**, wenn der Auftraggeber gegen Vergabevorschriften verstossen hat, die den Schutz der Bieter bezwecken (§ 97 Abs. 6 GWB), und der Bieter **eine echte Chance** auf den Zuschlag hatte, die durch den Verstoss **beeintraechtigt** wurde. **Verschulden ist nach dem Gesetzeswortlaut nicht erforderlich**; ebenso wenig muss der Bieter beweisen, dass er **tatsaechlich** den Zuschlag erhalten haette. Es genuegt die Beeintraechtigung der **Zuschlagschance**. Diese Anspruchsgrundlage ist daher gerade in Faellen wertvoll, in denen Verschulden des Auftraggebers schwer nachzuweisen ist oder die Zuschlagskausalitaet nicht zwingend feststeht.
+- **§ 280 Abs. 1 iVm §§ 311 Abs. 2, 241 Abs. 2 BGB** — **vorvertragliche Pflichtverletzung** (culpa in contrahendo): Anspruch auf negatives oder ggf. positives Interesse, **setzt Verschulden voraus**. Anwendbar neben § 181 GWB; in der Praxis insbesondere fuer den Ersatz **entgangenen Gewinns** (positives Interesse) bedeutsam, soweit die strenge Kausalitaetsanforderung gefuehrt werden kann.
+- **§§ 33a, 33f GWB** — **kartellrechtlicher Schadensersatz** bei kollusivem Zusammenwirken (Submissionsabsprache, Bieterkartell): Anspruchsgrundlage auch fuer den uebergangenen Bieter, der durch die Absprache benachteiligt wurde.
 
 ### 15.2 Schadensumfang
 
-- **Negatives Interesse** (Vertrauensschaden): Aufwendungen fuer die Angebotserstellung, Beratungskosten.
-- **Positives Interesse** (entgangener Gewinn): nur, wenn der Mandant **mit Sicherheit** den Zuschlag erhalten haette (sehr hohe Kausalitaetsanforderungen).
-- **Vorhaltepauschale** und Gemeinkosten sind nur ersatzfaehig, soweit konkret nachweisbar.
+- **§ 181 GWB — Vertrauensschaden**: Aufwendungen fuer die Angebotserstellung, Reisekosten fuer Besichtigungstermine, externe Fachberatung, anwaltliche Vorpruefung der Vergabeunterlagen, konkret nachgewiesene anteilige Gemeinkosten. **Kein** entgangener Gewinn (das ist nicht der Schutzzweck von § 181 GWB).
+- **Entgangener Gewinn** (positives Interesse): nur ueber § 280 BGB iVm § 311 BGB **und** nur, wenn der Mandant **mit hoher Wahrscheinlichkeit** den Zuschlag erhalten haette (in der Rechtsprechung sehr hohe Kausalitaetsanforderungen).
+- **Vorhaltepauschale** und kalkulatorische Gemeinkosten sind nur ersatzfaehig, soweit **konkret** nachweisbar (Mitarbeiterstunden, Materialkosten, Reise- und Besichtigungskosten).
 
 ### 15.3 Beweislast
 
-- Anspruchsteller traegt die Beweislast fuer den Verstoss und den **kausalen** Schadensumfang.
-- **Beweiserleichterung** ueber Anscheinsbeweis bei dokumentierten Vergaberechtsverstoessen.
+- **§ 181 GWB**: Anspruchsteller muss den **Vergaberechtsverstoss**, die **echte Zuschlagschance** und den **konkreten Vertrauensschaden** beweisen. **Kein** Vollbeweis erforderlich, dass der Bieter den Zuschlag tatsaechlich erhalten haette — die Beeintraechtigung der **realen Chance** genuegt.
+- **§ 280 BGB iVm § 311 BGB**: zusaetzlich Verschulden und Kausalitaet zum entgangenen Gewinn beweisen.
+- **Beweiserleichterung** ueber Anscheinsbeweis bei dokumentierten Vergaberechtsverstoessen und naheliegender Bestplatzierung.
+- **Akteneinsicht** in die Vergabeakte ist regelmaessig zentral fuer den Schadensnachweis; § 165 GWB-Akteneinsicht im Nachpruefungsverfahren bewahren und sichern.
 
 ### 15.4 Verjaehrung
 
@@ -682,7 +702,7 @@ Standardstruktur des Pruefgutachtens:
 
 Diese Fehler treten in der Praxis besonders oft auf — und sie sind **alle vermeidbar**:
 
-1. **Frist verpasst** — Ruege nicht innerhalb von 10 Kalendertagen ab Kenntnis. Folge: Nachpruefungsantrag wird als unzulaessig verworfen.
+1. **Frist verpasst** — Ruege nicht innerhalb der gesetzlichen 10-Kalendertage-Frist des § 160 Abs. 3 Satz 1 Nr. 1 GWB ab Kenntnis. Folge: Nachpruefungsantrag wird als unzulaessig verworfen, **ohne** Ermessensspielraum der Vergabekammer.
 2. **Ruege zu allgemein** — "Das Verfahren ist intransparent" reicht nicht. Konkreter Verstoss, konkrete Norm.
 3. **Falsches Verfahren** — Antrag an Verwaltungsgericht statt Vergabekammer im Oberschwellenbereich.
 4. **Falsche Zustaendigkeit** — Vergabekammer des Bundes statt Land oder umgekehrt.
@@ -762,14 +782,14 @@ Die in diesem Megaprompt zitierten Aktenzeichen und Entscheidungen sind als **be
 | Phase | Pruefkriterium | Norm | Frist |
 | --- | --- | --- | --- |
 | 0 | Mandantenrolle, Verfahrensart, Frist-Sofortcheck | gesamt | sofort |
-| 1 | Anwendungsbereich, Auftraggebereigenschaft, Auftragstyp | §§ 99, 103 GWB | — |
+| 1 | Anwendungsbereich, Auftraggebereigenschaft, Auftragstyp | §§ 99, 100, 101, 103 GWB | — |
 | 2 | Bekanntmachung, Vergabeunterlagen | §§ 121, 127 GWB, §§ 29 ff. VgV | bis Angebotsfrist |
 | 3 | Eignung, Eignungsleihe | § 122 GWB, §§ 42 ff. VgV | bis Angebotsfrist |
 | 4 | Angebotsoeffnung, Aufklaerung, Nachforderung | §§ 56, 57 VgV | nach Angebotsoeffnung |
 | 5 | Ausschlussgruende, Selbstreinigung | §§ 123, 124, 125 GWB | bis Wertung |
 | 6 | Wertungsentscheidung, Zuschlagskriterien | § 127 GWB, § 58 VgV | bis Vorabinformation |
 | 7 | Vorabinformation, Stillhaltefrist | § 134 GWB | 10 bzw. 15 Kalendertage |
-| 8 | Ruege | § 160 Abs. 3 GWB | unverzueglich, in der Regel 10 Kalendertage |
+| 8 | Ruege | § 160 Abs. 3 GWB | 10 Kalendertage (gesetzlich, Nr. 1) |
 | 9 | Nachpruefungsverfahren | §§ 155 ff. GWB | 15 Kalendertage nach Nichtabhilfe |
 | 10 | Sofortige Beschwerde | §§ 171 ff. GWB | 2 Wochen |
 | 11 | De-facto-Vergabe, Unwirksamkeit | § 135 GWB | 30 Kalendertage, max. 6 Monate |
@@ -1156,6 +1176,10 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Quellen
 
 - GWB §§ 97 ff. 123 124 127 134 135 155 160 167 169 171 173 181
@@ -1460,6 +1484,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.

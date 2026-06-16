@@ -751,6 +751,10 @@ _Zwischenberichte Sachstandsberichte und Beschlussvorlagen für Insolvenzgericht
 - Ausschussbericht
 - Beschlussvorlage mit Anlagenliste
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Qualitätsgates
 
 - keine Bewertung ohne Zahlenstand
@@ -953,6 +957,10 @@ _Eroeffnungsgutachten als Sachverständiger oder vorläufiger Insolvenzverwalter
 - Zahlen- und Belegliste
 - Empfehlungsentwurf an das Insolvenzgericht
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Qualitätsgates
 
 - Eröffnungsgrund und Kostendeckung getrennt
@@ -1045,6 +1053,10 @@ Eingehende Forderungsanmeldungen nach § 174 InsO prüfen und Tabelle für Prüf
 - Prüfvermerk je Forderung
 - Nachforderungsschreiben
 - Tabellenimportliste
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ## Qualitätsgates
 
@@ -1272,6 +1284,10 @@ _Einstiegspunkt für neue Insolvenzverwaltungsmandate: Verfahrensart bestimmen P
 - Priorisierte To-do-Liste
 - Rückfragen an Schuldner, Gericht, Banken und Dritte
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Qualitätsgates
 
 - Aktenzeichen und Bestellungsumfang sind geprüft
@@ -1358,6 +1374,10 @@ _Massepositionen erfassen und realisieren: Bankguthaben Debitoren Herausgabeansp
 - Masseeinsammlungsregister
 - Drittschuldneranschreiben
 - Einziehungs- und Mahnplan
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ## Qualitätsgates
 

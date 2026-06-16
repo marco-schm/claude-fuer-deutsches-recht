@@ -350,6 +350,10 @@ Erzeugte Anlagen:
 Sammel-PDF: Schriftsatz_mit_Anlagen.pdf erzeugt (28 Seiten, 4.2 MB).
 ```
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Normen und Rechtsprechung
 
 ### Kuratierte Normen-Bibliothek
@@ -575,6 +579,10 @@ Diesen Katalog vor jedem Widerspruchsschreiben durchgehen — den konkret im Abl
 - `ablehnungsgrund-analyse.md` — identifizierter Grund + Gegenargument + Norm-Pinpoint
 - Verweis auf entsprechende Norm in `references/vo-2021-782-uebersicht.md` und `references/evo-2023-uebersicht.md`
 - Übergabe an Skill `fahrgastrechte-widerspruch` zur Brief-Erstellung
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
@@ -1416,6 +1424,10 @@ K12 Vollmachten der Mitreisenden
 - Streitwert- und Kostenberechnung.
 - Hinweis zur Gerichtswahl Abfahrtsbahnhof / Zielbahnhof / Sitz EVU.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Anlagen-Übergabe
 
 Unmittelbar nach Erstellung der Klageschrift den Skill `fahrgastrechte-anlagen-bauen` aufrufen — ohne ordnungsgemäßes Anlagenkonvolut ist die Klage nicht einreichungsfähig.
@@ -1652,6 +1664,10 @@ Anrufung der Schlichtungsstelle **hemmt** die Verjährung gem. § 204 Abs. 1 Nr.
 - Übergabe an `fahrgastrechte-anlagen-bauen` für Anlagen-Bundle.
 - Hinweis auf Verjährungshemmung mit Stichdatum.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ---
 
 ## Skill: `ticket-und-reisedaten-erfassen`
@@ -1800,6 +1816,10 @@ Wenn die Bahnreise Teil einer Pauschalreise (Reiseveranstalter) ist, ergänzen s
 - `fallakte.yaml` mit allen Stammdaten.
 - `belegliste.md` mit Prüfer-Flags für fehlende Belege.
 - `naechste-schritte.md` Empfehlung auf nächsten Skill (`verspaetung-und-anschlussverlust-einordnen` oder direkt `entschaedigung-berechnen` bei klarer Faktenlage).
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ## Leitentscheidungen Datenerfassung
 
@@ -2079,6 +2099,10 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - `vollmacht-<name>-<datum>.md` (eine Datei pro Mitreisendem) und PDF.
 - Vollmacht-Versandliste mit Status (versendet / unterschrieben / vorliegt).
 - Hinweis: Eingang der unterschriebenen Vollmachten ist Voraussetzung für die Mitvertretung in Forderungs-, Schlichtungs- und Klageverfahren.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 

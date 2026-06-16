@@ -60,6 +60,10 @@ LausitzStorage Reiter 1: 28 Zeilen über 4 Cluster, davon 4 rot (NordCap-Drawsto
 - Cluster-Gesamtstatuszeile je Vertragsebene
 - Spalte Querverweis zu Reiter 2/3/4
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ---
 
 ## Skill: `szenario-faelligstellung-vollstreckung`
@@ -79,6 +83,10 @@ LausitzStorage hypothetische Spiegelung aus Gläubigersicht (NordCap gegen Lausi
 - Zustellungs-Beweisplan je Erklaerung
 - Verwertungs-Stufenplan mit Stufenstatus
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ---
 
 ## Skill: `ziel-praezisieren`
@@ -97,6 +105,10 @@ LausitzStorage Ziel laut Mandantenwunsch: (1) vollstaendige Bestandsaufnahme all
 - Schriftliche Zielnotiz (eine halbe Seite)
 - Reiter- und Erweiterungs-Auswahl daraus abgeleitet
 - Priorisierungsregel für Reiter 4 (Workflow)
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
@@ -151,6 +163,10 @@ LausitzStorage-Akte:
 - Anhaenge verlinkt
 - Sortierreihenfolge nach Vertragsebenen
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Grenzen
 - **Cloud-Dienst.** Vor Einsatz Datenschutzpruefung (siehe Padlet-Intro-Skill).
 - **Maximale Sinnhaftigkeit bei bis zu 50 Dokumenten.** Darueber wird
@@ -201,6 +217,10 @@ Beispiele:
   optional)
 - Verantwortlichkeiten-Liste pro Person
 - Eingangsstapel für optionale Reiter (Fristen, Beteiligte)
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ## Grenzen
 - **Workflow ist Vorschlag, kein Anwaltsplan.** Anwaeltliche Prüfung der
@@ -286,6 +306,10 @@ LausitzStorage Rangfolge: Senior-Darlehen NordCap (besichert durch Grundschulden
 - Hinweis-Spalte mit Quellnachweis (welche Klausel begruendet den Rang)
 - Pflichthinweis auf anwaltliche Prüfung insolvenzrechtlicher Rangfragen
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ---
 
 ## Skill: `padlet-als-werkzeug`
@@ -365,6 +389,10 @@ LausitzStorage Zugangsspuren: Drawstop-Schreiben NordCap vom 22.05.2026 ging per
 - Zugangs-Beweisplan je Erklaerung
 - Markierung der Erklaerungen ohne sichere Zustellung in Reiter 3
 - Empfehlung Boten-Zustellung für kritische Folge-Erklaerungen
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
@@ -470,6 +498,10 @@ LausitzStorage-Vertragslandschaft: Pachtvertrag LEAG mit 2 Nachtraegen, Senior-D
 - Vertragslandkarte (Bezugsgraph) als Vorblatt
 - Eintraege in Reiter 2 mit Typ-Tag Vertrag und Untertyp
 - Querverweise auf abhaengige Beschlüsse, Vollmachten und Sicherheitenbestellungen
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
