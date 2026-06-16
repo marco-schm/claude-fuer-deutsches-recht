@@ -27,6 +27,17 @@ Dieses Repository enthält Plugins für deutsche Kanzleien. Wenn du in diesem Re
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - **Leitentscheidungs-Anker:** [`references/leitentscheidungen-anker.md`](./references/leitentscheidungen-anker.md) ist die kuratierte Themen-Anker-Liste je Rechtsgebiet. Sie ersetzt nicht die Live-Verifikation, aber sie liefert sichere Sucheinstiege ohne Modellwissens-Halluzination.
 
+## Gliederung und Nummerierung (verbindlich für alle Vorlagen und Verträge)
+
+Diese Regel gilt **dauerhaft und für jedes Werkzeug**, das in diesem Repository arbeitet – Claude, Codex, Perplexity, Cloud und jedes weitere Modell. Sie ist nicht verhandelbar.
+
+- **Ausschließlich dezimale Gliederung:** `1`, dann `1.1`, dann `1.1.1`, dann `1.1.1.1` und so weiter, beliebig tief.
+- **Niemals** römische Ziffern (`I`, `II`), Großbuchstaben (`A`, `B`, `C`), Kleinbuchstaben (`a`, `b`) oder gemischte Verlags-Gliederungen (`A. I. 1. a) aa)`). Genau diese Schemata sind verboten, weil man sich darin nicht zurechtfindet.
+- **Leerzeile zwischen Gliederungspunkt und seinem Inhalt sowie zwischen Gliederungsebenen.** Überschrift bzw. Nummer und der folgende Text/Unterpunkt werden durch eine Leerzeile getrennt, sonst ist es nicht lesbar.
+- **Einrückung sparsam.** Nur leicht einrücken, gerade so viel, dass die Hierarchie sichtbar bleibt und es gut aussieht – nie so tief, dass das Dokument zerfleddert wirkt.
+
+Gilt für alle Vorlagen, Verträge, Memos, Schriftsätze und sonstigen Dokumente in diesem Repository.
+
 ## Verboten
 
 - Präjudizienbindungs-Argumente. In Deutschland gibt es keine Präjudizienbindung (außer § 31 BVerfGG).
