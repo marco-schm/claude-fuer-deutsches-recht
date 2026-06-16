@@ -35,8 +35,9 @@ Diese Regel gilt **dauerhaft und für jedes Werkzeug**, das in diesem Repository
 - **Niemals** römische Ziffern (`I`, `II`), Großbuchstaben (`A`, `B`, `C`), Kleinbuchstaben (`a`, `b`) oder gemischte Verlags-Gliederungen (`A. I. 1. a) aa)`). Genau diese Schemata sind verboten, weil man sich darin nicht zurechtfindet.
 - **Leerzeile zwischen Gliederungspunkt und seinem Inhalt sowie zwischen Gliederungsebenen.** Überschrift bzw. Nummer und der folgende Text/Unterpunkt werden durch eine Leerzeile getrennt, sonst ist es nicht lesbar.
 - **Einrückung sparsam.** Nur leicht einrücken, gerade so viel, dass die Hierarchie sichtbar bleibt und es gut aussieht – nie so tief, dass das Dokument zerfleddert wirkt.
+- **Hohe Priorität.** Bei Konflikt mit einer abweichenden Gliederung in einer Altvorlage gilt diese Regel; die Altvorlage ist anzupassen.
 
-Gilt für alle Vorlagen, Verträge, Memos, Schriftsätze und sonstigen Dokumente in diesem Repository.
+Gilt für alle Vorlagen, Verträge, Vertragsmuster, Memos, Schriftsätze und sonstigen formatierten Dokumente in diesem Repository.
 
 ## Verboten
 
@@ -63,16 +64,6 @@ Gilt für alle Vorlagen, Verträge, Memos, Schriftsätze und sonstigen Dokumente
 - Nächste Schritte / Frist
 - Kostenhinweis (RVG/Honorarvereinbarung)
 - Unterschrift mit Berufsbezeichnung
-
-## Gliederung und Nummerierung von Vorlagen und Verträgen (verbindlich)
-
-Diese Regel gilt **ausnahmslos und für alle Zeiten** für jede Vorlage, jeden Vertrag, jedes Vertragsmuster und jedes formatierte Dokument in diesem Repository – unabhängig davon, welches Werkzeug es erzeugt (Claude, Perplexity, Codex oder andere).
-
-- **Nur dezimale Nummerierung.** Gegliedert wird ausschließlich nach dem Schema `1`, dann `1.1`, dann `1.1.1`, dann `1.1.1.1` und so weiter in beliebiger Tiefe.
-- **Verboten** sind römische Ziffern (`I.`, `II.`, `III.`), Großbuchstaben (`A.`, `B.`, `C.`), Kleinbuchstaben als Gliederungsebene (`a)`, `b)`) und jede gemischte Verlagsgliederung (`§ 1 I. 1. a) aa)`), wie sie viele deutsch-juristische Verlage verwenden. Solche Schemata machen Dokumente unauffindbar und sind hier untersagt.
-- **Leerzeile zwischen Gliederungspunkt und Inhalt.** Sobald ein Punkt Unterpunkte oder darunterliegenden Text hat, steht zwischen der Gliederungsüberschrift und dem folgenden Punkt/Absatz immer eine Leerzeile. Ohne Leerzeile ist das Dokument nicht lesbar.
-- **Maßvoll einrücken.** Eingerückt wird nur so viel, dass die Hierarchie klar erkennbar bleibt und das Dokument sauber aussieht – nicht mehr. Übertriebene Einrückung lässt Dokumente zerfleddert wirken und ist zu vermeiden.
-- Diese Regelung ist von hoher Priorität. Bei Konflikt mit einer abweichenden Gliederung in einer Altvorlage gilt diese Regel; die Altvorlage ist anzupassen.
 
 ## Ausformulierungspflicht für Verträge, Vorlagen und juristische Dokumente (verbindlich)
 
