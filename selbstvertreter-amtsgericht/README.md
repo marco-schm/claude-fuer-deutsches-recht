@@ -171,7 +171,8 @@ Automatisch generierte Komplett-Liste aller 89 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`selbstvertreter-amtsgericht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/selbstvertreter-amtsgericht.md) (88 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`selbstvertreter-amtsgericht-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/selbstvertreter-amtsgericht-megaprompt.md) (88 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`selbstvertreter-amtsgericht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/selbstvertreter-amtsgericht.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/selbstvertreter-amtsgericht.md`](../testakten/megaprompts/selbstvertreter-amtsgericht.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

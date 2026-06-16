@@ -134,7 +134,8 @@ Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`apothekenrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/apothekenrecht.md) (72 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`apothekenrecht-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/apothekenrecht-megaprompt.md) (72 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`apothekenrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/apothekenrecht.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/apothekenrecht.md`](../testakten/megaprompts/apothekenrecht.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

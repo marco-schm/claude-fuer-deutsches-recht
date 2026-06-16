@@ -118,7 +118,8 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`designrecht-geschmacksmusterrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/designrecht-geschmacksmusterrecht.md) (41 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`designrecht-geschmacksmusterrecht-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/designrecht-geschmacksmusterrecht-megaprompt.md) (41 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`designrecht-geschmacksmusterrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/designrecht-geschmacksmusterrecht.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/designrecht-geschmacksmusterrecht.md`](../testakten/megaprompts/designrecht-geschmacksmusterrecht.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

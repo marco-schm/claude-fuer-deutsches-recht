@@ -18,6 +18,7 @@ BEGIN = "<!-- BEGIN megaprompt-und-vorlagen (autogen) -->"
 END = "<!-- END megaprompt-und-vorlagen (autogen) -->"
 
 RAW_BASE = "https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts"
+RELEASE_BASE = "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download"
 
 
 def block_for(plugin: str, kb: int) -> str:
@@ -28,7 +29,8 @@ def block_for(plugin: str, kb: int) -> str:
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`{plugin}.md`]({RAW_BASE}/{plugin}.md) ({kb} KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`{plugin}-megaprompt.md`]({RELEASE_BASE}/{plugin}-megaprompt.md) ({kb} KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`{plugin}.md`]({RAW_BASE}/{plugin}.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/{plugin}.md`](../testakten/megaprompts/{plugin}.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

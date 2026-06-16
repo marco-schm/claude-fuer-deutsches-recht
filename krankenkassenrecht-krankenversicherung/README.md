@@ -218,7 +218,8 @@ Automatisch generierte Komplett-Liste aller 160 Skills in diesem Plugin. Beschre
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`krankenkassenrecht-krankenversicherung.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/krankenkassenrecht-krankenversicherung.md) (56 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`krankenkassenrecht-krankenversicherung-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krankenkassenrecht-krankenversicherung-megaprompt.md) (45 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`krankenkassenrecht-krankenversicherung.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/krankenkassenrecht-krankenversicherung.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/krankenkassenrecht-krankenversicherung.md`](../testakten/megaprompts/krankenkassenrecht-krankenversicherung.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

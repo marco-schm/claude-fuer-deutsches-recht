@@ -151,7 +151,8 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`jveg-kostenpruefer.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/jveg-kostenpruefer.md) (92 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`jveg-kostenpruefer-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/jveg-kostenpruefer-megaprompt.md) (96 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`jveg-kostenpruefer.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/jveg-kostenpruefer.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/jveg-kostenpruefer.md`](../testakten/megaprompts/jveg-kostenpruefer.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

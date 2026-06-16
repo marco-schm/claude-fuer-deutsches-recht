@@ -163,7 +163,8 @@ Automatisch generierte Komplett-Liste aller 91 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`fachanwalt-versicherungsrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/fachanwalt-versicherungsrecht.md) (56 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`fachanwalt-versicherungsrecht-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-versicherungsrecht-megaprompt.md) (91 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`fachanwalt-versicherungsrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/fachanwalt-versicherungsrecht.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/fachanwalt-versicherungsrecht.md`](../testakten/megaprompts/fachanwalt-versicherungsrecht.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

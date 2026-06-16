@@ -238,7 +238,8 @@ Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`insolvenzverwaltung.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/insolvenzverwaltung.md) (123 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`insolvenzverwaltung-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzverwaltung-megaprompt.md) (126 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`insolvenzverwaltung.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/insolvenzverwaltung.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/insolvenzverwaltung.md`](../testakten/megaprompts/insolvenzverwaltung.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

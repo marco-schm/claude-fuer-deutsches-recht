@@ -180,7 +180,8 @@ Automatisch generierte Komplett-Liste aller 87 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`einfache-leichte-sprache-jura.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/einfache-leichte-sprache-jura.md) (45 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`einfache-leichte-sprache-jura-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einfache-leichte-sprache-jura-megaprompt.md) (46 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`einfache-leichte-sprache-jura.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/einfache-leichte-sprache-jura.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/einfache-leichte-sprache-jura.md`](../testakten/megaprompts/einfache-leichte-sprache-jura.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

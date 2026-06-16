@@ -179,7 +179,8 @@ Automatisch generierte Komplett-Liste aller 106 Skills in diesem Plugin. Beschre
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`bundeswehrrecht-wehrrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/bundeswehrrecht-wehrrecht.md) (91 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`bundeswehrrecht-wehrrecht-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bundeswehrrecht-wehrrecht-megaprompt.md) (76 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`bundeswehrrecht-wehrrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/bundeswehrrecht-wehrrecht.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/bundeswehrrecht-wehrrecht.md`](../testakten/megaprompts/bundeswehrrecht-wehrrecht.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

@@ -600,7 +600,8 @@ Automatisch generierte Komplett-Liste aller 505 Skills in diesem Plugin. Beschre
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`fachanwalt-insolvenz-sanierungsrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/fachanwalt-insolvenz-sanierungsrecht.md) (56 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`fachanwalt-insolvenz-sanierungsrecht-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-insolvenz-sanierungsrecht-megaprompt.md) (72 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`fachanwalt-insolvenz-sanierungsrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/fachanwalt-insolvenz-sanierungsrecht.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/fachanwalt-insolvenz-sanierungsrecht.md`](../testakten/megaprompts/fachanwalt-insolvenz-sanierungsrecht.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

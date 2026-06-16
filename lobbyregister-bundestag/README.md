@@ -224,7 +224,8 @@ Automatisch generierte Komplett-Liste aller 52 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`lobbyregister-bundestag.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/lobbyregister-bundestag.md) (84 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`lobbyregister-bundestag-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/lobbyregister-bundestag-megaprompt.md) (84 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`lobbyregister-bundestag.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/lobbyregister-bundestag.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/lobbyregister-bundestag.md`](../testakten/megaprompts/lobbyregister-bundestag.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

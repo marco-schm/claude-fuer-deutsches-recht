@@ -182,7 +182,8 @@ Automatisch generierte Komplett-Liste aller 95 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`bgb-at-pruefer.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/bgb-at-pruefer.md) (47 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`bgb-at-pruefer-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bgb-at-pruefer-megaprompt.md) (47 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`bgb-at-pruefer.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/bgb-at-pruefer.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/bgb-at-pruefer.md`](../testakten/megaprompts/bgb-at-pruefer.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

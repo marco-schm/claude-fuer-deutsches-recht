@@ -214,7 +214,8 @@ Automatisch generierte Komplett-Liste aller 147 Skills in diesem Plugin. Beschre
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`verbraucherschutzrecht-pruefer.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/verbraucherschutzrecht-pruefer.md) (29 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`verbraucherschutzrecht-pruefer-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verbraucherschutzrecht-pruefer-megaprompt.md) (29 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`verbraucherschutzrecht-pruefer.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/verbraucherschutzrecht-pruefer.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/verbraucherschutzrecht-pruefer.md`](../testakten/megaprompts/verbraucherschutzrecht-pruefer.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

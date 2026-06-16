@@ -204,7 +204,8 @@ Automatisch generierte Komplett-Liste aller 82 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`email-umformulierer-berufsrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/email-umformulierer-berufsrecht.md) (62 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`email-umformulierer-berufsrecht-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/email-umformulierer-berufsrecht-megaprompt.md) (63 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`email-umformulierer-berufsrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/email-umformulierer-berufsrecht.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/email-umformulierer-berufsrecht.md`](../testakten/megaprompts/email-umformulierer-berufsrecht.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

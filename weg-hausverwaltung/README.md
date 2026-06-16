@@ -195,7 +195,8 @@ Automatisch generierte Komplett-Liste aller 92 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`weg-hausverwaltung.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/weg-hausverwaltung.md) (54 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`weg-hausverwaltung-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/weg-hausverwaltung-megaprompt.md) (54 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`weg-hausverwaltung.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/weg-hausverwaltung.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/weg-hausverwaltung.md`](../testakten/megaprompts/weg-hausverwaltung.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

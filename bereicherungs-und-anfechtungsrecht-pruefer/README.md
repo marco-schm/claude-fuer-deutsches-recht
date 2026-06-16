@@ -385,7 +385,8 @@ Automatisch generierte Komplett-Liste aller 138 Skills in diesem Plugin. Beschre
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`bereicherungs-und-anfechtungsrecht-pruefer.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/bereicherungs-und-anfechtungsrecht-pruefer.md) (64 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`bereicherungs-und-anfechtungsrecht-pruefer-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bereicherungs-und-anfechtungsrecht-pruefer-megaprompt.md) (64 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`bereicherungs-und-anfechtungsrecht-pruefer.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/bereicherungs-und-anfechtungsrecht-pruefer.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/bereicherungs-und-anfechtungsrecht-pruefer.md`](../testakten/megaprompts/bereicherungs-und-anfechtungsrecht-pruefer.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

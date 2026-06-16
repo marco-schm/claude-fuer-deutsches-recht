@@ -111,7 +111,8 @@ Automatisch generierte Komplett-Liste aller 57 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`telekommunikationsrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/telekommunikationsrecht.md) (34 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`telekommunikationsrecht-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/telekommunikationsrecht-megaprompt.md) (34 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`telekommunikationsrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/telekommunikationsrecht.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/telekommunikationsrecht.md`](../testakten/megaprompts/telekommunikationsrecht.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

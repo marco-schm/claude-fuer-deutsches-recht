@@ -187,7 +187,8 @@ Automatisch generierte Komplett-Liste aller 129 Skills in diesem Plugin. Beschre
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`influencer-recht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/influencer-recht.md) (49 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`influencer-recht-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/influencer-recht-megaprompt.md) (32 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`influencer-recht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/influencer-recht.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/influencer-recht.md`](../testakten/megaprompts/influencer-recht.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

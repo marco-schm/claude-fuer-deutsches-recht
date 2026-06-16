@@ -126,7 +126,8 @@ Automatisch generierte Komplett-Liste aller 66 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`verbraucher-rechtsstaat-alltag.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/verbraucher-rechtsstaat-alltag.md) (46 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`verbraucher-rechtsstaat-alltag-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verbraucher-rechtsstaat-alltag-megaprompt.md) (46 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`verbraucher-rechtsstaat-alltag.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/verbraucher-rechtsstaat-alltag.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/verbraucher-rechtsstaat-alltag.md`](../testakten/megaprompts/verbraucher-rechtsstaat-alltag.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

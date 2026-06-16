@@ -1959,7 +1959,8 @@ Automatisch generierte Komplett-Liste aller 1876 Skills in diesem Plugin. Beschr
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`roemisch-katholisches-kirchenrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/roemisch-katholisches-kirchenrecht.md) (63 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`roemisch-katholisches-kirchenrecht-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisch-katholisches-kirchenrecht-megaprompt.md) (52 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`roemisch-katholisches-kirchenrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/roemisch-katholisches-kirchenrecht.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/roemisch-katholisches-kirchenrecht.md`](../testakten/megaprompts/roemisch-katholisches-kirchenrecht.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

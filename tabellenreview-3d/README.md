@@ -160,7 +160,8 @@ Automatisch generierte Komplett-Liste aller 83 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`tabellenreview-3d.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/tabellenreview-3d.md) (69 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`tabellenreview-3d-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/tabellenreview-3d-megaprompt.md) (71 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`tabellenreview-3d.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/tabellenreview-3d.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/tabellenreview-3d.md`](../testakten/megaprompts/tabellenreview-3d.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

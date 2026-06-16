@@ -196,7 +196,8 @@ Automatisch generierte Komplett-Liste aller 111 Skills in diesem Plugin. Beschre
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`startup-hr-personalabteilung-berlin.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/startup-hr-personalabteilung-berlin.md) (35 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`startup-hr-personalabteilung-berlin-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/startup-hr-personalabteilung-berlin-megaprompt.md) (35 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`startup-hr-personalabteilung-berlin.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/startup-hr-personalabteilung-berlin.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/startup-hr-personalabteilung-berlin.md`](../testakten/megaprompts/startup-hr-personalabteilung-berlin.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

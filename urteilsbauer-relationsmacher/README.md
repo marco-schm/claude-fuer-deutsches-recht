@@ -181,7 +181,8 @@ Automatisch generierte Komplett-Liste aller 83 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`urteilsbauer-relationsmacher.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/urteilsbauer-relationsmacher.md) (71 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`urteilsbauer-relationsmacher-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/urteilsbauer-relationsmacher-megaprompt.md) (72 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`urteilsbauer-relationsmacher.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/urteilsbauer-relationsmacher.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/urteilsbauer-relationsmacher.md`](../testakten/megaprompts/urteilsbauer-relationsmacher.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

@@ -412,7 +412,8 @@ Automatisch generierte Komplett-Liste aller 345 Skills in diesem Plugin. Beschre
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`haushaltsrecht-bho-bund-laender.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/haushaltsrecht-bho-bund-laender.md) (32 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`haushaltsrecht-bho-bund-laender-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/haushaltsrecht-bho-bund-laender-megaprompt.md) (32 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`haushaltsrecht-bho-bund-laender.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/haushaltsrecht-bho-bund-laender.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/haushaltsrecht-bho-bund-laender.md`](../testakten/megaprompts/haushaltsrecht-bho-bund-laender.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

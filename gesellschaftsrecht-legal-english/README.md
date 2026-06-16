@@ -186,7 +186,8 @@ Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`gesellschaftsrecht-legal-english.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/gesellschaftsrecht-legal-english.md) (86 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`gesellschaftsrecht-legal-english-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gesellschaftsrecht-legal-english-megaprompt.md) (86 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`gesellschaftsrecht-legal-english.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/gesellschaftsrecht-legal-english.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/gesellschaftsrecht-legal-english.md`](../testakten/megaprompts/gesellschaftsrecht-legal-english.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

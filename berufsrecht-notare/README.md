@@ -268,7 +268,8 @@ Automatisch generierte Komplett-Liste aller 204 Skills in diesem Plugin. Beschre
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`berufsrecht-notare.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/berufsrecht-notare.md) (34 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`berufsrecht-notare-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-notare-megaprompt.md) (34 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`berufsrecht-notare.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/berufsrecht-notare.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/berufsrecht-notare.md`](../testakten/megaprompts/berufsrecht-notare.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

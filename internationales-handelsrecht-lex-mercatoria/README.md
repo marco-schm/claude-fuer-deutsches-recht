@@ -252,7 +252,8 @@ Automatisch generierte Komplett-Liste aller 192 Skills in diesem Plugin. Beschre
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`internationales-handelsrecht-lex-mercatoria.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/internationales-handelsrecht-lex-mercatoria.md) (38 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`internationales-handelsrecht-lex-mercatoria-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/internationales-handelsrecht-lex-mercatoria-megaprompt.md) (30 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`internationales-handelsrecht-lex-mercatoria.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/internationales-handelsrecht-lex-mercatoria.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/internationales-handelsrecht-lex-mercatoria.md`](../testakten/megaprompts/internationales-handelsrecht-lex-mercatoria.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

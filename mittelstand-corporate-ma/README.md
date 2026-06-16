@@ -241,7 +241,8 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`mittelstand-corporate-ma.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/mittelstand-corporate-ma.md) (182 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`mittelstand-corporate-ma-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/mittelstand-corporate-ma-megaprompt.md) (185 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`mittelstand-corporate-ma.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/mittelstand-corporate-ma.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/mittelstand-corporate-ma.md`](../testakten/megaprompts/mittelstand-corporate-ma.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

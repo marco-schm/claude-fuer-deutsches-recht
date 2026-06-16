@@ -218,7 +218,8 @@ Automatisch generierte Komplett-Liste aller 83 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`forderungsmanagement-klagewerkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/forderungsmanagement-klagewerkstatt.md) (62 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`forderungsmanagement-klagewerkstatt-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/forderungsmanagement-klagewerkstatt-megaprompt.md) (70 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`forderungsmanagement-klagewerkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/forderungsmanagement-klagewerkstatt.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/forderungsmanagement-klagewerkstatt.md`](../testakten/megaprompts/forderungsmanagement-klagewerkstatt.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

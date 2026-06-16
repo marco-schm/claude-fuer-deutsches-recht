@@ -134,7 +134,8 @@ Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`goae-gebuehrenordnung-aerzte.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/goae-gebuehrenordnung-aerzte.md) (68 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`goae-gebuehrenordnung-aerzte-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/goae-gebuehrenordnung-aerzte-megaprompt.md) (68 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`goae-gebuehrenordnung-aerzte.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/goae-gebuehrenordnung-aerzte.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/goae-gebuehrenordnung-aerzte.md`](../testakten/megaprompts/goae-gebuehrenordnung-aerzte.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

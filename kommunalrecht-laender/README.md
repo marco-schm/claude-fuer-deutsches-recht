@@ -243,7 +243,8 @@ Automatisch generierte Komplett-Liste aller 176 Skills in diesem Plugin. Beschre
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`kommunalrecht-laender.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/kommunalrecht-laender.md) (30 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`kommunalrecht-laender-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kommunalrecht-laender-megaprompt.md) (30 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`kommunalrecht-laender.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/kommunalrecht-laender.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/kommunalrecht-laender.md`](../testakten/megaprompts/kommunalrecht-laender.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

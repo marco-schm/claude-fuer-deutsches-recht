@@ -165,7 +165,8 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`verkehrsowi-verteidiger.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/verkehrsowi-verteidiger.md) (98 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`verkehrsowi-verteidiger-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verkehrsowi-verteidiger-megaprompt.md) (100 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`verkehrsowi-verteidiger.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/verkehrsowi-verteidiger.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/verkehrsowi-verteidiger.md`](../testakten/megaprompts/verkehrsowi-verteidiger.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

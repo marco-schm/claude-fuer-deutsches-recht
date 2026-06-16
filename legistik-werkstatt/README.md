@@ -395,7 +395,8 @@ Automatisch generierte Komplett-Liste aller 254 Skills in diesem Plugin. Beschre
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`legistik-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/legistik-werkstatt.md) (57 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`legistik-werkstatt-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/legistik-werkstatt-megaprompt.md) (58 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`legistik-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/legistik-werkstatt.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/legistik-werkstatt.md`](../testakten/megaprompts/legistik-werkstatt.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

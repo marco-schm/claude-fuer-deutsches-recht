@@ -294,7 +294,8 @@ Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`kanzlei-allgemein.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/kanzlei-allgemein.md) (85 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`kanzlei-allgemein-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kanzlei-allgemein-megaprompt.md) (88 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`kanzlei-allgemein.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/kanzlei-allgemein.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/kanzlei-allgemein.md`](../testakten/megaprompts/kanzlei-allgemein.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

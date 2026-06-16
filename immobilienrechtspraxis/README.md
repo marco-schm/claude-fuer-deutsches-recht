@@ -129,7 +129,8 @@ Automatisch generierte Komplett-Liste aller 61 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`immobilienrechtspraxis.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/immobilienrechtspraxis.md) (86 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`immobilienrechtspraxis-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/immobilienrechtspraxis-megaprompt.md) (68 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`immobilienrechtspraxis.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/immobilienrechtspraxis.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/immobilienrechtspraxis.md`](../testakten/megaprompts/immobilienrechtspraxis.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

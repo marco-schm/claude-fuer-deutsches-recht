@@ -169,7 +169,8 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`hochschulrecht-laender.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/hochschulrecht-laender.md) (67 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`hochschulrecht-laender-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hochschulrecht-laender-megaprompt.md) (67 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`hochschulrecht-laender.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/hochschulrecht-laender.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/hochschulrecht-laender.md`](../testakten/megaprompts/hochschulrecht-laender.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

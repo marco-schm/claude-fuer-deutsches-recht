@@ -474,7 +474,8 @@ Automatisch generierte Komplett-Liste aller 388 Skills in diesem Plugin. Beschre
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`hoai-leistungsphasen-praxis.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/hoai-leistungsphasen-praxis.md) (23 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`hoai-leistungsphasen-praxis-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hoai-leistungsphasen-praxis-megaprompt.md) (23 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`hoai-leistungsphasen-praxis.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/hoai-leistungsphasen-praxis.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/hoai-leistungsphasen-praxis.md`](../testakten/megaprompts/hoai-leistungsphasen-praxis.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

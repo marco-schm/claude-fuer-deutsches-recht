@@ -184,7 +184,8 @@ Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschre
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`informationsfreiheit-presseauskunft.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/informationsfreiheit-presseauskunft.md) (37 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`informationsfreiheit-presseauskunft-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/informationsfreiheit-presseauskunft-megaprompt.md) (30 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`informationsfreiheit-presseauskunft.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/informationsfreiheit-presseauskunft.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/informationsfreiheit-presseauskunft.md`](../testakten/megaprompts/informationsfreiheit-presseauskunft.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

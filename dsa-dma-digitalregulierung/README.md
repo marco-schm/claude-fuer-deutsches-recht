@@ -131,7 +131,8 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`dsa-dma-digitalregulierung.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/dsa-dma-digitalregulierung.md) (112 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`dsa-dma-digitalregulierung-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/dsa-dma-digitalregulierung-megaprompt.md) (115 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`dsa-dma-digitalregulierung.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/dsa-dma-digitalregulierung.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/dsa-dma-digitalregulierung.md`](../testakten/megaprompts/dsa-dma-digitalregulierung.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

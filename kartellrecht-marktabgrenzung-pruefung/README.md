@@ -385,7 +385,8 @@ Automatisch generierte Komplett-Liste aller 309 Skills in diesem Plugin. Beschre
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`kartellrecht-marktabgrenzung-pruefung.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/kartellrecht-marktabgrenzung-pruefung.md) (40 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`kartellrecht-marktabgrenzung-pruefung-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kartellrecht-marktabgrenzung-pruefung-megaprompt.md) (40 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`kartellrecht-marktabgrenzung-pruefung.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/kartellrecht-marktabgrenzung-pruefung.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/kartellrecht-marktabgrenzung-pruefung.md`](../testakten/megaprompts/kartellrecht-marktabgrenzung-pruefung.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

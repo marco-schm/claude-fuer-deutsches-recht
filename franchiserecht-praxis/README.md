@@ -186,7 +186,8 @@ Automatisch generierte Komplett-Liste aller 122 Skills in diesem Plugin. Beschre
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`franchiserecht-praxis.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/franchiserecht-praxis.md) (38 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`franchiserecht-praxis-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/franchiserecht-praxis-megaprompt.md) (30 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`franchiserecht-praxis.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/franchiserecht-praxis.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/franchiserecht-praxis.md`](../testakten/megaprompts/franchiserecht-praxis.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

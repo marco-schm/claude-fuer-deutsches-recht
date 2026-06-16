@@ -195,7 +195,8 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`zwangsverwaltung-zvg.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/zwangsverwaltung-zvg.md) (70 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`zwangsverwaltung-zvg-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/zwangsverwaltung-zvg-megaprompt.md) (73 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`zwangsverwaltung-zvg.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/zwangsverwaltung-zvg.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/zwangsverwaltung-zvg.md`](../testakten/megaprompts/zwangsverwaltung-zvg.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*

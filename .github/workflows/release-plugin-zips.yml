@@ -78,6 +78,24 @@ jobs:
           ls dist/*-skills-markdown.zip | wc -l
           ls -lh dist/alle-skills-markdown.zip
 
+      - name: Megaprompts als Einzeldateien fuer Direkt-Download bereitstellen
+        run: |
+          # Jeden Megaprompt zusaetzlich als eigenstaendiges Release-Asset
+          # bereitstellen. Release-Assets liefert GitHub mit
+          # Content-Disposition: attachment, der Browser laedt sie also herunter
+          # statt sie als text/plain anzuzeigen. Dateiname-Schema:
+          #   <plugin>-megaprompt.md
+          for mp in testakten/megaprompts/*.md; do
+            name="$(basename "$mp")"
+            # README im Megaprompt-Ordner ist keine Megaprompt-Datei.
+            if [ "$name" = "README.md" ]; then
+              continue
+            fi
+            plugin="${name%.md}"
+            cp "$mp" "dist/${plugin}-megaprompt.md"
+          done
+          ls dist/*-megaprompt.md | wc -l
+
       - name: Sammel-ZIPs bauen
         run: |
           # alle-plugins-megazip.zip enthaelt die installierbaren Einzel-ZIPs
@@ -142,7 +160,7 @@ jobs:
           dist = Path("dist")
           assets = sorted(
               p for p in dist.iterdir()
-              if p.is_file() and (p.suffix == ".zip" or p.name == "marketplace.json")
+              if p.is_file() and (p.suffix == ".zip" or p.name == "marketplace.json" or p.name.endswith("-megaprompt.md"))
           )
           with (dist / "checksums-sha256.txt").open("w", encoding="utf-8") as fh:
               for path in assets:
@@ -198,7 +216,7 @@ jobs:
             else
               sleep 2
             fi
-          done < <(find dist -maxdepth 1 -type f \( -name '*.zip' -o -name 'marketplace.json' -o -name 'checksums-sha256.txt' \) | sort)
+          done < <(find dist -maxdepth 1 -type f \( -name '*.zip' -o -name '*-megaprompt.md' -o -name 'marketplace.json' -o -name 'checksums-sha256.txt' \) | sort)
 
       - name: Release-Assets remote verifizieren
         if: steps.tagref.outputs.tag != ''

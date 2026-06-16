@@ -135,7 +135,8 @@ Automatisch generierte Komplett-Liste aller 77 Skills in diesem Plugin. Beschrei
 
 Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
 
-- **Direkt-Download**: [`fachanwalt-internationales-wirtschaftsrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/fachanwalt-internationales-wirtschaftsrecht.md) (50 KB)
+- **Direkt als Datei herunterladen** (empfohlen): [`fachanwalt-internationales-wirtschaftsrecht-megaprompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-internationales-wirtschaftsrecht-megaprompt.md) (88 KB) — Release-Asset, wird vom Browser als Datei gespeichert.
+- Im Browser ansehen: [`fachanwalt-internationales-wirtschaftsrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/fachanwalt-internationales-wirtschaftsrecht.md) — wird als Text gerendert, nicht heruntergeladen.
 - Im Repo: [`testakten/megaprompts/fachanwalt-internationales-wirtschaftsrecht.md`](../testakten/megaprompts/fachanwalt-internationales-wirtschaftsrecht.md)
 
 *Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*
