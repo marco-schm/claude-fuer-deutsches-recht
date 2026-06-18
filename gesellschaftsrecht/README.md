@@ -152,7 +152,7 @@ Dein Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/ge
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 106 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 107 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -251,6 +251,7 @@ Automatisch generierte Komplett-Liste aller 106 Skills in diesem Plugin. Beschre
 | `rechtsquellen-beweislast-darlegungslast` | Rechtsquellen: Beweislast, Darlegungslast und Substantiierung im Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse un... |
 | `schriftliche-beschlussfassung` | Entwirft Beschlüsse im schriftlichen Verfahren (§ 48 Abs. 2 GmbHG) oder Umlaufbeschlüsse im Hausstil mit Präzedenzsuche im Beschlussarchiv. Bei der AG: Hinweis, dass HV-Beschlüsse Präsenz oder virtuelle HV (§ 118a AktG) erfordern und not... |
 | `spezial-closing-livequellen-und-rechtsprechungscheck` | Closing: Livequellen- und Rechtsprechungscheck. |
+| `tabellenpruefung` | Tabellarische Vertrags- und Datenraumpruefung im Gesellschaftsrecht: Dokumente in Spaltenlogik, Quellenzitate, Ampelstatus und Excel-/Google-Sheets-Ausgabe ueberfuehren; besonders fuer Cap Table, Gesellschafterliste, SHA, Beteiligungsstr... |
 | `tabellenpruefung-cap-table` | 'Tabellarisches Vertragsreview als Prompt-Matrix — pro Spalte ein Extraktionsprompt (was wird gefragt), pro Zeile ein dokumentspezifischer Prompt (wie wird dieses Dokument behandelt). Eine Zeile pro Dokument, eine Spalte pro Datenpunkt,... |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Gesellschaftsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Satzung, Geschäftsführerdienstvertrag, Hauptversammlungsprotokoll), nennt pro Lücke Beweisthema, Beschaffungsweg (Handelsregister), Fr... |
 | `vollzugs-checkliste` | Vollzugscheckliste für M&A-Transaktionen nach deutschem Recht – was blockiert den Vollzug (Closing), kritischer Pfad, Tage bis Vollzug. Selbstaktualisierend: nimmt neue Einträge aus DD-Findings und Anlage-Erstellung auf. Trigger: Vollzug... |

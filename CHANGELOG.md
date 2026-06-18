@@ -1,3 +1,15 @@
+# v343.0.0 — Sanity-Sprint: tote Skill-Routen geschlossen und Routing-Platzhalter entfernt
+
+Light-touch-Bughunt nach v342:
+
+- Acht bisher nur referenzierte Werkzeug-/Reference-Ordner unter `skills/` zu echten Skills mit eigener `SKILL.md` gemacht: Anlagenkonvolut, Fluggastrechte-Anlagen, gesellschaftsrechtliche Tabellenprüfung, Fundstellenglättung, Anspruchstabelle sowie drei steuerliche BWA-/Liquiditätsvorschau-Skills.
+- Alte Routing-Platzhalter wie `` `skill-name` — [warum dieser Arbeitsgang hilft]`` in Kaltstart- und Anschluss-Skills entfernt und durch verwendbare Routing-Anweisungen ersetzt.
+- Zwei verbliebene Entstehungsgeschichte-Formulierungen in Skill-Texten bereinigt; Skills beschreiben jetzt ihre konkrete Leistung statt frühere Bündelung.
+- Megaprompts, Unified Mini Prompts, Skill-Übersichten und Plugin-READMEs regeneriert.
+- Validatoren erneut grün: Plugin-Struktur, YAML-Frontmatter, Testakten-Gesamt-PDF und `git diff --check`.
+
+---
+
 # v342.0.0 — Denkmalschutzrecht vertieft: 50 Skills, Spezial-Skills pro Bundesland, Rechtsprechungsanker
 
 Erweiterung des in v341 eingeführten Plugins `denkmalschutzrecht` um 19 weitere Skills:

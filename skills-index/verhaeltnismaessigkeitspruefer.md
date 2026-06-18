@@ -1,6 +1,6 @@
 # verhaeltnismaessigkeitspruefer
 
-**85 Skills** · Stand `v342.0.0`
+**85 Skills** · Stand `v343.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verhaeltnismaessigkeitspruefer/README.md)

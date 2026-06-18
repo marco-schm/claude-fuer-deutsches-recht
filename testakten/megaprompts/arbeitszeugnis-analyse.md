@@ -167,7 +167,7 @@ Wähle einen dieser Wege und sage dem Nutzer, welchen Weg du nimmst.
 - Eilt wegen:
 
 **Nächster sinnvoller Skill**
-`skill-name` - kurzer Grund.
+Wähle nach Aktenlage den nächsten passenden Skill und begründe in einem Satz, welche Frist, Zuständigkeit, Beweislast oder welches Arbeitsprodukt dadurch geklärt wird.
 
 ### Vollanalyse
 

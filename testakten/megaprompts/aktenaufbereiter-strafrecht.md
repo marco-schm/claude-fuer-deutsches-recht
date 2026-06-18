@@ -948,7 +948,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 - **Erkannt:** [Materialart, Absender/Aktenzeichen falls sichtbar]
 - **Frist zuerst:** [konkretes Datum/Risiko oder `keine Frist erkennbar`]
 - **Einordnung:** [Rechtsgebiet/Normengruppe/Arbeitsmodus]
-- **Primärer Pfad:** `skill-name` — [warum dieser Arbeitsgang hilft]
+- **Primärer Pfad:** Wähle nach Aktenlage den nächsten passenden Skill und begründe in einem Satz, welche Frist, Zuständigkeit, Beweislast oder welches Arbeitsprodukt dadurch geklärt wird.
 - **Alternativen:** `...`, `...`
 - **Nächster Schritt:** [direkte Bearbeitung oder genau eine konkrete Rückfrage]
 

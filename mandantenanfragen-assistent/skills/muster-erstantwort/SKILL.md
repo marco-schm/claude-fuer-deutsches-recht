@@ -15,7 +15,7 @@ description: "Kanzlei benoetigt fertige ausfuellbare Vorlage für die Erstantwor
 
 ## Spezialwissen
 
-Dieser Skill enthält das vollständige Komplett-Musterschreiben für die Erstantwort auf Mandantenanfragen. Es ist für den direkten Copy-paste-Einsatz durch das Sekretariat konzipiert.
+Die Erstantwort besteht aus einem sofort versandfähigen Musterschreiben für das Kanzlei-Sekretariat: Sie bestätigt den Eingang, vermeidet eine versehentliche Mandatsannahme, weist auf den noch fehlenden Beratungsvertrag hin und führt die anfragende Person geordnet zu Terminvereinbarung, Sachverhaltsschilderung, Interessenkonfliktprüfung und Kostenhinweis.
 
 Alle Platzhalter in eckigen Klammern `[...]` werden durch den Skill `telefon-konfiguration` und `anrede-uebernehmen` automatisch befüllt oder sind manuell zu ersetzen.
 

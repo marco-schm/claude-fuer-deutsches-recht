@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v342.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v343.0.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -12,7 +12,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [aktenaufbereiter-strafrecht](./aktenaufbereiter-strafrecht.md) (59 Skills)
 - [aktenauszug-gerichtsverfahren](./aktenauszug-gerichtsverfahren.md) (58 Skills)
 - [aktienrecht-hauptversammlung-ag-se](./aktienrecht-hauptversammlung-ag-se.md) (100 Skills)
-- [anlagen-zu-schriftsaetzen](./anlagen-zu-schriftsaetzen.md) (115 Skills)
+- [anlagen-zu-schriftsaetzen](./anlagen-zu-schriftsaetzen.md) (116 Skills)
 - [apothekenrecht](./apothekenrecht.md) (65 Skills)
 - [arbeitsrecht](./arbeitsrecht.md) (98 Skills)
 - [arbeitszeugnis-analyse](./arbeitszeugnis-analyse.md) (50 Skills)
@@ -84,7 +84,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [fahrgastrechte](./fahrgastrechte.md) (13 Skills)
 - [fashion-law-moderecht](./fashion-law-moderecht.md) (50 Skills)
 - [festlandchina-wirtschaftsverkehr](./festlandchina-wirtschaftsverkehr.md) (198 Skills)
-- [fluggastrechte](./fluggastrechte.md) (86 Skills)
+- [fluggastrechte](./fluggastrechte.md) (87 Skills)
 - [forderungsmanagement-klagewerkstatt](./forderungsmanagement-klagewerkstatt.md) (83 Skills)
 - [forschungszulage-antragstellung](./forschungszulage-antragstellung.md) (84 Skills)
 - [fortbestehensprognose](./fortbestehensprognose.md) (59 Skills)
@@ -92,7 +92,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [gebrauchsmusterrecht](./gebrauchsmusterrecht.md) (50 Skills)
 - [geldwaeschepraevention-aml-kyc](./geldwaeschepraevention-aml-kyc.md) (57 Skills)
 - [gesellschaftsgruender](./gesellschaftsgruender.md) (104 Skills)
-- [gesellschaftsrecht](./gesellschaftsrecht.md) (106 Skills)
+- [gesellschaftsrecht](./gesellschaftsrecht.md) (107 Skills)
 - [gesellschaftsrecht-legal-english](./gesellschaftsrecht-legal-english.md) (53 Skills)
 - [gesellschaftsrechtliche-treuepflicht](./gesellschaftsrechtliche-treuepflicht.md) (100 Skills)
 - [gewerblicher-rechtsschutz](./gewerblicher-rechtsschutz.md) (93 Skills)
@@ -121,7 +121,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [juristische-sprache-deutsch-als-zweitsprache](./juristische-sprache-deutsch-als-zweitsprache.md) (55 Skills)
 - [jveg-kostenpruefer](./jveg-kostenpruefer.md) (60 Skills)
 - [kanzlei-allgemein](./kanzlei-allgemein.md) (51 Skills)
-- [kanzlei-builder-hub](./kanzlei-builder-hub.md) (58 Skills)
+- [kanzlei-builder-hub](./kanzlei-builder-hub.md) (59 Skills)
 - [kanzlei-management](./kanzlei-management.md) (100 Skills)
 - [kanzlei-mandant-lifecycle](./kanzlei-mandant-lifecycle.md) (115 Skills)
 - [kartellrecht-marktabgrenzung-pruefung](./kartellrecht-marktabgrenzung-pruefung.md) (309 Skills)
@@ -162,7 +162,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [preussisches-allgemeines-landrecht-pralr](./preussisches-allgemeines-landrecht-pralr.md) (462 Skills)
 - [private-equity-praxis](./private-equity-praxis.md) (108 Skills)
 - [produktrecht](./produktrecht.md) (69 Skills)
-- [prozessrecht](./prozessrecht.md) (62 Skills)
+- [prozessrecht](./prozessrecht.md) (63 Skills)
 - [pruefungsrecht-hochschule](./pruefungsrecht-hochschule.md) (108 Skills)
 - [rechtsberatungsstelle](./rechtsberatungsstelle.md) (59 Skills)
 - [rechtstheorie-rechtsphilosophie](./rechtstheorie-rechtsphilosophie.md) (64 Skills)
@@ -183,7 +183,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [staatsanwaltschaft-praxis-einstieg](./staatsanwaltschaft-praxis-einstieg.md) (142 Skills)
 - [startup-hr-personalabteilung-berlin](./startup-hr-personalabteilung-berlin.md) (111 Skills)
 - [status-navigator-step-plan](./status-navigator-step-plan.md) (35 Skills)
-- [steuerrecht-anwalt-und-berater](./steuerrecht-anwalt-und-berater.md) (381 Skills)
+- [steuerrecht-anwalt-und-berater](./steuerrecht-anwalt-und-berater.md) (384 Skills)
 - [strafanzeige-vorbereiter](./strafanzeige-vorbereiter.md) (56 Skills)
 - [strafbefehl-verteidiger](./strafbefehl-verteidiger.md) (60 Skills)
 - [strafzumessung](./strafzumessung.md) (60 Skills)

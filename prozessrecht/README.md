@@ -114,12 +114,13 @@ Alle Ausgaben des Plugins sind **Entwürfe zur anwaltlichen Prüfung**. Das Plug
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 62 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 63 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `amtlicher-zpo-proz-bauleiter-eilverfahren` | Amtlicher ZPO-Verfahrenscheck: ordnet Zuständigkeit, Schriftsatzform, Zustellung, Fristen, Klage, Beweis, Mahnverfahren, Vollstreckung, Arrest und einstweilige Verfügung anhand der aktuellen ZPO-Fassung im Prozessrecht. |
 | `anschluss-routing` | Anschluss-Routing für Prozessrecht (ZPO/VwGO/StPO/SGG): wählt den nächsten Spezial-Skill nach Engpass (Berufung 1 Mon. § 517 ZPO, Klageschrift, Klageerwiderung, Schriftsätze), dokumentiert Router-Entscheidung mit Begründung. |
+| `anspruchstabelle` | Anspruchstabelle fuer Zivilprozesse erstellen: Anspruchsgrundlagen, Tatsachen, Beweisangebote, Einwendungen, Fristen, Streitwert und Schriftsatzfundstellen tabellarisch ordnen und in eine prozessuale Arbeitsliste ueberfuehren. |
 | `anspruchstabelle-beweislast` | Anspruchstabelle für zivilprozessuales Mandat erstellen: alle Ansprüche und Gegenansprüche tabellarisch erfassen. Normen: §§ 253 261 ZPO. Prüfraster: Anspruchsgrundlage, Betrag, Verjaebrung, Beweisstatus. Output: Anspruchstabelle als Gru... |
 | `anspruchstabelle-gegenseite-interessen` | Anspruchstabelle: Compliance-Dokumentation und Aktenvermerk im Prozessrecht. |
 | `anwaltsgeheimnis-pruefung` | Anwaltsgeheimnis und Verschwiegenheitspflicht bei Weitergabe von Mandatsinformationen prüfen. Normen: § 43a BRAO, § 203 StGB, § 102 ZPO. Prüfraster: Offenbarungsbefugnis, Zeugnisverweigerungsrecht, strafrechtliche Grenzen. Output: Prüfer... |

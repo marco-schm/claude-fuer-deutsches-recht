@@ -150,7 +150,7 @@ Das Kanzleiprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/ka
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -170,6 +170,7 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `einstieg-routing` | Einstieg, Triage und Routing für Kanzlei-Builder-Hub (Plugins/Skills): ordnet Rolle (Kanzleiinhaber, IT-Verantwortlicher, Mitarbeitende), markiert Frist (keine harten Fristen), wählt Norm (BRAO § 43e KI-Einsatz, DSGVO, KI-VO) und Zuständ... |
 | `findet-gate-installiert` | Findet: Erstprüfung, Rollenklärung und Mandatsziel. |
 | `fristen-risikoampel-mandantenkommunikation` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Kanzlei Builder Hub. |
+| `fundstellenglattzieher` | Fundstellen und Zitate in deutschen Rechtstexten glätten: Normzitate, Gerichtsentscheidungen, Aktenzeichen, Zeitschriftenfundstellen und Quellenwarnungen vereinheitlichen, ohne BeckRS-/juris-Blindzitate oder erfundene Rechtsprechung zu e... |
 | `gate-behoerden-gericht-und-registerweg` | Gate: Behörden-, Gerichts- oder Registerweg. |
 | `grosskanzlei-rollout-thema-prozesse-abbilden` | Grosskanzlei-Rollout: Pilotphase, Rollout-Welle, Trainings, Governance, Approval-für Skill-Eintraege, Audit-Trail, Datenschutz-Folgenabschaetzung. Mustertexte und Roadmap im Kanzlei Builder Hub. |
 | `installiert-tatbestand-beweis-und-belege` | Installiert: Tatbestandsmerkmale, Beweisfragen und Beleglage. |

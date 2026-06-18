@@ -219,7 +219,7 @@ Skills für Steuerberater und GmbH-Geschäftsleitung — BWA-/SuSa-/Bilanzprüfu
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 381 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 384 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -555,6 +555,9 @@ Automatisch generierte Komplett-Liste aller 381 Skills in diesem Plugin. Beschre
 | `stb-bwa-kontenrahmen-skr03-skr04` | Vergleich Kontenrahmen SKR 03 versus SKR 04 für BWA-Erstellung. Anwendungsfall Mandantenneuaufnahme oder Wechsel des Kontenrahmens Entscheidungsgrundlage Industrie Handel Dienstleistung. Aufbau Bilanz vs Prozess Gliederung GKV vs UKV. Ou... |
 | `stb-bwa-mandantengespraech-uebergabe` | BWA-Übergabegespraech mit dem Mandanten. Anwendungsfall persoenliche oder telefonische Besprechung der monatlichen oder quartalsweisen BWA mit dem GF Klaerung der Abweichungen Steuerungsempfehlungen Risikoeskalation. Methodik Vorbereitun... |
 | `stb-bwa-monatsabschluss-routine` | Routine für den Monatsabschluss in der Steuerberater-Kanzlei. Anwendungsfall monatliche BWA-Erstellung in einem standardisierten 30-Tage-Zyklus mit Belegabgabe Buchung Abstimmung BWA-Versand. Schritte Belegannahme Buchung GoBD-konform OP... |
+| `stb-bwa-sus-bilanz-pruefung` | BWA, SuSa und Bilanzentwurf auf Krisensignale pruefen: Zahlungsunfaehigkeit, Ueberschuldung, Fortbestehensprognose, StaRUG-Hinweispflichten und steuerberaterliche Dokumentation mit konkretem Eskalationsvermerk. |
+| `stb-liquiditaetsvorschau-3-6-12-monate` | Rollierende Liquiditaetsvorschau fuer 3/6/12 Monate erstellen: Bankstaende, OPOS, Steuerfaelligkeiten, Lohn, Sozialversicherung, Linien, Sanierungsbeitraege und IDW-S-6-nahe Fortfuehrungslogik in Wochenraster und Ampel ueberfuehren. |
+| `stb-liquiditaetsvorschau-3wochen` | Drei-Wochen-Liquiditaetsvorschau fuer § 17 InsO vorpruefen: faellige Verbindlichkeiten, liquide Mittel, freie Kreditlinien, kurzfristige Zahlungseingaenge und Steuer-/SV-Rueckstaende zu einer akuten Zahlungsfaehigkeitsampel verdichten. |
 | `stb-lohn-arbeitsvertrag-pruefung-lohn-relevant` | Arbeitsvertrag aus lohnrelevanter Sicht prüfen. Anwendungsfall Onboarding neuer AN Vertragsaenderungen Stundenlohn Festgehalt Sonderverguetungen Sachbezuege Dienstwagen JobRad bAV Vermögenswirksame Leistungen. Methodik Prüfraster lohnste... |
 | `stb-lohn-betriebsausfluege-aufmerksamkeiten-60-euro` | Aufmerksamkeiten 60 EUR-Freigrenze pro persoenlichem Anlass. Anwendungsfall Sachgeschenk zu Geburtstag Hochzeit Jubilaeum 60 EUR Hoechstwert LSt-frei. Methodik Abgrenzung zur 50 EUR-Sachbezugs-Freigrenze. Output korrekte Lohn-Behandlung... |
 | `stb-lohn-gesellschafter-geschaeftsfuehrer-sv` | Gesellschafter-Geschäftsführer GGF SV-Pflicht oder SV-Befreiung. Anwendungsfall Prüfung GGF einer GmbH ob abhaengig beschaeftigt oder selbständig tätig Statusfeststellung. Methodik Kriterienkatalog Beteiligung Weisungsgebundenheit Sperrm... |

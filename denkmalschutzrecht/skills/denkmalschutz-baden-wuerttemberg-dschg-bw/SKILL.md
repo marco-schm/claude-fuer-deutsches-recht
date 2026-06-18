@@ -7,7 +7,7 @@ description: "Denkmalschutzrecht Baden-Württemberg nach dem Gesetz zum Schutz d
 
 ## Zweck und Anwendungsfall
 
-Baden-Württemberg unterscheidet Kulturdenkmale und besondere Kulturdenkmale; die Eintragung in das Denkmalbuch ist nachrichtlich für Kulturdenkmale und konstitutiv für besondere Kulturdenkmale. Dieser Skill bündelt die zuständigen Behörden, die Verfahrenswege und die Norm-Anker des DSchG-BW.
+Baden-Württemberg unterscheidet Kulturdenkmale und besondere Kulturdenkmale; die Eintragung in das Denkmalbuch ist nachrichtlich für Kulturdenkmale und konstitutiv für besondere Kulturdenkmale. Die Bearbeitung führt von der Objektkategorie über die zuständige untere Denkmalschutzbehörde und die Fachbehörde beim Landesamt für Denkmalpflege bis zum Erlaubnisverfahren nach DSchG-BW und zur gesonderten Prüfung, ob eine Gesamtanlage, Sachgesamtheit oder ein besonderes Kulturdenkmal betroffen ist.
 
 ## Anwendbares Gesetz
 

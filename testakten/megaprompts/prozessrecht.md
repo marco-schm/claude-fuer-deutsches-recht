@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 62 Skills des Plugins `prozessrecht`.
+Dieser Megaprompt enthaelt top-10 von 63 Skills des Plugins `prozessrecht`.
 
 ## Inhaltsverzeichnis
 

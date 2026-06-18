@@ -97,7 +97,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 115 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -136,6 +136,7 @@ Automatisch generierte Komplett-Liste aller 115 Skills in diesem Plugin. Beschre
 | `anlagen-uebergabe-an-assistenz-und-legal-tech` | Erzeugt klare Arbeitsanweisungen für Kanzleiteam, Assistenz, Legal Tech oder externen Dienstleister: was umbenennen, scannen, stempeln, schwärzen, prüfen. |
 | `anlagen-uebersetzungspflicht` | Fremdsprachige Anlagen: Übersetzungspflicht § 184 GVG. Beglaubigte oder einfache Übersetzung? Gericht kann Übersetzung verlangen oder Ablehnung der Beruecksichtigung androhen. Empfehlung: bei zentralen Urkunden beglaubigte Übersetzung; b... |
 | `anlagen-vorlagepflicht-141-zpo` | Anordnung der Urkundenvorlage nach § 142 ZPO und § 421 ZPO: wann kann das Gericht die Vorlage einer Urkunde anordnen, wann hat ein Beweisfuehrer Anspruch auf Vorlage durch den Gegner. Prüfraster, Antragsformulierung und Folgen Nichtvorla... |
+| `anlagen-zu-schriftsaetzen` | Anlagenkonvolut fuer Schriftsaetze bauen: Anlagen aus Aktenordnern erfassen, K- oder B-Anlagennummern vergeben, Reihenfolge am Schriftsatz pruefen, Belegluecken markieren und mit dem Werkzeug build_anlagenkonvolut.py ein gerichtstauglich... |
 | `anlagen-zur-substantiierung-pflicht` | Anlagen ersetzen keine Substantiierung im Schriftsatz: 'wegen der weiteren Einzelheiten wird auf Anlage K5 verwiesen' ist nicht ausreichend (BGH X ZR 39/16). Prüfraster: Welche Behauptung wird substanziiert, welche durch Anlage nur beleg... |
 | `anlagenband-strukturieren` | Anlagenband strukturieren: Trennblaetter, Inhaltsverzeichnis, Reihenfolge nach Schriftsatzbezug, durchgehende Foliierung. Anweisung für Kanzleimitarbeiter zur physischen oder elektronischen Erstellung. Fuer beA-Versand zusaetzlich ein du... |
 | `anlagenband-strukturieren-anlagenbezug` | Anlagenband strukturieren: Trennblaetter, Inhaltsverzeichnis, Reihenfolge nach Schriftsatzbezug, durchgehende Foliierung. Anweisung für Kanzleimitarbeiter zur physischen oder elektronischen Erstellung. Fuer beA-Versand zusaetzlich ein du... |

@@ -59,7 +59,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 86 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 87 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -97,6 +97,7 @@ Automatisch generierte Komplett-Liste aller 86 Skills in diesem Plugin. Beschrei
 | `flug-ausserordentlicher-umstand-leitfaden` | Leitfaden ausserordentlicher Umstand: EuGH-Kasuistik Streik / Wetter / technischer Defekt, Beweislast Airline, zumutbare Maßnahmen. Prüfraster für Klägeranwalt. |
 | `flug-massenklage-einfuehrung-vo` | Spezialfall Massenklage und Prozessfinanzierung in Fluggastrechten: Abtretung, Inkasso-Modelle, RDG-Grenzen, Anti-Claim-Klausel. Prüfraster für Verbraucher und Legal-Tech im Fluggastrechte. |
 | `flug-massenklage-prozessfinanzierung-spezial` | Spezialfall Massenklage und Prozessfinanzierung in Fluggastrechten: Abtretung, Inkasso-Modelle, RDG-Grenzen, Anti-Claim-Klausel. Prüfraster für Verbraucher und Legal-Tech. |
+| `fluggastrechte-anlagen-bauen` | BeA-faehiges Anlagenkonvolut fuer Fluggastrechte-Mandate: Buchung, Boardingpass, Fluginformation, Airline-Korrespondenz, Ersatzbelege und Vollmacht in K-Anlagen ordnen, stempeln und als PDF-Paket zum Forderungsschreiben oder zur Klage vo... |
 | `forderungsschreiben-airline` | Forderungsschreiben: Formular, Portal und Einreichungslogik im Fluggastrechte: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Sch... |
 | `forderungsschreiben-erste-stufe` | Prüfungslinie für forderungsschreiben erste stufe im Fluggastrechte. |
 | `forderungsschreiben-formular-portal-und-einreichung` | Forderungsschreiben: Formular, Portal und Einreichungslogik im Fluggastrechte. |
