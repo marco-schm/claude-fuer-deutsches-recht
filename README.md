@@ -50,7 +50,7 @@ Gilt für alle Vorlagen, Verträge, Memos, Schriftsätze und sonstigen Dokumente
 | **Skills (SKILL.md)** | 25673 — [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 207 |
 | **Fachanwalts-/-anwältinnen-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v334.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v335.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
