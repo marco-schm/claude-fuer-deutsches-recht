@@ -1,10 +1,10 @@
 # Eval-Results
 
-Stand: 2026-06-16T13:25:01Z
+Stand: 2026-06-18T16:04:36Z
 
-- Testakten gesamt: **206**
-- mit Rubric: **204**
-- All-Pass (alle Checks bestanden, ohne human_review): **204**
+- Testakten gesamt: **208**
+- mit Rubric: **205**
+- All-Pass (alle Checks bestanden, ohne human_review): **205**
 
 ## Detail pro Akte (nur Akten mit Rubric)
 
@@ -199,6 +199,7 @@ Stand: 2026-06-16T13:25:01Z
 | `verkehrsunfall-quotenstreit-tannenbruck-a45` | PASS | 3 | 0 | 1 |
 | `verlagsrecht-buchpreisbindung-fachverlag-lilienfeld` | PASS | 3 | 0 | 1 |
 | `verlagsredaktion-morgenlage-fachverlag` | PASS | 3 | 0 | 1 |
+| `versausgleich-haerte-bgh-schaefer-nuernberg` | PASS | 10 | 0 | 2 |
 | `vertragsausfueller-bsag-kiosk-huckelriede` | PASS | 3 | 0 | 1 |
 | `vollstreckungsmappe-mueller-sparkasse-niederrhein` | PASS | 3 | 0 | 1 |
 | `wahlkampfrecht-landtagswahl-morgenstadt-2026` | PASS | 3 | 0 | 1 |

@@ -1,3 +1,27 @@
+# v340.0.0 — Stale-Versions-Sanity-Tweak
+
+Schlanker Glattzug nach v339:
+
+- `testakten/README.md`: `Stand v338.0.0` → `Stand v340.0.0`
+- `ASSET_INDEX.md`: `Stand: v326.0.0` → `Stand: v340.0.0` (war seit vielen Releases nicht mehr mitgezogen)
+- `TESTBERICHT.md`: Arbeitsstand-Header auf v340.0.0 nachgezogen; Plugin-/Skill-/Testakten-Zahlen auf 214 / 25673 / 208 aktualisiert
+- 214 `plugin.json` und `marketplace.json` von Version 339 auf 340 gebumpt
+
+## Sanity-Bilanz
+
+| Bereich | Stand |
+|---|---|
+| Plugins | 214 |
+| Skills | 25.673 |
+| Megaprompts | 214 (für jedes Plugin) |
+| Testakten | 208 gelistet, 205 mit Rubric, 206 mit Gesamt-PDF |
+| Eval-Harness | 205/205 All-Pass, 0 Fail |
+| `validate-plugin-structure.mjs` | OK |
+| `validate-yaml-frontmatter.py` | 0 Fehler, 0 Warnungen |
+| Versions-Stand durchgängig | v340.0.0 |
+
+---
+
 # v339.0.0 — Zehnfacher Sanity-Sweep und kleine juristische Politur
 
 ## Zehn Prüfrunden
