@@ -1,6 +1,6 @@
 # sozialversicherungsstatus-pruefer
 
-**101 Skills** · Stand `v341.0.0`
+**101 Skills** · Stand `v342.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/sozialversicherungsstatus-pruefer/README.md)

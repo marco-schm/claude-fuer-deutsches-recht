@@ -1,3 +1,56 @@
+# v342.0.0 — Denkmalschutzrecht vertieft: 50 Skills, Spezial-Skills pro Bundesland, Rechtsprechungsanker
+
+Erweiterung des in v341 eingeführten Plugins `denkmalschutzrecht` um 19 weitere Skills:
+
+## Neue Querschnittsskills (3)
+
+- `rechtsprechungsanker-denkmalrecht` — kuratierte BVerfG-, BVerwG- und OVG-Linien mit konsequenter Live-Verifikations-Pflicht für jede Aktenzeichenangabe.
+- `bauordnungsrechtliche-schnittstelle` — Verhältnis von Baugenehmigung und denkmalrechtlicher Erlaubnis; Konzentrationswirkung, eigenständiges Erlaubnisverfahren, Bauplanungsrecht (§§ 1 Abs. 6 Nr. 5 BauGB, 172 BauGB).
+- `bussgeld-ordnungswidrigkeitsverfahren` — Sanktionsregime der Landesgesetze, OWiG-Schnittstelle, Strafrechtsschnittstelle nach § 304 StGB; Verteidigungslinien.
+
+## Neue Bundesländer-Spezialskills (16)
+
+Pro Bundesland ein vertiefender Skill zur jeweils prägenden Konstellation:
+
+| Bundesland | Spezial-Thema |
+|---|---|
+| Baden-Württemberg | Sachgesamtheiten und Gesamtanlagen |
+| Bayern | Bodendenkmäler und Grabungsgenehmigung nach Art. 7 BayDSchG |
+| Berlin | Stadtmauer und Berliner Mauerweg als Erinnerungsort |
+| Brandenburg | Schlösser und Gutsanlagen mit Restitutionsfragen |
+| Bremen | Rathaus und Roland (UNESCO-Welterbe seit 2004) |
+| Hamburg | Speicherstadt und Kontorhausviertel (Welterbe 2015) |
+| Hessen | Limes, Bergpark Wilhelmshöhe, Grube Messel |
+| Mecklenburg-Vorpommern | Backsteingotik Stralsund / Wismar |
+| Niedersachsen | Wattenmeer und Fagus-Werk |
+| Nordrhein-Westfalen | Zollverein und Industriekultur |
+| Rheinland-Pfalz | Mittelrheintal und SchUM-Stätten |
+| Saarland | Völklinger Hütte |
+| Sachsen | Montanregion Erzgebirge / Muskauer Park (grenzüberschreitend) |
+| Sachsen-Anhalt | Bauhaus / Quedlinburg / Lutherstätten |
+| Schleswig-Holstein | Lübeck, Haithabu-Danewerk, Wattenmeer |
+| Thüringen | Wartburg, Klassisches Weimar, Bauhaus, jüdisch-mittelalterliches Erfurt |
+
+## Sanity-Bilanz
+
+| Bereich | Stand |
+|---|---|
+| Plugins | 215 |
+| Skills gesamt | 25.723 (vorher 25.704) |
+| Skills im Plugin `denkmalschutzrecht` | **50** (vorher 31) |
+| Megaprompts | 215 (denkmalschutzrecht jetzt ~85 KB) |
+| Unified Mini Prompts | 215 |
+| Testakten | 208 gelistet, 205 mit Rubric, 206 mit Gesamt-PDF |
+| Eval-Harness | 205/205 All-Pass |
+| Validatoren | beide grün |
+| Versions-Stand | v342.0.0 |
+
+## Quellenhygiene
+
+Sämtliche Rechtsprechungsanker im neuen `rechtsprechungsanker-denkmalrecht`-Skill sind als Familien beschrieben (BVerfG-Linie zum Rheinland-Pfalz-Beschluss, BVerwG-Linien zum Denkmalbegriff und zum Umgebungsschutz, OVG-Familien zur Zumutbarkeit), nicht mit halluzinierten Einzelaktenzeichen. Live-Verifikation in den amtlichen Entscheidungsdatenbanken ist Pflicht.
+
+---
+
 # v341.0.0 — Neues Plugin: Denkmalschutzrecht (215 Plugins, 31 Skills)
 
 Neues Plugin `denkmalschutzrecht` mit 31 Skills, strukturiert in drei Schichten:

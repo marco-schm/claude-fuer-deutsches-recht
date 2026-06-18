@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 31 Skills des Plugins `denkmalschutzrecht`.
+Dieser Megaprompt enthaelt top-15 von 50 Skills des Plugins `denkmalschutzrecht`.
 
 ## Inhaltsverzeichnis
 
@@ -12,15 +12,15 @@ Dieser Megaprompt enthaelt top-15 von 31 Skills des Plugins `denkmalschutzrecht`
 4. **unesco-welterbe-und-icomos** — Welterbestätten in Deutschland: völkerrechtlicher Rahmen der UNESCO-Welterbekonvention von 1972, ICOMOS-Begutachtung, Pu…
 5. **denkmalschutz-sachsen-anhalt-dschg-lsa** — Denkmalschutzrecht Sachsen-Anhalt nach dem Denkmalschutzgesetz des Landes Sachsen-Anhalt. Skill bündelt zuständige Behör…
 6. **verfahrensgrundsaetze-vwvfg** — Verwaltungsverfahrensrecht im Denkmalschutz: Anhörung nach Paragraf 28 VwVfG, schriftlicher Verwaltungsakt mit Begründun…
-7. **art-73-gg-laenderzustaendigkeit** — Bundesstaatlicher Rahmen des Denkmalschutzes: Denkmalschutz ist keine konkurrierende Bundesmaterie nach Art. 73 oder 74 …
-8. **denkmalschutz-rheinland-pfalz-dschpflg** — Denkmalschutzrecht Rheinland-Pfalz nach dem Denkmalschutz- und -pflegegesetz Rheinland-Pfalz. Skill bündelt zuständige B…
-9. **denkmalschutz-niedersachsen-ndschg** — Denkmalschutzrecht Niedersachsen nach dem Niedersächsischen Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Mini…
-10. **denkmalschutz-mecklenburg-vorpommern-dschg-m-v** — Denkmalschutzrecht Mecklenburg-Vorpommern nach dem Denkmalschutzgesetz Mecklenburg-Vorpommern. Skill bündelt zuständige …
-11. **quellen-livecheck** — Quellenhygiene-Skill für das Denkmalschutzrecht-Plugin. Liefert die kuratierte Suchadressen-Liste für die sechzehn Lande…
-12. **foerderung-und-steuerliche-abschreibung** — Förderung von Denkmalsanierung: direkte Zuschüsse der Länder und Kommunen, Bundesförderung über die Beauftragte der Bund…
-13. **art-14-gg-eigentum-und-denkmalschutz** — Art. 14 GG im Denkmalschutz: die Eintragung in die Denkmalliste und die daraus folgenden Erhaltungs-, Duldungs- und Verä…
-14. **grundbegriffe-und-rechtsquellen** — Grundbegriffe des deutschen Denkmalschutzrechts: Baudenkmal, Bodendenkmal, bewegliches Denkmal, Ensemble, Welterbe, Schu…
-15. **denkmalschutz-schleswig-holstein-dschg-sh** — Denkmalschutzrecht Schleswig-Holstein nach dem Denkmalschutzgesetz Schleswig-Holstein. Skill bündelt zuständige Behörden…
+7. **rechtsprechungsanker-denkmalrecht** — Kuratierte Sammlung der zentralen Leitentscheidungen im deutschen Denkmalschutzrecht: Bundesverfassungsgericht zum Verha…
+8. **art-73-gg-laenderzustaendigkeit** — Bundesstaatlicher Rahmen des Denkmalschutzes: Denkmalschutz ist keine konkurrierende Bundesmaterie nach Art. 73 oder 74 …
+9. **denkmalschutz-rheinland-pfalz-dschpflg** — Denkmalschutzrecht Rheinland-Pfalz nach dem Denkmalschutz- und -pflegegesetz Rheinland-Pfalz. Skill bündelt zuständige B…
+10. **denkmalschutz-niedersachsen-ndschg** — Denkmalschutzrecht Niedersachsen nach dem Niedersächsischen Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Mini…
+11. **hessen-spezial-limes-bergpark-wilhelmshoehe** — Hessische Besonderheit: Obergermanisch-Raetischer Limes (Welterbe seit 2005, gemeinsam mit Bayern und Rheinland-Pfalz un…
+12. **denkmalschutz-mecklenburg-vorpommern-dschg-m-v** — Denkmalschutzrecht Mecklenburg-Vorpommern nach dem Denkmalschutzgesetz Mecklenburg-Vorpommern. Skill bündelt zuständige …
+13. **quellen-livecheck** — Quellenhygiene-Skill für das Denkmalschutzrecht-Plugin. Liefert die kuratierte Suchadressen-Liste für die sechzehn Lande…
+14. **foerderung-und-steuerliche-abschreibung** — Förderung von Denkmalsanierung: direkte Zuschüsse der Länder und Kommunen, Bundesförderung über die Beauftragte der Bund…
+15. **art-14-gg-eigentum-und-denkmalschutz** — Art. 14 GG im Denkmalschutz: die Eintragung in die Denkmalliste und die daraus folgenden Erhaltungs-, Duldungs- und Verä…
 
 ---
 
@@ -310,6 +310,52 @@ Strukturierte Stellungnahme in vollständigen Sätzen mit konkreten Norm-Ankern 
 
 ---
 
+## Skill: `rechtsprechungsanker-denkmalrecht`
+
+_Kuratierte Sammlung der zentralen Leitentscheidungen im deutschen Denkmalschutzrecht: Bundesverfassungsgericht zum Verhaeltnis von Art. 14 GG und Erhaltungspflichten, Bundesverwaltungsgericht zur konstitutiven Eintragung und zum Erlaubnisermessen, ausgewaehlte Oberverwaltungsgerichts-Linien zur Zumutbarkeit und zum Umgebungsschutz. Skill nennt Gericht, Datum und Aktenzeichen mit ausdruecklichem Live-Verifikations-Hinweis._
+
+# Rechtsprechungsanker Denkmalrecht
+
+## Bundesverfassungsgericht
+
+- **BVerfG, Beschluss vom 02.03.1999, 1 BvL 7/91, BVerfGE 100 Seite 226** — Rheinland-Pfalz-Beschluss zum DSchPflG. Tragende Aussage: Erhaltungspflichten am Baudenkmal sind Inhalts- und Schrankenbestimmung des Eigentums; bei unzumutbarer Belastung muss das Landesgesetz einen Ausgleichsmechanismus vorsehen.
+- **BVerfG-Linie zum Eigentumsgrundrecht in der Baufreiheit** — weitere Beschluesse zur Verhaeltnismaessigkeit von Veraenderungsverboten; konkrete Aktenzeichen vor Mandatsverwendung in der BVerfG-Entscheidungsdatenbank live verifizieren.
+
+## Bundesverwaltungsgericht
+
+- **BVerwG-Linien zum Begriff der Denkmaleigenschaft** — der Denkmalbegriff erfordert ein gesteigertes oeffentliches Erhaltungsinteresse; die Wertkategorien sind im Einzelfall zu pruefen. Konkrete Aktenzeichen vor Mandatsverwendung in der BVerwG-Entscheidungsdatenbank live verifizieren.
+- **BVerwG-Linien zum Umgebungsschutz** — Veraenderungen in der naeheren Umgebung beruehren das Denkmal, wenn sie das geschuetzte Erscheinungsbild beeintraechtigen; Sichtachsen und Massstabsfragen sind gerichtsfest zu pruefen.
+- **BVerwG-Linien zum Erlaubnisermessen** — die Versagung muss faktisch und rechtlich begruendet sein; pauschale Berufung auf das Denkmal genuegt nicht.
+
+## Oberverwaltungsgerichte
+
+- **OVG NRW, OVG Niedersachsen, BayVGH, VGH Baden-Wuerttemberg, OVG Hamburg, OVG Berlin-Brandenburg** — gefestigte Linien zur Zumutbarkeit der Erhaltung, zur Sachgesamtheit und zum Erlaubnisermessen. Vor Mandatsverwendung in Landesjustizportalen oder NVwZ-Volltexten live pruefen.
+
+## Methodischer Hinweis
+
+Aktenzeichen, Datum und Fundstelle werden vor jeder Ausgabe an Mandantin, Behoerde oder Gericht in der jeweiligen offiziellen Entscheidungsdatenbank (bundesverfassungsgericht.de, bverwg.de, Landesjustizportale) verifiziert. Eintragungen aus Modellwissen sind ausgeschlossen.
+
+## Ablauf / Checkliste
+
+1. Mandatsfrage juristisch praezisieren (Eigentumseingriff, Eintragung, Erlaubnisermessen, Umgebungsschutz, Bussgeld).
+2. Passende Rechtsprechungsfamilie waehlen (BVerfG, BVerwG, OVG des belegenen Landes).
+3. Konkrete Entscheidung in der offiziellen Datenbank suchen, mit Datum, Aktenzeichen und tragender Aussage notieren.
+4. Tragende Aussage in den Mandatstext einarbeiten — niemals die Entscheidung pauschal zitieren, sondern den Bezug zum konkreten Sachverhalt herstellen.
+
+## Quellenpflicht
+
+Konkrete Norm- und Rechtsprechungsanker werden vor jeder Ausgabe live in den amtlichen Datenbanken (gesetze-im-internet.de, Landesgesetz-Datenbanken, bundesverfassungsgericht.de, bverwg.de, Landesjustizportale) verifiziert; siehe references/zitierweise.md.
+
+## Ausgabeformat
+
+Strukturierte juristische Stellungnahme in vollständigen Sätzen mit konkreten Norm- und Rechtsprechungs-Ankern und ausdrücklichem Live-Verifikationshinweis pro Aktenzeichen.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
 ## Skill: `art-73-gg-laenderzustaendigkeit`
 
 _Bundesstaatlicher Rahmen des Denkmalschutzes: Denkmalschutz ist keine konkurrierende Bundesmaterie nach Art. 73 oder 74 GG, sondern nach Art. 70 GG ausschließlich Sache der Länder. Skill ordnet, welche Aspekte trotzdem bundesrechtlich überlagert sind (Eigentumsgarantie nach Art. 14 GG, Verwaltungsverfahrensrecht, Strafrecht und Ordnungswidrigkeitenrecht, steuerliche Förderung nach EStG, Grundbuch- und Bauplanungsrecht)._
@@ -473,6 +519,41 @@ Landesrechtliche Stellungnahme in vollständigen Sätzen mit konkreten Paragrafe
 ## Beispiel
 
 Erwerber eines Fachwerkhauses in der Hildesheimer Altstadt, eingetragenes Baudenkmal nahe Mariendom, plant Innendämmung und neue Heizungsanlage. Zuständig ist die Stadt Hildesheim mit fachlicher Stellungnahme des Niedersächsischen Landesamts für Denkmalpflege.
+
+---
+
+## Skill: `hessen-spezial-limes-bergpark-wilhelmshoehe`
+
+_Hessische Besonderheit: Obergermanisch-Raetischer Limes (Welterbe seit 2005, gemeinsam mit Bayern und Rheinland-Pfalz und Baden-Wuerttemberg), Bergpark Wilhelmshoehe in Kassel (Welterbe seit 2013) und Grube Messel (Welterbe seit 1995). Skill erlaeutert die Schutzpraxis im Limes-Korridor, die Grabungsregelungen, die Begleitung der Wasserspielanlagen in Kassel und die geologische Schutzpraxis der Grube Messel._
+
+# Limes und Bergpark Wilhelmshoehe als UNESCO-Welterbe in Hessen
+
+## Zweck und Anwendungsfall
+
+Dieser Skill vertieft eine landesspezifische Besonderheit, die im allgemeinen Bundesland-Skill nur kurz angerissen wird. Er liefert die juristische Tiefe für Mandate, in denen genau diese Besonderheit den Streit dominiert.
+
+## Inhaltlicher Schwerpunkt
+
+Hessen hat drei UNESCO-Welterbestaetten: Limes, Bergpark Wilhelmshoehe und Grube Messel. Der Limes erstreckt sich auf weiteren Bundeslaendern. Mandatsfaelle: Bauvorhaben auf Limes-Linie sind grundsaetzlich genehmigungspflichtig; archaeologische Voruntersuchungen werden durch das Landesamt fuer Denkmalpflege Hessen begleitet. Im Bergpark Wilhelmshoehe sind Wasserspielanlagen und Sichtachsen sensibel; in der Grube Messel gelten zudem geologische Schutzregelungen. Live-Check im Welterbe-Managementplan und im hessischen Denkmalverzeichnis.
+
+## Ablauf / Checkliste
+
+1. Klären, ob die landesspezifische Besonderheit tatsächlich einschlägig ist (Belegenheit, Eintragungsstatus, Maßnahme).
+2. Konkrete Paragrafen und gegebenenfalls Welterbe-Managementplan-Vorgaben live verifizieren.
+3. Mit dem allgemeinen Bundesland-Skill und den Querschnittsskills verzahnen.
+4. Bei Welterbestätten ICOMOS-Stellungnahmen und State of Conservation-Berichte berücksichtigen.
+
+## Quellenpflicht
+
+Norm-Anker aus der amtlichen Landesgesetz-Datenbank; Welterbe-Texte aus dem UNESCO-Welterbezentrum (whc.unesco.org); Rechtsprechung mit Gericht, Datum, Aktenzeichen, frei zugänglicher Quelle.
+
+## Ausgabeformat
+
+Juristische Stellungnahme zur landesspezifischen Besonderheit in vollständigen Sätzen mit konkreten Norm- und Welterbe-Ankern.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
@@ -684,110 +765,6 @@ Verfassungsrechtliche Argumentation in vollständigen Sätzen, die das konkrete 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
 <!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `grundbegriffe-und-rechtsquellen`
-
-_Grundbegriffe des deutschen Denkmalschutzrechts: Baudenkmal, Bodendenkmal, bewegliches Denkmal, Ensemble, Welterbe, Schutzbereich, Erhaltungssatzung. Rechtsquellen: Landesgesetze als primäres Recht, Art. 73 und Art. 14 GG als bundesstaatlicher Rahmen, Welterbekonvention und Granada-Konvention als völkerrechtlicher Hintergrund, Paragrafen 7i und 11b EStG als bundesrechtliche Förderzuweisungen._
-
-# Grundbegriffe und Rechtsquellen
-
-## Zweck und Anwendungsfall
-
-Wer im Denkmalschutzrecht arbeitet, muss zuerst die Begriffe und die Rechtsquellenpyramide klar haben. Dieser Skill ordnet Bau-, Boden-, bewegliches Denkmal, Ensemble, Erhaltungsbereich und Welterbe gegeneinander ab und benennt das Zusammenspiel von Landesrecht (Hauptregelungsschicht), Bundesrecht (Art. 14 GG, EStG-Förderung) und Völkerrecht (UNESCO-Welterbekonvention, Granada-Konvention).
-
-## Eingaben
-
-- Fragestellung des Mandats, in der ein Begriff oder eine Rechtsquellenfrage offen ist.
-- Belegenheit des Objekts.
-
-## Rechtlicher Rahmen
-
-- **Landesrecht** ist die maßgebliche Rechtsschicht für die materielle Schutzentscheidung: Eintragung, erlaubnispflichtige Maßnahmen, Bußgeldtatbestände, Enteignung, Förderzusagen des Landes.
-- **Art. 73, 74 GG** weisen den Denkmalschutz ausdrücklich nicht der konkurrierenden Bundesgesetzgebung zu; Zuständigkeit liegt nach Art. 70 GG bei den Ländern.
-- **Art. 14 GG** rahmt die Eigentumsgarantie ein: Inhalts- und Schrankenbestimmung durch das Landesgesetz, ggf. Ausgleichspflicht oder Enteignung gegen Entschädigung nach Art. 14 Abs. 3 GG.
-- **Paragraf 7i EStG** erlaubt die erhöhte Absetzung von Herstellungskosten bei Baudenkmälern (Vermietung); **Paragraf 11b EStG** gilt für Sonderausgaben bei selbstgenutzten Baudenkmälern; **Paragrafen 10f, 10g EStG** ergänzen den Rahmen.
-- **UNESCO-Welterbekonvention 1972**, Bundesgesetzblatt 1977 II Seite 213, durch Deutschland 1976 ratifiziert; **Granada-Konvention 1985** (Schutz des architektonischen Erbes Europas) ergänzt den Rahmen.
-
-## Ablauf / Checkliste
-
-1. Begriff im Mandat identifizieren und gegen die jeweilige Legaldefinition im Landesgesetz prüfen.
-2. Rechtsquellenebene zuordnen: Welche Norm regelt die Frage — Landesgesetz, Bundesrecht oder Völkerrecht.
-3. Bei steuerlichen Fragen Paragrafen 7i, 10f, 10g, 11b EStG mit dem aktuellen Anwendungserlass und der Bescheinigung der Denkmalbehörde abgleichen.
-4. Bei Welterbestätten zusätzlich Pufferzone, Managementplan und Berichtspflicht beachten.
-
-## Quellenpflicht
-
-Begriffsdefinitionen aus dem konkret anwendbaren Landesgesetz zitieren. EStG-Paragrafen aus gesetze-im-internet.de. Konventionstexte aus der amtlichen Bundesgesetzblatt-Fundstelle. Siehe references/zitierweise.md.
-
-## Ausgabeformat
-
-Begriffsbestimmung mit Quelle und Bezug auf die Mandatsfrage in vollständigen Sätzen.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `denkmalschutz-schleswig-holstein-dschg-sh`
-
-_Denkmalschutzrecht Schleswig-Holstein nach dem Denkmalschutzgesetz Schleswig-Holstein. Skill bündelt zuständige Behörden (Ministerium für Allgemeine und Berufliche Bildung, Wissenschaft, Forschung und Kultur; Landesamt für Denkmalpflege Schleswig-Holstein in Kiel; Untere Denkmalschutzbehörden bei den Kreisen und kreisfreien Städten) und die Reform des nachrichtlichen Eintragungsmodells._
-
-# Denkmalschutz Schleswig-Holstein (DSchG-SH)
-
-## Zweck und Anwendungsfall
-
-Schleswig-Holstein hat das DSchG mehrfach novelliert; die Eintragung wirkt jetzt nachrichtlich. Welterbestätten Lübeck und Haithabu prägen die Verfahrenspraxis; die Wattenmeer-Welterbestätte erstreckt sich auf Schleswig-Holstein.
-
-## Anwendbares Gesetz
-
-- **Gesetzesbezeichnung**: Denkmalschutzgesetz Schleswig-Holstein
-- **Abkürzung**: DSchG-SH
-- **Zitiergrundlage**: amtliche Landesgesetz-Datenbank gesetze-rechtsprechung.sh.juris.de
-
-## Zuständige Behörden
-
-- **Oberste Denkmalschutzbehörde**: Ministerium für Allgemeine und Berufliche Bildung, Wissenschaft, Forschung und Kultur
-- **Obere Denkmalschutzbehörde**: Landesamt für Denkmalpflege Schleswig-Holstein in Kiel (zugleich Fachbehörde)
-- **Untere Denkmalschutzbehörde**: Kreise und kreisfreie Städte (Kiel, Lübeck, Flensburg, Neumünster)
-- **Fachbehörde**: Landesamt für Denkmalpflege Schleswig-Holstein
-
-## Verfahrensbesonderheiten Schleswig-Holstein
-
-- Welterbestätten: Hansestadt Lübeck, archäologisches Grenzlandschaft Haithabu-Danewerk, Wattenmeer.
-- Backsteingotik und friesisches Bauen.
-- Maritime Denkmale in Kiel, Flensburg.
-- Bodendenkmäler in der archäologischen Grenzlandschaft (Schleimündung).
-
-## Eintragungssystem
-
-- **Systematik**: nachrichtliches Eintragungssystem
-
-## Ablauf / Checkliste
-
-1. Klären, ob das Objekt ein Bau-, Boden- oder bewegliches Denkmal ist.
-2. Eintragungsstatus über die Denkmalliste des Landes feststellen — über gesetze-rechtsprechung.sh.juris.de.
-3. Zuständige untere Denkmalschutzbehörde am Belegenheitsort kontaktieren.
-4. Bei Maßnahmen das Erlaubnisverfahren nach DSchG-SH starten; bei zugleich bauordnungsrechtlich relevanten Maßnahmen die Kombination mit der Baugenehmigung berücksichtigen.
-5. Konkrete Paragrafen vor Ausgabe live in gesetze-rechtsprechung.sh.juris.de verifizieren.
-
-## Quellenpflicht
-
-Sämtliche Paragrafenzitate werden vor Mandatsverwendung in gesetze-rechtsprechung.sh.juris.de live geprüft. Verwaltungsgerichts- und Oberverwaltungsgerichtsrechtsprechung des Landes nur mit Aktenzeichen, Datum und frei zugänglicher Fundstelle benennen.
-
-## Ausgabeformat
-
-Landesrechtliche Stellungnahme in vollständigen Sätzen mit konkreten Paragrafenverweisen aus dem Landesgesetz und den zuständigen Behörden.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Beispiel
-
-Erwerber eines Kaufmannshauses in der Lübecker Innenstadt-Welterbestätte plant Umnutzung der oberen Stockwerke als Bürofläche. Zuständig ist die Hansestadt Lübeck als untere Denkmalschutzbehörde mit fachlicher Stellungnahme des Landesamts für Denkmalpflege und ICOMOS-Berücksichtigung.
 
 ---
 

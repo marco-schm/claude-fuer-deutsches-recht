@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v341.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v342.0.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -45,7 +45,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [datenbankrecht](./datenbankrecht.md) (129 Skills)
 - [datenschutz-sanktionsverfahren-verteidigung](./datenschutz-sanktionsverfahren-verteidigung.md) (100 Skills)
 - [datenschutzrecht](./datenschutzrecht.md) (365 Skills)
-- [denkmalschutzrecht](./denkmalschutzrecht.md) (31 Skills)
+- [denkmalschutzrecht](./denkmalschutzrecht.md) (50 Skills)
 - [designrecht-geschmacksmusterrecht](./designrecht-geschmacksmusterrecht.md) (50 Skills)
 - [deutsche-rechtsgeschichte](./deutsche-rechtsgeschichte.md) (205 Skills)
 - [dfg-foerderantrag](./dfg-foerderantrag.md) (84 Skills)
