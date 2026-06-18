@@ -60,7 +60,7 @@ def build_versorgungsausgleich():
         ("Allianz Riester (Vertr. 0817 4118 22)", "Dr. M. Schaefer", "DK 18.473,42 EUR", 18473.42, "8.736,71 EUR (Kapital)", "externe Teilung § 14"),
         ("Wuerttembergische Direktvers (4471 9982 73)", "Dr. M. Schaefer", "DK 44.831,77 EUR", 44831.77, "22.165,89 EUR (Kapital)", "externe Teilung § 14"),
         ("BayLfF Beamtenversorgung Bayern", "Frau L. Schaefer", "1.850,00 EUR/Monat", 185000.00, "925,00 EUR/Monat", "interne Teilung § 10"),
-        ("DRV Bund", "Frau L. Schaefer", "12,5000 EP", 96437.50, "6,2500 EP", "interne Teilung § 10"),
+        ("DRV Bund", "Frau L. Schaefer", "5,2000 EP (ehezeitlich; 12,5000 EP gesamt)", 40118.00, "2,6000 EP", "interne Teilung § 10"),
     ]
     for i, r in enumerate(rows, start=5):
         for j, val in enumerate(r, start=1):
@@ -75,7 +75,7 @@ def build_versorgungsausgleich():
     ws.cell(row=last + 4, column=1, value="Ausgleichssumme (Kapital), Anteile Dr. M. Schaefer:")
     ws.cell(row=last + 4, column=4, value=412853.20/2 + 16842.11/2 + 8736.71 + 22165.89).number_format = "#,##0.00 [$EUR]"
     ws.cell(row=last + 5, column=1, value="Ausgleichssumme (Kapital), Anteile Frau L. Schaefer:")
-    ws.cell(row=last + 5, column=4, value=185000.00/2 + 96437.50/2).number_format = "#,##0.00 [$EUR]"
+    ws.cell(row=last + 5, column=4, value=185000.00/2 + 40118.00/2).number_format = "#,##0.00 [$EUR]"
     ws.cell(row=last + 7, column=1, value="Bei Ausschluss nach § 27 VersAusglG").font = Font(name="Calibri", size=10, bold=True, color="01696F")
     ws.cell(row=last + 8, column=1, value="Beide Anrechte bleiben in voller Hoehe beim urspruenglichen Inhaber.")
 
@@ -95,7 +95,7 @@ def build_versorgungsausgleich():
         ("Bayerische Aerzteversorgung", 4127.42, 2063.71, -2063.71, 2063.71),
         ("DRV (umgerechnet, ca.)", 75.65, 37.82, -37.82, 37.82),
         ("BayLfF Beamtenversorgung", 1850.00, 925.00, 925.00, -925.00),
-        ("DRV Bund (umgerechnet, ca.)", 433.13, 216.56, 216.56, -216.56),
+        ("DRV Bund (ehezeitlich, ca.)", 180.02, 90.01, 90.01, -90.01),
     ]
     for i, r in enumerate(sim_rows, start=4):
         for j, v in enumerate(r, start=1):
