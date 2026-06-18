@@ -1,0 +1,40 @@
+---
+name: art-14-gg-eigentum-und-denkmalschutz
+description: "Art. 14 GG im Denkmalschutz: die Eintragung in die Denkmalliste und die daraus folgenden Erhaltungs-, Duldungs- und Veränderungsverbote sind Inhalts- und Schrankenbestimmung des Eigentums. Skill erklärt Sozialbindung, Zumutbarkeitsgrenze (Rheinland-Pfalz-Beschluss BVerfGE 100 Seite 226), Ausgleichspflicht bei unzumutbarer Belastung und das Eingriffsregime nach Art. 14 Abs. 3 GG bei Enteignung."
+---
+
+# Art. 14 GG — Eigentum und Denkmalschutz
+
+## Zweck und Anwendungsfall
+
+Der Skill erklärt, warum die Eintragung und die Erlaubnispflichten verfassungsrechtlich Inhalts- und Schrankenbestimmung sind, wo die Zumutbarkeitsgrenze liegt und wann eine ausgleichspflichtige Inhaltsbestimmung oder eine Enteignung in Betracht kommt. Tragender Anker ist die Leitentscheidung des BVerfG zum Rheinland-Pfalz-Denkmalschutzgesetz.
+
+## Tragende Leitentscheidung
+
+- **BVerfG, Beschluss vom 02.03.1999, 1 BvL 7/91, BVerfGE 100 Seite 226** — Rheinland-Pfalz-Beschluss: Erhaltungspflichten am Baudenkmal sind Inhaltsbestimmung; wird die Belastung unzumutbar, muss das Landesgesetz einen Ausgleichsmechanismus vorsehen (Übernahmeanspruch, Entschädigung, finanzielle Hilfe). Fundstelle bitte vor Verwendung in der BVerfG-Entscheidungsdatenbank verifizieren.
+
+## Rechtlicher Rahmen
+
+- **Art. 14 Abs. 1 Satz 1 GG** Eigentumsgarantie; **Satz 2** Inhalts- und Schrankenbestimmung durch Gesetz.
+- **Art. 14 Abs. 2 GG** Sozialbindung; das öffentliche Interesse am Denkmalschutz ist ein anerkannter Gemeinwohlbelang.
+- **Art. 14 Abs. 3 GG** Enteignung nur durch oder aufgrund eines Gesetzes mit ausdrücklicher Regelung von Art und Ausmaß der Entschädigung. Die Landesgesetze enthalten dazu Enteignungs- und Übernahmenormen.
+- **Grenze der Zumutbarkeit:** Erhaltungspflicht und Veränderungsverbote dürfen die wirtschaftliche Nutzbarkeit nicht vollständig aufheben. Die meisten Landesgesetze kennen eine Wirtschaftlichkeitsklausel mit Übernahmeanspruch.
+
+## Ablauf / Checkliste
+
+1. Eingriffsintensität feststellen: bloße Veränderungssperre, umfassende Erhaltungspflicht, Untersagung der wirtschaftlichen Nutzung.
+2. Zumutbarkeit prüfen anhand der wirtschaftlichen Belastung gegenüber dem zu schützenden Denkmalwert; Wirtschaftlichkeitsgutachten kann erforderlich sein.
+3. Ausgleichsmechanismus im Landesgesetz prüfen (typischerweise: finanzielle Hilfen, Übernahmeanspruch, Erlaubnis trotz Schutzes).
+4. Bei behaupteter Unzumutbarkeit konkretes Begehren formulieren: Erlaubnis erteilen, Ausgleich gewähren, Übernahme verlangen.
+
+## Quellenpflicht
+
+BVerfG-Aktenzeichen und Fundstelle in der BVerfG-Entscheidungsdatenbank live verifizieren; siehe references/zitierweise.md.
+
+## Ausgabeformat
+
+Verfassungsrechtliche Argumentation in vollständigen Sätzen, die das konkrete Mandatsbegehren mit Art. 14 GG und dem Ausgleichsmechanismus des Landesgesetzes verknüpft.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->

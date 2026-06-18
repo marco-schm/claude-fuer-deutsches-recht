@@ -43,6 +43,7 @@ Die vollstaendigen Plugin-ZIPs bleiben der bessere Weg fuer Claude Code / Claude
 | `datenbankrecht` | [`datenbankrecht.md`](./datenbankrecht.md) |
 | `datenschutz-sanktionsverfahren-verteidigung` | [`datenschutz-sanktionsverfahren-verteidigung.md`](./datenschutz-sanktionsverfahren-verteidigung.md) |
 | `datenschutzrecht` | [`datenschutzrecht.md`](./datenschutzrecht.md) |
+| `denkmalschutzrecht` | [`denkmalschutzrecht.md`](./denkmalschutzrecht.md) |
 | `designrecht-geschmacksmusterrecht` | [`designrecht-geschmacksmusterrecht.md`](./designrecht-geschmacksmusterrecht.md) |
 | `deutsche-rechtsgeschichte` | [`deutsche-rechtsgeschichte.md`](./deutsche-rechtsgeschichte.md) |
 | `dfg-foerderantrag` | [`dfg-foerderantrag.md`](./dfg-foerderantrag.md) |

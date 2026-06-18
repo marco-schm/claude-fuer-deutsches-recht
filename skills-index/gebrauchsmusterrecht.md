@@ -1,6 +1,6 @@
 # gebrauchsmusterrecht
 
-**50 Skills** · Stand `v340.0.0`
+**50 Skills** · Stand `v341.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gebrauchsmusterrecht/README.md)
