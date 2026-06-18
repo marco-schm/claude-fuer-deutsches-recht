@@ -1,0 +1,32 @@
+{
+  "name": "denkmalschutzrecht",
+  "version": "341.0.0",
+  "description": "Denkmalschutzrecht in Deutschland: Art. 14 GG und Art. 73 GG als bundesstaatlicher Rahmen plus alle sechzehn Landesgesetze. Skills fuer Eintragung Erlaubnis Bussgeld steuerliche Foerderung nach Paragraf 7i EStG und Welterbestaetten — laenderuebergreifende Grundlagen und Landesrecht klar getrennt.",
+  "keywords": [
+    "denkmalschutz",
+    "denkmalpflege",
+    "landesrecht",
+    "art-14-gg",
+    "art-73-gg",
+    "baudenkmal",
+    "bodendenkmal",
+    "welterbe",
+    "unesco",
+    "icomos",
+    "eintragung",
+    "erlaubnis",
+    "foerderung",
+    "paragraph-7i-estg",
+    "paragraph-11b-estg",
+    "denkmaleigenschaft",
+    "denkmalliste",
+    "instandhaltungspflicht",
+    "duldungspflicht",
+    "enteignung",
+    "bussgeld",
+    "ordnungswidrigkeit",
+    "erhaltungssatzung",
+    "ensembleschutz"
+  ],
+  "license": "Apache-2.0"
+}

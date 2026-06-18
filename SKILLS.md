@@ -1,16 +1,16 @@
 # Skill-Gesamtuebersicht
 
-Automatisch generierte Gesamtuebersicht aller **25673 Skills** in **214 Plugins**.
+Automatisch generierte Gesamtuebersicht aller **25704 Skills** in **215 Plugins**.
 
-Stand: `v340.0.0`.
+Stand: `v341.0.0`.
 
 ## ⬇️ Alle Skills auf einmal herunterladen
 
 | Paket | Inhalt | Download |
 | --- | --- | --- |
-| **Alle Skills als Markdown** | Reine `SKILL.md`-Dateien aller 214 Plugins plus Unified Mini Prompts — als echte Datei-Downloads | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+| **Alle Skills als Markdown** | Reine `SKILL.md`-Dateien aller 215 Plugins plus Unified Mini Prompts — als echte Datei-Downloads | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Alle Unified Mini Prompts** | Pro Plugin ein kompakter Ein-Datei-Prompt bis 7.500 Zeichen fuer Chatbots ohne Plugin-Installation | [`alle-unified-mini-prompts.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-unified-mini-prompts.zip) |
-| **Alle Plugins (installierbar)** | Alle 214 Plugin-ZIPs in einem Archiv (fuer Claude Code) | [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) |
+| **Alle Plugins (installierbar)** | Alle 215 Plugin-ZIPs in einem Archiv (fuer Claude Code) | [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) |
 | **Komplettpaket (alles)** | Plugins + Skill-Markdowns + Testakten + Uebersichten | [`alles-komplettpaket.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) |
 
 Das Markdown-Paket reicht, wenn man die vollstaendigen Skills in ChatGPT, Gemini, Mistral, Le Chat oder Perplexity nutzen will. Die Unified Mini Prompts sind die Sparvariante: ein kurzer Workflow pro Plugin, wenn man nur eine einzige Markdown-Datei verwenden moechte. Das Plugin-Paket ist fuer Claude-Code-/Cowork-Nutzer. Das Komplettpaket enthaelt zusaetzlich Testakten und alle Repo-Uebersichten.
@@ -39,7 +39,7 @@ So bekommt man die komplette Sammlung als installierbares ZIP:
 
 **Wichtig:** Wenn irgendwo im Repo ein neuer Skill angelegt wird (also ein neuer Ordner `<plugin>/skills/<skill>/SKILL.md`), erscheint er beim naechsten Lauf von `scripts/generate-skills-md.py` automatisch -- sowohl in dieser Liste als auch auf der jeweiligen Plugin-Detailseite. Es kann also nichts fehlen.
 
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 25673 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
+Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 25704 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
 
 ## Alle Plugins
 
@@ -84,6 +84,7 @@ Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschr
 | **datenbankrecht** | 129 | [Skills ansehen](skills-index/datenbankrecht.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenbankrecht.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenbankrecht-skills-markdown.zip) | [Mini](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenbankrecht-unified-mini-prompt.md) |
 | **datenschutz-sanktionsverfahren-verteidigung** | 100 | [Skills ansehen](skills-index/datenschutz-sanktionsverfahren-verteidigung.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenschutz-sanktionsverfahren-verteidigung.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenschutz-sanktionsverfahren-verteidigung-skills-markdown.zip) | [Mini](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenschutz-sanktionsverfahren-verteidigung-unified-mini-prompt.md) |
 | **datenschutzrecht** | 365 | [Skills ansehen](skills-index/datenschutzrecht.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenschutzrecht.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenschutzrecht-skills-markdown.zip) | [Mini](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenschutzrecht-unified-mini-prompt.md) |
+| **denkmalschutzrecht** | 31 | [Skills ansehen](skills-index/denkmalschutzrecht.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/denkmalschutzrecht.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/denkmalschutzrecht-skills-markdown.zip) | [Mini](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/denkmalschutzrecht-unified-mini-prompt.md) |
 | **designrecht-geschmacksmusterrecht** | 50 | [Skills ansehen](skills-index/designrecht-geschmacksmusterrecht.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/designrecht-geschmacksmusterrecht.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/designrecht-geschmacksmusterrecht-skills-markdown.zip) | [Mini](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/designrecht-geschmacksmusterrecht-unified-mini-prompt.md) |
 | **deutsche-rechtsgeschichte** | 205 | [Skills ansehen](skills-index/deutsche-rechtsgeschichte.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/deutsche-rechtsgeschichte.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/deutsche-rechtsgeschichte-skills-markdown.zip) | [Mini](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/deutsche-rechtsgeschichte-unified-mini-prompt.md) |
 | **dfg-foerderantrag** | 84 | [Skills ansehen](skills-index/dfg-foerderantrag.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/dfg-foerderantrag.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/dfg-foerderantrag-skills-markdown.zip) | [Mini](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/dfg-foerderantrag-unified-mini-prompt.md) |

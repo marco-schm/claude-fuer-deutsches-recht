@@ -1,3 +1,52 @@
+# v341.0.0 — Neues Plugin: Denkmalschutzrecht (215 Plugins, 31 Skills)
+
+Neues Plugin `denkmalschutzrecht` mit 31 Skills, strukturiert in drei Schichten:
+
+## Allgemeiner Teil — bundesstaatlicher Rahmen (10 Skills)
+
+- `einstieg-routing` — Routing in das anwendbare Landesgesetz.
+- `kaltstart-triage` — eilbedürftige Mandate mit Bescheid- und Maßnahmenstand.
+- `erstgespraech-mandatsannahme` — Mandatsannahmevermerk mit Vollmacht und Honorar.
+- `grundbegriffe-und-rechtsquellen` — Baudenkmal, Bodendenkmal, Ensemble, Welterbe.
+- `art-73-gg-laenderzustaendigkeit` — Föderalismus und bundesrechtliche Überlagerungen.
+- `art-14-gg-eigentum-und-denkmalschutz` — BVerfGE 100 Seite 226 als Leitentscheidung.
+- `unesco-welterbe-und-icomos` — Welterbekonvention und ICOMOS-Berichte.
+- `verfahrensgrundsaetze-vwvfg` — Anhörung, Verwaltungsakt, Bekanntgabe, Rücknahme.
+- `widerspruch-und-klagewege` — VwGO-Rechtsschutz mit konkreten Klageanträgen.
+- `quellen-livecheck` — kuratierte Suchadressen-Liste der sechzehn Landesgesetz-Datenbanken.
+
+## Querschnittsskills (5 Skills)
+
+- `denkmaleigenschaft-feststellen` — Tatbestandsmerkmale, konstitutive und nachrichtliche Eintragung.
+- `eintragungsverfahren-allgemein` — Verfahrensschritte und Verteidigungslinien.
+- `erlaubnis-pflichtige-massnahmen` — Erlaubnistatbestände und Antragsverfahren.
+- `foerderung-und-steuerliche-abschreibung` — Paragrafen 7i, 10f, 11b EStG mit Denkmalbescheinigung.
+- `enteignung-uebernahme-und-entschaedigung` — Ausgleichspflicht, Übernahme, Enteignung.
+
+## Sechzehn Bundesländer-Skills
+
+Je ein Skill pro Bundesland mit Gesetzesbezeichnung, Abkürzung, Landesgesetz-Datenbank, zuständigen Behörden (oberste, obere, untere Denkmalschutzbehörde, Fachbehörde), Eintragungssystematik (konstitutiv oder nachrichtlich), Verfahrensbesonderheiten und einem konkreten Anwendungsbeispiel.
+
+## Sanity-Bilanz
+
+| Bereich | Stand |
+|---|---|
+| Plugins | 215 (vorher 214) |
+| Skills | 25.704 (vorher 25.673) |
+| Megaprompts | 215 (für jedes Plugin) |
+| Unified Mini Prompts | 215 |
+| Testakten | 208 gelistet, 205 mit Rubric, 206 mit Gesamt-PDF |
+| Eval-Harness | 205/205 All-Pass |
+| `validate-plugin-structure.mjs` | OK |
+| `validate-yaml-frontmatter.py` | 0 Fehler, 0 Warnungen |
+| Versions-Stand durchgängig | v341.0.0 |
+
+## Quellenhygiene
+
+Das Plugin nennt Gesetzesabkürzungen und die zuständigen Behörden, verweist für jedes konkrete Paragrafenzitat aber auf die amtlichen Landesgesetz-Datenbanken (`landesrecht.<land>.de` und Bundesrecht über `gesetze-im-internet.de`). Modellwissens-Randnummern werden konsequent vermieden.
+
+---
+
 # v340.0.0 — Stale-Versions-Sanity-Tweak
 
 Schlanker Glattzug nach v339:
