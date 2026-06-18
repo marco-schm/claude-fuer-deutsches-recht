@@ -162,7 +162,7 @@ Stand: 2026-06-16T13:25:01Z
 | `sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026` | PASS | 5 | 0 | 1 |
 | `sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026` | PASS | 3 | 0 | 1 |
 | `sanierungsgewinn-starug-plan-windenergie-pellbach-2026` | PASS | 3 | 0 | 1 |
-| `scheidung-trennungsdrama-wagenknecht-luetzelberg` | PASS | 3 | 0 | 1 |
+| `scheidungsdrama` | PASS | 3 | 0 | 1 |
 | `schriftform-maklervertrag-muenchen-eheleute-haspelbeck` | PASS | 3 | 0 | 1 |
 | `schriftform-mietkuendigung-bielefeld-online-pferdedrescher` | PASS | 3 | 0 | 1 |
 | `schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof` | PASS | 3 | 0 | 1 |

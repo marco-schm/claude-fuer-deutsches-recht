@@ -15,7 +15,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
-| **Scheidung Wagenknecht / Luetzelberg — Patchwork, Wechselmodell-Streit, Zugewinn** (`scheidung-trennungsdrama-wagenknecht-luetzelberg`) | [Gesamt-PDF lesen](../testakten/scheidung-trennungsdrama-wagenknecht-luetzelberg/gesamt-pdf/scheidung-trennungsdrama-wagenknecht-luetzelberg_gesamt.pdf) | [`testakte-scheidung-trennungsdrama-wagenknecht-luetzelberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-scheidung-trennungsdrama-wagenknecht-luetzelberg.zip) |
+| **Scheidungsdrama Trüffelberch / Ürgelheim — Wechselmodell-Streit, § 1666 BGB-Eilantrag, SBGG, Zugewinn** (`scheidungsdrama`) | [Gesamt-PDF lesen](../testakten/scheidungsdrama/gesamt-pdf/scheidungsdrama_gesamt.pdf) | [`testakte-scheidungsdrama.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-scheidungsdrama.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
