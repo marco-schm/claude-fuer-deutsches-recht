@@ -1,3 +1,13 @@
+# v353.0.0 — Release-Asset-Limit sauber abgefangen
+
+GitHub begrenzt Release-Anhänge hart auf 1000 Assets. Die fachlichen Plugin-, Skill- und Testaktenpakete bleiben erhalten; nur die Verteilung der Unified Mini Prompts wurde robuster gemacht.
+
+- Unified Mini Prompts werden nicht mehr als 215 Einzelassets an den Release gehängt, sondern im Sammelarchiv `alle-unified-mini-prompts.zip`, im Komplettpaket und in den pluginbezogenen Markdown-ZIPs ausgeliefert.
+- Plugin-READMEs, `SKILLS.md`, `skills-index/` und `ASSET_INDEX.md` verwenden jetzt dieselbe Logik: Einzel-Mini-Prompts liegen als Markdown im Repo unter `unified-mini-prompts/<plugin>.md`; echte Datei-Downloads laufen über die ZIP-Pakete.
+- Release-Workflow gehärtet: Upload-Filter, Checksums und Workflow-Artefakte bleiben unter der GitHub-Asset-Grenze, ohne Plugin-ZIPs, Testakten-ZIPs, Skill-Markdown-ZIPs oder Sammelpakete zu verlieren.
+
+---
+
 # v352.0.0 — Sanity-Runde: tote Anlagenverweise in Testakten repariert
 
 Gezielter Bug-Hunt nach Verweisen, die in Demo-Vorführungen ins Leere zeigen. Ein präziser „Near-Miss"-Scan (referenzierte Datei fehlt, aber eine fast namensgleiche Datei liegt im selben Ordner) fand fünf echte Treffer; die übrigen ~1500 Roh-Treffer waren bewusste Prosa-Erwähnungen eines unordentlichen Datenraums und blieben unangetastet.

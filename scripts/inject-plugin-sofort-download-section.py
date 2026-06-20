@@ -135,7 +135,8 @@ def build_section(plugin_name: str, akten_slugs: list[str]) -> str:
     )
     lines.append(
         f"| **Unified Mini Prompt** (Sparversion bis 7.500 Zeichen) | "
-        f"[`{plugin_name}-unified-mini-prompt.md`]({RELEASE_BASE}/{plugin_name}-unified-mini-prompt.md) |"
+        f"[`{plugin_name}.md`](../unified-mini-prompts/{plugin_name}.md) "
+        f"oder als Sammel-ZIP [`alle-unified-mini-prompts.zip`]({RELEASE_BASE}/alle-unified-mini-prompts.zip) |"
     )
     lines.append("")
 

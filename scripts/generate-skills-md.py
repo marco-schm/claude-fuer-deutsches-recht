@@ -117,7 +117,7 @@ Stand: `{version}`.
 
 Das Markdown-Paket reicht, wenn man die vollstaendigen Skills in ChatGPT, Gemini, Mistral, Le Chat oder Perplexity nutzen will. Die Unified Mini Prompts sind die Sparvariante: ein kurzer Workflow pro Plugin, wenn man nur eine einzige Markdown-Datei verwenden moechte. Das Plugin-Paket ist fuer Claude-Code-/Cowork-Nutzer. Das Komplettpaket enthaelt zusaetzlich Testakten und alle Repo-Uebersichten.
 
-Wer nur **ein bestimmtes Plugin** will: weiter unten in der Plugin-Tabelle pro Plugin eigene Download-Links (Plugin-ZIP, Markdown-ZIP **und** Unified Mini Prompt).
+Wer nur **ein bestimmtes Plugin** will: weiter unten in der Plugin-Tabelle pro Plugin eigene Links (Plugin-ZIP, Markdown-ZIP **und** Unified Mini Prompt als Repo-Markdown).
 
 ## Worum es hier geht: alles nur grosse Prompts
 
@@ -137,7 +137,7 @@ So bekommt man die komplette Sammlung als installierbares ZIP:
 
 - In der Plugin-Tabelle unten in der Spalte **Plugin-ZIP** auf den Download-Link klicken. Das laedt eine ZIP-Datei mit **allen** Skills dieses Plugins inkl. Hilfsdateien, Pruefrastern und Vorlagen — direkt in Claude Code installierbar.
 - Wer kein Claude Code nutzt, nimmt stattdessen **Markdown-ZIP** — das enthaelt nur die `SKILL.md` und den Unified Mini Prompt als reine Markdown-Dateien zum Einlesen in beliebige Chatbots.
-- Wer nur schnell eine einzige Datei ausprobieren will, nimmt **Unified Mini Prompt**. Das ist bewusst nicht die volle Skilltiefe, sondern der verdichtete Arbeitsmodus des jeweiligen Plugins.
+- Wer nur schnell eine einzige Datei ausprobieren will, nimmt **Unified Mini Prompt**. Das ist bewusst nicht die volle Skilltiefe, sondern der verdichtete Arbeitsmodus des jeweiligen Plugins. Wegen des GitHub-Limits von 1000 Release-Assets liegen die Einzel-Mini-Prompts im Repo; als echter Datei-Download gibt es zusätzlich `alle-unified-mini-prompts.zip`.
 
 **Wichtig:** Wenn irgendwo im Repo ein neuer Skill angelegt wird (also ein neuer Ordner `<plugin>/skills/<skill>/SKILL.md`), erscheint er beim naechsten Lauf von `scripts/generate-skills-md.py` automatisch -- sowohl in dieser Liste als auch auf der jeweiligen Plugin-Detailseite. Es kann also nichts fehlen.
 
@@ -150,7 +150,7 @@ def plugin_overview_table(plugins: list[tuple[str, list[str]]]) -> str:
     lines = [
         "## Alle Plugins",
         "",
-        "Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschreibungen und Einzel-Downloads. **Plugin-ZIP** laedt die installierbare Claude-Code-/Cowork-Sammlung. **Markdown-ZIP** laedt die reinen `SKILL.md`-Dateien plus Unified Mini Prompt. **Mini-Prompt** ist eine einzelne Markdown-Datei bis 7.500 Zeichen fuer ChatGPT, Gemini, Mistral oder andere Chatbots.",
+        "Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschreibungen und Einzel-Downloads. **Plugin-ZIP** laedt die installierbare Claude-Code-/Cowork-Sammlung. **Markdown-ZIP** laedt die reinen `SKILL.md`-Dateien plus Unified Mini Prompt. **Mini-Prompt** ist eine einzelne Markdown-Datei bis 7.500 Zeichen im Repo; echte Datei-Downloads liegen im Sammel-ZIP.",
         "",
         "| Plugin | Skills | Detailseite | Plugin-ZIP | Markdown-ZIP | Mini-Prompt |",
         "| --- | ---: | --- | --- | --- | --- |",
@@ -158,7 +158,7 @@ def plugin_overview_table(plugins: list[tuple[str, list[str]]]) -> str:
     for name, skills in plugins:
         zip_url = f"{GH_RELEASE}/{name}.zip"
         md_url = f"{GH_RELEASE}/{name}-skills-markdown.zip"
-        mini_url = f"{GH_RELEASE}/{name}-unified-mini-prompt.md"
+        mini_url = f"unified-mini-prompts/{name}.md"
         detail = f"skills-index/{name}.md"
         lines.append(
             f"| **{name}** | {len(skills)} | [Skills ansehen]({detail}) | [Plugin]({zip_url}) | [Markdown]({md_url}) | [Mini]({mini_url}) |"
@@ -171,7 +171,7 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
     skills_dir = REPO_ROOT / name / "skills"
     plugin_zip = f"{GH_RELEASE}/{name}.zip"
     md_zip = f"{GH_RELEASE}/{name}-skills-markdown.zip"
-    mini_prompt = f"{GH_RELEASE}/{name}-unified-mini-prompt.md"
+    mini_prompt = f"../unified-mini-prompts/{name}.md"
     plugin_readme = f"{GH_BLOB}/{name}/README.md"
     lines = [
         f"# {name}",
@@ -185,7 +185,7 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
         "",
         "| Paket | Inhalt | Link |",
         "| --- | --- | --- |",
-        f"| **Unified Mini Prompt** | Eine einzelne Markdown-Datei bis 7.500 Zeichen: Sparversion des Plugin-Workflows fuer Chatbots ohne Plugin-Installation | [{name}-unified-mini-prompt.md]({mini_prompt}) |",
+        f"| **Unified Mini Prompt** | Eine einzelne Markdown-Datei bis 7.500 Zeichen: Sparversion des Plugin-Workflows fuer Chatbots ohne Plugin-Installation | [{name}.md]({mini_prompt}) |",
         f"| **Markdown-ZIP** | Alle `SKILL.md`-Dateien plus Unified Mini Prompt als reine Markdown — echter Datei-Download fuer ChatGPT, Gemini, Mistral, Le Chat usw. | [{name}-skills-markdown.zip]({md_zip}) |",
         f"| **Plugin-ZIP** | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [{name}.zip]({plugin_zip}) |",
         "",
@@ -193,7 +193,7 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
         "",
         "Skills sind reine Markdown-Prompts und funktionieren in jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).",
         "",
-        "- **Schnelltest mit einer Datei:** den Unified Mini Prompt oben herunterladen und als Markdown-Datei in den Chatbot ziehen.",
+        "- **Schnelltest mit einer Datei:** den Unified Mini Prompt oben oeffnen oder aus `alle-unified-mini-prompts.zip` herunterladen und als Markdown-Datei in den Chatbot ziehen.",
         "- **Volle Markdown-Tiefe:** das Markdown-ZIP oben herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.",
         "- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.",
         "- **`[Raw .md]`** zeigt den Rohtext. Manche Browser zeigen das als Text statt als Download — fuer echte Downloads das Markdown-ZIP oben nehmen.",

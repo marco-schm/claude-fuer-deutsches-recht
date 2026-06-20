@@ -11,7 +11,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | --- | --- |
 | **Dieses Plugin** (`fachanwalt-versicherungsrecht`) | [`fachanwalt-versicherungsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-versicherungsrecht.zip) |
 | **Alle Skills als Markdown** | [`fachanwalt-versicherungsrecht-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-versicherungsrecht-skills-markdown.zip) |
-| **Unified Mini Prompt** (Sparversion bis 7.500 Zeichen) | [`fachanwalt-versicherungsrecht-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-versicherungsrecht-unified-mini-prompt.md) |
+| **Unified Mini Prompt** (Sparversion bis 7.500 Zeichen) | [`fachanwalt-versicherungsrecht.md`](../unified-mini-prompts/fachanwalt-versicherungsrecht.md) oder als Sammel-ZIP [`alle-unified-mini-prompts.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-unified-mini-prompts.zip) |
 
 ### Demonstrations-Akten
 
@@ -163,9 +163,10 @@ Automatisch generierte Komplett-Liste aller 91 Skills in diesem Plugin. Beschrei
 
 ### Unified Mini Prompt und Mega-Prompt
 
-Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet und als Release-Asset direkt herunterladbar ist.
+Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet. Die Einzeldatei liegt im Repo; als echter Datei-Download gibt es zusätzlich das Sammel-ZIP aller Mini-Prompts.
 
-- **Sparversion herunterladen:** [`fachanwalt-versicherungsrecht-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-versicherungsrecht-unified-mini-prompt.md)
+- **Sparversion öffnen:** [`unified-mini-prompts/fachanwalt-versicherungsrecht.md`](../unified-mini-prompts/fachanwalt-versicherungsrecht.md)
+- **Alle Mini-Prompts als ZIP herunterladen:** [`alle-unified-mini-prompts.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-unified-mini-prompts.zip)
 - **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/fachanwalt-versicherungsrecht.md`](../testakten/megaprompts/fachanwalt-versicherungsrecht.md) (91 KB)
 
 Der große Mega-Prompt wird nicht als installierbares Plugin und nicht als CoWork-Uploadmaterial ausgeliefert. Für echte Plugin-Nutzung bitte das Plugin-ZIP verwenden; für Ein-Datei-Nutzung den Unified Mini Prompt.

@@ -26,9 +26,10 @@ def block_for(plugin: str, kb: int) -> str:
 
 ### Unified Mini Prompt und Mega-Prompt
 
-Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet und als Release-Asset direkt herunterladbar ist.
+Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet. Die Einzeldatei liegt im Repo; als echter Datei-Download gibt es zusätzlich das Sammel-ZIP aller Mini-Prompts.
 
-- **Sparversion herunterladen:** [`{plugin}-unified-mini-prompt.md`]({RELEASE_BASE}/{plugin}-unified-mini-prompt.md)
+- **Sparversion öffnen:** [`unified-mini-prompts/{plugin}.md`](../unified-mini-prompts/{plugin}.md)
+- **Alle Mini-Prompts als ZIP herunterladen:** [`alle-unified-mini-prompts.zip`]({RELEASE_BASE}/alle-unified-mini-prompts.zip)
 - **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/{plugin}.md`](../testakten/megaprompts/{plugin}.md) ({kb} KB)
 
 Der große Mega-Prompt wird nicht als installierbares Plugin und nicht als CoWork-Uploadmaterial ausgeliefert. Für echte Plugin-Nutzung bitte das Plugin-ZIP verwenden; für Ein-Datei-Nutzung den Unified Mini Prompt.

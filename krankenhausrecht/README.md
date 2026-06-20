@@ -11,7 +11,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | --- | --- |
 | **Dieses Plugin** (`krankenhausrecht`) | [`krankenhausrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krankenhausrecht.zip) |
 | **Alle Skills als Markdown** | [`krankenhausrecht-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krankenhausrecht-skills-markdown.zip) |
-| **Unified Mini Prompt** (Sparversion bis 7.500 Zeichen) | [`krankenhausrecht-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krankenhausrecht-unified-mini-prompt.md) |
+| **Unified Mini Prompt** (Sparversion bis 7.500 Zeichen) | [`krankenhausrecht.md`](../unified-mini-prompts/krankenhausrecht.md) oder als Sammel-ZIP [`alle-unified-mini-prompts.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-unified-mini-prompts.zip) |
 
 Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
 
@@ -137,9 +137,10 @@ Automatisch generierte Komplett-Liste aller 68 Skills in diesem Plugin. Beschrei
 
 ### Unified Mini Prompt und Mega-Prompt
 
-Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet und als Release-Asset direkt herunterladbar ist.
+Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet. Die Einzeldatei liegt im Repo; als echter Datei-Download gibt es zusätzlich das Sammel-ZIP aller Mini-Prompts.
 
-- **Sparversion herunterladen:** [`krankenhausrecht-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krankenhausrecht-unified-mini-prompt.md)
+- **Sparversion öffnen:** [`unified-mini-prompts/krankenhausrecht.md`](../unified-mini-prompts/krankenhausrecht.md)
+- **Alle Mini-Prompts als ZIP herunterladen:** [`alle-unified-mini-prompts.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-unified-mini-prompts.zip)
 - **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/krankenhausrecht.md`](../testakten/megaprompts/krankenhausrecht.md) (61 KB)
 
 Der große Mega-Prompt wird nicht als installierbares Plugin und nicht als CoWork-Uploadmaterial ausgeliefert. Für echte Plugin-Nutzung bitte das Plugin-ZIP verwenden; für Ein-Datei-Nutzung den Unified Mini Prompt.

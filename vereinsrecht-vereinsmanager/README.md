@@ -11,7 +11,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | --- | --- |
 | **Dieses Plugin** (`vereinsrecht-vereinsmanager`) | [`vereinsrecht-vereinsmanager.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/vereinsrecht-vereinsmanager.zip) |
 | **Alle Skills als Markdown** | [`vereinsrecht-vereinsmanager-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/vereinsrecht-vereinsmanager-skills-markdown.zip) |
-| **Unified Mini Prompt** (Sparversion bis 7.500 Zeichen) | [`vereinsrecht-vereinsmanager-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/vereinsrecht-vereinsmanager-unified-mini-prompt.md) |
+| **Unified Mini Prompt** (Sparversion bis 7.500 Zeichen) | [`vereinsrecht-vereinsmanager.md`](../unified-mini-prompts/vereinsrecht-vereinsmanager.md) oder als Sammel-ZIP [`alle-unified-mini-prompts.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-unified-mini-prompts.zip) |
 
 Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
 
@@ -110,9 +110,10 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 
 ### Unified Mini Prompt und Mega-Prompt
 
-Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet und als Release-Asset direkt herunterladbar ist.
+Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet. Die Einzeldatei liegt im Repo; als echter Datei-Download gibt es zusätzlich das Sammel-ZIP aller Mini-Prompts.
 
-- **Sparversion herunterladen:** [`vereinsrecht-vereinsmanager-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/vereinsrecht-vereinsmanager-unified-mini-prompt.md)
+- **Sparversion öffnen:** [`unified-mini-prompts/vereinsrecht-vereinsmanager.md`](../unified-mini-prompts/vereinsrecht-vereinsmanager.md)
+- **Alle Mini-Prompts als ZIP herunterladen:** [`alle-unified-mini-prompts.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-unified-mini-prompts.zip)
 - **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/vereinsrecht-vereinsmanager.md`](../testakten/megaprompts/vereinsrecht-vereinsmanager.md) (56 KB)
 
 Der große Mega-Prompt wird nicht als installierbares Plugin und nicht als CoWork-Uploadmaterial ausgeliefert. Für echte Plugin-Nutzung bitte das Plugin-ZIP verwenden; für Ein-Datei-Nutzung den Unified Mini Prompt.

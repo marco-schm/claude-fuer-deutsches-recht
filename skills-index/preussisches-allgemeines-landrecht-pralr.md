@@ -1,6 +1,6 @@
 # preussisches-allgemeines-landrecht-pralr
 
-**462 Skills** · Stand `v352.0.0`
+**462 Skills** · Stand `v353.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/preussisches-allgemeines-landrecht-pralr/README.md)
@@ -9,7 +9,7 @@
 
 | Paket | Inhalt | Link |
 | --- | --- | --- |
-| **Unified Mini Prompt** | Eine einzelne Markdown-Datei bis 7.500 Zeichen: Sparversion des Plugin-Workflows fuer Chatbots ohne Plugin-Installation | [preussisches-allgemeines-landrecht-pralr-unified-mini-prompt.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/preussisches-allgemeines-landrecht-pralr-unified-mini-prompt.md) |
+| **Unified Mini Prompt** | Eine einzelne Markdown-Datei bis 7.500 Zeichen: Sparversion des Plugin-Workflows fuer Chatbots ohne Plugin-Installation | [preussisches-allgemeines-landrecht-pralr.md](../unified-mini-prompts/preussisches-allgemeines-landrecht-pralr.md) |
 | **Markdown-ZIP** | Alle `SKILL.md`-Dateien plus Unified Mini Prompt als reine Markdown — echter Datei-Download fuer ChatGPT, Gemini, Mistral, Le Chat usw. | [preussisches-allgemeines-landrecht-pralr-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/preussisches-allgemeines-landrecht-pralr-skills-markdown.zip) |
 | **Plugin-ZIP** | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [preussisches-allgemeines-landrecht-pralr.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/preussisches-allgemeines-landrecht-pralr.zip) |
 
@@ -17,7 +17,7 @@
 
 Skills sind reine Markdown-Prompts und funktionieren in jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).
 
-- **Schnelltest mit einer Datei:** den Unified Mini Prompt oben herunterladen und als Markdown-Datei in den Chatbot ziehen.
+- **Schnelltest mit einer Datei:** den Unified Mini Prompt oben oeffnen oder aus `alle-unified-mini-prompts.zip` herunterladen und als Markdown-Datei in den Chatbot ziehen.
 - **Volle Markdown-Tiefe:** das Markdown-ZIP oben herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
 - **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
 - **`[Raw .md]`** zeigt den Rohtext. Manche Browser zeigen das als Text statt als Download — fuer echte Downloads das Markdown-ZIP oben nehmen.

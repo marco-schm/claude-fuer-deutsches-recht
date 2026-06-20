@@ -99,13 +99,12 @@ jobs:
           ls dist/*-skills-markdown.zip | wc -l
           ls -lh dist/alle-skills-markdown.zip
 
-      - name: Unified Mini Prompts als Einzeldateien fuer Direkt-Download bereitstellen
+      - name: Unified Mini Prompts buendeln
         run: |
-          # Jeden Unified Mini Prompt als eigenstaendiges Release-Asset
-          # bereitstellen. Release-Assets liefert GitHub mit
-          # Content-Disposition: attachment, der Browser laedt sie also herunter
-          # statt sie als text/plain anzuzeigen. Dateiname-Schema:
-          #   <plugin>-unified-mini-prompt.md
+          # GitHub Releases erlauben maximal 1000 Assets. Deshalb werden die
+          # Mini-Prompts nicht als 215 Einzelassets hochgeladen, sondern als
+          # Sammel-ZIP und im Komplettpaket ausgeliefert. Die Einzel-Markdowns
+          # bleiben im Repo unter unified-mini-prompts/<plugin>.md abrufbar.
           mkdir -p dist/unified-mini-prompts
           for mp in unified-mini-prompts/*.md; do
             name="$(basename "$mp")"
@@ -114,12 +113,10 @@ jobs:
               continue
             fi
             plugin="${name%.md}"
-            cp "$mp" "dist/${plugin}-unified-mini-prompt.md"
             cp "$mp" "dist/unified-mini-prompts/${plugin}.md"
           done
           (cd dist/unified-mini-prompts && zip -rq "../alle-unified-mini-prompts.zip" . -x '*.DS_Store')
           rm -rf dist/unified-mini-prompts
-          ls dist/*-unified-mini-prompt.md | wc -l
           test -s dist/alle-unified-mini-prompts.zip
 
       - name: Sammel-ZIPs bauen
@@ -150,7 +147,7 @@ jobs:
           cp dist/alle-unified-mini-prompts.zip dist/komplettpaket/alle-unified-mini-prompts.zip
           for plugin in ${{ steps.plugins.outputs.names }}; do
             cp "dist/${plugin}.zip" "dist/komplettpaket/plugins/${plugin}.zip"
-            cp "dist/${plugin}-unified-mini-prompt.md" "dist/komplettpaket/unified-mini-prompts/${plugin}.md"
+            cp "unified-mini-prompts/${plugin}.md" "dist/komplettpaket/unified-mini-prompts/${plugin}.md"
           done
           for z in dist/*-skills-markdown.zip; do
             [ -e "$z" ] || continue
@@ -191,7 +188,7 @@ jobs:
           dist = Path("dist")
           assets = sorted(
               p for p in dist.iterdir()
-              if p.is_file() and (p.suffix == ".zip" or p.name == "marketplace.json" or p.name.endswith("-unified-mini-prompt.md"))
+              if p.is_file() and (p.suffix == ".zip" or p.name == "marketplace.json")
           )
           with (dist / "checksums-sha256.txt").open("w", encoding="utf-8") as fh:
               for path in assets:
@@ -255,7 +252,7 @@ jobs:
             else
               sleep 2
             fi
-          done < <(find dist -maxdepth 1 -type f \( -name '*.zip' -o -name '*-unified-mini-prompt.md' -o -name 'marketplace.json' -o -name 'checksums-sha256.txt' \) | sort)
+          done < <(find dist -maxdepth 1 -type f \( -name '*.zip' -o -name 'marketplace.json' -o -name 'checksums-sha256.txt' \) | sort)
 
       - name: Release-Assets remote verifizieren
         if: steps.tagref.outputs.tag != ''
@@ -269,7 +266,6 @@ jobs:
           name: plugin-zips
           path: |
             dist/*.zip
-            dist/*-unified-mini-prompt.md
             dist/marketplace.json
             dist/checksums-sha256.txt
           retention-days: 30

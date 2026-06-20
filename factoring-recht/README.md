@@ -11,7 +11,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | --- | --- |
 | **Dieses Plugin** (`factoring-recht`) | [`factoring-recht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/factoring-recht.zip) |
 | **Alle Skills als Markdown** | [`factoring-recht-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/factoring-recht-skills-markdown.zip) |
-| **Unified Mini Prompt** (Sparversion bis 7.500 Zeichen) | [`factoring-recht-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/factoring-recht-unified-mini-prompt.md) |
+| **Unified Mini Prompt** (Sparversion bis 7.500 Zeichen) | [`factoring-recht.md`](../unified-mini-prompts/factoring-recht.md) oder als Sammel-ZIP [`alle-unified-mini-prompts.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-unified-mini-prompts.zip) |
 
 Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
 
@@ -131,9 +131,10 @@ Automatisch generierte Komplett-Liste aller 62 Skills in diesem Plugin. Beschrei
 
 ### Unified Mini Prompt und Mega-Prompt
 
-Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet und als Release-Asset direkt herunterladbar ist.
+Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet. Die Einzeldatei liegt im Repo; als echter Datei-Download gibt es zusätzlich das Sammel-ZIP aller Mini-Prompts.
 
-- **Sparversion herunterladen:** [`factoring-recht-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/factoring-recht-unified-mini-prompt.md)
+- **Sparversion öffnen:** [`unified-mini-prompts/factoring-recht.md`](../unified-mini-prompts/factoring-recht.md)
+- **Alle Mini-Prompts als ZIP herunterladen:** [`alle-unified-mini-prompts.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-unified-mini-prompts.zip)
 - **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/factoring-recht.md`](../testakten/megaprompts/factoring-recht.md) (76 KB)
 
 Der große Mega-Prompt wird nicht als installierbares Plugin und nicht als CoWork-Uploadmaterial ausgeliefert. Für echte Plugin-Nutzung bitte das Plugin-ZIP verwenden; für Ein-Datei-Nutzung den Unified Mini Prompt.
