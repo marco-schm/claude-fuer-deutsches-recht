@@ -19,7 +19,7 @@ Affiliate-Links und Rabattcodes sind wirtschaftliche Gegenleistungen – auch we
 
 - **§ 5a Abs. 4 UWG**: Provisionsbeteiligung ist kommerzieller Zweck → Kennzeichnungspflicht.
 - **§ 22 MStV**: Trennungsgebot gilt auch für Affiliate-Content.
-- **BGH „Luisa-Maxime Huss"** (I ZR 35/21): Auch performance-basierte Vergütung begründet Kennzeichnungspflicht.
+- **BGH „Luisa-Maxime Huss"** (I ZR 90/20): Gegenleistung und performance-basierte Vergütung begründen regelmäßig eine klare Kennzeichnungspflicht.
 - **Steuer § 15/22 EStG**: Provisionen sind Betriebseinnahmen; auch Kleinstbeträge von 0,01 € pro Klick sind steuerpflichtig.
 - **UStG**: Affiliate-Provision = umsatzsteuerpflichtiger Umsatz; bei Auslandsplattform ggf. Reverse Charge.
 - **DSGVO Art. 13**: Tracking-Pixel und Affiliate-Cookies erfordern Einwilligung und Datenschutzhinweis.
@@ -65,7 +65,7 @@ Affiliate-Links und Rabattcodes sind wirtschaftliche Gegenleistungen – auch we
 - § 22 MStV: https://www.gesetze-im-internet.de/mstv/__22.html
 - § 15 EStG: https://www.gesetze-im-internet.de/estg/__15.html
 - DSGVO Art. 13: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679
-- BGH I ZR 35/21: https://openjur.de/u/2432342.html
+- BGH I ZR 90/20: https://openjur.de/u/2395894.html
 
 ## Output-Formate
 
@@ -95,6 +95,7 @@ Affiliate-Links und Rabattcodes sind wirtschaftliche Gegenleistungen – auch we
 
 - BGH I ZR 35/21
 - BGH I ZR 90/20
-- BGH I ZR 9/22
+- BGH I ZR 125/20
+- BGH I ZR 126/20
 - BGH III ZR 183/21
 - BFH XI R 14/09

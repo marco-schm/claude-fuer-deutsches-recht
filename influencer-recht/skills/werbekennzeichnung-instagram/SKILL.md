@@ -23,9 +23,9 @@ Die Werbekennzeichnungspflicht für Influencer ergibt sich aus mehreren Normen:
 
 - **§ 5a Abs. 4 UWG**: Kommerzieller Zweck eines Beitrags muss erkennbar sein; fehlende Kennzeichnung ist unlauter, wenn nicht bereits aus dem Kontext offensichtlich.
 - **§ 22 MStV** (Medienstaatsvertrag): Trennungsgebot – Werbung muss als solche klar erkennbar und vom redaktionellen Inhalt getrennt sein; gilt für Telemedien und Rundfunk.
-- **BGH „Cathy Hummels"** (I ZR 90/20, 09.09.2021): Tap-Tags auf eigene Unternehmensseiten ohne Gegenleistung sind nicht kennzeichnungspflichtig.
-- **BGH „Diana zur Löwen"** (I ZR 9/22, 13.01.2022): Eigenmarken-Posts können ohne Kennzeichnung zulässig sein, wenn kommerzielle Eigeninteressen offensichtlich.
-- **BGH „Luisa-Maxime Huss"** (I ZR 35/21, 27.01.2022): Auch bei ausschließlich selbst gekauften Produkten ist Kennzeichnung nötig, wenn der Post werblichen Charakter hat.
+- **BGH „Luisa-Maxime Huss"** (I ZR 90/20, 09.09.2021): Erhält die Influencerin für einen Beitrag eine Gegenleistung, ist der kommerzielle Zweck grundsätzlich klar kennzeichnungspflichtig.
+- **BGH „Leonie Hanne" und „Cathy Hummels"** (I ZR 125/20 und I ZR 126/20, 09.09.2021): Tap-Tags ohne Gegenleistung führen nicht automatisch zur Kennzeichnungspflicht; zu prüfen ist, ob der kommerzielle Zweck aus dem Umfeld des Accounts und dem Inhalt des Posts bereits hinreichend erkennbar ist.
+- **BGH „Diana zur Löwen"** (I ZR 35/21, 13.01.2022): Geschenkprodukte, sonstige geldwerte Vorteile und produktbezogene Tap-Tags können die Kennzeichnungspflicht begründen; selbst gekaufte Produkte bleiben nur bei fehlendem werblichem Überschuss unproblematischer.
 
 ### Plattformspezifische Anforderungen
 
@@ -48,7 +48,7 @@ Die Werbekennzeichnungspflicht für Influencer ergibt sich aus mehreren Normen:
 ## Prüfprogramm
 
 - Gegenleistungstest: Geld, Sachleistung, Vorteil → Kennzeichnungspflicht bejahen.
-- Offensichtlichkeitstest nach BGH Hummels: Ist kommerzielle Eigeninteressen ohne Label erkennbar?
+- Offensichtlichkeitstest nach BGH Influencer I/II: Ist das kommerzielle Eigeninteresse ohne Label bereits aus Account, Posting-Kontext und Produktbezug erkennbar?
 - Plattformtool aktiv? Branded Content Tool ≠ Ersatz für textuelles Label.
 - Positionierung: „Werbung" muss vor dem Swipe/Cut/Lesen sichtbar sein.
 - Eigenmarken-Sonderfall: BGH-Rspr. differenziert, kein pauschales Freistellungsurteil.
@@ -60,15 +60,15 @@ Die Werbekennzeichnungspflicht für Influencer ergibt sich aus mehreren Normen:
 - Branded Content Tool aktiviert, aber kein Wort „Werbung" im Post → zweifelhaft.
 - „PR-Sample" erhalten, aber beschriftet als eigene Empfehlung → Pflicht besteht dennoch.
 - Kennzeichnung nur im Beschreibungstext, nicht im Video selbst (YouTube) → unzureichend.
-- Tap-Tag ohne Gegenleistung: nach BGH Hummels grundsätzlich frei – aber Beweislast beim Creator.
+- Tap-Tag ohne Gegenleistung: nach den BGH-Entscheidungen I ZR 125/20 und I ZR 126/20 nicht automatisch unlauter, aber dokumentationsbedürftig.
 
 ## Normen und Quellen
 
 - § 5a Abs. 4 UWG: https://www.gesetze-im-internet.de/uwg_2004/__5a.html
 - § 22 MStV: https://www.gesetze-im-internet.de/mstv/__22.html
-- BGH I ZR 90/20 (Cathy Hummels): https://openjur.de/u/2395894.html
-- BGH I ZR 9/22 (Diana zur Löwen): https://openjur.de/u/2432341.html
-- BGH I ZR 35/21 (Luisa-Maxime Huss): https://openjur.de/u/2432342.html
+- BGH I ZR 90/20 (Luisa-Maxime Huss): https://openjur.de/u/2395894.html
+- BGH I ZR 125/20 und I ZR 126/20 (Leonie Hanne/Cathy Hummels): https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2021/2021170.html
+- BGH I ZR 35/21 (Diana zur Löwen): https://openjur.de/u/2432342.html
 
 ## Output-Formate
 

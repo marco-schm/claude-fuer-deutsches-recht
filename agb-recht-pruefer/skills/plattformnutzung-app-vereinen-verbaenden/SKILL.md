@@ -36,7 +36,7 @@ description: "AGB bei Plattformnutzung App Stores Apple Google Steam Amazon. Ski
 ## BGH-Linie
 
 - BGH KZR 67/19 zur Marketplace-AGB: einseitige Änderung unwirksam, wenn Hauptleistung beruehrt.
-- BGH I ZR 26/19 Cookie-Banner.
+- BGH I ZR 7/16 (Planet49: Cookie-Einwilligung).
 
 ## P2B-VO
 

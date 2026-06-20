@@ -98,6 +98,7 @@ Suchtmittel-Werbung ist massiv eingeschränkt:
 
 - BGH I ZR 35/21
 - BGH I ZR 90/20
-- BGH I ZR 9/22
+- BGH I ZR 125/20
+- BGH I ZR 126/20
 - BGH III ZR 183/21
 - BFH XI R 14/09

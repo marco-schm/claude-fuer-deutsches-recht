@@ -54,9 +54,9 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 ### Leitentscheidungen
 
 - BGH VIII ZR 178/08 (Transparenzgebot Preisanpassung)
-- BGH I ZR 26/19 (Cookie-Banner als AGB)
+- BGH I ZR 7/16 (Planet49: Cookie-Einwilligung, Transparenz und UWG/Datenschutz-Schnittstelle)
 - BGH XI ZR 26/20 (Bankgebühren-Anpassungsklauseln)
-- BGH I ZR 196/19 (Verbandsklagebefugnis vzbv)
+- BGH I ZR 186/17 (App-Zentrum/Meta: Verbandsklagebefugnis bei Datenschutz-/UWG-Verstoß)
 - BGH IX ZR 119/14 (geltungserhaltende Reduktion)
 
 ### Anwendung im Skill

@@ -23,7 +23,7 @@ Abmahnungen wegen Kennzeichnungsverstößen sind die häufigste Streitigkeit im 
 - **§ 5a Abs. 4 UWG**: Kennzeichnungspflicht; Verstoß begründet Unterlassungsanspruch.
 - **§ 339 BGB**: Vertragsstrafe bei Verstoß gegen Unterlassungserklärung; nicht zu hoch vereinbaren.
 - **§ 890 ZPO**: Ordnungsgeld bis 250 000 € oder Ordnungshaft bei Verstoß gegen gerichtliche Unterlassungsverfügung.
-- **BGH I ZR 90/20, I ZR 9/22, I ZR 35/21**: Maßgebliche Urteile zur Kennzeichnungspflicht.
+- **BGH I ZR 90/20, I ZR 125/20, I ZR 126/20 und I ZR 35/21**: Maßgebliche Influencer-Urteile zur Kennzeichnungspflicht, Gegenleistung, Tap-Tags und Sachvorteilen.
 
 ### Abmahnungs-Prüfschema
 
@@ -64,7 +64,7 @@ Abmahnungen wegen Kennzeichnungsverstößen sind die häufigste Streitigkeit im 
 - § 13 Abs. 4 UWG: https://www.gesetze-im-internet.de/uwg_2004/__13.html
 - § 5a Abs. 4 UWG: https://www.gesetze-im-internet.de/uwg_2004/__5a.html
 - BGH I ZR 90/20: https://openjur.de/u/2395894.html
-- BGH I ZR 9/22: https://openjur.de/u/2432341.html
+- BGH I ZR 125/20 und I ZR 126/20: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2021/2021170.html
 - BGH I ZR 35/21: https://openjur.de/u/2432342.html
 
 ## Output-Formate
@@ -95,6 +95,7 @@ Abmahnungen wegen Kennzeichnungsverstößen sind die häufigste Streitigkeit im 
 
 - BGH I ZR 35/21
 - BGH I ZR 90/20
-- BGH I ZR 9/22
+- BGH I ZR 125/20
+- BGH I ZR 126/20
 - BGH III ZR 183/21
 - BFH XI R 14/09

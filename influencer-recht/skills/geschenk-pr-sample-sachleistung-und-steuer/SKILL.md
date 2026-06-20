@@ -17,7 +17,7 @@ description: "Influencer-Recht: PR-Samples, Geschenke und Sachleistungen – ste
 
 Zugesendete Produkte ohne Vergütungsvereinbarung sind rechtlich vielschichtig:
 
-- **Werbekennzeichnung**: BGH I ZR 35/21 (Huss): Auch unverlangt zugesandtes Produkt, über das positiv berichtet wird, kann kennzeichnungspflichtig sein, wenn der Post werblichen Charakter aufweist.
+- **Werbekennzeichnung**: BGH I ZR 35/21 (Diana zur Löwen): Geschenkprodukte und sonstige Sachvorteile können kennzeichnungspflichtig sein, wenn der Post einen werblichen Überschuss zugunsten des Herstellers oder Händlers erhält.
 - **Steuer § 8 EStG**: Sachleistungen sind mit dem gemeinen Wert (Marktpreis) zu bewerten und als Betriebseinnahme zu erfassen – unabhängig davon, ob ein Posting-Auftrag bestand.
 - **§ 22 Nr. 3 EStG**: Gelegentliche Sachzuwendungen können als sonstige Einkünfte zu versteuern sein (ab 256 € Freigrenze).
 - **§ 4 Abs. 5 Nr. 1 EStG**: Geschenke an Geschäftspartner (für Brands) nur bis 50 € als Betriebsausgabe abziehbar.

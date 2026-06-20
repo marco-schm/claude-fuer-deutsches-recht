@@ -23,7 +23,7 @@ Schleichwerbung ist eine der häufigsten Abmahnursachen im Creator-Bereich:
 - **§ 138 BGB**: Sittenwidrigkeit bei systematischer Schleichwerbung mit Täuschungsabsicht.
 - **§ 826 BGB**: Vorsätzliche sittenwidrige Schädigung; relevant bei koordinierter Kaufempfehlungs-Manipulation.
 - **§ 4 Nr. 3 UWG**: Getarnte Geschäftspraktiken (Advertorial ohne Kennzeichnung) als unlauter.
-- **BGH „Cathy Hummels"** (I ZR 90/20): Differenzierung zwischen eigenmotivierten und kooperationsbasierten Posts.
+- **BGH „Cathy Hummels"** (I ZR 126/20): Differenzierung zwischen eigenmotivierten Posts, Tap-Tags ohne Gegenleistung und kooperationsbasierten werblichen Beiträgen.
 
 ### Entscheidungsbaum: Schleichwerbung?
 
@@ -66,7 +66,7 @@ Gibt es eine Gegenleistung (Geld, Produkt, Vorteil)?
 - § 22 MStV: https://www.gesetze-im-internet.de/mstv/__22.html
 - § 138 BGB: https://www.gesetze-im-internet.de/bgb/__138.html
 - § 826 BGB: https://www.gesetze-im-internet.de/bgb/__826.html
-- BGH I ZR 90/20: https://openjur.de/u/2395894.html
+- BGH I ZR 126/20: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2020/I_ZR_126-20.pdf?__blob=publicationFile&v=1
 
 ## Output-Formate
 

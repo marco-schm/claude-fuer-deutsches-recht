@@ -15,9 +15,10 @@ description: "Influencer-Recht: Werbekennzeichnung bei Eigenmarken – BGH Diana
 
 ## Kontext und Regelungslage
 
-Die Frage, ob Creator eigene Produkte kennzeichnen müssen, wurde durch den BGH differenziert beantwortet:
+Die Frage, ob Creator eigene Produkte kennzeichnen müssen, wurde durch die BGH-Influencer-Rechtsprechung differenziert beantwortet:
 
-- **BGH „Diana zur Löwen"** (I ZR 9/22, 13.01.2022): Werbung für eigene Produkte/Marke ist grundsätzlich nicht kennzeichnungspflichtig, wenn das wirtschaftliche Eigeninteresse für Follower offensichtlich ist.
+- **BGH „Leonie Hanne" und „Cathy Hummels"** (I ZR 125/20 und I ZR 126/20, 09.09.2021): Tap-Tags und Hinweise auf fremde Unternehmen ohne Gegenleistung sind nicht schon deshalb kennzeichnungspflichtig; entscheidend bleibt, ob der kommerzielle Zweck aus den Umständen erkennbar ist und ob ein werblicher Überschuss zugunsten eines fremden Unternehmens vorliegt.
+- **BGH „Diana zur Löwen"** (I ZR 35/21, 13.01.2022): Bei geschenkten Produkten, sonstigen Sachvorteilen oder besonders werblicher Produktinszenierung ist die Kennzeichnungspflicht streng zu prüfen; der Eigenmarken-Gedanke trägt dann nicht pauschal.
 - **§ 5a Abs. 4 UWG**: Kommerzieller Zweck muss erkennbar sein; bei Eigenmarken ist dies regelmäßig der Fall.
 - **§ 22 MStV**: Trennungsgebot gilt grundsätzlich; Eigeninteresse-Offensichtlichkeit kann es aufheben.
 - **Grenze**: Wenn die Eigenmarke getarnt als neutrale Empfehlung erscheint, besteht Kennzeichnungspflicht.
@@ -60,7 +61,8 @@ Die Frage, ob Creator eigene Produkte kennzeichnen müssen, wurde durch den BGH 
 
 ## Normen und Quellen
 
-- BGH I ZR 9/22 (Diana zur Löwen): https://openjur.de/u/2432341.html
+- BGH I ZR 125/20 und I ZR 126/20 (Influencer-Grundsatzentscheidungen ohne Gegenleistung): https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2021/2021170.html
+- BGH I ZR 35/21 (Diana zur Löwen): https://openjur.de/u/2432342.html
 - § 5a Abs. 4 UWG: https://www.gesetze-im-internet.de/uwg_2004/__5a.html
 - § 22 MStV: https://www.gesetze-im-internet.de/mstv/__22.html
 - ProdHaftG: https://www.gesetze-im-internet.de/prodhaftg/

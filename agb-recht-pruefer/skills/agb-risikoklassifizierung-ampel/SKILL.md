@@ -36,7 +36,7 @@ description: "Einstiegs- und Prüfungslinie für AGB Risikoklassifizierung Ampel
 - Vorausverzichtsklauseln auf Schadensersatz: BGH VIII ZR 23/19.
 
 ### Aktuelle Diskussion
-- DSGVO-konforme Einwilligungsklauseln, Cookie-Banner: BGH I ZR 7/16 ("Planet49"); BGH I ZR 26/19.
+- DSGVO-konforme Einwilligungsklauseln, Cookie-Banner: BGH I ZR 7/16 ("Planet49"); BGH I ZR 7/16 (Planet49).
 - AGB im Plattformhandel (Amazon, eBay) — BGH zur Marktstellung und § 307 BGB.
 - Update-Klauseln (§ 327f BGB) seit 2022 — BGH-Folgejudikate im Aufbau.
 

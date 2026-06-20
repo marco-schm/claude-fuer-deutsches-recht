@@ -43,7 +43,7 @@ description: "Solo-Selbstständige: erstellt schlanke AGB ohne unwirksame Überd
 
 ### Leitentscheidungen
 
-- BGH IX ZR 23/14 (Anwaltshaftung Drittwirkung)
+- BGH, Urteil vom 14.06.2012 - IX ZR 145/11 (Beraterhaftung und Vertrag mit Schutzwirkung zugunsten Dritter)
 - BVerfG 1 BvR 1474/12 (Anwaltswerbung)
 - BGH AnwSt (R) 5/19 (Anwaltsberufsgericht)
 - BFH VIII R 27/17 (Freiberufler-Gewinnermittlung)

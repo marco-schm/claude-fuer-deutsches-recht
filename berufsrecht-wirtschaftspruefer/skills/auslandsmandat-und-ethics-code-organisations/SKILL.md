@@ -52,10 +52,10 @@ description: "Wirtschaftsprüfer: auslandsmandat und ethics code - Organisations
 
 ### Leitentscheidungen
 
-- BGH IX ZR 23/14 (WP-Haftung Drittwirkung)
+- BGH, Urteil vom 12.03.2020 - VII ZR 236/19 (Abschlussprüferhaftung: § 332 HGB/§ 826 BGB, bewusst unrichtiges Testat)
 - BGH II ZR 217/03 (Bestätigungsvermerk und Vertrauensschutz)
 - EuGH C-606/19 (Unabhängigkeit Abschlussprüfer)
-- BVerfG 1 BvR 1750/17 (Berufsregulierung WP)
+- BGH, Urteil vom 12.03.2020 - VII ZR 236/19 (Abschlussprüferhaftung; freie BGH-Fundstelle vor Verwendung prüfen)
 - BGH WpSt (R) 1/19 (Berufsgerichtsverfahren WP)
 
 ### Anwendung im Skill

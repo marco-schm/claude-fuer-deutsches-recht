@@ -69,9 +69,9 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ### Leitentscheidungen
 
-- BFH VII R 5/15 (Steuerberater-Haftung)
-- BVerfG 1 BvR 2502/13 (Werbeverbote)
-- BGH IX ZR 23/14 (Berufshaftpflicht Steuerberater)
+- BFH, Urteil vom 23.02.2010 - VII R 24/09 (Fachberater-Bezeichnung und § 43 StBerG)
+- BVerfG, Beschluss vom 26.10.2004 - 1 BvR 981/00 (Steuerberaterwerbung und Art. 12 GG)
+- BGH, Urteil vom 14.06.2012 - IX ZR 145/11 (drittschützende Beraterhaftung bei Insolvenzreifeprüfung)
 - BGH StbSt R 2/21 (Berufsgerichtliche Verfahren)
 - BFH II R 33/19 (Vertretungsbefugnis)
 
