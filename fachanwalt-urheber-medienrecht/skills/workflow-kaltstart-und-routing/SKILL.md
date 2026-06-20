@@ -6,7 +6,7 @@ description: "Kaltstart und Routing im Plugin fachanwalt-urheber-medienrecht: f�
 # Kaltstart und Routing
 
 ## Aufgabe
-Dieser Workflow-Skill für `fachanwalt-urheber-medienrecht` Kaltstart und Routing im Plugin fachanwalt-urheber-medienrecht: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

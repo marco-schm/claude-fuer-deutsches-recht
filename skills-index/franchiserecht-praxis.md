@@ -1,6 +1,6 @@
 # franchiserecht-praxis
 
-**122 Skills** · Stand `v345.0.0`
+**122 Skills** · Stand `v346.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/franchiserecht-praxis/README.md)

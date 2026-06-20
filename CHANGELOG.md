@@ -1,3 +1,15 @@
+# v346.0.0 — Skill-Hardening: fachfremde Standardanker entfernt
+
+Sanity- und Qualitätsrelease nach v345 mit einem repo-weiten Light-Touch-Hardening der Skilltexte.
+
+- Fachfremde Standard-Fristenformeln in Skills durch eine vorsichtigere, fachgebietsbezogene Fristenregel ersetzt: Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen werden nicht mehr aus anderen Rechtsgebieten übernommen.
+- Versehentlich breit gestreute Datenschutz-Normanker aus fachfremden Plugins entfernt und in `startup-hr-personalabteilung-berlin`, `gesellschaftsgruender`, `influencer-recht` und `vereinsrecht-vereinsmanager` durch konkrete Normenanker des jeweiligen Fachgebiets ersetzt.
+- Alte Entstehungsformeln wie Sammelskill-/Bündelungs-Sprache erneut gesucht; keine Treffer im Skillbestand.
+- Plugin-Manifeste, Marketplace, Skill-Übersichten, Unified Mini Prompts und Release-Assets auf `v346.0.0` gebracht.
+- Validatoren: Plugin-Struktur, YAML-Frontmatter, Testakten-Gesamt-PDF, Release-ZIP-Bau/Validierung und `git diff --check`.
+
+---
+
 # v345.0.0 — Familienrechtliche Unterhalts-Testakten und Kaufrecht-Beweislastschärfung
 
 Sammelrelease über v344 mit zwei neuen familienrechtlichen Demonstrationsakten und einem gezielten Kaufrecht-/Handelsrecht-Update.

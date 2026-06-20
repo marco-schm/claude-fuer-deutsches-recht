@@ -68,8 +68,8 @@ _Influencer-Recht: Schleichwerbung und Redaktionsinhalt – § 5a UWG, §§ 138 
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: UWG §§ 3, 5, 5a, 8, 13, MStV § 22, DDG/TMG-Impressumspflichten, PAngV, HWG, MarkenG §§ 14, 15, UrhG §§ 15 ff., 19a, KUG §§ 22, 23, DSGVO Art. 5, 6, 9, 12-22, EStG/UStG/AO nur fallbezogen und live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -83,7 +83,7 @@ Schleichwerbung ist eine der häufigsten Abmahnursachen im Creator-Bereich:
 - **§ 138 BGB**: Sittenwidrigkeit bei systematischer Schleichwerbung mit Täuschungsabsicht.
 - **§ 826 BGB**: Vorsätzliche sittenwidrige Schädigung; relevant bei koordinierter Kaufempfehlungs-Manipulation.
 - **§ 4 Nr. 3 UWG**: Getarnte Geschäftspraktiken (Advertorial ohne Kennzeichnung) als unlauter.
-- **BGH „Cathy Hummels"** (I ZR 90/20): Differenzierung zwischen eigenmotivierten und kooperationsbasierten Posts.
+- **BGH „Cathy Hummels"** (I ZR 126/20): Differenzierung zwischen eigenmotivierten Posts, Tap-Tags ohne Gegenleistung und kooperationsbasierten werblichen Beiträgen.
 
 ### Entscheidungsbaum: Schleichwerbung?
 
@@ -126,7 +126,7 @@ Gibt es eine Gegenleistung (Geld, Produkt, Vorteil)?
 - § 22 MStV: https://www.gesetze-im-internet.de/mstv/__22.html
 - § 138 BGB: https://www.gesetze-im-internet.de/bgb/__138.html
 - § 826 BGB: https://www.gesetze-im-internet.de/bgb/__826.html
-- BGH I ZR 90/20: https://openjur.de/u/2395894.html
+- BGH I ZR 126/20: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2020/I_ZR_126-20.pdf?__blob=publicationFile&v=1
 
 ## Output-Formate
 
@@ -194,8 +194,8 @@ _Influencer-Recht: Creator-Fonds und Plattformauszahlungen – steuerliche Behan
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: UWG §§ 3, 5, 5a, 8, 13, MStV § 22, DDG/TMG-Impressumspflichten, PAngV, HWG, MarkenG §§ 14, 15, UrhG §§ 15 ff., 19a, KUG §§ 22, 23, DSGVO Art. 5, 6, 9, 12-22, EStG/UStG/AO nur fallbezogen und live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -319,8 +319,8 @@ _Influencer-Recht: Abmahnung wegen fehlender Werbekennzeichnung – Prüfung, mo
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: UWG §§ 3, 5, 5a, 8, 13, MStV § 22, DDG/TMG-Impressumspflichten, PAngV, HWG, MarkenG §§ 14, 15, UrhG §§ 15 ff., 19a, KUG §§ 22, 23, DSGVO Art. 5, 6, 9, 12-22, EStG/UStG/AO nur fallbezogen und live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -334,7 +334,7 @@ Abmahnungen wegen Kennzeichnungsverstößen sind die häufigste Streitigkeit im 
 - **§ 5a Abs. 4 UWG**: Kennzeichnungspflicht; Verstoß begründet Unterlassungsanspruch.
 - **§ 339 BGB**: Vertragsstrafe bei Verstoß gegen Unterlassungserklärung; nicht zu hoch vereinbaren.
 - **§ 890 ZPO**: Ordnungsgeld bis 250 000 € oder Ordnungshaft bei Verstoß gegen gerichtliche Unterlassungsverfügung.
-- **BGH I ZR 90/20, I ZR 9/22, I ZR 35/21**: Maßgebliche Urteile zur Kennzeichnungspflicht.
+- **BGH I ZR 90/20, I ZR 125/20, I ZR 126/20 und I ZR 35/21**: Maßgebliche Influencer-Urteile zur Kennzeichnungspflicht, Gegenleistung, Tap-Tags und Sachvorteilen.
 
 ### Abmahnungs-Prüfschema
 
@@ -375,7 +375,7 @@ Abmahnungen wegen Kennzeichnungsverstößen sind die häufigste Streitigkeit im 
 - § 13 Abs. 4 UWG: https://www.gesetze-im-internet.de/uwg_2004/__13.html
 - § 5a Abs. 4 UWG: https://www.gesetze-im-internet.de/uwg_2004/__5a.html
 - BGH I ZR 90/20: https://openjur.de/u/2395894.html
-- BGH I ZR 9/22: https://openjur.de/u/2432341.html
+- BGH I ZR 125/20 und I ZR 126/20: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2021/2021170.html
 - BGH I ZR 35/21: https://openjur.de/u/2432342.html
 
 ## Output-Formate
@@ -406,7 +406,8 @@ Abmahnungen wegen Kennzeichnungsverstößen sind die häufigste Streitigkeit im 
 
 - BGH I ZR 35/21
 - BGH I ZR 90/20
-- BGH I ZR 9/22
+- BGH I ZR 125/20
+- BGH I ZR 126/20
 - BGH III ZR 183/21
 - BFH XI R 14/09
 
@@ -421,8 +422,8 @@ _Influencer-Recht: Internationaler Wohnsitz und Wegzug – Steuerrecht, Wegzugsb
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: UWG §§ 3, 5, 5a, 8, 13, MStV § 22, DDG/TMG-Impressumspflichten, PAngV, HWG, MarkenG §§ 14, 15, UrhG §§ 15 ff., 19a, KUG §§ 22, 23, DSGVO Art. 5, 6, 9, 12-22, EStG/UStG/AO nur fallbezogen und live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 

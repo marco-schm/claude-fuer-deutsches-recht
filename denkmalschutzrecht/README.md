@@ -35,20 +35,6 @@ Konkrete Paragrafenzitate, Aktenzeichen und Fundstellen werden ausnahmslos in de
 
 Denkmalschutzrecht ist Landesrecht. Bei jedem Mandat ist als allererstes das anwendbare Landesgesetz zu identifizieren — danach erst die einschlägigen Paragrafen prüfen. Skills, die einen Sachverhalt ohne Belegenheit beurteilen, sind unzulässig.
 
-<!-- BEGIN megaprompt-und-vorlagen (autogen) -->
-## Experimentell: dieses Plugin auch ohne Claude Code
-
-### Unified Mini Prompt und Mega-Prompt
-
-Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet und als Release-Asset direkt herunterladbar ist.
-
-- **Sparversion herunterladen:** [`denkmalschutzrecht-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/denkmalschutzrecht-unified-mini-prompt.md)
-- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/denkmalschutzrecht.md`](../testakten/megaprompts/denkmalschutzrecht.md) (57 KB)
-
-Der große Mega-Prompt wird nicht als installierbares Plugin und nicht als CoWork-Uploadmaterial ausgeliefert. Für echte Plugin-Nutzung bitte das Plugin-ZIP verwenden; für Ein-Datei-Nutzung den Unified Mini Prompt.
-
-<!-- END megaprompt-und-vorlagen (autogen) -->
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
@@ -110,3 +96,17 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `widerspruch-und-klagewege` | Rechtsschutz im Denkmalschutzrecht: Widerspruchsverfahren nach Paragrafen 68 ff. VwGO (soweit landesrechtlich vorgesehen), Anfechtungsklage nach Paragraf 42 VwGO gegen Eintragung, Erlaubnisversagung, Untersagung und Beseitigungsanordnung... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+<!-- BEGIN megaprompt-und-vorlagen (autogen) -->
+## Experimentell: dieses Plugin auch ohne Claude Code
+
+### Unified Mini Prompt und Mega-Prompt
+
+Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet und als Release-Asset direkt herunterladbar ist.
+
+- **Sparversion herunterladen:** [`denkmalschutzrecht-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/denkmalschutzrecht-unified-mini-prompt.md)
+- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/denkmalschutzrecht.md`](../testakten/megaprompts/denkmalschutzrecht.md) (57 KB)
+
+Der große Mega-Prompt wird nicht als installierbares Plugin und nicht als CoWork-Uploadmaterial ausgeliefert. Für echte Plugin-Nutzung bitte das Plugin-ZIP verwenden; für Ein-Datei-Nutzung den Unified Mini Prompt.
+
+<!-- END megaprompt-und-vorlagen (autogen) -->

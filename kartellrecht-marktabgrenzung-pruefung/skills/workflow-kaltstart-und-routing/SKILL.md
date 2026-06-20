@@ -6,7 +6,7 @@ description: "Kaltstart und Routing im Plugin kartellrecht-marktabgrenzung-pruef
 # Kaltstart und Routing
 
 ## Aufgabe
-Dieser Workflow-Skill für `kartellrecht-marktabgrenzung-pruefung` Kaltstart und Routing im Plugin kartellrecht-marktabgrenzung-pruefung: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

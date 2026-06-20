@@ -6,7 +6,7 @@ description: "Unterlagen- und Lückenliste im Plugin fachanwalt-transport-spedit
 # Unterlagen- und Lückenliste
 
 ## Aufgabe
-Dieser Workflow-Skill für `fachanwalt-transport-speditionsrecht` Unterlagen- und Lückenliste im Plugin fachanwalt-transport-speditionsrecht: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Nutze diesen Workflow-Skill für Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

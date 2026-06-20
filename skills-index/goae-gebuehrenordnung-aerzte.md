@@ -1,6 +1,6 @@
 # goae-gebuehrenordnung-aerzte
 
-**65 Skills** · Stand `v345.0.0`
+**65 Skills** · Stand `v346.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/goae-gebuehrenordnung-aerzte/README.md)
