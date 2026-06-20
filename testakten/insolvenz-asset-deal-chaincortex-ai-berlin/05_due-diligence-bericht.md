@@ -75,7 +75,7 @@ Sozialplan-Bedarf für die 2 Nicht-Übernommenen: prüfen, ob Schwellenwerte des
 Dies ist der **rechtlich heikelste Workstream**. Detailanalyse in `07_…`. Zusammenfassung:
 
 - B2B-Kundendaten (12 juristische Personen): unproblematisch (keine personenbezogenen Daten i. S. d. Art. 4 Nr. 1 DSGVO, soweit nur Firmendaten; Ansprechpartner-Klardaten gelten nach EDSA-Stellungnahme als personenbezogen, aber unter Art. 6 I lit. f DSGVO durch berechtigtes Interesse gedeckt).
-- B2C-Kundendaten (8 natürliche Personen): personenbezogene Daten i. S. d. Art. 4 Nr. 1 DSGVO. Rechtsgrundlage für **Übermittlung** an Voracis: Art. 6 I lit. f DSGVO + EuGH **C-732/22** (Bonprix, 26.09.2024) — Asset-Deal-Privileg streng auszulegen; Information nach Art. 14 DSGVO ist zwingend (im Anhang `eml/dsgvo-information-privatkunden.eml`).
+- B2C-Kundendaten (8 natürliche Personen): personenbezogene Daten i. S. d. Art. 4 Nr. 1 DSGVO. Rechtsgrundlage für **Übermittlung** an Voracis: Art. 6 I lit. f DSGVO + EuGH **C-732/22** (Bonprix, 26.09.2024) — Asset-Deal-Privileg streng auszulegen; Information nach Art. 14 DSGVO ist zwingend (im Anhang `eml/dsgvo-information-b2c-privatkunden-entwurf.eml`).
 
 ## 6. Steuerliche Würdigung (Geschäftsveräußerung im Ganzen — § 1 Ia UStG)
 
