@@ -199,7 +199,7 @@ Automatisch generierte Komplett-Liste aller 97 Skills in diesem Plugin. Beschrei
 Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet und als Release-Asset direkt herunterladbar ist.
 
 - **Sparversion herunterladen:** [`insolvenzrecht-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzrecht-unified-mini-prompt.md)
-- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/insolvenzrecht.md`](../testakten/megaprompts/insolvenzrecht.md) (145 KB)
+- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/insolvenzrecht.md`](../testakten/megaprompts/insolvenzrecht.md) (146 KB)
 
 Der große Mega-Prompt wird nicht als installierbares Plugin und nicht als CoWork-Uploadmaterial ausgeliefert. Für echte Plugin-Nutzung bitte das Plugin-ZIP verwenden; für Ein-Datei-Nutzung den Unified Mini Prompt.
 

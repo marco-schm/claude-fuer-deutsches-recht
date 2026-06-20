@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-gefahruebergang-und-versendung
-description: "Prüft Gefahrübergang § 446 BGB, Versendungskauf § 447 BGB und Ausnahmen beim Verbrauchsgüterkauf."
+description: "Prüft Gefahrübergang § 446 BGB, Versendungskauf § 447 BGB, Verbrauchsgüterkauf-Ausnahmen, Beweislast für den Mangel bei Übergabe und die B2B-Folge für Wareneingang und § 377 HGB."
 ---
 
 # Kaufrecht: Gefahrübergang und Versendung
@@ -37,6 +37,13 @@ description: "Prüft Gefahrübergang § 446 BGB, Versendungskauf § 447 BGB und 
 7. Folgen des Gefahrübergangs: Käufer trägt Gefahr des zufälligen Untergangs (Preisgefahr und Leistungsgefahr)
 8. Beweislast: wer beweist den Zustand bei Gefahrübergang?
 
+## Mangel bei Gefahrübergang als Beweisfrage
+
+1. Der Gefahrübergang ist beim Sachmangel nicht nur ein Risikostichtag, sondern der Beweisstichtag: Der Käufer muss im Grundfall beweisen, dass die Sache gerade zu diesem Zeitpunkt mangelhaft war.
+2. Beim Verbrauchsgüterkauf wirkt § 477 Abs. 1 Satz 1 BGB zugunsten des Käufers. Nach BGH, Urteile vom 06.05.2026 - VIII ZR 73/24 und VIII ZR 257/23, genügt eine innerhalb eines Jahres auftretende Mangelerscheinung, wenn zumindest auch eine dem Verkäufer zurechenbare Ursache ernsthaft möglich ist.
+3. Bei B2B-Käufen greift § 477 BGB nicht. Dort muss der Unternehmerkäufer den Zustand bei Gefahrübergang mit Wareneingangsprotokoll, Fotos, Messwerten, Serien- oder Chargennummern, Zeugen und Sachverständigengutachten rekonstruieren.
+4. Beim beiderseitigen Handelskauf kommt § 377 HGB hinzu: Untersuchung und Rüge sichern nicht nur Rechte, sondern liefern die ersten Beweise für den Zustand bei Gefahrübergang.
+
 ## Fallstricke
 
 - Bei Verbrauchsgüterkauf geht Gefahr nicht auf den Verbraucher über, solange Ware nicht übergeben wurde.
@@ -56,6 +63,7 @@ description: "Prüft Gefahrübergang § 446 BGB, Versendungskauf § 447 BGB und 
 - § 447 BGB und § 475 Abs. 2 BGB immer im selben Atemzug prüfen.
 - Gattungsschuld immer auf Konkretisierung prüfen.
 - Gefahrübergang und Eigentumsverschaffung nicht verwechseln.
+- B2C-Beweislastumkehr nicht in B2B-Fälle übertragen; im Handelskauf immer § 377 HGB mitprüfen.
 
 ## Anschluss-Skills
 

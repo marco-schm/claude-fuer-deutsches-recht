@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-nacherfuellung-ruecktritt-minderung
-description: "Prüft Nacherfüllung § 439 BGB, Rücktritt § 437 Nr. 2 BGB, Minderung und Schadensersatz bei Sachmangel."
+description: "Prüft Nacherfüllung § 439 BGB, Rücktritt § 437 Nr. 2 BGB, Minderung, Schadensersatz, Beweislast für den Sachmangel bei Gefahrübergang und die B2C/B2B-Weiche zwischen § 477 BGB und § 377 HGB."
 ---
 
 # Kaufrecht: Nacherfüllung, Rücktritt und Minderung
@@ -19,7 +19,11 @@ description: "Prüft Nacherfüllung § 439 BGB, Rücktritt § 437 Nr. 2 BGB, Min
 - § 441 BGB: Minderung
 - § 442 BGB: Kenntnis des Käufers vom Mangel
 - § 443 BGB: Garantie
+- § 438 BGB: Verjährung der Mängelansprüche
+- § 446 BGB: Gefahrübergang bei Übergabe
 - § 475 BGB: Verbrauchsgüterkauf
+- § 477 BGB: Beweislastumkehr beim Verbrauchsgüterkauf
+- § 377 HGB: Untersuchungs- und Rügeobliegenheit im Handelskauf
 
 ## Intake
 
@@ -28,6 +32,7 @@ description: "Prüft Nacherfüllung § 439 BGB, Rücktritt § 437 Nr. 2 BGB, Min
 - Hat der Verkäufer Nacherfüllung verweigert oder ist sie fehlgeschlagen?
 - Wählt der Käufer Rücktritt oder Minderung?
 - Besteht zusätzlich ein Schadensersatzanspruch?
+- Ist § 477 BGB anwendbar oder handelt es sich um B2B/Handelskauf mit voller Käuferbeweislast und § 377 HGB?
 
 ## Prüfraster
 
@@ -39,6 +44,11 @@ description: "Prüft Nacherfüllung § 439 BGB, Rücktritt § 437 Nr. 2 BGB, Min
 6. Minderung nach § 441 BGB: Verhältnisrechnung, Rückforderung bei bereits gezahltem Kaufpreis
 7. Schadensersatz nach §§ 437 Nr. 3 und 280 BGB: neben oder statt der Leistung
 8. Verjährung: § 438 BGB; Beweislastumkehr § 477 BGB
+9. B2B-Handelskauf: § 477 BGB nicht anwenden; Wareneingang, Rügezugang und Zustand bei Gefahrübergang nach § 377 HGB belegen
+
+## Beweislast vor Rechtsfolge
+
+Vor Rücktritt, Minderung oder Schadensersatz wird immer die Beweisfrage geklärt: Bei B2C greift § 477 Abs. 1 Satz 1 BGB, wenn innerhalb eines Jahres eine Mangelerscheinung auftritt und eine Verkäuferursache ernsthaft möglich bleibt. Der BGH hat dies mit Urteilen vom 06.05.2026 - VIII ZR 73/24 und VIII ZR 257/23 bestätigt. Bei B2B trägt der Käufer dagegen die volle Last für Mangel und Gefahrübergang; der Output muss deshalb Wareneingangsprotokoll, Prüfbericht, Rügeinhalt, Rügefrist und Rügezugang abfragen.
 
 ## Fallstricke
 
@@ -46,6 +56,7 @@ description: "Prüft Nacherfüllung § 439 BGB, Rücktritt § 437 Nr. 2 BGB, Min
 - Bei Verbrauchsgüterkauf zwei Nachbesserungsversuche sind nicht gesetzlich vorgeschrieben; Einzelfallbeurteilung.
 - Minderungsberechnung: Verhältnis mängelfreier Kaufpreis zum tatsächlichen Kaufpreis.
 - § 442 BGB schließt Mängelansprüche aus, wenn Käufer Mangel bei Vertragsschluss kannte.
+- Ohne tragfähigen Nachweis des Mangels bei Gefahrübergang sind Rücktritt und Minderung im B2B oft prozessual schwach, auch wenn der technische Defekt plausibel wirkt.
 
 ## Stoppschilder
 

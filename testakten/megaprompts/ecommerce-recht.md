@@ -10,12 +10,12 @@ Dieser Megaprompt enthaelt top-10 von 72 Skills des Plugins `ecommerce-recht`.
 2. **datenschutzerklaerung-tracking-digitale** — Datenschutzerklärung Tracking Consent DSGVO TTDSG/TDDDG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und…
 3. **dsa-pflichten-e-commerce-einstweilige** — DSA Pflichten Vermittlungsdienste Online-Plattformen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Au…
 4. **e-commerce-fuer-apotheken-medizinprodukte-lebensmittel** — E-Commerce für Apotheken Medizinprodukte Lebensmittel: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und A…
-5. **gewaehrleistung-digitale-produkte-warenkauf-327-ff-434-ff-bgb** — Gewährleistung digitale Produkte Warenkauf §§ 327 ff 434 ff BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Ris…
-6. **grenzueberschreitender-verbrauchervertrag-rom-i-bruessel-ia** — Grenzüberschreitender Verbrauchervertrag Rom I Brüssel Ia: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken u…
-7. **informationspflichten-vertragsschluss** — Informationspflichten vor Vertragsschluss Art. 246a EGBGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken u…
-8. **klarna-paypal-plattformbedingungen-rechtlich-lesen** — Klarna PayPal Plattformbedingungen rechtlich lesen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausn…
-9. **unwirksame-klauseln-versand-ruecksendung-gewaehrleistung** — Unwirksame Klauseln Versand Rücksendung Gewährleistung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und …
-10. **widerrufsbelehrung-digitale-waren-dienstleistungen** — Widerrufsbelehrung digitale Waren Dienstleistungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausn…
+5. **grenzueberschreitender-verbrauchervertrag-rom-i-bruessel-ia** — Grenzüberschreitender Verbrauchervertrag Rom I Brüssel Ia: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken u…
+6. **informationspflichten-vertragsschluss** — Informationspflichten vor Vertragsschluss Art. 246a EGBGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken u…
+7. **klarna-paypal-plattformbedingungen-rechtlich-lesen** — Klarna PayPal Plattformbedingungen rechtlich lesen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausn…
+8. **unwirksame-klauseln-versand-ruecksendung-gewaehrleistung** — Unwirksame Klauseln Versand Rücksendung Gewährleistung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und …
+9. **widerrufsbelehrung-digitale-waren-dienstleistungen** — Widerrufsbelehrung digitale Waren Dienstleistungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausn…
+10. **dropshipping-drittland-oss-ioss-abmahnung** — Dropshipping Drittland Zoll Einfuhrumsatzsteuer: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahm…
 
 ---
 
@@ -348,44 +348,6 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ---
 
-## Skill: `gewaehrleistung-digitale-produkte-warenkauf-327-ff-434-ff-bgb`
-
-_Gewährleistung digitale Produkte Warenkauf §§ 327 ff 434 ff BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG i..._
-
-# Gewährleistung digitale Produkte Warenkauf §§ 327 ff 434 ff BGB
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Gewährleistung digitale Produkte Warenkauf §§ 327 ff 434 ff BGB
-- **Normen-/Quellenanker:** BGB Fernabsatz/Widerruf, PAngV, UWG, DSGVO, DDG/DSA, TDDDG, Produktsicherheit, Gewährleistung, Zahlungsdienste und Plattformrecht.
-- **Entscheidende Weiche:** Trenne Shop-Frontend, Bestellstrecke, Informationspflicht, Preis, Widerruf, Mängelrecht, Werbung, Tracking und Plattform-/Marketplace-Pflichten.
-
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
-
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
-
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
-
----
-
 ## Skill: `grenzueberschreitender-verbrauchervertrag-rom-i-bruessel-ia`
 
 _Grenzüberschreitender Verbrauchervertrag Rom I Brüssel Ia: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG im Ecom..._
@@ -621,6 +583,61 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachkern: Widerrufsbelehrung digitale Waren Dienstleistungen
+- **Normen-/Quellenanker:** BGB Fernabsatz/Widerruf, PAngV, UWG, DSGVO, DDG/DSA, TDDDG, Produktsicherheit, Gewährleistung, Zahlungsdienste und Plattformrecht.
+- **Entscheidende Weiche:** Trenne Shop-Frontend, Bestellstrecke, Informationspflicht, Preis, Widerruf, Mängelrecht, Werbung, Tracking und Plattform-/Marketplace-Pflichten.
+
+## Startfragen
+- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
+- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
+- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
+- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
+- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+
+## Prüf- und Arbeitslogik
+1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
+2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
+3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
+4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
+5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
+6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+
+## Qualitätsgate
+Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+---
+
+## Skill: `dropshipping-drittland-oss-ioss-abmahnung`
+
+_Dropshipping Drittland Zoll Einfuhrumsatzsteuer: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG im Ecommerce Recht._
+
+# Dropshipping Drittland Zoll Einfuhrumsatzsteuer
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 312c BGB` — Fernabsatzvertrag.
+- `§ 312d BGB` — Informationspflichten.
+- `§ 312j BGB` — Button-Loesung.
+- `§ 355 Abs. 1 BGB` — Widerruf.
+- `§ 357 BGB` — Widerrufsfolgen.
+- `§ 434 BGB` — Sachmangel.
+- `§ 475 BGB` — Verbrauchsgueterkauf.
+- `§ 5 DDG` — Impressum.
+- `§ 5 UWG` — Irrefuehrung.
+- `Art. 6 Abs. 1 DSGVO` — Rechtsgrundlage Datenverarbeitung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Dropshipping Drittland Zoll Einfuhrumsatzsteuer
 - **Normen-/Quellenanker:** BGB Fernabsatz/Widerruf, PAngV, UWG, DSGVO, DDG/DSA, TDDDG, Produktsicherheit, Gewährleistung, Zahlungsdienste und Plattformrecht.
 - **Entscheidende Weiche:** Trenne Shop-Frontend, Bestellstrecke, Informationspflicht, Preis, Widerruf, Mängelrecht, Werbung, Tracking und Plattform-/Marketplace-Pflichten.
 

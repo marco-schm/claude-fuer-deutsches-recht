@@ -1669,7 +1669,7 @@ _Prüfung eines eingehenden Lieferanten- oder Dienstleistervertrags gegen das Pl
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: BGB §§ 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; §§ 305 ff. BGB, NDA, SaaS- — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: BGB §§ 305-310, 433, 434, 437, 438, 446, 474, 477, HGB § 377, bei Dienstleistungen/Werkleistungen BGB §§ 611, 631, 633 ff., bei Auslandslieferungen CISG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BGH-/EuGH-Datenbank und eur-lex.europa.eu live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -1750,8 +1750,17 @@ Haftungsklauseln haben vier Dimensionen:
 
 **Kaufvertrag (§§ 434 ff. BGB; ggf. CISG):**
 - Sachmangelfreiheit § 434 BGB; Beschaffenheitsvereinbarung prüfen
-- Rügepflicht im B2B (§ 377 HGB): Fristen für unverzügliche Rüge
+- Gefahrübergang § 446 BGB als Beweisstichtag bestimmen; der Käufer muss im Grundfall beweisen, dass der Mangel zu diesem Zeitpunkt vorhanden war
+- Verjährung § 438 Abs. 1 Nr. 3 BGB: regelmäßig zwei Jahre, vertragliche Verkürzungen und Hemmung gesondert prüfen
+- B2C-Sonderregel § 477 BGB nicht in B2B-Verträge übertragen: Nach BGH, Urteile vom 06.05.2026 - VIII ZR 73/24 und VIII ZR 257/23, genügt im Verbrauchsgüterkauf eine binnen Jahresfrist auftretende Mangelerscheinung, wenn eine Verkäuferursache ernsthaft möglich ist; diese Vermutung gilt im Unternehmerverkehr nicht
+- Rügepflicht im B2B (§ 377 HGB): Fristen für Untersuchung und unverzügliche Rüge; Wareneingangskontrolle als Vertragsprozess mit Dokumentationspflichten regeln
+- Lieferantenvertrag aus Auftraggeber-Sicht sollte verlangen: Chargen-/Seriennummern, Prüfzeugnisse, CoC/CoA, Verpackungs- und Transportdaten, gemeinsame Befundsicherung, Musteraufbewahrung, unverzügliche Reaktionsfristen des Lieferanten und Anerkenntnis, dass Rügen über definierte Portale/E-Mail-Adressen zugehen
 - CISG-Abwahl: Falls Lieferant im Ausland (Vertragsstaaten), CISG ausschließen oder bewusst einbeziehen
+
+**B2B-Wareneingang als Klauselthema:**
+- Der Vertrag darf die Wareneingangskontrolle nicht der operativen Zufälligkeit überlassen. Prüfe, ob ein Anhang oder eine Qualitätssicherungsvereinbarung festlegt, welche Stichproben, Messwerte, Fotos, Prüfintervalle und Sperrvermerke bei Lieferbeginn, Serienlieferung und Reklamation erstellt werden.
+- Vermeide Klauseln, die § 377 HGB faktisch verschärfen, ohne dass die Fachabteilung dies leisten kann, etwa extrem kurze Rügefenster ab Lagerankunft bei komplexen technischen Gütern.
+- Redline bei fehlendem Prozess: "Der Lieferant stellt für jede Lieferung prüffähige Chargen-, Serien- und Prüfunterlagen bereit. Beanstandungen können innerhalb der nach ordnungsgemäßem Geschäftsgang erforderlichen Untersuchungsfrist über das im Auftrag genannte Reklamationspostfach oder Lieferantenportal gerügt werden. Der Lieferant unterstützt die Befundsicherung unverzüglich, insbesondere durch technische Stellungnahme, Zugriff auf Prüfprotokolle und Sicherung von Rückstellmustern."
 
 **Dienstvertrag (§§ 611 ff. BGB):**
 - Kein Erfolg geschuldet; nur ordnungsgemäße Leistung

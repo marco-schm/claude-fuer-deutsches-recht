@@ -1,6 +1,6 @@
 ---
 name: maengelruege-paragraph-377-hgb
-description: "Prüft Untersuchungs- und Rügeobliegenheit, offene/verdeckte Mängel, Rechtzeitigkeit und Rechtsverlust im Handelsrecht Hgb."
+description: "Prüft beim beiderseitigen Handelskauf die Untersuchungs- und Rügeobliegenheit nach § 377 HGB, Wareneingangskontrolle, Beweislast für Mangel bei Gefahrübergang, offene und verdeckte Mängel, Rechtsverlust und die klare Abgrenzung zur nur im B2C geltenden Vermutung des § 477 BGB."
 ---
 
 # Mängelrüge § 377 HGB
@@ -27,7 +27,27 @@ description: "Prüft Untersuchungs- und Rügeobliegenheit, offene/verdeckte Män
 
 ## Rechts- und Quellenanker
 
-HGB amtlich prüfen: https://www.gesetze-im-internet.de/hgb/. Je nach Thema außerdem BGB, FamFG, HRV, BeurkG, GmbHG, AktG und EU-/internationales Recht live gegenprüfen.
+HGB amtlich prüfen: https://www.gesetze-im-internet.de/hgb/. Für diesen Skill immer zusätzlich BGB §§ 433, 434, 437, 438, 446, 477 und HGB §§ 343, 344, 377 prüfen. § 477 BGB nur als Negativabgrenzung verwenden: Die Beweislastumkehr gilt beim Verbrauchsgüterkauf, nicht im B2B-Handelskauf.
+
+## B2B-Kern: Wareneingang ist Beweisvorsorge
+
+1. Zuerst klären, ob beide Parteien Kaufleute sind und der Kauf für beide Seiten ein Handelsgeschäft ist. § 377 HGB greift nur dann; bei Verbrauchern oder einseitig nichtkaufmännischen Konstellationen nicht unbesehen anwenden.
+2. Der B2B-Käufer muss den Sachmangel nach § 434 BGB und dessen Vorliegen bei Gefahrübergang nach § 446 BGB beweisen. § 477 BGB hilft ihm nicht. Der BGH hat die Beweislastumkehr zwar in den Urteilen vom 06.05.2026 - VIII ZR 73/24 und VIII ZR 257/23 für B2C gestärkt; gerade daraus folgt für B2B die harte Gegenlinie: keine Vermutung, keine Entlastung, kein Ersatz für QS.
+3. Die Wareneingangskontrolle ist deshalb nicht bloß Sache der Fachabteilung. Einkauf, Lager, Qualitätssicherung, Legal und Vertrieb müssen ein gemeinsames Beweisarchiv erzeugen: Lieferdatum, Lieferschein, Bestellnummer, Charge, Seriennummer, Prüfumfang, Prüfer, Prüfergebnis, Fotos, Video, Messwerte, Musteraufbewahrung und Abweichungsbericht.
+4. Offene Mängel sind unverzüglich nach ordnungsgemäßem Geschäftsgang zu untersuchen und zu rügen. Verdeckte Mängel sind unverzüglich nach Entdeckung zu rügen. Bei Serienfehlern und Chargenfehlern wird nicht nur der Einzelfall, sondern die gesamte betroffene Lieferung mit Menge, Zeitraum und Prüfmethode beschrieben.
+5. Die Rüge muss den Mangel so konkret bezeichnen, dass der Verkäufer prüfen, sichern und disponieren kann. Formulierungen wie "Ware schlecht" oder "Qualität nicht wie bestellt" reichen für streitige Verfahren regelmäßig nicht; besser sind messbare Parameter, betroffene Artikelnummern und eindeutige Rechtsfolgenvorbehalte.
+6. Versäumt der Käufer Untersuchung oder Rüge, gilt die Ware nach § 377 Abs. 2 und Abs. 3 HGB grundsätzlich als genehmigt. Dann sind Gewährleistungsrechte aus §§ 437 ff. BGB regelmäßig verloren, außer etwa bei Arglist nach § 377 Abs. 5 HGB.
+
+## Rüge- und Beweismatrix
+
+| Prüffrage | Benötigter Beleg | Rechtsfolge |
+|---|---|---|
+| Beiderseitiges Handelsgeschäft? | Handelsregister, Rollen, Bestell-/Lieferzweck | § 377 HGB anwendbar oder nicht |
+| Gefahrübergang wann? | Übergabeprotokoll, Frachtpapiere, Abliefernachweis | Stichtag für § 434 und § 446 BGB |
+| Mangel offen erkennbar? | Wareneingangscheck, Fotos, Messbericht | Sofortige Rügepflicht nach Untersuchung |
+| Mangel erst später erkennbar? | Entdeckungsdatum, Fehlerlog, Servicebericht | Rüge unverzüglich ab Entdeckung |
+| Rüge konkret und nachweisbar? | E-Mail mit Zugang, Ticket, Einschreiben, Lieferantenportal | Sicherung der Gewährleistungsrechte |
+| Verkäufer beruft sich auf Alternativursachen? | Zustand bei Eingang, Muster, Sachverständiger | B2B-Käufer bleibt beweisbelastet |
 
 ## Stoppschilder
 

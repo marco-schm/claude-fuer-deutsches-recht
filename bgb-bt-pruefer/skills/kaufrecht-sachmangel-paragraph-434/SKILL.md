@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-sachmangel-paragraph-434
-description: "Prüft Sachmangel § 434 BGB: subjektive, objektive und Montageanforderungen; Aliud-Lieferung."
+description: "Prüft Sachmangel § 434 BGB mit subjektiven, objektiven und Montageanforderungen, Aliud-Lieferung, Gefahrübergang, B2C-Beweislastumkehr nach § 477 BGB und B2B-Abgrenzung mit Wareneingang und § 377 HGB."
 ---
 
 # Kaufrecht: Sachmangel § 434 BGB
@@ -14,9 +14,14 @@ description: "Prüft Sachmangel § 434 BGB: subjektive, objektive und Montageanf
 
 - § 434 BGB: Sachmangel (subjektive Anforderungen, objektive Anforderungen, Montageanforderungen)
 - § 435 BGB: Rechtsmangel
+- § 437 BGB: Mängelrechte
+- § 438 Abs. 1 Nr. 3 BGB: regelmäßige zweijährige Verjährung der kaufrechtlichen Mängelansprüche
 - § 442 BGB: Kenntnis des Käufers
+- § 446 BGB: Gefahrübergang bei Übergabe
 - §§ 475 und 476 BGB: Verbrauchsgüterkauf (Abweichungsverbot und -ausnahmen)
+- § 477 Abs. 1 Satz 1 BGB: Vermutung beim Verbrauchsgüterkauf
 - §§ 475a–475e BGB: digitale Elemente
+- § 377 HGB: B2B-Untersuchungs- und Rügeobliegenheit beim beiderseitigen Handelskauf
 
 ## Intake
 
@@ -24,7 +29,9 @@ description: "Prüft Sachmangel § 434 BGB: subjektive, objektive und Montageanf
 - Entspricht die Sache der vereinbarten und der objektiv erwarteten Beschaffenheit?
 - Liegt eine Aliud-Lieferung (falsche Ware) vor?
 - Bestehen Montage- oder Installationsanweisungen, die nicht befolgt wurden?
+- Wann war Gefahrübergang und mit welchen Belegen lässt sich der Zustand der Sache genau zu diesem Zeitpunkt rekonstruieren?
 - Bei Verbrauchsgüterkauf: liegt eine unzulässige Abweichung nach § 476 BGB vor?
+- Bei Unternehmerkäufern: Wurde die Ware bei Eingang untersucht, wurden Mängel unverzüglich gerügt und ist der Zugang der Rüge belegbar?
 
 ## Prüfraster
 
@@ -37,12 +44,21 @@ description: "Prüft Sachmangel § 434 BGB: subjektive, objektive und Montageanf
 7. Digitale Elemente: zusätzliche Anforderungen nach § 475b BGB
 8. Kenntnis des Käufers: § 442 BGB als Ausschlussgrund
 
+## Gefahrübergang und Beweislast
+
+1. Der Sachmangel muss rechtlich am Gefahrübergang festgemacht werden. Späterer Ausfall, späterer Verschleiß oder spätere Beschädigung reichen nicht, wenn daraus nicht auf einen Mangel bei Übergabe geschlossen werden kann.
+2. Außerhalb des Verbrauchsgüterkaufs trägt der Käufer die volle Darlegungs- und Beweislast dafür, dass die Sache bei Gefahrübergang nicht den Anforderungen des § 434 BGB entsprach. Der Prüfvermerk muss daher immer eine Belegzeile für Übergabe-/Lieferdatum, Zustand, Fotos, Prüfbericht, Seriennummer, Charge und Zeugen enthalten.
+3. Beim Verbrauchsgüterkauf nach § 474 BGB greift § 477 Abs. 1 Satz 1 BGB, wenn sich innerhalb eines Jahres eine Mangelerscheinung zeigt. Nach BGH, Urteile vom 06.05.2026 - VIII ZR 73/24 und VIII ZR 257/23, genügt es, dass als Ursache zumindest auch ein dem Verkäufer zurechenbarer Umstand ernsthaft möglich bleibt. Weitere denkbare Ursachen schließen die Vermutung nicht aus.
+4. Beim beiderseitigen Handelskauf ersetzt § 477 BGB keine Wareneingangskontrolle. § 377 HGB verlangt Untersuchung und unverzügliche Rüge; versäumt der Käufer dies, gilt die Ware trotz tatsächlichen Mangels grundsätzlich als genehmigt.
+5. Die Regelfrist für Mängelansprüche beträgt nach § 438 Abs. 1 Nr. 3 BGB zwei Jahre. Fristberechnung, Hemmung und Neubeginn müssen getrennt von § 377 HGB geprüft werden, weil eine rechtzeitige Rüge die Verjährung nicht automatisch hemmt.
+
 ## Fallstricke
 
 - Seit 2022: objektive Anforderungen können nur nach § 476 BGB abbedungen werden (Verbrauchsgüterkauf).
 - Aliud-Lieferung ist kein eigenständiger Fall mehr, sondern Sachmangel nach § 434 BGB.
 - Werbeaussagen des Herstellers können objektive Anforderungen begründen, wenn Verkäufer sie kannte.
 - § 434 BGB ist seit der Schuldrechtsreform 2022 dreistufig (subjektiv, objektiv, Montage); altes Recht nicht anwenden.
+- B2B-Mandanten übernehmen manchmal die B2C-Intuition aus § 477 BGB. Im Handelskauf ist das gefährlich: Ohne belastbares Wareneingangs- und Rügearchiv bleibt der Mangel bei Gefahrübergang häufig unbeweisbar.
 
 ## Stoppschilder
 
@@ -62,4 +78,7 @@ description: "Prüft Sachmangel § 434 BGB: subjektive, objektive und Montageanf
 
 - https://www.gesetze-im-internet.de/bgb/__434.html
 - https://www.gesetze-im-internet.de/bgb/__437.html
+- https://www.gesetze-im-internet.de/bgb/__477.html
+- https://www.gesetze-im-internet.de/hgb/__377.html
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0771
+- BGH, Urteile vom 06.05.2026 - VIII ZR 73/24 und VIII ZR 257/23, Pressemitteilung 077/2026: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026077.html

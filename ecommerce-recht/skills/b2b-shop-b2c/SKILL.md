@@ -16,6 +16,10 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 357 BGB` — Widerrufsfolgen.
 - `§ 434 BGB` — Sachmangel.
 - `§ 475 BGB` — Verbrauchsgueterkauf.
+- `§ 477 BGB` — Beweislastumkehr beim Verbrauchsgüterkauf.
+- `§ 438 Abs. 1 Nr. 3 BGB` — zweijährige Regelverjährung kaufrechtlicher Mängelansprüche.
+- `§ 446 BGB` — Gefahrübergang bei Übergabe.
+- `§ 377 HGB` — Untersuchungs- und Rügeobliegenheit im beiderseitigen Handelskauf.
 - `§ 5 DDG` — Impressum.
 - `§ 5 UWG` — Irrefuehrung.
 - `Art. 6 Abs. 1 DSGVO` — Rechtsgrundlage Datenverarbeitung.
@@ -33,6 +37,14 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Fachkern: B2B-Shop und Unternehmernachweis
 - **Normen-/Quellenanker:** BGB Fernabsatz/Widerruf, PAngV, UWG, DSGVO, DDG/DSA, TDDDG, Produktsicherheit, Gewährleistung, Zahlungsdienste und Plattformrecht.
 - **Entscheidende Weiche:** Trenne Shop-Frontend, Bestellstrecke, Informationspflicht, Preis, Widerruf, Mängelrecht, Werbung, Tracking und Plattform-/Marketplace-Pflichten.
+
+## Rollenrouting für Gewährleistung und Beweislast
+
+1. Der Shop muss vor Vertragsschluss belastbar entscheiden, ob der Kunde als Verbraucher oder Unternehmer behandelt wird. Ein bloßes Feld "Firma" reicht nicht immer; sinnvoll sind USt-ID, Handelsregisterdaten, Firmenadresse, Bestätigung der beruflichen Verwendung und Plausibilitätsprüfung.
+2. Bei B2C gelten Verbrauchsgüterkaufregeln. § 477 Abs. 1 Satz 1 BGB vermutet bei einer binnen eines Jahres auftretenden Mangelerscheinung, dass die Sache bereits bei Gefahrübergang mangelhaft war. Nach BGH, Urteile vom 06.05.2026 - VIII ZR 73/24 und VIII ZR 257/23, reicht es, wenn ein Verkäuferrisiko als Ursache ernsthaft möglich bleibt.
+3. Bei B2B gilt § 477 BGB nicht. Der Unternehmerkunde muss den Mangel bei Gefahrübergang beweisen; bei beiderseitigem Handelskauf kommen Untersuchung und Rüge nach § 377 HGB hinzu.
+4. Ein B2B-Shop sollte deshalb nicht nur rechtliche Informationen ausblenden, sondern den Wareneingang praktisch adressieren: Hinweise auf Prüfpflichten, Reklamationskanal, erforderliche Angaben (Bestellnummer, Charge, Fotos, Prüfbericht), Zugangsnachweis und Fristenlogik.
+5. Mischshops müssen Textbausteine sauber trennen. Ein Verbrauchertext darf § 477 BGB nicht relativieren; ein Unternehmertext darf nicht versehentlich den Eindruck erzeugen, die B2C-Vermutung gelte auch im Handelskauf.
 
 ## Startfragen
 - Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?

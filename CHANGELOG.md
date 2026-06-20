@@ -1,3 +1,16 @@
+# v345.0.0 — Familienrechtliche Unterhalts-Testakten und Kaufrecht-Beweislastschärfung
+
+Sammelrelease über v344 mit zwei neuen familienrechtlichen Demonstrationsakten und einem gezielten Kaufrecht-/Handelsrecht-Update.
+
+- Neue Testakte `unterhalt-stufenklage-selbststaendiger-hamburg`: lückenhafte Auskunft eines selbstständigen Geschäftsführers, vorläufiger Unterhalt, Auskunftsaufforderung, Stufenantrag, BWA-Fragmente, EMLs, DOCX, XLSX, CSV und Gesamt-PDF.
+- Neue Testakte `unterhalt-berechnungsakte-vollstaendig-rosenheim`: vollständige Zahlenakte für Kindesunterhalt, Mehrbedarf, Trennungsunterhalt und nacheheliche Varianten mit Rechner, Vergleichsentwurf, EMLs, Gehalts-PDFs und Gesamt-PDF.
+- `fachanwalt-familienrecht` und `testakten/README.md` listen beide Akten mit Gesamt-PDF und Release-ZIP-Download.
+- Kaufrecht-/Handelsrecht-Skills in `bgb-bt-pruefer`, `handelsrecht-hgb`, `vertragsrecht` und `ecommerce-recht` um die BGH-Urteile vom 06.05.2026 (VIII ZR 73/24; VIII ZR 257/23) zur Reichweite des § 477 BGB ergänzt; zugleich B2B-Abgrenzung mit § 377 HGB und Wareneingangskontrolle geschärft.
+- Megaprompts, Unified Mini Prompts, Skill-Übersichten, Plugin-READMEs und `ASSET_INDEX.md` auf `v345.0.0` regeneriert.
+- Validatoren: Plugin-Struktur, YAML-Frontmatter, Testakten-Gesamt-PDF, Release-ZIP-Bau/Validierung und `git diff --check`.
+
+---
+
 # v344.0.0 — Sanity-Politur: letzte Routing-Platzhalter bereinigt
 
 Light-touch-Bughunt nach v343:

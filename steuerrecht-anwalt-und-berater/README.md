@@ -618,7 +618,7 @@ Automatisch generierte Komplett-Liste aller 384 Skills in diesem Plugin. Beschre
 Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet und als Release-Asset direkt herunterladbar ist.
 
 - **Sparversion herunterladen:** [`steuerrecht-anwalt-und-berater-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/steuerrecht-anwalt-und-berater-unified-mini-prompt.md)
-- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/steuerrecht-anwalt-und-berater.md`](../testakten/megaprompts/steuerrecht-anwalt-und-berater.md) (96 KB)
+- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/steuerrecht-anwalt-und-berater.md`](../testakten/megaprompts/steuerrecht-anwalt-und-berater.md) (97 KB)
 
 Der große Mega-Prompt wird nicht als installierbares Plugin und nicht als CoWork-Uploadmaterial ausgeliefert. Für echte Plugin-Nutzung bitte das Plugin-ZIP verwenden; für Ein-Datei-Nutzung den Unified Mini Prompt.
 

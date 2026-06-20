@@ -1,6 +1,6 @@
 # methodenlehre-buergerliches-recht
 
-**158 Skills** · Stand `v344.0.0`
+**158 Skills** · Stand `v345.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/methodenlehre-buergerliches-recht/README.md)

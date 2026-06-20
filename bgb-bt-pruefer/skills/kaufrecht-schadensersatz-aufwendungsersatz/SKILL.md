@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-schadensersatz-aufwendungsersatz
-description: "Prüft Schadensersatz §§ 437 Nr. 3 und 280 ff. BGB sowie Aufwendungsersatz § 284 BGB beim Kaufrecht."
+description: "Prüft Schadensersatz §§ 437 Nr. 3 und 280 ff. BGB sowie Aufwendungsersatz § 284 BGB beim Kaufrecht mit Schwerpunkt Sachmangel bei Gefahrübergang, § 477 BGB im B2C und § 377 HGB im B2B-Handelskauf."
 ---
 
 # Kaufrecht: Schadensersatz und Aufwendungsersatz
@@ -19,6 +19,11 @@ description: "Prüft Schadensersatz §§ 437 Nr. 3 und 280 ff. BGB sowie Aufwend
 - § 284 BGB: Aufwendungsersatz statt Schadensersatz
 - § 311a BGB: anfängliche Unmöglichkeit
 - § 249 BGB: Naturalrestitution; § 252 BGB: entgangener Gewinn
+- § 434 BGB: Sachmangel
+- § 438 BGB: Verjährung der Mängelansprüche
+- § 446 BGB: Gefahrübergang
+- § 477 BGB: Beweislastumkehr beim Verbrauchsgüterkauf
+- § 377 HGB: Untersuchungs- und Rügeobliegenheit im Handelskauf
 
 ## Intake
 
@@ -27,6 +32,7 @@ description: "Prüft Schadensersatz §§ 437 Nr. 3 und 280 ff. BGB sowie Aufwend
 - Welche Schäden sind entstanden: Mangelfolgeschäden, entgangener Gewinn, nutzlose Aufwendungen?
 - Kommt Aufwendungsersatz nach § 284 BGB in Betracht?
 - Liegt anfängliche Unmöglichkeit oder nachträgliche Pflichtverletzung vor?
+- Ist die B2C-Vermutung des § 477 BGB eröffnet oder muss der B2B-Käufer Mangel, Gefahrübergang, Kausalität und rechtzeitige Rüge selbst beweisen?
 
 ## Prüfraster
 
@@ -38,6 +44,11 @@ description: "Prüft Schadensersatz §§ 437 Nr. 3 und 280 ff. BGB sowie Aufwend
 6. Aufwendungsersatz nach § 284 BGB: statt Schadensersatz; vergebliche Aufwendungen im Vertrauen auf Leistungserhalt
 7. Differenzhypothese für Schadensberechnung
 8. Verjährung: § 438 BGB; Beweislastumkehr § 477 BGB
+9. B2B-Handelskauf: § 377 HGB, Wareneingangsdokumentation und Rügezugang als Anspruchsvoraussetzungs- und Beweisrisiko prüfen
+
+## Beweislast und Schadensaufbau
+
+Schadensersatz wegen mangelhafter Kaufsache darf nicht mit dem Schaden beginnen. Zuerst wird belegt, dass bei Gefahrübergang ein Sachmangel vorlag. Beim Verbrauchsgüterkauf hilft § 477 Abs. 1 Satz 1 BGB: Nach BGH, Urteile vom 06.05.2026 - VIII ZR 73/24 und VIII ZR 257/23, reicht eine innerhalb eines Jahres erkennbare Mangelerscheinung, wenn eine Verkäuferursache ernsthaft möglich bleibt. Im B2B-Handelskauf gilt diese Vermutung nicht; dort müssen Wareneingang, Prüfprotokoll, Rügeinhalt, Zugang der Rüge und technischer Ursachenzusammenhang in die Schadensmatrix aufgenommen werden.
 
 ## Fallstricke
 
@@ -45,6 +56,7 @@ description: "Prüft Schadensersatz §§ 437 Nr. 3 und 280 ff. BGB sowie Aufwend
 - Aufwendungsersatz nach § 284 BGB ist kein Schadensersatz; andere Voraussetzungen.
 - Mangelfolgeschäden können ohne Fristsetzung geltend gemacht werden.
 - § 284 BGB und § 281 BGB schließen sich gegenseitig aus (kein gleichzeitiger Antrag).
+- Verkäuferalternativen wie Fehlbedienung, Transportschaden oder nachträglicher Verschleiß sind im B2C erst auf der Widerlegungsebene relevant; im B2B muss der Käufer solche Gegenargumente von Anfang an beweisfest antizipieren.
 
 ## Stoppschilder
 

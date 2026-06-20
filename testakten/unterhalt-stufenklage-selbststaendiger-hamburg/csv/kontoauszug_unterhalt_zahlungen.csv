@@ -1,0 +1,6 @@
+Datum;Buchungstext;Betrag EUR;Bemerkung
+2026-02-03;Joris Unterhalt Februar;2250.00;vor Kürzung
+2026-03-02;Joris Unterhalt März;1500.00;Ankündigung Engpass
+2026-04-02;Joris Unterhalt April;900.00;gekürzt
+2026-05-04;Joris Unterhalt Mai;900.00;gekürzt
+2026-06-03;Joris Unterhalt Juni;900.00;gekürzt

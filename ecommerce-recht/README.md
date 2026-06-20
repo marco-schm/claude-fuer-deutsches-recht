@@ -93,7 +93,7 @@ Automatisch generierte Komplett-Liste aller 72 Skills in diesem Plugin. Beschrei
 | `elektrog-verpackg-geoblocking-verordnung` | ElektroG VerpackG BattG Registrierung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFS... |
 | `fernabsatzvertrag-312c-bgb` | Fernabsatzvertrag § 312c BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR;... |
 | `geoblocking-verordnung-eu` | Geoblocking-Verordnung EU: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; Ele... |
-| `gewaehrleistung-digitale-produkte-warenkauf-327-ff-434-ff-bgb` | Gewährleistung digitale Produkte Warenkauf §§ 327 ff 434 ff BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV;... |
+| `gewaehrleistung-digitale-produkte-warenkauf-327-ff-434-ff-bgb` | Gewährleistung für digitale Produkte und Warenkauf im Onlinehandel: §§ 327 ff., 434 ff., 475b, 475c, 477 BGB, BGH-Rechtsprechung vom 06.05.2026, Verjährung und B2B-Abgrenzung mit § 377 HGB. |
 | `grenzueberschreitender-verbrauchervertrag-rom-i-bruessel-ia` | Grenzüberschreitender Verbrauchervertrag Rom I Brüssel Ia: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG;... |
 | `impressum-ddg-influencer-affiliate` | Impressum DDG Anbieterkennzeichnung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG;... |
 | `influencer-affiliate-kennzeichnung-uwg` | Influencer Affiliate Kennzeichnung UWG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BF... |
@@ -148,7 +148,7 @@ Automatisch generierte Komplett-Liste aller 72 Skills in diesem Plugin. Beschrei
 Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet und als Release-Asset direkt herunterladbar ist.
 
 - **Sparversion herunterladen:** [`ecommerce-recht-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ecommerce-recht-unified-mini-prompt.md)
-- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/ecommerce-recht.md`](../testakten/megaprompts/ecommerce-recht.md) (62 KB)
+- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/ecommerce-recht.md`](../testakten/megaprompts/ecommerce-recht.md) (63 KB)
 
 Der große Mega-Prompt wird nicht als installierbares Plugin und nicht als CoWork-Uploadmaterial ausgeliefert. Für echte Plugin-Nutzung bitte das Plugin-ZIP verwenden; für Ein-Datei-Nutzung den Unified Mini Prompt.
 

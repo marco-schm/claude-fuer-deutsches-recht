@@ -116,17 +116,17 @@ Automatisch generierte Komplett-Liste aller 108 Skills in diesem Plugin. Beschre
 | `kaufrecht-abweichungsvereinbarung-objektive-anforderungen-476` | Prüft, ob Händler oder Hersteller objektive Anforderungen, digitale Funktionen, Updateversprechen, Kompatibilität oder Interoperabilität wirksam abbedungen haben. |
 | `kaufrecht-abweichungsvereinbarung-objektive-beweislast` | Prüft Abweichungsvereinbarungen von objektiven Anforderungen § 476 BGB beim Verbrauchsgüterkauf im BGB BT. |
 | `kaufrecht-beweislast-verjaehrung-digitale` | Prüft Beweislastumkehr § 477 BGB, Verjährung § 438 BGB und Besonderheiten bei digitalen Elementen. |
-| `kaufrecht-beweislast-verjaehrung-digitale-elemente` | Prüft Beweislastumkehr § 477 BGB, Verjährung § 438 BGB und Besonderheiten bei digitalen Elementen im BGB BT. |
+| `kaufrecht-beweislast-verjaehrung-digitale-elemente` | Prüft im Kaufrecht die Beweislast für den Sachmangel bei Gefahrübergang, die B2C-Vermutung des § 477 BGB nach BGH, Urteile vom 06.05.2026 - VIII ZR 73/24 und VIII ZR 257/23, die Verjährung nach § 438 BGB, digitale Elemente und die B2B-Ab... |
 | `kaufrecht-dauerhafte-bereitstellung-digitaler` | Prüft dauerhafte Bereitstellungspflicht digitaler Elemente § 475c BGB und Folgen bei Pflichtverletzung. |
 | `kaufrecht-dauerhafte-bereitstellung-digitaler-elemente-475c` | Prüft dauerhafte Bereitstellungspflicht digitaler Elemente § 475c BGB und Folgen bei Pflichtverletzung im BGB BT. |
-| `kaufrecht-gefahruebergang-und-versendung` | Prüft Gefahrübergang § 446 BGB, Versendungskauf § 447 BGB und Ausnahmen beim Verbrauchsgüterkauf. |
-| `kaufrecht-gefahruebergang-versendung` | Prüft Gefahrübergang § 446 BGB, Versendungskauf § 447 BGB und Ausnahmen beim Verbrauchsgüterkauf im BGB BT. |
-| `kaufrecht-nacherfuellung-ruecktritt-minderung` | Prüft Nacherfüllung § 439 BGB, Rücktritt § 437 Nr. 2 BGB, Minderung und Schadensersatz bei Sachmangel. |
+| `kaufrecht-gefahruebergang-und-versendung` | Prüft Gefahrübergang § 446 BGB, Versendungskauf § 447 BGB, Verbrauchsgüterkauf-Ausnahmen, Beweislast für den Mangel bei Übergabe und die B2B-Folge für Wareneingang und § 377 HGB. |
+| `kaufrecht-gefahruebergang-versendung` | Prüft Gefahrübergang § 446 BGB, Versendungskauf § 447 BGB, Verbrauchsgüterkauf-Ausnahmen, Beweislast für den Mangel bei Übergabe und B2B-Wareneingang mit § 377 HGB im BGB BT. |
+| `kaufrecht-nacherfuellung-ruecktritt-minderung` | Prüft Nacherfüllung § 439 BGB, Rücktritt § 437 Nr. 2 BGB, Minderung, Schadensersatz, Beweislast für den Sachmangel bei Gefahrübergang und die B2C/B2B-Weiche zwischen § 477 BGB und § 377 HGB. |
 | `kaufrecht-rechtsmangel-paragraph-435` | Prüft Rechtsmangel § 435 BGB: Rechte Dritter, beschränkt dingliche Rechte, öffentlich-rechtliche Lasten und Rechtsfolgen. |
 | `kaufrecht-right-to-repair-und-nacherfuellung` | Prüft Right to Repair EU-Recht, Nacherfüllungsrecht § 439 BGB und Reparaturpflichten bei Verbrauchsgüterkauf. |
 | `kaufrecht-right-to-sachmangel-paragraph` | Prüft Right to Repair EU-Recht, Nacherfüllungsrecht § 439 BGB und Reparaturpflichten bei Verbrauchsgüterkauf im BGB BT. |
-| `kaufrecht-sachmangel-paragraph-434` | Prüft Sachmangel § 434 BGB: subjektive, objektive und Montageanforderungen; Aliud-Lieferung. |
-| `kaufrecht-schadensersatz-aufwendungsersatz` | Prüft Schadensersatz §§ 437 Nr. 3 und 280 ff. BGB sowie Aufwendungsersatz § 284 BGB beim Kaufrecht. |
+| `kaufrecht-sachmangel-paragraph-434` | Prüft Sachmangel § 434 BGB mit subjektiven, objektiven und Montageanforderungen, Aliud-Lieferung, Gefahrübergang, B2C-Beweislastumkehr nach § 477 BGB und B2B-Abgrenzung mit Wareneingang und § 377 HGB. |
+| `kaufrecht-schadensersatz-aufwendungsersatz` | Prüft Schadensersatz §§ 437 Nr. 3 und 280 ff. BGB sowie Aufwendungsersatz § 284 BGB beim Kaufrecht mit Schwerpunkt Sachmangel bei Gefahrübergang, § 477 BGB im B2C und § 377 HGB im B2B-Handelskauf. |
 | `kaufrecht-updates-sicherheitsupdates-327f` | Prüft Update- und Sicherheitsupdatepflichten §§ 327f und 475b BGB bei digitalen Produkten und Ware mit digitalen Elementen. |
 | `kaufrecht-updates-sicherheitsupdates-327f-475b` | Prüft Update- und Sicherheitsupdatepflichten §§ 327f und 475b BGB bei digitalen Produkten und Ware mit digitalen Elementen im BGB BT. |
 | `kaufrecht-ware-leasing-schnittstelle` | Prüft Kaufvertrag über Ware mit digitalen Elementen § 475b BGB: Mangelfreiheit, Updatepflichten und Verhältnis zu §§ 327 ff. BGB im BGB BT. |
@@ -153,7 +153,7 @@ Automatisch generierte Komplett-Liste aller 108 Skills in diesem Plugin. Beschre
 | `tausch-schenkung-unechte-goa` | Tausch § 480 BGB und Schenkung §§ 516-534 BGB: Unentgeltlichkeit, Form, Widerruf, Notbedarfseinrede im BGB BT. |
 | `tausch-und-schenkung` | Tausch § 480 BGB und Schenkung §§ 516-534 BGB: Unentgeltlichkeit, Form, Widerruf, Notbedarfseinrede. |
 | `unechte-goa-paragraph-687` | Unechte GoA § 687 BGB: eigenmächtige Durchführung eines fremden Geschäfts als eigenes. |
-| `verbrauchsgueterkauf-digitales` | Verbrauchsgüterkauf §§ 474 ff. BGB und digitale Elemente: Beweislastumkehr, zwingende Normen, §§ 327 ff. BGB. |
+| `verbrauchsgueterkauf-digitales` | Verbrauchsgüterkauf §§ 474 ff. BGB und digitale Elemente: zwingendes Verbraucher-Kaufrecht, § 477 BGB nach BGH vom 06.05.2026, Updatepflichten, Verjährung und Rückgriff. |
 | `vergleich-paragraph-779` | Vergleich § 779 BGB: gegenseitiges Nachgeben, Irrtum über Grundlage, Widerruf und Abgrenzung. |
 | `verhandlungsplan-vertragsschluss` | Vergleich und Verhandlungsplan im BGB BT: Vergleichskorridore, Verhandlungsführung, Dokumentation. |
 | `verjaehrung-bgb-bt-spezial` | Verjährung im BGB BT: Sonderfristen für Kauf §438, Miet §548, Werk §634a, Delikt §852 BGB. |
@@ -184,7 +184,7 @@ Automatisch generierte Komplett-Liste aller 108 Skills in diesem Plugin. Beschre
 Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet und als Release-Asset direkt herunterladbar ist.
 
 - **Sparversion herunterladen:** [`bgb-bt-pruefer-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bgb-bt-pruefer-unified-mini-prompt.md)
-- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/bgb-bt-pruefer.md`](../testakten/megaprompts/bgb-bt-pruefer.md) (34 KB)
+- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/bgb-bt-pruefer.md`](../testakten/megaprompts/bgb-bt-pruefer.md) (39 KB)
 
 Der große Mega-Prompt wird nicht als installierbares Plugin und nicht als CoWork-Uploadmaterial ausgeliefert. Für echte Plugin-Nutzung bitte das Plugin-ZIP verwenden; für Ein-Datei-Nutzung den Unified Mini Prompt.
 

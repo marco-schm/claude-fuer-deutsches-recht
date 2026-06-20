@@ -210,7 +210,7 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet und als Release-Asset direkt herunterladbar ist.
 
 - **Sparversion herunterladen:** [`mandantenanfragen-assistent-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/mandantenanfragen-assistent-unified-mini-prompt.md)
-- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/mandantenanfragen-assistent.md`](../testakten/megaprompts/mandantenanfragen-assistent.md) (113 KB)
+- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/mandantenanfragen-assistent.md`](../testakten/megaprompts/mandantenanfragen-assistent.md) (114 KB)
 
 Der große Mega-Prompt wird nicht als installierbares Plugin und nicht als CoWork-Uploadmaterial ausgeliefert. Für echte Plugin-Nutzung bitte das Plugin-ZIP verwenden; für Ein-Datei-Nutzung den Unified Mini Prompt.
 

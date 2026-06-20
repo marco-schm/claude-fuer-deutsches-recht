@@ -192,7 +192,7 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `fristen-risikoampel-mandantenkommunikation` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Vertragsrecht. |
 | `fristennotiz-naechster-vertriebsvertraege` | Anpassen: Fristennotiz und nächster Schritt im Vertragsrecht. |
 | `kaltstart-interview` | 'Führt das Erstgespräch zur Mandatsaufnahme im Vertragsrecht durch und schreibt das Kanzlei- bzw. Mandatsprofil. Lädt beim ersten Einsatz des Plugins, wenn die Konfigurationsdatei noch Platzhalter enthält oder wenn der Nutzer 'Plugin ein... |
-| `lieferanten-tatbestand-beweis-und-belege` | Lieferanten: Tatbestandsmerkmale, Beweisfragen und Beleglage im Vertragsrecht. |
+| `lieferanten-tatbestand-beweis-und-belege` | Lieferanten: Tatbestandsmerkmale, Beweisfragen und Beleglage im Vertragsrecht, insbesondere Mangel bei Gefahrübergang, Wareneingangskontrolle, § 377 HGB und Abgrenzung zur B2C-Beweislastumkehr nach § 477 BGB. |
 | `lieferantenvertrag-pruefung` | Prüfung eines eingehenden Lieferanten- oder Dienstleistervertrags gegen das Playbook der Rechtsabteilung. Werk-/Dienstvertrag (§§ 631 und 611 BGB), Gewährleistung, Haftungsbegrenzung, LkSG-Anforderungen, CISG-Abwahl. Abweichungen werden... |
 | `mandat-arbeitsbereich-vr-einfuehrung` | Verwaltet Mandatsarbeitsbereiche — neu anlegen, auflisten, wechseln, abschließen oder von Mandatsebene auf Kanzleiebene wechseln. Lädt, wenn ein Anwalt mit mehreren Mandanten ein neues Mandat anlegen, zum aktiven Mandat wechseln, Mandate... |
 | `nda-durchsetzer` | 'Überarbeitet ein NDA der Gegenseite **konservativ im Änderungsmodus**, ohne Struktur, Nummerierung, Reihenfolge oder Look-&-Feel zu verändern, und erstellt parallel eine strukturierte Analyse (Executive Summary, struktureller Vergleich,... |
@@ -246,7 +246,7 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet und als Release-Asset direkt herunterladbar ist.
 
 - **Sparversion herunterladen:** [`vertragsrecht-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/vertragsrecht-unified-mini-prompt.md)
-- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/vertragsrecht.md`](../testakten/megaprompts/vertragsrecht.md) (174 KB)
+- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/vertragsrecht.md`](../testakten/megaprompts/vertragsrecht.md) (176 KB)
 
 Der große Mega-Prompt wird nicht als installierbares Plugin und nicht als CoWork-Uploadmaterial ausgeliefert. Für echte Plugin-Nutzung bitte das Plugin-ZIP verwenden; für Ein-Datei-Nutzung den Unified Mini Prompt.
 

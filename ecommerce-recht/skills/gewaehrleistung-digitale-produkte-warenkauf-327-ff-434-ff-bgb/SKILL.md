@@ -1,6 +1,6 @@
 ---
 name: gewaehrleistung-digitale-produkte-warenkauf-327-ff-434-ff-bgb
-description: "Gewährleistung digitale Produkte Warenkauf §§ 327 ff 434 ff BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG i..."
+description: "Gewährleistung für digitale Produkte und Warenkauf im Onlinehandel: §§ 327 ff., 434 ff., 475b, 475c, 477 BGB, BGH-Rechtsprechung vom 06.05.2026, Verjährung und B2B-Abgrenzung mit § 377 HGB."
 ---
 
 # Gewährleistung digitale Produkte Warenkauf §§ 327 ff 434 ff BGB
@@ -16,6 +16,25 @@ description: "Gewährleistung digitale Produkte Warenkauf §§ 327 ff 434 ff BGB
 ## Fachkern: Gewährleistung digitale Produkte Warenkauf §§ 327 ff 434 ff BGB
 - **Normen-/Quellenanker:** BGB Fernabsatz/Widerruf, PAngV, UWG, DSGVO, DDG/DSA, TDDDG, Produktsicherheit, Gewährleistung, Zahlungsdienste und Plattformrecht.
 - **Entscheidende Weiche:** Trenne Shop-Frontend, Bestellstrecke, Informationspflicht, Preis, Widerruf, Mängelrecht, Werbung, Tracking und Plattform-/Marketplace-Pflichten.
+
+## Gewährleistungslogik für Online-Waren und digitale Elemente
+
+1. Zuerst trennen: reine digitale Inhalte/Dienstleistungen nach §§ 327 ff. BGB, Ware mit digitalen Elementen nach §§ 475b, 475c BGB oder klassischer Warenkauf nach §§ 433, 434 BGB.
+2. Beim Verbrauchsgüterkauf gilt § 477 Abs. 1 Satz 1 BGB. Nach BGH, Urteile vom 06.05.2026 - VIII ZR 73/24 und VIII ZR 257/23, genügt eine innerhalb eines Jahres auftretende Mangelerscheinung, wenn als Ursache zumindest auch ein dem Verkäufer zurechenbarer Umstand ernsthaft in Betracht kommt. Weitere theoretische Ursachen reichen nicht, um die Vermutung zu blockieren.
+3. Die Regelfrist für kaufrechtliche Mängelansprüche beträgt nach § 438 Abs. 1 Nr. 3 BGB zwei Jahre. Bei digitalen Elementen zusätzlich prüfen, ob Updatepflichten oder dauerhafte Bereitstellung die Mangelprüfung und Fristlogik verändern.
+4. Bei B2B-Shops gilt § 477 BGB nicht. Unternehmerkunden müssen den Mangel bei Gefahrübergang beweisen; bei beiderseitigem Handelskauf muss der Shopprozess § 377 HGB und einen konkreten Reklamationskanal berücksichtigen.
+5. In Rechtstexten niemals schreiben, der Kunde müsse in jedem Fall beweisen, dass der Mangel schon bei Übergabe vorhanden war. Das ist bei B2C seit § 477 BGB falsch. Ebenso wenig darf ein B2B-Text den Eindruck erwecken, eine Verbraucher-Beweislastumkehr gelte auch für Unternehmer.
+
+## Normanker für diesen Skill
+
+- § 327 BGB und §§ 327e, 327f BGB: digitale Produkte und Aktualisierungspflichten
+- § 434 BGB: Sachmangel
+- § 437 BGB: Mängelrechte
+- § 438 Abs. 1 Nr. 3 BGB: zweijährige Verjährung
+- § 446 BGB: Gefahrübergang
+- §§ 474, 475b, 475c BGB: Verbrauchsgüterkauf und Waren mit digitalen Elementen
+- § 477 BGB: Beweislastumkehr beim Verbrauchsgüterkauf
+- § 377 HGB: B2B-Untersuchungs- und Rügeobliegenheit
 
 ## Startfragen
 - Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?

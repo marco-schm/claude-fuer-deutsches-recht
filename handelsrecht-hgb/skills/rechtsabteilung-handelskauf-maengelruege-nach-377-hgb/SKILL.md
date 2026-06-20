@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-handelskauf-maengelruege-nach-377-hgb
-description: "Rechtsabteilungs-Fachmodul für Handelskauf-Mängelrüge nach § 377 HGB: Rügefristen, Wareneingang und Serienfehler werden als Beweisgeführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsrecht Hgb."
+description: "Rechtsabteilungs-Fachmodul für B2B-Handelskauf und § 377 HGB: Wareneingangskontrolle, Rügefristen, Serienfehler, Beweislast für Mangel bei Gefahrübergang und Abgrenzung zur nur im B2C geltenden § 477-BGB-Vermutung."
 ---
 
 # Rechtsabteilung: Handelskauf-Mängelrüge nach § 377 HGB
@@ -20,14 +20,22 @@ description: "Rechtsabteilungs-Fachmodul für Handelskauf-Mängelrüge nach § 3
 
 ## Spezialkern: Rechtsabteilung: Handelskauf-Mängelrüge nach § 377 HGB
 
-- **Konkretes Problem:** Rügefristen, Wareneingang und Serienfehler werden als Beweisgeführt.
-- **Norm-/Quellenanker:** HGB Handelsstand, Prokura, Handelskauf § 377 HGB, Kommission, Lager/Spedition/Fracht, kaufmännische Bestätigung und BGB-Schnittstellen.
+- **Konkretes Problem:** Die Rechtsabteilung muss verhindern, dass ein sachlich guter B2B-Mängelfall an fehlender Wareneingangsprüfung, verspäteter Rüge oder unbeweisbarem Gefahrübergang scheitert.
+- **Norm-/Quellenanker:** HGB §§ 343, 344, 377; BGB §§ 433, 434, 437, 438, 446, 477; bei internationalem Warenkauf zusätzlich CISG Art. 38, 39 und 49 live prüfen.
 - **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
 - **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 
-HGB § 377; CISG-Schnittstelle; BGB Kaufrecht
+HGB § 377; HGB §§ 343, 344; BGB §§ 433, 434, 437, 438, 446; § 477 BGB nur für B2C und als Negativabgrenzung; CISG-Schnittstelle Art. 38, 39 CISG; BGH, Urteile vom 06.05.2026 - VIII ZR 73/24 und VIII ZR 257/23 zur Reichweite der B2C-Beweislastumkehr.
+
+## B2B-Learning aus der BGH-Linie zu § 477 BGB
+
+1. Der BGH hat § 477 BGB für Verbraucher gestärkt: Zeigt sich innerhalb eines Jahres seit Übergabe eine Mangelerscheinung, reicht es, wenn als Ursache zumindest auch ein Verkäuferumstand in Betracht kommt. Andere mögliche Ursachen schließen die Vermutung nicht schon aus.
+2. Genau diese Erleichterung gilt im B2B-Handelskauf nicht. Der Unternehmerkäufer muss Mangel, Gefahrübergang und Kausalität beweisen. Das sollte in internen Legal-Memos ausdrücklich stehen, damit Einkauf und Fachabteilung nicht mit einer Verbraucherrechtsintuition arbeiten.
+3. § 377 HGB verschärft das Beweisproblem organisatorisch: Ohne dokumentierte Untersuchung und unverzügliche Rüge droht Genehmigungsfiktion. Die Rechtsabteilung muss daher nicht erst beim Streit einsteigen, sondern den Wareneingangsprozess als Rechtskontrollpunkt mitbauen.
+4. Bei Serienfehlern sofort zwischen Einzelmangel, Chargenfehler, Konstruktionsfehler und Transportschaden unterscheiden. Die Rüge muss die betroffenen Lieferungen, Artikelnummern, Mengen, Prüfparameter und Rechtsfolgen vorbehalten.
+5. Bei Lieferantenverhandlungen keine pauschale Kulanzsprache verwenden, wenn Ansprüche erhalten werden sollen. Die erste schriftliche Reaktion sollte Sachmangel, Gefahrübergang, Untersuchungsdatum, Rügezeitpunkt, Beweissicherung und Nacherfüllungsverlangen in einem Dokument zusammenführen.
 
 ## Sofortprüfung
 
@@ -39,7 +47,7 @@ HGB § 377; CISG-Schnittstelle; BGB Kaufrecht
 
 ## Fachlicher Zuschnitt
 
-Rügefristen, Wareneingang und Serienfehler werden als Beweisgeführt.
+Rügefristen, Wareneingang und Serienfehler werden so geführt, dass Legal, Einkauf, Lager und Qualitätssicherung dieselbe Beweisakte nutzen können.
 
 ## Output für die Rechtsabteilung
 
@@ -47,3 +55,7 @@ Rügefristen, Wareneingang und Serienfehler werden als Beweisgeführt.
 - Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
+
+## Wareneingangs-Anweisung als Rechtsprodukt
+
+Wenn der Nutzer einen Prozessentwurf braucht, liefere eine kurze Weisung mit folgenden Muss-Feldern: Lieferdatum, Uhrzeit, Frachtführer, Lieferschein, Bestellnummer, Artikel-/Serien-/Chargennummer, Menge, Prüfstufe, Prüfer, Foto-/Videoablage, Messwerte, Mangelbeschreibung, Sofortsperre der Ware, Musteraufbewahrung, Rügeentwurf, Versandkanal der Rüge, Zugangsnachweis, Owner Legal und Eskalationsfrist.

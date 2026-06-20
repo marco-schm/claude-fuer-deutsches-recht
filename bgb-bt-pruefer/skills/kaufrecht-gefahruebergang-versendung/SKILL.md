@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-gefahruebergang-versendung
-description: "Prüft Gefahrübergang § 446 BGB, Versendungskauf § 447 BGB und Ausnahmen beim Verbrauchsgüterkauf im BGB BT."
+description: "Prüft Gefahrübergang § 446 BGB, Versendungskauf § 447 BGB, Verbrauchsgüterkauf-Ausnahmen, Beweislast für den Mangel bei Übergabe und B2B-Wareneingang mit § 377 HGB im BGB BT."
 ---
 
 # Kaufrecht: Gefahrübergang und Versendung
@@ -45,6 +45,13 @@ description: "Prüft Gefahrübergang § 446 BGB, Versendungskauf § 447 BGB und 
 7. Folgen des Gefahrübergangs: Käufer trägt Gefahr des zufälligen Untergangs (Preisgefahr und Leistungsgefahr)
 8. Beweislast: wer beweist den Zustand bei Gefahrübergang?
 
+## Mangel bei Gefahrübergang als Beweisfrage
+
+1. Der Käufer muss im Grundfall beweisen, dass ein Sachmangel nach § 434 BGB schon bei Gefahrübergang vorhanden war; ein später auftretender Defekt ist nur dann ausreichend, wenn er tragfähig auf den Übergabezustand zurückführt.
+2. Beim Verbrauchsgüterkauf verschiebt § 477 Abs. 1 Satz 1 BGB die Beweislast. Nach BGH, Urteile vom 06.05.2026 - VIII ZR 73/24 und VIII ZR 257/23, reicht eine innerhalb eines Jahres auftretende Mangelerscheinung, wenn ein Verkäuferrisiko als Ursache ernsthaft möglich bleibt.
+3. Im B2B-Kauf gilt § 477 BGB nicht. Der Unternehmerkäufer braucht deshalb Wareneingangsprotokoll, Prüfbericht, Fotos, Messdaten, Zeugen und Chargen-/Seriennummern, um den Mangel bei Gefahrübergang zu beweisen.
+4. Beim beiderseitigen Handelskauf ist § 377 HGB zwingend mitzudenken: Untersuchung, Rügeinhalt und Rügezugang werden Teil der Beweisarchitektur.
+
 ## Fallstricke
 
 - Bei Verbrauchsgüterkauf geht Gefahr nicht auf den Verbraucher über, solange Ware nicht übergeben wurde.
@@ -64,6 +71,7 @@ description: "Prüft Gefahrübergang § 446 BGB, Versendungskauf § 447 BGB und 
 - § 447 BGB und § 475 Abs. 2 BGB immer im selben Atemzug prüfen.
 - Gattungsschuld immer auf Konkretisierung prüfen.
 - Gefahrübergang und Eigentumsverschaffung nicht verwechseln.
+- B2C-Beweislastumkehr nicht in B2B-Fälle übertragen; im Handelskauf immer § 377 HGB mitprüfen.
 
 ## Anschluss-Skills
 

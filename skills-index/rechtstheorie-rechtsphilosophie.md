@@ -1,6 +1,6 @@
 # rechtstheorie-rechtsphilosophie
 
-**64 Skills** · Stand `v344.0.0`
+**64 Skills** · Stand `v345.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/rechtstheorie-rechtsphilosophie/README.md)

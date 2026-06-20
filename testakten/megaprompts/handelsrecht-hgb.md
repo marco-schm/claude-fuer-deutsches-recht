@@ -7,17 +7,17 @@ Dieser Megaprompt enthaelt top-15 von 56 Skills des Plugins `handelsrecht-hgb`.
 ## Inhaltsverzeichnis
 
 1. **kaltstart-triage** — Einstieg, Schnelltriage und Skill-Routing für HGB-Fälle: Kaufmann, Register, Firma, Vertretung, Handelsgeschäft, OHG/KG,…
-2. **rechtsabteilung-kaufmaennisches** — Rechtsabteilungs-Fachmodul für Kaufmännisches Bestätigungsschreiben im Konzernalltag: Schweigen, E-Mail-Thread und Beste…
-3. **rechtsabteilung-kommissionsgeschaeft-und-plattformhaendler** — Rechtsabteilungs-Fachmodul für Kommissionsgeschäft und Plattformhändler: Kommission, Eigenhandel und Marktplatzrolle wer…
-4. **rechtsabteilung-handelskauf-maengelruege-nach-377-hgb** — Rechtsabteilungs-Fachmodul für Handelskauf-Mängelrüge nach § 377 HGB: Rügefristen, Wareneingang und Serienfehler werden …
+2. **maengelruege-paragraph-377-hgb** — Prüft beim beiderseitigen Handelskauf die Untersuchungs- und Rügeobliegenheit nach § 377 HGB, Wareneingangskontrolle, Be…
+3. **rechtsabteilung-kaufmaennisches** — Rechtsabteilungs-Fachmodul für Kaufmännisches Bestätigungsschreiben im Konzernalltag: Schweigen, E-Mail-Thread und Beste…
+4. **rechtsabteilung-kommissionsgeschaeft-und-plattformhaendler** — Rechtsabteilungs-Fachmodul für Kommissionsgeschäft und Plattformhändler: Kommission, Eigenhandel und Marktplatzrolle wer…
 5. **rechtsabteilung-lagerhalter-unternehmenskauf** — Rechtsabteilungs-Fachmodul für Lagerhalter- und Speditionshaftung: Schaden, Haftungsgrenzen und Regressketten werden sch…
 6. **rechtsabteilung-prokura-registerbeanstandung** — Rechtsabteilungs-Fachmodul für Prokura und Grundstücksgeschäft: Registerlage, Spezialvollmacht und Gutglaubensschutz wer…
-7. **sanierung-krise-jahresabschluss-grundlagen** — Prüft handelsrechtliche Pflichten in Unternehmenskrise: Buchführung, Register, Haftung, Gesellschafterwechsel, Fortführu…
-8. **hgb-red-team** — Findet Gegenargumente in Handelsrechtsfällen: Nichtkaufmann, Vertretungsmangel, verspätete Rüge, Registerpublizität, Fir…
-9. **anfanger-erklaerung-handelsbrauch** — Erklärt Handelsrecht laienverständlich: Warum Kaufmannsrecht strenger, schneller und registerorientierter ist im Handels…
-10. **prozessuale-beweisfragen-rechtsabteilung** — Prüft Handelsbücher, Bestätigungsschreiben, Registerauszug, Zeugen aus Organisation und Urkundenbeweis im Handelsrecht H…
-11. **unternehmenskauf-hgb-haftung** — Prüft Firmenfortführung, Handelsgeschäft, Prokura, Vertragsübernahme und Haftungsrisiken im Asset Deal im Handelsrecht H…
-12. **maengelruege-paragraph-377-hgb** — Prüft Untersuchungs- und Rügeobliegenheit, offene/verdeckte Mängel, Rechtzeitigkeit und Rechtsverlust im Handelsrecht Hg…
+7. **rechtsabteilung-handelskauf-maengelruege-nach-377-hgb** — Rechtsabteilungs-Fachmodul für B2B-Handelskauf und § 377 HGB: Wareneingangskontrolle, Rügefristen, Serienfehler, Beweisl…
+8. **sanierung-krise-jahresabschluss-grundlagen** — Prüft handelsrechtliche Pflichten in Unternehmenskrise: Buchführung, Register, Haftung, Gesellschafterwechsel, Fortführu…
+9. **hgb-red-team** — Findet Gegenargumente in Handelsrechtsfällen: Nichtkaufmann, Vertretungsmangel, verspätete Rüge, Registerpublizität, Fir…
+10. **anfanger-erklaerung-handelsbrauch** — Erklärt Handelsrecht laienverständlich: Warum Kaufmannsrecht strenger, schneller und registerorientierter ist im Handels…
+11. **prozessuale-beweisfragen-rechtsabteilung** — Prüft Handelsbücher, Bestätigungsschreiben, Registerauszug, Zeugen aus Organisation und Urkundenbeweis im Handelsrecht H…
+12. **unternehmenskauf-hgb-haftung** — Prüft Firmenfortführung, Handelsgeschäft, Prokura, Vertragsübernahme und Haftungsrisiken im Asset Deal im Handelsrecht H…
 13. **handelsregister-paragraphen-8-16-hgb** — Prüft Handelsregister, Einsicht, Bekanntmachung, negative/positive Publizität und Eintragungswirkung im Handelsrecht Hgb…
 14. **stille-gesellschaft-zweigniederlassung** — Prüft stille Beteiligung, Gewinn/Verlust, Auskunft, Insolvenz und Abgrenzung partiarisches Darlehen im Handelsrecht Hgb.
 15. **ohg-begriff-und-entstehung-paragraph-105** — Prüft OHG nach MoPeG: Betrieb eines Handelsgewerbes unter gemeinschaftlicher Firma und BGB-Verweis im Handelsrecht Hgb.
@@ -54,6 +54,65 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 ## Rechts- und Quellenanker
 
 HGB amtlich prüfen: https://www.gesetze-im-internet.de/hgb/. Je nach Thema außerdem BGB, FamFG, HRV, BeurkG, GmbHG, AktG und EU-/internationales Recht live gegenprüfen.
+
+## Stoppschilder
+
+- Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
+- Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
+- Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
+
+---
+
+## Skill: `maengelruege-paragraph-377-hgb`
+
+_Prüft beim beiderseitigen Handelskauf die Untersuchungs- und Rügeobliegenheit nach § 377 HGB, Wareneingangskontrolle, Beweislast für Mangel bei Gefahrübergang, offene und verdeckte Mängel, Rechtsverlust und die klare Abgrenzung zur nur im B2C geltenden Vermutung des § 477 BGB._
+
+# Mängelrüge § 377 HGB
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
+- Tragende Normen verifizieren: HGB §§ 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); HGB §§ 84-92c, EuGH zu Ausgleichsanspruch, BGB §§ 305 ff.; MoPeG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Mängelrüge § 377 HGB
+- **Normen-/Quellenanker:** HGB, BGB, MoPeG-Schnittstellen, Handelsregister/FamFG, Prokura/Handlungsvollmacht, Handelsgeschäfte, Kommission/Fracht/Lager und Gesellschaftsrecht.
+- **Entscheidende Weiche:** Kaufmannseigenschaft, Registerlage, Vertretungsmacht, Handelsbrauch, Rüge-/Untersuchungsobliegenheit, Sicherheiten und Prozessbeweis trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+## Sofortstart
+
+1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
+2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
+3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
+4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+
+## Rechts- und Quellenanker
+
+HGB amtlich prüfen: https://www.gesetze-im-internet.de/hgb/. Für diesen Skill immer zusätzlich BGB §§ 433, 434, 437, 438, 446, 477 und HGB §§ 343, 344, 377 prüfen. § 477 BGB nur als Negativabgrenzung verwenden: Die Beweislastumkehr gilt beim Verbrauchsgüterkauf, nicht im B2B-Handelskauf.
+
+## B2B-Kern: Wareneingang ist Beweisvorsorge
+
+1. Zuerst klären, ob beide Parteien Kaufleute sind und der Kauf für beide Seiten ein Handelsgeschäft ist. § 377 HGB greift nur dann; bei Verbrauchern oder einseitig nichtkaufmännischen Konstellationen nicht unbesehen anwenden.
+2. Der B2B-Käufer muss den Sachmangel nach § 434 BGB und dessen Vorliegen bei Gefahrübergang nach § 446 BGB beweisen. § 477 BGB hilft ihm nicht. Der BGH hat die Beweislastumkehr zwar in den Urteilen vom 06.05.2026 - VIII ZR 73/24 und VIII ZR 257/23 für B2C gestärkt; gerade daraus folgt für B2B die harte Gegenlinie: keine Vermutung, keine Entlastung, kein Ersatz für QS.
+3. Die Wareneingangskontrolle ist deshalb nicht bloß Sache der Fachabteilung. Einkauf, Lager, Qualitätssicherung, Legal und Vertrieb müssen ein gemeinsames Beweisarchiv erzeugen: Lieferdatum, Lieferschein, Bestellnummer, Charge, Seriennummer, Prüfumfang, Prüfer, Prüfergebnis, Fotos, Video, Messwerte, Musteraufbewahrung und Abweichungsbericht.
+4. Offene Mängel sind unverzüglich nach ordnungsgemäßem Geschäftsgang zu untersuchen und zu rügen. Verdeckte Mängel sind unverzüglich nach Entdeckung zu rügen. Bei Serienfehlern und Chargenfehlern wird nicht nur der Einzelfall, sondern die gesamte betroffene Lieferung mit Menge, Zeitraum und Prüfmethode beschrieben.
+5. Die Rüge muss den Mangel so konkret bezeichnen, dass der Verkäufer prüfen, sichern und disponieren kann. Formulierungen wie "Ware schlecht" oder "Qualität nicht wie bestellt" reichen für streitige Verfahren regelmäßig nicht; besser sind messbare Parameter, betroffene Artikelnummern und eindeutige Rechtsfolgenvorbehalte.
+6. Versäumt der Käufer Untersuchung oder Rüge, gilt die Ware nach § 377 Abs. 2 und Abs. 3 HGB grundsätzlich als genehmigt. Dann sind Gewährleistungsrechte aus §§ 437 ff. BGB regelmäßig verloren, außer etwa bei Arglist nach § 377 Abs. 5 HGB.
+
+## Rüge- und Beweismatrix
+
+| Prüffrage | Benötigter Beleg | Rechtsfolge |
+|---|---|---|
+| Beiderseitiges Handelsgeschäft? | Handelsregister, Rollen, Bestell-/Lieferzweck | § 377 HGB anwendbar oder nicht |
+| Gefahrübergang wann? | Übergabeprotokoll, Frachtpapiere, Abliefernachweis | Stichtag für § 434 und § 446 BGB |
+| Mangel offen erkennbar? | Wareneingangscheck, Fotos, Messbericht | Sofortige Rügepflicht nach Untersuchung |
+| Mangel erst später erkennbar? | Entdeckungsdatum, Fehlerlog, Servicebericht | Rüge unverzüglich ab Entdeckung |
+| Rüge konkret und nachweisbar? | E-Mail mit Zugang, Ticket, Einschreiben, Lieferantenportal | Sicherung der Gewährleistungsrechte |
+| Verkäufer beruft sich auf Alternativursachen? | Zustand bei Eingang, Muster, Sachverständiger | B2B-Käufer bleibt beweisbelastet |
 
 ## Stoppschilder
 
@@ -166,57 +225,6 @@ Kommission, Eigenhandel und Marktplatzrolle werden rechtlich sortiert.
 
 ---
 
-## Skill: `rechtsabteilung-handelskauf-maengelruege-nach-377-hgb`
-
-_Rechtsabteilungs-Fachmodul für Handelskauf-Mängelrüge nach § 377 HGB: Rügefristen, Wareneingang und Serienfehler werden als Beweisgeführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsrecht Hgb._
-
-# Rechtsabteilung: Handelskauf-Mängelrüge nach § 377 HGB
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: HGB §§ 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); HGB §§ 84-92c, EuGH zu Ausgleichsanspruch, BGB §§ 305 ff.; MoPeG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Rechtsabteilung: Handelskauf-Mängelrüge nach § 377 HGB
-- **Normen-/Quellenanker:** HGB, BGB, MoPeG-Schnittstellen, Handelsregister/FamFG, Prokura/Handlungsvollmacht, Handelsgeschäfte, Kommission/Fracht/Lager und Gesellschaftsrecht.
-- **Entscheidende Weiche:** Kaufmannseigenschaft, Registerlage, Vertretungsmacht, Handelsbrauch, Rüge-/Untersuchungsobliegenheit, Sicherheiten und Prozessbeweis trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Spezialkern: Rechtsabteilung: Handelskauf-Mängelrüge nach § 377 HGB
-
-- **Konkretes Problem:** Rügefristen, Wareneingang und Serienfehler werden als Beweisgeführt.
-- **Norm-/Quellenanker:** HGB Handelsstand, Prokura, Handelskauf § 377 HGB, Kommission, Lager/Spedition/Fracht, kaufmännische Bestätigung und BGB-Schnittstellen.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
-
-## Norm- und Rechtsprechungsanker
-
-HGB § 377; CISG-Schnittstelle; BGB Kaufrecht
-
-## Sofortprüfung
-
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
-
-## Fachlicher Zuschnitt
-
-Rügefristen, Wareneingang und Serienfehler werden als Beweisgeführt.
-
-## Output für die Rechtsabteilung
-
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-
----
-
 ## Skill: `rechtsabteilung-lagerhalter-unternehmenskauf`
 
 _Rechtsabteilungs-Fachmodul für Lagerhalter- und Speditionshaftung: Schaden, Haftungsgrenzen und Regressketten werden schnell berechnet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsrecht Hgb._
@@ -316,6 +324,69 @@ Registerlage, Spezialvollmacht und Gutglaubensschutz werden geprüft.
 - Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
+
+---
+
+## Skill: `rechtsabteilung-handelskauf-maengelruege-nach-377-hgb`
+
+_Rechtsabteilungs-Fachmodul für B2B-Handelskauf und § 377 HGB: Wareneingangskontrolle, Rügefristen, Serienfehler, Beweislast für Mangel bei Gefahrübergang und Abgrenzung zur nur im B2C geltenden § 477-BGB-Vermutung._
+
+# Rechtsabteilung: Handelskauf-Mängelrüge nach § 377 HGB
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
+- Tragende Normen verifizieren: HGB §§ 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); HGB §§ 84-92c, EuGH zu Ausgleichsanspruch, BGB §§ 305 ff.; MoPeG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Rechtsabteilung: Handelskauf-Mängelrüge nach § 377 HGB
+- **Normen-/Quellenanker:** HGB, BGB, MoPeG-Schnittstellen, Handelsregister/FamFG, Prokura/Handlungsvollmacht, Handelsgeschäfte, Kommission/Fracht/Lager und Gesellschaftsrecht.
+- **Entscheidende Weiche:** Kaufmannseigenschaft, Registerlage, Vertretungsmacht, Handelsbrauch, Rüge-/Untersuchungsobliegenheit, Sicherheiten und Prozessbeweis trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+## Spezialkern: Rechtsabteilung: Handelskauf-Mängelrüge nach § 377 HGB
+
+- **Konkretes Problem:** Die Rechtsabteilung muss verhindern, dass ein sachlich guter B2B-Mängelfall an fehlender Wareneingangsprüfung, verspäteter Rüge oder unbeweisbarem Gefahrübergang scheitert.
+- **Norm-/Quellenanker:** HGB §§ 343, 344, 377; BGB §§ 433, 434, 437, 438, 446, 477; bei internationalem Warenkauf zusätzlich CISG Art. 38, 39 und 49 live prüfen.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
+
+## Norm- und Rechtsprechungsanker
+
+HGB § 377; HGB §§ 343, 344; BGB §§ 433, 434, 437, 438, 446; § 477 BGB nur für B2C und als Negativabgrenzung; CISG-Schnittstelle Art. 38, 39 CISG; BGH, Urteile vom 06.05.2026 - VIII ZR 73/24 und VIII ZR 257/23 zur Reichweite der B2C-Beweislastumkehr.
+
+## B2B-Learning aus der BGH-Linie zu § 477 BGB
+
+1. Der BGH hat § 477 BGB für Verbraucher gestärkt: Zeigt sich innerhalb eines Jahres seit Übergabe eine Mangelerscheinung, reicht es, wenn als Ursache zumindest auch ein Verkäuferumstand in Betracht kommt. Andere mögliche Ursachen schließen die Vermutung nicht schon aus.
+2. Genau diese Erleichterung gilt im B2B-Handelskauf nicht. Der Unternehmerkäufer muss Mangel, Gefahrübergang und Kausalität beweisen. Das sollte in internen Legal-Memos ausdrücklich stehen, damit Einkauf und Fachabteilung nicht mit einer Verbraucherrechtsintuition arbeiten.
+3. § 377 HGB verschärft das Beweisproblem organisatorisch: Ohne dokumentierte Untersuchung und unverzügliche Rüge droht Genehmigungsfiktion. Die Rechtsabteilung muss daher nicht erst beim Streit einsteigen, sondern den Wareneingangsprozess als Rechtskontrollpunkt mitbauen.
+4. Bei Serienfehlern sofort zwischen Einzelmangel, Chargenfehler, Konstruktionsfehler und Transportschaden unterscheiden. Die Rüge muss die betroffenen Lieferungen, Artikelnummern, Mengen, Prüfparameter und Rechtsfolgen vorbehalten.
+5. Bei Lieferantenverhandlungen keine pauschale Kulanzsprache verwenden, wenn Ansprüche erhalten werden sollen. Die erste schriftliche Reaktion sollte Sachmangel, Gefahrübergang, Untersuchungsdatum, Rügezeitpunkt, Beweissicherung und Nacherfüllungsverlangen in einem Dokument zusammenführen.
+
+## Sofortprüfung
+
+1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
+2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
+3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
+4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
+5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
+
+## Fachlicher Zuschnitt
+
+Rügefristen, Wareneingang und Serienfehler werden so geführt, dass Legal, Einkauf, Lager und Qualitätssicherung dieselbe Beweisakte nutzen können.
+
+## Output für die Rechtsabteilung
+
+- One-page legal memo mit Risikoampel und klarer Empfehlung.
+- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
+- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
+- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
+
+## Wareneingangs-Anweisung als Rechtsprodukt
+
+Wenn der Nutzer einen Prozessentwurf braucht, liefere eine kurze Weisung mit folgenden Muss-Feldern: Lieferdatum, Uhrzeit, Frachtführer, Lieferschein, Bestellnummer, Artikel-/Serien-/Chargennummer, Menge, Prüfstufe, Prüfer, Foto-/Videoablage, Messwerte, Mangelbeschreibung, Sofortsperre der Ware, Musteraufbewahrung, Rügeentwurf, Versandkanal der Rüge, Zugangsnachweis, Owner Legal und Eskalationsfrist.
 
 ---
 
@@ -487,45 +558,6 @@ _Prüft Firmenfortführung, Handelsgeschäft, Prokura, Vertragsübernahme und Ha
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachkern: Unternehmenskauf HGB-Haftung
-- **Normen-/Quellenanker:** HGB, BGB, MoPeG-Schnittstellen, Handelsregister/FamFG, Prokura/Handlungsvollmacht, Handelsgeschäfte, Kommission/Fracht/Lager und Gesellschaftsrecht.
-- **Entscheidende Weiche:** Kaufmannseigenschaft, Registerlage, Vertretungsmacht, Handelsbrauch, Rüge-/Untersuchungsobliegenheit, Sicherheiten und Prozessbeweis trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Sofortstart
-
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
-
-## Rechts- und Quellenanker
-
-HGB amtlich prüfen: https://www.gesetze-im-internet.de/hgb/. Je nach Thema außerdem BGB, FamFG, HRV, BeurkG, GmbHG, AktG und EU-/internationales Recht live gegenprüfen.
-
-## Stoppschilder
-
-- Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
-- Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
-- Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
----
-
-## Skill: `maengelruege-paragraph-377-hgb`
-
-_Prüft Untersuchungs- und Rügeobliegenheit, offene/verdeckte Mängel, Rechtzeitigkeit und Rechtsverlust im Handelsrecht Hgb._
-
-# Mängelrüge § 377 HGB
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: HGB §§ 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); HGB §§ 84-92c, EuGH zu Ausgleichsanspruch, BGB §§ 305 ff.; MoPeG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Mängelrüge § 377 HGB
 - **Normen-/Quellenanker:** HGB, BGB, MoPeG-Schnittstellen, Handelsregister/FamFG, Prokura/Handlungsvollmacht, Handelsgeschäfte, Kommission/Fracht/Lager und Gesellschaftsrecht.
 - **Entscheidende Weiche:** Kaufmannseigenschaft, Registerlage, Vertretungsmacht, Handelsbrauch, Rüge-/Untersuchungsobliegenheit, Sicherheiten und Prozessbeweis trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.

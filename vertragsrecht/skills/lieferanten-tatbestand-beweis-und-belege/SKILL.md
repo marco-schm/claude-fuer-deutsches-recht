@@ -1,6 +1,6 @@
 ---
 name: lieferanten-tatbestand-beweis-und-belege
-description: "Lieferanten: Tatbestandsmerkmale, Beweisfragen und Beleglage im Vertragsrecht."
+description: "Lieferanten: Tatbestandsmerkmale, Beweisfragen und Beleglage im Vertragsrecht, insbesondere Mangel bei Gefahrübergang, Wareneingangskontrolle, § 377 HGB und Abgrenzung zur B2C-Beweislastumkehr nach § 477 BGB."
 ---
 
 # Lieferanten: Tatbestandsmerkmale, Beweisfragen und Beleglage
@@ -15,6 +15,13 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
 - `§ 195 BGB` — regelmäßige Verjährung.
 - `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 433 BGB` — Kaufvertragliche Hauptpflichten.
+- `§ 434 BGB` — Sachmangel und Beschaffenheitsanforderungen.
+- `§ 437 BGB` — Rechte des Käufers bei Mängeln.
+- `§ 438 Abs. 1 Nr. 3 BGB` — zweijährige Regelverjährung kaufrechtlicher Mängelansprüche.
+- `§ 446 BGB` — Gefahrübergang bei Übergabe.
+- `§ 477 BGB` — Beweislastumkehr nur beim Verbrauchsgüterkauf.
+- `§ 377 HGB` — Untersuchungs- und Rügeobliegenheit im beiderseitigen Handelskauf.
 - `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
 - `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
 
@@ -28,8 +35,12 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: Lieferanten: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Normen-/Quellenanker:** AGB, BGB, NDA, MSA.
+## Spezialwissen: Lieferantenmangel, Beweisfragen und Beleglage
+
+- **Mangel bei Gefahrübergang:** Bei B2B-Lieferantenfällen reicht es nicht, einen späteren Ausfall zu zeigen. Der Käufer muss darlegen und beweisen, dass die Ware bei Übergabe/Ablieferung mangelhaft war. Dafür braucht der Vermerk eine Belegzeile für Lieferung, Zustand, Prüfergebnis, Charge/Seriennummer und Zeugen.
+- **B2C-Kontrast:** § 477 BGB hilft nur beim Verbrauchsgüterkauf. Der BGH hat mit Urteilen vom 06.05.2026 - VIII ZR 73/24 und VIII ZR 257/23 bestätigt, dass eine Mangelerscheinung binnen Jahresfrist genügt, wenn eine Verkäuferursache ernsthaft möglich ist. Diese Vermutung darf im B2B-Lieferantenstreit nicht übernommen werden.
+- **§ 377-HGB-Filter:** Bei beiderseitigem Handelskauf sind Untersuchung, Rügeinhalt und Rügezugang eigene Beweisfelder. Versäumte oder zu unbestimmte Rügen gefährden die Mängelrechte unabhängig davon, ob technisch ein Defekt vorliegt.
+- **Dokumentationsstandard:** Wareneingangsprotokoll, Fotos, Messwerte, Prüfbericht, Rückstellmuster, Reklamationsticket, Rüge-E-Mail mit Zugangsnachweis, Lieferantenantwort und interne Sperrentscheidung werden als eine Beweiskette behandelt.
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -46,3 +57,13 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Belegmatrix für B2B-Liefermängel
+
+| Element | Beleg | Wertung |
+|---|---|---|
+| Vertragliche Beschaffenheit | Bestellung, Spezifikation, Zeichnung, Qualitätssicherungsvereinbarung | Maßstab für § 434 Abs. 2 BGB |
+| Gefahrübergang | Abliefernachweis, Übergabeprotokoll, Incoterms/Transportklausel | Stichtag für Mangelbeweis |
+| Wareneingangsprüfung | Prüfplan, Messwerte, Fotos, Rückstellmuster | Beweis und § 377-HGB-Compliance |
+| Rüge | E-Mail/Portal-Ticket mit Datum, Inhalt und Zugang | Erhalt der Mängelrechte |
+| Alternativursachen | Lagerlog, Bedienungsdaten, Transportbericht, Sachverständiger | Gegenargumente des Lieferanten antizipieren |

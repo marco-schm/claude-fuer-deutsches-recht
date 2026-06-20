@@ -1,6 +1,6 @@
 ---
 name: verbrauchsgueterkauf-digitales
-description: "Verbrauchsgüterkauf §§ 474 ff. BGB und digitale Elemente: Beweislastumkehr, zwingende Normen, §§ 327 ff. BGB."
+description: "Verbrauchsgüterkauf §§ 474 ff. BGB und digitale Elemente: zwingendes Verbraucher-Kaufrecht, § 477 BGB nach BGH vom 06.05.2026, Updatepflichten, Verjährung und Rückgriff."
 ---
 
 # Verbrauchsgüterkauf und Digitales §§ 474 ff. BGB
@@ -14,9 +14,12 @@ description: "Verbrauchsgüterkauf §§ 474 ff. BGB und digitale Elemente: Bewei
 
 - § 474 BGB: Verbrauchsgüterkauf (Verbraucher kauft von Unternehmer)
 - § 475 BGB: Abweichende Vereinbarungen (Verbot der Benachteiligung des Verbrauchers)
+- § 475b BGB: Ware mit digitalen Elementen und Updatepflichten
+- § 475c BGB: dauerhafte Bereitstellung digitaler Elemente
 - § 476 BGB: Abweichende Vereinbarungen bei Ware mit digitalen Elementen
 - § 477 BGB: Beweislastumkehr zugunsten des Verbrauchers
 - § 478 BGB: Rückgriff des Unternehmers (Lieferkette)
+- § 438 Abs. 1 Nr. 3 BGB: zweijährige Verjährung als Regelfall
 - §§ 327 ff. BGB: Verträge über digitale Inhalte und digitale Dienstleistungen
 
 ## Intake
@@ -26,24 +29,27 @@ description: "Verbrauchsgüterkauf §§ 474 ff. BGB und digitale Elemente: Bewei
 - Enthält die Kaufsache digitale Elemente (§ 475b ff. BGB anwendbar)?
 - Haben die Parteien abweichende Vereinbarungen getroffen (Zulässigkeit nach § 476 BGB prüfen)?
 - Gibt es Rückgriffsansprüche in der Lieferkette (§ 478 BGB)?
+- Hat der Verkäufer konkrete Übergabe-, Prüf-, Update- und Einweisungsdokumentation, um eine spätere nicht zurechenbare Ursache beweisen zu können?
 
 ## Prüfraster
 
 1. Verbrauchsgüterkauf-Tatbestand: Verbraucher (§ 13 BGB) kauft von Unternehmer (§ 14 BGB) eine bewegliche Sache
 2. Zwingende Normen nach § 475 BGB: Vereinbarungen zum Nachteil des Verbrauchers unwirksam
-3. Beweislastumkehr nach § 477 BGB: Mangel, der innerhalb von 12 Monaten auftritt, gilt als bei Übergabe vorhanden
-4. Ausnahmen: Unvereinbarkeit des Mangels mit dieser Vermutung (z.B. Verschleiß)
-5. Ware mit digitalen Elementen: §§ 475b ff. BGB mit Updatepflichten und besonderen Mangelanforderungen
-6. Digitale Produkte (kein Kauf): §§ 327 ff. BGB anstelle von Kaufrecht
-7. Rückgriff in der Lieferkette nach § 478 BGB: Unternehmer kann Mängelrechte gegenüber Lieferanten geltend machen
-8. Verjährung: § 438 Abs. 1 Nr. 3 BGB (2 Jahre); nicht abkürzbar bei Verbrauchsgüterkauf
+3. Beweislastumkehr nach § 477 BGB: Eine innerhalb von 12 Monaten auftretende Mangelerscheinung genügt, wenn ein dem Verkäufer zurechenbarer Umstand ernsthaft als Ursache in Betracht kommt.
+4. BGH, Urteile vom 06.05.2026 - VIII ZR 73/24 und VIII ZR 257/23: Andere denkbare Ursachen verhindern § 477 BGB nicht; der Verkäufer muss die Vermutung voll widerlegen.
+5. Ausnahmen: Unvereinbarkeit des Mangels mit dieser Vermutung, etwa wenn ausschließlich eine spätere, nicht zurechenbare Ursache feststeht.
+6. Ware mit digitalen Elementen: §§ 475b ff. BGB mit Updatepflichten und besonderen Mangelanforderungen
+7. Digitale Produkte (kein Kauf): §§ 327 ff. BGB anstelle von Kaufrecht
+8. Rückgriff in der Lieferkette nach § 478 BGB: Unternehmer kann Mängelrechte gegenüber Lieferanten geltend machen
+9. Verjährung: § 438 Abs. 1 Nr. 3 BGB (2 Jahre); nicht abkürzbar bei Verbrauchsgüterkauf
 
 ## Fallstricke
 
-- Beweislastumkehr gilt nur innerhalb von 12 Monaten (nach 2022er Reform; vorher 6 Monate).
+- Beweislastumkehr gilt nur innerhalb von 12 Monaten (nach 2022er Reform; vorher 6 Monate), ist aber inhaltlich verbraucherfreundlich: Eine ernsthaft mögliche Verkäuferursache reicht nach BGH vom 06.05.2026 für den Einstieg in § 477 BGB.
 - Gebrauchte Sachen: Gewährleistungsfrist kann auf 1 Jahr verkürzt werden (§ 476 Abs. 2 BGB).
 - Fehler bei der Abgrenzung digitales Produkt (§ 327 BGB) vs. Ware mit digitalen Elementen (§ 475b BGB).
 - Ausschluss oder Beschränkung von Mängelrechten bei Verbrauchsgüterkauf ist nur in den Grenzen von § 476 BGB möglich.
+- § 477 BGB gilt nicht im B2B-Geschäft. Wenn derselbe Shop Verbraucher und Unternehmer beliefert, muss der Output die Rollen sauber trennen und bei B2B zusätzlich § 377 HGB ansteuern.
 
 ## Stoppschilder
 
@@ -64,3 +70,4 @@ description: "Verbrauchsgüterkauf §§ 474 ff. BGB und digitale Elemente: Bewei
 - https://www.gesetze-im-internet.de/bgb/__474.html
 - https://www.gesetze-im-internet.de/bgb/__477.html
 - https://www.gesetze-im-internet.de/bgb/__475b.html
+- BGH, Urteile vom 06.05.2026 - VIII ZR 73/24 und VIII ZR 257/23, Pressemitteilung 077/2026: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026077.html

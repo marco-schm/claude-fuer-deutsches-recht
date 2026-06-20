@@ -84,14 +84,14 @@ Automatisch generierte Komplett-Liste aller 56 Skills in diesem Plugin. Beschrei
 | `ladenvollmacht-paragraph-56-hgb` | Prüft Laden-/Warenlagerangestellte und Verkehrsschutz im Handelsrecht Hgb. |
 | `lagergeschaeft-paragraphen-maengelruege` | Prüft Lagerhalter, Lagerschein, Haftung, Herausgabe und Pfandrecht im Handelsrecht Hgb. |
 | `livequellen-hgb` | Zwingt HGB-Normen und Rechtsprechung vor Ausgabe zu aktueller freier Quellenprüfung. |
-| `maengelruege-paragraph-377-hgb` | Prüft Untersuchungs- und Rügeobliegenheit, offene/verdeckte Mängel, Rechtzeitigkeit und Rechtsverlust im Handelsrecht Hgb. |
+| `maengelruege-paragraph-377-hgb` | Prüft beim beiderseitigen Handelskauf die Untersuchungs- und Rügeobliegenheit nach § 377 HGB, Wareneingangskontrolle, Beweislast für Mangel bei Gefahrübergang, offene und verdeckte Mängel, Rechtsverlust und die klare Abgrenzung zur nur i... |
 | `ohg-anmeldung-begriff` | Prüft Anmeldung, Statuswechsel aus Gesellschaftsregister, Registerlogik und Fehlerfolgen im Handelsrecht Hgb. |
 | `ohg-begriff-und-entstehung-paragraph-105` | Prüft OHG nach MoPeG: Betrieb eines Handelsgewerbes unter gemeinschaftlicher Firma und BGB-Verweis im Handelsrecht Hgb. |
 | `ohg-gesellschafterwechsel-prokura` | Prüft Eintritt, Ausscheiden, Nachhaftung, Abfindung und Registereintragung im Handelsrecht Hgb. |
 | `ohg-vertretung-und-haftung` | Prüft Vertretung, Geschäftsführung, persönliche Haftung und Einwendungen der Gesellschafter im Handelsrecht Hgb. |
 | `prokura-paragraphen-48-53-hgb` | Prüft Erteilung, Umfang, Grenzen, Gesamtprokura, Filialprokura und Registereintragung im Handelsrecht Hgb. |
 | `prozessuale-beweisfragen-rechtsabteilung` | Prüft Handelsbücher, Bestätigungsschreiben, Registerauszug, Zeugen aus Organisation und Urkundenbeweis im Handelsrecht Hgb. |
-| `rechtsabteilung-handelskauf-maengelruege-nach-377-hgb` | Rechtsabteilungs-Fachmodul für Handelskauf-Mängelrüge nach § 377 HGB: Rügefristen, Wareneingang und Serienfehler werden als Beweisgeführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsrecht Hgb. |
+| `rechtsabteilung-handelskauf-maengelruege-nach-377-hgb` | Rechtsabteilungs-Fachmodul für B2B-Handelskauf und § 377 HGB: Wareneingangskontrolle, Rügefristen, Serienfehler, Beweislast für Mangel bei Gefahrübergang und Abgrenzung zur nur im B2C geltenden § 477-BGB-Vermutung. |
 | `rechtsabteilung-kaufmaennisches` | Rechtsabteilungs-Fachmodul für Kaufmännisches Bestätigungsschreiben im Konzernalltag: Schweigen, E-Mail-Thread und Bestellplattform werden auf Bindungswirkung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungs... |
 | `rechtsabteilung-kommissionsgeschaeft-und-plattformhaendler` | Rechtsabteilungs-Fachmodul für Kommissionsgeschäft und Plattformhändler: Kommission, Eigenhandel und Marktplatzrolle werden rechtlich sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsrecht Hgb. |
 | `rechtsabteilung-lagerhalter-unternehmenskauf` | Rechtsabteilungs-Fachmodul für Lagerhalter- und Speditionshaftung: Schaden, Haftungsgrenzen und Regressketten werden schnell berechnet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsrecht Hgb. |
@@ -120,7 +120,7 @@ Automatisch generierte Komplett-Liste aller 56 Skills in diesem Plugin. Beschrei
 Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet und als Release-Asset direkt herunterladbar ist.
 
 - **Sparversion herunterladen:** [`handelsrecht-hgb-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/handelsrecht-hgb-unified-mini-prompt.md)
-- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/handelsrecht-hgb.md`](../testakten/megaprompts/handelsrecht-hgb.md) (50 KB)
+- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/handelsrecht-hgb.md`](../testakten/megaprompts/handelsrecht-hgb.md) (55 KB)
 
 Der große Mega-Prompt wird nicht als installierbares Plugin und nicht als CoWork-Uploadmaterial ausgeliefert. Für echte Plugin-Nutzung bitte das Plugin-ZIP verwenden; für Ein-Datei-Nutzung den Unified Mini Prompt.
 
