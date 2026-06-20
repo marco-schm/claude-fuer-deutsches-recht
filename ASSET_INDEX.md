@@ -1,5 +1,5 @@
 # Release-Asset-Index
-**Stand:** v347.0.0 — automatisch aktualisierte Asset-Übersicht
+**Stand:** v348.0.0 — automatisch aktualisierte Asset-Übersicht
 
 ## Sammel-Assets
 | Asset | Verwendung |
@@ -9,6 +9,7 @@
 | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) | Alle Skills als Markdown-Bundles, zusätzlich pro Plugin einzeln verfügbar. |
 | [`alle-unified-mini-prompts.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-unified-mini-prompts.zip) | Alle Unified Mini Prompts als kompakte Ein-Datei-Workflows. |
 | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) | Alle Testaktenordner in Originalstruktur mit Gesamt-PDFs. |
+| [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) | Alle Testakten mit jeder Unterlage als separater PDF (pro Akte zusätzlich `testakte-<name>-einzelpdfs.zip`). |
 | [`alles-komplettpaket.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) | Plugins, Skills, Mini-Prompts, Testakten, Marketplace und Übersichten. |
 | [`checksums-sha256.txt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/checksums-sha256.txt) | SHA-256-Prüfsummen für Release-Assets. |
 
