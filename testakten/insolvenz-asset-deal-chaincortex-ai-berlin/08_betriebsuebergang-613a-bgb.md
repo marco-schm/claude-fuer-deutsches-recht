@@ -26,7 +26,7 @@ Der Käufer übernimmt 10 von 12 Arbeitsverhältnissen. Die übrigen 2 Stellen (
 
 ## 3. Unterrichtungspflicht § 613a V BGB
 
-Frist: **spätestens 1 Monat vor Übergangsstichtag**. Für Übergangsstichtag 01.07.2026 bedeutet das spätestens 31.05.2026 — **bereits versäumt** wäre eine pflichtbeschränkende Folge (Widerspruchsfrist § 613a VI BGB läuft nicht zu laufen → AN kann jederzeit widersprechen). Maßnahme: das Schreiben ist auf den **02.06.2026** datiert (siehe `eml/uebernahmebrief-613a.eml`) — geringfügig verspätet; rechtsgeschäftlich erfolgt die Heilung durch volle Information nach der Rechtsprechung (BAG 8 AZR 305/13 v. 16.04.2015).
+Frist: **spätestens 1 Monat vor Übergangsstichtag**. Für Übergangsstichtag 01.07.2026 bedeutet das spätestens 31.05.2026 — **bereits versäumt** wäre eine pflichtbeschränkende Folge (Widerspruchsfrist § 613a VI BGB läuft nicht zu laufen → AN kann jederzeit widersprechen). Maßnahme: das Schreiben ist auf den **02.06.2026** datiert (siehe `eml/uebernahmebrief-613a-arbeitnehmer.eml`) — geringfügig verspätet; rechtsgeschäftlich erfolgt die Heilung durch volle Information nach der Rechtsprechung (BAG 8 AZR 305/13 v. 16.04.2015).
 
 ### Inhalt des § 613a V BGB-Schreibens (rechtsverbindlich):
 

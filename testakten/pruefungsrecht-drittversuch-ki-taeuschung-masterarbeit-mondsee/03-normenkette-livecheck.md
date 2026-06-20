@@ -13,7 +13,7 @@ Im Prüfungsrecht ist die Normenkette von hochrangiger Verfassungsnorm bis zur k
 
 ### Stufe 2: Bundesland und aktuelles Hochschulgesetz
 
-- **Bundesland der Hochschule prüfen**: in den Aktenstücken ist die Universität nicht eindeutig identifiziert; bitte über Bescheidkopf in Aktenstück 04 (`bescheid-endgueltig-nicht-bestanden.docx`) verifizieren.
+- **Bundesland der Hochschule prüfen**: in den Aktenstücken ist die Universität nicht eindeutig identifiziert; bitte über Bescheidkopf in Aktenstück 04 (`04-bescheid-endgueltig-nicht-bestanden.docx`) verifizieren.
 - Falls Bayern: **Bayerisches Hochschulinnovationsgesetz (BayHIG)** live gegen `gesetze-bayern.de`.
 - Falls NRW: **HG NRW** gegen `recht.nrw.de`.
 - Falls Baden-Württemberg: **LHG BW** gegen `landesrecht-bw.de`.

@@ -1,6 +1,6 @@
 # gewerblicher-rechtsschutz
 
-**93 Skills** · Stand `v351.0.0`
+**93 Skills** · Stand `v352.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gewerblicher-rechtsschutz/README.md)

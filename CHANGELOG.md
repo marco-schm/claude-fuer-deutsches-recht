@@ -1,3 +1,22 @@
+# v352.0.0 — Sanity-Runde: tote Anlagenverweise in Testakten repariert
+
+Gezielter Bug-Hunt nach Verweisen, die in Demo-Vorführungen ins Leere zeigen. Ein präziser „Near-Miss"-Scan (referenzierte Datei fehlt, aber eine fast namensgleiche Datei liegt im selben Ordner) fand fünf echte Treffer; die übrigen ~1500 Roh-Treffer waren bewusste Prosa-Erwähnungen eines unordentlichen Datenraums und blieben unangetastet.
+
+## Reparierte Anlagenverweise
+
+- `insolvenz-asset-deal-chaincortex-ai-berlin/05_due-diligence-bericht.md`: `eml/dsgvo-information-privatkunden.eml` → `eml/dsgvo-information-b2c-privatkunden-entwurf.eml`.
+- `insolvenz-asset-deal-chaincortex-ai-berlin/08_betriebsuebergang-613a-bgb.md`: `eml/uebernahmebrief-613a.eml` → `eml/uebernahmebrief-613a-arbeitnehmer.eml`.
+- `pruefungsrecht-drittversuch-ki-taeuschung-masterarbeit-mondsee/03-normenkette-livecheck.md`: `bescheid-endgueltig-nicht-bestanden.docx` → `04-bescheid-endgueltig-nicht-bestanden.docx`.
+- `versausgleich-haerte-bgh-schaefer-nuernberg/16_vermerk_beauftragung_bgh_anwalt.md` und `17_uebergabeprotokoll.md`: `docx/Vollmacht_BGH_Ehrlinger.docx` → `docx/Vollmacht_BGH_Ehrlinger_25_11_2022.docx`.
+
+Gesamt-PDFs der drei betroffenen Akten neu gebaut. Bewusst nicht angefasst: der B2B-Ansprechpartner-Verweis in `07_kundendaten-dsgvo-analyse.md` (eigenes, nicht beiliegendes Dokument — ein Umbiegen auf die B2C-Datei wäre inhaltlich falsch) sowie die dated snapshots `TESTBERICHT.md`/`docs/benchmark.md` (Messstände, kein Live-Versionsstempel).
+
+## Release-Hygiene
+
+- Versionsbump 351.0.0 → 352.0.0 inklusive Regenerierung der Skill-Indizes (SKILLS.md + skills-index) im selben Schritt — der mit v351 eingeführte Workflow-Schritt hält den Index-Stand zusätzlich automatisch synchron.
+
+---
+
 # v351.0.0 — Skill-Indizes mit der Release-Version synchronisiert
 
 Behebt eine von Codex (PR #305) gemeldete Navigations-Inkonsistenz: Der Versionsbump auf v350 hatte die generierten Skill-Index-Seiten nicht mitgezogen, sodass `SKILLS.md` und `skills-index/*.md` weiter `Stand: v349.0.0` auswiesen, während die Marketplace-Version bereits 350 war.

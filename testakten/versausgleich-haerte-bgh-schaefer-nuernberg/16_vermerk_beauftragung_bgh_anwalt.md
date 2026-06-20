@@ -28,7 +28,7 @@ Die Korrespondenzkanzlei hat folgende Kriterien festgelegt:
 
 ## 16.4 Mandatierung
 
-Mit Schreiben vom 24.11.2022 (Aktenstück 17) hat die Korrespondenzkanzlei der Kanzlei **Dr. Susanne Ehrlinger & Partner Rechtsanwälte beim Bundesgerichtshof**, Reinhold-Frank-Straße 24, 76133 Karlsruhe, das Mandat angetragen. Frau Dr. Ehrlinger hat die Mandatsübernahme mit E-Mail vom 24.11.2022, 17:42 Uhr bestätigt; Untervollmacht wurde am 25.11.2022 von der Mandantin unterzeichnet (Vollmachts-Original in `docx/Vollmacht_BGH_Ehrlinger.docx`).
+Mit Schreiben vom 24.11.2022 (Aktenstück 17) hat die Korrespondenzkanzlei der Kanzlei **Dr. Susanne Ehrlinger & Partner Rechtsanwälte beim Bundesgerichtshof**, Reinhold-Frank-Straße 24, 76133 Karlsruhe, das Mandat angetragen. Frau Dr. Ehrlinger hat die Mandatsübernahme mit E-Mail vom 24.11.2022, 17:42 Uhr bestätigt; Untervollmacht wurde am 25.11.2022 von der Mandantin unterzeichnet (Vollmachts-Original in `docx/Vollmacht_BGH_Ehrlinger_25_11_2022.docx`).
 
 ## 16.5 Übergabe der Akten
 

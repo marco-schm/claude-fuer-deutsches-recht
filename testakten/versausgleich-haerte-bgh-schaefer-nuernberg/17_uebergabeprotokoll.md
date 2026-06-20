@@ -29,7 +29,7 @@
 | 18 | Pflichtteilsschreiben RA Wallner 16.06.2021 (für Franz Winterstein) | PDF | siehe Aktenstück 14 |
 | 19 | Berechnungstabelle Versorgungsausgleich | xlsx | `xlsx/versorgungsausgleich_berechnung_schaefer.xlsx` |
 | 20 | Liquiditäts-/Substanzbetrachtung Immobilien | xlsx | `xlsx/liquiditaetsbetrachtung_immobilien_schaefer.xlsx` |
-| 21 | Untervollmacht Mandantin | docx | `docx/Vollmacht_BGH_Ehrlinger.docx` |
+| 21 | Untervollmacht Mandantin | docx | `docx/Vollmacht_BGH_Ehrlinger_25_11_2022.docx` |
 | 22 | Fotodokumentation Vermögensaufstellung (Whiteboard) | jpg | `jpg/whiteboard_vermoegen_winterstein_erbe.jpg` |
 
 ## Hinweise an die übernehmende Kanzlei
