@@ -7,7 +7,7 @@ Bearbeiterin: RAin Dr. Friederike Pohl-Krauss
 
 ## 1. Grundlagen
 
-Kindesunterhalt bemisst sich nach dem bereinigten Nettoeinkommen des barunterhaltspflichtigen Elternteils und dem Alter des Kindes. Die Düsseldorfer Tabelle (herausgegeben vom OLG Düsseldorf als Richtlinie, hier: Stand 01.01.2026, aktuelle Fassung anzuwenden) gibt Regelbedarfsbeträge vor.
+Kindesunterhalt bemisst sich nach dem bereinigten Nettoeinkommen des barunterhaltspflichtigen Elternteils und dem Alter des Kindes. Die Düsseldorfer Tabelle (herausgegeben vom OLG Düsseldorf als Richtlinie) gibt Regelbedarfsbeträge vor. In dieser Akte werden als Arbeitsgrundlage die Werte der Tabelle 2025 angesetzt; der zum Stichtag 01.01.2026 maßgebliche Stand ist vor Verwendung an der amtlichen Quelle (OLG Düsseldorf) zu verifizieren und einzusetzen.
 
 **Barunterhaltspflicht:** Da die Kinder ihren gewöhnlichen Aufenthalt bei Hanna haben (Residenzmodell), erbringt Hanna den Betreuungsunterhalt. Franz ist barunterhaltspflichtig. Hanna ist ebenfalls barunterhaltspflichtig (Haftung anteilig), aber sie lebt mit den Kindern und erbringt ihren Unterhaltsbeitrag durch Naturalunterhalt (§ 1606 Abs. 3 Satz 1 BGB).
 
@@ -31,19 +31,19 @@ Hinweis: Da Franz Inhaber eines e.K. ist, wird das Einkommen aus der Gewinnentna
 
 ---
 
-## 3. Düsseldorfer Tabelle 2026 — Einordnung Franz
+## 3. Düsseldorfer Tabelle — Einordnung Franz (Arbeitsgrundlage Tabelle 2025)
 
-Nach vorläufigem bereinigtem Nettoeinkommen ca. 2.813 EUR/Monat. Dies entspricht **Einkommensgruppe 3** der Düsseldorfer Tabelle 2026 (1.901 bis 2.300 EUR: Gruppe 2; 2.301–2.900: Gruppe 3; Achtung: exakte Gruppenabgrenzungen für 2026 sobald veröffentlicht einzutragen — hier auf Basis der Tabelle 2025 mit Hochrechnung).
+Nach vorläufigem bereinigtem Nettoeinkommen ca. 2.813 EUR/Monat. Dies entspricht **Einkommensgruppe 3** (auf Basis der Tabelle 2025; exakte Gruppenabgrenzungen und Beträge des zum Stichtag maßgeblichen Stands sind live zu verifizieren). Zur Orientierung der hier verwendeten 2025-Werte: 1.901 bis 2.300 EUR Gruppe 2, 2.301 bis 2.900 EUR Gruppe 3.
 
 **Tabellenbedarfe Gruppe 3 (Tabelle 2025, ggf. anzupassen):**
 
-| Kind | Alter | Tabellenbetrag (Gruppe 3) | Kindesgeldfreibetrag | Zahlbetrag |
+| Kind | Alter | Tabellenbetrag (Gruppe 3) | Hälftiges Kindergeld | Zahlbetrag |
 |---|---|---|---|---|
 | Mara | 1. 0–5 J. ✗ / 2. 6–11 J. ✗ / 3. 12–17 J. ✓ | 623 EUR | 128 EUR | **495 EUR** |
 | Jonas | 12–17 J. | 623 EUR | 128 EUR | **495 EUR** |
 | Lina | 6–11 J. | 558 EUR | 128 EUR | **430 EUR** |
 
-**Kindesgeld:** Das hälftige Kindergeld (aktuell 250 EUR/Kind ab 2025, Hälfte = 125 EUR) wird auf den Tabellenunterhalt angerechnet, wenn das Kind beim anderen Elternteil lebt und dieser das Kindergeld erhält. Hanna bezieht das Kindergeld. Abzug 125 EUR/Kind vom Tabellenunterhalt → ergibt Zahlbetrag (oben).
+**Kindergeld:** Das hälftige Kindergeld (hier einheitlich mit 128 EUR/Kind angesetzt) wird auf den Tabellenunterhalt angerechnet, wenn das Kind beim anderen Elternteil lebt und dieser das Kindergeld erhält. Hanna bezieht das Kindergeld. Abzug 128 EUR/Kind vom Tabellenunterhalt → ergibt Zahlbetrag (oben). Der ab 2026 maßgebliche Kindergeldbetrag (volle und hälftige Höhe) ist vor Verwendung an der amtlichen Quelle (zuständiges Bundesministerium) zu verifizieren.
 
 Korrekturhinweis: Tabellenbeträge 2026 werden vom OLG Düsseldorf voraussichtlich Anfang 2026 angepasst. Sobald die aktualisierten Werte vorliegen, ist die Berechnung zu aktualisieren.
 

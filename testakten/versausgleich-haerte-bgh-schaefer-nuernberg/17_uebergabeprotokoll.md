@@ -30,7 +30,7 @@
 | 19 | Berechnungstabelle Versorgungsausgleich | xlsx | `xlsx/versorgungsausgleich_berechnung_schaefer.xlsx` |
 | 20 | Liquiditäts-/Substanzbetrachtung Immobilien | xlsx | `xlsx/liquiditaetsbetrachtung_immobilien_schaefer.xlsx` |
 | 21 | Untervollmacht Mandantin | docx | `docx/Vollmacht_BGH_Ehrlinger.docx` |
-| 22 | Fotodokumentation Erstgespräch (Whiteboard) | jpg | `jpg/whiteboard_erstgespraech_2021_05_22.jpg` |
+| 22 | Fotodokumentation Vermögensaufstellung (Whiteboard) | jpg | `jpg/whiteboard_vermoegen_winterstein_erbe.jpg` |
 
 ## Hinweise an die übernehmende Kanzlei
 

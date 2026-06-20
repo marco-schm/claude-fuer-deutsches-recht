@@ -1,3 +1,25 @@
+# v350.0.0 — Familienrecht demo-tauglich poliert (Konsistenz, Düsseldorfer-Stand, Gliederung)
+
+Qualitätsrunde auf den familien- und unterhaltsrechtlichen Testakten, damit sie sich verlässlich vorführen lassen. Alle Validatoren grün (plugin-structure, yaml, gesamt-pdf 208, Testakten-ZIPs 208/5854, Einzel-PDF-ZIPs 210/5664).
+
+## scheidungsdrama
+
+- Kindesunterhalt intern konsistent gemacht: hälftiges Kindergeld durchgängig mit 128 EUR/Kind angesetzt (Fließtext stimmte vorher mit 250/125 nicht zur Tabelle mit 128); Tabellenspalte „Kindesgeldfreibetrag" → „Hälftiges Kindergeld" korrigiert; Hinweis ergänzt, dass der ab 2026 maßgebliche Kindergeldbetrag an amtlicher Quelle zu verifizieren ist.
+- Düsseldorfer-Tabelle-Stand ehrlich deklariert: Akte arbeitet mit den 2025-Werten als Arbeitsgrundlage, der zum Stichtag 01.01.2026 maßgebliche Stand ist live zu verifizieren (vorher „Stand 01.01.2026" als Überschrift, aber 2025-Werte im Inhalt).
+- Restschuld-Widerspruch aufgelöst: Vermögensaufstellung (Aktenstück 11) verweist jetzt auf den datierten Auszug 14.09.2025 über 281.340 EUR und nennt die Rundung auf 280.000 EUR transparent (vorher 280.000 vs. 281.340 zwischen Aktenstück 11 und 17).
+- Gliederungsregel: fehlende Leerzeilen nach den `###`-Überschriften im Vergleichskorridor (Aktenstück 21) ergänzt; „Kindesgeld"-Tippfehler korrigiert. Gesamt-PDF neu gebaut.
+
+## versausgleich-haerte-bgh-schaefer-nuernberg
+
+- Gliederungsregel durchgesetzt: römische Schriftsatz-Gliederung `### I.`–`### VI.` in Beschwerdebegründung (Aktenstück 09) und Erwiderung (Aktenstück 10) auf dezimale Gliederung umgestellt.
+- Toten Anlagenverweis im Übergabeprotokoll (Aktenstück 17) korrigiert: verwies auf eine nicht vorhandene JPG, jetzt auf die tatsächlich beiliegende `whiteboard_vermoegen_winterstein_erbe.jpg`. Gesamt-PDF neu gebaut.
+
+## Bewertung der Unterhaltsakten
+
+- `unterhalt-stufenklage-selbststaendiger-hamburg` und `unterhalt-berechnungsakte-vollstaendig-rosenheim` sind demo-tauglich; beide nennen den Düsseldorfer-/Kindergeld-Stand mit Verifikations-Disclaimer bzw. verzichten bewusst auf gedruckte Tabellenbeträge.
+
+---
+
 # v349.0.0 — DBA-§49-EStG-Brückentechnik und Corporate-Workflow-Politur
 
 Qualitäts- und Sanity-Release nach v348.

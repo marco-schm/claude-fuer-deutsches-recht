@@ -49,7 +49,7 @@ Hinweis: Ein negatives Anfangsvermögen erhöht den Zugewinn Franz' nicht (Schut
 |---|---|---|
 | Anteil PartGmbB (50 %) | 710.000 | WP Dreschler, Aug. 2025; Gesamtwert 1.420.000 EUR |
 | Anteil Immobilie Lindener Hofstr. 47 (50 %) | 460.000 | SV Klausberg, Sept. 2025; Gesamtwert 920.000 EUR |
-| Anteil Restdarlehen Immobilie (50 %) | - 140.000 | Volksbank; Restschuld gesamt 280.000 EUR |
+| Anteil Restdarlehen Immobilie (50 %) | - 140.000 | Volksbank; Restschuld lt. Auszug 14.09.2025: 281.340 EUR, in dieser Aufstellung auf 280.000 EUR gerundet |
 | Girokonto (privat) | 38.500 | Kontoauszug Aug. 2025 |
 | Depot (Fonds) | 47.200 | Depotauszug Aug. 2025 |
 | Bausparvertrag | 14.400 | BSV Wüstenrot, Auszug Aug. 2025 |
