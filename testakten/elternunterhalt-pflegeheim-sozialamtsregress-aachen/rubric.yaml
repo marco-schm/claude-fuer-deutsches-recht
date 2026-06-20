@@ -1,3 +1,6 @@
+name: "Elternunterhalt Pflegeheim - Sozialamtsregress 94 SGB XII"
+plugin: "fachanwalt-familienrecht"
+
 expected_use:
   - Schwellenprüfung der Jahresbruttogrenze von 100.000 EUR nach dem Angehörigen-Entlastungsgesetz vornehmen
   - Auskunftspflicht gegenüber dem Sozialamt nach Umfang und Grenzen bestimmen
@@ -5,3 +8,43 @@ expected_use:
   - Erhöhten Selbstbehalt beim Elternunterhalt und Schonvermögen ansetzen
   - Einwendungen wie Kontaktabbruch und Verwirkung nach Paragraf 1611 BGB sowie Schenkungsrückforderung nach Paragraf 528 BGB prüfen
   - Antwortschreiben an das Sozialamt und Vergleichs- oder Ratenangebot entwerfen
+
+checks:
+  - id: r01-readme-vorhanden
+    check_type: file_exists
+    description: "README.md vorhanden"
+    path: "README.md"
+
+  - id: r02-gesamt-pdf-vorhanden
+    check_type: file_exists
+    description: "Gesamt-PDF gebaut"
+    path: "gesamt-pdf/elternunterhalt-pflegeheim-sozialamtsregress-aachen_gesamt.pdf"
+
+  - id: r03-mindestens-zehn-aktenstuecke
+    check_type: file_count
+    description: "mindestens zehn Markdown-Aktenstücke"
+    glob: "*.md"
+    min: 10
+
+  - id: r04-sozialamtsregress-94-sgb-xii
+    check_type: text_contains
+    description: "Überleitung des Anspruchs nach § 94 SGB XII erkannt"
+    path: "01_mandatsnotiz_und_rechtswahrungsanzeige_sozialamt.md"
+    contains: "94 SGB XII"
+
+  - id: r05-entlastungsgesetz-grenze
+    check_type: text_contains
+    description: "Jahresbruttogrenze 100.000 EUR (Angehörigen-Entlastungsgesetz) berücksichtigt"
+    path: "01_mandatsnotiz_und_rechtswahrungsanzeige_sozialamt.md"
+    contains: "100.000"
+
+  - id: r06-schenkungsrueckforderung-528
+    check_type: text_contains
+    description: "Schenkungsrückforderung nach § 528 BGB als alternativer Weg geprüft"
+    path: "08_fruehere_schenkungen_mutter.md"
+    contains: "528"
+
+  - id: r07-fachspezifische-wuerdigung
+    check_type: human_review
+    description: "Leistungsfähigkeit, erhöhter Selbstbehalt und Einwendungen sind fachlich tragfähig zu würdigen"
+    note: "Erhöhten Selbstbehalt und Schonvermögen ansetzen; Verwirkung § 1611 BGB nur bei schwerer Verfehlung"

@@ -1,3 +1,20 @@
+# v356.0.0 — Codex-Review-Fixes zu v355 (Düsseldorfer Gruppen, Rubric-Checks, Einkommenszahl)
+
+Arbeitet drei Befunde aus dem Codex-Review zu PR #308 ab und behebt einen dabei entdeckten Streuner.
+
+## Fixes
+
+- `unterhaltsberechnung-megaprompt`: Die Düsseldorfer Tabelle hat seit 2022 und nach dem Stand 2026 **fünfzehn** statt der zuvor genannten zehn Einkommensgruppen. Andernfalls würden Einkommen der Gruppen 11 bis 15 fälschlich als oberhalb der Tabelle behandelt und in den Pfad der konkreten Bedarfsdarlegung geleitet. Abschnitt 2.2 und 2.9 entsprechend korrigiert.
+- Neue Rubrics erhalten echte `checks:` statt nur `expected_use`: Die Eval-Harness (`scripts/run-eval.py`) verlangt mindestens einen entschiedenen Pass/Fail-Check. `elternunterhalt-pflegeheim-sozialamtsregress-aachen` und `nachehelicher-unterhalt-befristung-1578b-muenster` haben jetzt je sechs entschiedene Checks plus einen human_review und bestehen die Eval (6/6 pass).
+- `nachehelicher-unterhalt-befristung-1578b-muenster`: In Aktenstück 12 und in der CSV wurden 6.840 EUR fälschlich als bereinigtes Nettoeinkommen bezeichnet. Tatsächlich ist 6.840 EUR der unbereinigte Durchschnitt; das bereinigte Nettoeinkommen liegt nach Stück 3 und 9 bei rund 4.700 EUR. Korrigiert und akteninternal konsistent gemacht; Gesamt-PDF neu gebaut.
+
+## Sanity
+
+- Verirrtes, nicht versioniertes Altverzeichnis `testakten/scheidung-trennungsdrama-wagenknecht-luetzelberg/` (Rest aus der Zeit vor der Umbenennung in `scheidungsdrama`, nur ein altes Gesamt-PDF) entfernt; es hatte die Validatoren blockiert.
+- Versionsbump 355 → 356 inklusive Skill-Index-Regenerierung. Alle Validatoren grün (plugin-structure, yaml, Gesamt-PDF 210, Testakten-ZIPs 210/5893, Einzel-PDF-ZIPs 212/5699).
+
+---
+
 # v355.0.0 — Unterhaltsberechnung: Mega- und Mini-Prompt-Skill plus zwei neue Familienakten
 
 Schwerpunkt Unterhaltsrecht: zwei eigenständige, copy-paste-taugliche Prompt-Skills allein für die Unterhaltsberechnung und zwei neue Familien-Testakten mit weiteren Varianten. Jede Testakte liegt wie gewohnt als Gesamt-PDF, als Daten-ZIP und als Einzel-PDF-ZIP vor. Alle Validatoren grün (plugin-structure, yaml, Gesamt-PDF 210, Testakten-ZIPs 210/5893, Einzel-PDF-ZIPs 212/5699).

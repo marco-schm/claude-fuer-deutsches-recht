@@ -88,7 +88,7 @@ Beim Residenzmodell erbringt der betreuende Elternteil den Unterhalt durch Pfleg
 
 #### 2.2 Tabellenbedarf
 
-1. Ordne das bereinigte Nettoeinkommen der barpflichtigen Person der zutreffenden Einkommensgruppe der Düsseldorfer Tabelle zu (zehn Gruppen; die Grenzen und Beträge des maßgeblichen Stands sind zu verifizieren).
+1. Ordne das bereinigte Nettoeinkommen der barpflichtigen Person der zutreffenden Einkommensgruppe der Düsseldorfer Tabelle zu. Die Tabelle ist seit 2022 auf fünfzehn Einkommensgruppen erweitert und bleibt nach dem Stand 2026 bei fünfzehn Gruppen; die genauen Gruppengrenzen und Beträge des maßgeblichen Stands sind zu verifizieren.
 
 2. Bestimme die Altersstufe des Kindes (Stufen nach vollendetem 5., 11., 17. Lebensjahr sowie ab Volljährigkeit) und entnimm den Tabellenbetrag.
 
@@ -134,7 +134,7 @@ Beim echten Wechselmodell (annähernd hälftige Betreuung) schulden beide Eltern
 
 #### 2.9 Sehr hohe Einkommen oberhalb der Tabelle
 
-Liegt das Einkommen oberhalb der höchsten Einkommensgruppe, wird der Bedarf nicht automatisch fortgeschrieben. Bis zum Doppelten des höchsten Tabellensatzes ist eine Fortschreibung vertretbar; darüber hinaus ist der Bedarf konkret darzulegen, weil mit steigendem Einkommen ein zunehmender Anteil der Vermögensbildung dient. Verlange in diesem Fall eine konkrete Bedarfsdarstellung statt einer bloßen Quote.
+Liegt das Einkommen oberhalb der höchsten Einkommensgruppe (nach dem Stand 2026 die fünfzehnte Gruppe), wird der Bedarf nicht automatisch fortgeschrieben. Bis zum Doppelten des höchsten Tabellensatzes ist eine Fortschreibung vertretbar; darüber hinaus ist der Bedarf konkret darzulegen, weil mit steigendem Einkommen ein zunehmender Anteil der Vermögensbildung dient. Verlange in diesem Fall eine konkrete Bedarfsdarstellung statt einer bloßen Quote.
 
 ### Phase 3 — Trennungsunterhalt (§ 1361 BGB)
 

@@ -2,7 +2,7 @@
 
 ## 1 Zusammenfassung der Ausgangslage
 
-Der Mandant zahlt aufgrund des Vergleichs vor dem Amtsgericht Münster vom 09.03.2021 einen unbefristeten nachehelichen Unterhalt von 1.350,00 EUR monatlich. Sein bereinigtes Nettoeinkommen liegt bei rund 6.840,00 EUR (Arbeitswert), das der Berechtigten bei rund 1.620,00 EUR (Arbeitswert) aus einer Dreißig-Stunden-Tätigkeit. Die Kinder sind volljährig und betreuungsunabhängig.
+Der Mandant zahlt aufgrund des Vergleichs vor dem Amtsgericht Münster vom 09.03.2021 einen unbefristeten nachehelichen Unterhalt von 1.350,00 EUR monatlich. Sein durchschnittliches Nettoeinkommen liegt bei rund 6.840,00 EUR; nach Bereinigung um die ergänzende Altersvorsorge, die private Krankenversicherung und einen etwaigen Volljährigenunterhalt für Lina wird das bereinigte Nettoeinkommen vorläufig mit rund 4.700,00 EUR angesetzt (Arbeitswert, Spanne 4.600,00 EUR bis 4.900,00 EUR laut Stück 3). Das bereinigte Nettoeinkommen der Berechtigten liegt bei rund 1.620,00 EUR (Arbeitswert) aus einer Dreißig-Stunden-Tätigkeit. Die Kinder sind volljährig und betreuungsunabhängig.
 
 ## 2 Bewertung der Herabsetzung und Befristung (§ 1578b BGB)
 

@@ -1,6 +1,6 @@
 # strafbefehl-verteidiger
 
-**60 Skills** · Stand `v355.0.0`
+**60 Skills** · Stand `v356.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/strafbefehl-verteidiger/README.md)
