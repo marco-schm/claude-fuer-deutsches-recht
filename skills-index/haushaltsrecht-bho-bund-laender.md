@@ -1,6 +1,6 @@
 # haushaltsrecht-bho-bund-laender
 
-**345 Skills** · Stand `v354.0.0`
+**345 Skills** · Stand `v355.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/haushaltsrecht-bho-bund-laender/README.md)
