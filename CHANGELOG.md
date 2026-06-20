@@ -1,3 +1,21 @@
+# v355.0.0 — Unterhaltsberechnung: Mega- und Mini-Prompt-Skill plus zwei neue Familienakten
+
+Schwerpunkt Unterhaltsrecht: zwei eigenständige, copy-paste-taugliche Prompt-Skills allein für die Unterhaltsberechnung und zwei neue Familien-Testakten mit weiteren Varianten. Jede Testakte liegt wie gewohnt als Gesamt-PDF, als Daten-ZIP und als Einzel-PDF-ZIP vor. Alle Validatoren grün (plugin-structure, yaml, Gesamt-PDF 210, Testakten-ZIPs 210/5893, Einzel-PDF-ZIPs 212/5699).
+
+## Neue Skills (fachanwalt-familienrecht)
+
+- `unterhaltsberechnung-megaprompt`: vollständiger, eigenständiger Megaprompt für die gesamte Unterhaltsberechnung in einem Skill — Kindesunterhalt (Düsseldorfer Tabelle, Altersstufen, Einkommensgruppen, Kindergeldanrechnung, Bedarfskontrollbetrag, Mangelfall, Wechselmodell, Einkommen oberhalb der Tabelle, Volljährige und Studierende, Mehr- und Sonderbedarf), Trennungsunterhalt (§ 1361 BGB, Quoten- und Differenzmethode, Erwerbstätigenbonus, Vorsorgeunterhalt) und nachehelicher Unterhalt (§§ 1570 ff., Drei-Stufen-Prüfung, Halbteilung, Realsplitting, Befristung § 1578b, Verwirkung § 1579). Mit Einkommensbereinigung auch für Selbständige, Plausibilitäts-Selbstkontrolle, vollständig durchgerechnetem Zahlenbeispiel (Arbeitswerte) und Abschnitt „Häufige Fehler".
+- `unterhaltsberechnung-miniprompt`: kompakte Sparversion desselben Rechenwegs für den schnellen Einsatz in Chatbots ohne Plugin.
+- Beide Skills bewusst eigenständig gehalten, sodass die SKILL.md auch außerhalb der Plugin-Umgebung kopiert und genutzt werden kann. Düsseldorfer-Tabellenwerte, Selbstbehalte, Kindergeld und Rechtsprechung sind durchgängig als vor Verwendung zu verifizieren gekennzeichnet (keine festen Eurobeträge als amtlich-final).
+
+## Neue Familien-Testakten
+
+- `nachehelicher-unterhalt-befristung-1578b-muenster`: Abänderungs- und Befristungsbegehren gegen einen Unterhaltsvergleich (§ 239 FamFG, § 1578b BGB), fortwirkende ehebedingte Nachteile, Aufstockungsobliegenheit, hilfsweise Verwirkung § 1579 BGB.
+- `elternunterhalt-pflegeheim-sozialamtsregress-aachen`: Elternunterhalt mit Sozialamtsregress (§ 94 SGB XII), Angehörigen-Entlastungsgesetz, Geschwisterhaftung, erhöhter Selbstbehalt, Schenkungsrückforderung § 528 BGB.
+- Master-Index `testakten/README.md` und die Skill-Indizes mitgezogen; Versionsbump 354 → 355 inklusive Index-Regenerierung.
+
+---
+
 # v354.0.0 — Release-Upload weiter gehärtet
 
 Nach dem erfolgreichen v353-Build scheiterte der Upload am GitHub-Actions-Installation-Rate-Limit, das durch ältere, inzwischen abgebrochene Release-Läufe verbraucht war. Dieser Release senkt die API-Last des Upload-Schritts und macht das Anlegen des Releases robuster.

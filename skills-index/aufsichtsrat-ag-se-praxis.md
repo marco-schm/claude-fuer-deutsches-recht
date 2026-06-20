@@ -1,6 +1,6 @@
 # aufsichtsrat-ag-se-praxis
 
-**100 Skills** · Stand `v354.0.0`
+**100 Skills** · Stand `v355.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/aufsichtsrat-ag-se-praxis/README.md)

@@ -1,8 +1,8 @@
 # Skill-Gesamtuebersicht
 
-Automatisch generierte Gesamtuebersicht aller **25732 Skills** in **215 Plugins**.
+Automatisch generierte Gesamtuebersicht aller **25734 Skills** in **215 Plugins**.
 
-Stand: `v354.0.0`.
+Stand: `v355.0.0`.
 
 ## ⬇️ Alle Skills auf einmal herunterladen
 
@@ -39,7 +39,7 @@ So bekommt man die komplette Sammlung als installierbares ZIP:
 
 **Wichtig:** Wenn irgendwo im Repo ein neuer Skill angelegt wird (also ein neuer Ordner `<plugin>/skills/<skill>/SKILL.md`), erscheint er beim naechsten Lauf von `scripts/generate-skills-md.py` automatisch -- sowohl in dieser Liste als auch auf der jeweiligen Plugin-Detailseite. Es kann also nichts fehlen.
 
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 25732 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
+Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 25734 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
 
 ## Alle Plugins
 
@@ -101,7 +101,7 @@ Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschr
 | **fachanwalt-bank-kapitalmarktrecht** | 86 | [Skills ansehen](skills-index/fachanwalt-bank-kapitalmarktrecht.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-bank-kapitalmarktrecht.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-bank-kapitalmarktrecht-skills-markdown.zip) | [Mini](unified-mini-prompts/fachanwalt-bank-kapitalmarktrecht.md) |
 | **fachanwalt-bau-architektenrecht** | 116 | [Skills ansehen](skills-index/fachanwalt-bau-architektenrecht.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-bau-architektenrecht.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-bau-architektenrecht-skills-markdown.zip) | [Mini](unified-mini-prompts/fachanwalt-bau-architektenrecht.md) |
 | **fachanwalt-erbrecht** | 97 | [Skills ansehen](skills-index/fachanwalt-erbrecht.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-erbrecht.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-erbrecht-skills-markdown.zip) | [Mini](unified-mini-prompts/fachanwalt-erbrecht.md) |
-| **fachanwalt-familienrecht** | 154 | [Skills ansehen](skills-index/fachanwalt-familienrecht.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-familienrecht.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-familienrecht-skills-markdown.zip) | [Mini](unified-mini-prompts/fachanwalt-familienrecht.md) |
+| **fachanwalt-familienrecht** | 156 | [Skills ansehen](skills-index/fachanwalt-familienrecht.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-familienrecht.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-familienrecht-skills-markdown.zip) | [Mini](unified-mini-prompts/fachanwalt-familienrecht.md) |
 | **fachanwalt-gewerblicher-rechtsschutz** | 107 | [Skills ansehen](skills-index/fachanwalt-gewerblicher-rechtsschutz.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-gewerblicher-rechtsschutz.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-gewerblicher-rechtsschutz-skills-markdown.zip) | [Mini](unified-mini-prompts/fachanwalt-gewerblicher-rechtsschutz.md) |
 | **fachanwalt-handels-gesellschaftsrecht** | 94 | [Skills ansehen](skills-index/fachanwalt-handels-gesellschaftsrecht.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-handels-gesellschaftsrecht.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-handels-gesellschaftsrecht-skills-markdown.zip) | [Mini](unified-mini-prompts/fachanwalt-handels-gesellschaftsrecht.md) |
 | **fachanwalt-insolvenz-sanierungsrecht** | 505 | [Skills ansehen](skills-index/fachanwalt-insolvenz-sanierungsrecht.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-insolvenz-sanierungsrecht.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-insolvenz-sanierungsrecht-skills-markdown.zip) | [Mini](unified-mini-prompts/fachanwalt-insolvenz-sanierungsrecht.md) |
