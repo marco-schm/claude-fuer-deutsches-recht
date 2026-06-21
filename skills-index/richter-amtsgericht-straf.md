@@ -1,6 +1,6 @@
 # richter-amtsgericht-straf
 
-**10 Skills** · Stand `v361.0.0`
+**10 Skills** · Stand `v362.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/_GERICHTE_EXPERIMENTAL/richter-amtsgericht-straf/README.md)

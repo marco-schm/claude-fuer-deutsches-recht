@@ -1,6 +1,6 @@
 # insolvenzplan-starug-planwerkstatt
 
-**58 Skills** · Stand `v361.0.0`
+**58 Skills** · Stand `v362.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/insolvenzplan-starug-planwerkstatt/README.md)

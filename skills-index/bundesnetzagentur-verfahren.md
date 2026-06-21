@@ -1,6 +1,6 @@
 # bundesnetzagentur-verfahren
 
-**221 Skills** · Stand `v361.0.0`
+**221 Skills** · Stand `v362.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bundesnetzagentur-verfahren/README.md)

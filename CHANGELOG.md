@@ -1,3 +1,10 @@
+# v362.0.0 — Release-ZIPs fuer verschachtelte Plugins stabilisiert
+
+- Release-Workflow baut installierbare Plugin-ZIPs jetzt aus den im Marketplace hinterlegten `source`-Pfaden, damit auch verschachtelte Gerichts-Plugins korrekt ausgeliefert werden.
+- Skill-Markdown-Bundles beruecksichtigen dieselben Quellen und enthalten die verschachtelten Plugin-Skills unter dem jeweiligen Plugin-Namen.
+- Lokale Probe mit 228 Plugin-ZIPs, Release-ZIP-Validierung und 228 Skill-Markdown-Bundles erfolgreich durchgefuehrt.
+- Repo-weiter Versionsstand auf v362.0.0 gezogen.
+
 # v361.0.0 — Gerichts-Plugins sprachlich geglättet und veröffentlicht
 
 - Sichtbaren Prosa-Text der experimentellen Gerichts-Skills auf normale deutsche Umlaute geglättet; technische Slugs und Skill-Namen bleiben validierungsfest.

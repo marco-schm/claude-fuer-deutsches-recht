@@ -19,10 +19,21 @@ import zipfile
 from pathlib import Path
 
 
-def list_plugins(repo_root: Path) -> list[str]:
+def list_plugins(repo_root: Path) -> list[dict[str, str]]:
     """Lese die Plugin-Liste aus marketplace.json."""
     manifest = json.loads((repo_root / ".claude-plugin" / "marketplace.json").read_text())
-    return sorted(p["name"] for p in manifest.get("plugins", []))
+    plugins = []
+    for plugin in manifest.get("plugins", []):
+        name = plugin["name"]
+        plugins.append({"name": name, "source": plugin.get("source") or f"./{name}"})
+    return sorted(plugins, key=lambda p: p["name"])
+
+
+def resolve_plugin_dir(repo_root: Path, source: str) -> Path:
+    """Loese marketplace source relativ zum Repo-Root auf."""
+    if source.startswith("./"):
+        source = source[2:]
+    return repo_root / source
 
 
 def collect_skill_files(plugin_dir: Path) -> list[Path]:
@@ -33,35 +44,35 @@ def collect_skill_files(plugin_dir: Path) -> list[Path]:
     return sorted(skills_dir.glob("*/SKILL.md"))
 
 
-def collect_unified_mini_prompt(plugin_dir: Path) -> list[Path]:
+def collect_unified_mini_prompt(repo_root: Path, plugin_name: str) -> list[Path]:
     """Unified Mini Prompt liegt in unified-mini-prompts/<plugin>.md — falls vorhanden."""
-    repo_root = plugin_dir.parent
-    mini = repo_root / "unified-mini-prompts" / f"{plugin_dir.name}.md"
+    mini = repo_root / "unified-mini-prompts" / f"{plugin_name}.md"
     return [mini] if mini.is_file() else []
 
 
-def build_plugin_bundle(plugin: str, repo_root: Path, out_dir: Path) -> tuple[Path, int]:
-    plugin_dir = repo_root / plugin
+def build_plugin_bundle(plugin: dict[str, str], repo_root: Path, out_dir: Path) -> tuple[Path, int]:
+    plugin_name = plugin["name"]
+    plugin_dir = resolve_plugin_dir(repo_root, plugin["source"])
     skills = collect_skill_files(plugin_dir)
-    mini_prompts = collect_unified_mini_prompt(plugin_dir)
+    mini_prompts = collect_unified_mini_prompt(repo_root, plugin_name)
 
     # Plugin-README als Index mitnehmen
     plugin_readme = plugin_dir / "README.md"
 
-    bundle_path = out_dir / f"{plugin}-skills-markdown.zip"
+    bundle_path = out_dir / f"{plugin_name}-skills-markdown.zip"
     n_files = 0
     with zipfile.ZipFile(bundle_path, "w", zipfile.ZIP_DEFLATED) as zf:
         if plugin_readme.is_file():
-            zf.write(plugin_readme, arcname=f"{plugin}/README.md")
+            zf.write(plugin_readme, arcname=f"{plugin_name}/README.md")
             n_files += 1
         for skill_md in skills:
             # arcname: <plugin>/skills/<skill-slug>/SKILL.md
-            rel = skill_md.relative_to(repo_root)
-            zf.write(skill_md, arcname=str(rel))
+            rel = skill_md.relative_to(plugin_dir)
+            zf.write(skill_md, arcname=f"{plugin_name}/{rel}")
             n_files += 1
         for mini_md in mini_prompts:
             # arcname: <plugin>/unified-mini-prompt.md
-            zf.write(mini_md, arcname=f"{plugin}/unified-mini-prompt.md")
+            zf.write(mini_md, arcname=f"{plugin_name}/unified-mini-prompt.md")
             n_files += 1
     return bundle_path, n_files
 
@@ -93,7 +104,7 @@ def main():
     for plugin in plugins:
         bundle_path, n_files = build_plugin_bundle(plugin, repo_root, out_dir)
         if n_files == 0:
-            empty.append(plugin)
+            empty.append(plugin["name"])
             bundle_path.unlink()
             continue
         individual.append(bundle_path)

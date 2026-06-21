@@ -46,19 +46,38 @@ jobs:
           python3 - <<'PY' >> "$GITHUB_OUTPUT"
           import json, pathlib
           m = json.loads(pathlib.Path('.claude-plugin/marketplace.json').read_text())
-          names = [p['name'] for p in m['plugins']]
+          plugins = [
+              {"name": p["name"], "source": p.get("source") or f"./{p['name']}"}
+              for p in m["plugins"]
+          ]
+          names = [p["name"] for p in plugins]
           print('names=' + ' '.join(names))
+          print('plugins_json=' + json.dumps(plugins, ensure_ascii=False, separators=(',', ':')))
           PY
 
       - name: ZIPs bauen
+        env:
+          PLUGINS_JSON: ${{ steps.plugins.outputs.plugins_json }}
         run: |
           rm -rf dist
           mkdir -p dist
-          for plugin in ${{ steps.plugins.outputs.names }}; do
+          python3 - <<'PY' > dist/plugin-map.tsv
+          import json
+          import os
+
+          for plugin in json.loads(os.environ["PLUGINS_JSON"]):
+              print(f"{plugin['name']}\t{plugin['source']}")
+          PY
+          while IFS=$'\t' read -r plugin source; do
+            source="${source#./}"
+            if [ ! -d "$source" ]; then
+              echo "Plugin-Quelle fehlt: $plugin -> $source" >&2
+              exit 1
+            fi
             echo "Baue $plugin.zip"
-            (cd "$plugin" && zip -rq "../dist/${plugin}.zip" . -x '*.DS_Store' '__pycache__/*' '*.pyc' 'CLAUDE.md')
+            (cd "$source" && zip -rq "${GITHUB_WORKSPACE}/dist/${plugin}.zip" . -x '*.DS_Store' '__pycache__/*' '*.pyc' 'CLAUDE.md')
             ls -la "dist/${plugin}.zip"
-          done
+          done < dist/plugin-map.tsv
           # Manifest fuer Marketplace-Komfort
           cp .claude-plugin/marketplace.json dist/marketplace.json
 
