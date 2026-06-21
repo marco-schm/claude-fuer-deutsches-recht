@@ -1,17 +1,17 @@
 ---
 name: 08-kostenentscheidung-und-streitwert
-description: "Kostenentscheidung Paragrafen 91-101 ZPO, Streitwertfestsetzung Paragrafen 39-51 GKG, Streitwertbeschluss, Aenderung der Kostenquote bei Teilerfolg, Mehrwert eines Vergleichs"
+description: "Kostenentscheidung Paragrafen 91-101 ZPO, Streitwertfestsetzung Paragrafen 39-51 GKG, Streitwertbeschluss, Änderung der Kostenquote bei Teilerfolg, Mehrwert eines Vergleichs"
 ---
 
 # 08 Kostenentscheidung Und Streitwert
 
 ## Zweck
 
-Kostenentscheidung Paragrafen 91-101 ZPO, Streitwertfestsetzung Paragrafen 39-51 GKG, Streitwertbeschluss, Aenderung der Kostenquote bei Teilerfolg, Mehrwert eines Vergleichs
+Kostenentscheidung Paragrafen 91-101 ZPO, Streitwertfestsetzung Paragrafen 39-51 GKG, Streitwertbeschluss, Änderung der Kostenquote bei Teilerfolg, Mehrwert eines Vergleichs
 
 ## Rolle
 
-Vorsitzende:r oder Berichterstatter:in einer Zivilkammer (Paragraf 71 GVG, Streitwert ab 5.001 Euro; auch sonstige Zustaendigkeiten Paragrafen 71-74 GVG) sowie zweite Instanz Berufung Paragraf 511 ZPO
+Vorsitzende:r oder Berichterstatter:in einer Zivilkammer (Paragraf 71 GVG, Streitwert ab 5.001 Euro; auch sonstige Zuständigkeiten Paragrafen 71-74 GVG) sowie zweite Instanz Berufung Paragraf 511 ZPO
 
 ## Rechtsrahmen
 
@@ -21,47 +21,47 @@ ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
 
 1. Akteninhalt sichten und Strukturmerkmale extrahieren.
 2. Einschlaegige Normen identifizieren und zitieren.
-3. Pruefungsschema anwenden, Tatbestandsmerkmale durchpruefen.
+3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
 4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Pruefung markieren.
-6. Quellen vollstaendig zitieren (Norm + Aktenzeichen + Datum).
+5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
+6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
 
 ## Output
 
-Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
+Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
 
 ## Warnhinweis (immer)
 
 - Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis pruefen (Paragraf 353b StGB, Paragraf 43 DRiG).
+- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
 - KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
 - Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehoer muss in Relation, Beratung und Urteil sichtbar abgesichert werden.
+- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör muss in Relation, Beratung und Urteil sichtbar abgesichert werden.
 - BGH VI ZR 599/16 (24.07.2018): Substantiierung ist am moeglichen Wissen der Partei und am konkreten Lebenssachverhalt zu messen.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand, Teilurteil und Entscheidungsreichweite muessen deckungsgleich bleiben.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine widerspruchsfreie Gesamtwuerdigung des Beweisergebnisses.
+- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand, Teilurteil und Entscheidungsreichweite müssen deckungsgleich bleiben.
+- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine widerspruchsfreie Gesamtwürdigung des Beweisergebnisses.
 
-## Pruefungsschema in Stufen
+## Prüfungsschema in Stufen
 
-1. Besetzung, Kammerzustaendigkeit und Instanzrolle klaeren.
-   - Benenne Gericht, Spruchkoerper, funktionelle Zustaendigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Grosse Relation mit Klaegerstation, Beklagtenstation und Beweisstation erstellen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklaerung von vorlaeufiger Bewertung.
-3. Hinweis- und Aufklaerungsbedarf nach Paragraf 139 ZPO kammerfaehig formulieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklaerung von vorlaeufiger Bewertung.
+1. Besetzung, Kammerzuständigkeit und Instanzrolle klären.
+   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
+2. Große Relation mit Klägerstation, Beklagtenstation und Beweisstation erstellen.
+   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
+3. Hinweis- und Aufklärungsbedarf nach Paragraf 139 ZPO kammerfähig formulieren.
+   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
 4. Beweisbeschluss mit Beweisthema, Beweislast und Beweismittel absetzen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklaerung von vorlaeufiger Bewertung.
+   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
 5. Urteil oder Beschluss mit Kammerberatung, Kosten, Streitwert und Rechtsmittelrisiko ausarbeiten.
-   - Schreibe den Ausspruch vollstaendig aus, pruefe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
 
 ## Typische Fallstricke
 
 - Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
 - Ein Teilurteil wird erlassen, obwohl Widerspruchsgefahr besteht.
-- Sachverstaendigenbeweis wird ohne klares Beweisthema angeordnet.
+- Sachverständigenbeweis wird ohne klares Beweisthema angeordnet.
 - Vertrauliche Kammerarbeit bleibt wegen Paragraf 353b StGB und Paragraf 43 DRiG intern zu schuetzen.
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
@@ -69,16 +69,16 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Die Kammer beabsichtigt, Beweis zu erheben ueber die Behauptung, dass [Beweisthema], durch Vernehmung der Zeugin [Name] beziehungsweise durch Einholung eines schriftlichen Sachverstaendigengutachtens.
+Die Kammer beabsichtigt, Beweis zu erheben über die Behauptung, dass [Beweisthema], durch Vernehmung der Zeugin [Name] beziehungsweise durch Einholung eines schriftlichen Sachverstaendigengutachtens.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorlaeufiger Beratung der Kammer spricht derzeit mehr dafuer, dass [Rechtsfrage] entscheidungserheblich ist. Die Parteien erhalten Gelegenheit zur Stellungnahme binnen [Frist].
+Nach vorläufiger Beratung der Kammer spricht derzeit mehr dafür, dass [Rechtsfrage] entscheidungserheblich ist. Die Parteien erhalten Gelegenheit zur Stellungnahme binnen [Frist].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `07-berufungsverfahren-paragraf-511-ff` - Nutze diesen Vorgaenger fuer die vorgelagerte Akten-, Zulassigkeits- oder Strukturfrage, bevor 08 Kostenentscheidung Und Streitwert bearbeitet wird.
+- **Davor**: `07-berufungsverfahren-paragraf-511-ff` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 08 Kostenentscheidung Und Streitwert bearbeitet wird.
 - **Danach**: `09-vergleich-und-mediation` - Nutze diesen Folgeschritt, sobald 08 Kostenentscheidung Und Streitwert als gerichtlicher Arbeitsstand verwertbar ist.

@@ -25,15 +25,15 @@ Praxisfokus: > **Experimentelles Plugin im Ordner _GERICHTE_EXPERIMENTAL/** - si
 ## Kernmodule
 
 - **01 Akte Erstdurchsicht Strafsache:** Strukturierte Erstdurchsicht: Anklagesatz, wesentliches Ergebnis der Ermittlungen, hinreichender Tatverdacht, Beweismittel, BZRG-Auszug, Personalien
-- **10 Entscheidungsvorschlag Strafrichter:** Strukturierter Entscheidungsvorschlag mit Schuldspruch-Skizze, Strafzumessungs-Skizze, Nebenfolgen, Risikohinweisen, ausdruecklich zur richterlichen Pruefung markiert
+- **10 Entscheidungsvorschlag Strafrichter:** Strukturierter Entscheidungsvorschlag mit Schuldspruch-Skizze, Strafzumessungs-Skizze, Nebenfolgen, Risikohinweisen, ausdrücklich zur richterlichen Prüfung markiert
 - **06 Strafzumessung Paragraf 46 Stgb:** Strafzumessung Paragraf 46 StGB: Schuld als Grundlage, Strafzumessungstatsachen, Strafrahmen, Strafmilderung Paragrafen 49 49a, Strafaussetzung Paragraf 56, Bewaehrungsauflagen
 - **07 Tenor UND Rechtsmittelbelehrung Straf:** Tenor: Schuldspruch, Strafausspruch, Nebenstrafen, Bewaehrung, Einziehung Paragraf 73 StGB, Kostenentscheidung Paragraf 465 StPO, Rechtsmittelbelehrung Berufung und Revision
 - **09 Strafbefehl UND Beschleunigtes Verfahren:** Strafbefehlsverfahren Paragrafen 407-412 StPO, Voraussetzungen, Inhalt, Einspruch, Hauptverhandlung nach Einspruch; beschleunigtes Verfahren Paragrafen 417-420 StPO
-- **02 Zustaendigkeit UND Eroeffnungsbeschluss:** Zustaendigkeit Strafrichter oder Schoeffengericht (Paragraf 25 oder 28 GVG), Eroeffnung Paragrafen 199-203 StPO, Nichteroeffnung oder Ablehnung mit Begruendung
-- **03 Hauptverhandlung Vorbereiten:** Terminierung, Ladung Paragraf 214 StPO, Beweisantraege, Erforderlichkeit Verteidigerbestellung Paragraf 140 StPO, Verstaendigung Paragraf 257c StPO Risiken
-- **08 Urteilsbegruendung Paragraf 267 Stpo:** Urteilsgruende: Persoenliche Verhaeltnisse, Feststellungen zum Tatgeschehen, Beweiswuerdigung, rechtliche Wuerdigung, Strafzumessung, Nebenentscheidungen
-- **04 Beweisaufnahme UND Beweisantraege:** Beweisaufnahme nach Paragrafen 244-256 StPO, Umgang mit Beweisantraegen, Praesenzvermutung Paragraf 244 Abs. 6, Wahrunterstellung, Ablehnungsgruende
-- **05 Beweiswuerdigung Strafrecht:** Beweiswuerdigung Paragraf 261 StPO: Indizien, Aussage gegen Aussage, Glaubhaftigkeit, In-dubio-pro-reo, Sachverstaendigenkritik
+- **02 Zustaendigkeit UND Eroeffnungsbeschluss:** Zuständigkeit Strafrichter oder Schöffengericht (Paragraf 25 oder 28 GVG), Eröffnung Paragrafen 199-203 StPO, Nichteröffnung oder Ablehnung mit Begründung
+- **03 Hauptverhandlung Vorbereiten:** Terminierung, Ladung Paragraf 214 StPO, Beweisantraege, Erforderlichkeit Verteidigerbestellung Paragraf 140 StPO, Verständigung Paragraf 257c StPO Risiken
+- **08 Urteilsbegruendung Paragraf 267 Stpo:** Urteilsgründe: Persoenliche Verhaeltnisse, Feststellungen zum Tatgeschehen, Beweiswürdigung, rechtliche Würdigung, Strafzumessung, Nebenentscheidungen
+- **04 Beweisaufnahme UND Beweisantraege:** Beweisaufnahme nach Paragrafen 244-256 StPO, Umgang mit Beweisantraegen, Praesenzvermutung Paragraf 244 Abs. 6, Wahrunterstellung, Ablehnungsgründe
+- **05 Beweiswuerdigung Strafrecht:** Beweiswürdigung Paragraf 261 StPO: Indizien, Aussage gegen Aussage, Glaubhaftigkeit, In-dubio-pro-reo, Sachverständigenkritik
 
 ## Ausgabeformat
 

@@ -1,6 +1,6 @@
 # fachanwalt-gewerblicher-rechtsschutz
 
-**107 Skills** · Stand `v360.0.0`
+**107 Skills** · Stand `v361.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-gewerblicher-rechtsschutz/README.md)

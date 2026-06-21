@@ -24,16 +24,16 @@ Praxisfokus: > **Experimentelles Plugin im Ordner _GERICHTE_EXPERIMENTAL/** - si
 
 ## Kernmodule
 
-- **10 Entscheidungsvorschlag Verwaltungsgericht:** Strukturierter Entscheidungsvorschlag: Tenor, Pruefungsschema Zulaessigkeit Begruendetheit, Argumentation der Behoerde gegenuebergestellt dem Klaegervortrag, Risikohinweise, ausdr…
-- **02 Amtsermittlung UND Sachverhaltsfeststellung:** Amtsermittlungsgrundsatz Paragraf 86 VwGO, Ladung der Behoerde zur Vorlage der Akten Paragraf 99 VwGO, Sachverhaltsaufklaerung, Beteiligtenvernehmung
-- **01 Zulaessigkeit Verwaltungsklage:** Zulaessigkeit der Klage: Verwaltungsrechtsweg Paragraf 40 VwGO, Klagearten Paragrafen 42 113 (Anfechtung Verpflichtung Feststellung), Klagebefugnis, Vorverfahren Paragraf 68, Fris…
-- **05 Eilrechtsschutz Paragraf 80 ABS 5:** Eilrechtsschutz Paragraf 80 Abs. 5 VwGO: Anordnung oder Wiederherstellung der aufschiebenden Wirkung, Folgenabwaegung, Erfolgsaussichten der Hauptsache, oeffentliches Interesse
-- **08 Urteilsentwurf Paragraf 117 Vwgo:** Urteilsentwurf Paragraf 117 VwGO: Tenor, Tatbestand (Sachverhalt), Entscheidungsgruende (Zulaessigkeit, Begruendetheit), Nebenentscheidungen Paragraf 154 VwGO, Streitwert
-- **03 Begruendetheit Anfechtungsklage:** Begruendetheit Paragraf 113 Abs. 1 VwGO: Rechtmaessigkeit des Verwaltungsakts (Rechtsgrundlage, formelle und materielle Rechtmaessigkeit), subjektives Recht des Klaegers
+- **10 Entscheidungsvorschlag Verwaltungsgericht:** Strukturierter Entscheidungsvorschlag: Tenor, Prüfungsschema Zulässigkeit Begründetheit, Argumentation der Behoerde gegenübergestellt dem Klägervortrag, Risikohinweise, ausdrückli…
+- **02 Amtsermittlung UND Sachverhaltsfeststellung:** Amtsermittlungsgrundsatz Paragraf 86 VwGO, Ladung der Behoerde zur Vorlage der Akten Paragraf 99 VwGO, Sachverhaltsaufklärung, Beteiligtenvernehmung
+- **01 Zulaessigkeit Verwaltungsklage:** Zulässigkeit der Klage: Verwaltungsrechtsweg Paragraf 40 VwGO, Klagearten Paragrafen 42 113 (Anfechtung Verpflichtung Feststellung), Klagebefugnis, Vorverfahren Paragraf 68, Frist…
+- **05 Eilrechtsschutz Paragraf 80 ABS 5:** Eilrechtsschutz Paragraf 80 Abs. 5 VwGO: Anordnung oder Wiederherstellung der aufschiebenden Wirkung, Folgenabwaegung, Erfolgsaussichten der Hauptsache, öffentliches Interesse
 - **09 Rechtsmittel Vwgo:** Berufung Paragrafen 124 ff. VwGO (Zulassung durch OVG/VGH), Revision Paragraf 132 VwGO (Zulassung durch BVerwG), Nichtzulassungsbeschwerde, Beschwerde Paragraf 146 VwGO
+- **03 Begruendetheit Anfechtungsklage:** Begründetheit Paragraf 113 Abs. 1 VwGO: Rechtmaessigkeit des Verwaltungsakts (Rechtsgrundlage, formelle und materielle Rechtmaessigkeit), subjektives Recht des Klägers
+- **08 Urteilsentwurf Paragraf 117 Vwgo:** Urteilsentwurf Paragraf 117 VwGO: Tenor, Tatbestand (Sachverhalt), Entscheidungsgründe (Zulässigkeit, Begründetheit), Nebenentscheidungen Paragraf 154 VwGO, Streitwert
 - **06 Eilrechtsschutz Paragraf 123:** Einstweilige Anordnung Paragraf 123 VwGO: Sicherungs- und Regelungsanordnung, Anordnungsanspruch und -grund, Vorwegnahme der Hauptsache (Ausnahme)
 - **04 Begruendetheit Verpflichtungsklage:** Verpflichtungsklage Paragraf 113 Abs. 5 VwGO: Anspruch auf Erlass des begehrten VA, Bescheidungsurteil, Spruchreife, Beurteilungszeitpunkt
-- **07 Beweisaufnahme Verwaltungsgericht:** Beweisaufnahme Paragraf 96 VwGO i.V.m. ZPO: Sachverstaendigenbeweis, Zeugen, Augenschein, Urkunden, Beweiswuerdigung Paragraf 108 VwGO
+- **07 Beweisaufnahme Verwaltungsgericht:** Beweisaufnahme Paragraf 96 VwGO i.V.m. ZPO: Sachverständigenbeweis, Zeugen, Augenschein, Urkunden, Beweiswürdigung Paragraf 108 VwGO
 
 ## Ausgabeformat
 

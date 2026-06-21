@@ -49,9 +49,9 @@ Praxisfokus: Dieses Plugin ist der tägliche Cyber-Compliance-Begleiter für Ges
 - **Messenger Collaboration Tool Check:** Prüft Messenger und Chatkanäle für interne und externe Kommunikation im Nis2 Cybersecurity Compliance.
 - **Public Sector BSI Anforderungen:** Prüft BSI-Anforderungen für öffentliche Auftraggeber und Lieferanten im Nis2 Cybersecurity Compliance.
 - **Banking Dual Control:** Prüft Vier-Augen-Prinzip in Banking, Treasury und Zahlungsfreigaben im Nis2 Cybersecurity Compliance.
-- **Kommunikation Presse Kunden:** Steuert Kommunikation an Kunden, Presse, Behörden und Mitarbeiter im Nis2 Cybersecurity Compliance.
 - **Lieferkette Supplier Logdaten Beschaeftigte:** Prüft Lieferanten- und Dienstleister-Security von Einkauf bis Audit im Nis2 Cybersecurity Compliance.
 - **Open Source Vulnerability:** Prüft Open-Source-Sicherheitslücken in Produkten und internen Tools im Nis2 Cybersecurity Compliance.
+- **Security Governance Isms:** Baut oder prüft ein ISMS als juristisch verwertbares Kontrollsystem im Nis2 Cybersecurity Compliance.
 
 ## Ausgabeformat
 

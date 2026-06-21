@@ -24,16 +24,16 @@ Praxisfokus: > **Experimentelles Plugin im Ordner _GERICHTE_EXPERIMENTAL/** - si
 
 ## Kernmodule
 
-- **10 Entscheidungsvorschlag Register:** Strukturierter Entscheidungsvorschlag fuer den Registerrichter oder Rechtspfleger: Eintragungsentwurf, Hinweise zur Eintragungsfaehigkeit, ggf. Zwischenverfuegungsentwurf, ausdrue…
-- **01 Anmeldung Pruefen Zustaendigkeit:** Pruefung der Anmeldung: Formerfordernis (notarielle Beglaubigung Paragraf 12 HGB), Aktivlegitimation, Vollstaendigkeit der Anlagen, oertliche und sachliche Zustaendigkeit Paragraf…
+- **10 Entscheidungsvorschlag Register:** Strukturierter Entscheidungsvorschlag für den Registerrichter oder Rechtspfleger: Eintragungsentwurf, Hinweise zur Eintragungsfähigkeit, ggf. Zwischenverfuegungsentwurf, ausdrückl…
+- **01 Anmeldung Pruefen Zustaendigkeit:** Prüfung der Anmeldung: Formerfordernis (notarielle Beglaubigung Paragraf 12 HGB), Aktivlegitimation, Vollständigkeit der Anlagen, örtliche und sachliche Zuständigkeit Paragraf 376…
 - **09 Vereins UND Genossenschaftsregister:** Vereinsregister Paragrafen 55-79 BGB: Anmeldung Paragraf 59, Eintragung, Vorstandsbestellung, Wahrnehmung wirtschaftlicher Geschaefte (BGH Wertungen); Genossenschaftsregister Para…
 - **04 Vertretungsmacht UND Prokura:** Eintragung Geschaeftsfuehrer Paragraf 39 GmbHG, Vorstand Paragraf 81 AktG, Prokura Paragrafen 48-53 HGB (Erteilung, Erloeschen, Gesamtprokura), Handlungsvollmacht Paragraf 54
-- **05 Kapitalerhoehung UND Kapitalherabsetzung:** Pruefung Kapitalerhoehung GmbH Paragrafen 55-57 GmbHG, AG Paragrafen 182-191 AktG; Kapitalherabsetzung Paragrafen 58-58f GmbHG; Werthaltigkeit Sacheinlage Paragraf 9 GmbHG
-- **02 Firmenrecht Pruefen:** Firmenpruefung Paragrafen 17-37a HGB: Kennzeichnungseignung, Unterscheidbarkeit (Paragraf 30 HGB), Irrefuehrungsverbot (Paragraf 18 Abs. 2), Rechtsformzusatz, Sitzangabe
-- **03 Gesellschaftsvertrag Pruefen Gmbh:** Pruefung GmbH-Satzung Paragraf 3 GmbHG: Mindestinhalt, Stammkapital, Geschaeftsfuehrervertretung, Gegenstand des Unternehmens, Satzungsstrenge bei Aktiengesellschaft
-- **06 Umwandlung Eintragen:** Eintragung Umwandlungen Paragrafen 16 und 19 UmwG: Verschmelzung, Spaltung, Formwechsel; Sperrwirkung Paragraf 16 Abs. 2 UmwG, Werthaltigkeit, Glaeubigerschutz
-- **08 Loeschung VON Amts Wegen:** Loeschung wegen Vermoegenslosigkeit Paragraf 394 FamFG; Loeschung wegen Mangel des Gesellschaftsvertrags Paragraf 397 FamFG; Anhoerung Steuerverwaltung
+- **05 Kapitalerhoehung UND Kapitalherabsetzung:** Prüfung Kapitalerhoehung GmbH Paragrafen 55-57 GmbHG, AG Paragrafen 182-191 AktG; Kapitalherabsetzung Paragrafen 58-58f GmbHG; Werthaltigkeit Sacheinlage Paragraf 9 GmbHG
+- **02 Firmenrecht Pruefen:** Firmenprüfung Paragrafen 17-37a HGB: Kennzeichnungseignung, Unterscheidbarkeit (Paragraf 30 HGB), Irrefuehrungsverbot (Paragraf 18 Abs. 2), Rechtsformzusatz, Sitzangabe
+- **03 Gesellschaftsvertrag Pruefen Gmbh:** Prüfung GmbH-Satzung Paragraf 3 GmbHG: Mindestinhalt, Stammkapital, Geschaeftsfuehrervertretung, Gegenstand des Unternehmens, Satzungsstrenge bei Aktiengesellschaft
+- **06 Umwandlung Eintragen:** Eintragung Umwandlungen Paragrafen 16 und 19 UmwG: Verschmelzung, Spaltung, Formwechsel; Sperrwirkung Paragraf 16 Abs. 2 UmwG, Werthaltigkeit, Gläubigerschutz
 - **07 Zwischenverfuegung UND Beschwerde:** Zwischenverfuegung Paragraf 382 FamFG, Frist setzen, Hinweisbeschluss; Beschwerde Paragrafen 58-72 FamFG, Abhilfe; Rechtsbeschwerde Paragrafen 70 ff.
+- **08 Loeschung VON Amts Wegen:** Loeschung wegen Vermögenslosigkeit Paragraf 394 FamFG; Loeschung wegen Mangel des Gesellschaftsvertrags Paragraf 397 FamFG; Anhörung Steuerverwaltung
 
 ## Ausgabeformat
 

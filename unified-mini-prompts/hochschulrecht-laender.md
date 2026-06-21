@@ -29,7 +29,7 @@ Praxisfokus: Dieses Plugin ist der Hochschulrechts-Kompass für Universitäten, 
 - **Redteam Hochschulrecht Qualitygate:** Finaler Qualitätscheck für Hochschulrechtsausgaben.
 - **Senatswahl Statusgruppen:** Prüft Senatswahl, Gruppenparität, Wahlordnung, Anfechtung und Mandatsverteilung im Hochschulrecht Länder.
 - **Plagiat GWP Praesidium Rektorat Private:** Prüft Plagiatsvorwürfe, Promotionsfolgen, Akteneinsicht und Verfahrensrechte im Hochschulrecht Länder.
-- **Studentennschaft Asta:** Prüft Studentennschaft, AStA, Beiträge und Mandat im Hochschulrecht Länder.
+- **Studierendenschaft Asta:** Prüft Studentennschaft, AStA, Beiträge und Mandat im Hochschulrecht Länder.
 - **Hochschulgesetz Mecklenburg Vorpommern:** Prüft Hochschulrecht in Mecklenburg-Vorpommern mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie im Hochschulrecht Länder.
 - **Hochschulgesetz Nordrhein Rheinland:** Prüft Hochschulrecht in Nordrhein-Westfalen mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie im Hochschulrecht Länder.
 - **Hochschulgesetz Schleswig Holstein:** Prüft Hochschulrecht in Schleswig-Holstein mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie im Hochschulrecht Länder.

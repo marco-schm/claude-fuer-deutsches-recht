@@ -1,7 +1,7 @@
 {
   "name": "verlagsredaktion",
-  "version": "360.0.0",
-  "description": "Verlagsdesk für juristische und fachliche Verlage: Eingangskorb, Manuskript, Redaktion, Rechtecheck, Zitate, Bildrechte, Autorenkommunikation, Heftplanung, Buchprojekte, Satzfahnen, Metadaten, Marketing und Produktionsuebergabe.",
+  "version": "361.0.0",
+  "description": "Verlagsdesk für juristische und fachliche Verlage: Eingangskorb, Manuskript, Redaktion, Rechtecheck, Zitate, Bildrechte, Autorenkommunikation, Heftplanung, Buchprojekte, Satzfahnen, Metadaten, Marketing und Produktionsübergabe.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

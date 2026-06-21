@@ -24,15 +24,15 @@ Praxisfokus: > **Experimentelles Plugin im Ordner _GERICHTE_EXPERIMENTAL/** - si
 
 ## Kernmodule
 
-- **07 Insolvenzplan Bestaetigen:** Insolvenzplanverfahren Paragrafen 217 ff. InsO: Vorpruefung Paragraf 231, Anhoerung, Erlaeuterungs- und Abstimmungstermin Paragrafen 235-238, gerichtliche Bestaetigung Paragraf 24…
-- **10 Starug Planbestaetigung UND Folgen:** Planabstimmung Paragrafen 17 ff. StaRUG, gruppeninternes Mehrheitserfordernis, gruppenuebergreifender Cramdown Paragraf 26 StaRUG, gerichtliche Planbestaetigung Paragrafen 60 ff…
-- **02 Sicherungsmassnahmen VOR Eroeffnung:** Sicherungsmassnahmen Paragraf 21 InsO: vorlaeufiger Insolvenzverwalter (stark oder schwach), Verfuegungsbeschraenkungen, Vollstreckungsverbote, Postsperre, Globalsicherheiten
-- **08 Starug Restrukturierungssache Anzeigen:** Anzeige Restrukturierungssache Paragrafen 31 ff. StaRUG, Restrukturierungsbeauftragte:r Paragraf 73 StaRUG, Restrukturierungsforum, oeffentliche oder nicht-oeffentliche Sache
+- **07 Insolvenzplan Bestaetigen:** Insolvenzplanverfahren Paragrafen 217 ff. InsO: Vorprüfung Paragraf 231, Anhörung, Erlaeuterungs- und Abstimmungstermin Paragrafen 235-238, gerichtliche Bestätigung Paragraf 248…
+- **10 Starug Planbestaetigung UND Folgen:** Planabstimmung Paragrafen 17 ff. StaRUG, gruppeninternes Mehrheitserfordernis, gruppenübergreifender Cramdown Paragraf 26 StaRUG, gerichtliche Planbestätigung Paragrafen 60 ff., W…
 - **09 Starug Stabilisierungsanordnung:** Stabilisierungsanordnung Paragrafen 49 ff. StaRUG (Vollstreckungs- und Verwertungssperre), Voraussetzungen, Dauer (drei Monate, Verlaengerung), Schutzbereich, Folgenanordnung
-- **05 Restschuldbefreiung UND Schlusstermin:** Schlusstermin Paragraf 197 InsO, Schlussverteilung, Restschuldbefreiungsverfahren Paragrafen 286 ff. InsO, Versagungsgruende Paragraf 290, Obliegenheiten Paragraf 295
-- **01 Eroeffnungsantrag Pruefen Insolvenz:** Pruefung des Eroeffnungsantrags Paragrafen 13-15 InsO, Zulaessigkeit, Insolvenzgrund (Paragrafen 17-19 InsO), Verfahrenskostendeckung, Anhoerung des Schuldners
-- **03 Eroeffnungsbeschluss UND Verwalterbestellung:** Eroeffnungsbeschluss Paragraf 27 InsO, Bestellung Insolvenzverwalter, Bestimmung Berichts-, Pruefungs- und Schlusstermin, Veroeffentlichung, Registereintragung
-- **04 Glaeubigerversammlung UND Pruefungstermin:** Glaeubigerversammlung Paragrafen 74 ff. InsO, Berichtstermin Paragraf 156, Pruefungstermin Paragraf 176, Feststellung zur Tabelle Paragrafen 174 ff.
+- **08 Starug Restrukturierungssache Anzeigen:** Anzeige Restrukturierungssache Paragrafen 31 ff. StaRUG, Restrukturierungsbeauftragte:r Paragraf 73 StaRUG, Restrukturierungsforum, öffentliche oder nicht-öffentliche Sache
+- **02 Sicherungsmassnahmen VOR Eroeffnung:** Sicherungsmaßnahmen Paragraf 21 InsO: vorläufiger Insolvenzverwalter (stark oder schwach), Verfügungsbeschraenkungen, Vollstreckungsverbote, Postsperre, Globalsicherheiten
+- **05 Restschuldbefreiung UND Schlusstermin:** Schlusstermin Paragraf 197 InsO, Schlussverteilung, Restschuldbefreiungsverfahren Paragrafen 286 ff. InsO, Versagungsgründe Paragraf 290, Obliegenheiten Paragraf 295
+- **03 Eroeffnungsbeschluss UND Verwalterbestellung:** Eröffnungsbeschluss Paragraf 27 InsO, Bestellung Insolvenzverwalter, Bestimmung Berichts-, Prüfungs- und Schlusstermin, Veröffentlichung, Registereintragung
+- **01 Eroeffnungsantrag Pruefen Insolvenz:** Prüfung des Eröffnungsantrags Paragrafen 13-15 InsO, Zulässigkeit, Insolvenzgrund (Paragrafen 17-19 InsO), Verfahrenskostendeckung, Anhörung des Schuldners
+- **04 Glaeubigerversammlung UND Pruefungstermin:** Gläubigerversammlung Paragrafen 74 ff. InsO, Berichtstermin Paragraf 156, Prüfungstermin Paragraf 176, Feststellung zur Tabelle Paragrafen 174 ff.
 - **06 Eigenverwaltung UND Schutzschirm:** Eigenverwaltung Paragrafen 270 ff. InsO, Eigenverwaltungsplanung Paragraf 270a, Schutzschirmverfahren Paragraf 270d, Sachwalter Paragraf 274
 
 ## Ausgabeformat

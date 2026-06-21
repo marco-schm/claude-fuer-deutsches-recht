@@ -32,10 +32,10 @@ Praxisfokus: > Großes Robotik-Rechtsplugin für Deutschland und EU. Es führt v
 - **Workflow Rueckruf UND Field Action:** Plant freiwillige oder behördliche Korrekturmaßnahme: Risiko, Reichweite, Kundenliste, Software-Patch, Austausch, Stilllegung und Nachweisführung im Robotik-Re…
 - **Workflow Kaltstart UND Routing:** Kaltstart für jedes Robotikmandat: sortiert Produkt, Rolle, Ziel, Frist, Risiko, Rechtsregime und schlägt sofort die passenden Skills im Robotik-Recht-Plugin v…
 - **Workflow Litigation Vorbereitung:** Bereitet Robotikstreit vor: Anspruchsgrundlagen, Beweislast, Sachverständige, Besichtigung, Geheimnisschutz, Produktakte und Vergleichsoptionen im Robotik-Rech…
-- **Workflow First Year Associate Robotik:** Führt junge Anwälte durch den ersten Robotikfall: Aktenaufnahme, Normenlandkarte, Rückfragen, Quellencheck, Memo und Red-Team im Robotik-Recht.
 - **Workflow Fristen UND Uebergangsrecht:** Erstellt Fristenplan für Maschinenverordnung, MaschinenDG, CRA, KI-VO, Produkthaftungsrichtlinie, Meldungen, Rückruf und Prozessfristen im Robotik-Recht.
 - **Risikoklassifizierung Schnelltest:** Führt durch Risikoklassen: Maschine, Sicherheitsbauteil, Hochrisiko-KI, Medizinprodukt, Verbraucherprodukt, kritische Infrastruktur, Beschäftigtendaten.
 - **Workflow Board UND C Level Briefing:** Übersetzt komplexes Robotikrecht in entscheidungsfähige Vorstands-/C-Level-Vorlagen mit Risiko, Optionen, Zeitplan und Budget im Robotik-Recht.
+- **Workflow First Year Associate Robotik:** Führt junge Anwälte durch den ersten Robotikfall: Aktenaufnahme, Normenlandkarte, Rückfragen, Quellencheck, Memo und Red-Team im Robotik-Recht.
 - **Workflow Zweckbestimmung UND Usecase:** Kläre Zweckbestimmung, vernünftigerweise vorhersehbaren Gebrauch, Fehlanwendung, Hochrisiko-Nähe und spätere Zweckänderung im Robotik-Recht.
 - **Produktakte GAP Produktbeobachtung Field:** Führt Gap-Analyse der Produktakte durch: fehlende Nachweise, falsche Annahmen, ungeklärte Rollen, nicht belegte Standards im Robotik-Recht.
 - **Provider QMS UND Risikomanagement:** Prüft Anbieterpflichten für Hochrisiko-KI: QMS, Risikomanagement, Daten, Dokumentation, Logging, Transparenz und Human Oversight.

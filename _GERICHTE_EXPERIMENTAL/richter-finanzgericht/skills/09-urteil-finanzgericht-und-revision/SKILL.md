@@ -1,13 +1,13 @@
 ---
 name: 09-urteil-finanzgericht-und-revision
-description: "Urteil Paragraf 105 FGO: Tatbestand, Entscheidungsgruende, Tenor; Revision Paragraf 115 FGO an BFH (grundsaetzliche Bedeutung, Fortbildung des Rechts, Divergenz), Nichtzulassungsbeschwerde"
+description: "Urteil Paragraf 105 FGO: Tatbestand, Entscheidungsgründe, Tenor; Revision Paragraf 115 FGO an BFH (grundsaetzliche Bedeutung, Fortbildung des Rechts, Divergenz), Nichtzulassungsbeschwerde"
 ---
 
 # 09 Urteil Finanzgericht Und Revision
 
 ## Zweck
 
-Urteil Paragraf 105 FGO: Tatbestand, Entscheidungsgruende, Tenor; Revision Paragraf 115 FGO an BFH (grundsaetzliche Bedeutung, Fortbildung des Rechts, Divergenz), Nichtzulassungsbeschwerde
+Urteil Paragraf 105 FGO: Tatbestand, Entscheidungsgründe, Tenor; Revision Paragraf 115 FGO an BFH (grundsaetzliche Bedeutung, Fortbildung des Rechts, Divergenz), Nichtzulassungsbeschwerde
 
 ## Rolle
 
@@ -21,47 +21,47 @@ FGO, AO, EStG, KStG, GewStG, UStG, BewG, FVG, GKG, RVG
 
 1. Akteninhalt sichten und Strukturmerkmale extrahieren.
 2. Einschlaegige Normen identifizieren und zitieren.
-3. Pruefungsschema anwenden, Tatbestandsmerkmale durchpruefen.
+3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
 4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Pruefung markieren.
-6. Quellen vollstaendig zitieren (Norm + Aktenzeichen + Datum).
+5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
+6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
 
 ## Output
 
-Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
+Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
 
 ## Warnhinweis (immer)
 
 - Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis pruefen (Paragraf 353b StGB, Paragraf 43 DRiG).
+- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
 - KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
 - Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
-- EuGH C-439/04 und C-440/04 (06.07.2006): Vorsteuerabzug kann versagt werden, wenn der Steuerpflichtige wusste oder haette wissen muessen, dass er in Umsatzsteuerbetrug einbezogen war.
-- EuGH C-80/11 und C-142/11 (21.06.2012): Mahageben und David begrenzt ueberspannte Nachforschungspflichten redlicher Unternehmer.
-- EuGH C-131/13 und C-163/13 und C-164/13 (18.12.2014): Italmoda erfasst Steuerbetrugsfaelle auch grenzueberschreitend und bei unionsrechtlichen Steuerrechten.
-- BFH VI R 22/19 (04.11.2021): Doppelbesteuerungsabkommen begruenden grundsaetzlich keine Steuerpflicht, sondern begrenzen nationale Besteuerung.
+- EuGH C-439/04 und C-440/04 (06.07.2006): Vorsteuerabzug kann versagt werden, wenn der Steuerpflichtige wusste oder hätte wissen müssen, dass er in Umsatzsteuerbetrug einbezogen war.
+- EuGH C-80/11 und C-142/11 (21.06.2012): Mahageben und David begrenzt überspannte Nachforschungspflichten redlicher Unternehmer.
+- EuGH C-131/13 und C-163/13 und C-164/13 (18.12.2014): Italmoda erfasst Steuerbetrugsfaelle auch grenzüberschreitend und bei unionsrechtlichen Steuerrechten.
+- BFH VI R 22/19 (04.11.2021): Doppelbesteuerungsabkommen begründen grundsaetzlich keine Steuerpflicht, sondern begrenzen nationale Besteuerung.
 
-## Pruefungsschema in Stufen
+## Prüfungsschema in Stufen
 
-1. Finanzrechtsweg, Klageart, Einspruchsvorverfahren und Frist pruefen.
-   - Benenne Gericht, Spruchkoerper, funktionelle Zustaendigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Bescheidart, Besteuerungsgrundlagen und Aenderungsnorm bestimmen.
-   - Verdichte den Aktenstoff fuer 09 Urteil Finanzgericht Und Revision: Urteil Paragraf 105 FGO: Tatbestand, Entscheidungsgruende, Tenor; Revision Paragraf 115 FGO an BFH (grundsaetzliche Bedeutung, Fortbildung des Rechts, Divergenz), Nichtzulassungsbe
-3. Materielle Steuernorm mit Tatbestandsmerkmalen und Feststellungslast pruefen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der naechste richterliche Schritt entscheidungsreif wird.
+1. Finanzrechtsweg, Klageart, Einspruchsvorverfahren und Frist prüfen.
+   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
+2. Bescheidart, Besteuerungsgrundlagen und Änderungsnorm bestimmen.
+   - Trenne Bescheidinhalt, Änderungsnorm, Feststellungslast und rechnerische Auswirkung, bevor der Tenor vorbereitet wird.
+3. Materielle Steuernorm mit Tatbestandsmerkmalen und Feststellungslast prüfen.
+   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
 4. Amtsermittlung nach Paragraf 76 FGO und Mitwirkung nach AO austarieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklaerung von vorlaeufiger Bewertung.
+   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
 5. Urteil, AdV-Beschluss oder Gerichtsbescheid mit Kosten und Revision formulieren.
-   - Schreibe den Ausspruch vollstaendig aus, pruefe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
 
 ## Typische Fallstricke
 
 - AdV wird wie Hauptsache entschieden, ohne ernstliche Zweifel oder unbillige Haerte zu trennen.
 - Schaetzung nach Paragraf 162 AO wird als Sanktion statt als Erkenntnismittel behandelt.
-- DBA wird faelschlich als steuerbegruendende Norm verwendet.
+- DBA wird faelschlich als steuerbegründende Norm verwendet.
 - Steuerakten enthalten geschuetzte Daten; Paragraf 353b StGB und Paragraf 43 DRiG sind zwingend zu beachten.
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
@@ -69,7 +69,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Die Vollziehung des Bescheids vom [Datum] wird in Hoehe von [Betrag] bis einen Monat nach Bekanntgabe der Entscheidung in der Hauptsache ausgesetzt.
+Die Vollziehung des Bescheids vom [Datum] wird in Höhe von [Betrag] bis einen Monat nach Bekanntgabe der Entscheidung in der Hauptsache ausgesetzt.
 ```
 
 ### Baustein B
@@ -80,5 +80,5 @@ Der angefochtene Bescheid wird dahingehend geaendert, dass [Besteuerungsgrundlag
 
 ## Benachbarte Skills
 
-- **Davor**: `08-schaetzung-und-betriebspruefung` - Nutze diesen Vorgaenger fuer die vorgelagerte Akten-, Zulassigkeits- oder Strukturfrage, bevor 09 Urteil Finanzgericht Und Revision bearbeitet wird.
+- **Davor**: `08-schaetzung-und-betriebspruefung` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 09 Urteil Finanzgericht Und Revision bearbeitet wird.
 - **Danach**: `10-entscheidungsvorschlag-finanzgericht` - Nutze diesen Folgeschritt, sobald 09 Urteil Finanzgericht Und Revision als gerichtlicher Arbeitsstand verwertbar ist.

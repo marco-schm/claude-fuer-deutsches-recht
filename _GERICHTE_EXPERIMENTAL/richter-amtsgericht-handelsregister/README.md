@@ -4,7 +4,7 @@
 
 ## Rolle
 
-Registerrichter:in oder Rechtspfleger:in fuer Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Vereinsregister
+Registerrichter:in oder Rechtspfleger:in für Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Vereinsregister
 
 ## Rechtsrahmen
 
@@ -19,51 +19,51 @@ HGB, AktG, GmbHG, GenG, PartGG, BGB (Vereinsrecht), FamFG, HRV, RPflG
 
 ## Skill-Liste
 
-- **01-anmeldung-pruefen-zustaendigkeit** — Pruefung der Anmeldung: Formerfordernis (notarielle Beglaubigung Paragraf 12 HGB), Aktivlegitimation, Vollstaendigkeit d
-- **02-firmenrecht-pruefen** — Firmenpruefung Paragrafen 17-37a HGB: Kennzeichnungseignung, Unterscheidbarkeit (Paragraf 30 HGB), Irrefuehrungsverbot (
-- **03-gesellschaftsvertrag-pruefen-gmbh** — Pruefung GmbH-Satzung Paragraf 3 GmbHG: Mindestinhalt, Stammkapital, Geschaeftsfuehrervertretung, Gegenstand des Unterne
+- **01-anmeldung-pruefen-zustaendigkeit** — Prüfung der Anmeldung: Formerfordernis (notarielle Beglaubigung Paragraf 12 HGB), Aktivlegitimation, Vollständigkeit d
+- **02-firmenrecht-pruefen** — Firmenprüfung Paragrafen 17-37a HGB: Kennzeichnungseignung, Unterscheidbarkeit (Paragraf 30 HGB), Irrefuehrungsverbot (
+- **03-gesellschaftsvertrag-pruefen-gmbh** — Prüfung GmbH-Satzung Paragraf 3 GmbHG: Mindestinhalt, Stammkapital, Geschaeftsfuehrervertretung, Gegenstand des Unterne
 - **04-vertretungsmacht-und-prokura** — Eintragung Geschaeftsfuehrer Paragraf 39 GmbHG, Vorstand Paragraf 81 AktG, Prokura Paragrafen 48-53 HGB (Erteilung, Erlo
-- **05-kapitalerhoehung-und-kapitalherabsetzung** — Pruefung Kapitalerhoehung GmbH Paragrafen 55-57 GmbHG, AG Paragrafen 182-191 AktG; Kapitalherabsetzung Paragrafen 58-58f
+- **05-kapitalerhoehung-und-kapitalherabsetzung** — Prüfung Kapitalerhoehung GmbH Paragrafen 55-57 GmbHG, AG Paragrafen 182-191 AktG; Kapitalherabsetzung Paragrafen 58-58f
 - **06-umwandlung-eintragen** — Eintragung Umwandlungen Paragrafen 16, 19 UmwG: Verschmelzung, Spaltung, Formwechsel; Sperrwirkung Paragraf 16 Abs. 2 Um
 - **07-zwischenverfuegung-und-beschwerde** — Zwischenverfuegung Paragraf 382 FamFG, Frist setzen, Hinweisbeschluss; Beschwerde Paragrafen 58-72 FamFG, Abhilfe; Recht
-- **08-loeschung-von-amts-wegen** — Loeschung wegen Vermoegenslosigkeit Paragraf 394 FamFG; Loeschung wegen Mangel des Gesellschaftsvertrags Paragraf 397 Fa
+- **08-loeschung-von-amts-wegen** — Loeschung wegen Vermögenslosigkeit Paragraf 394 FamFG; Loeschung wegen Mangel des Gesellschaftsvertrags Paragraf 397 Fa
 - **09-vereins-und-genossenschaftsregister** — Vereinsregister Paragrafen 55-79 BGB: Anmeldung Paragraf 59, Eintragung, Vorstandsbestellung, Wahrnehmung wirtschaftlich
-- **10-entscheidungsvorschlag-register** — Strukturierter Entscheidungsvorschlag fuer den Registerrichter oder Rechtspfleger: Eintragungsentwurf, Hinweise zur Eint
+- **10-entscheidungsvorschlag-register** — Strukturierter Entscheidungsvorschlag für den Registerrichter oder Rechtspfleger: Eintragungsentwurf, Hinweise zur Eint
 
 ## Wichtiger Hinweis vor Verwendung
 
-**Experimentelles Plugin — Vorsicht.** Dieses Plugin ist ein Funktionsexperiment fuer den Einsatz von KI an deutschen Gerichten. Es geht hier um die **Capability**, nicht um eine Produktivempfehlung.
+**Experimentelles Plugin — Vorsicht.** Dieses Plugin ist ein Funktionsexperiment für den Einsatz von KI an deutschen Gerichten. Es geht hier um die **Capability**, nicht um eine Produktivempfehlung.
 
 ### Rechtliche Einordnung der KI-Verordnung (KI-VO, VO (EU) 2024/1689)
 
 - **Art. 6 Abs. 2 i.V.m. Anhang III Nr. 8 lit. a KI-VO**: KI-Systeme, die von einer Justizbehoerde oder in deren Auftrag bei der **Recherche und Auslegung von Sachverhalten und Rechtsvorschriften** sowie bei der **Anwendung des Rechts auf konkrete Sachverhalte** verwendet werden, sind grundsaetzlich **Hochrisiko-KI**.
 - **Aber Art. 6 Abs. 3 KI-VO**: Ein KI-System gilt **nicht** als Hochrisiko-KI, wenn es nur eine **vorbereitende Aufgabe** wahrnimmt (z.B. Vorbereitung von Dokumenten, reine Recherche ohne Subsumtion).
-- **Notifizierungspflicht**: Auch im Ausnahmefall des Art. 6 Abs. 3 ist der Anbieter bzw. Betreiber verpflichtet, das KI-System bei der zustaendigen Aufsicht zu **registrieren** (Art. 49 Abs. 2 KI-VO).
-- Die Einordnung ist im Einzelfall zu pruefen. Sobald das System konkrete Entscheidungsvorschlaege produziert, die Subsumtion vornimmt oder die richterliche Wuerdigung ersetzt, wird die Schwelle zur Hochrisiko-KI ueberschritten.
+- **Notifizierungspflicht**: Auch im Ausnahmefall des Art. 6 Abs. 3 ist der Anbieter bzw. Betreiber verpflichtet, das KI-System bei der zuständigen Aufsicht zu **registrieren** (Art. 49 Abs. 2 KI-VO).
+- Die Einordnung ist im Einzelfall zu prüfen. Sobald das System konkrete Entscheidungsvorschlaege produziert, die Subsumtion vornimmt oder die richterliche Würdigung ersetzt, wird die Schwelle zur Hochrisiko-KI überschritten.
 
 ### Art. 22 DSGVO — Verbot ausschliesslich automatisierter Entscheidung
 
-Die richterliche Letztentscheidung muss zwingend bei einem Menschen liegen. **Keine Maschine entscheidet als Richter.** Diese Skills sind ausschliesslich **Unterstuetzung** der richterlichen Arbeit, niemals deren Ersatz. Der Richter prueft, gewichtet, entscheidet — die KI bereitet vor und macht Vorschlaege.
+Die richterliche Letztentscheidung muss zwingend bei einem Menschen liegen. **Keine Maschine entscheidet als Richter.** Diese Skills sind ausschliesslich **Unterstuetzung** der richterlichen Arbeit, niemals deren Ersatz. Der Richter prüft, gewichtet, entscheidet — die KI bereitet vor und macht Vorschlaege.
 
 ### Aktengeheimnis und Datenschutz
 
 - **Paragraf 353b StGB** (Verletzung von Dienstgeheimnissen) und **Paragraf 43 DRiG** (Amtsverschwiegenheit der Richter) sind strikt zu wahren.
-- Akteninhalte duerfen nicht ungepruefte an externe KI-Anbieter uebermittelt werden. Vor jeder Verwendung ist zu pruefen, ob die genutzte KI-Umgebung den Datenschutz und das Aktengeheimnis gewaehrleistet.
-- **Schatten-KI ist ausdruecklich abgelehnt.** Dieses Plugin soll keine Hilfe sein, KI an behoerdlichen Datenschutz- und IT-Richtlinien vorbei einzusetzen.
+- Akteninhalte duerfen nicht ungeprüfte an externe KI-Anbieter übermittelt werden. Vor jeder Verwendung ist zu prüfen, ob die genutzte KI-Umgebung den Datenschutz und das Aktengeheimnis gewaehrleistet.
+- **Schatten-KI ist ausdrücklich abgelehnt.** Dieses Plugin soll keine Hilfe sein, KI an behoerdlichen Datenschutz- und IT-Richtlinien vorbei einzusetzen.
 
 ### Revisionssicherheit
 
-- Saemtliche Arbeitsergebnisse muessen revisionssicher dokumentiert werden: Wer hat wann welche KI-Ausgabe genutzt, welche Aenderungen wurden danach durch den Richter vorgenommen, welche Akten- und Promptbestandteile lagen zugrunde?
+- Saemtliche Arbeitsergebnisse müssen revisionssicher dokumentiert werden: Wer hat wann welche KI-Ausgabe genutzt, welche Änderungen wurden danach durch den Richter vorgenommen, welche Akten- und Promptbestandteile lagen zugrunde?
 - Die KI-Ausgabe muss als KI-Ausgabe erkennbar bleiben (Markierung, Versionierung); die richterliche Bearbeitung dokumentiert werden.
 - Aufbewahrungsfristen nach Aktenordnung der Gerichte und ggf. KI-VO-Logging-Pflichten beachten.
 
 ### Realismus-Hinweis
 
-Viele Gerichte werden Claude und Anthropic auf absehbare Zeit nicht produktiv einsetzen koennen — das wissen wir. Der Wert dieses Plugins liegt darin, dass **Megaprompt und Miniprompt portabel** sind: Sie funktionieren in jedem KI-Tool mit ausreichendem Kontextfenster und Datei-Upload (z.B. einem behoerdlich freigegebenen On-Premise-System). Wer im Gericht bereits eine zugelassene KI-Umgebung hat, kann den Megaprompt oder Miniprompt zusammen mit weiteren Instruktionen dort einsetzen, soweit das jeweilige Hausrecht und die Datenschutzfreigabe das erlauben.
+Viele Gerichte werden Claude und Anthropic auf absehbare Zeit nicht produktiv einsetzen können — das wissen wir. Der Wert dieses Plugins liegt darin, dass **Megaprompt und Miniprompt portabel** sind: Sie funktionieren in jedem KI-Tool mit ausreichendem Kontextfenster und Datei-Upload (z.B. einem behoerdlich freigegebenen On-Premise-System). Wer im Gericht bereits eine zugelassene KI-Umgebung hat, kann den Megaprompt oder Miniprompt zusammen mit weiteren Instruktionen dort einsetzen, soweit das jeweilige Hausrecht und die Datenschutzfreigabe das erlauben.
 
 ### Verwendung auf eigene Gefahr
 
-Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt sich um ein Capability-Experiment. Die Frage, ob und wie der hier abgebildete Workflow rechtssicher betrieben werden kann, ist im Einzelfall zu pruefen — und kann auch zu dem Ergebnis fuehren, dass es nicht geht. Wir wollen das wissen, indem wir es bauen und ausprobieren.
+Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt sich um ein Capability-Experiment. Die Frage, ob und wie der hier abgebildete Workflow rechtssicher betrieben werden kann, ist im Einzelfall zu prüfen — und kann auch zu dem Ergebnis fuehren, dass es nicht geht. Wir wollen das wissen, indem wir es bauen und ausprobieren.
 
 
 ## Quellenhygiene

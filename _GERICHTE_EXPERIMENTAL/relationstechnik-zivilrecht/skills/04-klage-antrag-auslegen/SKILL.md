@@ -11,7 +11,7 @@ Klageantrag auslegen Paragraf 133 BGB analog, Bestimmtheit Paragraf 253 Abs. 2 N
 
 ## Rolle
 
-Jede:r Zivilrechtler:in (Richter, Referendar, Anwalt) der eine grosse Relation aufbauen will
+Jede:r Zivilrechtler:in (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
 
 ## Rechtsrahmen
 
@@ -21,41 +21,41 @@ ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
 
 1. Akteninhalt sichten und Strukturmerkmale extrahieren.
 2. Einschlaegige Normen identifizieren und zitieren.
-3. Pruefungsschema anwenden, Tatbestandsmerkmale durchpruefen.
+3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
 4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Pruefung markieren.
-6. Quellen vollstaendig zitieren (Norm + Aktenzeichen + Datum).
+5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
+6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
 
 ## Output
 
-Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
+Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
 
 ## Warnhinweis (immer)
 
 - Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis pruefen (Paragraf 353b StGB, Paragraf 43 DRiG).
+- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
 - KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
 - Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehoer verlangt, dass entscheidungserheblicher Vortrag sichtbar zur Kenntnis genommen und verarbeitet wird.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung darf nicht ueberspannt werden, wenn der Vortrag den Lebenssachverhalt hinreichend greifbar macht.
+- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag sichtbar zur Kenntnis genommen und verarbeitet wird.
+- BGH VI ZR 599/16 (24.07.2018): Substantiierung darf nicht überspannt werden, wenn der Vortrag den Lebenssachverhalt hinreichend greifbar macht.
 - BGH XII ZR 97/21 (19.10.2022): Streitgegenstand und Entscheidungsreichweite sind vor Teilentscheidung und Tenorierung praezise zu bestimmen.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine persoenliche Ueberzeugungsbildung, keine mathematische Gewissheit.
+- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine persoenliche Überzeugungsbildung, keine mathematische Gewissheit.
 
-## Pruefungsschema in Stufen
+## Prüfungsschema in Stufen
 
 1. Streitgegenstand und Antraege nach Paragraf 253 ZPO auslegen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstuecks zu.
-2. Klaegerstation: Anspruchsgrundlage, Tatbestandsmerkmale, Schluessigkeit und fehlende Einwendungen pruefen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der naechste richterliche Schritt entscheidungsreif wird.
-3. Beklagtenstation: Bestreiten, Einwendungen, Einreden und Replikfaehigkeit ordnen.
-   - Verdichte den Aktenstoff fuer 04 Klage Antrag Auslegen: Klageantrag auslegen Paragraf 133 BGB analog, Bestimmtheit Paragraf 253 Abs. 2 Nr. 2 ZPO, Haupt- und Hilfsantraege, Stufenklage Paragraf 254
-4. Beweisstation: beweisbeduerftige Tatsache, Beweislast, Beweismittel und Paragraf 286 oder Paragraf 287 ZPO trennen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklaerung von vorlaeufiger Bewertung.
-5. Entscheidungsvorschlag mit Tenor, Gruenden, Kosten und Vollstreckbarkeit formulieren.
-   - Schreibe den Ausspruch vollstaendig aus, pruefe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
+2. Klägerstation: Anspruchsgrundlage, Tatbestandsmerkmale, Schluessigkeit und fehlende Einwendungen prüfen.
+   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
+3. Beklagtenstation: Bestreiten, Einwendungen, Einreden und Replikfähigkeit ordnen.
+   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
+4. Beweisstation: beweisbedürftige Tatsache, Beweislast, Beweismittel und Paragraf 286 oder Paragraf 287 ZPO trennen.
+   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
+5. Entscheidungsvorschlag mit Tenor, Gründen, Kosten und Vollstreckbarkeit formulieren.
+   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
 
 ## Typische Fallstricke
 
@@ -75,10 +75,10 @@ Das Gericht weist darauf hin, dass der bisherige Vortrag zu [Tatbestandsmerkmal]
 ### Baustein B
 
 ```text
-Nach vorlaeufiger rechtlicher Wuerdigung kommt es entscheidungserheblich auf [Tatsache] an. Hierfuer ist nach der derzeitigen Anspruchs- und Einwendungslage [Partei] darlegungs- und beweisbelastet.
+Nach vorläufiger rechtlicher Würdigung kommt es entscheidungserheblich auf [Tatsache] an. Hierfür ist nach der derzeitigen Anspruchs- und Einwendungslage [Partei] darlegungs- und beweisbelastet.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `03-streitstand-erfassen` - Nutze diesen Vorgaenger fuer die vorgelagerte Akten-, Zulassigkeits- oder Strukturfrage, bevor 04 Klage Antrag Auslegen bearbeitet wird.
+- **Davor**: `03-streitstand-erfassen` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 04 Klage Antrag Auslegen bearbeitet wird.
 - **Danach**: `05-anspruchsgrundlagen-identifizieren` - Nutze diesen Folgeschritt, sobald 04 Klage Antrag Auslegen als gerichtlicher Arbeitsstand verwertbar ist.

@@ -1,7 +1,7 @@
 {
   "name": "richter-amtsgericht-straf",
-  "version": "360.0.0",
-  "description": "Strafrichter Amtsgericht: Eroeffnungsentscheidung Hauptverhandlung Beweiswuerdigung Strafzumessung Urteilsbegruendung Rechtsmittelbelehrung Strafbefehl beschleunigtes Verfahren mit Tenorvorschlag",
+  "version": "361.0.0",
+  "description": "Strafrichter Amtsgericht: Eröffnungsentscheidung Hauptverhandlung Beweiswürdigung Strafzumessung Urteilsbegründung Rechtsmittelbelehrung Strafbefehl beschleunigtes Verfahren mit Tenorvorschlag",
   "keywords": [
     "experimental-justiz",
     "gericht",

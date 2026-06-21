@@ -9,25 +9,25 @@ Insolvenz- und Restrukturierungsgericht am Amtsgericht
 
 ## Sachverhalt (verkuerzt)
 
-MusterTec GmbH (Maschinenbau, 47 Mitarbeiter, Sitz Musterstadt) stellt Eigenantrag wegen drohender Zahlungsunfaehigkeit (Paragraf 18 InsO) verbunden mit Antrag auf Eigenverwaltung (Paragraf 270a InsO). Beigefuegt: Eigenverwaltungsplanung, Liquiditaetsplan ueber 6 Monate, Sanierungsgutachten. Hauptglaeubiger: Hausbank (gesicherte Forderung 4.800.000 Euro), Lieferanten (2.100.000 Euro). Mitarbeiter haben offene Loehne fuer 2 Monate.
+MusterTec GmbH (Maschinenbau, 47 Mitarbeiter, Sitz Musterstadt) stellt Eigenantrag wegen drohender Zahlungsunfähigkeit (Paragraf 18 InsO) verbunden mit Antrag auf Eigenverwaltung (Paragraf 270a InsO). Beigefuegt: Eigenverwaltungsplanung, Liquiditätsplan über 6 Monate, Sanierungsgutachten. Hauptgläubiger: Hausbank (gesicherte Forderung 4.800.000 Euro), Lieferanten (2.100.000 Euro). Mitarbeiter haben offene Loehne für 2 Monate.
 
 ## Aufgabe
 
-Als Insolvenzrichter pruefen: Zulaessigkeit des Eigenantrags, Insolvenzgrund, Anordnung Sicherungsmassnahmen Paragraf 21 InsO, Voraussetzungen Eigenverwaltung Paragraf 270a, Bestellung vorlaeufiger Sachwalter, Tenor-Entwurf fuer Eroeffnungsbeschluss.
+Als Insolvenzrichter prüfen: Zulässigkeit des Eigenantrags, Insolvenzgrund, Anordnung Sicherungsmaßnahmen Paragraf 21 InsO, Voraussetzungen Eigenverwaltung Paragraf 270a, Bestellung vorläufiger Sachwalter, Tenor-Entwurf für Eröffnungsbeschluss.
 
 ## Hinweise
 
-- Pruefen Sie den Sachverhalt strukturiert nach den Skills dieses Plugins.
-- Markieren Sie alle Ausgaben als "Vorschlag zur richterlichen Pruefung".
+- Prüfen Sie den Sachverhalt strukturiert nach den Skills dieses Plugins.
+- Markieren Sie alle Ausgaben als "Vorschlag zur richterlichen Prüfung".
 - Beachten Sie Aktengeheimnis (Paragraf 353b StGB, Paragraf 43 DRiG): Testakte ist fiktiv, in der Praxis aber strenge Sorgfalt.
 - Dokumentieren Sie revisionssicher.
 
 ## Erwarteter Output
 
-1. Strukturierte Pruefung nach Skill-Reihenfolge.
+1. Strukturierte Prüfung nach Skill-Reihenfolge.
 2. Konkreter Entscheidungs- oder Tenor-Vorschlag.
 3. Risikohinweise.
-4. Quellen mit vollstaendigen Zitaten.
+4. Quellen mit vollständigen Zitaten.
 
 ## Warnhinweis
 

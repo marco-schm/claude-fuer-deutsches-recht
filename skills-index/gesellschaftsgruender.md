@@ -1,6 +1,6 @@
 # gesellschaftsgruender
 
-**104 Skills** · Stand `v360.0.0`
+**104 Skills** · Stand `v361.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gesellschaftsgruender/README.md)

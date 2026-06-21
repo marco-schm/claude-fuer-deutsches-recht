@@ -9,25 +9,25 @@ Strafkammer am Landgericht
 
 ## Sachverhalt (verkuerzt)
 
-Anklage gegen zwei Angeschuldigte (A1 und A2, beide 24 Jahre, A1 einschlaegig vorbestraft) wegen schweren Raubes (Paragraf 250 Abs. 2 Nr. 1 StGB — mitgefuehrte Schusswaffe) zum Nachteil Tankstellenkasse Musterstadt am 18.05.2026. Beute 4.380 Euro. Festnahme nach 6 Stunden. Geladene Schreckschusspistole als Tatwaffe sichergestellt. Beide Angeschuldigte schweigen, Verteidiger ruegen Identifizierung durch Tatzeugin (Lichtbildvorlage).
+Anklage gegen zwei Angeschuldigte (A1 und A2, beide 24 Jahre, A1 einschlaegig vorbestraft) wegen schweren Raubes (Paragraf 250 Abs. 2 Nr. 1 StGB — mitgefuehrte Schusswaffe) zum Nachteil Tankstellenkasse Musterstadt am 18.05.2026. Beute 4.380 Euro. Festnahme nach 6 Stunden. Geladene Schreckschusspistole als Tatwaffe sichergestellt. Beide Angeschuldigte schweigen, Verteidiger rügen Identifizierung durch Tatzeugin (Lichtbildvorlage).
 
 ## Aufgabe
 
-Als Berichterstatter der grossen Strafkammer Eroeffnungs-Vorbereitung, Hauptverhandlungs-Konzept (Beweisaufnahme, Umgang mit der Identifizierungsruege), Beweiswuerdigungs-Entwurf, Strafzumessung Paragraf 46 StGB inkl. Strafrahmenpruefung Paragraf 250 Abs. 2 vs. minder schwerer Fall Paragraf 250 Abs. 3, Tenor- und Strafmassvorschlag.
+Als Berichterstatter der großen Strafkammer Eröffnungs-Vorbereitung, Hauptverhandlungs-Konzept (Beweisaufnahme, Umgang mit der Identifizierungsrüge), Beweiswürdigungs-Entwurf, Strafzumessung Paragraf 46 StGB inkl. Strafrahmenprüfung Paragraf 250 Abs. 2 vs. minder schwerer Fall Paragraf 250 Abs. 3, Tenor- und Strafmassvorschlag.
 
 ## Hinweise
 
-- Pruefen Sie den Sachverhalt strukturiert nach den Skills dieses Plugins.
-- Markieren Sie alle Ausgaben als "Vorschlag zur richterlichen Pruefung".
+- Prüfen Sie den Sachverhalt strukturiert nach den Skills dieses Plugins.
+- Markieren Sie alle Ausgaben als "Vorschlag zur richterlichen Prüfung".
 - Beachten Sie Aktengeheimnis (Paragraf 353b StGB, Paragraf 43 DRiG): Testakte ist fiktiv, in der Praxis aber strenge Sorgfalt.
 - Dokumentieren Sie revisionssicher.
 
 ## Erwarteter Output
 
-1. Strukturierte Pruefung nach Skill-Reihenfolge.
+1. Strukturierte Prüfung nach Skill-Reihenfolge.
 2. Konkreter Entscheidungs- oder Tenor-Vorschlag.
 3. Risikohinweise.
-4. Quellen mit vollstaendigen Zitaten.
+4. Quellen mit vollständigen Zitaten.
 
 ## Warnhinweis
 

@@ -1,7 +1,7 @@
 {
   "name": "richter-landgericht-strafkammer",
-  "version": "360.0.0",
-  "description": "Strafkammer LG: Eroeffnungsentscheidung Hauptverhandlung Beweiswuerdigung Strafzumessung schwere und mittlere Kriminalitaet Berufung gegen Amtsgerichtsurteil Sicherungsverwahrung und Massnahmen mit Tenorvorschlag",
+  "version": "361.0.0",
+  "description": "Strafkammer LG: Eröffnungsentscheidung Hauptverhandlung Beweiswürdigung Strafzumessung schwere und mittlere Kriminalitaet Berufung gegen Amtsgerichtsurteil Sicherungsverwahrung und Maßnahmen mit Tenorvorschlag",
   "keywords": [
     "experimental-justiz",
     "gericht",

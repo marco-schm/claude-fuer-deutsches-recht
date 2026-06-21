@@ -1,17 +1,17 @@
 ---
 name: 02-hauptverhandlung-grosse-strafkammer
-description: "Hauptverhandlung mit drei Berufs- und zwei Schoeffenrichtern Paragraf 76 GVG, Verhandlungsleitung, Ablauf nach Paragraf 243 StPO, Wahrung der Foerderungs- und Aufklaerungspflicht Paragraf 244 Abs. 2"
+description: "Hauptverhandlung mit drei Berufs- und zwei Schöffenrichtern Paragraf 76 GVG, Verhandlungsleitung, Ablauf nach Paragraf 243 StPO, Wahrung der Förderungs- und Aufklärungspflicht Paragraf 244 Abs. 2"
 ---
 
-# 02 Hauptverhandlung Grosse Strafkammer
+# 02 Hauptverhandlung Große Strafkammer
 
 ## Zweck
 
-Hauptverhandlung mit drei Berufs- und zwei Schoeffenrichtern Paragraf 76 GVG, Verhandlungsleitung, Ablauf nach Paragraf 243 StPO, Wahrung der Foerderungs- und Aufklaerungspflicht Paragraf 244 Abs. 2
+Hauptverhandlung mit drei Berufs- und zwei Schöffenrichtern Paragraf 76 GVG, Verhandlungsleitung, Ablauf nach Paragraf 243 StPO, Wahrung der Förderungs- und Aufklärungspflicht Paragraf 244 Abs. 2
 
 ## Rolle
 
-Vorsitzende:r oder Berichterstatter:in einer grossen oder kleinen Strafkammer (Paragraf 74 GVG, Paragraf 76 GVG); Schwurgericht Paragraf 74 Abs. 2 GVG
+Vorsitzende:r oder Berichterstatter:in einer großen oder kleinen Strafkammer (Paragraf 74 GVG, Paragraf 76 GVG); Schwurgericht Paragraf 74 Abs. 2 GVG
 
 ## Rechtsrahmen
 
@@ -21,47 +21,47 @@ StGB, StPO, GVG, JGG, BZRG, RVG
 
 1. Akteninhalt sichten und Strukturmerkmale extrahieren.
 2. Einschlaegige Normen identifizieren und zitieren.
-3. Pruefungsschema anwenden, Tatbestandsmerkmale durchpruefen.
+3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
 4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Pruefung markieren.
-6. Quellen vollstaendig zitieren (Norm + Aktenzeichen + Datum).
+5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
+6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
 
 ## Output
 
-Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
+Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
 
 ## Warnhinweis (immer)
 
 - Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis pruefen (Paragraf 353b StGB, Paragraf 43 DRiG).
+- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
 - KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
 - Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
-- BGH 1 StR 618/98 (30.07.1999): Aussage-gegen-Aussage verlangt eine in sich geschlossene Glaubhaftigkeitspruefung.
-- BVerfG 2 BvR 2628/10 und 2 BvR 2883/10 und 2 BvR 2155/11 (19.03.2013): Verstaendigung nach Paragraf 257c StPO braucht Offenlegung, Protokollierung und Belehrung.
+- BGH 1 StR 618/98 (30.07.1999): Aussage-gegen-Aussage verlangt eine in sich geschlossene Glaubhaftigkeitsprüfung.
+- BVerfG 2 BvR 2628/10 und 2 BvR 2883/10 und 2 BvR 2155/11 (19.03.2013): Verständigung nach Paragraf 257c StPO braucht Offenlegung, Protokollierung und Belehrung.
 - BGH GSSt 1/17 (15.05.2018): Das Beweisantragsrecht darf nicht durch formelhafte Ablehnung entwertet werden.
-- BGH 3 StR 400/17 (18.07.2018): Urteilsgruende muessen die tragenden Tatsachen und Wertungen nachvollziehbar darstellen.
+- BGH 3 StR 400/17 (18.07.2018): Urteilsgründe müssen die tragenden Tatsachen und Wertungen nachvollziehbar darstellen.
 
-## Pruefungsschema in Stufen
+## Prüfungsschema in Stufen
 
-1. Eroeffnung, Besetzung, Schwurgerichts- oder Wirtschaftsstrafkammerbezug pruefen.
-   - Verdichte den Aktenstoff fuer 02 Hauptverhandlung Grosse Strafkammer: Hauptverhandlung mit drei Berufs- und zwei Schoeffenrichtern Paragraf 76 GVG, Verhandlungsleitung, Ablauf nach Paragraf 243 StPO, Wahrung der Foerderungs- und Aufklaerungspflicht P
+1. Eröffnung, Besetzung, Schwurgerichts- oder Wirtschaftsstrafkammerbezug prüfen.
+   - Kontrolliere Besetzung, Verfahrensstand, Belehrungen, Protokollierung und alle revisionsanfälligen Förmlichkeiten am Aktenablauf.
 2. Haft- und Sicherungsfragen getrennt vom Schuldvorwurf bearbeiten.
-   - Verdichte den Aktenstoff fuer 02 Hauptverhandlung Grosse Strafkammer: Hauptverhandlung mit drei Berufs- und zwei Schoeffenrichtern Paragraf 76 GVG, Verhandlungsleitung, Ablauf nach Paragraf 243 StPO, Wahrung der Foerderungs- und Aufklaerungspflicht P
+   - Prüfe Liquiditätsstatus, Gläubigerbetroffenheit, Eingriffsintensität und gesetzliche Anordnungsvoraussetzungen getrennt.
 3. Hauptverhandlungsplan mit Beweisthemen und Verfahrensrechten strukturieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklaerung von vorlaeufiger Bewertung.
-4. Beweiswuerdigung, rechtliche Wuerdigung und Strafzumessung trennen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklaerung von vorlaeufiger Bewertung.
-5. Urteilsgruende mit Revisionsrisiko, Protokollfragen und Rechtsmittelbelehrung endpruefen.
-   - Schreibe den Ausspruch vollstaendig aus, pruefe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
+4. Beweiswürdigung, rechtliche Würdigung und Strafzumessung trennen.
+   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
+5. Urteilsgründe mit Revisionsrisiko, Protokollfragen und Rechtsmittelbelehrung endprüfen.
+   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
 
 ## Typische Fallstricke
 
-- Besetzungsruegen und Mitteilungen nach Paragraf 243 StPO werden zu spaet bedacht.
-- Verstaendigungsgespraeche werden nicht vollstaendig protokolliert.
-- Mordmerkmale oder Ruecktrittsfragen werden erst in der Strafzumessung behandelt.
+- Besetzungsrügen und Mitteilungen nach Paragraf 243 StPO werden zu spaet bedacht.
+- Verständigungsgespraeche werden nicht vollständig protokolliert.
+- Mordmerkmale oder Rücktrittsfragen werden erst in der Strafzumessung behandelt.
 - Beratungs- und Aktengeheimnis nach Paragraf 353b StGB und Paragraf 43 DRiG begrenzen jede Werkzeugnutzung.
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
@@ -75,10 +75,10 @@ Die Kammer eroertert mit den Verfahrensbeteiligten, dass eine Verstaendigung nur
 ### Baustein B
 
 ```text
-Der Haftbefehl vom [Datum] bleibt aus den Gruenden seines Erlasses aufrechterhalten. Der dringende Tatverdacht folgt aus [Beweismittel]; der Haftgrund ergibt sich aus [Haftgrund].
+Der Haftbefehl vom [Datum] bleibt aus den Gründen seines Erlasses aufrechterhalten. Der dringende Tatverdacht folgt aus [Beweismittel]; der Haftgrund ergibt sich aus [Haftgrund].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `01-eroeffnungsverfahren-strafkammer` - Nutze diesen Vorgaenger fuer die vorgelagerte Akten-, Zulassigkeits- oder Strukturfrage, bevor 02 Hauptverhandlung Grosse Strafkammer bearbeitet wird.
-- **Danach**: `03-beweisantraege-und-ablehnung` - Nutze diesen Folgeschritt, sobald 02 Hauptverhandlung Grosse Strafkammer als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `01-eroeffnungsverfahren-strafkammer` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 02 Hauptverhandlung Große Strafkammer bearbeitet wird.
+- **Danach**: `03-beweisantraege-und-ablehnung` - Nutze diesen Folgeschritt, sobald 02 Hauptverhandlung Große Strafkammer als gerichtlicher Arbeitsstand verwertbar ist.

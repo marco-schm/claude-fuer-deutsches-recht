@@ -1,7 +1,7 @@
 {
   "name": "urheberrecht-de-eu",
-  "version": "360.0.0",
-  "description": "Deutsches und EU-Urheberrecht für Werkhoehe, Musik, KI, TDM, Software, Lizenzen, Abmahnung, Schranken, Leistungsschutz und Rechteclearing.",
+  "version": "361.0.0",
+  "description": "Deutsches und EU-Urheberrecht für Werkhöhe, Musik, KI, TDM, Software, Lizenzen, Abmahnung, Schranken, Leistungsschutz und Rechteclearing.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

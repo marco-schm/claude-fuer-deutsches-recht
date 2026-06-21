@@ -1,6 +1,6 @@
 # fachanwalt-sozialrecht
 
-**113 Skills** · Stand `v360.0.0`
+**113 Skills** · Stand `v361.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-sozialrecht/README.md)

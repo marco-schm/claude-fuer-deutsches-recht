@@ -5,29 +5,29 @@
 
 ## Plugin
 
-BVerfG Vorpruefung Verfassungsbeschwerden
+BVerfG Vorprüfung Verfassungsbeschwerden
 
 ## Sachverhalt (verkuerzt)
 
-Beschwerdefuehrer Bf (Privatperson) wendet sich gegen Auflagen der Versammlungsbehoerde Musterstadt fuer eine angemeldete Demonstration ('keine Sprechchoere gegen X', 'kein Mitfuehren von Plakaten mit Inschrift Y'), bestaetigt durch VG-Eilbeschluss und OVG-Beschwerdeentscheidung. Beschwerdegruende: Art. 8 GG (Versammlungsfreiheit) und Art. 5 Abs. 1 GG (Meinungsfreiheit). Bf hat Anhoerungsruege und Verzoegerungsruege erhoben (zurueckgewiesen). Beschwerde innerhalb der Monatsfrist Paragraf 93 BVerfGG eingegangen.
+Beschwerdefuehrer Bf (Privatperson) wendet sich gegen Auflagen der Versammlungsbehoerde Musterstadt für eine angemeldete Demonstration ('keine Sprechchoere gegen X', 'kein Mitfuehren von Plakaten mit Inschrift Y'), bestaetigt durch VG-Eilbeschluss und OVG-Beschwerdeentscheidung. Beschwerdegründe: Art. 8 GG (Versammlungsfreiheit) und Art. 5 Abs. 1 GG (Meinungsfreiheit). Bf hat Anhörungsrüge und Verzoegerungsrüge erhoben (zurückgewiesen). Beschwerde innerhalb der Monatsfrist Paragraf 93 BVerfGG eingegangen.
 
 ## Aufgabe
 
-Als wissenschaftlicher Mitarbeiter Votum erstellen: Zulaessigkeit (Substantiierung Paragraf 92 BVerfGG, Rechtswegerschoepfung Paragraf 90 Abs. 2, Subsidiaritaet, Frist), Begruendetheit (Schutzbereich Art. 8 und Art. 5 GG, Eingriff, Rechtfertigung Versammlungsgesetz und Verhaeltnismaessigkeit), Entscheidungsvorschlag (Annahme/Nichtannahme/Kammer- oder Senatszustaendigkeit/einstweilige Anordnung).
+Als wissenschaftlicher Mitarbeiter Votum erstellen: Zulässigkeit (Substantiierung Paragraf 92 BVerfGG, Rechtswegerschoepfung Paragraf 90 Abs. 2, Subsidiaritaet, Frist), Begründetheit (Schutzbereich Art. 8 und Art. 5 GG, Eingriff, Rechtfertigung Versammlungsgesetz und Verhältnismäßigkeit), Entscheidungsvorschlag (Annahme/Nichtannahme/Kammer- oder Senatszuständigkeit/einstweilige Anordnung).
 
 ## Hinweise
 
-- Pruefen Sie den Sachverhalt strukturiert nach den Skills dieses Plugins.
-- Markieren Sie alle Ausgaben als "Vorschlag zur richterlichen Pruefung".
+- Prüfen Sie den Sachverhalt strukturiert nach den Skills dieses Plugins.
+- Markieren Sie alle Ausgaben als "Vorschlag zur richterlichen Prüfung".
 - Beachten Sie Aktengeheimnis (Paragraf 353b StGB, Paragraf 43 DRiG): Testakte ist fiktiv, in der Praxis aber strenge Sorgfalt.
 - Dokumentieren Sie revisionssicher.
 
 ## Erwarteter Output
 
-1. Strukturierte Pruefung nach Skill-Reihenfolge.
+1. Strukturierte Prüfung nach Skill-Reihenfolge.
 2. Konkreter Entscheidungs- oder Tenor-Vorschlag.
 3. Risikohinweise.
-4. Quellen mit vollstaendigen Zitaten.
+4. Quellen mit vollständigen Zitaten.
 
 ## Warnhinweis
 

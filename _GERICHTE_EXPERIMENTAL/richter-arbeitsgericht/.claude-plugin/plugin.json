@@ -1,7 +1,7 @@
 {
   "name": "richter-arbeitsgericht",
-  "version": "360.0.0",
-  "description": "Arbeitsgericht: Guetetermin Kammertermin Kuendigungsschutzklage Zahlungsklage einstweilige Verfuegung Beschlussverfahren Betriebsverfassung Streitwert mit Tenorvorschlag",
+  "version": "361.0.0",
+  "description": "Arbeitsgericht: Guetetermin Kammertermin Kündigungsschutzklage Zahlungsklage einstweilige Verfügung Beschlussverfahren Betriebsverfassung Streitwert mit Tenorvorschlag",
   "keywords": [
     "experimental-justiz",
     "gericht",

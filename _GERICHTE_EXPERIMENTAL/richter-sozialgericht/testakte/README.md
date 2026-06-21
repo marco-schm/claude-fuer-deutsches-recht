@@ -9,25 +9,25 @@ Sozialgericht
 
 ## Sachverhalt (verkuerzt)
 
-Klaegerin K (52 Jahre, Erzieherin, seit 2014 zunehmend chronische Schmerzen LWS, depressive Episode 2023, seit 03/2025 arbeitsunfaehig) beantragt volle Erwerbsminderungsrente Paragraf 43 Abs. 2 SGB VI. Deutsche Rentenversicherung lehnt nach SGB-VI-aerztlichem Gutachten ab (Restleistungsvermoegen 6 Stunden taeglich auf dem allgemeinen Arbeitsmarkt). Klage mit Vorlage drei aktueller Atteste, Antrag nach Paragraf 109 SGG auf Gutachten Prof. Dr. med. M (Schmerztherapie Universitaet).
+Klägerin K (52 Jahre, Erzieherin, seit 2014 zunehmend chronische Schmerzen LWS, depressive Episode 2023, seit 03/2025 arbeitsunfähig) beantragt volle Erwerbsminderungsrente Paragraf 43 Abs. 2 SGB VI. Deutsche Rentenversicherung lehnt nach SGB-VI-aerztlichem Gutachten ab (Restleistungsvermögen 6 Stunden taeglich auf dem allgemeinen Arbeitsmarkt). Klage mit Vorlage drei aktueller Atteste, Antrag nach Paragraf 109 SGG auf Gutachten Prof. Dr. med. M (Schmerztherapie Universitaet).
 
 ## Aufgabe
 
-Als Sozialrichter pruefen: Zulaessigkeit, Amtsermittlung Paragraf 103 SGG, Anordnung Sachverstaendigengutachten, materielle Pruefung Paragraf 43 SGB VI (Wartezeit, Leistungsfaehigkeit), Tenor-Vorschlag (Aufhebung und Verurteilung zur Rente oder Klageabweisung oder Bescheidung).
+Als Sozialrichter prüfen: Zulässigkeit, Amtsermittlung Paragraf 103 SGG, Anordnung Sachverständigengutachten, materielle Prüfung Paragraf 43 SGB VI (Wartezeit, Leistungsfähigkeit), Tenor-Vorschlag (Aufhebung und Verurteilung zur Rente oder Klageabweisung oder Bescheidung).
 
 ## Hinweise
 
-- Pruefen Sie den Sachverhalt strukturiert nach den Skills dieses Plugins.
-- Markieren Sie alle Ausgaben als "Vorschlag zur richterlichen Pruefung".
+- Prüfen Sie den Sachverhalt strukturiert nach den Skills dieses Plugins.
+- Markieren Sie alle Ausgaben als "Vorschlag zur richterlichen Prüfung".
 - Beachten Sie Aktengeheimnis (Paragraf 353b StGB, Paragraf 43 DRiG): Testakte ist fiktiv, in der Praxis aber strenge Sorgfalt.
 - Dokumentieren Sie revisionssicher.
 
 ## Erwarteter Output
 
-1. Strukturierte Pruefung nach Skill-Reihenfolge.
+1. Strukturierte Prüfung nach Skill-Reihenfolge.
 2. Konkreter Entscheidungs- oder Tenor-Vorschlag.
 3. Risikohinweise.
-4. Quellen mit vollstaendigen Zitaten.
+4. Quellen mit vollständigen Zitaten.
 
 ## Warnhinweis
 
