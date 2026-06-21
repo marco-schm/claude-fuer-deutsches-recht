@@ -1,7 +1,7 @@
 # Glossar: Schwere Wörter aus dem Mandantenbrief
 
 Dieses Glossar erklärt alle Fachbegriffe aus dem juristischen Originalschreiben.
-Es richtet sich an Mandantinnen und Mandanten sowie an Lernende im Bereich Recht und Sprache.
+Es richtet sich an Mandanten sowie an Lernende im Bereich Recht und Sprache.
 Die Erklärungen sind bewusst kurz und alltagsnah formuliert.
 
 Das Glossar wird durch eine **Sprachstufen-Spalte** ergänzt: Welche Wörter werden in Einfacher Sprache (DIN SPEC 33429) verwendet, welche in Leichter Sprache (Netzwerk Leichte Sprache) ersetzt? Damit kann das Glossar auch als Übersicht für die Übersetzungsarbeit dienen.

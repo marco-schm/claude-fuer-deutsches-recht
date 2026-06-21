@@ -81,7 +81,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 - In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
 - Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
 - Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studierende, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
+- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
 - Welche Tatsachen sind belegt und welche werden nur behauptet?
 
 ## Arbeitslogik
@@ -173,7 +173,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 - In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
 - Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
 - Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studierende, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
+- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
 - Welche Tatsachen sind belegt und welche werden nur behauptet?
 
 ## Arbeitslogik
@@ -265,7 +265,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 - In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
 - Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
 - Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studierende, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
+- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
 - Welche Tatsachen sind belegt und welche werden nur behauptet?
 
 ## Arbeitslogik
@@ -357,7 +357,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 - In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
 - Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
 - Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studierende, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
+- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
 - Welche Tatsachen sind belegt und welche werden nur behauptet?
 
 ## Arbeitslogik
@@ -449,7 +449,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 - In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
 - Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
 - Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studierende, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
+- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
 - Welche Tatsachen sind belegt und welche werden nur behauptet?
 
 ## Arbeitslogik
@@ -541,7 +541,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 - In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
 - Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
 - Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studierende, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
+- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
 - Welche Tatsachen sind belegt und welche werden nur behauptet?
 
 ## Arbeitslogik
@@ -633,7 +633,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 - In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
 - Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
 - Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studierende, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
+- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
 - Welche Tatsachen sind belegt und welche werden nur behauptet?
 
 ## Arbeitslogik
@@ -725,7 +725,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 - In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
 - Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
 - Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studierende, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
+- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
 - Welche Tatsachen sind belegt und welche werden nur behauptet?
 
 ## Arbeitslogik

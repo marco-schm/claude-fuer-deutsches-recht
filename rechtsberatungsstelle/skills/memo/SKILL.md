@@ -52,7 +52,7 @@ Für jede Frage:
 
 **Obersatz:** Als Fragesatz formuliert (aus Schritt 1).
 
-**Norm/Definition:** Dies ist eine Recherche-Lücke, keine Schlussfolgerung. Was der/die Studierende finden muss:
+**Norm/Definition:** Dies ist eine Recherche-Lücke, keine Schlussfolgerung. Was der/die Studenten finden muss:
 
 > `[RECHERCHE ERFORDERLICH: § 536 BGB — Mietminderung wegen Sachmangel;
 > Voraussetzungen: erheblicher Mangel, Anzeige durch Mieter (§ 536c BGB),
@@ -69,7 +69,7 @@ Falls der Skill einen allgemeinen Normrahmen mit hoher Sicherheit kennt, kann di
 > mindert. Die Minderung tritt kraft Gesetzes ein; einer Erklärung bedarf es nicht.
 > `[PRÜFEN: aktuelle Fassung und einschlägige Rspr. für diesen Sachverhalt]`
 
-**Subsumtion:** Hier steht die Analyse des Studierenden. Gerüst strukturieren, nicht ausfüllen:
+**Subsumtion:** Hier steht die Analyse des Studentenn. Gerüst strukturieren, nicht ausfüllen:
 
 > `[STUDENTISCHE ANALYSE: Norm auf Sachverhalt anwenden. Relevante Tatsachen:
 > - Heizung seit November defekt — seit wann ist dies ein "erheblicher" Mangel?
@@ -86,17 +86,17 @@ Falls der Skill einen allgemeinen Normrahmen mit hoher Sicherheit kennt, kann di
 
 Separater Abschnitt nach den Prüfungsblöcken:
 
-**Stärken (aus dem Sachverhalt — Studierende/-r soll diese testen):**
+**Stärken (aus dem Sachverhalt — Studenten/-r soll diese testen):**
 - [Hilfreiche Tatsache und warum]
 
-**Schwächen (aus dem Sachverhalt — Studierende/-r soll Gewicht abschätzen):**
+**Schwächen (aus dem Sachverhalt — Studenten/-r soll Gewicht abschätzen):**
 - [Problematische Tatsache und warum]
 - `[UNSICHER: ob [X] tatsächlich eine Schwäche ist — hängt von [Norm/Rspr.] zu [Y] ab]`
 
 **Offene Fragen (aus dem Gutachten nicht beantwortbar):**
 - Sachverhaltlich: [Was wissen wir nicht über den Mandanten/die Mandantin?]
 - Rechtlich: [Was erfordert Recherche?]
-- Strategisch: [Ermessensentscheidungen für Studierenden/Supervisor]
+- Strategisch: [Ermessensentscheidungen für Studentenn/Supervisor]
 
 ## Kurzergebnis
 
@@ -150,7 +150,7 @@ nächster Schritt: Z]
 
 ## Recherchelücken-Zusammenfassung
 
-[Alle RECHERCHE ERFORDERLICH-Blöcke in einer Liste, damit der/die Studierende
+[Alle RECHERCHE ERFORDERLICH-Blöcke in einer Liste, damit der/die Studenten
 sie systematisch abarbeiten kann — und /recherche-start für jede starten kann]
 
 ═══════════════════════════════════════════════════════════════════════
@@ -170,7 +170,7 @@ Normblock enthält: `[RECHERCHE ERFORDERLICH: § 536 BGB, § 536c BGB (Anzeigepf
 - **Unsicherheiten stillschweigend übergehen:** Wenn ein UNSICHER-Flag gesetzt ist, ist das ein Hinweis zur Recherche oder zum Supervisorengespräch, kein Tippfehler.
 - **Kurzergebnis ohne Analyse:** Das Kurzergebnis am Anfang des Gutachtens ist eine Orientierung; es muss durch die Prüfungsblöcke belegt sein.
 - **Gutachten verlässt Klinik ohne Freigabe:** Das interne Gutachten enthält vertrauliche Mandanteninformationen (§ 203 StGB, § 43a Abs. 2 BRAO). Kein Versand ohne Supervisoren-Freigabe.
-- **Falsches Prüfungsschema:** Das Gerüst folgt der üblichen deutschen Gutachtenreihenfolge. Abweichende Prüfungsreihenfolgen (z. B. Prozessvoraussetzungen zuerst im Verwaltungsrecht) müssen vom Studierenden eigenständig berücksichtigt werden.
+- **Falsches Prüfungsschema:** Das Gerüst folgt der üblichen deutschen Gutachtenreihenfolge. Abweichende Prüfungsreihenfolgen (z. B. Prozessvoraussetzungen zuerst im Verwaltungsrecht) müssen vom Studentenn eigenständig berücksichtigt werden.
 
 ## Quellenpflicht
 

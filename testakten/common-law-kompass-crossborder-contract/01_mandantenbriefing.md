@@ -10,7 +10,7 @@
 
 ## 1. Sachverhalt
 
-Die RheinMain Sensors GmbH (nachfolgend: "Mandantin") ist ein mittelständisches Technologieunternehmen mit Sitz in Hamburg, das hochpräzise Industriesensoren für die maritime Schifffahrt, Offshore-Öl- und Gasanlagen sowie petrochemische Prozessleitsysteme entwickelt und produziert. Das Unternehmen wurde 2008 gegründet, beschäftigt derzeit 147 Mitarbeiterinnen und Mitarbeiter und erzielte im Geschäftsjahr 2023 einen Umsatz von ca. EUR 38,6 Mio.
+Die RheinMain Sensors GmbH (nachfolgend: "Mandantin") ist ein mittelständisches Technologieunternehmen mit Sitz in Hamburg, das hochpräzise Industriesensoren für die maritime Schifffahrt, Offshore-Öl- und Gasanlagen sowie petrochemische Prozessleitsysteme entwickelt und produziert. Das Unternehmen wurde 2008 gegründet, beschäftigt derzeit 147 Mitarbeiter und erzielte im Geschäftsjahr 2023 einen Umsatz von ca. EUR 38,6 Mio.
 
 Seit dem ersten Quartal 2023 führt die Mandantin Verhandlungen mit der Blue Harbor Systems Inc., einem in Wilmington, Delaware, eingetragenen Konzern (Handelsregisternummer: DE-4871203), über den Abschluss eines umfassenden Liefer- und Lizenzvertrags (nachfolgend: "Hauptvertrag"). Blue Harbor Systems Inc. betreibt über ihre vollständig beherrschte Tochtergesellschaft Blue Harbor (UK) Ltd., eingetragen im Companies House unter der Nummer 12345678, Registered Office: 30 St Mary Axe, London EC3A 8EP, den europäischen Vertrieb und beabsichtigt, die Sensortechnik der Mandantin in ihre Offshore-Monitoring-Plattform "TideSense Pro" zu integrieren.
 

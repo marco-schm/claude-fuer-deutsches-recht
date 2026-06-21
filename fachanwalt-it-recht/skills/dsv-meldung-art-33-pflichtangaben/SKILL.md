@@ -60,7 +60,7 @@ Die Meldeformular-Vorlage der Berliner Beauftragten für Datenschutz und Informa
 - Datum der Kenntnisnahme (loest 72-Stunden-Frist aus).
 - Betroffene Datenarten — Namen; Adressen; E-Mail-Adressen; Standort; Geburtsdatum; Passwoerter; Personalausweisnummer; Pass; Steuernummer; Bankdaten; wirtschaftliche Verhältnisse; Straftaten; politische Meinungen; religioese Ueberzeugungen; Gewerkschaftszugehoerigkeit; Gesundheit; Sexualitaet; ethnische Herkunft; Biometrie; Identifikationsnummern; Fotos/Videos; unbekannt.
 - Art. 9 DSGVO-Daten ja/nein/nicht bekannt.
-- Kategorien betroffener Personen — Mitarbeitende; Nutzer; Kunden; Patienten; Politiker; Kinder/Minderjaehrige; Personen öffentlichen Lebens; andere.
+- Kategorien betroffener Personen — Mitarbeiter; Nutzer; Kunden; Patienten; Politiker; Kinder/Minderjaehrige; Personen öffentlichen Lebens; andere.
 - Anzahl betroffener Personen (Obergrenze).
 - Anzahl betroffener Datensaetze.
 - Wahrscheinliche Folgen für Betroffene — Geheimnisoffenbarung; wirtschaftliche Nachteile; finanzieller Schaden; Bloss­stellung; Rufschaedigung; Verlust des Arbeitsplatzes; Existenzgefaehrdung; Lebensgefaehrdung; Diskriminierung; gesellschaftliche Nachteile; Identitaetsdiebstahl; Aufhebung Pseudonymisierung; andere.

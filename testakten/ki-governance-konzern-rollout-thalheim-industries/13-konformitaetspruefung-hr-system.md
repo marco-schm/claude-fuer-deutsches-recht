@@ -70,7 +70,7 @@ Hagedorn & Partner wurde durch Thalheim Industries SE mandatiert, die Konformit�
 
 ### Feststellung F-002 — Automatische Ablehnung ohne HR-Bestätigung (KRITISCH)
 
-**Sachverhalt:** Technische Analyse der Systemlogs zeigt, dass zwischen September 2024 und Februar 2026 in 143 Fällen Bewerberinnen und Bewerber automatisch abgelehnt wurden (Score unter 40), ohne dass eine HR-Mitarbeiterin oder ein HR-Mitarbeiter aktiv eine Ablehnung bestätigt hat. Stattdessen wurde eine automatisierte Ablehnungs-E-Mail durch das System versendet.
+**Sachverhalt:** Technische Analyse der Systemlogs zeigt, dass zwischen September 2024 und Februar 2026 in 143 Fällen Bewerber automatisch abgelehnt wurden (Score unter 40), ohne dass eine HR-Mitarbeiterin oder ein HR-Mitarbeiter aktiv eine Ablehnung bestätigt hat. Stattdessen wurde eine automatisierte Ablehnungs-E-Mail durch das System versendet.
 
 **Rechtliche Bewertung:** Dies stellt einen Verstoß gegen Art. 14 KI-VO (menschliche Aufsicht) und möglicherweise gegen Art. 22 DSGVO (https://dejure.org/gesetze/DSGVO/22.html) dar. Art. 22 DSGVO gibt betroffenen Personen das Recht, nicht einer ausschließlich automatisierten Entscheidung unterworfen zu werden, die rechtliche oder ähnlich erhebliche Wirkung entfaltet. Eine Ablehnung einer Bewerbung hat ähnlich erhebliche Wirkung.
 

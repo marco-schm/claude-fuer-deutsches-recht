@@ -80,13 +80,13 @@ Direktzusage gewährt. Für Mitglieder des Betriebsrats gilt diese Versorgungsor
 unter Beachtung des § 78 BetrVG.
 
 § 1 Geltungsbereich
-(1) Diese Versorgungsordnung gilt für alle Arbeitnehmerinnen und Arbeitnehmer des
+(1) Diese Versorgungsordnung gilt für alle Arbeitnehmer des
 Unternehmens, die nach dem [Einführungsdatum] eingestellt werden und das 18.
 Lebensjahr vollendet haben, sofern das Arbeitsverhältnis auf unbestimmte Zeit
 geschlossen ist (nachfolgend "Berechtigte").
 (2) Ausgenommen sind:
  a) Mitglieder des Vorstands und der Geschäftsführung,
- b) Mitarbeiterinnen und Mitarbeiter, die einer anderen Versorgungsregelung
+ b) Mitarbeiter, die einer anderen Versorgungsregelung
  des Unternehmens unterfallen,
  c) Auszubildende und Praktikanten.
 (3) Leitende Angestellte i.S.d. § 5 Abs. 3 BetrVG unterliegen dieser

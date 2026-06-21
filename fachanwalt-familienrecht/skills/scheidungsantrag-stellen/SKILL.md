@@ -297,8 +297,8 @@ Rechtsanwalt/Rechtsanwältin [Name]
 | "Trennungsjahr ist noch nicht voll" | Antragsgegner | Trennungsdatum sorgfältig belegen; ggf. Härtefall § 1565 Abs. 2 BGB prüfen |
 | "Ehe ist nicht gescheitert — ich will versöhnen" | Antragsgegner | Bei < 1 Jahr Trennung: Prüfung § 1565 Abs. 1 BGB erforderlich; nach 3 Jahren: § 1566 Abs. 2 BGB greift unwiderleglich |
 | "Härteklausel § 1568 BGB: Scheidung schadet den Kindern" | Antragsgegner | Extrem hohe Hürde; BVerfG: Versagung nur bei außergewöhnlichen Umständen; reiner Kindeswunsch nicht ausreichend |
-| "Versorgungsausgleich soll ausgeschlossen werden" | Mandant/in | Nur notariell oder gerichtlich möglich (§ 6 VersAusglG); anwaltliche Vereinbarung reicht nicht |
-| "Ich bekomme kein Anwalt, zu teuer" | Mandant/in | VKH § 76 FamFG; Rechtsschutzversicherung prüfen |
+| "Versorgungsausgleich soll ausgeschlossen werden" | Mandant | Nur notariell oder gerichtlich möglich (§ 6 VersAusglG); anwaltliche Vereinbarung reicht nicht |
+| "Ich bekomme kein Anwalt, zu teuer" | Mandant | VKH § 76 FamFG; Rechtsschutzversicherung prüfen |
 | "Abtrennung Versorgungsausgleich verlangt" | Antragsgegner | Nur bei unangemessener Verzögerung (§ 142 FamFG); Auskunftspflicht der Versorgungsträger muss erfüllt sein |
 | "Keine Zuständigkeit des deutschen Gerichts" | Antragsgegner | Art. 17 EGBGB + Brüssel IIb-VO (EU) prüfen; § 98 FamFG bei Ausländern mit gewöhnlichem Aufenthalt in Deutschland |
 

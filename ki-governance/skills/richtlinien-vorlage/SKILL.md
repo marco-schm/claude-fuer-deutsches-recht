@@ -74,7 +74,7 @@ Update-Modus (bestehende Richtlinie als Basis). Wenn leer: Erstfassung.
 > 1. Anwendungsbereich (wer, welche Tools, welche Daten)
 > 2. Erlaubte und verbotene Nutzungen (inkl. Art. 5 KI-VO-Verbote)
 > 3. Freigabe und Prüfung (Genehmigungsworkflow)
-> 4. Offenlegung (Kunden, Mitarbeitende, Dritte; DSGVO Art. 13/14)
+> 4. Offenlegung (Kunden, Mitarbeiter, Dritte; DSGVO Art. 13/14)
 > 5. Datenhandhabung (vertrauliche Daten, Anbieter-Training; GeschGehG)
 > 6. Schulung und Zertifizierung (Art. 4 KI-VO)
 > 7. Vorfälle und Meldung (Art. 73 KI-VO Betreiber-Meldeobliegenheiten)
@@ -161,7 +161,7 @@ KI-NUTZUNGSRICHTLINIE
 ENTWURF — VOR EINSATZ ANWALTLICHE PRUEFUNG ERFORDERLICH
 
 § 1 Geltungsbereich und Zweck
-Diese Richtlinie gilt für alle Mitarbeiterinnen und Mitarbeiter von
+Diese Richtlinie gilt für alle Mitarbeiter von
 [NAME MANDANT] beim Einsatz von KI-Systemen im Rahmen ihrer Taetigkeit.
 Zweck ist die Sicherstellung eines rechtssicheren, transparenten und
 verantwortungsvollen KI-Einsatzes gemaess KI-VO (VO 2024/1689) und DSGVO.

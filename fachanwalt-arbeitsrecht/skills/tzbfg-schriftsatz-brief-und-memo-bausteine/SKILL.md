@@ -73,7 +73,7 @@ IV. Beweisangebote
 
 > „[Ort, Datum]
 >
-> Sehr geehrte/r [Mandant/in],
+> Sehr geehrte/r [Mandant],
 >
 > Ihr befristetes Arbeitsverhältnis endet am [Datum]. Nach meiner Prüfung bestehen folgende Möglichkeiten:
 >
@@ -84,7 +84,7 @@ IV. Beweisangebote
 > Ich empfehle Ihnen, mir möglichst bald mitzuteilen, für welche Option Sie sich entscheiden, damit wir rechtzeitig tätig werden können.
 >
 > Mit freundlichen Grüßen
-> [Anwalt/-in]"
+> [Anwalt]"
 
 ## Baustein 3: Arbeitgeber-Antwortbrief — Abweisung der Entfristungsklage (Klageerwiderung Stichworte)
 

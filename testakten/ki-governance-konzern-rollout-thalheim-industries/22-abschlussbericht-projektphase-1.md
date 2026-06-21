@@ -45,7 +45,7 @@ Die Bestandsaufnahme hat gezeigt, dass mehrere Fachbereiche KI-Tools nutzen, ohn
 
 **3.3 AI Literacy-Pflicht (Art. 4 KI-VO) seit August 2025 bereits anwendbar**
 
-Die Inventarisierung ergab, dass die Schulungspflicht nach Art. 4 KI-VO bereits seit 02.08.2025 gilt. Zum Zeitpunkt der Inventarisierung (Oktober 2025) hatte noch kein Mitarbeitender eine formale KI-Literacy-Schulung erhalten. Dies bedeutete einen Rückstand von mehreren Monaten.
+Die Inventarisierung ergab, dass die Schulungspflicht nach Art. 4 KI-VO bereits seit 02.08.2025 gilt. Zum Zeitpunkt der Inventarisierung (Oktober 2025) hatte noch kein Mitarbeiterr eine formale KI-Literacy-Schulung erhalten. Dies bedeutete einen Rückstand von mehreren Monaten.
 
 **3.4 Vendor-Dokumentation systematisch unvollständig**
 

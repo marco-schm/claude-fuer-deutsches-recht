@@ -59,8 +59,8 @@ Der initiale Zugang erfolgte vermutlich über die ungepatchte SAP NetWeaver-Schw
 
 Die exfiltrierten Daten umfassen:
 - Kundenstammdaten von 18 Geschäftskunden (Vertrags-, Konditions-, Kontaktdaten)
-- Personalakten von 280 Mitarbeiterinnen und Mitarbeitern (inkl. Bankverbindungen, SV-Nummern)
-- Gesundheitsdaten aus BEM-Verfahren von 38 Mitarbeiterinnen und Mitarbeitern (besonders sensible Daten)
+- Personalakten von 280 Mitarbeitern (inkl. Bankverbindungen, SV-Nummern)
+- Gesundheitsdaten aus BEM-Verfahren von 38 Mitarbeitern (besonders sensible Daten)
 - Finanzdaten (Buchungsdaten Q1/2026)
 - Vertragsdaten und interne Kommunikation
 

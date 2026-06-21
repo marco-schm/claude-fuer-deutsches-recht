@@ -39,7 +39,7 @@ Die unterzeichnende Geschäftsführerin bevollmächtigt die Kanzlei Hagenroth, Q
 
 einschließlich aller prozessualen Befugnisse (§§ 81 ff. ZPO), Entgegennahme von Zustellungen, Erhebung von Klagen, Rechtsmitteln und Eilanträgen sowie Abschluss von Vergleichen.
 
-Die Vollmacht umfasst Untervollmachten an alle in der Sache befassten Mitarbeitenden der Kanzlei.
+Die Vollmacht umfasst Untervollmachten an alle in der Sache befassten Mitarbeitern der Kanzlei.
 
 Stand: Höchstadt, 02.04.2026
 

@@ -126,7 +126,7 @@ Optional, wenn rechtsgebietsbedingt sinnvoll:
 **`## Zweck`** (200-400 Zeichen)
 - Ein Satz "Wofuer ist dieser Skill da."
 - Ein Satz "Welches typische Mandatsproblem loest er."
-- Ein Satz "Welche Adressatengruppe (Anwalt, Referendar, Selbstvertreter, Verwalter, Studierende)."
+- Ein Satz "Welche Adressatengruppe (Anwalt, Referendar, Selbstvertreter, Verwalter, Studenten)."
 - KEINE Werbung. KEIN Marketing-Sprech.
 
 **`## Wann wird dieser Skill aufgerufen`** (300-600 Zeichen)

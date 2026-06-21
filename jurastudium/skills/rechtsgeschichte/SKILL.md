@@ -1,6 +1,6 @@
 ---
 name: rechtsgeschichte
-description: "Übt deutsche und europäische Rechtsgeschichte für Studierende — römisches Recht und die BGB-Entstehung 1900, NS-Unrechtsjustiz und die Folgen der Radbruchschen Formel, SED-Unrecht und Mauerschützenprozesse, Entstehung des Grundgesetzes nach 1948, Entwicklung des Unionsrechts von der EWG bis zum V..."
+description: "Übt deutsche und europäische Rechtsgeschichte für Studenten — römisches Recht und die BGB-Entstehung 1900, NS-Unrechtsjustiz und die Folgen der Radbruchschen Formel, SED-Unrecht und Mauerschützenprozesse, Entstehung des Grundgesetzes nach 1948, Entwicklung des Unionsrechts von der EWG bis zum V..."
 ---
 
 # Rechtsgeschichte für Juristen
@@ -10,7 +10,7 @@ description: "Übt deutsche und europäische Rechtsgeschichte für Studierende �
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DRiG § 5a Studiendauer 9 Semester (Regelstudienzeit), Freischuss-Frist (i.d.R. 8 Semester nach JAG), Wiederholungsfrist, Hausarbeit 4-6 Wochen.
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
@@ -103,7 +103,7 @@ Lern-Anker: Vorrang, unmittelbare Wirkung und unionsrechtskonforme Auslegung hab
 ## Drill-Modus
 
 1. Skill nennt Epoche oder Konzept.
-2. Studierender erklärt zunächst aus eigenem Wissen.
+2. Studentenr erklärt zunächst aus eigenem Wissen.
 3. Skill fragt nach: "Welche Norm war das genau? Wer war beteiligt? Welche Folge hatte das für heute?"
 4. Skill bearbeitet historische Frage mit heutiger Dogmatik ("Wenn du verstanden hast, warum Art. 103 II GG existiert, was bedeutet das für dein Auslegungsergebnis im Strafrecht?").
 

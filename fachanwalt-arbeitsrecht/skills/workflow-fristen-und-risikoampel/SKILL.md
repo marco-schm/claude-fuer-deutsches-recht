@@ -105,7 +105,7 @@ Wenn ein Sachverhalt oder eine Akte vorliegt:
 FRISTENBLATT — [Mandant], Anlage [Datum]
 
 Mandat: [Kurzbeschreibung]
-Anwalt/-in: [Name]
+Anwalt: [Name]
 
 LAUFENDE FRISTEN:
 1. Klagefrist § 4 KSchG: [Datum] ← KRITISCH

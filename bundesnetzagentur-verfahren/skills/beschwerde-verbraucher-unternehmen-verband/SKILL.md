@@ -60,7 +60,7 @@ Steuert die Beschwerdearbeit bei der Bundesnetzagentur in den Rollen Verbraucher
 
 4. **Antrag formulieren.** Konkretes Ziel: Unterlassen, Erstattung, Vertragsanpassung, Verhängung eines Bußgelds, Untersagung gem. § 192 TKG.
 
-5. **Verbandsfunktion belegen.** Bei Verbänden: Eintragung in der Liste qualifizierter Einrichtungen (§ 4 UKlaG), Klagebefugnis, kollektive Betroffenheit der Verbraucherinnen und Verbraucher.
+5. **Verbandsfunktion belegen.** Bei Verbänden: Eintragung in der Liste qualifizierter Einrichtungen (§ 4 UKlaG), Klagebefugnis, kollektive Betroffenheit der Verbraucher.
 
 6. **Parallelweg.** Zivilklage gegen Anbieter trotz BNetzA-Beschwerde möglich; keine Sperrwirkung. Bei DSA-Bezug parallel Art. 21-Streitbeilegung erwägen.
 

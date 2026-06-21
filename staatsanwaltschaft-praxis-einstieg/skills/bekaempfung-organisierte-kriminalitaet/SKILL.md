@@ -1,6 +1,6 @@
 ---
 name: bekaempfung-organisierte-kriminalitaet
-description: "OK-Verfahren: Strukturermittlung ohne Tunnelblick: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "OK-Verfahren: Strukturermittlung ohne Tunnelblick: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # OK-Verfahren: Strukturermittlung ohne Tunnelblick

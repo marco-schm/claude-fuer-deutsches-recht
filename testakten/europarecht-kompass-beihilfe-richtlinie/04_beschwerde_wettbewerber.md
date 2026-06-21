@@ -32,7 +32,7 @@ B-1000 Brüssel
 
 ## I. Beschwerdeführerin und ihr Interesse
 
-Die HeatBridge AG ist ein privatwirtschaftliches Unternehmen mit Sitz in Hannover, das im Bereich der dezentralen und leitungsgebundenen Wärmeversorgung in Deutschland und weiteren EU-Mitgliedstaaten tätig ist (Wärmelieferung, Contracting, Planung und Betrieb von Heizkraftwerken und Wärmepumpenanlangen). Die Gesellschaft beschäftigt rund 310 Mitarbeiterinnen und Mitarbeiter und erzielte im Geschäftsjahr 2022 einen Umsatz von ca. 48 Mio. Euro.
+Die HeatBridge AG ist ein privatwirtschaftliches Unternehmen mit Sitz in Hannover, das im Bereich der dezentralen und leitungsgebundenen Wärmeversorgung in Deutschland und weiteren EU-Mitgliedstaaten tätig ist (Wärmelieferung, Contracting, Planung und Betrieb von Heizkraftwerken und Wärmepumpenanlangen). Die Gesellschaft beschäftigt rund 310 Mitarbeiter und erzielte im Geschäftsjahr 2022 einen Umsatz von ca. 48 Mio. Euro.
 
 Die HeatBridge AG betreibt eine Niederlassung in Heidestadt (Landkreis Heidegrund, Niedersachsen) und war im März 2022 als Bieterin im Rahmen einer informellen Markterkundung der Stadt Lindenhafen für den Aufbau eines klimaneutralen Fernwärmenetzes tätig. Ihr Angebot wurde von der Stadt ohne förmliche Begründung abgelehnt; stattdessen entschied die Stadt, die Maßnahme an die eigene Tochtergesellschaft KommunalWärme Lindenhafen GmbH (KWL) zu vergeben und diese mit einem kommunalen Zuschuss von 14 Mio. Euro auszustatten.
 

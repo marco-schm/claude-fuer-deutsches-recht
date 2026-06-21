@@ -83,7 +83,7 @@ Der Kleingartenverein West e.V. hat in einer informellen Vorgespräch (15.07.202
 
 ### 4.4 Schulstandort Grundschule Nord (Variante B)
 
-In der Vorzugsvariante B liegt die nächste neue Haltestelle (H2 "Kleingärten West") ca. 320 m von der Grundschule Nord entfernt. Dies verbessert die ÖPNV-Erreichbarkeit der Schule gegenüber dem Busangebot. Die Schulleitung hat in einer Vorabstimmung (Protokoll vom 18.06.2024) Interesse bekundet, für Schülerinnen und Schüler des Einzugsgebiets Westpark eine Schülermonatskarte in Kooperation mit VBF anzubieten.
+In der Vorzugsvariante B liegt die nächste neue Haltestelle (H2 "Kleingärten West") ca. 320 m von der Grundschule Nord entfernt. Dies verbessert die ÖPNV-Erreichbarkeit der Schule gegenüber dem Busangebot. Die Schulleitung hat in einer Vorabstimmung (Protokoll vom 18.06.2024) Interesse bekundet, für Schüler des Einzugsgebiets Westpark eine Schülermonatskarte in Kooperation mit VBF anzubieten.
 
 ---
 

@@ -24,7 +24,7 @@ Der Beitrag erreichte am 16.05.2026 die Timeline mehrerer regional bekannter Acc
 
 Stand 18.05.2026, 23:00 Uhr:
 
-- 19 Reaktionen ("Like", "Funny", "Like+"), davon 4 von NovaWerk-Mitarbeitenden.
+- 19 Reaktionen ("Like", "Funny", "Like+"), davon 4 von NovaWerk-Mitarbeitern.
 - 14 öffentliche Antworten, davon 5 mit Inhalt für Mandantin, 7 zustimmend, 2 mit Drohcharakter.
 - 3 anonyme Direktnachrichten an Mandantin (zwei kritisch, eine positiv).
 - 1 Profilbesuch durch "Compliance-Funktion NovaWerk" (Profil "Compliance NovaWerk", gemerkter Lebenslaufpunkt: Senior Specialist Investigations).
@@ -53,7 +53,7 @@ Bemerkenswerter Kommentar (öffentlich) von Nutzer "Solveig K., Branchenkollegin
 
 ## D. Reaktionen am Arbeitsplatz HanseLicht (außerhalb HR-Verfahren)
 
-- Kantinengespräch 14.05.2026 (nach HR-Einladung): Drei Kolleg:innen sprechen Mandantin direkt an, davon zwei zustimmend, eine kritisch.
+- Kantinengespräch 14.05.2026 (nach HR-Einladung): Drei Kollegen sprechen Mandantin direkt an, davon zwei zustimmend, eine kritisch.
 - Anonyme E-Mail an Mandantin (Empfang 16.05.2026, 22:31 Uhr) mit folgender Aussage: "Sie sollten besser leise bleiben. Es geht hier um die Karriere von Herrn Kallweit, nicht um Ihre Einkaufszahlen." Header zeigt anonymen Webmailer. Mandantin hat E-Mail nicht beantwortet.
 
 ## E. Bewertung Kanzlei

@@ -89,7 +89,7 @@ An die [PLANFESTSTELLUNGSBEHOERDE]
 Einwendungen im Planfeststellungsverfahren
 [VORHABENBEZEICHNUNG]
 
-Mandant/in: [NAME], [ADRESSE], Eigentuemet/in Flur [X] Parzelle [Y]
+Mandant: [NAME], [ADRESSE], Eigentuemet/in Flur [X] Parzelle [Y]
 
 Sehr geehrte Damen und Herren,
 

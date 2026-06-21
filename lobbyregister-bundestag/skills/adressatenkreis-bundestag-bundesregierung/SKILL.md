@@ -1,6 +1,6 @@
 ---
 name: adressatenkreis-bundestag-bundesregierung
-description: "Kartiert Adressatinnen und Adressaten nach § 1 LobbyRG: Bundestagsorgane, Mitglieder, Fraktionen, Gruppen, Mitarbeitende, Bundesregierung und Leitungsebenen bis Referatsleitung. Output Adressatenkarte im Lobbyregister Bundestag."
+description: "Kartiert Adressatinnen und Adressaten nach § 1 LobbyRG: Bundestagsorgane, Mitglieder, Fraktionen, Gruppen, Mitarbeiter, Bundesregierung und Leitungsebenen bis Referatsleitung. Output Adressatenkarte im Lobbyregister Bundestag."
 ---
 
 # Adressatenkreis Bundestag und Bundesregierung
@@ -24,7 +24,7 @@ description: "Kartiert Adressatinnen und Adressaten nach § 1 LobbyRG: Bundestag
 
 1. Welche Person oder Stelle soll kontaktiert werden?
 2. Ist es Bundestag, Bundesregierung, Ministerium, nachgeordnete Behörde oder EU-Ebene?
-3. Sind Mitarbeitende, Referatsleitungen oder politische Leitung betroffen?
+3. Sind Mitarbeiter, Referatsleitungen oder politische Leitung betroffen?
 
 ## Rechtsstand 2026
 

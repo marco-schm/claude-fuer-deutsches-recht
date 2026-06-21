@@ -17,7 +17,7 @@ Aktenzeichen: SW/2026/KA-0318 | BKartA B6-188-26
 | Sitz | Münster, NRW |
 | Handelsregister | HRB 12340 Münster |
 | Gründungsjahr | 1962 |
-| Mitarbeitende | 188 (VZÄ, 31.12.2025) |
+| Mitarbeiter | 188 (VZÄ, 31.12.2025) |
 | Umsatz 2025 (vorläufig) | 74,3 Mio. EUR gesamt; 58,1 Mio. EUR DE |
 | Hauptprodukte | Vorgespannte Betonschwellen, Weichenschwellen, Brückenschwellen |
 | Marktanteil DE Bahnbetonschwellen | ca. 38 % |
@@ -32,7 +32,7 @@ Aktenzeichen: SW/2026/KA-0318 | BKartA B6-188-26
 | Sitz | Bielefeld, NRW |
 | Handelsregister | HRB 9876 Bielefeld |
 | Gründungsjahr | 1978 |
-| Mitarbeitende | 94 (VZÄ, 31.12.2025) |
+| Mitarbeiter | 94 (VZÄ, 31.12.2025) |
 | Umsatz 2025 (vorläufig) | 32,8 Mio. EUR gesamt; 29,1 Mio. EUR DE |
 | Hauptprodukte | Vorgespannte Betonschwellen, Sonderschwellen Straßenbahn |
 | Marktanteil DE Bahnbetonschwellen | ca. 22 % |

@@ -31,7 +31,7 @@ Fahrgastrechte im Eisenbahnverkehr selber geltend machen — VO (EU) 2021/782 pl
 
 Wer mit der Bahn unterwegs ist und eine Verspätung von mehr als einer Stunde oder einen Zugausfall erleidet, hat einen Entschädigungsanspruch nach Art. 19 VO (EU) 2021/782: 25 Prozent des Fahrpreises ab 60 Minuten Verspätung am Zielort, 50 Prozent ab 120 Minuten. Dieses Plugin deckt den vollständigen Mandatsablauf ab: vom Erfassen der Ticket- und Reisedaten über die Berechnung des Anspruchs, das Forderungsschreiben, den Widerspruch gegen eine Ablehnung, die Schlichtung bis zur Klage vor dem Amtsgericht.
 
-Das Plugin richtet sich an Verbraucherinnen und Verbraucher, die ihre Ansprüche selbst durchsetzen wollen, sowie an Anwältinnen und Anwälte, die Fahrgäste vertreten.
+Das Plugin richtet sich an Verbraucher, die ihre Ansprüche selbst durchsetzen wollen, sowie an Anwälte, die Fahrgäste vertreten.
 
 ## Lizenz
 

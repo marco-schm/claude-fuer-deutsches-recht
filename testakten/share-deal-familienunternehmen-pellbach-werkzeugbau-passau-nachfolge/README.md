@@ -21,7 +21,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 ## Kurzbild
 
-- Mandantin: **Pellbach Werkzeugbau GmbH & Co. KG**, Passau — Familienunternehmen der 4. Generation, gegründet 1951, 280 Mitarbeitende, Umsatz ca. 80 Mio. EUR (2024), EBITDA 15,2 Mio. EUR.
+- Mandantin: **Pellbach Werkzeugbau GmbH & Co. KG**, Passau — Familienunternehmen der 4. Generation, gegründet 1951, 280 Mitarbeiter, Umsatz ca. 80 Mio. EUR (2024), EBITDA 15,2 Mio. EUR.
 - Transaktion: **Share Deal** — Übertragung sämtlicher Kommanditanteile und GmbH-Anteile (Komplementär-GmbH) auf ein Akquisitionsvehikel (NewCo) von Lucas Pellbach (Sohn, CFO, 45 J.) gemeinsam mit **Steinheim Capital Partners GmbH & Co. KG**, München (PE-Investor, 60 % NewCo).
 - Verkäufer: **Reinhard Pellbach-Wittfeldt** (78), Gründerenkel und alleiniger Kommanditist; will vollständigen Rückzug, behält Nießbrauch an Privatimmobilie in Passau-Hals.
 - Sonderfall: **Annegret Pellbach-Roosendaal** (50), Tochter Reinhards, hält 32 % der Komplementär-GmbH über Familienholding Pellbach Verwaltungs-GmbH; besteht auf Herausnahme des Geschäftsbereichs Präzisionsdrehteile (ca. 8 Mio. EUR Umsatz) in eine separate GmbH vor Closing.

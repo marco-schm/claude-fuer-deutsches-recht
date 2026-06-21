@@ -1,6 +1,6 @@
 ---
 name: schoeffe-dolmetscher-orientierung
-description: "Schöffe und Dolmetscher (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Verdolmetschung, Verständnisprobleme, Nachfragen und Protokollklarheit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Schöffe und Dolmetscher (Orientierung): hilft ehrenamtlichen Richtern bei Verdolmetschung, Verständnisprobleme, Nachfragen und Protokollklarheit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Schöffe und Dolmetscher: Orientierung

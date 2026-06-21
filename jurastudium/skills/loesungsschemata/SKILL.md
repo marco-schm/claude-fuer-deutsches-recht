@@ -10,7 +10,7 @@ description: "Stellt klassische Lösungsschemata für die deutsche Juristenklaus
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DRiG § 5a Studiendauer 9 Semester (Regelstudienzeit), Freischuss-Frist (i.d.R. 8 Semester nach JAG), Wiederholungsfrist, Hausarbeit 4-6 Wochen.
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
@@ -33,8 +33,8 @@ description: "Stellt klassische Lösungsschemata für die deutsche Juristenklaus
 **Schemata sind nicht das Gesetz, nicht die Lehre und nicht das Examen. Sie sind didaktische Krücken — manchmal sehr gute, manchmal irreführende.**
 
 Die ehrliche Lage:
-- Die ausgezeichneten Studierenden brauchen keine Schemata. Sie haben die innere Struktur verstanden und arbeiten direkt aus dem Gesetz.
-- Für viele andere — auch sehr ordentliche Studierende — sind Schemata ein **Verständniskatalysator**. Wer mit einem Schema im Kopf einsteigt, fragt sich beim Lesen des Sachverhalts: "An welchem Punkt bin ich jetzt im Schema?" Das gibt Halt und Reihenfolge.
+- Die ausgezeichneten Studentenn brauchen keine Schemata. Sie haben die innere Struktur verstanden und arbeiten direkt aus dem Gesetz.
+- Für viele andere — auch sehr ordentliche Studenten — sind Schemata ein **Verständniskatalysator**. Wer mit einem Schema im Kopf einsteigt, fragt sich beim Lesen des Sachverhalts: "An welchem Punkt bin ich jetzt im Schema?" Das gibt Halt und Reihenfolge.
 - Wer die innere Begründung kennt und das Schema dann als Stütze nutzt, ist gut bedient. Wer Schemata abspult, **ohne** zu verstehen warum, schreibt mediokere Klausuren.
 - **Whatever works**: Wenn ein Schema dir hilft, die nächste Klausur zu schreiben — nimm es. Wenn du es nicht brauchst — auch gut.
 
@@ -162,7 +162,7 @@ Die Skill stellt das Schema bereit, **erklärt aber jeden Schritt** mit der dogm
 > Frage: "Warum prüft man bei § 985 BGB drei Voraussetzungen?"
 > Antwort der Skill: "Weil die Norm den Anspruch des **Eigentümers** gegen den **Besitzer** auf Herausgabe regelt, **wenn** der Besitzer kein Recht zum Besitz hat. Die drei Schritte sind keine Konvention, sondern direkt der Wortlaut."
 
-Im Drill-Modus stellt die Skill Schritt-für-Schritt-Fragen, die der Studierende erst aus dem Gesetz beantwortet, dann mit dem Schema abgleicht.
+Im Drill-Modus stellt die Skill Schritt-für-Schritt-Fragen, die der Studenten erst aus dem Gesetz beantwortet, dann mit dem Schema abgleicht.
 
 ## Was diese Skill nicht tut
 

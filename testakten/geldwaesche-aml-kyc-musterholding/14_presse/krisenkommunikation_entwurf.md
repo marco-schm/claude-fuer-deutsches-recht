@@ -89,11 +89,11 @@ Für die interne Kommunikation wird folgende E-Mail an alle Mitarbeiter empfohle
 > **An:** Alle Mitarbeiter
 > **Betreff:** Hinweis zu aktuellen Compliance-Aktivitäten
 >
-> Liebe Kolleginnen und Kollegen,
+> Liebe Kollegen,
 >
 > im Zuge unserer regulären Compliance-Aktivitäten haben wir in den letzten Wochen bestimmte interne Prozesse überprüft und angepasst. Dies ist ein normaler Bestandteil unseres Geldwäschepräventions-Managements.
 >
-> Wir möchten alle Mitarbeiterinnen und Mitarbeiter daran erinnern: Interne Compliance-Vorgänge sind streng vertraulich. Bitte sprechen Sie weder intern noch gegenüber Dritten über konkrete Prüfvorgänge, Kundenbeziehungen oder behördliche Anfragen. Jede Frage eines Journalisten, Geschäftspartners oder Privatpersons zu solchen Themen ist sofort an die Geschäftsführung weiterzuleiten.
+> Wir möchten alle Mitarbeiter daran erinnern: Interne Compliance-Vorgänge sind streng vertraulich. Bitte sprechen Sie weder intern noch gegenüber Dritten über konkrete Prüfvorgänge, Kundenbeziehungen oder behördliche Anfragen. Jede Frage eines Journalisten, Geschäftspartners oder Privatpersons zu solchen Themen ist sofort an die Geschäftsführung weiterzuleiten.
 >
 > Wir danken Ihnen für Ihre Diskretion und Ihr Engagement.
 >

@@ -37,7 +37,7 @@ Hinweis: Die genaue Aufteilung der Nennbeträge muss durch die Notarin in der Ka
 | --- | --- |
 | 8 Prozent ESOP-Pool | nach Eintragung Pfaffenrode |
 | davon Mira-Ausgleich | 3 Prozent (4-Jahres-Vesting, Cliff 12 Monate) |
-| davon offene Mitarbeitendentage | 5 Prozent |
+| davon offene Mitarbeiterntage | 5 Prozent |
 
 Der ESOP-Pool wird als virtueller Anteils-Pool aufgesetzt (VSOP), nicht als echte Geschäftsanteile, um die notariellen Kosten zu sparen. Auszahlung im Exit-Fall.
 

@@ -24,7 +24,7 @@ Dabei genügt nicht die allgemeine Unannehmlichkeit eines Fahrverbots oder allge
 **Rechtsform und Struktur:**
 - Norderhof Spedition GmbH, HRB 112744 HB Hamburg
 - Alleiniger Gesellschafter und Geschäftsführer: Henrik Norderhof-Tannenmoor
-- Mitarbeitende: 38 Personen
+- Mitarbeiter: 38 Personen
 - Jahresumsatz 2025: ca. 7,2 Mio. EUR
 - Jahresgewinn (EBIT) 2025: ca. 480 TEUR (Schätzung Steuerberater)
 - Hauptkunden: Continental AG (Reifenlogistik), Netto Marken-Discount (Frischlogistik), drei mittelständische Maschinenbauer

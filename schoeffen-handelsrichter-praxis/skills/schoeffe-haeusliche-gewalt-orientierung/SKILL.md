@@ -1,6 +1,6 @@
 ---
 name: schoeffe-haeusliche-gewalt-orientierung
-description: "Häusliche Gewalt Verfahren (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Aussageverhalten, Rücknahme Strafantrag, Schutzanordnung und Beziehungsdynamik mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck."
+description: "Häusliche Gewalt Verfahren (Orientierung): hilft ehrenamtlichen Richtern bei Aussageverhalten, Rücknahme Strafantrag, Schutzanordnung und Beziehungsdynamik mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck."
 ---
 
 # Häusliche Gewalt Verfahren: Orientierung

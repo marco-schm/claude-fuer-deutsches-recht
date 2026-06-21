@@ -26,7 +26,7 @@ Dieses Plugin führt Unternehmen, Kanzleien und Rechtsabteilungen durch den ganz
 
 ## Wofür dieses Plugin da ist
 
-Es ist als Arbeitsbegleiter gedacht: erst fragen, dann sortieren, dann prüfen, dann ein verwertbares Arbeitsprodukt bauen. Die Skills sollen Nutzerinnen und Nutzer nicht kleinhalten, sondern sie in der jeweiligen Materie schneller, präziser und beweissicherer machen.
+Es ist als Arbeitsbegleiter gedacht: erst fragen, dann sortieren, dann prüfen, dann ein verwertbares Arbeitsprodukt bauen. Die Skills sollen Nutzer nicht kleinhalten, sondern sie in der jeweiligen Materie schneller, präziser und beweissicherer machen.
 
 ## Typischer Workflow
 

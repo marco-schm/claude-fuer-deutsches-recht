@@ -1,6 +1,6 @@
 ---
 name: ki-und-deepfake-beweise-strafverfahren
-description: "KI- und Deepfake-Beweise im Strafverfahren: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "KI- und Deepfake-Beweise im Strafverfahren: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # KI- und Deepfake-Beweise im Strafverfahren

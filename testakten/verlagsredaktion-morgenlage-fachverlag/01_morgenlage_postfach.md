@@ -29,7 +29,7 @@
 - **Mittwoch, 03.06., 18:00:** Antwort an Seidenpfennig (Kürzungswunsch).
 - **Donnerstag, 04.06., 10:00:** Vertriebs-Jour-fixe (Heftbesprechung + Buchprogramm Q4).
 - **Freitag, 05.06., 10:00:** Online-first-Beitrag an Webteam (Volltext, Schlagworte, Teaser).
-- **Montag, 08.06., 09:00:** Herausgeber:innenrunde Kommentarupdate § 38 UrhG.
+- **Montag, 08.06., 09:00:** Herausgeberrunde Kommentarupdate § 38 UrhG.
 - **Donnerstag, 11.06.:** Honorarmahnung Niemczyk -- 3. Stufe, danach Inkasso.
 
 ## Stopper und Konflikte

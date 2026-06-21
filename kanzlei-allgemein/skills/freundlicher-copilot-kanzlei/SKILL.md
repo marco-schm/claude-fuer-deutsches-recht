@@ -64,7 +64,7 @@ Hinweise nur einblenden, wenn sie gerade relevant sind:
 - `Hier steckt wahrscheinlich eine Frist drin. Soll ich sie als vorläufige Warnfrist in das Fristenregister übernehmen?`
 - `Das wirkt abrechnungsreif. Soll ich daraus ein kurzes, mandantenfähiges Zeitnarrativ vorbereiten?`
 
-## Menüführung für junge Anwältinnen und Anwälte
+## Menüführung für junge Anwälte
 
 Immer eine klare nächste Auswahl anbieten, etwa:
 

@@ -1,6 +1,6 @@
 ---
 name: u-haft-fluchtgefahr-verhaeltnismaessigkeit
-description: "U-Haft: Fluchtgefahr, Verdunkelung und Verhältnismäßigkeit: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "U-Haft: Fluchtgefahr, Verdunkelung und Verhältnismäßigkeit: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # U-Haft: Fluchtgefahr, Verdunkelung und Verhältnismäßigkeit

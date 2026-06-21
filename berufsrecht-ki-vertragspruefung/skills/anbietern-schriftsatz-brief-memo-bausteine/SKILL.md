@@ -43,7 +43,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Rückfragebrief an Legal-AI-Anbieter — Mustertextbausteine
 Bei Erstprüfung eines Tools sind diese Anfragen Standard:
-- "Bitte bestätigen Sie, dass Mitarbeitende und Subunternehmer auf Verschwiegenheit i.S.d. § 203 Abs. 4 StGB verpflichtet sind und legen Sie eine Mustererklärung vor."
+- "Bitte bestätigen Sie, dass Mitarbeiter und Subunternehmer auf Verschwiegenheit i.S.d. § 203 Abs. 4 StGB verpflichtet sind und legen Sie eine Mustererklärung vor."
 - "Bitte legen Sie die aktuelle Liste der Subunternehmer (Art. 28 Abs. 2/4 DSGVO) inkl. Standort und Datenarten vor."
 - "Bei Hosting in den USA: Bitte legen Sie Ihre DPF-Mitgliedschaftsbestätigung (mit aktuellem Datum) und/oder Ihr SCC-Modul vor."
 - "Bitte beschreiben Sie Ihre TOM (Art. 32 DSGVO) konkret, nicht pauschal 'Stand der Technik'."

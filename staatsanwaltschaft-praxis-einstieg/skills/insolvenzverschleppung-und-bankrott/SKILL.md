@@ -1,6 +1,6 @@
 ---
 name: insolvenzverschleppung-und-bankrott
-description: "Insolvenzverschleppung und Bankrott: Tatzeitraum sauber schneiden: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Insolvenzverschleppung und Bankrott: Tatzeitraum sauber schneiden: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Insolvenzverschleppung und Bankrott: Tatzeitraum sauber schneiden

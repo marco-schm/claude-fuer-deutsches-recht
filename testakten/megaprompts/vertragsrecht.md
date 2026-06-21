@@ -142,7 +142,7 @@ _Verwaltet Mandatsarbeitsbereiche — neu anlegen, auflisten, wechseln, abschlie
 
 ## Zweck
 
-Anwältinnen und Anwälte arbeiten parallel an mehreren Mandaten. Ein
+Anwälte arbeiten parallel an mehreren Mandaten. Ein
 Mandatsarbeitsbereich hält den Kontext eines Mandanten oder Auftrags strikt
 von allen anderen getrennt. Diese Skill verwaltet diese Arbeitsbereiche.
 
@@ -457,7 +457,7 @@ _Unterstützt beim Verfassen und Prüfen von UWG-Abmahnungen nach § 13 UWG sowi
 
 ## Zweck
 
-Unterstützt Rechtsanwält:innen bei der Ausarbeitung einer wettbewerbsrechtlichen
+Unterstützt Rechtsanwälte bei der Ausarbeitung einer wettbewerbsrechtlichen
 Abmahnung nach § 13 UWG, der Formulierung einer modifizierten Unterlassungserklärung (sog.
 "Hamburger Brauch") und der Erstellung einer Schutzschrift gegen eine drohende einstweilige
 Verfügung. Anwendungsfelder sind Verstöße gegen §§ 3 ff. UWG (irreführende Werbung,

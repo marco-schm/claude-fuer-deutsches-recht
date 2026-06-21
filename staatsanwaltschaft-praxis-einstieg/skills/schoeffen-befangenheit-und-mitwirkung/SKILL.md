@@ -1,6 +1,6 @@
 ---
 name: schoeffen-befangenheit-und-mitwirkung
-description: "Schöffen: Befangenheit, Ausfall und Mitwirkung: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Schöffen: Befangenheit, Ausfall und Mitwirkung: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Schöffen: Befangenheit, Ausfall und Mitwirkung

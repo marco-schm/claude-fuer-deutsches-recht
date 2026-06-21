@@ -17,7 +17,7 @@
 
 - Die Sachbearbeiterin mit juristischen Vorlesungen aufhalten (kein Lehrbuchkapitel zu § 38 UrhG, kein Exkurs zur Geschichte des Urheberrechts).
 - Das Screenshot-Problem als harmlos durchwinken ("der Autor wird schon die Rechte haben").
-- Echte Autor:innenzitate für Marketing erfinden, um den Klappentext lebendiger zu machen.
+- Echte Autorenzitate für Marketing erfinden, um den Klappentext lebendiger zu machen.
 - Die Online-first-Frage ohne Quellen- und Freigabestatus freigeben (Volltext-Embargo der BGH-Pressestelle, Verlagsregel VA 2024-11).
 - Die Honorarsache Niemczyk ohne Rücksprache mit Buchhaltung "rechtsicher" einordnen -- ohne Vertragsakte ist das nicht möglich.
 - Die Schlusskorrektur-Lücke durch Frau Berber unbemerkt durchrutschen lassen.
@@ -29,7 +29,7 @@
 3. **Mailentwurf Rabenau** -- Bildrechte Screenshot Folie 12 (Drittquelle, DAV-Genehmigung).
 4. **Mailentwurf Wendt/Krug** -- Rechtsstand, Pinpoints, Klärung Streichung Rn. 12.
 5. **Rechteampel** für alle Abbildungen mit Begründung pro Ampelstand.
-6. **Fahnen-Korrekturliste** mit Trennung "kann Klee selbst" / "geht an Autor:in" / "geht an Herstellung".
+6. **Fahnen-Korrekturliste** mit Trennung "kann Klee selbst" / "geht an Autor" / "geht an Herstellung".
 7. **Marketing-Rohentwurf** mit benannten Lücken (Preis, KI-Kapitel, Cover, Citation).
 8. **Vorgehensvorschlag Niemczyk** -- Akte aus Buchhaltung anfordern, vor 3. Mahnungsstufe juristisch nichts behaupten.
 9. **Kurzvermerk Online-first** -- ob technisch und verlagsregeltauglich möglich, mit Verweis auf Volltext-Embargo.
@@ -39,7 +39,7 @@
 | Kriterium | gut | mittel | nicht ausreichend |
 | --- | --- | --- | --- |
 | Priorisierung | klare Reihenfolge mit Begründung | Reihenfolge ohne Begründung | nur Liste, keine Priorisierung |
-| Tonfall Autor:innen | freundlich, konkret, nicht herablassend | freundlich, aber ohne konkrete Anforderung | herablassend oder unkonkret |
+| Tonfall Autoren | freundlich, konkret, nicht herablassend | freundlich, aber ohne konkrete Anforderung | herablassend oder unkonkret |
 | Bildrechte | Ampel pro Abbildung mit Quelle und Lizenz | Sammelhinweis "Bildrechte prüfen" | übersehen oder als unkritisch eingestuft |
 | Fristlogik | harte Fristen markiert, Vorfrist gesetzt | Fristen genannt, aber ohne Vorfrist | Fristen fehlen oder falsch zugeordnet |
 | KI-Transparenz | sichtbar, was Mensch / was System | unklar | Verlagsregel KI 2025-03 nicht beachtet |

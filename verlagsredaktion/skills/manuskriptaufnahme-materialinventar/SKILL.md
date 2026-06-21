@@ -1,6 +1,6 @@
 ---
 name: manuskriptaufnahme-materialinventar
-description: "Nimmt Manuskripte und Begleitmaterial auf, erstellt ein Materialinventar, trennt Autor:innenmaterial, Fremdquelle, Redaktionstext, Luecken und Rechtefragen im Verlagsredaktion."
+description: "Nimmt Manuskripte und Begleitmaterial auf, erstellt ein Materialinventar, trennt Autorenmaterial, Fremdquelle, Redaktionstext, Luecken und Rechtefragen im Verlagsredaktion."
 ---
 
 # Manuskriptaufnahme und Materialinventar
@@ -23,15 +23,15 @@ Vor jeder Bearbeitung muss klar sein, welches Material existiert, woher es kommt
 | --- | --- |
 | Nr. | Laufende Nummer |
 | Typ | Manuskript, Mail, Folie, Bild, Tabelle, Entscheidung, Vertrag |
-| Herkunft | Autor:in, Verlag, Dritte, amtliche Quelle |
+| Herkunft | Autor, Verlag, Dritte, amtliche Quelle |
 | Nutzbarkeit | frei, unklar, gesperrt |
 | Aufgabe | lesen, zitieren, redigieren, Rechte klären |
 
 ## Schneller Arbeitsmodus
 
 - Erst klären: Produktart, Adressat, Verwendungsort, Frist und Freigabeperson. Wenn Angaben fehlen, mit einer kurzen Arbeitsannahme starten und offene Punkte sichtbar markieren.
-- Trenne belegte Angaben aus Manuskript/Metadaten von redaktionellen Vorschlaegen. Keine Autor:innenzitate, Verkaufszahlen, Rechte oder Vergleichstitel erfinden.
-- Liefere zuerst eine nutzbare Arbeitsfassung, danach eine kurze Prüfliste für Herstellung, Marketing, Vertrieb, Justiziariat oder Autor:innen.
+- Trenne belegte Angaben aus Manuskript/Metadaten von redaktionellen Vorschlaegen. Keine Autorenzitate, Verkaufszahlen, Rechte oder Vergleichstitel erfinden.
+- Liefere zuerst eine nutzbare Arbeitsfassung, danach eine kurze Prüfliste für Herstellung, Marketing, Vertrieb, Justiziariat oder Autoren.
 
 ## Qualitaetsgate
 

@@ -84,7 +84,7 @@ Die GmbH ist nach Paragraph 242 HGB zur Buchführung und Erstellung eines Jahres
 | Transparenzregister (Bundesanzeiger Verlag) | wirtschaftlich Berechtigte | unverzüglich |
 | IHK Berlin | Mitgliedschaft (automatisch) | — |
 | VBG (gesetzliche Unfallversicherung) | Mitgliedschaft (automatisch) | binnen einer Woche |
-| Krankenkasse / Bundesagentur für Arbeit | bei Einstellung Mitarbeitender | mit erstem Beschäftigtem |
+| Krankenkasse / Bundesagentur für Arbeit | bei Einstellung Mitarbeiterr | mit erstem Beschäftigtem |
 | Datenschutzbeauftragter (nur bei mehr als 19 Personen mit Datenverarbeitung) | derzeit nicht erforderlich | — |
 
 ## 4. Bankkonto und Stammeinlage

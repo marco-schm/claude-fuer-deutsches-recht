@@ -38,7 +38,7 @@ Dieses Fachmodul prüft visuelle und responsive Barrierefreiheit.
 
 ## Priorität
 
-Kontrast und Reflow sind oft schnell zu beheben und stark nutzerwirksam. Animationsprobleme werden gern unterschätzt, weil sie nur manche Nutzerinnen und Nutzer hart treffen.
+Kontrast und Reflow sind oft schnell zu beheben und stark nutzerwirksam. Animationsprobleme werden gern unterschätzt, weil sie nur manche Nutzer hart treffen.
 
 ## Schneller Arbeitsmodus
 

@@ -8,7 +8,7 @@ Diese Vorlage ist ein freistehendes Arbeitsblatt. Sie darf direkt in eine Mandat
 
 ## Pflichtfelder
 
-- Fotoqualität, Halter, Nutzerkreis, Angehörige, Mitarbeitende, Fahrtenbuchrisiko.
+- Fotoqualität, Halter, Nutzerkreis, Angehörige, Mitarbeiter, Fahrtenbuchrisiko.
 - Strategie: Schweigen, Bestreiten, Aufklärung, Vergleich.
 
 ## Arbeitsblatt

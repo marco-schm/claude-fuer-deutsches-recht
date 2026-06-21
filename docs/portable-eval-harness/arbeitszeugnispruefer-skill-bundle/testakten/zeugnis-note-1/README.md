@@ -14,7 +14,7 @@ gruene Ampel-Bilanz, keine Streitstellen.
 >
 > **Leistungsbeurteilung:** Frau Musterfrau verfuegt ueber hervorragende Fachkenntnisse, die sie stets sicher, souveraen und mit ausserordentlichem Erfolg eingesetzt hat. Alle ihr uebertragenen Aufgaben erledigte sie stets zu unserer vollsten Zufriedenheit.
 >
-> **Verhaltensbeurteilung:** Das Verhalten von Frau Musterfrau gegenueber Vorgesetzten, Kolleginnen und Kollegen sowie externen Partnern war stets einwandfrei.
+> **Verhaltensbeurteilung:** Das Verhalten von Frau Musterfrau gegenueber Vorgesetzten, Kollegen sowie externen Partnern war stets einwandfrei.
 >
 > **Schlussformel:** Frau Musterfrau scheidet auf eigenen Wunsch aus unserem Unternehmen aus. Wir bedauern dies ausserordentlich und danken ihr herzlich fuer ihre hervorragenden Leistungen. Fuer ihren weiteren beruflichen und persoenlichen Weg wuenschen wir ihr nur das Allerbeste und weiterhin grossen Erfolg.
 

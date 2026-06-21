@@ -4,7 +4,7 @@
 **Dokumentversion:** 1.1
 **Erstellungsdatum:** 20. Dezember 2025
 **Verfasser:** Annegret Kühnhausen (CCO); Kanzlei Borchmann Compliance (Frankfurt)
-**Geltungsbereich:** Alle Mitarbeiterinnen und Mitarbeiter, Führungskräfte, Auftragnehmer
+**Geltungsbereich:** Alle Mitarbeiter, Führungskräfte, Auftragnehmer
 
 ---
 

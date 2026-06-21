@@ -78,7 +78,7 @@ Dieses Playbook definiert den konzernweiten Prozess zur Erkennung, Klassifikatio
 
 **Erkennungsquellen:**
 - Automatische Monitoring-Alarme (KI-Dashboard, CDO-Bereich)
-- Meldungen von Mitarbeitenden (Hinweisgebersystem, intern: ki-incident@thalheim.de)
+- Meldungen von Mitarbeitern (Hinweisgebersystem, intern: ki-incident@thalheim.de)
 - Kundenbeschwerden (Vertrieb, Kundenservice)
 - Behördliche Anfragen (BaFin, LfDI BW)
 - Revisionsfeststellungen (interne Revision, Hagedorn & Partner)

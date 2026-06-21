@@ -18,7 +18,7 @@ description: "Erstellt Projektplaene für Heft, Onlinebeitrag, Buchkapitel, Komm
 - Produktart.
 - Erscheinungstermin.
 - Umfang.
-- Autor:innen.
+- Autoren.
 - Redaktionsstand.
 - Satz-/Herstellungstermin.
 - Marketing-/Vertriebsschnittstelle.
@@ -32,14 +32,14 @@ Arbeite rückwärts vom Veröffentlichungstermin:
 3. Fahnenlauf.
 4. Lektorat.
 5. Rechtecheck.
-6. Autor:innenrücklauf.
+6. Autorenrücklauf.
 7. Manuskripteingang.
 
 ## Schneller Arbeitsmodus
 
 - Erst klären: Produktart, Adressat, Verwendungsort, Frist und Freigabeperson. Wenn Angaben fehlen, mit einer kurzen Arbeitsannahme starten und offene Punkte sichtbar markieren.
-- Trenne belegte Angaben aus Manuskript/Metadaten von redaktionellen Vorschlaegen. Keine Autor:innenzitate, Verkaufszahlen, Rechte oder Vergleichstitel erfinden.
-- Liefere zuerst eine nutzbare Arbeitsfassung, danach eine kurze Prüfliste für Herstellung, Marketing, Vertrieb, Justiziariat oder Autor:innen.
+- Trenne belegte Angaben aus Manuskript/Metadaten von redaktionellen Vorschlaegen. Keine Autorenzitate, Verkaufszahlen, Rechte oder Vergleichstitel erfinden.
+- Liefere zuerst eine nutzbare Arbeitsfassung, danach eine kurze Prüfliste für Herstellung, Marketing, Vertrieb, Justiziariat oder Autoren.
 
 ## Qualitaetsgate
 

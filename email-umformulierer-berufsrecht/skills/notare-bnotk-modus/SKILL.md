@@ -1,6 +1,6 @@
 ---
 name: notare-bnotk-modus
-description: "Korrespondenz von Notaren und Notarinnen auf notarrechtliche Besonderheiten und BNotK-Vorgaben anpassen. §§ 14 17 BNotO § 26 BRAO analog. Prüfraster: neutrale Beurkundsrolle Unparteilichkeit Gebotes zur Unabhängigkeit Urkundssprache. Output: angepasste Version mit Prüfprotokoll. Abgrenzung: nicht..."
+description: "Korrespondenz von Notaren auf notarrechtliche Besonderheiten und BNotK-Vorgaben anpassen. §§ 14 17 BNotO § 26 BRAO analog. Prüfraster: neutrale Beurkundsrolle Unparteilichkeit Gebotes zur Unabhängigkeit Urkundssprache. Output: angepasste Version mit Prüfprotokoll. Abgrenzung: nicht..."
 ---
 
 # Notar-Modus (BNotO/BNotK)

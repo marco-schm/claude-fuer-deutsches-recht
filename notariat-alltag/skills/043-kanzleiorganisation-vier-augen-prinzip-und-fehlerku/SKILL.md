@@ -49,7 +49,7 @@ Ein Notariat mit guter Fehlerkultur:
 - hat klare Eskalationsprozesse (wann wird der Notar informiert?)
 - dokumentiert Fehler in einem internen Fehlerregister
 - analysiert wiederkehrende Fehler und passt Abläufe an
-- schult Mitarbeitende regelmäßig
+- schult Mitarbeiter regelmäßig
 
 **Fehlerkategorien:**
 - Formfehler (Datum, Namen, Beträge)
@@ -78,7 +78,7 @@ Notarielle Amtshandlungen (Beurkundung, Beglaubigung, Bescheinigung) können nic
 
 - Gibt es ein funktionierendes Vier-Augen-System für Fälligkeitsmitteilungen?
 - Wird ein internes Fehlerregister geführt?
-- Sind alle Mitarbeitenden über GwG und DSGVO geschult?
+- Sind alle Mitarbeitern über GwG und DSGVO geschult?
 - Gibt es klare Eskalationsprozesse?
 - Wird der Vollzugsmonitor täglich geprüft?
 

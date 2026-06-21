@@ -1,7 +1,7 @@
 # 21 — Schulungskonzept Kanzleihandbuch Zitierweise v4.0
 
 **Kanzlei Roosendaal Birkenhainer Partners mbB**
-**Schulungskonzept für alle 280 Berufsträger und Mitarbeitenden**
+**Schulungskonzept für alle 280 Berufsträger und Mitarbeitern**
 **Schulungsverantwortlich: Dr. Sophia Pohlmann-Wittfeldt (HU Berlin)**
 **Knowledge Manager: Moritz Lattermann**
 **Stand: Oktober 2025**

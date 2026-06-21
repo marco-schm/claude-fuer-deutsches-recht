@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-krypto-haeusliche-gewalt
-description: "Geldwäsche mit Krypto- oder Kontospuren: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis."
+description: "Geldwäsche mit Krypto- oder Kontospuren: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis."
 ---
 
 # Geldwäsche mit Krypto- oder Kontospuren

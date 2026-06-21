@@ -43,7 +43,7 @@ Prof. Schöner-Hoffmanns Analyse ergibt folgende Verdrängungsrisiken:
 
 ### 3.3 Folgen für soziale Infrastruktur
 
-- Grundschule Spreewiesenweg: Kapazität 540 Schülerinnen und Schüler, derzeitige Belegung 498; 420 WE erzeugen rund 52 weitere Grundschulkinder (Berliner Richtwert 12,4 Kinder/100 WE).
+- Grundschule Spreewiesenweg: Kapazität 540 Schüler, derzeitige Belegung 498; 420 WE erzeugen rund 52 weitere Grundschulkinder (Berliner Richtwert 12,4 Kinder/100 WE).
 - Kitas im Umfeld: 3 Einrichtungen mit zusammen 210 Plätzen; Wartelisten bereits bei 85 Kindern.
 - Ärztliche Versorgung: 2 Allgemeinmediziner im 500-m-Radius; keine Kapazitätserweiterung geplant.
 

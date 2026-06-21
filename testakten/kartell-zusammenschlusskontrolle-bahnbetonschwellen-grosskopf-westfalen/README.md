@@ -22,8 +22,8 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 ## Kurzbild
 
-- Mandantin: Grosskopf Betonwerk Westfalen GmbH (GBW), Münster, 188 Mitarbeitende, Marktanteil Deutschland ca. 38 % im Segment Bahnbetonschwellen.
-- Vorhaben: Erwerb von 100 % der Aktien der Tannenheim Betonelemente AG (TBA), Bielefeld, 94 Mitarbeitende, Marktanteil Deutschland ca. 19 %. Signing SPA: 15. März 2026.
+- Mandantin: Grosskopf Betonwerk Westfalen GmbH (GBW), Münster, 188 Mitarbeiter, Marktanteil Deutschland ca. 38 % im Segment Bahnbetonschwellen.
+- Vorhaben: Erwerb von 100 % der Aktien der Tannenheim Betonelemente AG (TBA), Bielefeld, 94 Mitarbeiter, Marktanteil Deutschland ca. 19 %. Signing SPA: 15. März 2026.
 - Behörden: Bundeskartellamt (Az. B6-188-26) — nach Art.-22-Verweisung ausschließlich EU-Kommission (COMP M.92188). Verfahren in Phase II seit 05. Mai 2026.
 - Post-Merger-Marktanteil Deutschland: ca. 57 % (bei enger Marktabgrenzung "Bahnbetonschwellen"). Vermutungsgrenze § 18 Abs. 4 GWB (40 %) erheblich überschritten.
 - Abhilfemaßnahme (angeboten): Carve-out — Veräußerung des Bielefelder Werks der TBA an Adlerstein Beton AG (Wien). Freigabe mit Auflagen erwartet September 2026.

@@ -1,6 +1,6 @@
 ---
 name: sicherungsverfahren-413-stpo
-description: "Sicherungsverfahren und Maßregelantrag: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Sicherungsverfahren und Maßregelantrag: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Sicherungsverfahren und Maßregelantrag

@@ -22,7 +22,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-Dieses Plugin ist der Hochschulrechts-Kompass für Universitäten, Hochschulen, Präsidien, Fakultäten, Studierende, Lehrende und Rechtsabteilungen. Es verbindet Landeshochschulrecht, Satzungen, Wissenschaftsfreiheit und Verwaltungsrecht.
+Dieses Plugin ist der Hochschulrechts-Kompass für Universitäten, Hochschulen, Präsidien, Fakultäten, Studenten, Lehrer und Rechtsabteilungen. Es verbindet Landeshochschulrecht, Satzungen, Wissenschaftsfreiheit und Verwaltungsrecht.
 
 ## Wofür dieses Plugin da ist
 
@@ -117,18 +117,18 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `hochschulmedizin` | Prüft Universitätskliniken und Hochschulmedizin im Hochschulrecht Länder. |
 | `hochschulmedizin-klinik-hochschulrat-aufsicht` | Prüft Universitätsmedizin, Klinikträger, Forschung, Lehre und Organabgrenzung im Hochschulrecht Länder. |
 | `hochschulrat-aufsicht-ministerium` | Prüft Hochschulrat, Rechtsaufsicht, Fachaufsichtsgrenzen und ministerielle Beanstandung im Hochschulrecht Länder. |
-| `hochschulrecht-disziplinarverfahren-pruefungsnah` | Prüft Ordnungs- und Disziplinarmaßnahmen gegen Studierende im Hochschulrecht Länder. |
+| `hochschulrecht-disziplinarverfahren-pruefungsnah` | Prüft Ordnungs- und Disziplinarmaßnahmen gegen Studenten im Hochschulrecht Länder. |
 | `hochschulwahlen` | Prüft Hochschulwahlen und Wahlprüfung im Hochschulrecht Länder. |
 | `hochschulzugang-beruflich-qualifizierte` | Prüft Hochschulzugang ohne Abitur, Beratungspflichten, Eignung und Ablehnung im Hochschulrecht Länder. |
 | `humanstudie-ethik-ifg-transparenz` | Prüft Humanstudien, Einwilligung, Ethikvotum, Datenschutz und Studienabbruch im Hochschulrecht Länder. |
 | `ifg-transparenz-hochschule` | Prüft Informationszugang, Drittmitteltransparenz, Geheimschutz und Forschungsdaten im Hochschulrecht Länder. |
 | `immatrikulation-und-rueckmeldung` | Prüft Immatrikulation, Rückmeldung und Gebühren im Hochschulrecht Länder. |
 | `informationssicherheit-hochschule` | Prüft IT-Sicherheit, Forschungsdaten, Ransomware, Hochschul-CERT und Verantwortlichkeiten im Hochschulrecht Länder. |
-| `international-office-und-visa` | Prüft internationale Studierende und Hochschulstatus. |
+| `international-office-und-visa` | Prüft internationale Studenten und Hochschulstatus. |
 | `international-office-visum-status` | Prüft hochschulische Bescheinigungen, Visum, Aufenthalt und Einschreibung im Hochschulrecht Länder. |
 | `juniorprofessur-tenure-track` | Prüft Juniorprofessur und Tenure Track im Hochschulrecht Länder. |
 | `juniorprofessur-verlaengerung` | Prüft Verlängerung, Evaluation, Mutterschutz/Elternzeit und Befristungsgrenzen im Hochschulrecht Länder. |
-| `kaltstart-triage` | Startet Hochschulrecht für Universitäten, Hochschulen, Studierende, Lehrende, Kanzler, Präsidien und Rechtsabteilungen. |
+| `kaltstart-triage` | Startet Hochschulrecht für Universitäten, Hochschulen, Studenten, Lehrer, Kanzler, Präsidien und Rechtsabteilungen. |
 | `konkurrentenstreit-professur-kunst` | Prüft Konkurrentenstreit im Hochschulbereich im Hochschulrecht Länder. |
 | `kunst-und-musikhochschulen` | Prüft Kunst- und Musikhochschulen mit Eignungsprüfungen im Hochschulrecht Länder. |
 | `landeshochschulgesetz-router` | Routet Hochschulrecht in das richtige Bundesland, Hochschulgesetz und die passende Satzung im Hochschulrecht Länder. |
@@ -140,7 +140,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `plagiat-gwp-praesidium-rektorat-private` | Prüft Plagiatsvorwürfe, Promotionsfolgen, Akteneinsicht und Verfahrensrechte im Hochschulrecht Länder. |
 | `praesidium-rektorat-kanzler` | Prüft Präsidium/Rektorat/Kanzler-Zuständigkeiten im Hochschulrecht Länder. |
 | `private-hochschule` | Prüft private und staatlich anerkannte Hochschulen im Hochschulrecht Länder. |
-| `private-hochschule-anerkennung` | Prüft staatliche Anerkennung, Aufsicht, Studiengänge, Gebühren und Studierendenrechte im Hochschulrecht Länder. |
+| `private-hochschule-anerkennung` | Prüft staatliche Anerkennung, Aufsicht, Studiengänge, Gebühren und Studentennrechte im Hochschulrecht Länder. |
 | `promotion-promotionsordnung` | Prüft Promotion, Annahme, Betreuung und Entzug im Hochschulrecht Länder. |
 | `publikationsfreiheit-affiliation` | Prüft Publikationsfreigabe, Affiliation, Drittmittelbindung und Wissenschaftsfreiheit im Hochschulrecht Länder. |
 | `ranking-kennzahlen-und-hochschulmarketing` | Prüft Rankings, Kennzahlenmeldungen, Werbeaussagen und Reputationsrisiken im Hochschulrecht Länder. |
@@ -150,9 +150,9 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `senat-fakultaetsrat-gremien` | Prüft Senat, Fakultätsrat und akademische Gremien im Hochschulrecht Länder. |
 | `senatswahl-statusgruppen` | Prüft Senatswahl, Gruppenparität, Wahlordnung, Anfechtung und Mandatsverteilung im Hochschulrecht Länder. |
 | `studiengang-einstellung` | Prüft Einstellung, Änderung und Akkreditierung von Studiengängen im Hochschulrecht Länder. |
-| `studiengebuehren-internationale` | Prüft Gebühren für internationale Studierende, Satzung, Ausnahmen und Rückerstattung im Hochschulrecht Länder. |
-| `studierendenschaft-asta` | Prüft Studierendenschaft, AStA, Beiträge und Mandat im Hochschulrecht Länder. |
-| `studierendenwerk-beitrag` | Prüft Studierendenwerksbeitrag, Satzung, Rückerstattung und Härtefall im Hochschulrecht Länder. |
+| `studiengebuehren-internationale` | Prüft Gebühren für internationale Studenten, Satzung, Ausnahmen und Rückerstattung im Hochschulrecht Länder. |
+| `studierendenschaft-asta` | Prüft Studentennschaft, AStA, Beiträge und Mandat im Hochschulrecht Länder. |
+| `studierendenwerk-beitrag` | Prüft Studentennwerksbeitrag, Satzung, Rückerstattung und Härtefall im Hochschulrecht Länder. |
 | `tenure-track-evaluation` | Prüft Tenure-Track-Zwischenevaluation, Endbewertung, Transparenz und Rechtsschutz im Hochschulrecht Länder. |
 | `tierversuch-ethikvotum-urlaubssemester` | Prüft Tierversuch, Ethikvotum, Genehmigung, Dokumentation und Forschungsfreiheit im Hochschulrecht Länder. |
 | `urlaubssemester-und-teilzeit` | Prüft Urlaubssemester, Teilzeitstudium und Härtefälle im Hochschulrecht Länder. |

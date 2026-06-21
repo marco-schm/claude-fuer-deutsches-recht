@@ -1,6 +1,6 @@
 ---
 name: schoeffe-wirtschaftsstrafverfahren-sitzung
-description: "Wirtschaftsstrafverfahren für Schöffen (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Bilanzen, Zahlungsflüsse, Insolvenzdelikte, Steuerzahlen und Sachverständige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Wirtschaftsstrafverfahren für Schöffen (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Bilanzen, Zahlungsflüsse, Insolvenzdelikte, Steuerzahlen und Sachverständige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Wirtschaftsstrafverfahren für Schöffen: Sitzungspraxis

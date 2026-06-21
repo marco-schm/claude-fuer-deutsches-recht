@@ -92,7 +92,7 @@ Schwerpunkt Unterhaltsrecht: zwei eigenständige, copy-paste-taugliche Prompt-Sk
 
 ## Neue Skills (fachanwalt-familienrecht)
 
-- `unterhaltsberechnung-megaprompt`: vollständiger, eigenständiger Megaprompt für die gesamte Unterhaltsberechnung in einem Skill — Kindesunterhalt (Düsseldorfer Tabelle, Altersstufen, Einkommensgruppen, Kindergeldanrechnung, Bedarfskontrollbetrag, Mangelfall, Wechselmodell, Einkommen oberhalb der Tabelle, Volljährige und Studierende, Mehr- und Sonderbedarf), Trennungsunterhalt (§ 1361 BGB, Quoten- und Differenzmethode, Erwerbstätigenbonus, Vorsorgeunterhalt) und nachehelicher Unterhalt (§§ 1570 ff., Drei-Stufen-Prüfung, Halbteilung, Realsplitting, Befristung § 1578b, Verwirkung § 1579). Mit Einkommensbereinigung auch für Selbständige, Plausibilitäts-Selbstkontrolle, vollständig durchgerechnetem Zahlenbeispiel (Arbeitswerte) und Abschnitt „Häufige Fehler".
+- `unterhaltsberechnung-megaprompt`: vollständiger, eigenständiger Megaprompt für die gesamte Unterhaltsberechnung in einem Skill — Kindesunterhalt (Düsseldorfer Tabelle, Altersstufen, Einkommensgruppen, Kindergeldanrechnung, Bedarfskontrollbetrag, Mangelfall, Wechselmodell, Einkommen oberhalb der Tabelle, Volljährige und Studenten, Mehr- und Sonderbedarf), Trennungsunterhalt (§ 1361 BGB, Quoten- und Differenzmethode, Erwerbstätigenbonus, Vorsorgeunterhalt) und nachehelicher Unterhalt (§§ 1570 ff., Drei-Stufen-Prüfung, Halbteilung, Realsplitting, Befristung § 1578b, Verwirkung § 1579). Mit Einkommensbereinigung auch für Selbständige, Plausibilitäts-Selbstkontrolle, vollständig durchgerechnetem Zahlenbeispiel (Arbeitswerte) und Abschnitt „Häufige Fehler".
 - `unterhaltsberechnung-miniprompt`: kompakte Sparversion desselben Rechenwegs für den schnellen Einsatz in Chatbots ohne Plugin.
 - Beide Skills bewusst eigenständig gehalten, sodass die SKILL.md auch außerhalb der Plugin-Umgebung kopiert und genutzt werden kann. Düsseldorfer-Tabellenwerte, Selbstbehalte, Kindergeld und Rechtsprechung sind durchgängig als vor Verwendung zu verifizieren gekennzeichnet (keine festen Eurobeträge als amtlich-final).
 
@@ -1584,7 +1584,7 @@ Allgemein-übliche deutsche Familiennamen, die zufällig auch politisch oder med
 
 ## Schwerpunkt
 
-Nach dem extern eingespielten v251-Stand wurden die Skills nochmals auf Qualität, Kürze und Lesbarkeit geprüft. Entfernt wurden vor allem generische Beschreibungsschwänze, alte Konsolidierungs-Übersichtstabellen und interne Referenz-/Routingreste, die für Nutzerinnen und Nutzer in Claude/Cowork keinen Mehrwert hatten. Fachliche Inhalte, Normanker, Rechtsprechungshinweise und Arbeitsprodukte bleiben erhalten.
+Nach dem extern eingespielten v251-Stand wurden die Skills nochmals auf Qualität, Kürze und Lesbarkeit geprüft. Entfernt wurden vor allem generische Beschreibungsschwänze, alte Konsolidierungs-Übersichtstabellen und interne Referenz-/Routingreste, die für Nutzer in Claude/Cowork keinen Mehrwert hatten. Fachliche Inhalte, Normanker, Rechtsprechungshinweise und Arbeitsprodukte bleiben erhalten.
 
 ## Änderungen
 
@@ -2936,7 +2936,7 @@ User-Wunsch: Im Word-Writing-Plugin sollen Skills raus, die nach Makros, Office-
 
 # v50.8.0 — Word Legal AI: Kaltstart, Kanzleistil, Word-Finish und US/UK-Drafting
 
-Nachlauf zum umbenannten Word-Plugin: Der neue Slug `word-legal-ai-plugin-and-skill-for-german-lawyers` bleibt bestehen, das Plugin wurde aber vom reinen Drafting-Baukasten zu einem geführten Schreibworkflow für deutsche Anwältinnen und Anwälte ausgebaut.
+Nachlauf zum umbenannten Word-Plugin: Der neue Slug `word-legal-ai-plugin-and-skill-for-german-lawyers` bleibt bestehen, das Plugin wurde aber vom reinen Drafting-Baukasten zu einem geführten Schreibworkflow für deutsche Anwälte ausgebaut.
 
 ## Workflow
 
@@ -3017,7 +3017,7 @@ Validatoren: `validate-plugin-structure`, `validate-testakten-gesamt-pdf`, `vali
 
 # v50.6.0 — `juristisches-drafting` genialer: Defensive Drafting, Term Sheet, Bilingual, Klauselbibliothek
 
-User-Wunsch: Das Plugin `juristisches-drafting` ist solide, aber spartanisch. Es soll genialer werden für Juristinnen und Juristen, die in Word schreiben. Vier zentrale Lücken wurden geschlossen: fehlende fertige Klauselbausteine, keine defensive Verteidigungs-Heuristik bei Gegenseitenentwürfen, kein Term-Sheet-zu-Vertrag-Workflow und keine bilinguale Drafting-Anleitung.
+User-Wunsch: Das Plugin `juristisches-drafting` ist solide, aber spartanisch. Es soll genialer werden für Juristen, die in Word schreiben. Vier zentrale Lücken wurden geschlossen: fehlende fertige Klauselbausteine, keine defensive Verteidigungs-Heuristik bei Gegenseitenentwürfen, kein Term-Sheet-zu-Vertrag-Workflow und keine bilinguale Drafting-Anleitung.
 
 ## Vier neue Skills im Plugin `juristisches-drafting`
 
@@ -3837,7 +3837,7 @@ Sechs Codex-Review-Findings aus dem v35-PR systematisch behoben:
 # v19.0.0 — KI-VO-Härtung, BVG-Abschleppakte und Release-Stand
 
 - `ki-vo-ai-act-pruefer` vertieft Art. 3 Nr. 1 KI-VO mit einem dokumentierbaren KI-System-Vermerk zu Automation, Autonomie, Adaptivität, Inferenz, Output und Umgebungseinfluss.
-- Art. 6 Abs. 2 i.V.m. Anhang III ist neu aufgebaut: alle acht Bereiche mit Untertatbeständen, Zweckbestimmung, allgemeiner Chatbot/GPAI-Abgrenzung und Mitarbeitenden-Fehlgebrauch.
+- Art. 6 Abs. 2 i.V.m. Anhang III ist neu aufgebaut: alle acht Bereiche mit Untertatbeständen, Zweckbestimmung, allgemeiner Chatbot/GPAI-Abgrenzung und Mitarbeitern-Fehlgebrauch.
 - Allgemeine Chatbots/GPAI werden ausdrücklich nicht automatisch als Hochrisiko behandelt; maßgeblich sind Anbieter-Zweckbestimmung, Betreiberzweck und tatsächliche Integration in Anhang-III-Prozesse.
 - Art. 6 Abs. 3 wurde mit Profiling-Sperre, vier Fallgruppen, Grundrechtsrisiko und Art.-6-Abs.-4-Dokumentation geschärft.
 - Normen-/Standards-Skill trennt harmonisierte Normen, gemeinsame Spezifikationen, GPAI Code of Practice und ISO/IEC-Standards ohne falsche Vermutungswirkung.

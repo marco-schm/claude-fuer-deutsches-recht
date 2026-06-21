@@ -201,7 +201,7 @@ Wandlungspreis = MIN(A; B; C). Anzahl neue Geschäftsanteile = Wandlungssumme / 
 
 8.2  Eine Offenlegung ist – im erforderlichen Umfang – zulässig gegenüber:
 
-(a)  Mitarbeitenden und Beraterinnen/Beratern der jeweiligen Partei, die einer entsprechenden Vertraulichkeitsverpflichtung unterliegen;
+(a)  Mitarbeitern und Beraterinnen/Beratern der jeweiligen Partei, die einer entsprechenden Vertraulichkeitsverpflichtung unterliegen;
 
 (b)  verbundenen Unternehmen sowie deren Geschäftsleitungen und Organmitgliedern;
 

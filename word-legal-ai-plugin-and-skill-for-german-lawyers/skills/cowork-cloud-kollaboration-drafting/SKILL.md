@@ -30,7 +30,7 @@ Mandantengeheimnis-konformes Drafting in der Cloud (Claude Cowork; Office 365; G
 - § 43a Abs. 2 BRAO: Verschwiegenheitspflicht der Anwältin und des Anwalts.
 - § 203 Abs. 1 Nr. 3 StGB: Strafbarkeit der Verletzung von Privatgeheimnissen.
 - § 203 Abs. 3 und Abs. 4 StGB: Mitwirkende Personen und externe Dienstleister; Voraussetzungen der zulässigen Einbindung.
-- § 26 BORA: Sorgfalt bei Mitarbeiterinnen und Mitarbeitern sowie Dritten.
+- § 26 BORA: Sorgfalt bei Mitarbeitern sowie Dritten.
 - Art. 5 DSGVO: Grundsätze (Rechtmäßigkeit, Zweckbindung, Datenminimierung, Integrität und Vertraulichkeit).
 - Art. 28 DSGVO: Auftragsverarbeitung; schriftlicher Vertrag mit allen Pflichtinhalten erforderlich.
 - Art. 32 DSGVO: Sicherheit der Verarbeitung (Pseudonymisierung; Verschlüsselung; Belastbarkeit; Wiederherstellbarkeit; regelmäßige Überprüfung).

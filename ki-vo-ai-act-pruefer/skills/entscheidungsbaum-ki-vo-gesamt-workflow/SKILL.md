@@ -79,7 +79,7 @@ Pflichtfragen:
 - Geht es um Bewertung, Zugang, Ranking, Entscheidung, Priorisierung, Risiko, Rechtsanwendung oder Überwachung?
 - Ist der Einsatz ausdrücklich intendiert, technisch angelegt, organisatorisch geduldet oder nur theoretisch möglich?
 - Ist ein allgemeiner Chatbot/GPAI-System nur Hilfsmittel oder in einen sensiblen Entscheidungsprozess eingebettet?
-- Wie werden Mitarbeitenden-Fehlgebrauch und Zweckabweichung verhindert?
+- Wie werden Mitarbeitern-Fehlgebrauch und Zweckabweichung verhindert?
 
 ## Schritt 7 — Rückausnahme Art. 6 Abs. 3
 
@@ -129,7 +129,7 @@ Das Enddokument muss enthalten:
 - Anhang-III-Matrix
 - Art. 6 Abs. 3-Bewertung
 - Rollen und Pflichten
-- Off-label-/Mitarbeitenden-Nutzungsplan
+- Off-label-/Mitarbeitern-Nutzungsplan
 - Standards-/Normenhinweis
 - offene Tatsachen und Re-Evaluation-Trigger
 

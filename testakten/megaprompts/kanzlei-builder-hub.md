@@ -26,7 +26,7 @@ Dieser Megaprompt enthaelt top-15 von 59 Skills des Plugins `kanzlei-builder-hub
 
 ## Skill: `einstieg-routing`
 
-_Einstieg, Triage und Routing für Kanzlei-Builder-Hub (Plugins/Skills): ordnet Rolle (Kanzleiinhaber, IT-Verantwortlicher, Mitarbeitende), markiert Frist (keine harten Fristen), wählt Norm (BRAO § 43e KI-Einsatz, DSGVO, KI-VO) und Zuständigkeit (RAK), leitet zum passenden Spezial-Skill._
+_Einstieg, Triage und Routing für Kanzlei-Builder-Hub (Plugins/Skills): ordnet Rolle (Kanzleiinhaber, IT-Verantwortlicher, Mitarbeiter), markiert Frist (keine harten Fristen), wählt Norm (BRAO § 43e KI-Einsatz, DSGVO, KI-VO) und Zuständigkeit (RAK), leitet zum passenden Spezial-Skill._
 
 # Einstieg und Routing
 

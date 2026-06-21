@@ -253,7 +253,7 @@ Rechtsanwalt/Rechtsanwältin [Name]
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Häusliche Gewalt schließt Mediation aus" | Antragsgegner/in | Prüfung nach § 1666 BGB; bei konkreter Gefährdung Ausschluss der ADR; bis zur Klärung Schutzanordnung GewSchG |
 | "Cochemer Modell ist nicht gesetzlich verankert" | Gegenanwalt | § 156 FamFG iVm kommunalen Netzwerkvereinbarungen; praktizierende Gerichte in fast allen Bundesländern; keine Gesetzesbindung nötig |
-| "Mediationsergebnis ist nicht vollstreckbar" | Mandant/in | Protokollierung nach § 127a BGB schafft Vollstreckungstitel; alternativ gerichtlicher Beschluss nach § 86 FamFG |
+| "Mediationsergebnis ist nicht vollstreckbar" | Mandant | Protokollierung nach § 127a BGB schafft Vollstreckungstitel; alternativ gerichtlicher Beschluss nach § 86 FamFG |
 | "Verfahrensbeistand ist parteiisch für Mutter/Vater" | Elternteil | § 158 FamFG: Auftrag allein dem Kindeswohl; Qualifikation nach § 158a FamFG; Beschwerde bei nachgewiesener Einseitigkeit |
 
 ## Streitwert und Kosten

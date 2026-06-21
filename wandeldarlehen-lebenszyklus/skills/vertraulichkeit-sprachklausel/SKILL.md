@@ -37,7 +37,7 @@ description: "Vertraulichkeits- und Sprachklauseln in Wandeldarlehensvertrag prÃ
 
 ### 1. Vertraulichkeitsklausel formulieren
 Alle Informationen im Zusammenhang mit dem Vertrag (Existenz, Inhalt, Verhandlungen) streng vertraulich. Ausnahmen (erforderlicher Umfang):
-a) Mitarbeitende und Beraterinnen mit Verschwiegenheitspflicht (auch Berufsgeheimnis)
+a) Mitarbeiter und Beraterinnen mit Verschwiegenheitspflicht (auch Berufsgeheimnis)
 b) Verbundene Unternehmen und deren Organe
 c) Potenzielle Investoren (Folge-Pitches) nach Unterzeichnung einer marktÃ¼blichen NDA
 d) Banken und Finanzierungspartner

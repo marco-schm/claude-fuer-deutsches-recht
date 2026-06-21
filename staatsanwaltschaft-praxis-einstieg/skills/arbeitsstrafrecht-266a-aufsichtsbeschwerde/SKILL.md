@@ -1,6 +1,6 @@
 ---
 name: arbeitsstrafrecht-266a-aufsichtsbeschwerde
-description: "Arbeitsstrafrecht: § 266a StGB, MiLoG und Scheinselbständigkeit: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis."
+description: "Arbeitsstrafrecht: § 266a StGB, MiLoG und Scheinselbständigkeit: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis."
 ---
 
 # Arbeitsstrafrecht: § 266a StGB, MiLoG und Scheinselbständigkeit

@@ -123,7 +123,7 @@ Es wird beantragt:
 ## Hinweise für die Kanzlei (intern)
 
 - Dieser Schriftsatz ist ein **Notfallformular** und wurde aufbereitet, obwohl tatsächlich rechtzeitig Einspruch eingelegt wurde (am 20.05.2026).
-- Er dient der Lernakte: Studierende/Praktikanten sollen verstehen, wie ein Wiedereinsetzungsantrag nach § 44 StPO aufgebaut ist.
+- Er dient der Lernakte: Studenten/Praktikanten sollen verstehen, wie ein Wiedereinsetzungsantrag nach § 44 StPO aufgebaut ist.
 - **Wichtig:** Auf Variante A, B oder C ist in der konkreten Mandatssituation dezidiert einzugehen. Eine Wiedereinsetzung ohne konkretes, glaubhaft gemachtes Hindernis wird abgelehnt.
 - Rechtsprechungshinweise: BGH NStZ 2017, 418; OLG Köln, Beschluss vom 22.08.2018, 1 RVs 181/18; BVerfG NJW 2004, 2887 (Sorgfaltspflicht Rechtsanwalt vs. Mandant).
 - Das Verschulden des Verteidigers wird dem Mandanten zugerechnet (§ 85 Abs. 2 ZPO analog; st. Rspr.). Wenn die Frist durch Anwaltsfehler versäumt wurde, ist eine Wiedereinsetzung deutlich schwieriger. Dann greift ggf. Regresshaftung.

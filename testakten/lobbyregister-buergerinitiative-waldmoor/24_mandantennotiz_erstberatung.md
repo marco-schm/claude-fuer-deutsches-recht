@@ -38,7 +38,7 @@ RAin Stern weist hin auf:
 ## Mandantenanliegen
 
 - Luise: Klare Empfehlung, ob Pflicht oder freiwillig. Antwort vor der Anhörung.
-- Navid: Sicherheit beim Telefonieren mit BMDV-Mitarbeitenden. Schulung gewünscht.
+- Navid: Sicherheit beim Telefonieren mit BMDV-Mitarbeitern. Schulung gewünscht.
 - Greta: Spenderdatenschutz und Klarheit, was an die Presse darf.
 
 ## Verteilung der Aufgaben

@@ -15,7 +15,7 @@ description: "Unterstützt beim Verfassen und Prüfen von UWG-Abmahnungen nach �
 
 ## Zweck
 
-Unterstützt Rechtsanwält:innen bei der Ausarbeitung einer wettbewerbsrechtlichen
+Unterstützt Rechtsanwälte bei der Ausarbeitung einer wettbewerbsrechtlichen
 Abmahnung nach § 13 UWG, der Formulierung einer modifizierten Unterlassungserklärung (sog.
 "Hamburger Brauch") und der Erstellung einer Schutzschrift gegen eine drohende einstweilige
 Verfügung. Anwendungsfelder sind Verstöße gegen §§ 3 ff. UWG (irreführende Werbung,

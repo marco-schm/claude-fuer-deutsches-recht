@@ -73,9 +73,9 @@ Beispiele:
 
 Dann weiter zu `hochrisiko-art-6-abs-2-anhang-iii`.
 
-### Mitarbeitende nutzen Chatbot entgegen Zweckbestimmung
+### Mitarbeiter nutzen Chatbot entgegen Zweckbestimmung
 
-Wenn Mitarbeitende ein allgemeines Tool zweckwidrig für Hochrisiko-Fragen nutzen:
+Wenn Mitarbeiter ein allgemeines Tool zweckwidrig für Hochrisiko-Fragen nutzen:
 
 - **Isolierter Regelverstoß trotz klarer Richtlinie und Kontrollen:** als Compliance-Vorfall behandeln; nicht automatisch Hochrisiko-Einstufung des gesamten Tools.
 - **Systematische oder geduldete Praxis:** tatsächlicher Betreiberzweck kann Hochrisiko-Einsatz begründen.
@@ -96,7 +96,7 @@ Wenn Mitarbeitende ein allgemeines Tool zweckwidrig für Hochrisiko-Fragen nutze
 - **GPAI-Modell bestätigt:** `gpai-modelle-art-51-bis-55`; ggf. `gpai-systemisches-risiko-schwelle-10e25-flop`.
 - **Allgemeiner Chatbot/GPAI-System:** `begrenztes-risiko-art-50-transparenzpflichten`, zusätzlich Datenschutz/Geheimnisschutz prüfen.
 - **Einsatz in Anhang-III-Kontext:** `hochrisiko-art-6-abs-2-anhang-iii`, danach `rueckausnahme-art-6-abs-3`.
-- **Zweckwidrige Mitarbeitenden-Nutzung:** `betreiber-deployer-pflichten-art-26`, `anbieter-werden-art-25`, `output-pruefdokument-ki-vo-mit-warnhinweisen`.
+- **Zweckwidrige Mitarbeitern-Nutzung:** `betreiber-deployer-pflichten-art-26`, `anbieter-werden-art-25`, `output-pruefdokument-ki-vo-mit-warnhinweisen`.
 
 ## Output-Template — GPAI-/Chatbot-Einordnung
 
@@ -124,7 +124,7 @@ System / Modell / Dienst: [NAME]
 [Nicht automatisch Hochrisiko / Anhang-III-Prüfung erforderlich / Hochrisiko naheliegend]
 [Begründung mit konkretem Zweck]
 
-6. Off-label-/Mitarbeitenden-Nutzung
+6. Off-label-/Mitarbeitern-Nutzung
 [Risiko, Kontrollen, Governance-Maßnahmen, Re-Evaluation]
 
 7. Folge-Skills

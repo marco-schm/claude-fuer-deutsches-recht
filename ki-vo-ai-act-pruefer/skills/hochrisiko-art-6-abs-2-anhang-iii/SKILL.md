@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-art-6-abs-2-anhang-iii
-description: "Vertiefter Hochrisiko-Checker für Art. 6 Abs. 2 i.V.m. Anhang III KI-VO. Prüft alle acht Anhang-III-Bereiche mit Untertatbestaenden, Zweckbestimmung, konkretem Einsatzkontext, GPAI/Chatbot-Abgrenzung und Mitarbeitenden-Fehlgebrauch. Erklaert, warum ein allgemeiner Chatbot nicht automatisch Hochr"
+description: "Vertiefter Hochrisiko-Checker für Art. 6 Abs. 2 i.V.m. Anhang III KI-VO. Prüft alle acht Anhang-III-Bereiche mit Untertatbestaenden, Zweckbestimmung, konkretem Einsatzkontext, GPAI/Chatbot-Abgrenzung und Mitarbeitern-Fehlgebrauch. Erklaert, warum ein allgemeiner Chatbot nicht automatisch Hochr"
 ---
 
 # Hochrisiko-KI nach Art. 6 Abs. 2 i.V.m. Anhang III KI-VO
@@ -36,7 +36,7 @@ Prüfe deshalb:
 
 - **Allgemeiner Assistent:** Textgenerierung, Recherche, Zusammenfassung, Übersetzung, Entwurfshilfe ohne Einsatz zur Entscheidung über natürliche Personen: regelmäßig nicht allein Hochrisiko; Art. 50 und ggf. GPAI-Pflichten prüfen.
 - **Fachlich eingebetteter Assistent:** LLM wird in Recruiting, Kredit, Bildung, Justiz, Notfalltriage, Migration oder Strafverfolgung integriert: Anhang III konkret prüfen.
-- **Nur theoretische Möglichkeit:** Mitarbeitende könnten ChatGPT missbrauchen, aber Zweck, Richtlinie, technische Sperren und Schulungen schließen dies aus: kein automatisches Hochrisiko, aber dokumentierte Governance nötig.
+- **Nur theoretische Möglichkeit:** Mitarbeiter könnten ChatGPT missbrauchen, aber Zweck, Richtlinie, technische Sperren und Schulungen schließen dies aus: kein automatisches Hochrisiko, aber dokumentierte Governance nötig.
 - **Geduldeter oder funktional angelegter Hochrisiko-Einsatz:** Tool wird trotz allgemeiner Bezeichnung faktisch für Bewerberranking, Leistungsbewertung, Kreditwürdigkeit, Rechtsanwendung usw. genutzt: Hochrisiko sehr naheliegend.
 - **Zweckänderung oder wesentliche Änderung:** Betreiber, Importeur oder Händler kann nach Art. 25 KI-VO Anbieterpflichten auslösen; zusätzlich `anbieter-werden-art-25`.
 
@@ -79,7 +79,7 @@ Hochrisiko-Tatbestände:
 - Überwachung und Erkennung verbotenen Verhaltens bei Prüfungen
 
 Prüffragen:
-- Bewertet das System Schüler, Studierende, Prüflinge oder Bewerber?
+- Bewertet das System Schüler, Studenten, Prüflinge oder Bewerber?
 - Fließt die Ausgabe in Zulassung, Einstufung, Noten, Lernpfad, Prüfungsüberwachung oder Sanktion ein?
 - Ist der Output nur redaktionelle Hilfe oder tatsächlicher Bewertungs-/Steuerungsfaktor?
 
@@ -169,7 +169,7 @@ Beispiel: Unternehmen nutzt ChatGPT-ähnliches System systematisch zur Bewertung
 
 Ergebnis: Der konkrete Einsatz kann Hochrisiko sein, auch wenn das Basismodell/allgemeine System nicht als Hochrisiko vermarktet wird. Betreiberpflichten und ggf. Anbieterwerden nach Art. 25 prüfen.
 
-### Fallgruppe C — Mitarbeitende handeln entgegen Zweckbestimmung
+### Fallgruppe C — Mitarbeiter handeln entgegen Zweckbestimmung
 
 Prüfe:
 - Gibt es klare KI-Richtlinie, Schulung nach Art. 4, Sperren, Rollenrechte, Logging und Kontrollen?

@@ -715,7 +715,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Skill: `unterhaltsberechnung-megaprompt`
 
-_Megaprompt fuer die vollstaendige Unterhaltsberechnung im deutschen Familienrecht. Deckt alle Unterhaltsarten in einem Skill ab: Kindesunterhalt nach Duesseldorfer Tabelle (Altersstufen, Einkommensgruppen, Mindestunterhalt 1612a, Kindergeldanrechnung 1612b, Mangelfall und Verteilung, Volljaehrigen- und Studierendenunterhalt, Mehr- und Sonderbedarf), Trennungsunterhalt 1361 BGB (Bedarf nach den ehelichen Lebensverhaeltnissen, Quoten- und Differenzmethode, Erwerbstaetigenbonus, Vorsorgeunterhalt) und nachehelichen Unterhalt (Betreuung 1570, Alter 1571, Krankheit 1572, Erwerbslosigkeit und Aufstockung 1573, Ausbildung 1575, Billigkeit 1576, Befristung 1578b, Verwirkung 1579). Mit Einkommensbereinigung auch fuer Selbststaendige, Rangfolge 1609 BGB, Selbstbehalt und Durchsetzung ueber Auskunft 1605, Stufenklage und Verzug 1613. Vollstaendiger Rechenweg mit ausformuliertem Ergebnis; Tabellenwerte und Rechtsprechung vor Verwendung an amtlicher Quelle verifizieren._
+_Megaprompt fuer die vollstaendige Unterhaltsberechnung im deutschen Familienrecht. Deckt alle Unterhaltsarten in einem Skill ab: Kindesunterhalt nach Duesseldorfer Tabelle (Altersstufen, Einkommensgruppen, Mindestunterhalt 1612a, Kindergeldanrechnung 1612b, Mangelfall und Verteilung, Volljaehrigen- und Studentennunterhalt, Mehr- und Sonderbedarf), Trennungsunterhalt 1361 BGB (Bedarf nach den ehelichen Lebensverhaeltnissen, Quoten- und Differenzmethode, Erwerbstaetigenbonus, Vorsorgeunterhalt) und nachehelichen Unterhalt (Betreuung 1570, Alter 1571, Krankheit 1572, Erwerbslosigkeit und Aufstockung 1573, Ausbildung 1575, Billigkeit 1576, Befristung 1578b, Verwirkung 1579). Mit Einkommensbereinigung auch fuer Selbststaendige, Rangfolge 1609 BGB, Selbstbehalt und Durchsetzung ueber Auskunft 1605, Stufenklage und Verzug 1613. Vollstaendiger Rechenweg mit ausformuliertem Ergebnis; Tabellenwerte und Rechtsprechung vor Verwendung an amtlicher Quelle verifizieren._
 
 # Megaprompt: Unterhaltsberechnung im Familienrecht
 
@@ -820,13 +820,13 @@ Das Kindergeld wird beim minderjährigen Kind zur Hälfte auf den Barunterhalt a
 
 3. Beachte die Rangfolge des § 1609 BGB: minderjährige und privilegiert volljährige Kinder zuerst, dann betreuende oder langjährig verheiratete Ehegatten, dann weitere.
 
-#### 2.5 Volljährige und Studierende
+#### 2.5 Volljährige und Studenten
 
 1. Mit Volljährigkeit haften beide Elternteile anteilig nach ihren Einkommen (§ 1606 Abs. 3 Satz 1 BGB); das Kind macht den Anspruch selbst geltend, das volle Kindergeld wird angerechnet.
 
 2. Privilegiert volljährige Kinder (bis 21, im Haushalt eines Elternteils, allgemeine Schulausbildung) bleiben im ersten Rang (§ 1603 Abs. 2 Satz 2 BGB).
 
-3. Für Studierende mit eigenem Hausstand gilt regelmäßig ein pauschaler Gesamtbedarf (Betrag verifizieren); eigene Einkünfte und BAföG sind zu berücksichtigen.
+3. Für Studenten mit eigenem Hausstand gilt regelmäßig ein pauschaler Gesamtbedarf (Betrag verifizieren); eigene Einkünfte und BAföG sind zu berücksichtigen.
 
 #### 2.6 Mehr- und Sonderbedarf
 

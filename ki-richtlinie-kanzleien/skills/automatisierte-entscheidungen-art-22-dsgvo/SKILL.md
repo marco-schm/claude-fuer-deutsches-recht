@@ -40,7 +40,7 @@ Art. 22 Abs. 1 DSGVO: Betroffene haben das Recht, nicht einer ausschließlich au
 Kein KI-System trifft in der Kanzlei eine abschließende Entscheidung mit rechtlicher Wirkung oder erheblicher tatsächlicher Beeinträchtigung für eine natürliche Person. Alle von KI-Systemen erzeugten Empfehlungen, Einstufungen oder Bewertungen sind ausnahmslos von einer qualifizierten menschlichen Person zu überprüfen, zu bewerten und freizugeben. Dies gilt insbesondere für: Mandatszuordnungen, Honorarberechnungen, Bonitätsbewertungen von Mandanten sowie Personalentscheidungen.
 
 **Baustein Menschliche Überprüfung:**
-Mitarbeitende, die KI-generierte Ergebnisse für Entscheidungsprozesse nutzen, sind angewiesen, das KI-Ergebnis stets als Hilfsmittel — nicht als Entscheidung — zu behandeln. Die menschliche Überprüfung muss inhaltlich erfolgen; ein rein formales "Abnicken" des KI-Outputs ohne eigene Prüfung genügt nicht den Anforderungen des Art. 22 DSGVO.
+Mitarbeiter, die KI-generierte Ergebnisse für Entscheidungsprozesse nutzen, sind angewiesen, das KI-Ergebnis stets als Hilfsmittel — nicht als Entscheidung — zu behandeln. Die menschliche Überprüfung muss inhaltlich erfolgen; ein rein formales "Abnicken" des KI-Outputs ohne eigene Prüfung genügt nicht den Anforderungen des Art. 22 DSGVO.
 
 **Baustein Betroffenenrechte:**
 Sofern KI-Systeme an Entscheidungen mit Auswirkungen auf Mandanten oder Dritte beteiligt sind, informiert die Kanzlei betroffene Personen auf Anfrage über die Logik der Entscheidungsfindung sowie über das Recht, eine menschliche Überprüfung der Entscheidung zu verlangen (Art. 22 Abs. 3 DSGVO).

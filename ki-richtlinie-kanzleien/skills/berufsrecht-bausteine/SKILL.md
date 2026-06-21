@@ -58,7 +58,7 @@ Gemäß § 43 Satz 1 BRAO sind alle Rechtsanwältinnen und Rechtsanwälte zur ge
 Die Wahrung des Anwaltsgeheimnisses ist oberstes Gebot (§ 43a Abs. 2 BRAO, § 203 Abs. 1 Nr. 3 StGB). Die Zusammenarbeit mit KI-Dienstleistern als externe IT-Dienstleister ist nur unter den Voraussetzungen des § 43e BRAO zulässig. Mit jedem eingesetzten KI-Dienstleister ist eine schriftliche Vereinbarung nach § 43e BRAO abzuschließen, die den Dienstleister zur Verschwiegenheit verpflichtet und auf die strafrechtlichen Folgen eines Verstoßes nach § 203 StGB hinweist.
 
 **Baustein Prüfpflicht/Halluzinationen:**
-Alle von KI-Systemen generierten Fundstellen, Zitate und Rechtsangaben sind ausnahmslos auf ihre Existenz und ihren Inhalt hin zu überprüfen. Wer dies unterlässt, handelt pflichtwidrig nach § 43 BRAO und haftet für die Folgen. Ein "Grundvertrauen" wie bei erfahrenen Mitarbeitenden ist bei KI-generierten Arbeitsprodukten nicht angebracht (BRAK-Hinweise 12/2024; DAV-Stellungnahme 32/2025).
+Alle von KI-Systemen generierten Fundstellen, Zitate und Rechtsangaben sind ausnahmslos auf ihre Existenz und ihren Inhalt hin zu überprüfen. Wer dies unterlässt, handelt pflichtwidrig nach § 43 BRAO und haftet für die Folgen. Ein "Grundvertrauen" wie bei erfahrenen Mitarbeitern ist bei KI-generierten Arbeitsprodukten nicht angebracht (BRAK-Hinweise 12/2024; DAV-Stellungnahme 32/2025).
 
 --- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]

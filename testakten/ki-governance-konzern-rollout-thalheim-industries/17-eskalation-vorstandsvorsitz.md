@@ -22,7 +22,7 @@ wir berichten Ihnen über eine Verdichtung kritischer Risiken im KI-Governance-P
 
 Der Auditor Hagedorn & Partner hat am 28.02.2026 festgestellt:
 - Synaptec Analytics GmbH hat **keine dokumentierten Bias-Tests** geliefert. Nach 6 Wochen keine Reaktion auf unsere Mahnung vom 05.03.2026.
-- In **143 Fällen** wurden Bewerberinnen und Bewerber vollautomatisch abgelehnt — ohne HR-Bestätigung. Dies ist ein potenzieller Verstoß gegen Art. 22 DSGVO und Art. 14 KI-VO.
+- In **143 Fällen** wurden Bewerber vollautomatisch abgelehnt — ohne HR-Bestätigung. Dies ist ein potenzieller Verstoß gegen Art. 22 DSGVO und Art. 14 KI-VO.
 
 **Was bereits getan wurde:** Technische Sperre der automatischen Ablehnung ab 30.04.2026; paralleles Bias-Testing beauftragt; LfDI BW informiert.
 

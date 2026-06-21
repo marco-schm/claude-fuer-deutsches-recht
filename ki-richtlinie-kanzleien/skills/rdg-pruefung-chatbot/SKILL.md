@@ -15,7 +15,7 @@ description: "Rdg Prüfung Chatbot: ordnet Normen, Nutzerangaben, Fristen, Beleg
 
 ## Spezialwissen
 
-Die Frage, ob ein KI-Chatbot "Rechtsdienstleistungen" im Sinne des Rechtsdienstleistungsgesetzes (RDG) erbringt, ist für Kanzleien in mehrfacher Hinsicht relevant: für die eigene Nutzung durch anwaltliche und nicht-anwaltliche Mitarbeitende sowie für die Beratung von Mandanten, die KI-gestützte Rechtsservices anbieten oder nutzen.
+Die Frage, ob ein KI-Chatbot "Rechtsdienstleistungen" im Sinne des Rechtsdienstleistungsgesetzes (RDG) erbringt, ist für Kanzleien in mehrfacher Hinsicht relevant: für die eigene Nutzung durch anwaltliche und nicht-anwaltliche Mitarbeiter sowie für die Beratung von Mandanten, die KI-gestützte Rechtsservices anbieten oder nutzen.
 
 ## Rechtlicher Hintergrund
 
@@ -32,8 +32,8 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 
 ## Vorlagentext / Bausteine
 
-**Baustein RDG-Abgrenzung für Mitarbeitende:**
-Mitarbeitende ohne Rechtsanwaltszulassung dürfen KI-generierten Output zu rechtlichen Fragen nicht als Rechtsberatung an Mandanten oder sonstige Dritte weitergeben. Die unkritische Weitergabe von KI-generierten Rechtsaussagen an Dritte ohne anwaltliche Prüfung und Freigabe kann als unerlaubte Rechtsdienstleistung nach § 3 RDG qualifizieren. Dies gilt ungeachtet etwaiger Disclaimer des KI-Anbieters.
+**Baustein RDG-Abgrenzung für Mitarbeiter:**
+Mitarbeiter ohne Rechtsanwaltszulassung dürfen KI-generierten Output zu rechtlichen Fragen nicht als Rechtsberatung an Mandanten oder sonstige Dritte weitergeben. Die unkritische Weitergabe von KI-generierten Rechtsaussagen an Dritte ohne anwaltliche Prüfung und Freigabe kann als unerlaubte Rechtsdienstleistung nach § 3 RDG qualifizieren. Dies gilt ungeachtet etwaiger Disclaimer des KI-Anbieters.
 
 **Baustein RDG-Konformität bei anwaltlicher Nutzung:**
 Rechtsanwältinnen und Rechtsanwälte, die KI-Systeme als Hilfsmittel zur Erstellung von Schriftsätzen, Gutachten oder Beratungsschreiben nutzen und das Ergebnis eigenverantwortlich prüfen und freigeben, verstoßen nicht gegen das RDG. Die Rechtsdienstleistung erbringt in diesem Fall der Anwalt — der Chatbot ist lediglich ein unterstützendes Werkzeug.

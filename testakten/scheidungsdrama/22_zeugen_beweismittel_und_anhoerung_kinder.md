@@ -39,7 +39,7 @@ Das Verfahren hat mehrere parallele Beweisfelder:
 
 | Name | Zu welchem Thema |
 |---|---|
-| Mitarbeitende Holzwerkstätten | Franz' Arbeitsfähigkeit, Auftreten im Betrieb |
+| Mitarbeiter Holzwerkstätten | Franz' Arbeitsfähigkeit, Auftreten im Betrieb |
 | Bekannte / Freunde | Charakterbild, Verhältnis zu Kindern |
 
 ---

@@ -14,7 +14,7 @@ Dieser Skill führt nicht schematisch durch Mitarbeiteraktien und ESOP, sondern 
 
 - Planmechanik und Handelsfenster erfassen.
 - Insiderwissen im Teilnehmerkreis prüfen.
-- Kommunikation an Mitarbeitende klar begrenzen.
+- Kommunikation an Mitarbeiter klar begrenzen.
 
 ## Red-Team-Fragen
 

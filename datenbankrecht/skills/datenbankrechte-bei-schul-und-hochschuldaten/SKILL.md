@@ -1,6 +1,6 @@
 ---
 name: datenbankrechte-bei-schul-und-hochschuldaten
-description: "Datenbankrecht für Bildungsdatenbanken: §§ 87a-87e UrhG für Lehrmaterialdatenbanken und Hochschularchive, Schranken nach § 60a UrhG (Bildung und Unterricht), Herstellerrecht bei Lernmanagementsystemen und DSGVO-Anforderungen für Schüler- und Studierendendaten. Erstellt Lizenzkonzept und Complianc..."
+description: "Datenbankrecht für Bildungsdatenbanken: §§ 87a-87e UrhG für Lehrmaterialdatenbanken und Hochschularchive, Schranken nach § 60a UrhG (Bildung und Unterricht), Herstellerrecht bei Lernmanagementsystemen und DSGVO-Anforderungen für Schüler- und Studentenndaten. Erstellt Lizenzkonzept und Complianc..."
 ---
 
 # Datenbankrechte bei Schul- und Hochschuldaten — Bildungseinrichtungen
@@ -25,7 +25,7 @@ description: "Datenbankrecht für Bildungsdatenbanken: §§ 87a-87e UrhG für Le
 2. Lehrkraft vs. Einrichtung als Hersteller: Hat die Lehrkraft das Material selbst erstellt (Urheberrecht verbleibt bei ihr) oder hat die Einrichtung investiert?
 3. Bildungsschranke § 60a UrhG: Vervielfältigung und Bereitstellung für Unterricht und Forschung in gebotenem Umfang — gilt auch für Datenbankentnahmen (§ 87c UrhG i.V.m. § 60a UrhG)?
 4. LMS-Inhaberschaft klären: Hat der LMS-Betreiber Herstellerrecht an der Gesamtdatenbank, oder nur Infrastrukturrecht?
-5. DSGVO für Lernerdaten: Schüler- und Studierendendaten in Lernmanagementsystemen sind personenbezogen — besonders schützenswert bei Minderjährigen (§ 8 DSGVO).
+5. DSGVO für Lernerdaten: Schüler- und Studentenndaten in Lernmanagementsystemen sind personenbezogen — besonders schützenswert bei Minderjährigen (§ 8 DSGVO).
 6. Lizenzmodell für EdTech-Nutzung: Welche Rechte kann die Hochschule lizenzieren — Herstellerrecht, Urheberrecht an Inhalten, Datenbankzugang?
 
 ## Rechtsrahmen
@@ -35,7 +35,7 @@ description: "Datenbankrecht für Bildungsdatenbanken: §§ 87a-87e UrhG für Le
 - § 87c UrhG: Erlaubte Handlungen — Verweis auf § 60a UrhG als Schranke auch gegenüber Herstellerrecht.
 - § 43 UrhG: Arbeitnehmerurheberrecht — Herstellerrecht der Einrichtung bei Arbeitnehmer-Erstellungen im Dienst.
 - DSGVO Art. 8: Einwilligung Minderjähriger — ab 16 Jahren selbstständig (in DE ggf. ab 14 nach § 8 Abs. 1 DSGVO-Öffnungsklausel).
-- § 60a Abs. 1 UrhG: Unterrichtsschranke — bis 15 % eines Werks, für Lehrende und Lernende der Einrichtung.
+- § 60a Abs. 1 UrhG: Unterrichtsschranke — bis 15 % eines Werks, für Lehrer und Lernende der Einrichtung.
 
 ## Prüfraster
 
@@ -43,14 +43,14 @@ description: "Datenbankrecht für Bildungsdatenbanken: §§ 87a-87e UrhG für Le
 - Wer ist Urheber oder Hersteller — Einrichtung, Lehrkraft oder beide (§§ 8 / 43 UrhG)?
 - Greift § 60a UrhG als Schranke gegenüber dem Verlagsherstellerrecht oder der Einrichtungs-Datenbank?
 - Hat der LMS-Betreiber Herstellerrecht an der Gesamtdatenbank oder nur Infrastrukturrecht?
-- Sind Schüler- und Studierendendaten (Lernfortschritte, Noten, Anwesenheit) in der Datenbank — welche DSGVO-Anforderungen gelten?
+- Sind Schüler- und Studentenndaten (Lernfortschritte, Noten, Anwesenheit) in der Datenbank — welche DSGVO-Anforderungen gelten?
 - Ist die EdTech-Lizenzierung mit dem Hochschulrecht und staatlichen Förderungsbedingungen vereinbar?
 - Besteht ein Open-Access-Mandat für Forschungsdaten der Hochschule (DFG, BMBF)?
 
 ## Typische Fallstricke
 
 - Lehrmaterialien, die Lehrkräfte im Dienst erstellen, können Herstellerrecht der Einrichtung begründen — persönliches Urheberrecht der Lehrkraft bleibt aber bestehen.
-- § 60a UrhG-Schranke gilt nur für Lehrende und Lernende der eigenen Einrichtung, nicht für externe Plattformen.
+- § 60a UrhG-Schranke gilt nur für Lehrer und Lernende der eigenen Einrichtung, nicht für externe Plattformen.
 - LMS-Datenbankrecht des Betreibers schließt nicht das Urheberrecht der hochladenden Lehrkraft aus — differenzierte Klärung nötig.
 - Minderjährigen-DSGVO-Anforderungen werden in EdTech-AGB häufig unzureichend berücksichtigt.
 - Open-Access-Pflichten für geförderte Forschungsdaten kollidieren manchmal mit Verlagslizenzen — Prüfung der Förderbedingungen nötig.

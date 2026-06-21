@@ -46,7 +46,7 @@ Eine rechtshistorische Timeline stellt die Entwicklung eines Rechtsproblems, Rec
 - **Rechtswissenschaft und Didaktik**: Haupt-Nutzer historischer Timelines
 - **Justiz und Verwaltung**: Timelines für Normhistorie in Bescheiden
 - **Rechtsanwaelte**: Timelines für Fallfuehrung mit historischem Hintergrund
-- **Lehrende**: Timelines für Unterricht und Vorlesung
+- **Lehrer**: Timelines für Unterricht und Vorlesung
 
 ## Typische Streitfragen / Forschungsfragen
 

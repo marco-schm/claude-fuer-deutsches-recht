@@ -28,7 +28,7 @@ Der urheberrechtliche Status von KI-generierten Inhalten und die Frage, welche T
 ## Vorlagentext / Bausteine
 
 **Baustein Urheberrecht KI-Output:**
-Der durch KI-Systeme generierte Text stellt in der Regel keine persönliche geistige Schöpfung im Sinne des § 2 Abs. 2 UrhG dar und ist damit urheberrechtlich nicht geschützt. Mitarbeitende sollten sich nicht darauf verlassen, dass KI-generierte Inhalte allein deshalb frei von Drittrechten sind — das KI-System kann urheberrechtlich geschütztes Material aus seinem Training reproduzieren. Jeder extern verwendete KI-generierte Text ist daher auf mögliche Rechtsverletzungen zu prüfen.
+Der durch KI-Systeme generierte Text stellt in der Regel keine persönliche geistige Schöpfung im Sinne des § 2 Abs. 2 UrhG dar und ist damit urheberrechtlich nicht geschützt. Mitarbeiter sollten sich nicht darauf verlassen, dass KI-generierte Inhalte allein deshalb frei von Drittrechten sind — das KI-System kann urheberrechtlich geschütztes Material aus seinem Training reproduzieren. Jeder extern verwendete KI-generierte Text ist daher auf mögliche Rechtsverletzungen zu prüfen.
 
 **Baustein Upload-Beschränkungen:**
 In KI-Systeme dürfen nur solche Texte und Dokumente hochgeladen werden, für die die Kanzlei über die erforderlichen Nutzungsrechte verfügt. Juristische Kommentare, Fachaufsätze und Datenbankexporte unterliegen regelmäßig Urheberrechtsschutz und Lizenzklauseln. Amtliche Werke nach § 5 UrhG (Gesetzestexte, Verordnungen, Gerichtsentscheidungen auf offiziellen Portalen) sind gemeinfrei und dürfen uneingeschränkt genutzt werden.

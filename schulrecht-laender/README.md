@@ -22,7 +22,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-Dieses Plugin ist der landesrechtliche Schulrechts-Kompass für Eltern, Schülerinnen und Schüler, Schulen, Schulträger, Behörden und Anwälte. Es beginnt immer mit Bundesland, Schulart, Entscheidung und Frist und führt dann in einen brauchbaren nächsten Schritt.
+Dieses Plugin ist der landesrechtliche Schulrechts-Kompass für Eltern, Schüler, Schulen, Schulträger, Behörden und Anwälte. Es beginnt immer mit Bundesland, Schulart, Entscheidung und Frist und führt dann in einen brauchbaren nächsten Schritt.
 
 ## Wofür dieses Plugin da ist
 

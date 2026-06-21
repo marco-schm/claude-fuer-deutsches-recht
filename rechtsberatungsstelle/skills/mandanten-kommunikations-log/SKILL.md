@@ -29,7 +29,7 @@ description: "Mandantenkommunikation dokumentieren und Kommunikations-Log führe
 
 Lückenlose Dokumentation aller Kontakte in einem Mandat ist aus mehreren Gründen unverzichtbar:
 
-1. **Semesterübergabe:** Nachfolgende Studierende müssen den Stand des Mandats vollständig nachvollziehen können (`/rechtsberatungsstelle:semester-übergabe`).
+1. **Semesterübergabe:** Nachfolgende Studenten müssen den Stand des Mandats vollständig nachvollziehen können (`/rechtsberatungsstelle:semester-übergabe`).
 2. **Haftungssicherung:** Im Streitfall muss nachgewiesen werden können, wann welche Mitteilung erging (§ 127 BGB analog für Fristwahrung).
 3. **Qualitätssicherung:** Der anleitende Volljurist prüft, ob der Mandant korrekt informiert und keine unzulässige Rechtsberatung erteilt wurde.
 4. **Verschwiegenheit:** Das Logbuch enthält personenbezogene Daten und fällt unter § 43a Abs. 2 BRAO (Anleiter), § 203 StGB (alle Beteiligten), DSGVO Art. 5, 9. Kein Zugang für Dritte ohne Freigabe.
@@ -49,7 +49,7 @@ Lückenlose Dokumentation aller Kontakte in einem Mandat ist aus mehreren Gründ
 - Aktenzeichen oder anonyme Mandantenkennung (z. B. "M-2024-17")
 - Datum und Uhrzeit des Kontakts
 - Art des Kontakts: persönlich | telefonisch | schriftlich (Brief/E-Mail/Fax) | durch Dritte (Dolmetscher)
-- Beteiligte: Studierender, Anleiter, Mandant, Behörde/Gericht, Dolmetscher
+- Beteiligte: Studentenr, Anleiter, Mandant, Behörde/Gericht, Dolmetscher
 - Inhalt: Was wurde mitgeteilt / besprochen / vereinbart?
 - Ergebnis: Was ist entschieden, was bleibt offen?
 - Nächste Schritte und Fristen
@@ -60,7 +60,7 @@ Lückenlose Dokumentation aller Kontakte in einem Mandat ist aus mehreren Gründ
 ### Eintrag [Nummer] – [Datum] [Uhrzeit]
 
 **Art:** [persönlich | telefonisch | schriftlich]
-**Beteiligte:** [Studierender: Name/Kürzel] | [Anleiter: ✓ anwesend / – nicht anwesend] | [Mandant: ✓] | [Dolmetscher: Name/Sprache oder –]
+**Beteiligte:** [Studentenr: Name/Kürzel] | [Anleiter: ✓ anwesend / – nicht anwesend] | [Mandant: ✓] | [Dolmetscher: Name/Sprache oder –]
 **Gegenüber:** [Jobcenter Mitte Berlin | BAMF Bremen | VG Berlin | Mandant direkt | Sonstiges: ]
 **Thema:** [Kurzbeschreibung, 1–2 Sätze]
 
@@ -78,7 +78,7 @@ Lückenlose Dokumentation aller Kontakte in einem Mandat ist aus mehreren Gründ
 | [z. B. Widerspruch SGB II] | [TT.MM.JJJJ] | [offen] |
 
 **Nächste Schritte:**
-1. [Aktion – verantwortlich: Studierender / Anleiter – bis: TT.MM.JJJJ]
+1. [Aktion – verantwortlich: Studentenr / Anleiter – bis: TT.MM.JJJJ]
 2. …
 
 **Verschwiegenheitshinweis:** Dieser Eintrag enthält vertrauliche Mandantendaten (§ 203 StGB, § 43a BRAO). Kein Zugang für Externe.
@@ -132,7 +132,7 @@ Strukturierter Logeintrag nach obigem Format. Immer mit Verschwiegenheitshinweis
 ### Eintrag 3 – 14.01.2025 14:30
 
 **Art:** telefonisch
-**Beteiligte:** Studierende: AS | Anleiter: – | Mandant: ✓ | Dolmetscher: Hamid Y. (Dari)
+**Beteiligte:** Studenten: AS | Anleiter: – | Mandant: ✓ | Dolmetscher: Hamid Y. (Dari)
 **Gegenüber:** Mandant direkt
 **Thema:** Besprechung Widerspruchsergebnis Jobcenter – Bescheid vom 10.01.2025 erhalten
 

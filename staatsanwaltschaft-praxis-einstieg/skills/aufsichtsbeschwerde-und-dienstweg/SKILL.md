@@ -1,6 +1,6 @@
 ---
 name: aufsichtsbeschwerde-und-dienstweg
-description: "Aufsichtsbeschwerde, Dienstweg und sachliche Antwort: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Aufsichtsbeschwerde, Dienstweg und sachliche Antwort: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Aufsichtsbeschwerde, Dienstweg und sachliche Antwort

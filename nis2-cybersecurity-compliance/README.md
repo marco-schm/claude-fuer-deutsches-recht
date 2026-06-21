@@ -25,7 +25,7 @@ Dieses Plugin ist der tägliche Cyber-Compliance-Begleiter für Geschäftsführu
 
 ## Wofür dieses Plugin da ist
 
-Es ist als Arbeitsbegleiter gedacht: erst fragen, dann sortieren, dann prüfen, dann ein verwertbares Arbeitsprodukt bauen. Die Skills sollen Nutzerinnen und Nutzer nicht kleinhalten, sondern sie in der jeweiligen Materie schneller, präziser und beweissicherer machen.
+Es ist als Arbeitsbegleiter gedacht: erst fragen, dann sortieren, dann prüfen, dann ein verwertbares Arbeitsprodukt bauen. Die Skills sollen Nutzer nicht kleinhalten, sondern sie in der jeweiligen Materie schneller, präziser und beweissicherer machen.
 
 ## Typischer Workflow
 
@@ -108,7 +108,7 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 | `ki-incident-detection` | Prüft KI-gestützte Incident Detection und ihre Grenzen im Nis2 Cybersecurity Compliance. |
 | `ki-tools-shadow-it` | Prüft Shadow-IT durch KI-Tools und Browser-Plugins im Nis2 Cybersecurity Compliance. |
 | `klassifizierte-informationen` | Prüft Umgang mit vertraulichen oder behördlich sensiblen Informationen im Nis2 Cybersecurity Compliance. |
-| `kommunikation-presse-kunden` | Steuert Kommunikation an Kunden, Presse, Behörden und Mitarbeitende im Nis2 Cybersecurity Compliance. |
+| `kommunikation-presse-kunden` | Steuert Kommunikation an Kunden, Presse, Behörden und Mitarbeiter im Nis2 Cybersecurity Compliance. |
 | `krisenuebung-kritis-bsig-leitungserklaerung` | Prüft technische Krisenübung mit Restore und Kommunikationsausfall im Nis2 Cybersecurity Compliance. |
 | `kritis-bsig-schnittstelle` | Verknüpft KRITIS-Prüfung, BSIG 2025 und NIS-2-Pflichten im Nis2 Cybersecurity Compliance. |
 | `leitungserklaerung-cyber-attestation` | Erstellt eine belastbare Leitungserklärung zur Cyber-Compliance mit Scope, Quellen, Restrisiken, Budgetentscheidungen, Nachweisen und klaren Vorbehalten gegen Scheinsicherheit im Nis2 Cybersecurity Compliance. |
@@ -148,7 +148,7 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 | `security-governance-isms` | Baut oder prüft ein ISMS als juristisch verwertbares Kontrollsystem im Nis2 Cybersecurity Compliance. |
 | `security-kpis-board-report` | Erstellt Board-Reporting mit aussagekräftigen Security-KPIs im Nis2 Cybersecurity Compliance. |
 | `security-procurement-training-management` | Prüft IT-Security-Anforderungen in Einkauf, Ausschreibung und Beschaffung von SaaS, Hardware, OT, Managed Services und Cyberdienstleistungen im Nis2 Cybersecurity Compliance. |
-| `security-training-management` | Prüft Security-Schulung der Leitung und Mitarbeitenden im Nis2 Cybersecurity Compliance. |
+| `security-training-management` | Prüft Security-Schulung der Leitung und Mitarbeitern im Nis2 Cybersecurity Compliance. |
 | `sektor-und-groessencheck` | Ordnet Tätigkeiten in NIS-2-Sektoren und Unternehmensgrößen ein im Nis2 Cybersecurity Compliance. |
 | `software-sbom` | Baut SBOM-Prozess für eigene Software und Lieferanten im Nis2 Cybersecurity Compliance. |
 | `tabletop-exercise` | Plant Tabletop-Übungen für Cyberkrisen im Nis2 Cybersecurity Compliance. |

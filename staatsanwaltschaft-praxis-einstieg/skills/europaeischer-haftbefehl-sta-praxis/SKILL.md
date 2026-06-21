@@ -1,6 +1,6 @@
 ---
 name: europaeischer-haftbefehl-sta-praxis
-description: "Europäischer Haftbefehl aus StA-Sicht: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Europäischer Haftbefehl aus StA-Sicht: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Europäischer Haftbefehl aus StA-Sicht

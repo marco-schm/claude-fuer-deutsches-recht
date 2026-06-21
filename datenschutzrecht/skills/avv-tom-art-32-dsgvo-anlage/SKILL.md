@@ -109,7 +109,7 @@ Pruefturnus: jaehrlich, unverzueglich bei wesentlicher Aenderung
 
 8. Organisatorische Massnahmen
  8.1 Datenschutzbeauftragter benannt; Kontaktangabe in Anlage 4.
- 8.2 Verschwiegenheitsverpflichtung aller Mitarbeitenden (Art. 28 Abs. 3 lit. b DSGVO).
+ 8.2 Verschwiegenheitsverpflichtung aller Mitarbeitern (Art. 28 Abs. 3 lit. b DSGVO).
  8.3 Jaehrliche Datenschutzschulung; Schulungsnachweise vorhanden.
  8.4 Joiner-Mover-Leaver-Prozess; sofortiger Entzug der Zugriffsrechte bei Austritt.
  8.5 Incident-Response-Plan mit Meldewegen an den Verantwortlichen binnen 48 Stunden nach Kenntnis einer Datenpanne (Art. 33 DSGVO).

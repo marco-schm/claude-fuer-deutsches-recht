@@ -1,6 +1,6 @@
 ---
 name: schoeffe-opferzeugenschutz-orientierung
-description: "Opfer- und Zeugenschutz (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei belastete Zeugen, Nebenklage, Ausschluss Öffentlichkeit und respektvolle Befragung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Opfer- und Zeugenschutz (Orientierung): hilft ehrenamtlichen Richtern bei belastete Zeugen, Nebenklage, Ausschluss Öffentlichkeit und respektvolle Befragung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Opfer- und Zeugenschutz: Orientierung

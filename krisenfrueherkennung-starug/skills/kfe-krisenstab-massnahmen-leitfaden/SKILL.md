@@ -1,12 +1,12 @@
 ---
 name: kfe-krisenstab-massnahmen-leitfaden
-description: "Leitfaden Krisenstab und Sofortmassnahmen: Kommunikation Bank / Lieferant / Mitarbeitende / Mandanten, Treasury, Liquiditaetssteuerung. Pruefraster fuer Geschaeftsleitung."
+description: "Leitfaden Krisenstab und Sofortmassnahmen: Kommunikation Bank / Lieferant / Mitarbeiter / Mandanten, Treasury, Liquiditaetssteuerung. Pruefraster fuer Geschaeftsleitung."
 ---
 
 # KFE: Krisenstab Massnahmen
 
 ## Aufgabe
-Leitfaden Krisenstab und Sofortmassnahmen: Kommunikation Bank / Lieferant / Mitarbeitende / Mandanten, Treasury, Liquiditaetssteuerung.
+Leitfaden Krisenstab und Sofortmassnahmen: Kommunikation Bank / Lieferant / Mitarbeiter / Mandanten, Treasury, Liquiditaetssteuerung.
 
 ## Kaltstart
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.

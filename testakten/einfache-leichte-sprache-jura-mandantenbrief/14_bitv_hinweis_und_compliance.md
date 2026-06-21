@@ -44,13 +44,13 @@ Nach dem **Regelwerk des Netzwerks Leichte Sprache** ist eine **Prüfung durch M
 
 **In dieser Akte:** Die Zielgruppenprüfung ist **nicht erfolgt**. Die in dieser Akte enthaltenen Leichte-Sprache-Fassungen sind daher methodisch als **Entwürfe** zu verstehen. Bei einer realen Mandantenkommunikation müsste vor Versand:
 
-1. ein oder mehrere Prüfer:innen aus der Zielgruppe (z. B. Werkstatt für Menschen mit Behinderung, Vereine wie "Mensch zuerst", spezialisierte Lektorate) den Text lesen,
+1. ein oder mehrere Prüfer aus der Zielgruppe (z. B. Werkstatt für Menschen mit Behinderung, Vereine wie "Mensch zuerst", spezialisierte Lektorate) den Text lesen,
 2. fragen, was unklar bleibt,
 3. mit Rückmeldungen den Text überarbeiten,
 4. den überarbeiteten Text erneut prüfen lassen,
 5. erst dann den Text als "Leichte Sprache" verwenden.
 
-Die Prüfung dauert pro Brief erfahrungsgemäß 60 -- 90 Minuten und kostet 80 -- 150 EUR (Honorar Prüfer:innen / Werkstatt-Pauschale). Diese Kosten sind nicht durch Beratungshilfe oder Prozesskostenhilfe abgedeckt; in der Kanzlei Muster & Partner ist dafür ein Hausbudget reserviert ("Barrierefreiheit-Mandate").
+Die Prüfung dauert pro Brief erfahrungsgemäß 60 -- 90 Minuten und kostet 80 -- 150 EUR (Honorar Prüfer / Werkstatt-Pauschale). Diese Kosten sind nicht durch Beratungshilfe oder Prozesskostenhilfe abgedeckt; in der Kanzlei Muster & Partner ist dafür ein Hausbudget reserviert ("Barrierefreiheit-Mandate").
 
 ---
 
@@ -93,7 +93,7 @@ Die Kanzlei prüft jährlich die Aktualität der Erklärung zur Barrierefreiheit
 2. **Falsche Sicherheit:** Eine Mandantin, die nur die Leichte-Sprache-Fassung liest, könnte fälschlich annehmen, sie habe den Brief vollständig verstanden. Erfahrungswert: 30 -- 50 % der Informationen aus dem Standardbrief bleiben in der Leichte-Sprache-Fassung enthalten.
 3. **Verantwortung:** Die Verantwortung für das Verstehen einer Information liegt nicht ausschließlich beim Anwalt, sondern auch bei der Betreuerin (§ 1814 BGB). Diese muss sicherstellen, dass die betreute Person die wesentlichen Informationen erfasst.
 4. **Haftung:** Auf der Standardbrief-Ebene gelten die anwaltlichen Beratungspflichten unverändert. Die Vereinfachung in Einfacher oder Leichter Sprache kann die Standardpflichten nicht reduzieren.
-5. **Datenschutz:** Bei Übersendung an externe Prüfer:innen für die Zielgruppenprüfung sind Mandanteninformationen zu anonymisieren (§ 43a BRAO, § 203 StGB).
+5. **Datenschutz:** Bei Übersendung an externe Prüfer für die Zielgruppenprüfung sind Mandanteninformationen zu anonymisieren (§ 43a BRAO, § 203 StGB).
 
 ---
 

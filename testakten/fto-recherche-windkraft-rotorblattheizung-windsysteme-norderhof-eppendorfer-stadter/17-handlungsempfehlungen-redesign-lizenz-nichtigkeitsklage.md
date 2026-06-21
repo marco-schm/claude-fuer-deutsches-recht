@@ -18,7 +18,7 @@ Diese Pfade sind nicht exklusiv — Kombination A+B oder B+C möglich.
 
 ### 2.1 Sachverhalt
 
-Vellbruck Energietechnik hat in einem informellen Gespräch (12.04.2026, vgl. Aktenstück 20) FRAND-Lizenzbereitschaft signalisiert. FRAND = Fair, Reasonable and Non-Discriminatory. Vellbruck ist ein mittelständisches Unternehmen (ca. 80 Mitarbeitende) ohne Vertriebspräsenz auf dem Markt für Windkraft-Rotorblattbeheizung — Vellbruck verfolgt primär eine Lizenzierungsstrategie.
+Vellbruck Energietechnik hat in einem informellen Gespräch (12.04.2026, vgl. Aktenstück 20) FRAND-Lizenzbereitschaft signalisiert. FRAND = Fair, Reasonable and Non-Discriminatory. Vellbruck ist ein mittelständisches Unternehmen (ca. 80 Mitarbeiter) ohne Vertriebspräsenz auf dem Markt für Windkraft-Rotorblattbeheizung — Vellbruck verfolgt primär eine Lizenzierungsstrategie.
 
 ### 2.2 Zu erwartende Lizenzkonditionen
 

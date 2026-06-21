@@ -4,7 +4,7 @@
 
 | Rolle | Name | Notiz |
 | --- | --- | --- |
-| Mandantin | Lichtbogen Form GmbH, Köln | kleines Möbelstudio, 18 Mitarbeitende, eigene Entwurfsabteilung |
+| Mandantin | Lichtbogen Form GmbH, Köln | kleines Möbelstudio, 18 Mitarbeiter, eigene Entwurfsabteilung |
 | Geschäftsführerin | Martha Rautenkranz | will Launch am 12.09.2026 nicht verschieben |
 | Designer | Jules Fenner | freier Produktdesigner, Vertrag von 2024 nur als Rahmenangebot vorhanden |
 | Agentur | Silberpfad Studio GbR | Social-Media-Preview ohne klare Freigabe gepostet |

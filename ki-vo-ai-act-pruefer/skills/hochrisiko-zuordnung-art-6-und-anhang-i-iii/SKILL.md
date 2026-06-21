@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-zuordnung-art-6-und-anhang-i-iii
-description: "Gesamtuebersicht zur Hochrisiko-Zuordnung nach Art. 6 KI-VO: Art. 6 Abs. 1 Sicherheitsbauteil/Anhang I und Art. 6 Abs. 2/Anhang III. Erklaert Zweckbestimmung, allgemeine Chatbots/GPAI, Mitarbeitenden-Fehlgebrauch, Rueckausnahme Art. 6 Abs. 3 und Pflichtenfolge. Output: Hochrisiko-Landkarte mit Ro..."
+description: "Gesamtuebersicht zur Hochrisiko-Zuordnung nach Art. 6 KI-VO: Art. 6 Abs. 1 Sicherheitsbauteil/Anhang I und Art. 6 Abs. 2/Anhang III. Erklaert Zweckbestimmung, allgemeine Chatbots/GPAI, Mitarbeitern-Fehlgebrauch, Rueckausnahme Art. 6 Abs. 3 und Pflichtenfolge. Output: Hochrisiko-Landkarte mit Ro..."
 ---
 
 # Hochrisiko-Zuordnung — Art. 6 KI-VO und Anhang I/III
@@ -39,7 +39,7 @@ Ein allgemeiner Chatbot oder ein GPAI-System ist nicht automatisch Hochrisiko. E
 - Welche Nutzung ist organisatorisch erlaubt, geduldet oder technisch nahegelegt?
 - Werden natürliche Personen bewertet, gerankt, priorisiert oder in Rechten/Chancen betroffen?
 
-Wenn Mitarbeitende ein allgemeines Tool entgegen klarer Regeln missbrauchen, ist das zunächst ein Governance- und Incident-Thema. Wenn die Nutzung aber systematisch ist, geduldet wird oder der Betreiber sie in Prozesse einbaut, kann die Hochrisiko-Prüfung neu kippen.
+Wenn Mitarbeiter ein allgemeines Tool entgegen klarer Regeln missbrauchen, ist das zunächst ein Governance- und Incident-Thema. Wenn die Nutzung aber systematisch ist, geduldet wird oder der Betreiber sie in Prozesse einbaut, kann die Hochrisiko-Prüfung neu kippen.
 
 ## Rückausnahme Art. 6 Abs. 3
 
@@ -67,7 +67,7 @@ System: [NAME]
 Art. 6 Abs. 1: [ja/nein/unklar] — [Grund]
 Art. 6 Abs. 2/Anhang III: [ja/nein/unklar] — [Bereich/Zweck]
 Allgemeiner Chatbot/GPAI: [ja/nein] — [warum nicht automatisch / warum konkret relevant]
-Mitarbeitenden-Fehlgebrauch: [kein Thema / vorhersehbar / geduldet / systematisch]
+Mitarbeitern-Fehlgebrauch: [kein Thema / vorhersehbar / geduldet / systematisch]
 Art. 6 Abs. 3: [prüfen / fernliegend / greift wahrscheinlich]
 Nächste Skills: [...]
 ```

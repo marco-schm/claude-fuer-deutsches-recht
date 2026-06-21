@@ -10,7 +10,7 @@ Kooperationsanwältin (Hannover): RAin Sabine Helmstedt, Marktstraße 12, 30159 
 
 ## Zur Person
 
-Hanna Trüffelberch erscheint pünktlich und merklich erschöpft. Sie bringt eine geordnete Mappe mit Dokumenten sowie ein vorbereitetes Deckblatt „Trennungsunterlagen" mit — sie ist erkennbar gewohnt, strukturiert zu arbeiten. Sie ist Architektin und Mitinhaberin der „Trüffelberch & Ürgelheim Architekturpartnerschaft PartGmbB" in Hannover-Linden, rd. 18 Mitarbeitende. Die Kanzlei wurde ihr durch eine Bekannte empfohlen.
+Hanna Trüffelberch erscheint pünktlich und merklich erschöpft. Sie bringt eine geordnete Mappe mit Dokumenten sowie ein vorbereitetes Deckblatt „Trennungsunterlagen" mit — sie ist erkennbar gewohnt, strukturiert zu arbeiten. Sie ist Architektin und Mitinhaberin der „Trüffelberch & Ürgelheim Architekturpartnerschaft PartGmbB" in Hannover-Linden, rd. 18 Mitarbeiter. Die Kanzlei wurde ihr durch eine Bekannte empfohlen.
 
 Sie ist 44 Jahre alt, geboren in Hannover. Ihr Ehemann Franz Trüffelberch, 47, ist seit 14.11.2024 ausgezogen. Sie trägt die Entscheidung, rechtliche Schritte einzuleiten, erkennbar schwer. Der Entschluss, Anwältin zu beauftragen, fiel ihr schwer; sie betonte mehrfach, die Kinder kämen über alles.
 

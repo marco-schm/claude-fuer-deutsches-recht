@@ -1,6 +1,6 @@
 ---
 name: digitale-spuren-mobiltelefon-cloud
-description: "Digitale Spuren: Mobiltelefon, Cloud, Chat und Standortdaten: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Digitale Spuren: Mobiltelefon, Cloud, Chat und Standortdaten: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Digitale Spuren: Mobiltelefon, Cloud, Chat und Standortdaten

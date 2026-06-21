@@ -26,7 +26,7 @@ description: "Algorithmische Kollusion und KI-Pricing: Preisalgorithmen, Signall
 1. Fließen Wettbewerberdaten in dasselbe System?
 2. Gibt es einen gemeinsamen Dienstleister als Hub?
 3. Werden Preise automatisch an Wettbewerberpreise angepasst?
-4. Können Mitarbeitende Signale setzen oder auslesen?
+4. Können Mitarbeiter Signale setzen oder auslesen?
 5. Werden zukünftige Preise, Rabatte oder Kapazitäten geteilt?
 6. Gibt es menschliche Kontrolle oder nur Algorithmus-Autopilot?
 7. Sind Preisregeln vom Vertrieb vorgegeben, vom Anbieter trainiert oder durch Wettbewerberdaten emergent entstanden?

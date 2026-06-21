@@ -31,7 +31,7 @@ Pflichtinhalte-Checkliste für Auftragsverarbeitungsvertraege nach Art. 28 Abs. 
 | Dauer | Vertragslaufzeit, ggf. Verlaengerung |
 | Art und Zweck | Operative Funktion und Geschäftszweck |
 | Art der personenbezogenen Daten | Datenarten katalogisiert (Stammdaten, Verkehrsdaten, Inhaltsdaten, besondere Kategorien Art. 9 DSGVO) |
-| Kategorien Betroffener | Mitarbeitende, Mandanten, Kinder, Patienten etc. |
+| Kategorien Betroffener | Mitarbeiter, Mandanten, Kinder, Patienten etc. |
 | Pflichten und Rechte des Verantwortlichen | Mindestens Weisungsrechte, Kontrollrechte, Beendigungsrechte |
 
 ### Die acht Pflichtklauseln (Art. 28 Abs. 3 Satz 2 lit. a bis h DSGVO)

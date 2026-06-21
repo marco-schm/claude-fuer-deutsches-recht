@@ -1,6 +1,6 @@
 ---
 name: schoeffe-digitale-beweise-orientierung
-description: "Digitale Beweise verstehen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Chats, Screenshots, EncroChat, Standortdaten, Hashwerte und Beweisverwertung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Digitale Beweise verstehen (Orientierung): hilft ehrenamtlichen Richtern bei Chats, Screenshots, EncroChat, Standortdaten, Hashwerte und Beweisverwertung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Digitale Beweise verstehen: Orientierung

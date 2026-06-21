@@ -94,7 +94,7 @@ Stand der Verhandlungen: Es haben drei Gespräche stattgefunden. Der BR fordert:
 
 **Berichterstatter:** Marcus Petersen
 
-Petersen berichtet: Stand März 2026 haben 38 % aller Mitarbeitenden Modul A abgeschlossen. Im HR-Bereich (Modul C): 36 %. In der Finanzierung (Modul D): 40 %. Betriebsrat noch nicht geschult.
+Petersen berichtet: Stand März 2026 haben 38 % aller Mitarbeitern Modul A abgeschlossen. Im HR-Bereich (Modul C): 36 %. In der Finanzierung (Modul D): 40 %. Betriebsrat noch nicht geschult.
 
 Komitee-Diskussion: Einigung, dass der Schulungsrückstand ein signifikantes Compliance-Risiko darstellt. Nachweispflicht nach Art. 4 KI-VO könnte bei behördlicher Anfrage nicht erfüllt werden.
 

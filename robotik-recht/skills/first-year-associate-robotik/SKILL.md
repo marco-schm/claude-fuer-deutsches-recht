@@ -1,6 +1,6 @@
 ---
 name: first-year-associate-robotik
-description: "Führt junge Anwältinnen und Anwälte durch den ersten Robotikfall: Aktenaufnahme, Normenlandkarte, Rückfragen, Quellencheck, Memo und Red-Team."
+description: "Führt junge Anwälte durch den ersten Robotikfall: Aktenaufnahme, Normenlandkarte, Rückfragen, Quellencheck, Memo und Red-Team."
 ---
 
 # First-Year-Associate-Modus
@@ -32,7 +32,7 @@ Kläre knapp:
 
 ## Spezifischer Fokus
 
-Dieser Skill fokussiert: **Führt junge Anwältinnen und Anwälte durch den ersten Robotikfall: Aktenaufnahme, Normenlandkarte, Rückfragen, Quellencheck, Memo und Red-Team.**
+Dieser Skill fokussiert: **Führt junge Anwälte durch den ersten Robotikfall: Aktenaufnahme, Normenlandkarte, Rückfragen, Quellencheck, Memo und Red-Team.**
 
 Quellen-/Normenanker: Quellenmatrix im Plugin, Uploads, Rollenprofil, Fristen, Produktakte.
 

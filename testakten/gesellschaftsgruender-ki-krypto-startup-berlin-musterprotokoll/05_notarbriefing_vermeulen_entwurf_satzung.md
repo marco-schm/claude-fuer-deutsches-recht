@@ -47,7 +47,7 @@ Bareinlage. Sacheinlagen sind nicht vorgesehen.
 In einer separaten Geschäftsführerordnung, **nicht in der Satzung**, werden Zustimmungsvorbehalte geregelt für:
 
 - Verträge mit einem Volumen über 10.000 EUR
-- Aufnahme neuer Mitarbeitender
+- Aufnahme neuer Mitarbeiterr
 - Verträge mit nahen Angehörigen oder beherrschenden Gesellschaftern
 - Token-Emission und Ausgabe von Krypto-Werten
 

@@ -6,7 +6,7 @@ Dieser Megaprompt enthaelt top-10 von 61 Skills des Plugins `subsumtions-pruefer
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Einstieg, Triage und Routing für Subsumtions-Prüfer (Jura): ordnet Rolle (Studierender, Bearbeiter), markiert Frist (kei…
+1. **einstieg-routing** — Einstieg, Triage und Routing für Subsumtions-Prüfer (Jura): ordnet Rolle (Studentenr, Bearbeiter), markiert Frist (kei…
 2. **spezial-interaktiver-erstpruefung-und-mandatsziel** — Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnorm…
 3. **interaktiver-erstpruefung-und-mandatsziel** — Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel im Subsumtions Prüfer.
 4. **beweisbedarf-und-belege-erfassen** — Erfasst pro Tatbestandsmerkmal den Beweisbedarf: Beweismittel-Katalog (Urkunden, Zeugen, Sachverständige, Augenschein, P…
@@ -21,7 +21,7 @@ Dieser Megaprompt enthaelt top-10 von 61 Skills des Plugins `subsumtions-pruefer
 
 ## Skill: `einstieg-routing`
 
-_Einstieg, Triage und Routing für Subsumtions-Prüfer (Jura): ordnet Rolle (Studierender, Bearbeiter), markiert Frist (keine harten Fristen), wählt Norm (BGB, StGB, GG, Methodenlehre) und Zuständigkeit (zuständige Stelle), leitet zum passenden Spezial-Skill._
+_Einstieg, Triage und Routing für Subsumtions-Prüfer (Jura): ordnet Rolle (Studentenr, Bearbeiter), markiert Frist (keine harten Fristen), wählt Norm (BGB, StGB, GG, Methodenlehre) und Zuständigkeit (zuständige Stelle), leitet zum passenden Spezial-Skill._
 
 # Einstieg und Routing
 

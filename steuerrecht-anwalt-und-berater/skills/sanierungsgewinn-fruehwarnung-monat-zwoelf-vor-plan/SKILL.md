@@ -23,7 +23,7 @@ description: "Frühwarn-Skill Sanierungsgewinn nach Paragraf 3a EStG. Rechnet 12
 
 ## Worum geht es
 
-Der Sanierungsgewinn nach § 3a EStG ist der häufigste Stolperstein in der späten Sanierungsphase. Erfahrungsgemäß realisieren Mandantinnen und Mandanten erst dann, dass aus dem Forderungsverzicht der Gläubiger ein steuerpflichtiger Buchgewinn entsteht, wenn der Insolvenzplan oder das StaRUG-Restrukturierungsverfahren bereits bei Gericht eingereicht ist. Dann ist es regelmäßig zu spät, um die "vier Voraussetzungen" (Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungsabsicht der Gläubiger, Sanierungseignung) sauber zu dokumentieren.
+Der Sanierungsgewinn nach § 3a EStG ist der häufigste Stolperstein in der späten Sanierungsphase. Erfahrungsgemäß realisieren Mandanten erst dann, dass aus dem Forderungsverzicht der Gläubiger ein steuerpflichtiger Buchgewinn entsteht, wenn der Insolvenzplan oder das StaRUG-Restrukturierungsverfahren bereits bei Gericht eingereicht ist. Dann ist es regelmäßig zu spät, um die "vier Voraussetzungen" (Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungsabsicht der Gläubiger, Sanierungseignung) sauber zu dokumentieren.
 
 Dieser Skill stellt die Zeitachse 12 Monate vor dem geplanten Antrag dar und zeigt monatlich, welche Weiche zu stellen ist.
 

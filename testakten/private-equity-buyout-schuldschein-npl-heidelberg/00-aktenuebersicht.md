@@ -5,7 +5,7 @@
 - Käufer: Rheintor Capital Fund III GmbH & Co. KG.
 - BidCo: Nachtfalter Erwerbs GmbH, Frankfurt am Main.
 - Verkäufer: Familie Waldhausen und Südwest Industrieholding AG.
-- Target: Heidelberger Präzisionstechnik Gruppe, 480 Mitarbeitende, Werkzeugmaschinenkomponenten.
+- Target: Heidelberger Präzisionstechnik Gruppe, 480 Mitarbeiter, Werkzeugmaschinenkomponenten.
 - Finanzierung: Senior/Unitranche-Mix, altes Schuldscheindarlehen 42 Mio. EUR, Kundenfinanzierungsportfolio mit Ausfällen.
 
 ## Deal-Knackpunkte

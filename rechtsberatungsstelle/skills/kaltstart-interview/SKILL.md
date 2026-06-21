@@ -40,14 +40,14 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 ## Zentrale Normen
 - § 6 Abs. 2 Nr. 2 RDG — Voraussetzungen für erlaubnisfreie Rechtsberatung in Beratungsstellen: Anleitungserfordernis und Unentgeltlichkeit
 - § 43a Abs. 2 BRAO — Verschwiegenheitspflicht des Anleiters: muss von Beginn an organisatorisch sichergestellt werden
-- § 203 Abs. 4 StGB — Einbeziehung Dritter (Studierende): Verschwiegenheitsvereinbarungen als Pflichtbestandteil der Ersteinrichtung
+- § 203 Abs. 4 StGB — Einbeziehung Dritter (Studenten): Verschwiegenheitsvereinbarungen als Pflichtbestandteil der Ersteinrichtung
 - Art. 30 DSGVO — Verarbeitungsverzeichnis: muss vor Beginn der Datenverarbeitung erstellt werden
 
 ## Berufsrechtlicher Rahmen
 
-- § 6 Abs. 2 Nr. 2 RDG: Die Organisation der Anleitungsstruktur muss sicherstellen, dass der Volljurist tatsächlich in der Lage ist, die Studierenden anzuleiten. "Formelle" Aufsicht ohne tatsächliche Prüfung genügt nicht; vgl. Krenzler, in: Krenzler (Hrsg.), RDG, 2. Aufl. 2021, § 6 Rn. 52.
+- § 6 Abs. 2 Nr. 2 RDG: Die Organisation der Anleitungsstruktur muss sicherstellen, dass der Volljurist tatsächlich in der Lage ist, die Studentenn anzuleiten. "Formelle" Aufsicht ohne tatsächliche Prüfung genügt nicht; vgl. Krenzler, in: Krenzler (Hrsg.), RDG, 2. Aufl. 2021, § 6 Rn. 52.
 - § 43a Abs. 2 BRAO: Verschwiegenheitsorganisation muss bereits bei Einrichtung der Beratungsstelle mitgedacht werden (kein Mandantendaten-Upload in nicht abgesicherte Systeme).
-- § 203 Abs. 4 StGB: Einbeziehung Dritter (Studierende, externe IT) erfordert vertragliche Absicherung.
+- § 203 Abs. 4 StGB: Einbeziehung Dritter (Studenten, externe IT) erfordert vertragliche Absicherung.
 
 ## Ablauf
 
@@ -69,7 +69,7 @@ Optionen (Mehrfachauswahl möglich):
 5. **Wohlfahrtsverband / Sozialberatung** (AWO, Caritas, Diakonie, DRK, Paritätischer) – § 8 Abs. 1 Nr. 4 RDG
 6. **Sonstiges** – Bitte beschreiben.
 
-Erfasse auch: Hochschule / Trägerin, Stadt, seit wann aktiv, Anzahl aktiver Studierender pro Semester.
+Erfasse auch: Hochschule / Trägerin, Stadt, seit wann aktiv, Anzahl aktiver Studentenr pro Semester.
 
 ### Schritt 2: Rechtsgrundlage bestätigen
 
@@ -82,7 +82,7 @@ Je nach Typ aus Schritt 1:
 | Sozialberatung (Verbände) | § 8 Abs. 1 Nr. 4 RDG | Satzungsgemäßer Auftrag erforderlich |
 | Pro-Bono (zugelassene Anwälte) | § 1 BRAO (volle Zulassung) | BRAO/BORA voll anwendbar |
 
-> Bestätigen Sie: "Alle Beratungsleistungen erfolgen unentgeltlich. Die Studierenden stehen unter meiner tatsächlichen Anleitung. Ich nehme meine Aufsichtspflicht wahr." (§ 6 II Nr. 2 RDG)
+> Bestätigen Sie: "Alle Beratungsleistungen erfolgen unentgeltlich. Die Studentenn stehen unter meiner tatsächlichen Anleitung. Ich nehme meine Aufsichtspflicht wahr." (§ 6 II Nr. 2 RDG)
 
 ### Schritt 3: Fachbereiche
 
@@ -119,17 +119,17 @@ Optionen (Mehrfachauswahl):
 | Memo / Rechtsgutachten | Anleiter prüft inhaltlich |
 | Semesterübergabe | Anleiter muss bestätigen |
 
-Anleiter kann Gates verschärfen (z. B. alle Dokumente) oder – für erfahrene Studierende – für bestimmte Routinedokumente lockern.
+Anleiter kann Gates verschärfen (z. B. alle Dokumente) oder – für erfahrene Studenten – für bestimmte Routinedokumente lockern.
 
 ### Schritt 5: Pädagogikhaltung
 
-> Wie lernen Studierende bei Ihnen am besten?
+> Wie lernen Studenten bei Ihnen am besten?
 
 | Haltung | Beschreibung | Geeignet für |
 |---|---|---|
-| **Ausführen** | Das System erstellt vollständige Entwürfe; Studierende analysieren und übergeben | Erfahrene Studierende (3.–5. Sem.), Routinedokumente |
-| **Anleiten** | Das System gibt Struktur und Schlüsselpunkte; Studierende füllen aus | Mittelstufe (2.–3. Sem.) |
-| **Lehren** | Das System stellt nur Fragen; Studierende erarbeiten Lösung | Anfangssemester, neue Fachgebiete |
+| **Ausführen** | Das System erstellt vollständige Entwürfe; Studenten analysieren und übergeben | Erfahrene Studenten (3.–5. Sem.), Routinedokumente |
+| **Anleiten** | Das System gibt Struktur und Schlüsselpunkte; Studenten füllen aus | Mittelstufe (2.–3. Sem.) |
+| **Lehren** | Das System stellt nur Fragen; Studenten erarbeiten Lösung | Anfangssemester, neue Fachgebiete |
 
 Default für gesamte Beratungsstelle + ggf. Übersteuern je Fachbereich / Dokumenttyp.
 
@@ -140,7 +140,7 @@ Default für gesamte Beratungsstelle + ggf. Übersteuern je Fachbereich / Dokume
 - Werden Mandantendaten in einem Cloud-System verarbeitet? → Auftragsverarbeitungsvertrag (AVV) nach Art. 28 DSGVO erforderlich.
 - Wer hat Zugang zu den Mandantenakten?
 - Wie werden Akten nach 5 Jahren gelöscht (§ 50 BRAO Aufbewahrungspflicht)?
-- Einweisung der Studierenden in Verschwiegenheitspflichten? → Empfehlung: Schriftliche Verpflichtungserklärung zu § 203 StGB.
+- Einweisung der Studentenn in Verschwiegenheitspflichten? → Empfehlung: Schriftliche Verpflichtungserklärung zu § 203 StGB.
 
 ### Schritt 7: Örtliche Besonderheiten
 
@@ -159,7 +159,7 @@ Ausgabe: vollständige, aktualisierte `CLAUDE.md` mit allen erhobenen Konfigurat
 
 Anschließend empfehlen:
 - `/rechtsberatungsstelle:leitfaden-erstellen` für jeden konfigurierten Fachbereich
-- `/rechtsberatungsstelle:einarbeitung` – Testlauf aus Studierenden-Perspektive
+- `/rechtsberatungsstelle:einarbeitung` – Testlauf aus Studentenn-Perspektive
 
 ## Risiken / typische Fehler
 

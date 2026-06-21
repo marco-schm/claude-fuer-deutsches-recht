@@ -7,13 +7,13 @@
 
 ## Heftplan MFJ 2026/7
 
-| Rubrik | Beitrag | Autor:in | Status | Seitenbudget | Ist | Problem |
+| Rubrik | Beitrag | Autor | Status | Seitenbudget | Ist | Problem |
 | --- | --- | --- | --- | ---: | ---: | --- |
 | Editorial | Editorial KI und Vertragsrecht | Herausgeberkreis (Dr. Lenz, Prof. Krenz) | fehlt | 2 | 0 | Dr. Lenz schreibt noch, Text bis Mo 12:00 zugesagt, Stand offen |
 | Aufsatz I | KI-Vertragsprüfung in Kanzleien -- empirische Befunde 2025 | Seidenpfennig | zu lang | 20 | 28 | 28 Seiten, Fußnoten 18/24/31/44/63 unsauber, IV.3 wirkt wie Übernahme aus eigenem Gutachten Q4/2025 |
 | Aufsatz II | Datenraum-Sicherheit in mittelgroßen Kanzleien | Dr. Klemens Vortrup | gesetzt | 12 | 12 | ok, freigegeben 28.05. |
 | Rechtsprechung | BGH-Entscheidung zur Plattformhaftung (Volltext folgt) | Lenz | fast fertig | 6 | 6 | Online first gewünscht; Randnummern und Praxisfolge werden erst nach amtlichem Volltext finalisiert, Volltext-Embargo der Pressestelle |
-| Praxis | Datenschutz in Verlagen -- DSFA für Autor:innenverträge | Dr. Almut Greve | gesetzt | 8 | 7 | Abbildung aus Fremdquelle, Alt-Text fehlt |
+| Praxis | Datenschutz in Verlagen -- DSFA für Autorenverträge | Dr. Almut Greve | gesetzt | 8 | 7 | Abbildung aus Fremdquelle, Alt-Text fehlt |
 | Praxis II | Rückrufrecht nach § 41 UrhG | Dr. Krug | freigegeben | 5 | 5 | ok |
 | Rezension | Handbuch Legal Tech, hg. Schramm-Wenders, 3. Aufl. | Rabenau | fertig | 3 | 3 | Screenshot aus Vortrag, Rechteproblem |
 | Tagungsbericht | DAV-Forum 2025 KI & Anwaltschaft | Wendt | gesetzt | 4 | 4 | ok |

@@ -37,7 +37,7 @@ Eigenkapital zum 31.12.2024 (Entwurf): 334 TEUR. Ungedeckter Fehlbetrag zum Stic
 
 - Gläubigerverzeichnis: 187 Gläubiger; Gesamtverbindlichkeiten ca. **8,8 Mio EUR**
 - Vermögen: Anlagevermögen ca. 5,0 Mio EUR; Umlaufvermögen ca. 4,7 Mio EUR (Buchwerte); Realisierbarkeit erheblich reduziert
-- Mitarbeitende: 195
+- Mitarbeiter: 195
 - Löhne / Gehälter rückständig: ca. 410 TEUR
 
 ### V. Beigefügt

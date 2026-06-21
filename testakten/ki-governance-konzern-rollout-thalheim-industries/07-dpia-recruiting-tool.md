@@ -33,7 +33,7 @@ Das Landesbeauftragte für Datenschutz und Informationsfreiheit Baden-Württembe
 | Einsatz seit | 01. September 2024 |
 | Einsatzzweck | Automatisiertes Screening und Ranking von Bewerbungsunterlagen für alle Stellenausschreibungen der Thalheim Industries SE |
 | Datenkategorien | Name, Vorname, Kontaktdaten, Lebenslauf, Zeugnisse, Foto (falls beigefügt), Anschreiben, LinkedIn-Profil (optionale Verknüpfung) |
-| Betroffene Personen | Bewerberinnen und Bewerber (extern), durchschnittlich 4.500 Bewerbungen p.a. |
+| Betroffene Personen | Bewerber (extern), durchschnittlich 4.500 Bewerbungen p.a. |
 | Entscheidungstiefe | Ranking-Score 0–100; Schwelle 65 für automatische Weiterleitung; unter 40 automatische Ablehnung möglich (Override durch HR vorgesehen) |
 | Datenspeicherung | Synaptec-Server (EU, Frankfurt a.M.); Aufbewahrung: 6 Monate nach Abschluss Stellenbesetzung |
 | Schnittstellen | SAP SuccessFactors (ATS), Outlook (Kommunikation), Active Directory |

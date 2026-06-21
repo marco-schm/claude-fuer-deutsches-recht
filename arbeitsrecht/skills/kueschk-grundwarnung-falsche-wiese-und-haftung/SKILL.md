@@ -54,7 +54,7 @@ Die Frist beginnt mit dem Tag des **Zugangs** der Kündigung (nicht dem Datum au
 2. Wurde der KSchG-Anwendbarkeitscheck bereits durchgeführt (`kueschk-anwendbarkeit-kschg-pruefen`)?
 3. Ist die Drei-Wochen-Frist bereits einkalkuliert (Zugangsdatum bekannt)?
 
-Nur wenn Frage 1 = ja: Warnbaustein zwingend einbetten. Bei Anwält:innen entfällt der Pflicht-Disclaimer-Kopf.
+Nur wenn Frage 1 = ja: Warnbaustein zwingend einbetten. Bei Anwälten entfällt der Pflicht-Disclaimer-Kopf.
 
 ## Zentrale Normen
 
@@ -77,7 +77,7 @@ Nur wenn Frage 1 = ja: Warnbaustein zwingend einbetten. Bei Anwält:innen entfä
 
 ## Mechanik des Warnbausteins
 
-Der Warnblock ist kein optionaler Hinweis, sondern Pflichtbestandteil. Er darf weder weggelassen noch verkürzt werden. Anwältinnen und Anwälte erhalten diesen Kopf nicht — für sie gilt der Hinweis in `kueschk-triage-laie-oder-anwalt`.
+Der Warnblock ist kein optionaler Hinweis, sondern Pflichtbestandteil. Er darf weder weggelassen noch verkürzt werden. Anwälte erhalten diesen Kopf nicht — für sie gilt der Hinweis in `kueschk-triage-laie-oder-anwalt`.
 
 ---
 

@@ -23,7 +23,7 @@ Die DSGVO verpflichtet Verantwortliche nach Art. 5 Abs. 2 DSGVO zur Rechenschaft
 
 ## Vorgehen
 
-1. **Organisationsstruktur erfassen**: Anzahl der Berufsträger (Anwälte, Syndici, Referendare), Anzahl und Art der nicht-anwaltlichen Mitarbeitenden, Standorte (national/international).
+1. **Organisationsstruktur erfassen**: Anzahl der Berufsträger (Anwälte, Syndici, Referendare), Anzahl und Art der nicht-anwaltlichen Mitarbeitern, Standorte (national/international).
 2. **Rechtsgebiete identifizieren**: Welche Bereiche werden bearbeitet (Arbeitsrecht, Strafrecht, Datenschutzrecht, M&A, Familienrecht)? Manche Bereiche (z.B. Strafrecht, Familienrecht) erfordern besonders strenge Anonymisierungspflichten.
 3. **Mandantenstruktur analysieren**: Privatpersonen vs. Unternehmensmandate; grenzüberschreitende Mandate (Drittlandtransfer-Risiko); Mandate mit sensiblen Daten nach Art. 9 DSGVO.
 4. **IT-Infrastruktur inventarisieren**: Welche KI-Dienstleister werden bereits genutzt oder geplant? Bestehen Auftragsverarbeitungsverträge (AVV)? Welche Cloud-Dienste laufen bereits?
@@ -43,7 +43,7 @@ Die DSGVO verpflichtet Verantwortliche nach Art. 5 Abs. 2 DSGVO zur Rechenschaft
 - Existiert ein Datenschutzbeauftragter? Ist dieser intern oder extern bestellt?
 - Existiert ein Berufsrechtsbeauftragter nach § 31 BORA?
 - Welche bestehenden IT-Sicherheitsrichtlinien oder Compliance-Dokumente gibt es?
-- Sind Mitarbeitende bereits im Umgang mit KI-Systemen geschult worden?
+- Sind Mitarbeiter bereits im Umgang mit KI-Systemen geschult worden?
 
 ## Hinweise zur Aktualisierung
 

@@ -5,7 +5,7 @@
 - Videoüberwachung Zaun, Tor, Trafobereiche, Feuerwehrzufahrt.
 - Zutrittskarten und Besucherlog.
 - Fernwartungsprotokolle des Herstellers.
-- Incident-Logs mit Mitarbeitenden- und Dienstleisterdaten.
+- Incident-Logs mit Mitarbeitern- und Dienstleisterdaten.
 - Drohnenbefliegung nach Störfall.
 
 ## Offene Datenschutzfragen

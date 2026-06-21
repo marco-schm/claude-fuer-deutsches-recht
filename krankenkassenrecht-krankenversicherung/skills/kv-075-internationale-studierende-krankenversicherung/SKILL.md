@@ -1,13 +1,13 @@
 ---
 name: kv-075-internationale-studierende-krankenversicherung
-description: "Krankenversicherung: Internationale Studierende Krankenversicherung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Krankenversicherung: Internationale Studenten Krankenversicherung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
 ---
 
-# Krankenversicherung: Internationale Studierende Krankenversicherung
+# Krankenversicherung: Internationale Studenten Krankenversicherung
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Internationale Studierende Krankenversicherung** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Dieser Skill bearbeitet **Internationale Studenten Krankenversicherung** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
 
 ## Kaltstart in 6 Fragen
 

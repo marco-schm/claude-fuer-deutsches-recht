@@ -144,7 +144,7 @@ abfragen; 1-seitigen Kurzüberblick für das Anwaltsgespräch generieren.
 **Triage:** Art. 5: kein Verbot. Art. 6 Abs. 2 i. V. m. Anhang III Nr. 4 lit. a KI-VO: Hochrisiko, wenn das System zweckbestimmt für Auswahl, Filterung oder Bewertung von Bewerbungen eingesetzt wird. DSGVO Art. 22 Abs. 1 bei Vollautomatisierung.
 § 87 Abs. 1 Nr. 6 BetrVG: Betriebsrats-Beteiligung prüfen.
 **Klassifikation: BEDINGT.** Folgenabschätzung + DSFA; Human-in-the-Loop;
-Betriebsrat einbeziehen; Offenlegung ggü. Bewerber:innen (Art. 13 DSGVO).
+Betriebsrat einbeziehen; Offenlegung ggü. Bewerber (Art. 13 DSGVO).
 
 ## Risiken und typische Fehler
 

@@ -33,7 +33,7 @@ Mainz, den 11.05.2026
 
 Sehr geehrte/r [Anrede] [Name],
 
-Sie haben bereits unser allgemeines Schreiben vom 11.05.2026 zum Datenschutzvorfall erhalten. Wir müssen Sie mit diesem Schreiben über einen besonderen Umstand informieren, der ausschließlich Sie und eine kleinere Gruppe von Kolleginnen und Kollegen betrifft.
+Sie haben bereits unser allgemeines Schreiben vom 11.05.2026 zum Datenschutzvorfall erhalten. Wir müssen Sie mit diesem Schreiben über einen besonderen Umstand informieren, der ausschließlich Sie und eine kleinere Gruppe von Kollegen betrifft.
 
 **Was ist betroffen?**
 
@@ -56,7 +56,7 @@ Wir wissen, dass diese Informationen zu den persönlichsten überhaupt gehören.
 
 **Unser Hilfsangebot:**
 
-Wir haben in Absprache mit dem Betriebsrat ein **kostenloses und anonymes Beratungsangebot** für die betroffenen Mitarbeiterinnen und Mitarbeiter eingerichtet:
+Wir haben in Absprache mit dem Betriebsrat ein **kostenloses und anonymes Beratungsangebot** für die betroffenen Mitarbeiter eingerichtet:
 
 Externe Mitarbeiterberatung (EAP):
 Counselling Rheinland GmbH (unabhängig, streng vertraulich)

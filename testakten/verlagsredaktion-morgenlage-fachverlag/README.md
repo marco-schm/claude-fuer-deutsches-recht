@@ -18,7 +18,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 Arbeitsakte für `verlagsredaktion`.
 
-Die Akte simuliert den Montagmorgen einer Sachbearbeiterin im juristischen Fachverlag Morgenstern & Falkenhayn. Im Postfach liegen Autor:innenmails, ein fast fertiges Zeitschriftenheft, ein Buchkapitel mit Fremdmaterial, Bildrechtefragen, ein Satzfahnenlauf und Marketingwünsche. Nichts ist dramatisch, aber alles hängt aneinander.
+Die Akte simuliert den Montagmorgen einer Sachbearbeiterin im juristischen Fachverlag Morgenstern & Falkenhayn. Im Postfach liegen Autorenmails, ein fast fertiges Zeitschriftenheft, ein Buchkapitel mit Fremdmaterial, Bildrechtefragen, ein Satzfahnenlauf und Marketingwünsche. Nichts ist dramatisch, aber alles hängt aneinander.
 
 ## Dateien
 
@@ -27,7 +27,7 @@ Die Akte simuliert den Montagmorgen einer Sachbearbeiterin im juristischen Fachv
 | `01_morgenlage_postfach.md` | Eingangskorb mit Mails, Fristen, Anhängen und Status, Tagesablauf |
 | `02_heftplan_und_online_first.md` | Heftplan, Rubriken, Seitenbudget, Online-first-Fragen, Vertriebsnotiz |
 | `03_autorenkommunikation_rueckstaende.md` | Mailentwürfe Seidenpfennig, Rabenau, Wendt/Krug; Status-Tabelle Korrespondenz |
-| `04_manuskriptfragment_kommentarupdate.md` | fragmentarisches Kommentarupdate § 38 UrhG mit Lücken, Quellenampel und Hinweisen für die Herausgeber:innenrunde |
+| `04_manuskriptfragment_kommentarupdate.md` | fragmentarisches Kommentarupdate § 38 UrhG mit Lücken, Quellenampel und Hinweisen für die Herausgeberrunde |
 | `05_bildrechte_tabellen_screenshots.md` | Abbildungen, Screenshots, Tabellen, Credits, Rechteampel und Lizenzlaufzeiten |
 | `06_satzfahne_korrekturlauf.md` | Satzfahnennotiz mit 16 Auffälligkeiten, Freigabematrix, Vorschlag Korrekturlauf |
 | `07_metadaten_marketing_vertrieb.md` | Klappentext, Schlagworte, Newsletter, Tonalitätsvorgaben, Vergleich 1./2. Auflage |
@@ -43,6 +43,6 @@ Die Akte simuliert den Montagmorgen einer Sachbearbeiterin im juristischen Fachv
 - Eingangskorb in Morgenlage übersetzen.
 - Fristen und Stopper sichtbar machen.
 - Rechteampel für Fremdmaterial setzen.
-- Autor:innenmails freundlich und präzise schreiben.
+- Autorenmails freundlich und präzise schreiben.
 - Kommentarupdate und Heftplanung trennen.
 - Produktionsübergabe vorbereiten.

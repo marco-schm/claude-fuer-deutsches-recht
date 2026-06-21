@@ -1302,7 +1302,7 @@
     {
       "name": "notariat-alltag",
       "source": "./notariat-alltag",
-      "description": "Alltagsplugin für Notariat, Notariatsmitarbeitende und Notarinnen/Notare: Beurkundung, Vollzug, Register, Grundbuch, Geldwäsche, Kosten, Fristen und Mandantenkommunikation.",
+      "description": "Alltagsplugin für Notariat, Notariatsmitarbeiter und Notare: Beurkundung, Vollzug, Register, Grundbuch, Geldwäsche, Kosten, Fristen und Mandantenkommunikation.",
       "version": "359.0.0",
       "author": {
         "name": "Klotzkette"
@@ -1554,7 +1554,7 @@
     {
       "name": "staatsanwaltschaft-praxis-einstieg",
       "source": "./staatsanwaltschaft-praxis-einstieg",
-      "description": "Praxisplugin für neue Staatsanwältinnen, Staatsanwälte und Sitzungsdienst: Ermittlungen, RiStBV, Anklage, Strafbefehl, Hauptverhandlung, Rechtsmittel und OWiG-Bußgeldverfahren.",
+      "description": "Praxisplugin für neue Staatsanwälte und Sitzungsdienst: Ermittlungen, RiStBV, Anklage, Strafbefehl, Hauptverhandlung, Rechtsmittel und OWiG-Bußgeldverfahren.",
       "version": "359.0.0",
       "author": {
         "name": "Klotzkette"

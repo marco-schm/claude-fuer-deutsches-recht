@@ -45,7 +45,7 @@ Die Geschäftsführerin bedarf der vorherigen Zustimmung der Gesellschafterversa
 1. Verträge mit einem jährlichen Volumen oder einem Einmalvolumen über **10.000 EUR**
 2. Aufnahme von Fremdkapital
 3. Erteilung von Bürgschaften, Garantien, Patronatserklärungen
-4. Einstellung oder Kündigung von Mitarbeitenden mit einem Bruttojahresgehalt über 60.000 EUR
+4. Einstellung oder Kündigung von Mitarbeitern mit einem Bruttojahresgehalt über 60.000 EUR
 5. Abschluss, Änderung oder Beendigung von Verträgen mit Gesellschaftern oder nahestehenden Personen
 6. Verträge über Token-Emissionen oder die Ausgabe von Krypto-Werten
 7. Verträge mit einer Laufzeit über 24 Monate, sofern nicht ordentlich kündbar

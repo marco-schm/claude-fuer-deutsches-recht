@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Jura-Hausarbeiten: stimmt Adressat (Studierender, Korrektor), Frist (Hausarbeits-Abgabefrist) und Form auf den Zweck ab — typische Outputs: Gutachten im Gutachtenstil, Literaturverzeichnis, Gliederung."
+description: "Output-Wahl für Jura-Hausarbeiten: stimmt Adressat (Studentenr, Korrektor), Frist (Hausarbeits-Abgabefrist) und Form auf den Zweck ab — typische Outputs: Gutachten im Gutachtenstil, Literaturverzeichnis, Gliederung."
 ---
 
 # Output wählen

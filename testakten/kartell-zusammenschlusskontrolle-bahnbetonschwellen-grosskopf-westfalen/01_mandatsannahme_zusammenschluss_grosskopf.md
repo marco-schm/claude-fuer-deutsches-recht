@@ -23,7 +23,7 @@ Gegenstand des Mandats ist die beabsichtigte Übernahme sämtlicher Geschäftsan
 - Sitz: Münster (NRW)
 - Rechtsform: GmbH
 - Gesellschafter: Familie Grosskopf-Hartmann (81 %), Beteiligungsgesellschaft WestCap GmbH (19 %)
-- Mitarbeitende: 188 (Vollzeitäquivalente, Stand 31.12.2025)
+- Mitarbeiter: 188 (Vollzeitäquivalente, Stand 31.12.2025)
 - Umsatz 2025 (vorläufig): 74,3 Mio. EUR (konzernweit inkl. Tochter GBW Nederland B.V., Venlo)
 - Umsatz Deutschland: 58,1 Mio. EUR
 - Umsatz Niederlande: 11,6 Mio. EUR
@@ -47,7 +47,7 @@ Gegenstand des Mandats ist die beabsichtigte Übernahme sämtlicher Geschäftsan
 - Sitz: Bielefeld (NRW)
 - Rechtsform: AG
 - Aktionärsstruktur: Tannenheim Holding SE (Düsseldorf, 74,9 %), Streubesitz (25,1 %)
-- Mitarbeitende: 94 (Stand 31.12.2025)
+- Mitarbeiter: 94 (Stand 31.12.2025)
 - Umsatz 2025 (vorläufig): 32,8 Mio. EUR
 - Umsatz Deutschland: 29,1 Mio. EUR
 - Umsatz Niederlande: 2,4 Mio. EUR

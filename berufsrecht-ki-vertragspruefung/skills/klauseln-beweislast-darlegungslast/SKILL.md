@@ -26,7 +26,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Pflichtklauseln in AVV mit KI-Anbieter (Berufsrechtsperspektive)
 1. **Weisungsbindung Art. 28 Abs. 3 lit. a DSGVO:** Verarbeitung nur auf dokumentierte Weisung des Verantwortlichen.
-2. **Verschwiegenheit Art. 28 Abs. 3 lit. b DSGVO:** Mitarbeitende des Auftragsverarbeiters auf Verschwiegenheit verpflichtet.
+2. **Verschwiegenheit Art. 28 Abs. 3 lit. b DSGVO:** Mitarbeiter des Auftragsverarbeiters auf Verschwiegenheit verpflichtet.
 3. **§ 203 Abs. 4 StGB Mitwirkende-Verpflichtung:** Ausdrückliche Verpflichtung des Anbieter-Personals i.S.d. § 203 Abs. 4 — zwingend für Berufsträger mit Schweigepflicht.
 4. **TOM Art. 32 DSGVO** als Anlage mit konkreten Maßnahmen, nicht pauschal "Stand der Technik".
 5. **Unterauftragsverarbeiter Art. 28 Abs. 2 und Abs. 4 DSGVO:** Liste + Genehmigungsmechanismus.
@@ -40,4 +40,4 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Bei Streit:** Vorlagepflichten nach § 142 ZPO und Auskunftsanspruch Art. 15 DSGVO ergänzen klassische Beweislast.
 
 ## Praxis-Tipp
-Eine AVV-Klausel "Mitarbeitende sind auf Verschwiegenheit i.S.d. § 203 StGB verpflichtet" ist Mindeststandard, nicht optional. Fehlt sie, bleibt das berufsrechtliche Risiko trotz Art. 28 DSGVO bestehen — § 203 StGB ist eigenständig neben DSGVO.
+Eine AVV-Klausel "Mitarbeiter sind auf Verschwiegenheit i.S.d. § 203 StGB verpflichtet" ist Mindeststandard, nicht optional. Fehlt sie, bleibt das berufsrechtliche Risiko trotz Art. 28 DSGVO bestehen — § 203 StGB ist eigenständig neben DSGVO.

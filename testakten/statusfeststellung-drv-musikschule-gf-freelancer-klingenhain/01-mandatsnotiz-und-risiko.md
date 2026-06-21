@@ -1,6 +1,6 @@
 # Mandatsnotiz - Klingenhain Musikschule
 
-**Mandantin:** Klingenhain Musikschule gGmbH, kommunal geförderte Einrichtung in Hessen, 42 Festangestellte, 63 Honorarkräfte, 1.840 Schülerinnen und Schüler.
+**Mandantin:** Klingenhain Musikschule gGmbH, kommunal geförderte Einrichtung in Hessen, 42 Festangestellte, 63 Honorarkräfte, 1.840 Schüler.
 **Anlass:** DRV-Betriebsprüfung 2022-2025 mit Schwerpunkt Honorarkräfte, Geschäftsführung, freier anwaltlicher Mitarbeiter und IT-Freelancer.
 **Aktenzeichen intern:** KH-DRV-2026-06.
 

@@ -73,7 +73,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 | Eintritts- und Austrittsdatum | ja/nein | Pflicht | Klarheit Beschäftigungszeitraum |
 | Stellenbezeichnung und Aufgabenkatalog | vollständig? | Lücken = Rot | bei Auslassungen Indizwirkung |
 | Leistungsbeurteilung | vorhanden, vollständig? | Lücken = Rot | "stillschweigende Schlechtbewertung" |
-| Verhaltensbeurteilung | vorhanden, Reihenfolge der Personennennung? | Reihenfolge entscheidend | Vorgesetzte zuerst, dann Mitarbeitende, Kollegen, Kunden |
+| Verhaltensbeurteilung | vorhanden, Reihenfolge der Personennennung? | Reihenfolge entscheidend | Vorgesetzte zuerst, dann Mitarbeiter, Kollegen, Kunden |
 | Schlussformel | mit Bedauern, Dank, Zukunftswünschen? | fehlend = Orange-Rot | Kontextsignal |
 | Unterschrift (Geschäftsführung/HR) | ja, mit Funktion? | Rangsignal | je höher, desto wertvoller |
 | Ausstellungsdatum | sinnvoll vor Beendigung? | nach Beendigung normal | sehr lange nach Beendigung = Indizwirkung |

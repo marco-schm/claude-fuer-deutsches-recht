@@ -1,6 +1,6 @@
 ---
 name: schoeffe-ermuedung-komplexverfahren-orientierung
-description: "Ermüdung im Komplexverfahren (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei lange Sitzungstage, Konzentration, Pausen, Notizen und Überforderung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Ermüdung im Komplexverfahren (Orientierung): hilft ehrenamtlichen Richtern bei lange Sitzungstage, Konzentration, Pausen, Notizen und Überforderung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Ermüdung im Komplexverfahren: Orientierung

@@ -42,6 +42,6 @@ Dieser Arbeitsgang macht **Fristen- und Risikoampel** im Bereich **ki-richtlinie
 - **§ 113 BRAO**: anwaltsgerichtliches Verfahren — keine konkrete Frist, aber rasche Reaktion auf Beschwerde geboten.
 
 ## Ampelkriterien
-- **Rot**: Mitarbeitende verwenden nachweislich nicht freigegebene KI-Tools mit Mandantendaten; keine Schulung trotz Art. 4 KI-VO; Mandant beschwert sich über mangelnde Aufklärung.
+- **Rot**: Mitarbeiter verwenden nachweislich nicht freigegebene KI-Tools mit Mandantendaten; keine Schulung trotz Art. 4 KI-VO; Mandant beschwert sich über mangelnde Aufklärung.
 - **Gelb**: Richtlinie existiert formell, aber Whitelist fehlt; AVV-Status der genutzten Tools nicht dokumentiert; Schulung nur ad hoc.
 - **Grün**: Richtlinie + Whitelist + dokumentierte Schulung + ggf. Betriebsratseinbindung + Mandantenaufklärung im Mandatsvertrag.

@@ -12,7 +12,7 @@
 
 Der vorliegende Share Deal führt gesellschaftsrechtlich **nicht** zu einem Betriebsübergang i.S.v. § 613a BGB, da die Zielgesellschaft (Pellbach Werkzeugbau GmbH & Co. KG) als Rechtsträger erhalten bleibt und lediglich die Gesellschaftsanteile auf den Käufer übertragen werden. Ein Betriebsübergang tritt nur bei Übertragung des Betriebs oder Betriebsteils ein, nicht bei Gesellschafteroder Anteilswechsel.
 
-**Ausnahme:** Die geplante Herauslösung des Geschäftsbereichs Präzisionsdrehteile (Rinner Präzisionsdrehteile GmbH, Deggendorf) aus dem Target und Übertragung an Annegret Pellbach-Roosendaal **kann** einen Betriebsübergang nach § 613a BGB auslösen, wenn der Bereich als abtrennbare wirtschaftliche Einheit qualifiziert. Unterrichtungsschreiben an die 44 betroffenen Mitarbeitenden in Deggendorf erforderlich.
+**Ausnahme:** Die geplante Herauslösung des Geschäftsbereichs Präzisionsdrehteile (Rinner Präzisionsdrehteile GmbH, Deggendorf) aus dem Target und Übertragung an Annegret Pellbach-Roosendaal **kann** einen Betriebsübergang nach § 613a BGB auslösen, wenn der Bereich als abtrennbare wirtschaftliche Einheit qualifiziert. Unterrichtungsschreiben an die 44 betroffenen Mitarbeitern in Deggendorf erforderlich.
 
 ### Betriebsrat-Unterrichtung (§ 613a Abs. 5 BGB)
 

@@ -24,7 +24,7 @@ Aufgrund des Art. 81 Abs. 1 der Bayerischen Bauordnung (BayBO) in der Fassung de
 
 (2) Bei der Errichtung baulicher Anlagen sowie bei einer Änderung oder Nutzungsänderung, die einen erhöhten Stellplatzbedarf erwarten lässt, sind Stellplätze in ausreichender Zahl auf dem Baugrundstück oder in unmittelbarer Nähe in solcher Lage und Größe herzustellen, dass sie nach Maßgabe der Anlage 1 zu dieser Satzung den voraussichtlichen Stellplatzbedarf decken.
 
-(3) **Bei Wohnungen** ist je Wohneinheit ein Mindestbedarf von **1,0 Stellplätzen** anzunehmen. Bei kleinen Wohnungen unter 35 m² Wohnfläche gilt 0,5 Stellplätze je Wohneinheit. Bei Studierenden-Wohnheimen, Senioren-Wohnheimen und vergleichbaren betreuten Wohnformen gilt 0,3 Stellplätze je Wohneinheit.
+(3) **Bei Wohnungen** ist je Wohneinheit ein Mindestbedarf von **1,0 Stellplätzen** anzunehmen. Bei kleinen Wohnungen unter 35 m² Wohnfläche gilt 0,5 Stellplätze je Wohneinheit. Bei Studentenn-Wohnheimen, Senioren-Wohnheimen und vergleichbaren betreuten Wohnformen gilt 0,3 Stellplätze je Wohneinheit.
 
 (4) **Bei sonstigen Nutzungen** richtet sich die Stellplatzpflicht nach der Anlage 1 (Richtzahlen-Tabelle).
 
@@ -137,7 +137,7 @@ Oberbürgermeister
 |---|---|
 | Wohnung über 35 m² Wfl. | 1,0 je WE |
 | Wohnung bis 35 m² Wfl. | 0,5 je WE |
-| Studierenden-Wohnheim | 0,3 je WE |
+| Studentenn-Wohnheim | 0,3 je WE |
 | Senioren-Wohnheim, betreutes Wohnen | 0,3 je WE |
 | Büro- und Verwaltungsgebäude | 1,0 je 30 m² Nutzfläche |
 | Banken | 1,0 je 30 m² Nutzfläche |

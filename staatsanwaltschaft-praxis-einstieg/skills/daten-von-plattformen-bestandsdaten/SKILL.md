@@ -1,6 +1,6 @@
 ---
 name: daten-von-plattformen-bestandsdaten
-description: "Bestands- und Nutzungsdaten von Plattformen: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Bestands- und Nutzungsdaten von Plattformen: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Bestands- und Nutzungsdaten von Plattformen

@@ -735,7 +735,7 @@ vielen Dank für Ihre Anfrage, die uns heute zugegangen ist.
 
 [DRINGLICHKEITS-HINWEIS — nur wenn HOCH: Absatz einfügen, sonst weglassen]
 
-Wir begleiten potenzielle Mandantinnen und Mandanten gern dabei, die richtigen
+Wir begleiten potenzielle Mandanten gern dabei, die richtigen
 nächsten Schritte zu finden. Bitte beachten Sie, dass [MANDATSVERHAELTNIS-DISCLAIMER-KURZFORM].
 
 Für eine erste Terminabsprache stehen wir Ihnen telefonisch zur Verfügung:
@@ -1560,7 +1560,7 @@ Die folgenden Merkmale sprechen gegen Spam:
 2. Skeleton-Eintrag im CRM nur mit Status "SPAM" und Typ; keine vollständige Datenerfassung.
 3. Sekretariat erhält Hinweis mit Aussortierungsempfehlung.
 4. Bei Phishing: zusätzliche Meldung an die Kanzlei-IT.
-5. Bei VERDÄCHTIG (nicht eindeutig): Empfehlung zur manuellen Prüfung durch Rechtsanwalt oder erfahrene Mitarbeitende vor Beantwortung.
+5. Bei VERDÄCHTIG (nicht eindeutig): Empfehlung zur manuellen Prüfung durch Rechtsanwalt oder erfahrene Mitarbeiter vor Beantwortung.
 
 ## Falsch-Positiv-Schutz
 

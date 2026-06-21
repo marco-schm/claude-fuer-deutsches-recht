@@ -21,7 +21,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-Dieses Plugin ist der robuste Prüfungsrechts-Werkzeugkasten für Studierende, Hochschulen, Prüfungsämter und Anwälte: kein Bauchgefühl über Fairness, sondern Ordnung, Frist, Bewertungsrüge, Akteneinsicht und prozessfester nächster Schritt.
+Dieses Plugin ist der robuste Prüfungsrechts-Werkzeugkasten für Studenten, Hochschulen, Prüfungsämter und Anwälte: kein Bauchgefühl über Fairness, sondern Ordnung, Frist, Bewertungsrüge, Akteneinsicht und prozessfester nächster Schritt.
 
 ## Wofür dieses Plugin da ist
 

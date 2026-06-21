@@ -1,6 +1,6 @@
 ---
 name: koerperverletzung-strafantrag-230
-description: "Körperverletzung und Strafantrag nach § 230 StGB: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Körperverletzung und Strafantrag nach § 230 StGB: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Körperverletzung und Strafantrag nach § 230 StGB

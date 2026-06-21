@@ -1,6 +1,6 @@
 ---
 name: owi-kommunikation-mit-verwaltungsbehoerde
-description: "Kommunikation mit Verwaltungsbehörde und Gericht: sachkundig, knapp und rollenrein: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene."
+description: "Kommunikation mit Verwaltungsbehörde und Gericht: sachkundig, knapp und rollenrein: OWiG-Praxis-Skill für junge Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene."
 ---
 
 # Kommunikation mit Verwaltungsbehörde und Gericht: sachkundig, knapp und rollenrein

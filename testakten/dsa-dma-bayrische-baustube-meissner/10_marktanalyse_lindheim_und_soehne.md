@@ -10,7 +10,7 @@
 - **Komplementär:** Egmont Friedolin Lindheim, geb. 14.09.1965
 - **Kommanditisten:** Sohn Adalbert Lindheim, Tochter Reginhilde Lindheim-Bartelfink
 - **Branche:** Antikrestaurierung und Stilmöbel-Replikate, klassisch fränkisch und Empire
-- **Mitarbeitende:** 17 (Stand HRB-Auszug)
+- **Mitarbeiter:** 17 (Stand HRB-Auszug)
 - **Glitzerwald-Account:** @lindheim_meisterwerkstatt, Account-Anlage 04.01.2026
 
 ## Auffällige Daten zu @lindheim_meisterwerkstatt

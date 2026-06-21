@@ -2,7 +2,7 @@
 
 ## Zweck
 
-Diese Datei bietet studentischen Beraterinnen und Beratern der Rechtsberatungsstelle einen schnellen Orientierungsrahmen für typische Mandate in Nordrhein-Westfalen. Die Bänder sind keine Rechtsgutachten, sondern Plausibilitätsmarken: Liegt ein Mandantenanliegen innerhalb des Bands, ist eine eingehende Prüfung sinnvoll; liegt es weit außerhalb, ist besondere Vorsicht geboten oder das Anliegen ist zur Klarstellung zurückzuverweisen. Alle Bänder ersetzen nicht die eigenständige Subsumtion im Einzelfall.
+Diese Datei bietet studentischen Beratern der Rechtsberatungsstelle einen schnellen Orientierungsrahmen für typische Mandate in Nordrhein-Westfalen. Die Bänder sind keine Rechtsgutachten, sondern Plausibilitätsmarken: Liegt ein Mandantenanliegen innerhalb des Bands, ist eine eingehende Prüfung sinnvoll; liegt es weit außerhalb, ist besondere Vorsicht geboten oder das Anliegen ist zur Klarstellung zurückzuverweisen. Alle Bänder ersetzen nicht die eigenständige Subsumtion im Einzelfall.
 
 NRW ist mit ca. 18 Mio. Einwohnern das bevölkerungsreichste Bundesland. Es umfasst den größten Arbeitsgerichtsbezirk Deutschlands und eine dichte Gerichtslandschaft mit Schwerpunkten in Köln, Düsseldorf, Essen, Dortmund und Münster.
 
@@ -34,7 +34,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 In NRW gilt das Verwaltungsverfahrensgesetz NRW (VwVfG NRW), das inhaltlich dem Bundes-VwVfG entspricht. Das Widerspruchsverfahren ist im allgemeinen Verwaltungsrecht in NRW grundsätzlich beibehalten worden (anders als in Bayern); Ausnahmen in bestimmten Sachbereichen möglich. Klagefrist nach erfolglosem Widerspruch: 1 Monat (§ 74 VwGO).
 
 **NRW-Datenschutzgesetz (DSG NRW) und LDI NRW**
-NRW hat ein eigenes Datenschutzgesetz (Datenschutzgesetz Nordrhein-Westfalen – DSG NRW), das die DSGVO auf Landesebene ergänzt und öffentliche Stellen des Landes und der Kommunen bindet. Die Landesbeauftragte für Datenschutz und Informationsfreiheit NRW (LDI NRW, Sitz: Düsseldorf) ist die zuständige Aufsichtsbehörde für öffentliche Stellen in NRW sowie für viele nicht-öffentliche Stellen. Studierenden ist zu empfehlen: Bei DSGVO-Verletzungen durch NRW-Behörden (z. B. Jobcenter, Schulen) Beschwerde bei der LDI NRW einreichen (Art. 77 DSGVO i. V. m. § 15 DSG NRW). Für Bundesbehörden bleibt der Bundesbeauftragte (BfDI) zuständig.
+NRW hat ein eigenes Datenschutzgesetz (Datenschutzgesetz Nordrhein-Westfalen – DSG NRW), das die DSGVO auf Landesebene ergänzt und öffentliche Stellen des Landes und der Kommunen bindet. Die Landesbeauftragte für Datenschutz und Informationsfreiheit NRW (LDI NRW, Sitz: Düsseldorf) ist die zuständige Aufsichtsbehörde für öffentliche Stellen in NRW sowie für viele nicht-öffentliche Stellen. Studentenn ist zu empfehlen: Bei DSGVO-Verletzungen durch NRW-Behörden (z. B. Jobcenter, Schulen) Beschwerde bei der LDI NRW einreichen (Art. 77 DSGVO i. V. m. § 15 DSG NRW). Für Bundesbehörden bleibt der Bundesbeauftragte (BfDI) zuständig.
 
 **Arbeitsrecht: Größter Arbeitsgerichtsbezirk**
 NRW ist der arbeitsrechtlich aktivste Standort in Deutschland. Allein das LAG Düsseldorf und das LAG Köln gehören zu den größten Berufungsgerichten in Arbeitssachen. In industriegeprägten Regionen (Ruhrgebiet: Essen, Dortmund, Bochum) sind Massenentlassungen und Betriebsübergänge (§ 613a BGB) häufige Beratungsthemen. Zudem: In NRW bestehen starke Gewerkschaftsstrukturen (IGM, ver.di), was Informationspflichten des Arbeitgebers bei Betriebsübergang (§ 613a Abs. 5 BGB) praxisrelevant macht.
@@ -57,7 +57,7 @@ Die Jobcenter in NRW wenden kommunale Richtlinien zur Angemessenheit der Unterku
 | Aachen | Einfacher Mietspiegel | 2022 | Kappungsgrenze 15 % |
 | Wuppertal | Einfacher Mietspiegel | 2021 | Kappungsgrenze 20 % |
 
-Hinweis: Die NRW-Mietpreisbegrenzungsverordnung (MietBremse NRW) und die NRW-Kappungsgrenzenverordnung werden vom Landesministerium regelmäßig aktualisiert. Studierenden ist zu empfehlen, die jeweils aktuelle Verordnung (Landesrecht NRW, BASS) vor der Beratung zu prüfen.
+Hinweis: Die NRW-Mietpreisbegrenzungsverordnung (MietBremse NRW) und die NRW-Kappungsgrenzenverordnung werden vom Landesministerium regelmäßig aktualisiert. Studentenn ist zu empfehlen, die jeweils aktuelle Verordnung (Landesrecht NRW, BASS) vor der Beratung zu prüfen.
 
 ---
 

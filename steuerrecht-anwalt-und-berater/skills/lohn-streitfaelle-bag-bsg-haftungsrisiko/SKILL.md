@@ -85,7 +85,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### Phase 4 — Werkstudent vs. AN
 
 - Werkstudent: SV-vereinfachung; max. 20 Wochenstunden Vorlesungszeit.
-- Bei Verlust des Studierenden-Status oder Ueberschreiten der Stundengrenze: AN-Status.
+- Bei Verlust des Studentenn-Status oder Ueberschreiten der Stundengrenze: AN-Status.
 
 ### Phase 5 — GGF-Status
 

@@ -17,9 +17,9 @@ description: "Semesterabschluss-Übergabe — das Gegenstück zu `/einarbeitung`
 
 Jedes Semester verliert die Rechtsberatungsstelle ihre gesamte studentische Belegschaft und baut sie neu auf. `/einarbeitung` löst die eine Hälfte des Problems — Onboarding der neuen Kohorte. Diese Skill löst die andere Hälfte: Sie verabschiedet die abgehende Kohorte, indem sie Übergabenotizen erstellt, die alle für den Fortgang notwendigen Informationen zu jedem laufenden Mandat enthalten.
 
-Ohne diese Übergabe verlässt das Fallwissen die Beratungsstelle mit den Studierenden. Die neue Kohorte beginnt mit der Fallakte und der Aktennotiz — das reicht nie. Zwei Wochen gehen für die Wiedereinarbeitung verloren; der Mandant erlebt dies als Rückschritt: Anrufe bleiben unbeantwortet, bereits beantwortete Fragen werden erneut gestellt.
+Ohne diese Übergabe verlässt das Fallwissen die Beratungsstelle mit den Studentenn. Die neue Kohorte beginnt mit der Fallakte und der Aktennotiz — das reicht nie. Zwei Wochen gehen für die Wiedereinarbeitung verloren; der Mandant erlebt dies als Rückschritt: Anrufe bleiben unbeantwortet, bereits beantwortete Fragen werden erneut gestellt.
 
-**Mandatsgeheimnis:** Übergabenotizen enthalten vertrauliche Mandantendaten (§ 43a Abs. 2 BRAO, § 203 StGB). Sie werden ausschließlich innerhalb der Beratungsstelle zwischen beteiligten Studierenden und dem Supervisor ausgetauscht — niemals per privater E-Mail, Chat-Dienst oder sonstiger ungesicherter Verbindung.
+**Mandatsgeheimnis:** Übergabenotizen enthalten vertrauliche Mandantendaten (§ 43a Abs. 2 BRAO, § 203 StGB). Sie werden ausschließlich innerhalb der Beratungsstelle zwischen beteiligten Studentenn und dem Supervisor ausgetauscht — niemals per privater E-Mail, Chat-Dienst oder sonstiger ungesicherter Verbindung.
 
 ## Eingaben
 
@@ -32,8 +32,8 @@ Ohne diese Übergabe verlässt das Fallwissen die Beratungsstelle mit den Studie
 
 ### Kernvorschriften
 
-- **§ 43a Abs. 2 BRAO** — Verschwiegenheitspflicht des Rechtsanwalts; gilt sinngemäß für Studierende der Beratungsstelle. Die Übergabenotiz enthält nur Informationen, die für die Fallfortführung unbedingt notwendig sind.
-- **§ 203 Abs. 1, Abs. 3 StGB** — Verletzung von Privatgeheimnissen: Die Weitergabe von Mandantendaten an nicht-befugte Dritte ist strafbar. Studierende als "berufsmäßig tätige Gehilfen" i. S. d. § 203 Abs. 3 S. 2 StGB.
+- **§ 43a Abs. 2 BRAO** — Verschwiegenheitspflicht des Rechtsanwalts; gilt sinngemäß für Studenten der Beratungsstelle. Die Übergabenotiz enthält nur Informationen, die für die Fallfortführung unbedingt notwendig sind.
+- **§ 203 Abs. 1, Abs. 3 StGB** — Verletzung von Privatgeheimnissen: Die Weitergabe von Mandantendaten an nicht-befugte Dritte ist strafbar. Studenten als "berufsmäßig tätige Gehilfen" i. S. d. § 203 Abs. 3 S. 2 StGB.
 - **§ 6 Abs. 2 RDG** — Aufsichtspflicht: Fallübergaben sind ein Aufgabenbereich, der der Supervisorenkontrolle bedarf; der begleitende Rechtsanwalt/die begleitende Rechtsanwältin zeichnet die Übergabe ab.
 - **§ 50 BRAO** — Aufbewahrungspflicht für Handakten: Der Supervisor hat Unterlagen nach Mandatsende mindestens 5 Jahre aufzubewahren; die Übergabenotizen sind Teil der Handakte im Rechtssinne.
 - **DSGVO Art. 5 Abs. 1 lit. f** (Integrität und Vertraulichkeit), **Art. 32 DSGVO** — Technische und organisatorische Maßnahmen für die Datensicherheit; sichere Übertragungswege für Übergabenotizen.
@@ -65,7 +65,7 @@ Für jeden Fall:
 
 **Fall-ID:** [fall-id]
 **Rechtsgebiet:** [Gebiet]
-**Ausscheidende/-r Studierende/-r:** [Name]
+**Ausscheidende/-r Studenten/-r:** [Name]
 **Nachfolger/-in:** [Name oder "TBD"]
 **Begleitender Supervisor:** [Name]
 **Mandant:** [Name oder Mandanten-ID — kein Klarname in unsicheren Systemen]
@@ -124,12 +124,12 @@ auf Behördenantwort), dies benennen.]
 ## Erste-Woche-Prioritäten für Nachfolger/-in
 
 1. [Konkret — z. B. "Mandantin innerhalb von 48 Stunden nach Fallübernahme anrufen. Sich vorstellen, Fallübernahme bestätigen."]
-2. [Fristenbezogen — z. B. "Widerspruchsfrist endet am [Datum]. Entwurf des abgehenden Studierenden prüfen, überarbeiten, einreichen."]
-3. [Wissenslücke — z. B. "Gutachten des abgehenden Studierenden zur Mietpreisbremse lesen, bevor am [Datum] die Verhandlung stattfindet."]
+2. [Fristenbezogen — z. B. "Widerspruchsfrist endet am [Datum]. Entwurf des abgehenden Studentenn prüfen, überarbeiten, einreichen."]
+3. [Wissenslücke — z. B. "Gutachten des abgehenden Studentenn zur Mietpreisbremse lesen, bevor am [Datum] die Verhandlung stattfindet."]
 
 ---
 
-**Übergabe erstellt von:** [Ausscheidende/-r Studierende/-r]
+**Übergabe erstellt von:** [Ausscheidende/-r Studenten/-r]
 **Datum:** [JJJJ-MM-TT]
 **Geprüft von:** [Supervisor, sofern Supervisionsmodell dies vorsieht]
 ```
@@ -141,8 +141,8 @@ Nach allen fallbezogenen Notizen, `handoffs/[semester]/_zusammenfassung.md` erst
 ```markdown
 ### Kohortenübergabe-Zusammenfassung — [Semester-Ende]
 
-**Ausscheidende Studierende:** [N]
-**Eintretende Studierende:** [N]
+**Ausscheidende Studenten:** [N]
+**Eintretende Studenten:** [N]
 **Laufende, zu übergebende Fälle:** [N]
 **Fälle, die zum Semesterende abgeschlossen werden (keine Übergabe):** [N]
 
@@ -164,8 +164,8 @@ Nach allen fallbezogenen Notizen, `handoffs/[semester]/_zusammenfassung.md` erst
 
 ## Hinweise für den Supervisor
 
-- [Falls in diesem Semester besondere Leistungsprobleme bei Studierenden aufgefallen sind — für engere Begleitung im Folgesemester notieren]
-- [Falls ausscheidende Studierende bereit sind, für den Nachfolger/die Nachfolgerin zur Verfügung zu stehen — z. B. Absolvent/-in, der/die die Übergabe begleiten möchte]
+- [Falls in diesem Semester besondere Leistungsprobleme bei Studentenn aufgefallen sind — für engere Begleitung im Folgesemester notieren]
+- [Falls ausscheidende Studenten bereit sind, für den Nachfolger/die Nachfolgerin zur Verfügung zu stehen — z. B. Absolvent/-in, der/die die Übergabe begleiten möchte]
 - [Muster über Fälle hinweg — z. B. "Drei von sechs Fällen haben Fristen in den ersten 14 Tagen des neuen Semesters; ggf. Onboarding-Übungen auf diese Rechtsgebiete fokussieren"]
 ```
 
@@ -183,7 +183,7 @@ Nach Supervisoren-Prüfung liegen die Übergabenotizen unter `handoffs/[semester
 
 ## Beispiel
 
-**Szenario:** Studierende Müller beendet das Semester und gibt Fall `erdem-mietrecht-2026` an nachfolgende Studierende Schulze weiter. Frist: Widerspruch gegen Mieterhöhung am 08.06.2026.
+**Szenario:** Studenten Müller beendet das Semester und gibt Fall `erdem-mietrecht-2026` an nachfolgende Studenten Schulze weiter. Frist: Widerspruch gegen Mieterhöhung am 08.06.2026.
 
 Übergabenotiz enthält: aktueller Stand (Widerspruchsentwurf fertig, wartet auf Supervisoren-Freigabe), Fristtabelle (08.06.2026 — DRINGEND), Was getan wurde (Erstberatung 15.03.2026, Entwurf 01.04.2026), Hinweis Supervisor: "Mandantin spricht nur Türkisch — Schulze soll Dolmetscher organisieren."
 
@@ -193,7 +193,7 @@ Nach Supervisoren-Prüfung liegen die Übergabenotizen unter `handoffs/[semester
 - **Fristenübergabe vergessen:** Die gefährlichste Lücke. Alle aktiven Fristen müssen in der Notiz erscheinen; Nachfolger/-in muss sie in `/fristen` als eigene Fristen neu eintragen.
 - **Übergabe ohne Supervisoren-Abzeichnung:** § 6 Abs. 2 RDG verlangt effektive Aufsicht. Auch "formlose" Übergaben sind dem Supervisor zu melden.
 - **Zu dünne Übergabenotiz:** "Fall läuft gut" ist keine Übergabe. Die Notiz muss so vollständig sein, dass jemand ohne Vorkenntnisse den Fall übernehmen kann.
-- **Mandantenkontakt während der Übergabephase nicht gesichert:** Zwischen Ausscheiden der alten und Übernahme durch neue Studierende muss der Supervisor Ansprechbarkeit für den Mandanten sicherstellen.
+- **Mandantenkontakt während der Übergabephase nicht gesichert:** Zwischen Ausscheiden der alten und Übernahme durch neue Studenten muss der Supervisor Ansprechbarkeit für den Mandanten sicherstellen.
 
 ## Quellenpflicht
 

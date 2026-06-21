@@ -28,7 +28,7 @@
 - Bietlimitkarte
 - Risikomatrix und offene Fragen
 
-## Begriffe für junge Anwältinnen und Anwälte
+## Begriffe für junge Anwälte
 
 - **Geringstes Gebot:** rechtliche Untergrenze im Termin. Es ist nicht das persönliche Maximalgebot.
 - **Bargebot:** Geldbetrag, der tatsächlich geboten wird.

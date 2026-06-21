@@ -1,6 +1,6 @@
 ---
 name: owi-kosten-vollstreckung-und-ruecknahme
-description: "Kosten, Rücknahme, Rechtskraft und Vollstreckung im Bußgeldverfahren sauber abschließen: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene."
+description: "Kosten, Rücknahme, Rechtskraft und Vollstreckung im Bußgeldverfahren sauber abschließen: OWiG-Praxis-Skill für junge Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene."
 ---
 
 # Kosten, Rücknahme, Rechtskraft und Vollstreckung im Bußgeldverfahren sauber abschließen

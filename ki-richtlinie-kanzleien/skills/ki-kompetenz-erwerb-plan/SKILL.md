@@ -38,7 +38,7 @@ Themen: Effektives Prompten (Vier-Elemente-Methode), Anonymisierungstechniken, Q
 Die Teilnahme an Schulungsveranstaltungen zum KI-Einsatz wird schriftlich dokumentiert. Jede Teilnehmerin und jeder Teilnehmer bestätigt durch Unterschrift, dass die Schulungsinhalte vermittelt wurden und verstanden wurden. Die Dokumentation wird für mindestens drei Jahre aufbewahrt.
 
 **Baustein Jährliche Aktualisierungspflicht:**
-Die Schulungsunterlagen und -inhalte werden jährlich — spätestens bis [Monat] — auf Aktualität überprüft und an neue Rechtsentwicklungen, neue KI-Systeme und neue Erkenntnisse zu Risiken angepasst. Alle Mitarbeitenden nehmen jährlich an einer Aktualisierungsschulung teil.
+Die Schulungsunterlagen und -inhalte werden jährlich — spätestens bis [Monat] — auf Aktualität überprüft und an neue Rechtsentwicklungen, neue KI-Systeme und neue Erkenntnisse zu Risiken angepasst. Alle Mitarbeitern nehmen jährlich an einer Aktualisierungsschulung teil.
 
 ## Hinweise zur Aktualisierung
 

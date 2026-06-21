@@ -1,6 +1,6 @@
 ---
 name: owi-verbandsgeldbusse-30-130
-description: "Unternehmens- und Aufsichtspflicht-Ordnungswidrigkeiten: §§ 30 und 130 OWiG in der Praxis: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene."
+description: "Unternehmens- und Aufsichtspflicht-Ordnungswidrigkeiten: §§ 30 und 130 OWiG in der Praxis: OWiG-Praxis-Skill für junge Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene."
 ---
 
 # Unternehmens- und Aufsichtspflicht-Ordnungswidrigkeiten: §§ 30 und 130 OWiG in der Praxis

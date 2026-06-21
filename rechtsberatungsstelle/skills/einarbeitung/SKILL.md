@@ -23,10 +23,10 @@ Falls die Konfigurationsdatei fehlt oder noch Platzhalter enthält: "Die Beratun
 
 ### Kernvorschriften für die Einarbeitung
 
-- **§ 6 Abs. 1 RDG** — Unentgeltliche Rechtsdienstleistung: Studierende dürfen im Rahmen der Rechtsberatungsstelle Rechtsberatung erbringen, soweit sie unentgeltlich erfolgt und unter Aufsicht eines Rechtsanwalts/einer Rechtsanwältin steht.
+- **§ 6 Abs. 1 RDG** — Unentgeltliche Rechtsdienstleistung: Studenten dürfen im Rahmen der Rechtsberatungsstelle Rechtsberatung erbringen, soweit sie unentgeltlich erfolgt und unter Aufsicht eines Rechtsanwalts/einer Rechtsanwältin steht.
 - **§ 6 Abs. 2 RDG** — Aufsichtspflicht des begleitenden Rechtsanwalts/der begleitenden Rechtsanwältin: Die Aufsichtsperson muss zur Rechtsanwaltschaft zugelassen sein; die Aufsicht muss inhaltlich effektiv sein (kein Formalia-Supervisor).
-- **§ 43a Abs. 2 BRAO, § 203 Abs. 3 StGB** — Mandatsgeheimnis und Verschwiegenheitspflicht: Gilt sinngemäß für Studierende als berufsmäßig tätige Gehilfen. Alle Mandantendaten, Fallnotizen und Korrespondenz sind vertraulich. Kein Austausch über Mandate außerhalb der Beratungsstelle.
-- **§§ 1, 2 BerHG** — Beratungshilfe: Häufig in der Mandatsarbeit relevant; Studierende müssen wissen, wann ein Beratungshilfe-Schein vor Leistungsbeginn einzuholen ist.
+- **§ 43a Abs. 2 BRAO, § 203 Abs. 3 StGB** — Mandatsgeheimnis und Verschwiegenheitspflicht: Gilt sinngemäß für Studenten als berufsmäßig tätige Gehilfen. Alle Mandantendaten, Fallnotizen und Korrespondenz sind vertraulich. Kein Austausch über Mandate außerhalb der Beratungsstelle.
+- **§§ 1, 2 BerHG** — Beratungshilfe: Häufig in der Mandatsarbeit relevant; Studenten müssen wissen, wann ein Beratungshilfe-Schein vor Leistungsbeginn einzuholen ist.
 - **§§ 114 ff. ZPO** — Prozesskostenhilfe (PKH): Voraussetzungen und typisches Prozedere in der Mandatsarbeit.
 
 ### Leitentscheidungen
@@ -45,7 +45,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 >
 > Ein wichtiger Grundsatz vorab: Alles, was ich erzeuge, ist ein Ausgangspunkt. Die rechtliche Analyse kommt von Ihnen. [Supervisor] prüft Ihre Arbeit [entsprechend dem Supervisionsmodell]. Ich übernehme die Formatierung und den Erstentwurf, damit Ihre Zeit der juristischen Denkarbeit zugute kommt.
 >
-> Was Sie als Studierender nach § 6 RDG dürfen und was nicht: Sie beraten unter Aufsicht und unentgeltlich. Sie erstellen keine selbständigen Rechtsprodukte ohne Supervisoren-Freigabe. Jedes nach außen gehende Schriftstück und jede Mandantenauskunft zu strittigen Rechtsfragen wird vom Supervisor freigegeben.
+> Was Sie als Studentenr nach § 6 RDG dürfen und was nicht: Sie beraten unter Aufsicht und unentgeltlich. Sie erstellen keine selbständigen Rechtsprodukte ohne Supervisoren-Freigabe. Jedes nach außen gehende Schriftstück und jede Mandantenauskunft zu strittigen Rechtsfragen wird vom Supervisor freigegeben.
 
 ### Teil 1: Diese Beratungsstelle (5 Min)
 
@@ -70,7 +70,7 @@ Kein Monolog — Verständnis überprüfen: "Wenn ein Mandant mit einem Räumung
 | `/status [Zielgruppe]` | Jemanden über einen Fall informieren | Zusammenfassung für Mandant / Supervisor / Gericht |
 | `/mandantenbrief [typ]` | Routine-Korrespondenz | Terminbestätigung, Unterlagenbitte, Statusupdate aus Mustern |
 
-Für jeden Befehl: was er tut, was er ausdrücklich nicht tut, was der/die Studierende vor dem Verwenden prüft.
+Für jeden Befehl: was er tut, was er ausdrücklich nicht tut, was der/die Studenten vor dem Verwenden prüft.
 
 ### Teil 3: Übungsaufgaben (8–10 Min)
 
@@ -81,21 +81,21 @@ Für jeden Befehl: was er tut, was er ausdrücklich nicht tut, was der/die Studi
 >
 > Führen Sie `/mandanten-aufnahme` aus und sprechen Sie mit mir wie mit Frau Erdem. Ich antworte wie Frau Erdem. Schauen Sie am Ende auf die erzeugte Fallzusammenfassung: Welche Rechtsfragen wurden erkannt? Wurde die Mängeleinrede (§ 536 BGB) als mögliche Verteidigung erkannt?
 
-Nachbesprechung: Was die Aufnahme erfasst hat, wo der Studierende tiefer hätte bohren sollen, was dem Supervisor zu flaggen ist.
+Nachbesprechung: Was die Aufnahme erfasst hat, wo der Studenten tiefer hätte bohren sollen, was dem Supervisor zu flaggen ist.
 
 **Übung 2 — Übungsentwurf:**
 > Verwenden Sie Frau Erdems Aufnahme und führen Sie `/entwurf widerspruch-kündigung` aus. Sie erhalten einen Erstentwurf.
 >
 > Lesen Sie ihn kritisch. Was ist richtig? Was ist falsch? Was würden Sie vor Vorlage an [Supervisor] ändern?
 
-Ziel: Der Entwurf ist kompetent, aber nicht abschließend. Der Studierende lernt, kritisch zu lesen statt blind zu akzeptieren.
+Ziel: Der Entwurf ist kompetent, aber nicht abschließend. Der Studenten lernt, kritisch zu lesen statt blind zu akzeptieren.
 
 **Übung 3 — Recherchefahrplan:**
 > Führen Sie `/recherche-start "Mietminderung wegen Heizungsausfall nach § 536 BGB"` aus. Sie erhalten einen Fahrplan — Normen, Rspr.-Bereiche, Suchbegriffe.
 >
 > Nichts davon ist geprüft. Das ist so gewollt. Nennen Sie eine Norm aus dem Fahrplan und beschreiben Sie, wie Sie deren Aktualität und Einschlägigkeit prüfen würden.
 
-Ziel: `/recherche-start` ist ein Startpunkt, keine Quelle. Der Studierende forscht selbst.
+Ziel: `/recherche-start` ist ein Startpunkt, keine Quelle. Der Studenten forscht selbst.
 
 ### Teil 4: Verifikationsgewohnheiten (2 Min)
 
@@ -122,14 +122,14 @@ Erzeugt die einseitige Studentenreferenzkarte. Inhalt:
 - Was die KI leisten kann / was nicht (Ausgangspunkte ja, fertige Arbeitsergebnisse nein, geprüfte Quellen nein)
 - Verifikationsgewohnheiten (Punkte aus Teil 4)
 - Wen fragen bei Unklarheiten (Supervisorenname aus CLAUDE.md)
-- **RDG-Kurzhinweis:** Was Studierende nach § 6 RDG dürfen und was nicht
+- **RDG-Kurzhinweis:** Was Studenten nach § 6 RDG dürfen und was nicht
 
 Druckfähig. Eine Seite. Am ersten Tag aushändigen.
 
 ## Risiken und typische Fehler
 
-- **Einarbeitung als Formalität behandeln:** Die Übungsaufgaben sind der Kern. Studierende, die sie überspringen, gehen mit falscher Sicherheit ins erste echte Mandat.
-- **RDG-Grenzen nicht verinnerlicht:** Studierende müssen wissen, dass sie nur unter Aufsicht und unentgeltlich tätig sind. Kein eigenständiges Handeln ohne Supervisoren-Rückkopplung.
+- **Einarbeitung als Formalität behandeln:** Die Übungsaufgaben sind der Kern. Studenten, die sie überspringen, gehen mit falscher Sicherheit ins erste echte Mandat.
+- **RDG-Grenzen nicht verinnerlicht:** Studenten müssen wissen, dass sie nur unter Aufsicht und unentgeltlich tätig sind. Kein eigenständiges Handeln ohne Supervisoren-Rückkopplung.
 - **Mandatsgeheimnis vergessen:** Bereits in der Übungsphase: Fallhypothetika enthalten keine echten Mandantendaten. In der echten Arbeit: strikte Vertraulichkeit nach § 203 StGB.
 - **Supervisor nicht eingerichtet:** Wenn die CLAUDE.md Platzhalter enthält, ist die Einarbeitung zu stoppen und dem Supervisor zur Einrichtung zu übergeben.
 
@@ -141,7 +141,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ## Beispiel
 
-**Szenario:** Neue Studierende Hofer betritt die Mietrechtsklinik zu Beginn des Wintersemesters. Sie führt `/einarbeitung` aus.
+**Szenario:** Neue Studenten Hofer betritt die Mietrechtsklinik zu Beginn des Wintersemesters. Sie führt `/einarbeitung` aus.
 
 Teil 1: Klinik-Konfiguration wird gelesen; Hofer erfährt, dass die Klinik Mietrecht und Verbraucherrecht abdeckt, nicht aber Strafrecht (Verweisung an Rechtsberatungsstelle der Strafrechts-Vertiefung). Supervisorin: Rechtsanwältin Dr. Weber.
 

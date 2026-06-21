@@ -1,6 +1,6 @@
 ---
 name: ehrenamtlicher-richter-asyl-sitzung
-description: "Ehrenamtlicher Richter Asyl (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Glaubhaftigkeit, Herkunftsländer, Dolmetscher, Schutzstatus und Eilrechtsschutz mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Ehrenamtlicher Richter Asyl (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Glaubhaftigkeit, Herkunftsländer, Dolmetscher, Schutzstatus und Eilrechtsschutz mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Ehrenamtlicher Richter Asyl: Sitzungspraxis

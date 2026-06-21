@@ -23,7 +23,7 @@ Auswirkung auf Examensplanung: Ausfall von ca. 6 Wochen Vollzeitlernen. Lernplan
 
 § 9 JAG NRW (Juristenausbildungsgesetz NRW) regelt den Nachteilsausgleich bei Prüfungsunfähigkeit und Behinderung. Abrufbar bei [dejure.org/gesetze/JAG_NRW](https://dejure.org/gesetze/JAG_NRW):
 
-> „Machen Studierende oder Prüflinge glaubhaft, dass sie wegen einer länger andauernden Krankheit oder wegen einer Behinderung nicht in der Lage sind, Prüfungsleistungen ganz oder teilweise in der vorgesehenen Form zu erbringen, kann die Prüfungsbehörde auf Antrag geeignete Ausgleichsmaßnahmen gewähren."
+> „Machen Studenten oder Prüflinge glaubhaft, dass sie wegen einer länger andauernden Krankheit oder wegen einer Behinderung nicht in der Lage sind, Prüfungsleistungen ganz oder teilweise in der vorgesehenen Form zu erbringen, kann die Prüfungsbehörde auf Antrag geeignete Ausgleichsmaßnahmen gewähren."
 
 Mögliche Ausgleichsmaßnahmen nach § 9 JAG NRW:
 - Verlängerung der Bearbeitungszeit

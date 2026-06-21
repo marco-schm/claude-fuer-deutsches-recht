@@ -53,7 +53,7 @@ Diese Roadmap zeigt den Weg zur vollständigen Konformität der Thalheim Industr
 
 | Meilenstein | Frist | Status (März 2026) |
 |---|---|---|
-| Modul A: alle Mitarbeitenden (Ziel 100 %) | 31.10.2026 | 38 % — Kampagne läuft |
+| Modul A: alle Mitarbeitern (Ziel 100 %) | 31.10.2026 | 38 % — Kampagne läuft |
 | Modul C: HR-Fachbereich (100 %) | 31.05.2026 | 36 % |
 | Modul D: Finanzierung (100 %) | 31.05.2026 | 40 % |
 | Modul E: IT-Bereich (100 %) | 30.06.2026 | 58 % |

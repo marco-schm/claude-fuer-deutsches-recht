@@ -13,7 +13,7 @@ Bahnhofstraße 44, 29690 Schwarmstedt, Niedersachsen
 Handelsregister: HRB 207441 Amtsgericht Walsrode
 Geschäftsführer: Eberhard Funkbruch (alleiniger GF und Alleingesellschafter)
 Umsatz 2025: ca. 38 Mio. EUR
-Mitarbeitende: 145 (davon 78 Fahrer)
+Mitarbeiter: 145 (davon 78 Fahrer)
 EU-Gemeinschaftslizenz: DE-EU-GKLN-2021-33847, gültig bis 31.12.2026
 ADR-Zulassung: ADR-2024-ND-0078 (Klassen 5.1, 6.2, 9)
 GDP-Zertifikat: DIN EN ISO 9001:2015, GDP-Pharma-Audit 2024 bestanden

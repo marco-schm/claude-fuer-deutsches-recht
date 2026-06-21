@@ -72,7 +72,7 @@ Die Werbung mit Lernerfolgen ist nach dem UWG besonders sensitiv: Versprechen wi
 
 - Vor Franchisebeginn in jedem Bundesland, in dem Franchisenehmer tätig werden sollen, die spezifischen Genehmigungsanforderungen recherchieren.
 - Werbematerialien rechtlich prüfen lassen; jede Erfolgsversprechen auf Nachweisbarkeit testen.
-- Curriculum als Schöpfung des Urheberrechts schützen; NDA für alle Trainer und Lehrenden.
+- Curriculum als Schöpfung des Urheberrechts schützen; NDA für alle Trainer und Lehrern.
 - Online-Lernplattform: Widerrufsrecht bei Online-Kursverträgen nach §§ 355 ff. BGB implementieren.
 - Datenschutz für minderjährige Lernende: Art. 8 DSGVO; elterliche Einwilligung für Kinder unter 16 Jahren.
 

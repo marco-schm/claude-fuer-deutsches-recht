@@ -28,7 +28,7 @@ Die Originalvollmacht wurde notariell beglaubigt und liegt der Akte als Anlage 0
 
 ### 2.1 Unternehmensportrait
 
-Die Werkmann Anlagentechnik AG ist ein im Handelsregister Mannheim (HRB 28741) eingetragenes Unternehmen mit Sitz in Mannheim, gegründet 1978 durch Ernst-Jürgen Werkmann (Vater von Dr. Hannes Werkmann-Lottermann). Das Unternehmen beschäftigt 480 Mitarbeiterinnen und Mitarbeiter an drei Standorten: Mannheim (Hauptwerk, Verwaltung, F&E), Worms (Fertigungszentrum für Hochdruckkomponenten), Lörrach (Montage und Qualitätskontrolle). Umsatz 2025: ca. 187 Millionen Euro. Die Mandantin hält 100 % der Werkmann Pharma Inc. (Delaware, operativ: Boston, MA) sowie 51 % der Werkmann Middle East FZCO (Dubai).
+Die Werkmann Anlagentechnik AG ist ein im Handelsregister Mannheim (HRB 28741) eingetragenes Unternehmen mit Sitz in Mannheim, gegründet 1978 durch Ernst-Jürgen Werkmann (Vater von Dr. Hannes Werkmann-Lottermann). Das Unternehmen beschäftigt 480 Mitarbeiter an drei Standorten: Mannheim (Hauptwerk, Verwaltung, F&E), Worms (Fertigungszentrum für Hochdruckkomponenten), Lörrach (Montage und Qualitätskontrolle). Umsatz 2025: ca. 187 Millionen Euro. Die Mandantin hält 100 % der Werkmann Pharma Inc. (Delaware, operativ: Boston, MA) sowie 51 % der Werkmann Middle East FZCO (Dubai).
 
 Kernprodukte: Präzisions-Mahlanlagen für pharmazeutische Wirkstoffe (Typ PMA-Serie), Mikrofluidik-Reaktoren (Typ MFR-Serie) für Laborsynthese, Prozessautomation und Durchflusschemie. Zertifizierungen: ISO 9001:2015, ATEX-Richtlinie 2014/34/EU, FDA 21 CFR Part 11 (Werkmann Pharma Inc.).
 

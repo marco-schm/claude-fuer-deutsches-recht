@@ -1,6 +1,6 @@
 ---
 name: schoeffe-sitzungsordnung-orientierung
-description: "Sitzungsordnung und Auftreten (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Saalverhalten, Kleidung, Pünktlichkeit, Kontaktvermeidung und Sicherheit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Sitzungsordnung und Auftreten (Orientierung): hilft ehrenamtlichen Richtern bei Saalverhalten, Kleidung, Pünktlichkeit, Kontaktvermeidung und Sicherheit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Sitzungsordnung und Auftreten: Orientierung

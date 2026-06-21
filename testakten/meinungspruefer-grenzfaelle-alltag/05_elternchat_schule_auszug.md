@@ -1,7 +1,7 @@
 # 05 - Elternchat Schule Auszug
 
 **Schule:** Theodor-Fontane-Gesamtschule Oberkrainbach (staatliche Schule, Schulleiterin Dr. Hofbauer)
-**Klasse:** 7b (28 Schülerinnen und Schüler)
+**Klasse:** 7b (28 Schüler)
 **Chat:** "7b Eltern Austausch" (WhatsApp-Gruppe, Administrator Tobias R.)
 **Mitglieder:** 23 Elternteile, davon 4 als "stille Mitleser" markiert
 **Datum des Auszugs:** 14.05.2026, 19:10 bis 20:05 Uhr
@@ -37,7 +37,7 @@
 
 > Sehr geehrte Eltern,
 >
-> mir wurden Auszüge aus Ihrer Chatgruppe weitergeleitet. Ich bitte dringend darum, persönliche Vorwürfe gegen Kolleginnen und Kollegen in Gruppenchats zu unterlassen. Die Behauptung, Lehrkräfte ließen Kinder absichtlich auflaufen, ist ehrverletzend und unwahr. Ich behalte mir vor, bei Wiederholung schulrechtliche und ggf. persönliche Schritte zu prüfen.
+> mir wurden Auszüge aus Ihrer Chatgruppe weitergeleitet. Ich bitte dringend darum, persönliche Vorwürfe gegen Kollegen in Gruppenchats zu unterlassen. Die Behauptung, Lehrkräfte ließen Kinder absichtlich auflaufen, ist ehrverletzend und unwahr. Ich behalte mir vor, bei Wiederholung schulrechtliche und ggf. persönliche Schritte zu prüfen.
 >
 > Für sachliche Rückmeldungen zur Mathearbeit stehe ich gerne zur Verfügung. Ein Klassenelternabend findet am 22.05.2026 statt.
 >

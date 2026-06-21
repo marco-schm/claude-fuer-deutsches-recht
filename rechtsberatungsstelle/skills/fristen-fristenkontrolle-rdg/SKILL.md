@@ -21,7 +21,7 @@ description: "Fristenmanagement für die Rechtsberatungsstelle — Fristen eintr
 - **Beschreibung** — eine Zeile: was ist fällig?
 - **Fälligkeitsdatum** (ggf. Uhrzeit)
 - **Quelle** — Grundlage der Frist (z. B. Zustellungsurkunde v. 20.04.2026, § 74 VwGO, § 276 Abs. 1 ZPO, Mietvertrag § 7)
-- **Zuständige/-r Studierende/-r**
+- **Zuständige/-r Studenten/-r**
 
 ## Rechtlicher Rahmen
 
@@ -53,13 +53,13 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 1. Fall-ID + Bezeichnung abfragen.
 2. Fristtyp und Beschreibung erfassen.
 3. Fälligkeitsdatum aufnehmen; Quelle dokumentieren.
-4. Zuständige/-n Studierende/-n zuweisen.
+4. Zuständige/-n Studenten/-n zuweisen.
 5. System generiert automatisch eine ID: `[fall-id]-[kurzbezeichnung]-[JJJJ-MM]`.
 6. Duplikatsprüfung: existiert bereits ein Eintrag mit gleicher Fall-ID, gleichem Typ und gleichem Datum? Falls ja, Hinweis vor dem Speichern.
 7. **Plausibilitätsprüfung (Pflicht):** Nach Eingabe des Datums wird das Ergebnis gegen typische Fristbänder für den gewählten Typ geprüft (z. B. Klagefrist VwGO: ca. 1 Monat nach Zustellung; Dreiwochenfrist KSchG: 21 Tage ab Zugang Kündigung; Widerspruchsfrist VwGO: 1 Monat). Liegt das eingetragene Datum außerhalb des typischen Bandes, erfolgt folgende Warnung:
  > "Das eingetragene Datum liegt außerhalb des typischen Bereichs für [Fristtyp] im deutschen Recht ([Rechtsgebiet]). Typische Dauer: ca. [Bandbreite] nach [auslösendem Ereignis]. Ihr Eintrag: [Datum], das sind [N] Tage nach [Ereignis]. Prüfen Sie Ihre Berechnung gegen [zitierte Norm aus dem Fristenband] sowie die maßgebliche Fristberechnungsregel (§ 187 f. BGB / § 222 ZPO / § 57 VwGO). Falls Ihre Berechnung korrekt ist (Sonderregelung, Hemmung, Unterbrechung, Wiedereinsetzung), bestätigen Sie; ich trage die Frist unverändert ein."
-8. Gibt der/die Studierende `[PRÜFEN]` im Datumsfeld ein, wird der Eintrag mit `fällig: [PRÜFEN]` gespeichert; die Plausibilitätsprüfung läuft erst, wenn ein konkretes Datum eingetragen wird.
-9. **Die Skill berechnet keine Fristen.** Die Berechnung obliegt dem/der Studierenden und dem Supervisor; die Skill trägt das Ergebnis ein.
+8. Gibt der/die Studenten `[PRÜFEN]` im Datumsfeld ein, wird der Eintrag mit `fällig: [PRÜFEN]` gespeichert; die Plausibilitätsprüfung läuft erst, wenn ein konkretes Datum eingetragen wird.
+9. **Die Skill berechnet keine Fristen.** Die Berechnung obliegt dem/der Studentenn und dem Supervisor; die Skill trägt das Ergebnis ein.
 
 ### Modus `--bericht` (Standard) — gesamtübergreifende Übersicht
 
@@ -99,7 +99,7 @@ Liest `deadlines.yaml` und erzeugt folgende Tabelle:
 
 ## Nach Zuständigen (Arbeitsbelastung)
 
-| Studierende/-r | Überfällig | Nächste 7 Tage | Nächste 14 Tage | Gesamt aktiv |
+| Studenten/-r | Überfällig | Nächste 7 Tage | Nächste 14 Tage | Gesamt aktiv |
 |---|---|---|---|---|
 
 ## Nach Rechtsgebiet
@@ -118,7 +118,7 @@ Typische Aktualisierungen: Fristdatum geändert (Terminverlegung durch Gericht),
 ### Modus `--erledigt [id]` — als abgeschlossen markieren
 
 - Setzt `status: erledigt`, `erledigungsdatum: [heute]`.
-- Bestätigt mit dem/der Studierenden, dass die Handlung tatsächlich vorgenommen und (soweit erforderlich) eingereicht wurde.
+- Bestätigt mit dem/der Studentenn, dass die Handlung tatsächlich vorgenommen und (soweit erforderlich) eingereicht wurde.
 - Verschwindet aus aktiven Berichten, bleibt aber in der YAML-Datei erhalten.
 
 ### Modus `--schliessen [id]` — ohne Erledigung schließen
@@ -127,7 +127,7 @@ Für Fristen, die nicht mehr relevant sind (Fall einvernehmlich beendet, Antrag 
 
 ## Beispiel
 
-**Szenario:** Studierende Maria hat eine Kündigung des Mietverhältnisses erhalten. Kündigung wurde am 08.04.2026 zugestellt. Widerspruchsfrist (§ 574 BGB i. V. m. § 542 BGB) läuft am 08.05.2026 ab.
+**Szenario:** Studenten Maria hat eine Kündigung des Mietverhältnisses erhalten. Kündigung wurde am 08.04.2026 zugestellt. Widerspruchsfrist (§ 574 BGB i. V. m. § 542 BGB) läuft am 08.05.2026 ab.
 
 ```
 /fristen --eintragen
@@ -143,11 +143,11 @@ Ausgabe: Eintrag `mueller-mietrecht-widerspruch-2026-05` wird gespeichert. Plaus
 
 ## Risiken und typische Fehler
 
-- **Frist falsch berechnet:** Die Skill trägt ein, was der/die Studierende eingibt; sie berechnet nicht selbst. Besonders kritisch bei: § 222 ZPO (Wochenfrist), § 193 BGB (Sonn-/Feiertagsverschiebung), § 57 VwGO, Sonderfälle bei Zustellungsfiktion nach § 41 Abs. 2 VwVfG.
+- **Frist falsch berechnet:** Die Skill trägt ein, was der/die Studenten eingibt; sie berechnet nicht selbst. Besonders kritisch bei: § 222 ZPO (Wochenfrist), § 193 BGB (Sonn-/Feiertagsverschiebung), § 57 VwGO, Sonderfälle bei Zustellungsfiktion nach § 41 Abs. 2 VwVfG.
 - **Notfrist verwechselt mit verlängerbarer Frist:** ZPO-Notfristen (z. B. Notfrist Berufung, § 548 ZPO; Revisionsfrist, § 548 ZPO) sind nicht verlängerbar. Fristverlängerungsanträge bei Notfristen sind unwirksam. Immer beim Supervisor klären.
 - **PKH-Antrag hemmt Frist nicht automatisch:** Die Einreichung eines PKH-Antrags unterbricht keine Klagefrist. Ausnahme: § 204 Abs. 1 Nr. 14 BGB (Verjährungshemmung durch PKH-Antrag bei Verjährungsfristen); nicht bei prozessualen Ausschlussfristen.
 - **Keine Zuweisung:** Aktive Fristen ohne Zuständige/-n werden im Bericht besonders hervorgehoben. Unzugewiesene Fristen sind Hochrisikopositionen.
-- **Frist nur im Kopf des Studierenden:** Wird nicht in der YAML-Datei eingetragen und nicht an die nächste Kohorte übergeben.
+- **Frist nur im Kopf des Studentenn:** Wird nicht in der YAML-Datei eingetragen und nicht an die nächste Kohorte übergeben.
 
 ## Quellenpflicht
 

@@ -38,7 +38,7 @@ Die Sperrmitteilung enthält den Vorwurf "Coordinated Inauthentic Behavior" und 
 ## Hinweise an Mandantin
 
 - Keine eigenständige öffentliche Kommunikation zur Sperre, bis Strategie steht
-- Persönlichkeitsrecht: bei medialer Erwähnung von Glitzerwald-Mitarbeitenden Vorsicht (Verbotsklauseln, einstweilige Verfügungen denkbar)
+- Persönlichkeitsrecht: bei medialer Erwähnung von Glitzerwald-Mitarbeitern Vorsicht (Verbotsklauseln, einstweilige Verfügungen denkbar)
 - Kein paralleler Aufbau eines "Fake-Accounts" — würde Position schwächen
 
 Protokoll geschlossen 17:10 Uhr. Mandantin verlangt Kopie.

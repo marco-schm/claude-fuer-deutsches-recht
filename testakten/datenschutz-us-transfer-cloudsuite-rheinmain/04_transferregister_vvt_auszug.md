@@ -29,4 +29,4 @@ Stand: 18.05.2026
 
 ## Schutzbedarfsnotiz
 
-Die regulären Daten sind überwiegend B2B-Kommunikationsdaten. Das Risiko steigt durch Freitextfelder, weil Kundinnen und Kunden ungefragt private Informationen, Krankheitsangaben oder personenbezogene Eskalationsdetails mitteilen können. Deshalb muss der Transfer nicht nur nach Tabellenfeldern, sondern nach realistischen Ticketinhalten bewertet werden.
+Die regulären Daten sind überwiegend B2B-Kommunikationsdaten. Das Risiko steigt durch Freitextfelder, weil Kunden ungefragt private Informationen, Krankheitsangaben oder personenbezogene Eskalationsdetails mitteilen können. Deshalb muss der Transfer nicht nur nach Tabellenfeldern, sondern nach realistischen Ticketinhalten bewertet werden.

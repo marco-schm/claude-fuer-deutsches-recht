@@ -1,6 +1,6 @@
 ---
 name: owi-hauptverhandlung-sitzungsdienst-staatsanwaeltinnen
-description: "OWi-Hauptverhandlung im Sitzungsdienst: Teilnahme, Anträge, Beweisaufnahme, Einstellung und Urteilserwartung: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene."
+description: "OWi-Hauptverhandlung im Sitzungsdienst: Teilnahme, Anträge, Beweisaufnahme, Einstellung und Urteilserwartung: OWiG-Praxis-Skill für junge Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene."
 ---
 
 # OWi-Hauptverhandlung im Sitzungsdienst: Teilnahme, Anträge, Beweisaufnahme, Einstellung und Urteilserwartung
@@ -27,7 +27,7 @@ Gib je nach Lage einen Kurzvermerk, Verfügungsvorschlag, Nachermittlungsauftrag
 
 ## Fachlicher Fokus
 
-Der Skill bereitet junge Staatsanwältinnen und Staatsanwälte auf den Gerichtstermin vor: Die Teilnahme ist nach § 75 OWiG nicht Pflicht, kann aber bei schwierigen Verfahren angezeigt sein. Er gibt eine Sitzungsnotiz mit Sachverhalt, Verfahrensstand, Beweisfragen, Einstellungslinie, Anträgen und Kommunikation mit Verwaltungsbehörde und Gericht aus.
+Der Skill bereitet junge Staatsanwälte auf den Gerichtstermin vor: Die Teilnahme ist nach § 75 OWiG nicht Pflicht, kann aber bei schwierigen Verfahren angezeigt sein. Er gibt eine Sitzungsnotiz mit Sachverhalt, Verfahrensstand, Beweisfragen, Einstellungslinie, Anträgen und Kommunikation mit Verwaltungsbehörde und Gericht aus.
 
 ## Prüfschritte
 

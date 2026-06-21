@@ -30,7 +30,7 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 ## Erste Schritte
 
 1. Vertragsstruktur der Familienhandelsvertretung klären: GbR, Einzelunternehmen, sonstiges.
-2. Mitarbeitende Familienangehörige auf arbeitsrechtliche Einordnung prüfen.
+2. Mitarbeiter Familienangehörige auf arbeitsrechtliche Einordnung prüfen.
 3. Agenturübertragung auf Familienangehörigen auf Ausgleichsfolgen nach § 89b Abs. 3 Nr. 3 HGB prüfen.
 4. Erbrechtliche Nachfolge in die Handelsvertretung klären.
 5. Sozialversicherungsrechtlichen Status mitarbeitender Familienangehöriger bestimmen.
@@ -57,7 +57,7 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 ## Typische Fallstricke
 
 - Ausgleichsanspruch bei Agenturübertragung an Familienmitglied irrtümlich angenommen.
-- Mitarbeitende Ehefrau ohne eigenen Vertragsanspruch — Ansprüche auf Gesamtgut beschränkt.
+- Mitarbeiter Ehefrau ohne eigenen Vertragsanspruch — Ansprüche auf Gesamtgut beschränkt.
 - Sozialversicherungspflicht mitarbeitender Angehöriger nicht geklärt — Nachforderungsrisiko.
 - Erbfolge in Handelsvertretung ohne Zustimmung des Unternehmers nicht möglich.
 

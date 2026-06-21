@@ -1,6 +1,6 @@
 ---
 name: hasskriminalitaet-online-und-plattformdaten
-description: "Hasskriminalität online: Plattformdaten und Kontext: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Hasskriminalität online: Plattformdaten und Kontext: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Hasskriminalität online: Plattformdaten und Kontext

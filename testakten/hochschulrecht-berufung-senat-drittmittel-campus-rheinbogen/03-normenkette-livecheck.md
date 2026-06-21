@@ -26,7 +26,7 @@ Achtung: Das HG NRW wurde 2024 in mehreren Punkten zur Drittmittelpraxis novelli
 - **Berufungsordnung Campus Rheinbogen** (Fassung seit 2023): Verfahrensvorschriften zur Berufungskommission, Liste, Senatsanhörung, Vertraulichkeit.
 - **Grundordnung Campus Rheinbogen** zur Senatszusammensetzung und zu Quoren.
 - **Drittmittelordnung Campus Rheinbogen** insbesondere zu Industriedrittmittel mit Geheimhaltung — derzeit Stand 2022, soll 2026 novelliert werden. Welche Fassung gilt für die laufende Berufung?
-- **Senatsgeschäftsordnung** für Verfahrensregelungen, insbesondere Beschlussfähigkeit, Stimmrecht der Studierenden.
+- **Senatsgeschäftsordnung** für Verfahrensregelungen, insbesondere Beschlussfähigkeit, Stimmrecht der Studentenn.
 
 ### Stufe 4: Konkreter Bescheid, Beschluss oder Verwaltungsakt
 

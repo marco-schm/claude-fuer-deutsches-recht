@@ -57,7 +57,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 | 1.1 | [Monat/Jahr] | [Name] | [Beschreibung] |
 
 **Baustein Kommunikationspflicht:**
-Über Änderungen der KI-Nutzungsrichtlinie werden alle Mitarbeitenden innerhalb von zwei Wochen nach dem Update informiert. Bei wesentlichen Änderungen (neue Verbote, neue Pflichten) ist eine Kurzschulung durchzuführen; die Teilnahme ist zu dokumentieren.
+Über Änderungen der KI-Nutzungsrichtlinie werden alle Mitarbeitern innerhalb von zwei Wochen nach dem Update informiert. Bei wesentlichen Änderungen (neue Verbote, neue Pflichten) ist eine Kurzschulung durchzuführen; die Teilnahme ist zu dokumentieren.
 
 --- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]

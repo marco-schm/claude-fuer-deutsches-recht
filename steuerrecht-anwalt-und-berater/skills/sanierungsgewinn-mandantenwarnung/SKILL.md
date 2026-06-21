@@ -13,7 +13,7 @@ description: "Mandantenbrief-Mustertext zur frühen Sensibilisierung in der Kris
 
 ## Worum geht es
 
-Der Mandantenbrief in der Frühphase ist das wichtigste Steuerungsinstrument. Erfahrungsgemäß glauben Mandantinnen und Mandanten, ein Forderungsverzicht der Gläubiger sei wirtschaftlich entlastend. Steuerlich kann er aber zum Bumerang werden, wenn die Voraussetzungen des § 3a EStG nicht erfüllt sind oder kein Verlustvortrag zum Verbrauch bereitsteht. Liefere den Mustertext, der Mandantschaft rechtzeitig sensibilisiert.
+Der Mandantenbrief in der Frühphase ist das wichtigste Steuerungsinstrument. Erfahrungsgemäß glauben Mandanten, ein Forderungsverzicht der Gläubiger sei wirtschaftlich entlastend. Steuerlich kann er aber zum Bumerang werden, wenn die Voraussetzungen des § 3a EStG nicht erfüllt sind oder kein Verlustvortrag zum Verbrauch bereitsteht. Liefere den Mustertext, der Mandantschaft rechtzeitig sensibilisiert.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

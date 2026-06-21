@@ -1,6 +1,6 @@
 ---
 name: security-training-management
-description: "Prüft Security-Schulung der Leitung und Mitarbeitenden im Nis2 Cybersecurity Compliance."
+description: "Prüft Security-Schulung der Leitung und Mitarbeitern im Nis2 Cybersecurity Compliance."
 ---
 
 # Security Training Management

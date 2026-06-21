@@ -20,7 +20,7 @@ Dieser Einstieg öffnet den Arbeitsgang, wenn unklar ist, ob eine Website rechtl
 ## Prüffragen
 
 1. Wer betreibt das Angebot?
-2. Richtet sich das Angebot an Verbraucherinnen und Verbraucher?
+2. Richtet sich das Angebot an Verbraucher?
 3. Wird online ein Vertrag angebahnt oder geschlossen?
 4. Handelt es sich um eine öffentliche Stelle oder um ein privates Unternehmen?
 5. Ist es Website, mobile App, Webshop, Banking, Verkehr, Telekommunikation, E-Book, Ticketing oder nur Information?

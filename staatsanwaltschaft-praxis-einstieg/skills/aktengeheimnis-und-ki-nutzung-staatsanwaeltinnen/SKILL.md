@@ -1,6 +1,6 @@
 ---
 name: aktengeheimnis-und-ki-nutzung-staatsanwaeltinnen
-description: "Aktengeheimnis und KI-Nutzung in der Staatsanwaltschaft: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Aktengeheimnis und KI-Nutzung in der Staatsanwaltschaft: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Aktengeheimnis und KI-Nutzung in der Staatsanwaltschaft

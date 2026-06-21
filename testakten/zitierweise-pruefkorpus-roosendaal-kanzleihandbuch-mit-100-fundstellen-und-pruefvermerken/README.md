@@ -118,7 +118,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 |---|---|
 | [`emails/2025-03-10_lattermann_an_partnerrunde_handbuch-update.eml`](emails/2025-03-10_lattermann_an_partnerrunde_handbuch-update.eml) | Knowledge Manager Lattermann an Partnerrunde: Handbuch v4.0 Update |
 | [`emails/2025-04-02_roosendaal_an_pohlmann-wittfeldt_pruefauftrag.eml`](emails/2025-04-02_roosendaal_an_pohlmann-wittfeldt_pruefauftrag.eml) | Roosendaal an Pohlmann-Wittfeldt: Prüfauftrag Pruefkorpus |
-| [`emails/2025-05-15_mitarbeitende_an_lattermann_beck-anfrage.eml`](emails/2025-05-15_mitarbeitende_an_lattermann_beck-anfrage.eml) | Mitarbeitende an Knowledge: Beck-Online-Lizenzanfrage |
+| [`emails/2025-05-15_mitarbeitende_an_lattermann_beck-anfrage.eml`](emails/2025-05-15_mitarbeitende_an_lattermann_beck-anfrage.eml) | Mitarbeiter an Knowledge: Beck-Online-Lizenzanfrage |
 | [`emails/2025-06-20_hu-berlin_an_pohlmann-wittfeldt_korrespondenz.eml`](emails/2025-06-20_hu-berlin_an_pohlmann-wittfeldt_korrespondenz.eml) | HU Berlin an Pohlmann-Wittfeldt: Lehrauftrag Zitierweise |
 
 ### PDFs

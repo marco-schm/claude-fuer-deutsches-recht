@@ -70,7 +70,7 @@ Akustische Maanahmen (Akustikdecken, Wandpaneele) müssen vor Verkleidung auf ko
 
 ## Typische Fallstricke
 
-- Akustikdecke vergessen einzumessen: Nachhallzeit ueberschritten, Lehrende und Schueler belastet
+- Akustikdecke vergessen einzumessen: Nachhallzeit ueberschritten, Lehrer und Schueler belastet
 - Schallschutz-Trennwand mit Schallbruecke an Decke: Rw-Wert unterschritten, Laerm in Nachbarklasse
 - Barrierefreies WC pro Geschoss fehlt: nachtraeglich teurer Umbau, Betriebsgenehmigung gefaehrdet
 - Spielgeraete ohne DIN EN 1176 Prüfprotokoll: Schultraeger haftet bei Unfaellen

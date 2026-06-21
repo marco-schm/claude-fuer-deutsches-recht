@@ -57,7 +57,7 @@ Der Betrieb von Frischetrans war vorübergehend eingeschränkt. Kundenlieferunge
 
 **Datenschutz**
 
-Aus Vorsichtsgründen hat Frischetrans betroffene Mitarbeiterinnen und Mitarbeiter sowie betroffene Geschäftspartner bereits persönlich und vertraulich informiert. Wir nehmen den Schutz personenbezogener Daten sehr ernst und arbeiten eng mit den Datenschutzbehörden zusammen.
+Aus Vorsichtsgründen hat Frischetrans betroffene Mitarbeiter sowie betroffene Geschäftspartner bereits persönlich und vertraulich informiert. Wir nehmen den Schutz personenbezogener Daten sehr ernst und arbeiten eng mit den Datenschutzbehörden zusammen.
 
 **Kein Lösegeld**
 
@@ -65,7 +65,7 @@ Frischetrans hat — in Übereinstimmung mit den Empfehlungen der Sicherheitsbeh
 
 **Statement der Geschäftsführerin**
 
-Theresia Wallbruck, Geschäftsführerin von Frischetrans Mittelrhein GmbH: *„Dieser Angriff hat uns getroffen wie alle anderen Unternehmen, die täglich mit ihren Systemen arbeiten. Wir haben sofort gehandelt, alle Behörden informiert und tun alles, um unsere Mitarbeiterinnen und Mitarbeiter, unsere Kunden und unsere Geschäftspartner zu schützen. Frischetrans ist wieder voll einsatzbereit, und wir werden gestärkt aus dieser Krise hervorgehen."*
+Theresia Wallbruck, Geschäftsführerin von Frischetrans Mittelrhein GmbH: *„Dieser Angriff hat uns getroffen wie alle anderen Unternehmen, die täglich mit ihren Systemen arbeiten. Wir haben sofort gehandelt, alle Behörden informiert und tun alles, um unsere Mitarbeiter, unsere Kunden und unsere Geschäftspartner zu schützen. Frischetrans ist wieder voll einsatzbereit, und wir werden gestärkt aus dieser Krise hervorgehen."*
 
 **Über Frischetrans Mittelrhein GmbH**
 

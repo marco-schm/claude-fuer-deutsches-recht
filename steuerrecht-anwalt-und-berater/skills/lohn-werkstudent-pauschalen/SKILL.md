@@ -13,11 +13,11 @@ description: "Werkstudent SV-Status 20-Stunden-Grenze pauschale Beitraege. Anwen
 
 ## Kernsachverhalt
 
-Werkstudenten sind ordentlich immatrikulierte Studierende, die im Nebenerwerb arbeiten. Sie sind in der KV/PV/AV beitragsfrei (Werkstudentenprivileg), aber RV-pflichtig. Voraussetzung: max. 20 Wochenstunden waehrend der Vorlesungszeit; in der vorlesungsfreien Zeit auch mehr. Prüfung sorgfaeltig — bei Verlust des Werkstudent-Status nachtraegliche SV-Beitragspflicht.
+Werkstudenten sind ordentlich immatrikulierte Studenten, die im Nebenerwerb arbeiten. Sie sind in der KV/PV/AV beitragsfrei (Werkstudentenprivileg), aber RV-pflichtig. Voraussetzung: max. 20 Wochenstunden waehrend der Vorlesungszeit; in der vorlesungsfreien Zeit auch mehr. Prüfung sorgfaeltig — bei Verlust des Werkstudent-Status nachtraegliche SV-Beitragspflicht.
 
 ## Kaltstart-Rueckfragen
 
-1. Ist der AN ordentlicher Studierender (Immatrikulationsbescheinigung)?
+1. Ist der AN ordentlicher Studentenr (Immatrikulationsbescheinigung)?
 2. Wie viele Wochenstunden arbeitet der AN?
 3. Liegt Vorlesungs- oder vorlesungsfreie Zeit vor?
 4. Hat der AN Promotion erreicht oder Master beendet? (Status ggf. weg.)
@@ -30,9 +30,9 @@ Werkstudenten sind ordentlich immatrikulierte Studierende, die im Nebenerwerb ar
 
 ### Primaernormen
 
-**§ 6 Abs. 1 Nr. 3 SGB V** — KV-Befreiung ordentlicher Studierender.
+**§ 6 Abs. 1 Nr. 3 SGB V** — KV-Befreiung ordentlicher Studentenr.
 
-**§ 27 Abs. 4 SGB III** — AV-Befreiung Studierender.
+**§ 27 Abs. 4 SGB III** — AV-Befreiung Studentenr.
 
 **§ 16 BAfoeG** — Werkstudent-Definition.
 

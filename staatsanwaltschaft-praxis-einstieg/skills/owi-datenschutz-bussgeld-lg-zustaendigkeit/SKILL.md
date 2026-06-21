@@ -1,6 +1,6 @@
 ---
 name: owi-datenschutz-bussgeld-lg-zustaendigkeit
-description: "Datenschutz-Bußgeld nach DSGVO/BDSG: Aufsichtsbehörde, OWiG-Verweisung, Landgerichtsschwelle und Unternehmensgeldbuße: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene."
+description: "Datenschutz-Bußgeld nach DSGVO/BDSG: Aufsichtsbehörde, OWiG-Verweisung, Landgerichtsschwelle und Unternehmensgeldbuße: OWiG-Praxis-Skill für junge Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene."
 ---
 
 # Datenschutz-Bußgeld nach DSGVO/BDSG: Aufsichtsbehörde, OWiG-Verweisung, Landgerichtsschwelle und Unternehmensgeldbuße

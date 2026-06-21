@@ -167,7 +167,7 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `dokumente-intake` | Dokumentenintake für Kanzlei-Builder-Hub (Plugins/Skills): sortiert Plugin-Konfiguration, Skill-Definitionen, Mandanten-AVV, prüft Datum, Absender, Frist und Beweiswert (Urkunden, Zeugen); markiert Lücken; berücksichtigt Mandatsgeheimnis... |
 | `eigenen-formular-portal-und-einreichung` | Eigenen: Formular, Portal und Einreichungslogik. |
 | `einsteiger-mandantenkommunikation-entscheidungsvorlage` | Einsteiger: Mandantenkommunikation und Entscheidungsvorlage. |
-| `einstieg-routing` | Einstieg, Triage und Routing für Kanzlei-Builder-Hub (Plugins/Skills): ordnet Rolle (Kanzleiinhaber, IT-Verantwortlicher, Mitarbeitende), markiert Frist (keine harten Fristen), wählt Norm (BRAO § 43e KI-Einsatz, DSGVO, KI-VO) und Zuständ... |
+| `einstieg-routing` | Einstieg, Triage und Routing für Kanzlei-Builder-Hub (Plugins/Skills): ordnet Rolle (Kanzleiinhaber, IT-Verantwortlicher, Mitarbeiter), markiert Frist (keine harten Fristen), wählt Norm (BRAO § 43e KI-Einsatz, DSGVO, KI-VO) und Zuständ... |
 | `findet-gate-installiert` | Findet: Erstprüfung, Rollenklärung und Mandatsziel. |
 | `fristen-risikoampel-mandantenkommunikation` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Kanzlei Builder Hub. |
 | `fundstellenglattzieher` | Fundstellen und Zitate in deutschen Rechtstexten glätten: Normzitate, Gerichtsentscheidungen, Aktenzeichen, Zeitschriftenfundstellen und Quellenwarnungen vereinheitlichen, ohne BeckRS-/juris-Blindzitate oder erfundene Rechtsprechung zu e... |
@@ -180,13 +180,13 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `kanzlei-quellenkarte` | Kanzlei Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `kanzleiumgebung-khub-sonderfall-livecheck` | Kanzleiumgebung: Verhandlung, Vergleich und Eskalation. |
 | `khub-kanzlei-coi-onboarding-bauleiter` | Spezialfall Conflicts-of-Interest-Matrix in Boutique- und Grosskanzleien: Datenbank, Prüfablauf, Chinese Walls, Informationsabschirmung. Prüfraster für Risk-and-Compliance im Kanzlei Builder Hub. |
-| `khub-kanzlei-onboarding-bauleiter` | Bauleiter Onboarding neuer Anwaelte und Mitarbeitenden: Rollenmatrix, Mandatsfreigabe, IT-Setup, Berufsrecht-Briefing, Probezeit-Plan. Prüfraster für Kanzlei-Manager im Kanzlei Builder Hub. |
+| `khub-kanzlei-onboarding-bauleiter` | Bauleiter Onboarding neuer Anwaelte und Mitarbeitern: Rollenmatrix, Mandatsfreigabe, IT-Setup, Berufsrecht-Briefing, Probezeit-Plan. Prüfraster für Kanzlei-Manager im Kanzlei Builder Hub. |
 | `khub-leistungsmatrix-mandanten-checkliste` | Checkliste Leistungsmatrix Mandanten: Standardleistungen, Premium, Pauschale, Stundenhonorar, Erfolgskomponenten. Prüfraster Honorarvereinbarung pro Mandantensegment im Kanzlei Builder Hub. |
 | `khub-mandantenkonferenz-paralegal-rollen` | Spezialfall Mandantenkonferenz- und Lenkungsgremien-Templates für Grossmandate: Tagesordnung, Protokoll, Action Items, Status-Reporting. Prüfraster für Konfliktpotenzial im Kanzlei Builder Hub. |
 | `khub-sonderfall-und-edge-case` | Khub: Sonderfall und Edge-Case-Prüfung. |
 | `leistungsmatrix-fristennotiz-und-naechster-schritt` | Leistungsmatrix: Fristennotiz und nächster Schritt. |
 | `livecheck-mehrparteien-konflikt-und-interessen` | Livecheck: Mehrparteienkonflikt und Interessenmatrix. |
-| `output-waehlen` | Output-Wahl für Kanzlei-Builder-Hub (Plugins/Skills): stimmt Adressat (Kanzleiinhaber, IT-Verantwortlicher, Mitarbeitende), Frist (keine harten Fristen) und Form auf den Zweck ab — typische Outputs: Plugin-Skizze, Skill-Entwurf, Validier... |
+| `output-waehlen` | Output-Wahl für Kanzlei-Builder-Hub (Plugins/Skills): stimmt Adressat (Kanzleiinhaber, IT-Verantwortlicher, Mitarbeiter), Frist (keine harten Fristen) und Form auf den Zweck ab — typische Outputs: Plugin-Skizze, Skill-Entwurf, Validier... |
 | `paralegal-rollen-automatisieren` | Spezialfall paralegale Routineaufgaben automatisieren: Aktenneuanlage, Erstkontakt, Standardanschreiben, Vorlagepruefung, Vorbescheidung. Welche Skills wie kombinieren, Datenschutz beachten, Vertraulichkeit, Pflicht zur Plausibilitaetsko... |
 | `playbook-aus-eigenen-daten` | Kanzleieigenes Playbook aus vorhandenen Musterdokumenten und Vorlagen automatisch erstellen. Normen: technisch/intern, BRAO. Prüfraster: Dokumentenqualitaet, Kategorisierung, Normverankerung. Output: Kanzlei-Playbook aus eigenen Daten. A... |
 | `playbook-qualitaetspruefung-beweislast-review` | Playbook: Internationaler Bezug und Schnittstellen. |

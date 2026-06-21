@@ -56,7 +56,7 @@ Thalheim Industries kooperiert vollständig mit den Aufsichtsbehörden. Der Dial
 
 Thalheim Industries nutzt ein KI-unterstütztes System, das Bewerbungsunterlagen nach definierten Kriterien auswertet und eine Priorisierungsempfehlung erstellt. Die abschließende Entscheidung, ob ein Bewerber oder eine Bewerberin in die nächste Runde kommt, trifft eine qualifizierte HR-Mitarbeiterin oder ein HR-Mitarbeiter.
 
-Wir informieren Bewerberinnen und Bewerber über den Einsatz dieses Systems in unserer Datenschutzerklärung im Karriereportal.
+Wir informieren Bewerber über den Einsatz dieses Systems in unserer Datenschutzerklärung im Karriereportal.
 
 **Frage C2: Diskriminiert das System Bewerber aufgrund von Geschlecht, Herkunft oder Alter?**
 

@@ -73,7 +73,7 @@ A: § 3a EStG ist von Amts wegen anzuwenden, wenn die Voraussetzungen erfüllt s
 
 **F: Welche Arbeitsplätze sind sicher? Gibt es Entlassungen?**
 
-A: Der Plan sieht keine Stellenstreichungen vor. Die Fortführung mit 86 Beschäftigten ist Grundlage der gesamten Planrechnung. Eine Stellenstreichung würde die Zertifizierung nach DIN EN 1090-2 gefährden und den Auftragsbestand vernichten. Wir sind also auf alle Mitarbeiterinnen und Mitarbeiter angewiesen. Einzelne Stellen könnten mittelfristig (nach Planvollzug, d.h. frühestens 2028) durch natürliche Fluktuation nicht nachbesetzt werden, wenn der Umsatz wieder auf 2023-Niveau kommt. Betriebsbedingte Kündigungen sind nicht geplant.
+A: Der Plan sieht keine Stellenstreichungen vor. Die Fortführung mit 86 Beschäftigten ist Grundlage der gesamten Planrechnung. Eine Stellenstreichung würde die Zertifizierung nach DIN EN 1090-2 gefährden und den Auftragsbestand vernichten. Wir sind also auf alle Mitarbeiter angewiesen. Einzelne Stellen könnten mittelfristig (nach Planvollzug, d.h. frühestens 2028) durch natürliche Fluktuation nicht nachbesetzt werden, wenn der Umsatz wieder auf 2023-Niveau kommt. Betriebsbedingte Kündigungen sind nicht geplant.
 
 **F: Bleiben Gehälter und Sozialleistungen ungekürzt?**
 

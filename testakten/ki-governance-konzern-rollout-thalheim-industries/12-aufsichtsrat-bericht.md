@@ -19,7 +19,7 @@ Das KI-Governance-Programm TI-KI-2026 befindet sich in der kritischen Phase 2 (K
 
 3. **Betriebsvereinbarung KI:** Verhandlungen mit dem Betriebsrat laufen seit Januar 2026. Einigung noch nicht erzielt. Kein genehmigter Rollout ohne BV.
 
-4. **Schulungsrückstand:** 62 % der Mitarbeitenden haben die Pflichtschulung nach Art. 4 KI-VO noch nicht abgeschlossen. Maßnahmenpaket wurde verabschiedet.
+4. **Schulungsrückstand:** 62 % der Mitarbeitern haben die Pflichtschulung nach Art. 4 KI-VO noch nicht abgeschlossen. Maßnahmenpaket wurde verabschiedet.
 
 5. **Schatten-KI Marketing:** Nicht genehmigtes KI-Tool identifiziert und abgeschaltet. Aufarbeitung läuft.
 
@@ -35,7 +35,7 @@ Das KI-Governance-Programm TI-KI-2026 befindet sich in der kritischen Phase 2 (K
 | Konformitätsprüfung CreditVision | Jul. 2026 | In Bearbeitung ⚠ | BaFin-Anfrage |
 | DPIA RecruitAI | Jun. 2026 | In Bearbeitung ⚠ | LfDI BW-Frist |
 | Betriebsvereinbarung KI | Apr. 2026 | Verzögert ⚠ | BR-Blockade |
-| AI Literacy (alle Mitarbeitenden) | Okt. 2026 | In Bearbeitung (38 %) ⚠ | Rückstand |
+| AI Literacy (alle Mitarbeitern) | Okt. 2026 | In Bearbeitung (38 %) ⚠ | Rückstand |
 | AI Literacy (HR, Finanzierung) | Mai 2026 | In Bearbeitung (36–40 %) ⚠ | Priorisiert |
 | Governance-Leitlinie final | Apr. 2026 | In Freigabe ⚠ | Vorstand ausstehend |
 

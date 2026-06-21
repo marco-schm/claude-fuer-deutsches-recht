@@ -27,7 +27,7 @@ RUBRUM
 
 Die Metallbau Hansa GmbH ist seit 2003 im Hamburger Wirtschaftsraum tätig. Sie fertigt Stahlbaugruppen, Trägerkonstruktionen und Moduleinheiten für kommunale Fernwärmeprojekte, Bahnstationen und industrielle Anlagenbauer. Das Unternehmen ist zertifiziert nach DIN EN 1090-2 Ausführungsklasse EXC 3 – ein Alleinstellungsmerkmal im regionalen Wettbewerb, das insbesondere den Bahn-Infrastrukturbereich sichert.
 
-Der Standort Hamburg-Billbrook umfasst eine Produktionshalle mit 6.800 m² (Erbbaurecht Stadt Hamburg bis 2051). Zum Maschinenpark gehören zwei CNC-Bearbeitungszentren, Schweißanlagen, Säge- und Biegemaschinen sowie ein Brückenkran (15 t; Leasingeigentum LeasingWerk GmbH). Die Gesellschaft beschäftigt 86 sozialversicherungspflichtige Mitarbeitende sowie 4 Auszubildende.
+Der Standort Hamburg-Billbrook umfasst eine Produktionshalle mit 6.800 m² (Erbbaurecht Stadt Hamburg bis 2051). Zum Maschinenpark gehören zwei CNC-Bearbeitungszentren, Schweißanlagen, Säge- und Biegemaschinen sowie ein Brückenkran (15 t; Leasingeigentum LeasingWerk GmbH). Die Gesellschaft beschäftigt 86 sozialversicherungspflichtige Mitarbeiter sowie 4 Auszubildende.
 
 § 2  Ursachen der Krise
 

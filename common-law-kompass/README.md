@@ -21,7 +21,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-Großes, freistehendes Plugin für deutsche Anwältinnen und Anwälte im Wirtschaftsrecht, die mit Common Law, English Law, US Law, internationalen Verträgen, bilingualen Fassungen und gemischtem Business-English arbeiten. Es verhindert, dass deutsche Rechtsbegriffe gedankenlos übersetzt werden, und markiert typische False Friends wie Bürgschaft, Garantie, Gewährleistung, Rücktritt, Vertretung, Consideration, representations, warranties, covenants, indemnity, damages, equity oder discovery.
+Großes, freistehendes Plugin für deutsche Anwälte im Wirtschaftsrecht, die mit Common Law, English Law, US Law, internationalen Verträgen, bilingualen Fassungen und gemischtem Business-English arbeiten. Es verhindert, dass deutsche Rechtsbegriffe gedankenlos übersetzt werden, und markiert typische False Friends wie Bürgschaft, Garantie, Gewährleistung, Rücktritt, Vertretung, Consideration, representations, warranties, covenants, indemnity, damages, equity oder discovery.
 
 Dieses Plugin ist **vollständig freistehend**. Es benötigt keine anderen Plugins, keine externen Agenten und keine Kanzleisoftware. Wenn keine Datenbank, kein DMS, kein Übersetzungstool, keine Rechercheplattform oder kein Behördenzugang angeschlossen ist, arbeitet es mit manuellen Uploads oder einem ausdrücklich markierten Simulationsmodus.
 
@@ -130,7 +130,7 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `quality-formular-portal-und-einreichung` | Quality: Formular, Portal und Einreichungslogik. |
 | `quality-gate` | Fertig erstelltes Common-Law-Arbeitsprodukt auf Qualitaet prüfen: Jurisdiktion Quellenstand False Friends UK/US-Trennung Review-Bedarf. Prüfraster Jurisdiktion-Konsistenz Normen-Aktualitaet False-Friends-Scan UK-US-Trennung. Output Quali... |
 | `quellen-livecheck` | Quellen-Live-Check für Common Law Kompass: prüft Normen (UK/US/Commonwealth common law, Restatements (US), ECHR/EU-CFR) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt UK Supreme Court, US Supreme Court und Quelle... |
-| `rechtsvergleichender-begriffscheck-reviews` | Rechtsvergleichender Begriffscheck für deutsche Juristinnen und Juristen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Common Law Kompass. |
+| `rechtsvergleichender-begriffscheck-reviews` | Rechtsvergleichender Begriffscheck für deutsche Juristen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Common Law Kompass. |
 | `remedies-damages-representations-warranties` | Mandant erleidet Schaden aus UK/US-Vertrag oder Delikt und fragt nach Rechtsfolgen: damages specific performance injunction rescission restitution equitable relief punitive damages. Prüfraster Remedy-Auswahl Schadensmass Equity-Vorausset... |
 | `representations-warranties-covenants` | Anwalt ordnet Klauseln in Common-Law-Transaktionsvertraegen ein: reps warranties covenants conditions undertakings indemnities. Anwendungsfall SPA NDA oder Commercial Agreement. Prüfraster Klausel-Typ-Zuordnung Haftungsfolgen Survical-Pe... |
 | `reviews-internationaler-bezug-und-schnittstellen` | Reviews: Internationaler Bezug und Schnittstellen. |

@@ -26,13 +26,13 @@ Bearbeiterin: RAin Dr. Friederike Pohl-Krauss
 
 ### Hanna Trüffelberch
 
-Hanna hat Architektur an der Leibniz Universität Hannover studiert (Dipl.-Ing.), Abschluss 2004. Danach mehrere Jahre als Angestellte bei einer Hannoveraner Stadtplanungskanzlei. 2008 — parallel zur Heirat — Gründung der PartGmbB zusammen mit ihrer Schwester Anne. Das Büro wuchs stetig; heute 18 Mitarbeitende, Schwerpunkt öffentlicher Hochbau und Bauten für soziale Einrichtungen. Hanna ist Geschäftsführerin und persönlich haftende Gesellschafterin zur Hälfte.
+Hanna hat Architektur an der Leibniz Universität Hannover studiert (Dipl.-Ing.), Abschluss 2004. Danach mehrere Jahre als Angestellte bei einer Hannoveraner Stadtplanungskanzlei. 2008 — parallel zur Heirat — Gründung der PartGmbB zusammen mit ihrer Schwester Anne. Das Büro wuchs stetig; heute 18 Mitarbeiter, Schwerpunkt öffentlicher Hochbau und Bauten für soziale Einrichtungen. Hanna ist Geschäftsführerin und persönlich haftende Gesellschafterin zur Hälfte.
 
 Hanna beschreibt die Ehe als über lange Zeit stabil, aber zunehmend spannungsgeladen seit ca. 2020: Franz' Werkstatt lief nach der Pandemie turbulent, Hanna trug finanziell mehr als ursprünglich erwartet. Franz kritisierte den wachsenden Zeitaufwand für das Büro; Hanna empfand das als Konkurrenz statt Unterstützung.
 
 ### Franz Trüffelberch
 
-Gelernter Schreiner, Gesellenbrief 1998, Meisterbrief 2006. Bis 2017 Angestellter bei einem Hannoveraner Innenausbauspezialisten. Gründung der „Trüffelberch Holzwerkstätten e.K." 2018. Die Werkstatt ist im Gewerbegebiet Hannover-Stöcken ansässig, ca. 5–7 Mitarbeitende, Schwerpunkt individueller Innenausbau für Privatkunden und Gewerbeobjekte. Das Unternehmen ist 2018 bis 2020 stark gewachsen, lief 2021–2022 unter coronabedingten Lieferkettenproblemen schleppend, hat sich seitdem wieder erholt.
+Gelernter Schreiner, Gesellenbrief 1998, Meisterbrief 2006. Bis 2017 Angestellter bei einem Hannoveraner Innenausbauspezialisten. Gründung der „Trüffelberch Holzwerkstätten e.K." 2018. Die Werkstatt ist im Gewerbegebiet Hannover-Stöcken ansässig, ca. 5–7 Mitarbeiter, Schwerpunkt individueller Innenausbau für Privatkunden und Gewerbeobjekte. Das Unternehmen ist 2018 bis 2020 stark gewachsen, lief 2021–2022 unter coronabedingten Lieferkettenproblemen schleppend, hat sich seitdem wieder erholt.
 
 Franz hat nach Angaben Hannas niemals die Buchführung offengelegt; Hanna weiß von Jahresüberschüssen, kennt aber keine genauen Zahlen. Kontoeinsicht hatte sie als Ehefrau nicht mehr, seit Franz ein separates Geschäftskonto eingerichtet hatte.
 

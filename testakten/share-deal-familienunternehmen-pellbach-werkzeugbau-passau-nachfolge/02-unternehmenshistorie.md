@@ -66,7 +66,7 @@ Die Pellbach Werkzeugbau GmbH & Co. KG unterliegt als Kommanditgesellschaft den 
 | EBIT | 11,8 Mio. EUR |
 | Bilanzsumme | 42,1 Mio. EUR |
 | Nettoverschuldung (31.12.2024) | 8,7 Mio. EUR |
-| Mitarbeitende | 280 (davon 38 in Suzhou, 21 in Wroclaw) |
+| Mitarbeiter | 280 (davon 38 in Suzhou, 21 in Wroclaw) |
 | Betriebsstätten | Passau I, Passau II, Deggendorf, Suzhou (CN), Wroclaw (PL) |
 
 **Bearbeiterin:** RAin Dr. Cornelia Schwingenstein-Eichmüller | SuP/2026-0041-CES

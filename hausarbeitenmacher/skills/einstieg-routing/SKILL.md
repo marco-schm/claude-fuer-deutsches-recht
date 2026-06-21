@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Jura-Hausarbeiten: ordnet Rolle (Studierender, Korrektor), markiert Frist (Hausarbeits-Abgabefrist), wählt Norm (BGB AT/BT, StGB AT/BT, GG, ZPO/StPO/VwGO) und Zuständigkeit (Universitäre Prüfungsämter), leitet zum passenden Spezial-Skill."
+description: "Einstieg, Triage und Routing für Jura-Hausarbeiten: ordnet Rolle (Studentenr, Korrektor), markiert Frist (Hausarbeits-Abgabefrist), wählt Norm (BGB AT/BT, StGB AT/BT, GG, ZPO/StPO/VwGO) und Zuständigkeit (Universitäre Prüfungsämter), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing

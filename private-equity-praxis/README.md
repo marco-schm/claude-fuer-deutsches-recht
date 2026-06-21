@@ -22,7 +22,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-Dieses Plugin ist ein Praxis-Cockpit für deutsche Anwältinnen und Anwälte, Kanzleiteams, Investoren, Family Offices, Beteiligungsgesellschaften, Rechtsabteilungen und Gründer, die Private Equity, Private Credit oder Distressed-Investments in Deutschland sauber strukturieren, prüfen oder erklären müssen.
+Dieses Plugin ist ein Praxis-Cockpit für deutsche Anwälte, Kanzleiteams, Investoren, Family Offices, Beteiligungsgesellschaften, Rechtsabteilungen und Gründer, die Private Equity, Private Credit oder Distressed-Investments in Deutschland sauber strukturieren, prüfen oder erklären müssen.
 
 Es ist ausdrücklich anfängerfreundlich, aber nicht weichgespült: Der Einstieg sortiert Rolle, Deal-Phase, Fonds-/Direktinvestment, regulatorische Schwellen, Fristen, Unterlagen, Zahlenmodell und gewünschten Output. Danach routet das Plugin in konkrete Spezial-Skills für Fondsaufsicht, KAGB/AIF/ELTIF, Due Diligence, SPA, Management Participation, Finanzierung, Schuldschein, LMA-Facility, NPL-Kauf, Portfolio-Management, Exit und Krise.
 

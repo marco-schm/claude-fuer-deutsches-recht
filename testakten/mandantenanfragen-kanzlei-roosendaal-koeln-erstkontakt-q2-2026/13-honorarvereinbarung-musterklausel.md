@@ -18,7 +18,7 @@ Wichtig: BRAO § 49b verbietet ausdrücklich sittenwidrige Vergütungsvereinbaru
 
 **§ 1 — Gegenstand**
 
-Diese Honorarvereinbarung gilt für die anwaltliche Tätigkeit von [Name RA/RAin], Roosendaal & Tannenfels Rechtsanwälte PartmbB, im Mandat [Aktenzeichen / Sachgebiet] für [Name Mandant/in].
+Diese Honorarvereinbarung gilt für die anwaltliche Tätigkeit von [Name RA/RAin], Roosendaal & Tannenfels Rechtsanwälte PartmbB, im Mandat [Aktenzeichen / Sachgebiet] für [Name Mandant].
 
 **§ 2 — Stundenhonorar**
 

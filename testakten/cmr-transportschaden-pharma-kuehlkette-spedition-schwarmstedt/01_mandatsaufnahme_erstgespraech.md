@@ -12,7 +12,7 @@ Kanzlei: Hammerschmidt, Sommerfeldt & Partner Rechtsanwälte, Neuer Wall 30, 203
 
 Eberhard Funkbruch (58 Jahre, Speditionskaufmann, Unternehmer seit 1998) erscheint mit einem dicken Aktenordner und einem USB-Stick mit Temperaturlogger-Rohdaten. Er wirkt angespannt, aber sachlich. Er betreibt die Schwarmstedt Logistik GmbH — gegründet 2003, Sitz Schwarmstedt, Landkreis Heidekreis, Niedersachsen — als alleiniger Gesellschafter-Geschäftsführer.
 
-Das Unternehmen beschäftigt 145 Mitarbeitende, davon 78 Fahrer (LKW-Klassen C/CE). Es verfügt über ADR-Zertifizierung gemäß § 7 Abs. 1 GGBefG i.V.m. ADR-Übereinkommen für die Gefahrgutklassen 5.1, 6.2, 9 (Gefahrgut) sowie über eine EU-Gemeinschaftslizenz für den internationalen Güterkraftverkehr (§ 3 GüKG). Die Gesellschaft ist ADR-zertifizierter Pharma- und Gefahrgutspediteur mit eingeführtem GDP-Qualitätsmanagementsystem (Good Distribution Practice, Delegierte VO (EU) 2017/1569). Umsatz 2025: ca. 38 Mio. EUR. Die Gesellschaft hält eine Speditions- und Lagerversicherung bei der Helvetia Versicherungen AG, Frankfurt, Police Nr. 74-SL-8832-2024.
+Das Unternehmen beschäftigt 145 Mitarbeiter, davon 78 Fahrer (LKW-Klassen C/CE). Es verfügt über ADR-Zertifizierung gemäß § 7 Abs. 1 GGBefG i.V.m. ADR-Übereinkommen für die Gefahrgutklassen 5.1, 6.2, 9 (Gefahrgut) sowie über eine EU-Gemeinschaftslizenz für den internationalen Güterkraftverkehr (§ 3 GüKG). Die Gesellschaft ist ADR-zertifizierter Pharma- und Gefahrgutspediteur mit eingeführtem GDP-Qualitätsmanagementsystem (Good Distribution Practice, Delegierte VO (EU) 2017/1569). Umsatz 2025: ca. 38 Mio. EUR. Die Gesellschaft hält eine Speditions- und Lagerversicherung bei der Helvetia Versicherungen AG, Frankfurt, Police Nr. 74-SL-8832-2024.
 
 ---
 

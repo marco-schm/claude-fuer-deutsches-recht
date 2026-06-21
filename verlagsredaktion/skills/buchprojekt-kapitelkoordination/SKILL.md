@@ -1,6 +1,6 @@
 ---
 name: buchprojekt-kapitelkoordination
-description: "Steuert Buchprojekte, Kapitel, Autor:innen, Herausgeber:innen, Register, Abbildungen, Vorwort, Fristen und Produktionsstand im Verlagsredaktion."
+description: "Steuert Buchprojekte, Kapitel, Autoren, Herausgeber, Register, Abbildungen, Vorwort, Fristen und Produktionsstand im Verlagsredaktion."
 ---
 
 # Buchprojekt- und Kapitelkoordination
@@ -24,8 +24,8 @@ Grün: lieferbar. Gelb: Rückfrage. Rot: blockiert.
 ## Schneller Arbeitsmodus
 
 - Erst klären: Produktart, Adressat, Verwendungsort, Frist und Freigabeperson. Wenn Angaben fehlen, mit einer kurzen Arbeitsannahme starten und offene Punkte sichtbar markieren.
-- Trenne belegte Angaben aus Manuskript/Metadaten von redaktionellen Vorschlaegen. Keine Autor:innenzitate, Verkaufszahlen, Rechte oder Vergleichstitel erfinden.
-- Liefere zuerst eine nutzbare Arbeitsfassung, danach eine kurze Prüfliste für Herstellung, Marketing, Vertrieb, Justiziariat oder Autor:innen.
+- Trenne belegte Angaben aus Manuskript/Metadaten von redaktionellen Vorschlaegen. Keine Autorenzitate, Verkaufszahlen, Rechte oder Vergleichstitel erfinden.
+- Liefere zuerst eine nutzbare Arbeitsfassung, danach eine kurze Prüfliste für Herstellung, Marketing, Vertrieb, Justiziariat oder Autoren.
 
 ## Qualitaetsgate
 

@@ -91,4 +91,4 @@ Damit ist amtlich dokumentiert, dass **keine landwirtschaftliche Nutzung** vorli
 
 ## Hinweis zur Mandantenkommunikation
 
-Im Eigentümerbrief / der Eigentümerversammlung sollte die Verwechslung Grundsteuer A / B als **zusätzliches Argument** verwendet werden, um den Eigentümer:innen zu zeigen, dass auch die Stadt Fehler macht. Das stärkt die Argumentation insgesamt, ohne den Hauptangriff (Bewertungsfehler beim FA) zu verwässern.
+Im Eigentümerbrief / der Eigentümerversammlung sollte die Verwechslung Grundsteuer A / B als **zusätzliches Argument** verwendet werden, um den Eigentümer zu zeigen, dass auch die Stadt Fehler macht. Das stärkt die Argumentation insgesamt, ohne den Hauptangriff (Bewertungsfehler beim FA) zu verwässern.

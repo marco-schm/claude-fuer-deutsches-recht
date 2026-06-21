@@ -97,7 +97,7 @@ Schwerpunkt auf [Praxisfeld]. Neu eingearbeitet sind insbesondere:
 sagt [Name, Funktion].
 
 Das Werk richtet sich an Rechtsanwaeltinnen und Rechtsanwaelte,
-Richterinnen und Richter sowie [...].
+Richter sowie [...].
 
 Bibliografie
 [Autor]: [Titel]. [n]. Auflage 2026. [Seiten] S., gebunden,

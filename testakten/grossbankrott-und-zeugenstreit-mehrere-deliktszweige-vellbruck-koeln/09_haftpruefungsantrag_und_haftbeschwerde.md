@@ -24,7 +24,7 @@ In dem oben bezeichneten Verfahren beantrage ich namens und in Vollmacht des Bes
    b) Hinterlegung des Reisepasses (bereits erfolgt durch Sicherstellung am 12.05.2026),
    c) Verbot, den Bereich des Landes Nordrhein-Westfalen ohne Genehmigung zu verlassen,
    d) Hinterlegung einer Sicherheit von 250.000 EUR durch Frau Frieda Pellbach-Eisenacher (Ehefrau),
-   e) Verbot des Kontakts mit der Zeugin Mira Quasthoff und mit Mitarbeitenden der Wroclaw-Tochter.
+   e) Verbot des Kontakts mit der Zeugin Mira Quasthoff und mit Mitarbeitern der Wroclaw-Tochter.
 
 3. Termin zur mündlichen Verhandlung gemäß § 118 Abs. 1 StPO anzuberaumen.
 
@@ -67,11 +67,11 @@ Im Übrigen: Die Sicherheit von 250.000 EUR (Ehefrau bereit) plus Reisepass-Hint
 
 #### 3. Keine Verdunkelungsgefahr (§ 112 Abs. 2 Nr. 3 StPO)
 
-Der Haftbefehl behauptet, der Beschuldigte könne Mitarbeitende und insbesondere die Zeugin Quasthoff sowie Wroclaw-Mitarbeitende beeinflussen. Diese Behauptung wird mit Verweis auf einen Brief des Insolvenzverwalters vom 27.04.2026 (Bd. VII, Bl. 1422) untermauert. Dieser Brief enthält jedoch lediglich die Aussage, ein Wroclaw-Mitarbeiter habe sich gegenüber dem Insolvenzverwalter zurückhaltend gezeigt — kein konkreter Hinweis auf Einflussnahme durch den Beschuldigten.
+Der Haftbefehl behauptet, der Beschuldigte könne Mitarbeiter und insbesondere die Zeugin Quasthoff sowie Wroclaw-Mitarbeiter beeinflussen. Diese Behauptung wird mit Verweis auf einen Brief des Insolvenzverwalters vom 27.04.2026 (Bd. VII, Bl. 1422) untermauert. Dieser Brief enthält jedoch lediglich die Aussage, ein Wroclaw-Mitarbeiter habe sich gegenüber dem Insolvenzverwalter zurückhaltend gezeigt — kein konkreter Hinweis auf Einflussnahme durch den Beschuldigten.
 
 Die zentrale Belastungszeugin Quasthoff ist seit Februar 2025 nicht mehr im Unternehmen tätig und arbeitet bei einem anderen Unternehmen (Spedition Werwein-Frers). Eine "Beeinflussbarkeit" ist auch dadurch erschwert, dass ihre Aussagen schon protokolliert sind (V1 18.03.2026, V2 14.04.2026). Eine Kontaktauflage (vorgeschlagen) genügt vollumfaenglich.
 
-Hinsichtlich Wroclaw-Mitarbeitenden: Die polnische Gesellschaft wird wie ausgeführt parallel insolvent geführt; Mitarbeitende stehen unter Kontrolle des polnischen Insolvenzverwalters.
+Hinsichtlich Wroclaw-Mitarbeitern: Die polnische Gesellschaft wird wie ausgeführt parallel insolvent geführt; Mitarbeiter stehen unter Kontrolle des polnischen Insolvenzverwalters.
 
 #### 4. Verhaeltnismaessigkeit
 

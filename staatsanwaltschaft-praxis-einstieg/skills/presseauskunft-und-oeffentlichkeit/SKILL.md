@@ -1,6 +1,6 @@
 ---
 name: presseauskunft-und-oeffentlichkeit
-description: "Presseauskunft und Öffentlichkeit in Strafsachen: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Presseauskunft und Öffentlichkeit in Strafsachen: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Presseauskunft und Öffentlichkeit in Strafsachen

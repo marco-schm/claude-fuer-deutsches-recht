@@ -1,6 +1,6 @@
 ---
 name: deal-verstaendigung-schoeffe-sitzung
-description: "Verständigung im Strafverfahren (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Deal, Transparenz, Protokoll, Geständnis und Rolle der Schöffen mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Verständigung im Strafverfahren (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Deal, Transparenz, Protokoll, Geständnis und Rolle der Schöffen mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Verständigung im Strafverfahren: Sitzungspraxis

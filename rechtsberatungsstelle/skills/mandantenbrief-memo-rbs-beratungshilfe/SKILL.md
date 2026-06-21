@@ -37,7 +37,7 @@ description: "Mandantenbrief für Rechtsberatungsstelle verfassen: Anwendungsfal
 ## Zentrale Normen
 - BORA § 11 — Mitteilungspflicht: Mandant ist über wesentliche Verfahrensschritte zu informieren
 - § 43a Abs. 2 BRAO — Verschwiegenheit: Mandantenbrief darf keine Drittinformationen offenbaren
-- § 6 Abs. 2 Nr. 2 RDG — Anleitungspflicht: Mandantenbrief von Studierenden erfordert Anleiterpruefung und -freigabe
+- § 6 Abs. 2 Nr. 2 RDG — Anleitungspflicht: Mandantenbrief von Studentenn erfordert Anleiterpruefung und -freigabe
 - Art. 5 Abs. 1 lit. c DSGVO — Datensparsamkeit: nur für Mandanten bestimmte Informationen im Brief
 
 ## BORA-Pflichten bei Mandantenmitteilungen
@@ -97,12 +97,12 @@ wir beraten Sie in Ihrer Sache: [kurze Stichwortbeschreibung, 1 Satz].
 [Ggf. Hinweis, was der Mandant nicht ohne uns tun sollte – z. B. "Bitte unterschreiben Sie keine neuen Dokumente des Jobcenters, ohne uns zu fragen."]
 
 **Bei Fragen:**
-Wenden Sie sich an: [Name des Studierenden / der Beratungsstelle]
+Wenden Sie sich an: [Name des Studentenn / der Beratungsstelle]
 Telefon: [...] | E-Mail: [...] | Sprechzeiten: [...]
 
 Mit freundlichen Grüßen
 
-[Name des Studierenden / Kürzel]
+[Name des Studentenn / Kürzel]
 [Beratungsstelle]
 [Rechtlicher Hinweis: Dieser Brief ist ein Entwurf, geprüft von [Anleiter].]
 ```

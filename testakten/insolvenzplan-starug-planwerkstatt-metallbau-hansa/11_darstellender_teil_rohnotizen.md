@@ -31,7 +31,7 @@ Diese Rohnotizen bilden die Grundlage für die vollständige Ausformulierung (Zi
 - Maschinenpark: Zwei CNC-Bearbeitungszentren (Okuma MA-8000H, Baujahr 2019; Heidenhain iTNC, Baujahr 2017), Brückenkran 15 t, diverse Schweißanlagen (Fronius TransPuls Synergic), Säge- und Biegemaschinen.
 - **Zu ergänzen:** Vollständige Maschinenliste mit Buchwerten und Schätzwerten (Anlage 3 zum Plan).
 
-### 1.3 Mitarbeiterinnen und Mitarbeiter
+### 1.3 Mitarbeiter
 
 - 86 sozialversicherungspflichtige Beschäftigte (inkl. 4 Auszubildende), 2 Geschäftsführer.
 - Betriebsrat (5 Mitglieder).

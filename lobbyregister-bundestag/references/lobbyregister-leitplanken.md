@@ -5,7 +5,7 @@ Stand: 27.05.2026. Dieses Plugin arbeitet mit offiziellen Bundestags- und Gesetz
 ## Kernlogik
 
 1. Interessenvertretung prüfen: Kontaktaufnahme zur unmittelbaren oder mittelbaren Einflussnahme auf Willensbildung oder Entscheidung.
-2. Adressat prüfen: Bundestag, Mitglieder, Organe, Fraktionen, Gruppen, Mitarbeitende oder Bundesregierung einschliesslich der im LobbyRG genannten Leitungsebenen.
+2. Adressat prüfen: Bundestag, Mitglieder, Organe, Fraktionen, Gruppen, Mitarbeiter oder Bundesregierung einschliesslich der im LobbyRG genannten Leitungsebenen.
 3. Registrierungspflicht prüfen: Schwellen nach § 2 Abs. 1 LobbyRG und Ausnahmen nach § 2 Abs. 2 oder Abs. 3 LobbyRG.
 4. Registerdaten vorbereiten: Stammdaten, Personen, Drehtuerangaben, Taetigkeit, Bereiche, Vorhaben, Auftraege, Finanzdaten und Dokumente.
 5. Freigabe sichern: Richtigkeit und Vollstaendigkeit bestaetigen, bei Organisationen durch eine geeignete Leitungsperson oder vertretungsberechtigte Person.

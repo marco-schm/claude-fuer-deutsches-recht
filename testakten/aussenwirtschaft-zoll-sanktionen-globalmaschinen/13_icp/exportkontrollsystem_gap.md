@@ -167,7 +167,7 @@ Anlass der vorliegenden Gap-Analyse ist die im April 2026 festgestellte Genehmig
 | 10 | Standard-EUC-Vorlage entwickeln und für alle Drittlandslieferungen einführen | Hofstädter | 31.05.2026 |
 | 11 | Vertragsmuster für Händlerverträge (inkl. Art. 12g VO 833/2014) überarbeiten | Dr. Brennecke | 31.05.2026 |
 | 12 | CBAM-Verantwortlichen benennen; Q1/2026-Bericht CBAM-Portal einreichen | Schramm | 15.06.2026 |
-| 13 | Grundschulung Exportkontrolle für alle Mitarbeitenden im Vertrieb (4 h) | Hofstädter | 30.05.2026 |
+| 13 | Grundschulung Exportkontrolle für alle Mitarbeitern im Vertrieb (4 h) | Hofstädter | 30.05.2026 |
 
 ### Mittelfristige Maßnahmen (bis 31. Dezember 2026)
 

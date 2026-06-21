@@ -106,7 +106,7 @@ In der Praxis sind die wichtigsten Konstellationen: Vernachlaessigung von Kinder
 ## Mustertexte
 
 **Einlassung (Auszug):**
-> Der Angeklagte raeumt ein, dass er den Geschaedigten am Tattag in das Krankenhauseingangsgebaeude verbracht und dort zurueckgelassen hat. Es war ihm bewusst, dass der Geschaedigte unter Drogeneinfluss stand. Er ging davon aus, dass die Mitarbeitenden der Notaufnahme den Geschaedigten unmittelbar versorgen wuerden. Eine hilflose Lage iSd § 221 StGB lag im Eingangsbereich der Klinik nicht vor.
+> Der Angeklagte raeumt ein, dass er den Geschaedigten am Tattag in das Krankenhauseingangsgebaeude verbracht und dort zurueckgelassen hat. Es war ihm bewusst, dass der Geschaedigte unter Drogeneinfluss stand. Er ging davon aus, dass die Mitarbeitern der Notaufnahme den Geschaedigten unmittelbar versorgen wuerden. Eine hilflose Lage iSd § 221 StGB lag im Eingangsbereich der Klinik nicht vor.
 
 **Plaedoyer-Snippet:**
 > Die Hilflosigkeit iSd § 221 StGB setzt voraus, dass das Opfer aus eigener Kraft nicht in der Lage ist, sich Hilfe zu verschaffen. Im konkreten Fall war der Geschaedigte ansprechbar und befand sich an einem Ort mit unmittelbarer medizinischer Versorgung. Eine konkrete Gefahr des Todes oder einer schweren Gesundheitsschaedigung lag nicht vor.

@@ -1,6 +1,6 @@
 ---
 name: owi-verjaehrung-verfolgungsverjaehrung
-description: "Verjährung im OWi-Verfahren: Verfolgungsverjährung, Unterbrechung und Aktenkalender: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene."
+description: "Verjährung im OWi-Verfahren: Verfolgungsverjährung, Unterbrechung und Aktenkalender: OWiG-Praxis-Skill für junge Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene."
 ---
 
 # Verjährung im OWi-Verfahren: Verfolgungsverjährung, Unterbrechung und Aktenkalender

@@ -18,7 +18,7 @@ Vollmacht wurde erteilt und unterzeichnet (vgl. Anlage A-1). Die Mandantin ertei
 
 ### 2.1 Das Unternehmen
 
-Leichtenstein Gartenkultur Manufaktur GmbH wurde 1991 von der Familie Leichtenstein-Bauernfeind in Eberbach am Neckar gegründet. Das Unternehmen beschäftigt 28 Mitarbeiterinnen und Mitarbeiter. Kernprodukt ist eine kunstvolle gusseiserne Rosenbluete, die als freistehende Gartendekoration sowie als Wandapplikation angeboten wird. Das Produkt ist seit Jahren ein überregional bekanntes Qualitätsstück im gehobenen Gartendekosegment (Verkaufspreise 189 bis 420 EUR pro Stück je nach Variante und Veredelung). Der Jahresumsatz der GmbH lag 2025 bei rund 3,8 Millionen EUR, davon entfällt ca. 61 % auf die Rosenbluete-Produktlinie.
+Leichtenstein Gartenkultur Manufaktur GmbH wurde 1991 von der Familie Leichtenstein-Bauernfeind in Eberbach am Neckar gegründet. Das Unternehmen beschäftigt 28 Mitarbeiter. Kernprodukt ist eine kunstvolle gusseiserne Rosenbluete, die als freistehende Gartendekoration sowie als Wandapplikation angeboten wird. Das Produkt ist seit Jahren ein überregional bekanntes Qualitätsstück im gehobenen Gartendekosegment (Verkaufspreise 189 bis 420 EUR pro Stück je nach Variante und Veredelung). Der Jahresumsatz der GmbH lag 2025 bei rund 3,8 Millionen EUR, davon entfällt ca. 61 % auf die Rosenbluete-Produktlinie.
 
 Die Fertigung erfolgt ausschließlich am Stammsitz Eberbach; Guss, Oberflächenbehandlung und Endmontage sind intern. Ein Lizenzvertrag mit Fonderie Roussel SAS (Saint-Étienne, Frankreich) erlaubte die dortige Fertigung und den Vertrieb in Frankreich und Benelux, dieser Vertrag wird aktuell streitig abgewickelt (vgl. Aktenstück 14).
 

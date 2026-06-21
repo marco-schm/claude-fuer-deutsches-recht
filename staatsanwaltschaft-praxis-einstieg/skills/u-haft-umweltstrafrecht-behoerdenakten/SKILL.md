@@ -1,6 +1,6 @@
 ---
 name: u-haft-umweltstrafrecht-behoerdenakten
-description: "U-Haft: Fluchtgefahr, Verdunkelung und Verhältnismäßigkeit: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis."
+description: "U-Haft: Fluchtgefahr, Verdunkelung und Verhältnismäßigkeit: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis."
 ---
 
 # U-Haft: Fluchtgefahr, Verdunkelung und Verhältnismäßigkeit

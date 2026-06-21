@@ -1,6 +1,6 @@
 ---
 name: rohmanuskript-anschubhilfe
-description: "Baut aus Diktaten, Folien, Notizen und E-Mails ein klar markiertes Rohmanuskript als Anschubhilfe, ohne Autor:innenstimme und Redaktion zu vermischen im Verlagsredaktion."
+description: "Baut aus Diktaten, Folien, Notizen und E-Mails ein klar markiertes Rohmanuskript als Anschubhilfe, ohne Autorenstimme und Redaktion zu vermischen im Verlagsredaktion."
 ---
 
 # Rohmanuskript-Anschubhilfe
@@ -15,7 +15,7 @@ description: "Baut aus Diktaten, Folien, Notizen und E-Mails ein klar markiertes
 
 ## Grundsatz
 
-Das Ergebnis ist ein Arbeitsentwurf, kein stillschweigend fertiger Autor:innentext.
+Das Ergebnis ist ein Arbeitsentwurf, kein stillschweigend fertiger Autorentext.
 
 ## Ablauf
 
@@ -25,11 +25,11 @@ Das Ergebnis ist ein Arbeitsentwurf, kein stillschweigend fertiger Autor:innente
 4. Material je Abschnitt zuordnen.
 5. Rohtext schreiben.
 6. Lücken und Rechtefragen sichtbar markieren.
-7. Autor:innenfreigabe vorbereiten.
+7. Autorenfreigabe vorbereiten.
 
 ## Markierungen
 
-- `[A]` aus Autor:innenmaterial.
+- `[A]` aus Autorenmaterial.
 - `[R]` redaktionelle Überleitung.
 - `[LUECKE]` fehlt.
 - `[QUELLE]` prüfen.
@@ -38,8 +38,8 @@ Das Ergebnis ist ein Arbeitsentwurf, kein stillschweigend fertiger Autor:innente
 ## Schneller Arbeitsmodus
 
 - Erst klären: Produktart, Adressat, Verwendungsort, Frist und Freigabeperson. Wenn Angaben fehlen, mit einer kurzen Arbeitsannahme starten und offene Punkte sichtbar markieren.
-- Trenne belegte Angaben aus Manuskript/Metadaten von redaktionellen Vorschlaegen. Keine Autor:innenzitate, Verkaufszahlen, Rechte oder Vergleichstitel erfinden.
-- Liefere zuerst eine nutzbare Arbeitsfassung, danach eine kurze Prüfliste für Herstellung, Marketing, Vertrieb, Justiziariat oder Autor:innen.
+- Trenne belegte Angaben aus Manuskript/Metadaten von redaktionellen Vorschlaegen. Keine Autorenzitate, Verkaufszahlen, Rechte oder Vergleichstitel erfinden.
+- Liefere zuerst eine nutzbare Arbeitsfassung, danach eine kurze Prüfliste für Herstellung, Marketing, Vertrieb, Justiziariat oder Autoren.
 
 ## Qualitaetsgate
 

@@ -10,7 +10,7 @@ description: "Juristisches Schreiben trainieren für Klausur und Seminararbeit: 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DRiG § 5a Studiendauer 9 Semester (Regelstudienzeit), Freischuss-Frist (i.d.R. 8 Semester nach JAG), Wiederholungsfrist, Hausarbeit 4-6 Wochen.
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Eingaben
@@ -111,7 +111,7 @@ Feedback von oben nach unten: Struktur zuerst, dann Absatzebene, dann Satzebene.
 *Nur wenn eine konkrete Schreibtechnik zu zeigen ist. Maximal ein Beispiel, deutlich markiert.*
 
 > Demonstrationsformulierung (eigene Variante formulieren, nicht kopieren):
-> "[Abstraktes Beispiel der Technik — z. B. Behauptung-Begründung-Beleg-Struktur — ohne den konkreten Inhalt der Arbeit des Studierenden]"
+> "[Abstraktes Beispiel der Technik — z. B. Behauptung-Begründung-Beleg-Struktur — ohne den konkreten Inhalt der Arbeit des Studentenn]"
 
 ---
 

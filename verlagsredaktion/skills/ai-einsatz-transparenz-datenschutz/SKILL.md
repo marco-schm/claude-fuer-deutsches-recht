@@ -1,6 +1,6 @@
 ---
 name: ai-einsatz-transparenz-datenschutz
-description: "Dokumentiert KI-Einsatz, Vertraulichkeit, Datenschutz, Autor:innenmaterial, Fremdrechte, Trainingsverbot, Freigaben und interne Verlagspolitik im Verlagsredaktion."
+description: "Dokumentiert KI-Einsatz, Vertraulichkeit, Datenschutz, Autorenmaterial, Fremdrechte, Trainingsverbot, Freigaben und interne Verlagspolitik im Verlagsredaktion."
 ---
 
 # KI-Einsatz, Transparenz und Datenschutz
@@ -19,14 +19,14 @@ description: "Dokumentiert KI-Einsatz, Vertraulichkeit, Datenschutz, Autor:innen
 - Gibt es Mandatsgeheimnisse oder vertrauliche Verlagssachen?
 - Ist KI-Einsatz vertraglich erlaubt?
 - Dürfen Inhalte in externe Systeme?
-- Muss Autor:in informiert werden?
+- Muss Autor informiert werden?
 - Wurde Fremdmaterial hochgeladen?
 
 ## Schneller Arbeitsmodus
 
 - Erst klären: Produktart, Adressat, Verwendungsort, Frist und Freigabeperson. Wenn Angaben fehlen, mit einer kurzen Arbeitsannahme starten und offene Punkte sichtbar markieren.
-- Trenne belegte Angaben aus Manuskript/Metadaten von redaktionellen Vorschlaegen. Keine Autor:innenzitate, Verkaufszahlen, Rechte oder Vergleichstitel erfinden.
-- Liefere zuerst eine nutzbare Arbeitsfassung, danach eine kurze Prüfliste für Herstellung, Marketing, Vertrieb, Justiziariat oder Autor:innen.
+- Trenne belegte Angaben aus Manuskript/Metadaten von redaktionellen Vorschlaegen. Keine Autorenzitate, Verkaufszahlen, Rechte oder Vergleichstitel erfinden.
+- Liefere zuerst eine nutzbare Arbeitsfassung, danach eine kurze Prüfliste für Herstellung, Marketing, Vertrieb, Justiziariat oder Autoren.
 
 ## Qualitaetsgate
 

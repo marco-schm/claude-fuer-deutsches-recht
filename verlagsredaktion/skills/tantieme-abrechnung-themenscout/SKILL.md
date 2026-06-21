@@ -15,7 +15,7 @@ description: "Jaehrliche Tantieme-Abrechnung für Autoren juristischer Werke: St
 
 ## Worum geht es konkret
 
-Autorinnen und Autoren juristischer Werke erhalten typischerweise eine Beteiligung an Verkauf oder Nutzung (Tantieme). Die Abrechnung wird einmal jaehrlich ausgekehrt, bei Loseblatt und Online ggf. quartalsweise. UrhG § 32d schafft eine spezialgesetzliche Auskunftspflicht. Der Skill fuehrt durch die Abrechnungslogik, die UStG-Behandlung und die Eskalation, wenn der Autor die Abrechnung beanstandet.
+Autoren juristischer Werke erhalten typischerweise eine Beteiligung an Verkauf oder Nutzung (Tantieme). Die Abrechnung wird einmal jaehrlich ausgekehrt, bei Loseblatt und Online ggf. quartalsweise. UrhG § 32d schafft eine spezialgesetzliche Auskunftspflicht. Der Skill fuehrt durch die Abrechnungslogik, die UStG-Behandlung und die Eskalation, wenn der Autor die Abrechnung beanstandet.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

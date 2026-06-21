@@ -25,7 +25,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 - Gründer: **Dr. Hilke Eckermann** (FA Sozialrecht, 40 %), **Dr. Matthias Friedrich** (FA Arbeitsrecht, 40 %), **Dr. Volker Sandhof** (FA Steuerrecht und StB, 20 %).
 - Rechtsform: Rechtsanwaltsgesellschaft mbH nach §§ 59c ff. BRAO; Stammkapital EUR 25.000; Beurkundung 28. März 2026 bei Notar Dr. Küppers in Aachen.
 - Kanzleieröffnung: 01. Mai 2026 — nach erfolgreichem RAK-Zulassungsverfahren (Az. RAC 2026/00188).
-- Betriebsübergang (§ 613a BGB): 12 Mitarbeiterinnen und Mitarbeiter aus drei Vorgängerkanzleien übernommen; kein Widerspruch.
+- Betriebsübergang (§ 613a BGB): 12 Mitarbeiter aus drei Vorgängerkanzleien übernommen; kein Widerspruch.
 - Markenkonflikt: DPMA-Anmeldung "EFS RECHT" kollidiert mit Unionsmarke UM 018-188-466 "EFS KANZLEI" (Stuttgart) — Widerspruchsverfahren eingeleitet; Koexistenzverhandlungen laufen.
 - Domainstreit: efs-recht.de durch Cybersquatter besetzt; DENIC-Dispute beantragt; einstweilige Verfügung in Vorbereitung.
 - Berufshaftpflicht: Allianz Versicherungs-AG, Polizze 10-12-345678-9, EUR 2,5 Mio. je Schadensfall (§ 59j BRAO).

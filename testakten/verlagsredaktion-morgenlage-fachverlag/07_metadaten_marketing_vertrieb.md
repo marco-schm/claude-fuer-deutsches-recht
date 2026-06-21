@@ -17,7 +17,7 @@ Auflage geplant: 1.800 Exemplare Hardcover, 600 Exemplare Sonderpaket Bibliothek
 | Kapitel | Titel | Bearbeiter:in | Stand |
 | --- | --- | --- | --- |
 | 1 | Datenschutzorganisation im Verlag | Greve | freigegeben |
-| 2 | Autor:innenverträge und personenbezogene Daten | Mohn | freigegeben |
+| 2 | Autorenverträge und personenbezogene Daten | Mohn | freigegeben |
 | 3 | Manuskriptmanagement und Cloud-Dienste | Greve / Falkenhayn | freigegeben |
 | 4 | KI in Redaktion und Herstellung | Mohn / N. N. | in Bearbeitung, Stand 30.05.2026 vorläufig |
 | 5 | Newsletter, Webtracking, Rezensionsexemplare | Schad-Wenders | freigegeben |
@@ -26,7 +26,7 @@ Auflage geplant: 1.800 Exemplare Hardcover, 600 Exemplare Sonderpaket Bibliothek
 | 8 | Auftragsverarbeitung mit Druckereien, Versanddienstleistern, Lettershops | Greve | freigegeben |
 | 9 | Internationale Datenübermittlung in der Buchproduktion | Mohn | offen, Lieferzusage 30.06.2026 |
 | 10 | Compliance, Datenschutz-Folgenabschätzung, Audit | Greve / Mohn | freigegeben |
-| Anhang A | Muster: Autor:innenvertrag mit Datenschutzklausel | Mohn | freigegeben |
+| Anhang A | Muster: Autorenvertrag mit Datenschutzklausel | Mohn | freigegeben |
 | Anhang B | Muster: Verarbeitungsverzeichnis Verlag | Greve | freigegeben |
 | Anhang C | Muster: TOMs für Manuskriptmanagement | Greve | freigegeben |
 | Anhang D | Checkliste Datenschutz-Folgenabschätzung | Greve | freigegeben |

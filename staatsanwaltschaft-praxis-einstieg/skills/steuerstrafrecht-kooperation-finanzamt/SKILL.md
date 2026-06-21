@@ -1,6 +1,6 @@
 ---
 name: steuerstrafrecht-kooperation-finanzamt
-description: "Steuerstrafrecht: Zusammenarbeit mit Steuerfahndung und Finanzamt: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Steuerstrafrecht: Zusammenarbeit mit Steuerfahndung und Finanzamt: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Steuerstrafrecht: Zusammenarbeit mit Steuerfahndung und Finanzamt

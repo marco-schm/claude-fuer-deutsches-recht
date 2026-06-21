@@ -13,7 +13,7 @@ Fusionskontrollverfahren sind öffentliche Verfahren. Anmeldungen beim BKartA we
 Die Kommunikationsstrategie der Mandantin verfolgt drei Ziele:
 
 1. **Narrative Kontrolle:** GBW gestaltet aktiv das Bild des Zusammenschlusses in der Öffentlichkeit, bevor Dritte (Wettbewerber, DB AG, Gewerkschaften) das Narrativ besetzen.
-2. **Mitarbeiter-Sicherheit:** Frühzeitige, ehrliche Kommunikation an die 282 Mitarbeitenden (188 GBW + 94 TBA) verhindert Unruhe und Kündigungswellen.
+2. **Mitarbeiter-Sicherheit:** Frühzeitige, ehrliche Kommunikation an die 282 Mitarbeitern (188 GBW + 94 TBA) verhindert Unruhe und Kündigungswellen.
 3. **Kundenpflege:** DB InfraGO AG, ProRail und andere Abnehmer werden proaktiv und direkt informiert, bevor sie über Presse oder Behörden Kenntnis erlangen.
 
 ---
@@ -34,11 +34,11 @@ Die Kommunikationsstrategie der Mandantin verfolgt drei Ziele:
 
 **Intern: Mitarbeiterschreiben** (parallel)
 
-An alle GBW-Mitarbeitenden (188):
+An alle GBW-Mitarbeitern (188):
 
 Kanzlei entwirft in Abstimmung mit GBW-Personalabteilung; Inhalt: Transaktion, Vollzugsverbot, keine unmittelbaren Änderungen, offene Fragen an Betriebsrat wenden.
 
-An alle TBA-Mitarbeitenden (94):
+An alle TBA-Mitarbeitern (94):
 
 Getrennte Kommunikation durch TBA-Management; Inhalt: Übernahme als strategische Chance, Arbeitsplätze bleiben (soweit durch Closing bedingte Restrukturierungsfreiheit gilt).
 
@@ -74,7 +74,7 @@ Das laufende Bußgeldvorverfahren B6-56/22 ist strikt aus der Kommunikation hera
 
 > "Wir können uns zu laufenden Behördenverfahren nicht äußern. Wir kooperieren stets vollständig mit den zuständigen Behörden."
 
-Kein Mitarbeitender des GBW-Managements soll auf Messen, Branchenveranstaltungen oder in persönlichen Gesprächen Aussagen zu Preisabsprachen 2018–2021 machen. Diese Anweisung wird per Rundschreiben an alle Führungskräfte kommuniziert.
+Kein Mitarbeiterr des GBW-Managements soll auf Messen, Branchenveranstaltungen oder in persönlichen Gesprächen Aussagen zu Preisabsprachen 2018–2021 machen. Diese Anweisung wird per Rundschreiben an alle Führungskräfte kommuniziert.
 
 ### 3.2 Gewerkschaft IG BCE / Betriebsrat
 

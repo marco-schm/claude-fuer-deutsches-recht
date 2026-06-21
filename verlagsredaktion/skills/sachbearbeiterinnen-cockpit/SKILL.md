@@ -1,6 +1,6 @@
 ---
 name: sachbearbeiterinnen-cockpit
-description: "Persoenliches Verlagscockpit für Sachbearbeitung und Redaktion: Tageslage, Prioritaeten, Fristen, Autor:innen, Rechteampel, Produktionsstand und naechste Aktionen im Verlagsredaktion."
+description: "Persoenliches Verlagscockpit für Sachbearbeitung und Redaktion: Tageslage, Prioritaeten, Fristen, Autoren, Rechteampel, Produktionsstand und naechste Aktionen im Verlagsredaktion."
 ---
 
 # Sachbearbeiterinnen-Cockpit
@@ -26,7 +26,7 @@ Verarbeite Mails, Dateiordner, Tabellen, Notizen oder Chatverläufe zu einer Tag
 | Block | Inhalt |
 | --- | --- |
 | Heute kritisch | Fristen, Drucktermine, fehlende Freigaben |
-| Autor:innen | Rückstände, Rückfragen, offene Rechte |
+| Autoren | Rückstände, Rückfragen, offene Rechte |
 | Manuskripte | Status je Beitrag oder Kapitel |
 | Rechteampel | Fremdtext, Bilder, Tabellen, KI-Herkunft |
 | Nächste Aktionen | Aufgabe, Zuständige, Frist, Vorlage |
@@ -41,8 +41,8 @@ Verarbeite Mails, Dateiordner, Tabellen, Notizen oder Chatverläufe zu einer Tag
 ## Schneller Arbeitsmodus
 
 - Erst klären: Produktart, Adressat, Verwendungsort, Frist und Freigabeperson. Wenn Angaben fehlen, mit einer kurzen Arbeitsannahme starten und offene Punkte sichtbar markieren.
-- Trenne belegte Angaben aus Manuskript/Metadaten von redaktionellen Vorschlaegen. Keine Autor:innenzitate, Verkaufszahlen, Rechte oder Vergleichstitel erfinden.
-- Liefere zuerst eine nutzbare Arbeitsfassung, danach eine kurze Prüfliste für Herstellung, Marketing, Vertrieb, Justiziariat oder Autor:innen.
+- Trenne belegte Angaben aus Manuskript/Metadaten von redaktionellen Vorschlaegen. Keine Autorenzitate, Verkaufszahlen, Rechte oder Vergleichstitel erfinden.
+- Liefere zuerst eine nutzbare Arbeitsfassung, danach eine kurze Prüfliste für Herstellung, Marketing, Vertrieb, Justiziariat oder Autoren.
 
 ## Qualitaetsgate
 

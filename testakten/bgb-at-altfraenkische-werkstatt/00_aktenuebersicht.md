@@ -11,7 +11,7 @@ Sekretariat: Erna Kuelpe
 
 Kunigunde Rabenhaupt, geb. 14.09.1968, Inhaberin der **Rabenhaupt Restaurierungswerkstatt**, Altmarkt 8, 91086 Wendelheim.
 
-Die Werkstatt besteht seit 1994 und restauriert mechanische Schreibmaschinen, alte Werkbänke, kleine Druckpressen und Bleisatzkästen. Vier Mitarbeitende (einschliesslich der Inhaberin), eine Lehrlingsstelle, ca. 12 grosse Restaurierungsauftraege pro Jahr. Der Hauptauftraggeber 2026 ist das Stift Falkenau, das eine vollständige Drucksaalrestaurierung in Auftrag gegeben hat (Auftragsvolumen 78.400 EUR brutto).
+Die Werkstatt besteht seit 1994 und restauriert mechanische Schreibmaschinen, alte Werkbänke, kleine Druckpressen und Bleisatzkästen. Vier Mitarbeiter (einschliesslich der Inhaberin), eine Lehrlingsstelle, ca. 12 grosse Restaurierungsauftraege pro Jahr. Der Hauptauftraggeber 2026 ist das Stift Falkenau, das eine vollständige Drucksaalrestaurierung in Auftrag gegeben hat (Auftragsvolumen 78.400 EUR brutto).
 
 ## Gegenseite und Beteiligte
 

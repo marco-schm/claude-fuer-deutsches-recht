@@ -18,7 +18,7 @@ Sie schafft konzernweit verbindliche Mindeststandards für:
 - die Inventarisierung und Klassifikation von KI-Systemen (vgl. Abschnitt 3);
 - die Risikosteuerung, insbesondere bei Hochrisiko-KI-Systemen nach Art. 6 i.V.m. Anhang III KI-VO;
 - die Erfüllung von Betreiber- und Anbieterpflichten nach Art. 9–17 KI-VO;
-- die Sicherstellung von KI-Kompetenz bei allen Mitarbeiterinnen und Mitarbeitern nach Art. 4 KI-VO;
+- die Sicherstellung von KI-Kompetenz bei allen Mitarbeitern nach Art. 4 KI-VO;
 - die Integration in bestehende Compliance- und Datenschutzprozesse.
 
 Diese Leitlinie gilt für alle Beschäftigten, Führungskräfte, Auftragnehmer und Dienstleister, die KI-Systeme im Auftrag oder für Zwecke der Thalheim Industries SE einsetzen.
@@ -116,13 +116,13 @@ Die Konformitätsbewertung nach Art. 43 Abs. 2 KI-VO (interne Bewertung für HR-
 
 ## 7. AI Literacy (Art. 4 KI-VO)
 
-Alle Mitarbeiterinnen und Mitarbeiter, die KI-Systeme einsetzen oder beaufsichtigen, müssen über ausreichende KI-Kompetenz verfügen (Art. 4 KI-VO, https://dejure.org/gesetze/KIVO/4.html). Das Curriculum ist in Aktenstück 05 (TI-KI-2026-009) beschrieben. Die Schulungspflicht ist bis 31.10.2026 flächendeckend zu erfüllen.
+Alle Mitarbeiter, die KI-Systeme einsetzen oder beaufsichtigen, müssen über ausreichende KI-Kompetenz verfügen (Art. 4 KI-VO, https://dejure.org/gesetze/KIVO/4.html). Das Curriculum ist in Aktenstück 05 (TI-KI-2026-009) beschrieben. Die Schulungspflicht ist bis 31.10.2026 flächendeckend zu erfüllen.
 
 ---
 
 ## 8. Schatten-KI und nicht genehmigte Systeme
 
-Mitarbeiterinnen und Mitarbeiter dürfen keine KI-Systeme einsetzen, die nicht im KI-Inventar registriert und durch den KI-Freigabeprozess freigegeben wurden. Verstöße sind unverzüglich der CCO Kühnhausen zu melden und können arbeitsrechtliche Konsequenzen haben. Der Vorfall in der Marketingabteilung (März 2026, Aktenstück 16) zeigt die praktische Relevanz dieser Regelung.
+Mitarbeiter dürfen keine KI-Systeme einsetzen, die nicht im KI-Inventar registriert und durch den KI-Freigabeprozess freigegeben wurden. Verstöße sind unverzüglich der CCO Kühnhausen zu melden und können arbeitsrechtliche Konsequenzen haben. Der Vorfall in der Marketingabteilung (März 2026, Aktenstück 16) zeigt die praktische Relevanz dieser Regelung.
 
 ---
 

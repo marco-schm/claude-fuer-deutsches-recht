@@ -1,6 +1,6 @@
 ---
 name: studentische-krankenversicherung-altersgrenzen
-description: "Pflichtversicherung Studierender (§ 5 Abs. 1 Nr. 9 SGB V): Altersgrenze 25 Jahre, Fachsemesterlimit, Urlaubssemester, Ende der Versicherung und Übergangsoptionen im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Pflichtversicherung Studentenr (§ 5 Abs. 1 Nr. 9 SGB V): Altersgrenze 25 Jahre, Fachsemesterlimit, Urlaubssemester, Ende der Versicherung und Übergangsoptionen im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Studentische Krankenversicherung: Altersgrenzen
@@ -15,15 +15,15 @@ description: "Pflichtversicherung Studierender (§ 5 Abs. 1 Nr. 9 SGB V): Alters
 
 ## Skill-Zweck
 
-Studierende sind zu günstigen Konditionen gesetzlich pflichtversichert – aber nur bis zu bestimmten Altersgrenzen. Kläre **Altersgrenzen, Fachsemesterlimits, Übergangslösungen und Folgen des Versicherungsendes**.
+Studenten sind zu günstigen Konditionen gesetzlich pflichtversichert – aber nur bis zu bestimmten Altersgrenzen. Kläre **Altersgrenzen, Fachsemesterlimits, Übergangslösungen und Folgen des Versicherungsendes**.
 
 ## Rechtlicher Rahmen
 
-- **§ 5 Abs. 1 Nr. 9 SGB V** – Versicherungspflicht Studierender an staatlich anerkannten Hochschulen
+- **§ 5 Abs. 1 Nr. 9 SGB V** – Versicherungspflicht Studentenr an staatlich anerkannten Hochschulen
 - **§ 5 Abs. 1 Nr. 9 Satz 2 SGB V** – Altersgrenzen und Semesterlimit
 - **§ 190 Abs. 9 SGB V** – Ende der Mitgliedschaft bei Exmatrikulation
 - **§ 9 SGB V** – Freiwillige Weiterversicherung nach Studienende
-- **§ 226 SGB V** – Beitragsbemessung (Mindestbeitrag für Studierende)
+- **§ 226 SGB V** – Beitragsbemessung (Mindestbeitrag für Studenten)
 - BSG B 12 KR 9/10 R (Studentische KV, Urlaubssemester), BSG B 12 KR 6/15 R
 
 ## Grenzwerte Studentische KV
@@ -53,7 +53,7 @@ Studierende sind zu günstigen Konditionen gesetzlich pflichtversichert – aber
 - Job sofort: Pflichtmitglied als Arbeitnehmer (§ 5 Abs. 1 Nr. 1 SGB V)
 - Familienversicherung möglich wenn Elternteil GKV und Einkommen unter 505 €/Monat
 
-### Schritt 4 – Beitrag Studierender
+### Schritt 4 – Beitrag Studentenr
 - Einheitlicher Beitrag ca. 106 €/Monat (Beitrag + Zusatzbeitrag)
 - Bei Nebentätigkeit: ab gewisser Höhe erhöhter Beitrag; unter 520 €/Monat kein Einfluss
 - Hauptberufliche Selbstständigkeit neben Studium: Versicherungsfreiheit prüfen (§ 5 Abs. 5)
@@ -65,24 +65,24 @@ Studierende sind zu günstigen Konditionen gesetzlich pflichtversichert – aber
 
 ## Typische Fallen
 
-- **Urlaubssemester als Fachsemester**: Viele Studierende wissen nicht, dass Urlaubssemester zählen.
+- **Urlaubssemester als Fachsemester**: Viele Studenten wissen nicht, dass Urlaubssemester zählen.
 - **Exmatrikulations-Zeitpunkt**: Mitgliedschaft endet nicht mit Exmatrikulation, sondern mit Ende des Prüfungssemesters.
 - **Abschluss und Lücke**: Wer abschlussarbeitet, aber noch eingeschrieben ist: Pflichtversicherung läuft; nach Exmatrikulation sofort handeln.
-- **PKV für Studierende**: Günstiger als freiwillige GKV; aber Rückkehr schwieriger; Langzeitperspektive bedenken.
+- **PKV für Studenten**: Günstiger als freiwillige GKV; aber Rückkehr schwieriger; Langzeitperspektive bedenken.
 
 ## Output-Formate
 
 - Altersgrenzen-Fristenkalender
 - Exmatrikulationsbescheinigung-Checkliste
 - Freiwillige GKV-Antrag nach Studium
-- Studierendenversicherungs-Berechnung
+- Studentennversicherungs-Berechnung
 - Informationsblatt Auslandssemester-Versicherung
 
 ## Quellen
 
-- [§ 5 SGB V Nr. 9 – Studierende](https://www.gesetze-im-internet.de/sgb_5/__5.html)
+- [§ 5 SGB V Nr. 9 – Studenten](https://www.gesetze-im-internet.de/sgb_5/__5.html)
 - [§ 190 SGB V – Ende der Mitgliedschaft](https://www.gesetze-im-internet.de/sgb_5/__190.html)
 - [§ 9 SGB V – Freiwillige Versicherung](https://www.gesetze-im-internet.de/sgb_5/__9.html)
 - [BSG studentische KV](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
-- [GKV-Spitzenverband Studierende](https://www.gkv-spitzenverband.de)
+- [GKV-Spitzenverband Studenten](https://www.gkv-spitzenverband.de)
 - [dejure.org § 5 SGB V](https://dejure.org/gesetze/SGB_V/5.html)

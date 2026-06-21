@@ -15,7 +15,7 @@ description: "Bias und Diskriminierung in KI-Outputs für Kanzleien prüfen: Anw
 
 ## Spezialwissen
 
-KI-Systeme werden auf Basis großer Textmengen trainiert, die Verzerrungen und gesellschaftliche Vorurteile enthalten können. Diese "Bias" können sich in den Outputs der KI-Systeme widerspiegeln und zu Diskriminierungen führen — besonders kritisch bei Personalentscheidungen, aber auch bei der Mandantenberatung zu diskriminierungsrechtlichen Fragen. Kanzleien müssen ihre Mitarbeitenden befähigen, Bias zu erkennen und zu korrigieren.
+KI-Systeme werden auf Basis großer Textmengen trainiert, die Verzerrungen und gesellschaftliche Vorurteile enthalten können. Diese "Bias" können sich in den Outputs der KI-Systeme widerspiegeln und zu Diskriminierungen führen — besonders kritisch bei Personalentscheidungen, aber auch bei der Mandantenberatung zu diskriminierungsrechtlichen Fragen. Kanzleien müssen ihre Mitarbeitern befähigen, Bias zu erkennen und zu korrigieren.
 
 ## Rechtlicher Hintergrund
 
@@ -24,7 +24,7 @@ KI-Systeme werden auf Basis großer Textmengen trainiert, die Verzerrungen und g
 ## Vorlagentext / Bausteine
 
 **Baustein Bias-Sensibilisierung:**
-KI-Systeme können aufgrund ihrer Trainingsdaten vorurteilsbehaftete Inhalte erzeugen, die gegen das AGG oder andere Diskriminierungsverbote verstoßen. Mitarbeitende sind angewiesen, KI-generierte Texte auf diskriminierende Formulierungen, Stereotypen oder einseitige Bewertungen zu prüfen. Derartige Inhalte sind zu löschen und intern zu melden. Eine Weiterverwendung ist nicht zulässig.
+KI-Systeme können aufgrund ihrer Trainingsdaten vorurteilsbehaftete Inhalte erzeugen, die gegen das AGG oder andere Diskriminierungsverbote verstoßen. Mitarbeiter sind angewiesen, KI-generierte Texte auf diskriminierende Formulierungen, Stereotypen oder einseitige Bewertungen zu prüfen. Derartige Inhalte sind zu löschen und intern zu melden. Eine Weiterverwendung ist nicht zulässig.
 
 **Baustein AGG-Compliance Personalwesen:**
 Beim Einsatz von KI-Systemen bei der Vorauswahl von Bewerbungen oder bei sonstigen Personalentscheidungen stellt die Kanzlei sicher, dass die nach § 1 AGG geschützten Merkmale (Rasse, ethnische Herkunft, Geschlecht, Religion oder Weltanschauung, Behinderung, Alter, sexuelle Identität) keine Rolle spielen. KI-generierte Bewerbungsbewertungen werden ausnahmslos von einer qualifizierten Personalverantwortlichen oder einem qualifizierten Personalverantwortlichen überprüft, bevor eine Entscheidung getroffen wird.

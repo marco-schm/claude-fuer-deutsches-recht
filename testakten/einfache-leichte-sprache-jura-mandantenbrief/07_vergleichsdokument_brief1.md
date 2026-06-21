@@ -112,6 +112,6 @@ Wer alle fünf Fragen aus dem Text richtig beantworten kann, hat den Brief verst
 | Position | Aufwand | Hinweis |
 |---|---|---|
 | Original-Mandantenbrief erstellen | ca. 60 Minuten | übliche RVG-Vergütung |
-| Übersetzung Einfache Sprache | ca. 45 Minuten | Mehraufwand, in dieser Kanzlei intern als "Service" für betreute Mandant:innen |
+| Übersetzung Einfache Sprache | ca. 45 Minuten | Mehraufwand, in dieser Kanzlei intern als "Service" für betreute Mandanten |
 | Übersetzung Leichte Sprache | ca. 90 Minuten | erheblicher Mehraufwand; Honorarvereinbarung empfohlen, sofern kein BGG-/BITV-Pflichtfall |
-| Zielgruppenprüfung Leichte Sprache | ca. 45 Minuten Begleitung durch Anwältin + 60 Minuten Prüfer:innen-Einsatz | nicht im Beratungshilfehonorar enthalten |
+| Zielgruppenprüfung Leichte Sprache | ca. 45 Minuten Begleitung durch Anwalt + 60 Minuten Prüfer-Einsatz | nicht im Beratungshilfehonorar enthalten |

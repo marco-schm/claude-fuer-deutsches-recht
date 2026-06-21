@@ -120,7 +120,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `mandanten-kommunikations-log` | Mandantenkommunikation dokumentieren und Kommunikations-Log führen: Anwendungsfall Rechtsberatungsstelle muss Beratungsgespraeache E-Mails und Entscheidungen vollständig und datenschutzkonform dokumentieren. DSGVO… |
 | `mandantenbrief` | Mandantenbrief für Rechtsberatungsstelle verfassen: Anwendungsfall Rechtsberatungsstelle muss Mandanten über Ergebnis der Beratung informieren oder Schreiben an Gegenseite Behörde oder Gericht vorbereiten.… |
 | `memo` | Erstellt ein Gutachten-Gerüst nach der deutschen Gutachtenmethode (Obersatz — Definition/Norm — Subsumtion — Ergebnis) mit gekennzeichneten Recherchelücken — das Gerüst, nicht die Analyse selbst. Normblöcke sind mit… |
-| `recherche-start` | Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, Quellenprüfung, Suchbegriffe für amtliche/freie Quellen oder lizenzierte Datenbanken/dejure. Hinweise und Rahmen, KEINE geprüften Belege; Studierende… |
+| `recherche-start` | Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, Quellenprüfung, Suchbegriffe für amtliche/freie Quellen oder lizenzierte Datenbanken/dejure. Hinweise und Rahmen, KEINE geprüften Belege; Studenten… |
 | `rechtsberatungsstelle-anpassen` | Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpassen: Anwendungsfall neue Rechtsberatungsstelle moechte Plugin konfigurieren mit eigenen Rechtsgebieten Zielgruppe und Verfahrensregeln. BeratungsHiG,… |
 | `rechtsberatungsstelle-kaltstart-interview` | Rechtsberatungsstelle Kaltstart und Erst-Konfiguration: Anwendungsfall neue Rechtsberatungsstelle oder neues Semester startet und Plugin muss mit Rechtsgebieten Hochschule Anleiter und Beratungsregeln eingerichtet… |
 | `semester-uebergabe` | Semesterabschluss-Übergabe — das Gegenstück zu `/einarbeitung`. Erstellt fallbezogene Übergabenotizen und eine Kohorten-Gesamtübersicht, damit die abgehende Kohorte die laufenden Mandate unter Wahrung des… |
@@ -130,14 +130,14 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 Das Plugin unterstuetzt studentische und gemeinnuetzige Rechtsberatungsstellen bei der RDG-konformen Durchfuehrung ihrer Beratungsarbeit. Es bildet den gesamten Lebenszyklus eines Mandats ab: von der Erstaufnahme über die rechtliche Analyse und Schriftstueckerstellung bis zur sauberen Semesteruebergabe.
 
-Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rechtsanwaelte. Die Beratungsleistung muss im Rahmen der nach § 6 RDG erlaubten unentgeltlichen Rechtsdienstleistungen bleiben. Alle wesentlichen Dokumente beduerften einer Anleiter-Freigabe. Das Plugin beruecksichtigt diese Aufsichtsstruktur mit einer optionalen Prüfwarteschlange.
+Besonderheit gegenueber Anwaltsplugins: Studenten sind keine zugelassenen Rechtsanwaelte. Die Beratungsleistung muss im Rahmen der nach § 6 RDG erlaubten unentgeltlichen Rechtsdienstleistungen bleiben. Alle wesentlichen Dokumente beduerften einer Anleiter-Freigabe. Das Plugin beruecksichtigt diese Aufsichtsstruktur mit einer optionalen Prüfwarteschlange.
 
 ## Wann brauchen Sie diese Skill?
 
-- Ein neuer Studierender startet seine Arbeit in der Rechtsberatungsstelle und benoetigt Einarbeitung in Struktur, RDG-Grundlagen und Tools.
+- Ein neuer Studentenr startet seine Arbeit in der Rechtsberatungsstelle und benoetigt Einarbeitung in Struktur, RDG-Grundlagen und Tools.
 - Ein Mandant meldet sich mit einem konkreten Rechtsproblem und muss mit Sachverhalt, Fristen und Interessenkonfliktpruefung aufgenommen werden.
 - Sie benoetigen Schriftsaetze, Antraege oder Mandantenbriefe in verstaendlicher Sprache für Mandanten mit sprachlichen Einschraenkungen.
-- Das Semester endet und laufende Mandate sollen sauber an die naechste Studierendenkohorte uebergeben werden.
+- Das Semester endet und laufende Mandate sollen sauber an die naechste Studentennkohorte uebergeben werden.
 - Sie wollen das Plugin an Ihre Hochschule und deren Rechtsgebiete anpassen.
 
 ## Fachbegriffe (kurz erklaert)
@@ -145,7 +145,7 @@ Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rech
 - **RDG** — Rechtsdienstleistungsgesetz; regelt, wer ausserhalb der Anwaltschaft Rechtsdienstleistungen erbringen darf.
 - **§ 6 RDG** — Erlaubnisnorm für unentgeltliche Rechtsdienstleistungen; Grundlage für studentische Beratungsstellen.
 - **BeratungsHiG** — Beratungshilfegesetz; ermoeglicht einkommensschwachen Personen staatlich gefoerderte Rechtsberatung.
-- **Anleiter** — Zugelassener Rechtsanwalt, der die Aufsicht über Studierende fuehrt und Arbeitsergebnisse freigibt.
+- **Anleiter** — Zugelassener Rechtsanwalt, der die Aufsicht über Studenten fuehrt und Arbeitsergebnisse freigibt.
 - **Gutachtenmethode** — Juristische Analyse nach dem Schema Obersatz - Norm/Definition - Subsumtion - Ergebnis.
 - **Interessenkonflikt** — Situation, in der Berater oder Kanzlei bereits die Gegenpartei vertreten; muss vor Mandatsannahme geprueft werden (§ 43a Abs. 4 BRAO entsprechend).
 - **Prüfwarteschlange** — Optionale Aufsichtsstruktur, in der Arbeitsergebnisse auf Anleiter-Freigabe warten, bevor sie den Mandanten oder Gerichten zugehen.
@@ -163,7 +163,7 @@ Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rech
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Kaltstart-Interview durchfuehren und Plugin an Hochschule und Rechtsgebiete anpassen.
-2. Neue Studierende einarbeiten (Semester-Start).
+2. Neue Studenten einarbeiten (Semester-Start).
 3. Mandanten aufnehmen: Sachverhalt, Fristen, Interessenkonflikt und Beratungsberechtigung prüfen.
 4. Passenden Skill auswaehlen (Memo, Entwurf, Mandantenbrief, einfache Sprache, Formular).
 5. Ergebnis in Prüfwarteschlange stellen; nach Anleiter-Freigabe versenden oder weitergeben.
@@ -189,7 +189,7 @@ Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rech
 
 ## Worauf besonders achten
 
-- **RDG-Grenze einhalten**: Studierende dürfen keine individualrechtliche Beratung ausserhalb des § 6 RDG-Rahmens erbringen; Abgrenzung zu anwaltlicher Taetigkeit ist essentiell.
+- **RDG-Grenze einhalten**: Studenten dürfen keine individualrechtliche Beratung ausserhalb des § 6 RDG-Rahmens erbringen; Abgrenzung zu anwaltlicher Taetigkeit ist essentiell.
 - **Anleiter-Freigabe vor Versand**: Kein Schriftstuck und kein Mandantenbrief verlasst die Beratungsstelle ohne Anleiter-Freigabe.
 - **Fristen besonders beobachten**: Versaeumte Fristen können den Mandanten seinen Anspruch kosten; der Fristen-Skill muss regelmaessig abgerufen werden.
 - **Mandatsgeheimnis bei Semesteruebergabe**: Übergabenotizen dürfen nur mit dem Einverstaendnis des Mandanten weitergegeben werden.
@@ -197,7 +197,7 @@ Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rech
 
 ## Typische Fehler
 
-- Interessenkonfliktpruefung vergessen: Zwei Studierende aus derselben Kohorte beraten unwissentlich Parteien desselben Konflikts.
+- Interessenkonfliktpruefung vergessen: Zwei Studenten aus derselben Kohorte beraten unwissentlich Parteien desselben Konflikts.
 - Memo als fertige Rechtsberatung weitergeben statt als Analyse-Grundlage für den Anleiter.
 - Fristenliste nicht aktuell halten; Fristaenderungen durch Gericht werden nicht eingetragen.
 - Bei der Semesteruebergabe Mandate ohne Übergabenotiz an Nachfolgekohorte weitergeben.

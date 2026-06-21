@@ -1,6 +1,6 @@
 ---
 name: beschleunigtes-verfahren-418-stpo
-description: "Beschleunigtes Verfahren nach § 418 StPO: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Beschleunigtes Verfahren nach § 418 StPO: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Beschleunigtes Verfahren nach § 418 StPO

@@ -1,6 +1,6 @@
 ---
 name: verkehrsstrafrecht-blutprobe-fahrerlaubnis
-description: "Verkehrsstrafrecht: Blutprobe, Fahrerlaubnis und Strafbefehl: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Verkehrsstrafrecht: Blutprobe, Fahrerlaubnis und Strafbefehl: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Verkehrsstrafrecht: Blutprobe, Fahrerlaubnis und Strafbefehl

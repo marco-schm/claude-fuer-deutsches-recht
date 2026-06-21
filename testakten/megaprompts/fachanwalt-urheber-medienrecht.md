@@ -603,7 +603,7 @@ _Urheberrechtliche Abmahnung § 97a UrhG Voraussetzungen Inhalt Aktivlegitimatio
 
 ## Kernsachverhalt & Mandantenfragen
 
-Urheberrechtliche Abmahnungen stellen Mandantinnen und Mandanten vor eine doppelte Herausforderung: einerseits Fristdruck, andererseits die Gefahr, durch eine vorschnelle Reaktion weit mehr anzuerkennen als nötig. Gerade bei massenhaft verwendeten Abmahnschreiben (Foto-Abmahnungen, Filesharing) entspricht die vorformulierte Unterlassungserklärung selten dem Minimum des rechtlich Notwendigen.
+Urheberrechtliche Abmahnungen stellen Mandanten vor eine doppelte Herausforderung: einerseits Fristdruck, andererseits die Gefahr, durch eine vorschnelle Reaktion weit mehr anzuerkennen als nötig. Gerade bei massenhaft verwendeten Abmahnschreiben (Foto-Abmahnungen, Filesharing) entspricht die vorformulierte Unterlassungserklärung selten dem Minimum des rechtlich Notwendigen.
 
 **8 Kaltstart-Rückfragen:**
 

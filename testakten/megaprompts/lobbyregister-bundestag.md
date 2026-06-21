@@ -10,7 +10,7 @@ Dieser Megaprompt enthaelt top-15 von 52 Skills des Plugins `lobbyregister-bunde
 2. **interessenvertretung-begriff-interne** — Prüft, ob eine Kontaktaufnahme unmittelbare oder mittelbare Einflussnahme auf Willensbildungs- oder Entscheidungsprozess…
 3. **lobbyregister-kommandocenter** — Master-Routing für Lobbyregister-Mandate: Pflichtcheck, Registrierung, Aktualisierung, Verhaltenskodex, Meldung, Sanktio…
 4. **intake-mandat-lobbyregister** — Erfasst Ausgangslage, Organisation, Kontaktplaene, Auftraggeber, Fristen und Portalstatus vor jeder Lobbyregister-Prüfun…
-5. **adressatenkreis-bundestag-bundesregierung** — Kartiert Adressatinnen und Adressaten nach § 1 LobbyRG: Bundestagsorgane, Mitglieder, Fraktionen, Gruppen, Mitarbeitende…
+5. **adressatenkreis-bundestag-bundesregierung** — Kartiert Adressatinnen und Adressaten nach § 1 LobbyRG: Bundestagsorgane, Mitglieder, Fraktionen, Gruppen, Mitarbeiter…
 6. **ausnahmen-bundesregierung-bundestag** — Prüft Ausnahmen bei Interessenvertretung gegenüber Bundesregierung und Ministerien nach § 2 Abs. 3 LobbyRG, einschließli…
 7. **betraute-personen-datenschutz** — Ermittelt Personen, die mit Interessenvertretung nicht nur bei Gelegenheit betraut sind und unmittelbar auftreten. Abgre…
 8. **freiwillige-registrierung-fremdmandat** — Berät zu freiwilliger Eintragung nach § 2 Abs. 5 LobbyRG: Rechte, volle Pflichten, Aktualisierung, Verhaltenskodex und B…
@@ -138,7 +138,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 | Skill | Wann vorschlagen? |
 |---|---|
-| `adressatenkreis-bundestag-bundesregierung` | Kartiert Adressatinnen und Adressaten nach § 1 LobbyRG: Bundestagsorgane, Mitglieder, Fraktionen, Gruppen, Mitarbeitende, Bundesregierung und Leitungsebenen bis Referatsleitung. Output Adressatenkarte. |
+| `adressatenkreis-bundestag-bundesregierung` | Kartiert Adressatinnen und Adressaten nach § 1 LobbyRG: Bundestagsorgane, Mitglieder, Fraktionen, Gruppen, Mitarbeiter, Bundesregierung und Leitungsebenen bis Referatsleitung. Output Adressatenkarte. |
 | `aktualisierung-unverzueglich` | Steuert unverzuegliche Updates bei Stammdaten, Personen, Tätigkeitsbeschreibung, Vorhabenbereichen, Regelungsvorhaben, Auftraegen und Auftraggebern. Output Update-Ticket. |
 | `anonymisierung-schutzantrag` | Prüft Beschraenkung der Veröffentlichung bei schutzwürdigen Interessen nach § 4 Abs. 6 LobbyRG und Altfall-Anonymisierung. Output Schutzantrag-Skizze. |
 | `auftraggeber-ermitteln` | Erfasst Auftraggeberinnen und Auftraggeber bei Interessenvertretung im Auftrag Dritter und die jeweils beauftragte Interessenvertretung. Output Auftraggebermatrix. |
@@ -522,7 +522,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Skill: `adressatenkreis-bundestag-bundesregierung`
 
-_Kartiert Adressatinnen und Adressaten nach § 1 LobbyRG: Bundestagsorgane, Mitglieder, Fraktionen, Gruppen, Mitarbeitende, Bundesregierung und Leitungsebenen bis Referatsleitung. Output Adressatenkarte im Lobbyregister Bundestag._
+_Kartiert Adressatinnen und Adressaten nach § 1 LobbyRG: Bundestagsorgane, Mitglieder, Fraktionen, Gruppen, Mitarbeiter, Bundesregierung und Leitungsebenen bis Referatsleitung. Output Adressatenkarte im Lobbyregister Bundestag._
 
 # Adressatenkreis Bundestag und Bundesregierung
 
@@ -545,7 +545,7 @@ _Kartiert Adressatinnen und Adressaten nach § 1 LobbyRG: Bundestagsorgane, Mitg
 
 1. Welche Person oder Stelle soll kontaktiert werden?
 2. Ist es Bundestag, Bundesregierung, Ministerium, nachgeordnete Behörde oder EU-Ebene?
-3. Sind Mitarbeitende, Referatsleitungen oder politische Leitung betroffen?
+3. Sind Mitarbeiter, Referatsleitungen oder politische Leitung betroffen?
 
 ## Rechtsstand 2026
 

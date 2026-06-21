@@ -56,7 +56,7 @@ Wenn eine Kommunikationsaufgabe vorliegt:
 >
 > Bitte bestätigen Sie mir kurz, dass Sie mit dem beschriebenen Vorgehen einverstanden sind.
 >
-> Mit freundlichen Grüßen, [Anwalt/-in]"
+> Mit freundlichen Grüßen, [Anwalt]"
 
 ### 2. Verfahrensstandsmeldung (Zwischenbericht)
 
@@ -74,7 +74,7 @@ Wenn eine Kommunikationsaufgabe vorliegt:
 >
 > **Nächster Termin:** [Datum, Ort, Uhrzeit] — Bitte erscheinen Sie persönlich / Ihr Erscheinen ist nicht notwendig (§ 54 ArbGG Gütermin: Mandant darf, muss aber nicht erscheinen).
 >
-> Mit freundlichen Grüßen, [Anwalt/-in]"
+> Mit freundlichen Grüßen, [Anwalt]"
 
 ### 3. Vergleichsangebot — Information und Entscheidungsvorbereitung
 
@@ -95,7 +95,7 @@ Wenn eine Kommunikationsaufgabe vorliegt:
 >
 > **Entscheidung liegt bei Ihnen:** Bitte teilen Sie mir bis zum [Datum] mit, wie Sie entscheiden möchten. Bei Fragen rufe ich Sie gerne an.
 >
-> Mit freundlichen Grüßen, [Anwalt/-in]"
+> Mit freundlichen Grüßen, [Anwalt]"
 
 ### 4. Fristdruck-Eilnachricht
 
@@ -107,7 +107,7 @@ Wenn eine Kommunikationsaufgabe vorliegt:
 >
 > Bitte antworten Sie mir so schnell wie möglich, ob Sie der Klageeinreichung zustimmen.
 >
-> [Anwalt/-in], [Telefon, E-Mail]"
+> [Anwalt], [Telefon, E-Mail]"
 
 ## Informationspflichten im Überblick
 

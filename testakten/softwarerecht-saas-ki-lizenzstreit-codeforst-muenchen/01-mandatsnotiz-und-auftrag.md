@@ -1,6 +1,6 @@
 # Mandatsnotiz - Projekt RouteLuchs
 
-**Mandantin:** Codeforst GmbH, München, 84 Mitarbeitende, Schwerpunkt SaaS für Flotten- und Lieferkettenoptimierung.
+**Mandantin:** Codeforst GmbH, München, 84 Mitarbeiter, Schwerpunkt SaaS für Flotten- und Lieferkettenoptimierung.
 **Gegenseite/Kunde:** Sonnenklee Mobility AG, Hamburg, Betreiberin von Lade-, Werkstatt- und Dispositionssoftware für kommunale E-Fahrzeugflotten.
 **Produkt:** RouteLuchs Cloud mit KI-Modul “DispatchMind”, On-Prem-Gateway “LuchsBox”, SDK für Werkstattpartner und REST-API.
 

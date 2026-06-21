@@ -29,7 +29,7 @@ Das SV-Gutachten zeigt, dass die BAMV-Messung unter nicht-standardisierten Bedin
 
 ### 4. Soziale und wirtschaftliche Folgen
 
-Wie im Aktenstück 13 ausgeführt: Mandant ist alleiniger GF der Norderhof Spedition GmbH mit 38 Mitarbeitenden; Fahrverbot würde den Betrieb unmittelbar gefährden; laufende Continental-Problematik verschärft die Situation.
+Wie im Aktenstück 13 ausgeführt: Mandant ist alleiniger GF der Norderhof Spedition GmbH mit 38 Mitarbeitern; Fahrverbot würde den Betrieb unmittelbar gefährden; laufende Continental-Problematik verschärft die Situation.
 
 ### 5. Keine Gefährdung anderer Verkehrsteilnehmer
 

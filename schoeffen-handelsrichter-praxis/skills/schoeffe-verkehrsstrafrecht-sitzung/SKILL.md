@@ -1,6 +1,6 @@
 ---
 name: schoeffe-verkehrsstrafrecht-sitzung
-description: "Verkehrsstrafrecht für Schöffen (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Unfallflucht, Trunkenheit, Gefährdung, Fahrerlaubnis und Fahreignung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Verkehrsstrafrecht für Schöffen (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Unfallflucht, Trunkenheit, Gefährdung, Fahrerlaubnis und Fahreignung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Verkehrsstrafrecht für Schöffen: Sitzungspraxis

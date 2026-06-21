@@ -31,7 +31,7 @@ Für die geplante Hol- und Bringzone L2 vor der Grundschule Nord schlägt das Ko
 
 a) Der Birkenweg hat eine Fahrbahnbreite von nur 5,80 m. Bei einem parkenden Fahrzeug in der Hol- und Bringzone verbleibt eine Restdurchfahrtsbreite von ca. 3,10 m, die für Begegnungsverkehr (zwei Pkw) nicht ausreicht. Das Konzept sieht keine Ausschilderung als Einbahnstraße vor.
 
-b) Der Hauptzulauf der Schülerinnen und Schüler kommt von der Gartenstraße (Norden) und nicht vom Birkenweg (Süden). Eine Hol- und Bringzone am Birkenweg verlängert den Fußweg zum Schuleingang auf ca. 120 m, was in der Praxis dazu führen wird, dass Eltern weiterhin an der Gartenstraße halten – entgegen der Intention des Konzepts.
+b) Der Hauptzulauf der Schüler kommt von der Gartenstraße (Norden) und nicht vom Birkenweg (Süden). Eine Hol- und Bringzone am Birkenweg verlängert den Fußweg zum Schuleingang auf ca. 120 m, was in der Praxis dazu führen wird, dass Eltern weiterhin an der Gartenstraße halten – entgegen der Intention des Konzepts.
 
 Wir schlagen stattdessen vor, die Hol- und Bringzone auf dem Schulhof der Grundschule Nord einzurichten (für den Bringeverkehr per Durchfahrtsbetrieb auf dem Schulgeländevorplatz). Die Schulleitung hat uns gegenüber signalisiert, dass sie diesen Vorschlag prüfen würde. Wir bitten das Planungsamt, diesen Alternativstandort in die Konzeptüberarbeitung aufzunehmen.
 

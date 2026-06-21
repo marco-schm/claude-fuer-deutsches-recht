@@ -6,7 +6,7 @@ Dieser Megaprompt enthaelt top-10 von 100 Skills des Plugins `hochschulrecht-lae
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Startet Hochschulrecht für Universitäten, Hochschulen, Studierende, Lehrende, Kanzler, Präsidien und Rechtsabteilungen.
+1. **kaltstart-triage** — Startet Hochschulrecht für Universitäten, Hochschulen, Studenten, Lehrer, Kanzler, Präsidien und Rechtsabteilungen.
 2. **hochschulgesetz-mecklenburg-vorpommern** — Prüft Hochschulrecht in Mecklenburg-Vorpommern mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie …
 3. **hochschulgesetz-nordrhein-rheinland** — Prüft Hochschulrecht in Nordrhein-Westfalen mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie im …
 4. **hochschulgesetz-schleswig-holstein** — Prüft Hochschulrecht in Schleswig-Holstein mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie im H…
@@ -21,7 +21,7 @@ Dieser Megaprompt enthaelt top-10 von 100 Skills des Plugins `hochschulrecht-lae
 
 ## Skill: `kaltstart-triage`
 
-_Startet Hochschulrecht für Universitäten, Hochschulen, Studierende, Lehrende, Kanzler, Präsidien und Rechtsabteilungen._
+_Startet Hochschulrecht für Universitäten, Hochschulen, Studenten, Lehrer, Kanzler, Präsidien und Rechtsabteilungen._
 
 # Allgemein
 
@@ -65,7 +65,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 
 ## Spezialfokus
 
-- **Konkreter Auftrag:** Startet Hochschulrecht für Universitäten, Hochschulen, Studierende, Lehrende, Kanzler, Präsidien und Rechtsabteilungen.
+- **Konkreter Auftrag:** Startet Hochschulrecht für Universitäten, Hochschulen, Studenten, Lehrer, Kanzler, Präsidien und Rechtsabteilungen.
 - **Erste Trennlinie:** Ist das Problem wirklich Allgemein, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
 - **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
 - **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
@@ -83,7 +83,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 - In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
 - Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
 - Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studierende, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
+- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
 - Welche Tatsachen sind belegt und welche werden nur behauptet?
 
 ## Arbeitslogik
@@ -141,7 +141,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Widerspruch Prüfungsentscheidung i.d.R. 1 Monat (VwVfG/VwGO), Exmatrikulation/Beurlaubung semestergebunden, Promotionsverfahren landesrechtlich.
 - Tragende Normen verifizieren: HRG (Rahmen), 16 Landeshochschulgesetze (z. B. HG NRW, BayHIG, BerlHG, HmbHG), WissZeitVG, BAföG, HRK-Beschlüsse, Bologna-Erklärung, EU-RL anerkennung Berufsqualifikationen 2005/36 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Lehrende, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Lehrer, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Studien-/Prüfungsordnung, Zulassungsbescheid, Prüfungsbescheid, Widerspruchsbescheid, Klage VG, Promotionsordnung, Berufungsvereinbarung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachkern: Hochschulgesetz Mecklenburg Vorpommern
@@ -151,7 +151,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Wofür dieser Arbeitsgang da ist
 
-Landescheck Mecklenburg-Vorpommern: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studierendenschaft, Aufsicht und Rechtsschutz.
+Landescheck Mecklenburg-Vorpommern: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studentennschaft, Aufsicht und Rechtsschutz.
 
 Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland, Einrichtung, konkreter Ordnung, Bescheid, Frist, Verfahrensstand und vorhandenen Unterlagen. Ohne diese Angaben wird keine scheinbar sichere Antwort erzeugt.
 
@@ -175,7 +175,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 - In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
 - Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
 - Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studierende, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
+- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
 - Welche Tatsachen sind belegt und welche werden nur behauptet?
 
 ## Arbeitslogik
@@ -233,7 +233,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Widerspruch Prüfungsentscheidung i.d.R. 1 Monat (VwVfG/VwGO), Exmatrikulation/Beurlaubung semestergebunden, Promotionsverfahren landesrechtlich.
 - Tragende Normen verifizieren: HRG (Rahmen), 16 Landeshochschulgesetze (z. B. HG NRW, BayHIG, BerlHG, HmbHG), WissZeitVG, BAföG, HRK-Beschlüsse, Bologna-Erklärung, EU-RL anerkennung Berufsqualifikationen 2005/36 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Lehrende, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Lehrer, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Studien-/Prüfungsordnung, Zulassungsbescheid, Prüfungsbescheid, Widerspruchsbescheid, Klage VG, Promotionsordnung, Berufungsvereinbarung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachkern: Hochschulgesetz Nordrhein Westfalen
@@ -243,7 +243,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Wofür dieser Arbeitsgang da ist
 
-Landescheck Nordrhein-Westfalen: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studierendenschaft, Aufsicht und Rechtsschutz.
+Landescheck Nordrhein-Westfalen: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studentennschaft, Aufsicht und Rechtsschutz.
 
 Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland, Einrichtung, konkreter Ordnung, Bescheid, Frist, Verfahrensstand und vorhandenen Unterlagen. Ohne diese Angaben wird keine scheinbar sichere Antwort erzeugt.
 
@@ -267,7 +267,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 - In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
 - Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
 - Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studierende, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
+- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
 - Welche Tatsachen sind belegt und welche werden nur behauptet?
 
 ## Arbeitslogik
@@ -325,7 +325,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Widerspruch Prüfungsentscheidung i.d.R. 1 Monat (VwVfG/VwGO), Exmatrikulation/Beurlaubung semestergebunden, Promotionsverfahren landesrechtlich.
 - Tragende Normen verifizieren: HRG (Rahmen), 16 Landeshochschulgesetze (z. B. HG NRW, BayHIG, BerlHG, HmbHG), WissZeitVG, BAföG, HRK-Beschlüsse, Bologna-Erklärung, EU-RL anerkennung Berufsqualifikationen 2005/36 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Lehrende, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Lehrer, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Studien-/Prüfungsordnung, Zulassungsbescheid, Prüfungsbescheid, Widerspruchsbescheid, Klage VG, Promotionsordnung, Berufungsvereinbarung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachkern: Hochschulgesetz Schleswig Holstein
@@ -335,7 +335,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Wofür dieser Arbeitsgang da ist
 
-Landescheck Schleswig-Holstein: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studierendenschaft, Aufsicht und Rechtsschutz.
+Landescheck Schleswig-Holstein: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studentennschaft, Aufsicht und Rechtsschutz.
 
 Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland, Einrichtung, konkreter Ordnung, Bescheid, Frist, Verfahrensstand und vorhandenen Unterlagen. Ohne diese Angaben wird keine scheinbar sichere Antwort erzeugt.
 
@@ -359,7 +359,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 - In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
 - Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
 - Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studierende, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
+- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
 - Welche Tatsachen sind belegt und welche werden nur behauptet?
 
 ## Arbeitslogik
@@ -417,7 +417,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Widerspruch Prüfungsentscheidung i.d.R. 1 Monat (VwVfG/VwGO), Exmatrikulation/Beurlaubung semestergebunden, Promotionsverfahren landesrechtlich.
 - Tragende Normen verifizieren: HRG (Rahmen), 16 Landeshochschulgesetze (z. B. HG NRW, BayHIG, BerlHG, HmbHG), WissZeitVG, BAföG, HRK-Beschlüsse, Bologna-Erklärung, EU-RL anerkennung Berufsqualifikationen 2005/36 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Lehrende, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Lehrer, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Studien-/Prüfungsordnung, Zulassungsbescheid, Prüfungsbescheid, Widerspruchsbescheid, Klage VG, Promotionsordnung, Berufungsvereinbarung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachkern: Hochschulgesetz Baden Wuerttemberg
@@ -427,7 +427,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Wofür dieser Arbeitsgang da ist
 
-Landescheck Baden-Württemberg: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studierendenschaft, Aufsicht und Rechtsschutz.
+Landescheck Baden-Württemberg: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studentennschaft, Aufsicht und Rechtsschutz.
 
 Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland, Einrichtung, konkreter Ordnung, Bescheid, Frist, Verfahrensstand und vorhandenen Unterlagen. Ohne diese Angaben wird keine scheinbar sichere Antwort erzeugt.
 
@@ -451,7 +451,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 - In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
 - Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
 - Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studierende, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
+- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
 - Welche Tatsachen sind belegt und welche werden nur behauptet?
 
 ## Arbeitslogik
@@ -509,7 +509,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Widerspruch Prüfungsentscheidung i.d.R. 1 Monat (VwVfG/VwGO), Exmatrikulation/Beurlaubung semestergebunden, Promotionsverfahren landesrechtlich.
 - Tragende Normen verifizieren: HRG (Rahmen), 16 Landeshochschulgesetze (z. B. HG NRW, BayHIG, BerlHG, HmbHG), WissZeitVG, BAföG, HRK-Beschlüsse, Bologna-Erklärung, EU-RL anerkennung Berufsqualifikationen 2005/36 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Lehrende, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Lehrer, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Studien-/Prüfungsordnung, Zulassungsbescheid, Prüfungsbescheid, Widerspruchsbescheid, Klage VG, Promotionsordnung, Berufungsvereinbarung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachkern: Hochschulgesetz Rheinland Pfalz
@@ -519,7 +519,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Wofür dieser Arbeitsgang da ist
 
-Landescheck Rheinland-Pfalz: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studierendenschaft, Aufsicht und Rechtsschutz.
+Landescheck Rheinland-Pfalz: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studentennschaft, Aufsicht und Rechtsschutz.
 
 Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland, Einrichtung, konkreter Ordnung, Bescheid, Frist, Verfahrensstand und vorhandenen Unterlagen. Ohne diese Angaben wird keine scheinbar sichere Antwort erzeugt.
 
@@ -543,7 +543,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 - In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
 - Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
 - Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studierende, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
+- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
 - Welche Tatsachen sind belegt und welche werden nur behauptet?
 
 ## Arbeitslogik
@@ -601,7 +601,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Widerspruch Prüfungsentscheidung i.d.R. 1 Monat (VwVfG/VwGO), Exmatrikulation/Beurlaubung semestergebunden, Promotionsverfahren landesrechtlich.
 - Tragende Normen verifizieren: HRG (Rahmen), 16 Landeshochschulgesetze (z. B. HG NRW, BayHIG, BerlHG, HmbHG), WissZeitVG, BAföG, HRK-Beschlüsse, Bologna-Erklärung, EU-RL anerkennung Berufsqualifikationen 2005/36 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Lehrende, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Lehrer, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Studien-/Prüfungsordnung, Zulassungsbescheid, Prüfungsbescheid, Widerspruchsbescheid, Klage VG, Promotionsordnung, Berufungsvereinbarung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachkern: Hochschulgesetz Sachsen Anhalt
@@ -611,7 +611,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Wofür dieser Arbeitsgang da ist
 
-Landescheck Sachsen-Anhalt: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studierendenschaft, Aufsicht und Rechtsschutz.
+Landescheck Sachsen-Anhalt: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studentennschaft, Aufsicht und Rechtsschutz.
 
 Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland, Einrichtung, konkreter Ordnung, Bescheid, Frist, Verfahrensstand und vorhandenen Unterlagen. Ohne diese Angaben wird keine scheinbar sichere Antwort erzeugt.
 
@@ -635,7 +635,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 - In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
 - Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
 - Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studierende, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
+- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
 - Welche Tatsachen sind belegt und welche werden nur behauptet?
 
 ## Arbeitslogik
@@ -693,7 +693,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Widerspruch Prüfungsentscheidung i.d.R. 1 Monat (VwVfG/VwGO), Exmatrikulation/Beurlaubung semestergebunden, Promotionsverfahren landesrechtlich.
 - Tragende Normen verifizieren: HRG (Rahmen), 16 Landeshochschulgesetze (z. B. HG NRW, BayHIG, BerlHG, HmbHG), WissZeitVG, BAföG, HRK-Beschlüsse, Bologna-Erklärung, EU-RL anerkennung Berufsqualifikationen 2005/36 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Lehrende, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Lehrer, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Studien-/Prüfungsordnung, Zulassungsbescheid, Prüfungsbescheid, Widerspruchsbescheid, Klage VG, Promotionsordnung, Berufungsvereinbarung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachkern: Hochschulgesetz Niedersachsen
@@ -703,7 +703,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Wofür dieser Arbeitsgang da ist
 
-Landescheck Niedersachsen: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studierendenschaft, Aufsicht und Rechtsschutz.
+Landescheck Niedersachsen: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studentennschaft, Aufsicht und Rechtsschutz.
 
 Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland, Einrichtung, konkreter Ordnung, Bescheid, Frist, Verfahrensstand und vorhandenen Unterlagen. Ohne diese Angaben wird keine scheinbar sichere Antwort erzeugt.
 
@@ -727,7 +727,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 - In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
 - Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
 - Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studierende, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
+- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
 - Welche Tatsachen sind belegt und welche werden nur behauptet?
 
 ## Arbeitslogik
@@ -785,7 +785,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Widerspruch Prüfungsentscheidung i.d.R. 1 Monat (VwVfG/VwGO), Exmatrikulation/Beurlaubung semestergebunden, Promotionsverfahren landesrechtlich.
 - Tragende Normen verifizieren: HRG (Rahmen), 16 Landeshochschulgesetze (z. B. HG NRW, BayHIG, BerlHG, HmbHG), WissZeitVG, BAföG, HRK-Beschlüsse, Bologna-Erklärung, EU-RL anerkennung Berufsqualifikationen 2005/36 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Lehrende, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Lehrer, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Studien-/Prüfungsordnung, Zulassungsbescheid, Prüfungsbescheid, Widerspruchsbescheid, Klage VG, Promotionsordnung, Berufungsvereinbarung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachkern: Hochschulgesetz Brandenburg
@@ -795,7 +795,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Wofür dieser Arbeitsgang da ist
 
-Landescheck Brandenburg: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studierendenschaft, Aufsicht und Rechtsschutz.
+Landescheck Brandenburg: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studentennschaft, Aufsicht und Rechtsschutz.
 
 Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland, Einrichtung, konkreter Ordnung, Bescheid, Frist, Verfahrensstand und vorhandenen Unterlagen. Ohne diese Angaben wird keine scheinbar sichere Antwort erzeugt.
 
@@ -819,7 +819,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 - In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
 - Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
 - Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studierende, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
+- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
 - Welche Tatsachen sind belegt und welche werden nur behauptet?
 
 ## Arbeitslogik
@@ -877,7 +877,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Widerspruch Prüfungsentscheidung i.d.R. 1 Monat (VwVfG/VwGO), Exmatrikulation/Beurlaubung semestergebunden, Promotionsverfahren landesrechtlich.
 - Tragende Normen verifizieren: HRG (Rahmen), 16 Landeshochschulgesetze (z. B. HG NRW, BayHIG, BerlHG, HmbHG), WissZeitVG, BAföG, HRK-Beschlüsse, Bologna-Erklärung, EU-RL anerkennung Berufsqualifikationen 2005/36 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Lehrende, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Lehrer, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Studien-/Prüfungsordnung, Zulassungsbescheid, Prüfungsbescheid, Widerspruchsbescheid, Klage VG, Promotionsordnung, Berufungsvereinbarung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachkern: Hochschulgesetz Thueringen
@@ -887,7 +887,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Wofür dieser Arbeitsgang da ist
 
-Landescheck Thüringen: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studierendenschaft, Aufsicht und Rechtsschutz.
+Landescheck Thüringen: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studentennschaft, Aufsicht und Rechtsschutz.
 
 Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland, Einrichtung, konkreter Ordnung, Bescheid, Frist, Verfahrensstand und vorhandenen Unterlagen. Ohne diese Angaben wird keine scheinbar sichere Antwort erzeugt.
 
@@ -911,7 +911,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 - In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
 - Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
 - Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studierende, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
+- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
 - Welche Tatsachen sind belegt und welche werden nur behauptet?
 
 ## Arbeitslogik

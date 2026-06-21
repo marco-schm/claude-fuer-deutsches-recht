@@ -43,7 +43,7 @@ Stand: 02.06.2026, vor dem geplanten Eilantrag gegen den drohenden Vollzug des B
 ### 5. Beweisthemen für die Mandantin
 
 - **Verfahrensfehler Nachteilsausgleich**: keine Anhörung vor Beschneidung; keine ärztliche Stellungnahme eingeholt; keine Auseinandersetzung mit alternativen Maßnahmen (mündliche Ersatzleistung).
-- **Klausurbedingungen ungeeignet**: Online-Klausur mit Browser-Lockdown ist für LRS-Studierende mit Schreibverlängerung besonders belastend (wissenschaftlich diskutiert).
+- **Klausurbedingungen ungeeignet**: Online-Klausur mit Browser-Lockdown ist für LRS-Studenten mit Schreibverlängerung besonders belastend (wissenschaftlich diskutiert).
 - **Schwächeanfall in Offline-Phase**: ärztlich attestiert (Aktenstück 09); widerlegt die Vermutung der Hilfsmittelnutzung.
 - **KI-Verdacht nicht substantiiert**: bloßer Detektor-Output (sofern verwendet) reicht nicht; konkrete Lösungsmuster müssen benannt werden.
 - **Vergleichsmaßstab**: Falsch-Positiv-Rate aktueller KI-Detektoren bei akademischen Texten 15-40 %.

@@ -1,6 +1,6 @@
 ---
 name: encrochat-sky-ecc-anom-beweiswert
-description: "EncroChat, Sky ECC und ANOM: Beweiswert und Verwertungsangriff: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "EncroChat, Sky ECC und ANOM: Beweiswert und Verwertungsangriff: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # EncroChat, Sky ECC und ANOM: Beweiswert und Verwertungsangriff

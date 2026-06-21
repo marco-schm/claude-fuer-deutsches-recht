@@ -21,7 +21,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-Freistehendes Plugin für Studierende der Rechtswissenschaft, das durch das Erstellen einer **Hausarbeit oder Seminararbeit lernfördernd** hindurchführt. Es liefert **keine fertigen Lösungen**, sondern stellt Fragen, gibt Strukturen, Methoden-Hinweise und Zitierweise — Du subsumierst selbst.
+Freistehendes Plugin für Studenten der Rechtswissenschaft, das durch das Erstellen einer **Hausarbeit oder Seminararbeit lernfördernd** hindurchführt. Es liefert **keine fertigen Lösungen**, sondern stellt Fragen, gibt Strukturen, Methoden-Hinweise und Zitierweise — Du subsumierst selbst.
 
 ## Installation
 
@@ -41,7 +41,7 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 ## Mandatsperspektive
 
-**Du als Studierende oder Studierender.** Du gibst Deine Aufgabenstellung ein und gehst Schritt für Schritt durch die Lösung. Das Plugin
+**Du als Studenten oder Studentenr.** Du gibst Deine Aufgabenstellung ein und gehst Schritt für Schritt durch die Lösung. Das Plugin
 
 - fragt zu Beginn nach der **Lehrkraft** und entwickelt eine Adressaten-Strategie ohne Schleimerei,
 - unterscheidet **Hausarbeit (Korrekturassistent)** und **Seminararbeit (persönliche Lektüre + Vortrag)**,
@@ -185,7 +185,7 @@ Wenn die Aufgabenstellung mehrdeutig ist, frage zuerst die Lehrkraft. Wenn die B
 
 ## ⚠️ Vorsicht: hiermit bitte nicht mogeln im Studium
 
-Das Plugin ist ein **Lern- und Trainingswerkzeug** für Studierende, Tutor/-innen und Lehrkräfte. Es ist ausdrücklich **nicht** dafür gedacht, irgendeinen vom Plugin generierten Text (Subsumtion, Gliederungs-Vorschlag, Argumentations-Skizze, Probe-Gutachten) **als eigene Leistung** in einer Hausarbeit, Seminararbeit, Klausur, Aktenklausur, mündlichen Prüfung oder im juristischen Vorbereitungsdienst einzureichen. Das wäre ein **Täuschungsversuch** im Sinne der jeweiligen Prüfungsordnung der Universitäten bzw. § 14 JAG NRW / § 12 JAPO Bayern / vergleichbarer Vorschriften der anderen Länder. Folge ist regelmäßig **Nichtbestehen, Aberkennung der Prüfung oder disziplinarrechtliche Konsequenzen**. Der erlaubte Lernweg: erst selbst denken und schreiben, dann mit dem Plugin gegenprüfen, hinterfragen und verbessern lassen.
+Das Plugin ist ein **Lern- und Trainingswerkzeug** für Studenten, Tutoren und Lehrkräfte. Es ist ausdrücklich **nicht** dafür gedacht, irgendeinen vom Plugin generierten Text (Subsumtion, Gliederungs-Vorschlag, Argumentations-Skizze, Probe-Gutachten) **als eigene Leistung** in einer Hausarbeit, Seminararbeit, Klausur, Aktenklausur, mündlichen Prüfung oder im juristischen Vorbereitungsdienst einzureichen. Das wäre ein **Täuschungsversuch** im Sinne der jeweiligen Prüfungsordnung der Universitäten bzw. § 14 JAG NRW / § 12 JAPO Bayern / vergleichbarer Vorschriften der anderen Länder. Folge ist regelmäßig **Nichtbestehen, Aberkennung der Prüfung oder disziplinarrechtliche Konsequenzen**. Der erlaubte Lernweg: erst selbst denken und schreiben, dann mit dem Plugin gegenprüfen, hinterfragen und verbessern lassen.
 
 ## Verbotenes (Eigen-Einschränkung)
 
@@ -252,7 +252,7 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `didaktisches-erstpruefung-und-mandatsziel` | Didaktisches: Erstprüfung, Rollenklärung und Mandatsziel im Hausarbeitenmacher. |
 | `dokumente-intake` | Dokumentenintake für Jura-Hausarbeiten: sortiert Sachverhalt, Literaturverzeichnis, Gliederung, prüft Datum, Absender, Frist und Beweiswert (Urkunden, Zeugen); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO. |
 | `durch-schriftsatz-brief-und-memo-bausteine` | Schriftsatz-, Brief- und Memo-Bausteine fuer Hausarbeiten. Aufbauschemata, Standardformulierungen, Zitierregeln und Stilstufen fuer wissenschaftliche und praxisnahe Texte. |
-| `einstieg-routing` | Einstieg, Triage und Routing für Jura-Hausarbeiten: ordnet Rolle (Studierender, Korrektor), markiert Frist (Hausarbeits-Abgabefrist), wählt Norm (BGB AT/BT, StGB AT/BT, GG, ZPO/StPO/VwGO) und Zuständigkeit (Universitäre Prüfungsämter), l... |
+| `einstieg-routing` | Einstieg, Triage und Routing für Jura-Hausarbeiten: ordnet Rolle (Studentenr, Korrektor), markiert Frist (Hausarbeits-Abgabefrist), wählt Norm (BGB AT/BT, StGB AT/BT, GG, ZPO/StPO/VwGO) und Zuständigkeit (Universitäre Prüfungsämter), l... |
 | `europarecht-anwendbarkeit-hausarbeiten` | Student bearbeitet Hausarbeit mit Europarecht-Bezug: Anwendungsvorrang Verordnung direkt anwendbar Richtlinie richtlinienkonforme Auslegung Vorabentscheidungsverfahren. Art. 267 AEUV Marleasing EuGH-Linien Grundfreiheiten Grundrechte-Cha... |
 | `europarecht-interessen-fertigen-sonderfall` | Europarecht: Mehrparteienkonflikt und Interessenmatrix im Hausarbeitenmacher. |
 | `fachgebiet-routing-zivil-oeffentlich-straf` | Student weiss nicht in welches Fachgebiet die Hausarbeit faellt: Zivilrecht öffentliches Recht Strafrecht oder Mix. Routing-Skill klaert Fachgebiet anhand Indikatoren. Normen allgemein BGB HGB VwGO StGB je nach Gebiet. Prüfraster Fachgeb... |
@@ -263,7 +263,7 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `haeufige-fehler-vermeiden` | Student will typische Fehler in juristischen Hausarbeiten vermeiden: methodische stilistische formale Fehler. Liste der 20 häufigsten Fehler mit Korrekturhinweisen. Normen Methodenlehre Zitierstandards. Prüfraster Fehlertypen-Scan Selbst... |
 | `haus-fussnotenstil-spezial` | Spezialfall Fussnotenstil deutsche Jurahausarbeit: Erstzitat, Folgezitat, ebenda, aaO, Mehrfachverweis. Prüfraster für einheitliche Zitierweise im Hausarbeitenmacher. |
 | `haus-literaturrecherche-leitfaden` | Leitfaden Literaturrecherche: Kommentar, Lehrbuch, Aufsatz, Rechtsprechung dejure.org / openjur.de. Prüfraster für Querschnitts- und Spezialthemen im Hausarbeitenmacher. |
-| `haus-plagiatscheck-themaeingrenzung` | Spezialfall Plagiatscheck und Eigenstaendigkeitserklaerung: Selbstplagiat, KI-Nutzung, Prüfungsrecht, Tools. Prüfraster für Prüfungsamt und Studierende im Hausarbeitenmacher. |
+| `haus-plagiatscheck-themaeingrenzung` | Spezialfall Plagiatscheck und Eigenstaendigkeitserklaerung: Selbstplagiat, KI-Nutzung, Prüfungsrecht, Tools. Prüfraster für Prüfungsamt und Studenten im Hausarbeitenmacher. |
 | `haus-themaeingrenzung-bauleiter` | Bauleiter Themaeingrenzung Hausarbeit: Forschungsfrage, Gliederungsentwurf, Literatursichtung. Prüfraster für Erstsemester und Examenskandidaten im Hausarbeitenmacher. |
 | `hausarbeit-quellenrecherche-rspr-literatur` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Hausarbeitenmacher. |
 | `hausarbeit-start` | Einstieg, Schnelltriage und Fallrouting im Hausarbeitenmacher-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Doku... |
@@ -275,7 +275,7 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `methodenlehre-auslegung-oeffentliches` | Student braucht Anleitung zu den vier Auslegungsmethoden grammatikalisch systematisch historisch teleologisch plus verfassungs- und EU-rechtskonforme Auslegung. Rechtsfortbildung Analogie teleologische Reduktion. Normen §§ 133 157 BGB Ar... |
 | `oeffentliches-quellenkarte` | Oeffentliches Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert |
 | `oeffentliches-recht-statthaft-zulaessig-begruendet` | Student bearbeitet öffentlich-rechtliche Klage in der Hausarbeit: Statthaftigkeit Zulässigkeit Begründetheit. VwGO §§ 40 42 47 113 BVerfGG Verfassungsbeschwerde Normenkontrolle. Prüfraster Klagearten Anfechtungs- Verpflichtungs- Leistung... |
-| `output-waehlen` | Output-Wahl für Jura-Hausarbeiten: stimmt Adressat (Studierender, Korrektor), Frist (Hausarbeits-Abgabefrist) und Form auf den Zweck ab — typische Outputs: Gutachten im Gutachtenstil, Literaturverzeichnis, Gliederung. |
+| `output-waehlen` | Output-Wahl für Jura-Hausarbeiten: stimmt Adressat (Studentenr, Korrektor), Frist (Hausarbeits-Abgabefrist) und Form auf den Zweck ab — typische Outputs: Gutachten im Gutachtenstil, Literaturverzeichnis, Gliederung. |
 | `professor-erkennen-und-strategie` | Student fragt sich ob er der Lehrmeinung des Professors folgen soll oder eigenständig argumentieren. Fangfrage zu Beginn wer die Hausarbeit bewertet. Kurze Recherche zur Lehrmeinung. Normen Wissenschaftsfreiheit Art. 5 GG. Prüfraster Leh... |
 | `quellen-livecheck` | Quellen-Live-Check für Jura-Hausarbeiten: prüft Normen (BGB AT/BT, StGB AT/BT, GG, ZPO/StPO/VwGO) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Universitäre Prüfungsämter und Quellenhygiene nach references/quell... |
 | `quellenrecherche-rechtsprechung-literatur` | Student sucht juristische Quellen für Hausarbeit: amtliche/freie Quellen und lizenzierte Datenbanken nur bei vorhandenem Zugang dejure openJur EUR-Lex Bibliotheksbestand. Frei verfuegbare Alternativen ohne Zugang. Normen Zitierstandards.... |

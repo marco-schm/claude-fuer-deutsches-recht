@@ -18,7 +18,7 @@ Entspricht der Fall-ID, die auch in der Aufnahmeakte und in `deadlines.yaml` unt
 ## Zweck dieses Verzeichnisses
 
 - **Haftungsschutz** — "Wir haben X am Datum Y mitgeteilt" erfordert einen schriftlichen Beleg.
-- **Kontinuität bei Übergaben** — die übernehmenden Studierenden können das Protokoll lesen und kennen den Sachverhalt des Mandanten, ohne ihn erneut befragen zu müssen.
+- **Kontinuität bei Übergaben** — die übernehmenden Studentenn können das Protokoll lesen und kennen den Sachverhalt des Mandanten, ohne ihn erneut befragen zu müssen.
 - **Muster erkennen** — fünf nicht zurückgerufene Nachrichten in sechs Wochen ist ein Hinweiszeichen, das der Aufsicht gemeldet werden sollte.
 - **Mandantenakten-Aufbewahrung** — Rechtsberatungsstellen haben Aufbewahrungspflichten für Akten; dieses Protokoll ist Teil der vollständigen Akte.
 
@@ -27,7 +27,7 @@ Entspricht der Fall-ID, die auch in der Aufnahmeakte und in `deadlines.yaml` unt
 ```markdown
 ## [JJJJ-MM-TT HH:MM] — [eingehend / ausgehend] — [Kontaktweg]
 
-**Wer (Studierende/r):** [Name]
+**Wer (Studenten/r):** [Name]
 **Wer (Mandantenseite):** [Name des Mandanten, oder Dritter, z. B. bei Anruf durch Gegenanwalt]
 **Dauer / Umfang:** [10-minütiges Telefonat | 3-absätzige E-Mail | 2-seitiger Brief]
 
@@ -35,8 +35,8 @@ Entspricht der Fall-ID, die auch in der Aufnahmeakte und in `deadlines.yaml` unt
 [Was ist vorgefallen, 2–4 Sätze. Inhalt und — soweit relevant — Ton des Gesprächs.]
 
 **Aufgaben:**
-- [Aufgabe, die die/der Studierende dem Mandanten schuldet, mit Frist]
-- [Aufgabe, die der Mandant der/dem Studierenden schuldet, mit erwartetem Zeitpunkt]
+- [Aufgabe, die die/der Studenten dem Mandanten schuldet, mit Frist]
+- [Aufgabe, die der Mandant der/dem Studentenn schuldet, mit erwartetem Zeitpunkt]
 
 **Wiedervorlage:** [Datum, sofern zutreffend]
 

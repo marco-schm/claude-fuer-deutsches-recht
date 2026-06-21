@@ -267,7 +267,7 @@ Ersetze die 4691 Boilerplate-Descriptions durch **Lebenslagen-Trigger**:
 
 ```
 "Nutze dies, wenn <konkrete Lebenslage / konkreter Auftrag>.
-Beispiele: <2-3 prototypische Sätze, mit denen Nutzer:innen das Skill auslösen>."
+Beispiele: <2-3 prototypische Sätze, mit denen Nutzer das Skill auslösen>."
 ```
 
 Beispiel `selbstvertreter-sozialgericht-eilrechtsschutz/SKILL.md`:

@@ -1073,7 +1073,7 @@ ich:
  a) Widerspruch einlegen und parallel
  b) die Schlichtungsstelle Reise & Verkehr e.V. (vormals söp,
     Fasanenstraße 81, 10623 Berlin) anrufen — das Verfahren ist für
-    Verbraucherinnen und Verbraucher kostenfrei (Verbraucher-Entgelt-Regeln
+    Verbraucher kostenfrei (Verbraucher-Entgelt-Regeln
     nach § 23 VSBG i.V.m. der Verfahrensordnung der Stelle),
  c) anschließend Klage zum zuständigen Amtsgericht erheben.
 ```
@@ -1203,7 +1203,7 @@ An das Amtsgericht [Ort des Abfahrts-/Zielbahnhofs / Sitz EVU]
 
 In Sachen
 
-   [Hauptkläger:in] und weitere Kläger:innen (siehe Anlage Vollmachten)
+   [Hauptkläger:in] und weitere Kläger (siehe Anlage Vollmachten)
     — vertreten durch [Hauptkläger:in] aufgrund Vollmacht —
 
    gegen
@@ -1397,7 +1397,7 @@ K12 Vollmachten der Mitreisenden
 
 ```
 [Ort, Datum]
-[Name (und ggf. Initialen aller Kläger:innen oder Vollmachtsverweis)]
+[Name (und ggf. Initialen aller Kläger oder Vollmachtsverweis)]
 ```
 
 ## Anwaltszwang
@@ -1414,7 +1414,7 @@ K12 Vollmachten der Mitreisenden
 ## Streitgenossenschaft
 
 - **Mehrere Reisende** können als Streitgenossen klagen (§ 60 ZPO).
-- Eine Klageschrift für alle — separate Anträge je Kläger:in.
+- Eine Klageschrift für alle — separate Anträge je Kläger.
 - Vollmacht der Mitreisenden erforderlich (Skill `vollmacht-mitreisende`).
 
 ## Ausgabe

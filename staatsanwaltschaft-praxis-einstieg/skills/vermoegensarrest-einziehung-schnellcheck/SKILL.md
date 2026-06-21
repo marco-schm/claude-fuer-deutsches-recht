@@ -1,6 +1,6 @@
 ---
 name: vermoegensarrest-einziehung-schnellcheck
-description: "Vermögensarrest und Einziehung: schneller Sicherungscheck: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Vermögensarrest und Einziehung: schneller Sicherungscheck: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Vermögensarrest und Einziehung: schneller Sicherungscheck

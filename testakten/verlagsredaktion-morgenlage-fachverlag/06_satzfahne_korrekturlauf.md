@@ -35,7 +35,7 @@
 
 ## Freigaben Heftbeiträge
 
-| Beitrag | Autor:in | Freigabe Manuskript | Freigabe Fahne | Bemerkung |
+| Beitrag | Autor | Freigabe Manuskript | Freigabe Fahne | Bemerkung |
 | --- | --- | --- | --- | --- |
 | Editorial | Lenz | offen | offen | Editorial fehlt noch |
 | Aufsatz I | Seidenpfennig | offen (Kürzung) | offen | Beitrag zu lang, Kürzungsentscheidung erwartet Mi 03.06. |
@@ -52,7 +52,7 @@
 ## Vorschlag Klee für Korrekturlauf
 
 1. Eigene Schlusskorrektur mit Schwerpunkt Punkte 4, 5, 6, 10, 11, 15, 16 (Form/Konsistenz).
-2. Rückfragen 1, 2, 3, 7, 8, 9, 12, 13 inhaltlich -- gehen an Autor:innen, Lenz, Marketing.
+2. Rückfragen 1, 2, 3, 7, 8, 9, 12, 13 inhaltlich -- gehen an Autoren, Lenz, Marketing.
 3. Punkt 14 (Witwen/Waisen) bleibt Herstellung Aulich.
 4. Wenn Lenz Volltext nicht bis Mi 12:00 freigegeben hat, Beitrag aus Heft nehmen und Online-first als Soloveröffentlichung; Heft füllen mit Rezensionsteil.
 5. Wenn Seidenpfennig nicht kürzt, Beitrag splitten (I in Heft 7, II in Heft 8).

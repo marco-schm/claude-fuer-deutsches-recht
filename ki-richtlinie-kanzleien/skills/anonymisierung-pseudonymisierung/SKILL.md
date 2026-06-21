@@ -32,7 +32,7 @@ Vor der Eingabe mandatsbezogener Informationen in KI-Systeme sind alle personenb
 
 **Baustein Platzhalter-Schema:**
 Beim Ersetzen personenbezogener Daten durch Platzhalter wird folgendes Schema verwendet:
-- Mandantinnen und Mandanten: "[Mandant-1]", "[Mandant-2]" etc.
+- Mandanten: "[Mandant-1]", "[Mandant-2]" etc.
 - Gegner: "[Gegner-1]", "[Gegner-2]" etc.
 - Zeuginnen und Zeugen: "[Zeuge-1]", "[Zeuge-2]" etc.
 - Unternehmen: "[Unternehmen-A]", "[Unternehmen-B]" etc.

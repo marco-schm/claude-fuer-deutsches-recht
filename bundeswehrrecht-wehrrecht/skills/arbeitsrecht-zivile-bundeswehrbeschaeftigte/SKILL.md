@@ -20,7 +20,7 @@ description: "Arbeitsrecht zivile Bundeswehrbeschäftigte: prüft TVöD-Anwendun
 
 ## Fachlicher Kontext
 
-Die Bundeswehr beschäftigt neben Soldaten eine große Zahl ziviler Arbeitnehmerinnen und Arbeitnehmer. Deren Arbeitsverhältnisse richten sich nach TVöD Bund und allgemeinem Arbeitsrecht; Mitbestimmung durch Personalrat (BPersVG, nicht BetrVG).
+Die Bundeswehr beschäftigt neben Soldaten eine große Zahl ziviler Arbeitnehmer. Deren Arbeitsverhältnisse richten sich nach TVöD Bund und allgemeinem Arbeitsrecht; Mitbestimmung durch Personalrat (BPersVG, nicht BetrVG).
 
 Besonderheiten entstehen durch militärische Organisationsstruktur, häufige Versetzungen, Sicherheitsüberprüfungen (SÜG) als Beschäftigungsvoraussetzung und ggf. Auslandsverwendungen.
 

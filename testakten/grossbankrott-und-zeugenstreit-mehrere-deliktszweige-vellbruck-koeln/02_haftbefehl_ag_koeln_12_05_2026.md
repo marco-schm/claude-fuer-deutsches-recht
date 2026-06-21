@@ -80,7 +80,7 @@ Der Beschuldigte verfügt über erhebliches Privatvermögen (geschätzt über 2,
 
 ### 2. Verdunkelungsgefahr (§ 112 Abs. 2 Nr. 3 StPO)
 
-Es besteht der dringende Verdacht, dass der Beschuldigte Mitarbeitende und insbesondere die Zeugin Quasthoff sowie weitere Auskunftspersonen in der Wroclaw-Tochter beeinflussen könnte. Eine vergleichbare Versuche wurden im April 2026 dokumentiert (Mitteilung Insolvenzverwalter vom 27.04.2026, Bd. VII, Bl. 1422).
+Es besteht der dringende Verdacht, dass der Beschuldigte Mitarbeiter und insbesondere die Zeugin Quasthoff sowie weitere Auskunftspersonen in der Wroclaw-Tochter beeinflussen könnte. Eine vergleichbare Versuche wurden im April 2026 dokumentiert (Mitteilung Insolvenzverwalter vom 27.04.2026, Bd. VII, Bl. 1422).
 
 ---
 

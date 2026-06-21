@@ -27,7 +27,7 @@ description: "Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpas
 ## Triage zu Beginn
 1. Welcher Abschnitt des Profils soll angepasst werden: Semesterwechsel, Fachbereich, Prüfungsgates, Anleiter-Kontakt oder Gesetzesaenderung?
 2. Hat sich die Rechtsgrundlage der Beratungsstelle geaendert (z.B. neues RDG, neue Kooperationsvereinbarung)?
-3. Sind neue Studierende aufgenommen worden, die in die CLAUDE.md eingetragen werden müssen?
+3. Sind neue Studenten aufgenommen worden, die in die CLAUDE.md eingetragen werden müssen?
 4. Soll gleichzeitig ein Fachbereichsleitfaden angepasst werden oder nur das Hauptprofil?
 
 ## Aktuelle Rechtsprechung
@@ -37,17 +37,17 @@ description: "Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpas
 - § 6 Abs. 2 Nr. 2 RDG — Anleitungsstruktur muss aktuell und wirksam sein; Semesterwechsel erfordert Profil-Update
 - Art. 30 DSGVO — Verarbeitungsverzeichnis: bei Änderung des Verarbeitungsumfangs zu aktualisieren
 - §§ 43, 43a BRAO — Berufspflichten des Anleiters: kontinuierliche Aktualitaet der Organisationsunterlagen
-- § 203 Abs. 4 StGB — Einbeziehung Dritter: bei Wechsel von Studierenden neue Verschwiegenheitsvereinbarungen prüfen
+- § 203 Abs. 4 StGB — Einbeziehung Dritter: bei Wechsel von Studentenn neue Verschwiegenheitsvereinbarungen prüfen
 
 ## Häufige Anpassungsszenarien
 
 ### 1. Semesterwechsel
 
-> Welche Studierenden sind neu? Welche gehen? Wer übernimmt laufende Mandate?
+> Welche Studentenn sind neu? Welche gehen? Wer übernimmt laufende Mandate?
 
 Änderungen in `CLAUDE.md`:
 - `Semester: [WS 2024/25]` → `[SS 2025]`
-- Liste der aktiven Studierenden aktualisieren.
+- Liste der aktiven Studentenn aktualisieren.
 - Mandate-Übergabe: Verweis auf `/rechtsberatungsstelle:semester-übergabe`.
 
 ### 2. Neuen Fachbereich hinzufügen
@@ -59,7 +59,7 @@ Fachbereich in `CLAUDE.md` unter `Fachbereiche` ergänzen. Dann sofort:
 
 > Welche Gates sollen geändert werden? Verschärfen oder lockern?
 
-Tabelle in `CLAUDE.md` → `Aufsichtsmodell` anpassen. Hinweis: Lockerung nur bei nachgewiesener Erfahrung der Studierenden. § 6 Abs. 2 Nr. 2 RDG verlangt tatsächliche Anleitung.
+Tabelle in `CLAUDE.md` → `Aufsichtsmodell` anpassen. Hinweis: Lockerung nur bei nachgewiesener Erfahrung der Studentenn. § 6 Abs. 2 Nr. 2 RDG verlangt tatsächliche Anleitung.
 
 ### 4. Gesetzesänderungen einpflegen
 
@@ -77,7 +77,7 @@ Jobcenter, Ausländerbehörde, BAMF-Außenstelle, Gericht, Dolmetscherdienste �
 
 ### 6. Pädagogikhaltung ändern
 
-Für ein bestimmtes Semester oder einen bestimmten Studierenden die Default-Haltung anpassen. Z. B.: "Für dieses Semester soll der Skill primär im Modus 'Anleiten' arbeiten, da alle Studierenden im ersten Klinik-Semester sind."
+Für ein bestimmtes Semester oder einen bestimmten Studentenn die Default-Haltung anpassen. Z. B.: "Für dieses Semester soll der Skill primär im Modus 'Anleiten' arbeiten, da alle Studentenn im ersten Klinik-Semester sind."
 
 ## Ablauf
 
@@ -95,7 +95,7 @@ Welcher Abschnitt? Optionen:
 - `[E]` Verschwiegenheitsorganisation
 - `[F]` Örtliche Besonderheiten / Kontakte
 - `[G]` Wichtige Normen (Gesetzesänderung)
-- `[H]` Semester / Studierende
+- `[H]` Semester / Studenten
 - `[L]` Fachbereichsleitfaden `guides/<name>.md`
 
 ### Schritt 3: Änderung durchführen

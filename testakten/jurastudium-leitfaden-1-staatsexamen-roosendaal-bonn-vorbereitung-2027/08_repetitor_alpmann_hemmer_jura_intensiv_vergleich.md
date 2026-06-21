@@ -48,7 +48,7 @@
 **Schwächen:**
 - Weniger NRW-spezifisch; Polizeirecht NRW und JAG NRW-Besonderheiten weniger betont.
 - Präsenzbetreuung in Bonn schwächer als Alpmann Schmidt.
-- Manche Studierenden berichten von zu hohem Materialvolumen.
+- Manche Studentenn berichten von zu hohem Materialvolumen.
 
 ---
 
@@ -83,5 +83,5 @@ Entscheidungsgründe:
 
 ## Quellen
 
-- Erfahrungsberichte Bonner Studierendengruppe (intern, Oktober 2025)
+- Erfahrungsberichte Bonner Studentenngruppe (intern, Oktober 2025)
 - Kostenanfrage Alpmann Schmidt Bonn, E-Mail 08.03.2026 (siehe Anhang `2026-03-08_repetitor_alpmann_schmidt_kostenanfrage.eml`)

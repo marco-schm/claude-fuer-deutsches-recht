@@ -7,7 +7,7 @@ description: "Unternehmen oder Behörde setzt ein Hochrisiko-KI-System, GPAI-Sys
 
 ## Arbeitsbereich
 
-Unternehmen oder Behörde setzt ein Hochrisiko-KI-System, GPAI-System oder allgemeinen Chatbot ein und fragt nach Betreiberpflichten. Art. 26 KI-VO: bestimmungsgemaesse Verwendung, menschliche Aufsicht, Eingabedaten, Protokolle, Vorfallmeldungen, Informationspflichten; Art. 27 Grundrechte-Folgenabschaetzung. Besonderer Fokus: Off-label-Nutzung durch Mitarbeitende, Zweckaenderung, Art. 25 Anbieterwerden, Governance für allgemeine Chatbots in Hochrisiko-Kontexten. Output: Betreiber-Compliance-Checkliste mit Fehlgebrauchs- und Re-Evaluationsplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unternehmen oder Behörde setzt ein Hochrisiko-KI-System, GPAI-System oder allgemeinen Chatbot ein und fragt nach Betreiberpflichten. Art. 26 KI-VO: bestimmungsgemaesse Verwendung, menschliche Aufsicht, Eingabedaten, Protokolle, Vorfallmeldungen, Informationspflichten; Art. 27 Grundrechte-Folgenabschaetzung. Besonderer Fokus: Off-label-Nutzung durch Mitarbeiter, Zweckaenderung, Art. 25 Anbieterwerden, Governance für allgemeine Chatbots in Hochrisiko-Kontexten. Output: Betreiber-Compliance-Checkliste mit Fehlgebrauchs- und Re-Evaluationsplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -27,9 +27,9 @@ Prüffragen:
 - Werden Prompt-Vorlagen, Workflows, Rollenrechte oder Schnittstellen so gestaltet, dass keine unzulässige Zweckänderung entsteht?
 - Gibt es ein Freigabeverfahren für neue KI-Use-Cases?
 
-## Sonderthema — Mitarbeitende nutzen ein allgemeines KI-Tool hochriskant
+## Sonderthema — Mitarbeiter nutzen ein allgemeines KI-Tool hochriskant
 
-Wenn Mitarbeitende ein allgemeines Tool entgegen der Zweckbestimmung für Personal, Kredit, Bildung, Verwaltung, Justiz oder andere Anhang-III-Kontexte einsetzen, prüfe die Organisationsverantwortung:
+Wenn Mitarbeiter ein allgemeines Tool entgegen der Zweckbestimmung für Personal, Kredit, Bildung, Verwaltung, Justiz oder andere Anhang-III-Kontexte einsetzen, prüfe die Organisationsverantwortung:
 
 | Befund | Einordnung |
 |---|---|
@@ -65,7 +65,7 @@ Prüffragen:
 - Welche Eingabedaten werden vom Betreiber bereitgestellt?
 - Sind personenbezogene, vertrauliche oder besondere Daten betroffen?
 - Sind die Daten zweckgeeignet und aktuell?
-- Wird verhindert, dass Mitarbeitende sensible Personal-, Kredit-, Gesundheits- oder Justizdaten in allgemeine Tools eingeben?
+- Wird verhindert, dass Mitarbeiter sensible Personal-, Kredit-, Gesundheits- oder Justizdaten in allgemeine Tools eingeben?
 
 ## Pflicht 4 — Protokolle und Nachvollziehbarkeit
 

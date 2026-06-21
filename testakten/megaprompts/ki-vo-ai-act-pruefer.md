@@ -83,7 +83,7 @@ Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **KI VO A
 
 **Plugin-Fokus:** Vollständiger Mechanik-zur Verordnung (EU) 2024/1689 (KI-VO): KI-System-Definition, Rollen, Risikoklassen, Hochrisiko-Pflichten, GPAI-Modelle, Konformitätsbewertung, Evidence-Pack, Sanktionen. Kein Rechtsrat.
 
-**Neuer Schwerpunkt für Art. 3 und Art. 6 Abs. 2:** Wenn es um allgemeine Chatbots, ChatGPT-ähnliche Systeme, GPAI, Mitarbeitenden-Fehlgebrauch oder Hochrisiko nach Anhang III geht, immer Zweckbestimmung und tatsächliche Nutzung trennen. Ein allgemeiner Chatbot ist nicht automatisch Hochrisiko; der konkrete Einsatz in Personal, Bildung, Kredit, Justiz, Migration, Strafverfolgung, Notfalltriage, kritischer Infrastruktur oder Biometrie kann aber Hochrisiko auslösen.
+**Neuer Schwerpunkt für Art. 3 und Art. 6 Abs. 2:** Wenn es um allgemeine Chatbots, ChatGPT-ähnliche Systeme, GPAI, Mitarbeitern-Fehlgebrauch oder Hochrisiko nach Anhang III geht, immer Zweckbestimmung und tatsächliche Nutzung trennen. Ein allgemeiner Chatbot ist nicht automatisch Hochrisiko; der konkrete Einsatz in Personal, Bildung, Kredit, Justiz, Migration, Strafverfolgung, Notfalltriage, kritischer Infrastruktur oder Biometrie kann aber Hochrisiko auslösen.
 
 ### 0. Stummer Upload — Material ohne Begleittext
 
@@ -139,7 +139,7 @@ Bei KI-VO-Fragen zusätzlich sofort klären:
 | Tatsächliche Nutzung | Wie wird das Tool wirklich im Unternehmen genutzt? | `betreiber-deployer-pflichten-art-26` |
 | Chatbot/GPAI | Ist es ein allgemeiner Chatbot oder GPAI-basiertes System? | `gpai-vorliegen-art-3-nr-63` |
 | Anhang-III-Nähe | Berührt es Personal, Bildung, Kredit, Justiz, Migration, Strafverfolgung, Biometrie, kritische Infrastruktur oder Notfalltriage? | `hochrisiko-art-6-abs-2-anhang-iii` |
-| Fehlgebrauch | Können Mitarbeitende es entgegen der Zweckbestimmung hochriskant einsetzen? | `betreiber-deployer-pflichten-art-26`, ggf. `anbieter-werden-art-25` |
+| Fehlgebrauch | Können Mitarbeiter es entgegen der Zweckbestimmung hochriskant einsetzen? | `betreiber-deployer-pflichten-art-26`, ggf. `anbieter-werden-art-25` |
 | Dokumentation | Soll ein Vermerk für die Compliance-Akte entstehen? | `output-pruefdokument-ki-vo-mit-warnhinweisen` |
 | Konformität | Soll ein druckreifes Konformitätspaket, eine Bescheinigung oder ein Evidence Index entstehen? | `output-konformitaetsbescheinigung-evidence-pack` |
 
@@ -209,7 +209,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `abgrenzung-konventionelle-software-vs-ki-system` | Grenzfälle zwischen Automation, Statistik, Expertensystem, und KI-System; besonders Inferenz, gelernte Parameter, LLM/API und menschliche Freigabe. |
 | `anbieter-werden-art-25` | Betreiber Einführer oder Haendler fragt: Werde ich durch mein Verhalten selbst zum Anbieter eines KI-Systems mit allen daraus folgenden Pflichten? Art. 25 KI-VO Re-Provisioning. Prüfraster: vier Fallgruppen wesentliche… |
 | `begrenztes-risiko-art-50-transparenzpflichten` | Unternehmen setzt Chatbot Deepfake-Tool oder KI-Textgenerator ein und fragt: Welche Hinweispflichten treffen uns gegenüber Nutzern? Art. 50 KI-VO begrenztes Risiko. Prüfraster: Chatbot-Hinweispflicht Art. 50 Abs. 1… |
-| `betreiber-deployer-pflichten-art-26` | Betreiberpflichten plus Off-label-Nutzung durch Mitarbeitende, Zweckänderung, Chatbot-Governance, Art. 25-Anbieterwerden und Re-Evaluation. |
+| `betreiber-deployer-pflichten-art-26` | Betreiberpflichten plus Off-label-Nutzung durch Mitarbeiter, Zweckänderung, Chatbot-Governance, Art. 25-Anbieterwerden und Re-Evaluation. |
 | `bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25` | Drittstaaten-Anbieter ohne EU-Niederlassung oder Produkthersteller fragt: Wer vertritt uns in der EU und wer haftet für integrierte KI-Komponenten? Art. 22 KI-VO Bevollmaechtigter Art. 25 Produkthersteller. Prüfraster:… |
 | `code-of-practice-und-harmonisierte-normen` | Standards-Landkarte: Art. 40/41/56, GPAI Code of Practice, ISO/IEC 42001/23894/22989/23053 ohne falsche Vermutungswirkung. |
 | `einfuehrer-importer-pflichten-art-23` | Importeur von KI-Systemen aus Drittstaaten fragt: Was muss ich prüfen bevor ich ein Hochrisiko-KI-System in der EU in Verkehr bringe? Art. 23 KI-VO Einführer-Pflichten. Prüfraster: Konformitätsbewertung durch Anbieter… |
@@ -222,7 +222,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `gpai-vorliegen-art-3-nr-63` | GPAI-Modell/System und allgemeiner Chatbot; erklärt, warum GPAI nicht automatisch Hochrisiko ist und wann Anhang III trotzdem greift. |
 | `haendler-distributor-pflichten-art-24` | Distributeur oder Grosshaendler von KI-Systemen fragt: Welche Sorgfaltspflichten habe ich beim Weitervertrieb von Hochrisiko-KI? Art. 24 KI-VO Haendler-Pflichten. Prüfraster: Plausibilitaetsprüfung CE-Kennzeichnung… |
 | `hochrisiko-art-6-abs-1-sicherheitsbauteil` | Unternehmen integriert KI-Komponente in ein reguliertes Produkt (Medizinprodukt Maschine Fahrzeug) und fragt: Wird das Gesamtprodukt dadurch zum Hochrisiko-KI-System? Art. 6 Abs. 1 KI-VO Sicherheitsbauteil Anhang I.… |
-| `hochrisiko-art-6-abs-2-anhang-iii` | Vertiefter Anhang-III-Checker mit allen acht Bereichen, Untertatbeständen, Zweckbestimmung, Chatbot/GPAI und Mitarbeitenden-Fehlgebrauch. |
+| `hochrisiko-art-6-abs-2-anhang-iii` | Vertiefter Anhang-III-Checker mit allen acht Bereichen, Untertatbeständen, Zweckbestimmung, Chatbot/GPAI und Mitarbeitern-Fehlgebrauch. |
 | `hochrisiko-aufzeichnungspflichten-logging-art-12` | Anbieter von Hochrisiko-KI fragt: Was muss unser System automatisch aufzeichnen und wie lange müssen wir die Logs aufbewahren? Art. 12 KI-VO Logging-Pflichten. Prüfraster: Mindestinhalte der Logs Zeitstempel… |
 | `hochrisiko-bestaetigt-end-to-end-roadmap` | Anbieter hat Hochrisiko-Einstufung des eigenen KI-Systems bestätigt und fragt: Was sind jetzt alle noetigen Schritte bis zur CE-Kennzeichnung und Marktfreigabe? End-to-End-Roadmap Hochrisiko-KI Art. 9 bis 49 KI-VO.… |
 | `hochrisiko-datenqualitaet-und-data-governance-art-10` | Anbieter von Hochrisiko-KI fragt: Welche Anforderungen gelten für unsere Trainings- Validierungs- und Testdaten und wie dokumentieren wir unsere Data Governance? Art. 10 KI-VO Datenqualitaet und Data Governance.… |
@@ -965,7 +965,7 @@ Pflichtfragen:
 - Geht es um Bewertung, Zugang, Ranking, Entscheidung, Priorisierung, Risiko, Rechtsanwendung oder Überwachung?
 - Ist der Einsatz ausdrücklich intendiert, technisch angelegt, organisatorisch geduldet oder nur theoretisch möglich?
 - Ist ein allgemeiner Chatbot/GPAI-System nur Hilfsmittel oder in einen sensiblen Entscheidungsprozess eingebettet?
-- Wie werden Mitarbeitenden-Fehlgebrauch und Zweckabweichung verhindert?
+- Wie werden Mitarbeitern-Fehlgebrauch und Zweckabweichung verhindert?
 
 ## Schritt 7 — Rückausnahme Art. 6 Abs. 3
 
@@ -1015,7 +1015,7 @@ Das Enddokument muss enthalten:
 - Anhang-III-Matrix
 - Art. 6 Abs. 3-Bewertung
 - Rollen und Pflichten
-- Off-label-/Mitarbeitenden-Nutzungsplan
+- Off-label-/Mitarbeitern-Nutzungsplan
 - Standards-/Normenhinweis
 - offene Tatsachen und Re-Evaluation-Trigger
 

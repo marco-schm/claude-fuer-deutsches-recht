@@ -44,7 +44,7 @@ Erweiterte KYC-Prüfungen für alle bestehenden und neuen Drittlandspartner
 
 ### Über Globalmaschinen GmbH
 
-Die Globalmaschinen GmbH wurde 1978 in Stuttgart gegründet und beschäftigt heute rund 280 Mitarbeitende. Das Unternehmen entwickelt und produziert CNC-Steuermodule, Servoantriebssysteme und Präzisionskomponenten für den internationalen Maschinenbau. Globalmaschinen ist seit seiner Gründung den Grundsätzen regelkonformen Wirtschaftens verpflichtet.
+Die Globalmaschinen GmbH wurde 1978 in Stuttgart gegründet und beschäftigt heute rund 280 Mitarbeiter. Das Unternehmen entwickelt und produziert CNC-Steuermodule, Servoantriebssysteme und Präzisionskomponenten für den internationalen Maschinenbau. Globalmaschinen ist seit seiner Gründung den Grundsätzen regelkonformen Wirtschaftens verpflichtet.
 
 
 ────────────────────────────────────────────────────────────────────────────────

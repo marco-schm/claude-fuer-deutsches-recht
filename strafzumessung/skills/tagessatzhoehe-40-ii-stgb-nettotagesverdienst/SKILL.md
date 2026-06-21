@@ -1,13 +1,13 @@
 ---
 name: tagessatzhoehe-40-ii-stgb-nettotagesverdienst
-description: "Bestimmung der Tagessatzhoehe nach § 40 Abs. 2 StGB. Hoehe richtet sich nach Nettoeinkommen geteilt durch 30; Mindesthoehe 1 EUR. Schaetzungsrecht des Gerichts § 40 Abs. 3 StGB. Sonderfaelle Arbeitslose, Buergergeld-Empfaenger, Studierende, Selbststaendige, Unterhaltspflichtige, Rentner. Antrag a..."
+description: "Bestimmung der Tagessatzhoehe nach § 40 Abs. 2 StGB. Hoehe richtet sich nach Nettoeinkommen geteilt durch 30; Mindesthoehe 1 EUR. Schaetzungsrecht des Gerichts § 40 Abs. 3 StGB. Sonderfaelle Arbeitslose, Buergergeld-Empfaenger, Studenten, Selbststaendige, Unterhaltspflichtige, Rentner. Antrag a..."
 ---
 
 # Tagessatzhoehe — § 40 Abs. 2 StGB
 
 ## Arbeitsbereich
 
-Bestimmung der Tagessatzhoehe nach § 40 Abs. 2 StGB. Höhe richtet sich nach Nettoeinkommen geteilt durch 30; Mindesthoehe 1 EUR. Schaetzungsrecht des Gerichts § 40 Abs. 3 StGB. Sonderfaelle Arbeitslose, Buergergeld-Empfaenger, Studierende, Selbststaendige, Unterhaltspflichtige, Rentner. Antrag auf Ratenzahlung § 42 StGB, Ersatzfreiheitsstrafe § 43 StGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bestimmung der Tagessatzhoehe nach § 40 Abs. 2 StGB. Höhe richtet sich nach Nettoeinkommen geteilt durch 30; Mindesthoehe 1 EUR. Schaetzungsrecht des Gerichts § 40 Abs. 3 StGB. Sonderfaelle Arbeitslose, Buergergeld-Empfaenger, Studenten, Selbststaendige, Unterhaltspflichtige, Rentner. Antrag auf Ratenzahlung § 42 StGB, Ersatzfreiheitsstrafe § 43 StGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -65,7 +65,7 @@ Die **Höhe** des einzelnen Tagessatzes bildet die wirtschaftliche Leistungsfaeh
 
 Bei Empfaengern von Buergergeld (§§ 19 ff. SGB II) sind die Tagessaetze in der Praxis sehr niedrig anzusetzen, oft **5 bis 15 EUR**. Die Regelsaetze des SGB II bilden das Existenzminimum; ein Tagessatz nahe 1 EUR ist möglich, wenn unterhalb des Existenzminimums geleistet wird.
 
-### Studierende
+### Studenten
 
 BAfoeG-/Eltern-Unterhaltsbetraege als Ausgangsgroesse. Tagessaetze in der Regel im Bereich **5 bis 15 EUR**.
 
@@ -102,7 +102,7 @@ Wenn der Angeklagte schweigt oder keine Nachweise vorlegt, schaetzt das Gericht.
 [ ] Unterhaltstitel oder Zahlungsbeleg
 [ ] Mietvertrag und Nebenkostenabrechnung (Existenzminimum)
 [ ] Kreditvertraege und Tilgungsplan (nur bei einzelfallrelevant)
-[ ] BAfoeG-Bescheid bei Studierenden
+[ ] BAfoeG-Bescheid bei Studentenn
 ```
 
 ## Ratenzahlungsantrag — Template

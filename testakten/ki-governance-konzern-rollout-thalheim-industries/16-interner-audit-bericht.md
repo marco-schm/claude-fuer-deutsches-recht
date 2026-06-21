@@ -39,7 +39,7 @@ Die Konzernrevision hat im Zeitraum März/April 2026 eine anlassbezogene und rou
 
 ### Feststellung R-002 — AI-Literacy-Schulungsrückstand als systemisches Risiko (HOCH)
 
-**Sachverhalt:** Nur 38 % aller Mitarbeitenden haben Modul A abgeschlossen (Stand März 2026). In Fachbereichen mit Hochrisiko-Systemen (HR: 36 %, Finanzierung: 40 %) besonders kritisch. Der Betriebsrat hat noch keinerlei Schulung erhalten.
+**Sachverhalt:** Nur 38 % aller Mitarbeitern haben Modul A abgeschlossen (Stand März 2026). In Fachbereichen mit Hochrisiko-Systemen (HR: 36 %, Finanzierung: 40 %) besonders kritisch. Der Betriebsrat hat noch keinerlei Schulung erhalten.
 
 **Bewertung:** Das Vorkommnis mit der Schatten-KI in der Marketingabteilung ist unmittelbar auf den Schulungsrückstand zurückzuführen. Dr. Sonntag und sein Team wussten nicht um die KI-Freigabepflicht. Dies zeigt: der Schulungsrückstand ist kein administratives Problem, sondern ein systemisches Compliance-Risiko.
 

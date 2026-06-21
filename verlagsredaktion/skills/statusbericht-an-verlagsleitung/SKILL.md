@@ -31,7 +31,7 @@ Verlagsleitung verlangt einen klaren, kurzen Bericht, der die Ampel zeigt: laeuf
 - Innenkommunikation, keine veroeffentlichungsfaehige Form noetig, aber: arbeitsrechtliche Folgen möglich (z. B. Zielerreichung, Bonus, Disziplinarisches).
 - Bei kapitalmarktorientierten Verlagen Beachtung der Ad-hoc-Publizitaet (Art. 17 MAR) bei wirtschaftlich relevanten Ereignissen.
 - Mitbestimmung des Betriebsrats bei personalrelevanten Konsequenzen (§ 87 BetrVG).
-- Datenschutz: Klarnamen von Autorinnen und Autoren nur, wenn dienstlich erforderlich (Art. 6 DSGVO).
+- Datenschutz: Klarnamen von Autoren nur, wenn dienstlich erforderlich (Art. 6 DSGVO).
 
 ## Praxisleitfaden / Schritt für Schritt
 

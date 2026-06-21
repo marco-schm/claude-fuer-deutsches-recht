@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Methodenlehre Bürgerliches Recht: stimmt Adressat (Studierender, Anwalt, Richter), Frist (keine harten Fristen) und Form auf den Zweck ab — typische Outputs: Auslegungs-Analyse (vier Methoden), Subsumtion, Streitstandsdarstellung."
+description: "Output-Wahl für Methodenlehre Bürgerliches Recht: stimmt Adressat (Studentenr, Anwalt, Richter), Frist (keine harten Fristen) und Form auf den Zweck ab — typische Outputs: Auslegungs-Analyse (vier Methoden), Subsumtion, Streitstandsdarstellung."
 ---
 
 # Output wählen

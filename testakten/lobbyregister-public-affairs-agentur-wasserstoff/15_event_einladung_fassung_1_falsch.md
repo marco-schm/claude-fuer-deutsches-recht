@@ -1,7 +1,7 @@
 # Einladung Parlamentarisches Fachgespräch – ALTE FASSUNG (fehlerhaft)
 
 **Versand:** 21.05.2026, 10:14 Uhr durch OpenGrid Events UG (Eric Tongers)
-**Empfänger:** 14 Bundestagsabgeordnete und Mitarbeitende, davon 9 Verkehrs-/Wirtschafts-/Energie-Ausschuss, 5 Fraktions-AGs
+**Empfänger:** 14 Bundestagsabgeordnete und Mitarbeiter, davon 9 Verkehrs-/Wirtschafts-/Energie-Ausschuss, 5 Fraktions-AGs
 **Format:** PDF auf Briefpapier OpenGrid Events UG, "im Auftrag des PA-Beraters Spreebogen Regulatory GmbH"
 **Status:** ZURÜCKGEZOGEN durch Korrekturmail vom 21.05.2026, 10:18 Uhr; Korrekturversand Fassung 2 am 22.05.2026
 

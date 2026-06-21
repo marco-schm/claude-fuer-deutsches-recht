@@ -1,6 +1,6 @@
 # Ausschreibung Schulleitung IGS Lindenkrug
 
-Gesucht wird eine Schulleiterin oder ein Schulleiter für eine Integrierte Gesamtschule mit gymnasialer Oberstufe, 1.420 Schülerinnen und Schülern, 118 Lehrkräften, Ganztagsbetrieb, Inklusionsschwerpunkt und anstehender baulicher Erweiterung. Erwartet werden Leitungserfahrung, Unterrichtsentwicklung, Personalführung, Haushalts- und Bauprojektkompetenz, Konfliktfähigkeit, digitale Schulentwicklung und kooperative Zusammenarbeit mit Schulträger und Schulaufsicht.
+Gesucht wird eine Schulleiterin oder ein Schulleiter für eine Integrierte Gesamtschule mit gymnasialer Oberstufe, 1.420 Schülern, 118 Lehrkräften, Ganztagsbetrieb, Inklusionsschwerpunkt und anstehender baulicher Erweiterung. Erwartet werden Leitungserfahrung, Unterrichtsentwicklung, Personalführung, Haushalts- und Bauprojektkompetenz, Konfliktfähigkeit, digitale Schulentwicklung und kooperative Zusammenarbeit mit Schulträger und Schulaufsicht.
 
 ## Auffällige Formulierungen
 

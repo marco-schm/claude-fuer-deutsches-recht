@@ -76,9 +76,9 @@ RAin Brigitte Hauschulz-Müller
 
 ## Hinweis zur Doppelten Strategie
 
-Es ist üblich, dass Bürger:innen reflexhaft die **Stadt** als Adressatin sehen, weil dort die Zahlung anfällt. Die Akte zeigt aber: Bei korrekt rechnerischer Übernahme des Messbetrags bringt ein Hauptangriff gegen die Stadt nichts. Der Hauptangriff muss gegen das **Finanzamt** gerichtet sein (Bewertungsfehler).
+Es ist üblich, dass Bürger reflexhaft die **Stadt** als Adressatin sehen, weil dort die Zahlung anfällt. Die Akte zeigt aber: Bei korrekt rechnerischer Übernahme des Messbetrags bringt ein Hauptangriff gegen die Stadt nichts. Der Hauptangriff muss gegen das **Finanzamt** gerichtet sein (Bewertungsfehler).
 
-Dieses Verständnis ist sowohl der Hausverwaltung als auch den Eigentümer:innen am 04.06. zu vermitteln. Vorschlag: in der Eigentümerversammlung mit einer einfachen Grafik darstellen.
+Dieses Verständnis ist sowohl der Hausverwaltung als auch den Eigentümer am 04.06. zu vermitteln. Vorschlag: in der Eigentümerversammlung mit einer einfachen Grafik darstellen.
 
 ```
    Finanzamt Trier

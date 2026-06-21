@@ -56,7 +56,7 @@ description: "Vorlagen für Geschäftsführersitzungen und Protokolle erstellen:
 ```
 Betreff: GF-Meeting [KW XX] — [Datum]
 
-Liebe Kolleginnen und Kollegen,
+Liebe Kollegen,
 
 hiermit lade ich zum wöchentlichen GF-Meeting ein:
 

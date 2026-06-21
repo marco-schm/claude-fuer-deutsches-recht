@@ -1,9 +1,9 @@
 ---
 name: zeitschriften-heftplanung
-description: "Organisiert Zeitschriftenhefte mit Rubriken, Beitraegen, Autor:innen, Seitenbudget, Online-first, Korrekturlauf, Anzeigen und Schlussredaktion: Organisiert Zeitschriftenhefte mit Rubriken, Beitraegen, Autor:innen, Seitenbudget, Online-first, Korrekturlauf,..."
+description: "Organisiert Zeitschriftenhefte mit Rubriken, Beitraegen, Autoren, Seitenbudget, Online-first, Korrekturlauf, Anzeigen und Schlussredaktion: Organisiert Zeitschriftenhefte mit Rubriken, Beitraegen, Autoren, Seitenbudget, Online-first, Korrekturlauf,..."
 ---
 
-# Organisiert Zeitschriftenhefte mit Rubriken, Beitraegen, Autor:innen, Seitenbudget, Online-first, Korrekturlauf, Anzeigen und Schlussredaktion.
+# Organisiert Zeitschriftenhefte mit Rubriken, Beitraegen, Autoren, Seitenbudget, Online-first, Korrekturlauf, Anzeigen und Schlussredaktion.
 
 
 ## Arbeitsweg
@@ -14,7 +14,7 @@ description: "Organisiert Zeitschriftenhefte mit Rubriken, Beitraegen, Autor:inn
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, Lektor, Übersetzer, VG Wort, Lizenzpartner, Vertrieb, Datenschutzbeauftragter, ggf. Bundeszentrale für Kinder- und Jugendmedienschutz.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verlagsvertrag, Übersetzervertrag, Lizenzvertrag, Honorarrechnung, Pflichtexemplarmeldung, VG-Wort-Meldung, Impressum, AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Organisiert Zeitschriftenhefte mit Rubriken, Beitraegen, Autor:innen, Seitenbudget, Online-first, Korrekturlauf, Anzeigen und Schlussredaktion.
+**Fokus:** Organisiert Zeitschriftenhefte mit Rubriken, Beitraegen, Autoren, Seitenbudget, Online-first, Korrekturlauf, Anzeigen und Schlussredaktion.
 
 ### Zeitschriften-Heftplanung
 
@@ -25,15 +25,15 @@ description: "Organisiert Zeitschriftenhefte mit Rubriken, Beitraegen, Autor:inn
 - Beiträge.
 - Umfang.
 - Status.
-- Autor:innenrücklauf.
+- Autorenrücklauf.
 - Online-first.
 - Anzeigen-/Vertriebsschnittstelle.
 
 ## Schneller Arbeitsmodus
 
 - Erst klären: Produktart, Adressat, Verwendungsort, Frist und Freigabeperson. Wenn Angaben fehlen, mit einer kurzen Arbeitsannahme starten und offene Punkte sichtbar markieren.
-- Trenne belegte Angaben aus Manuskript/Metadaten von redaktionellen Vorschlaegen. Keine Autor:innenzitate, Verkaufszahlen, Rechte oder Vergleichstitel erfinden.
-- Liefere zuerst eine nutzbare Arbeitsfassung, danach eine kurze Prüfliste für Herstellung, Marketing, Vertrieb, Justiziariat oder Autor:innen.
+- Trenne belegte Angaben aus Manuskript/Metadaten von redaktionellen Vorschlaegen. Keine Autorenzitate, Verkaufszahlen, Rechte oder Vergleichstitel erfinden.
+- Liefere zuerst eine nutzbare Arbeitsfassung, danach eine kurze Prüfliste für Herstellung, Marketing, Vertrieb, Justiziariat oder Autoren.
 
 ## Qualitaetsgate
 

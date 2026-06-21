@@ -39,7 +39,7 @@ Vor Beginn über § 136 Abs. 1 StPO (Aussagefreiheit) belehrt. Hinweis darauf, d
 
 ### 3.1 Unternehmen
 
-Die Pellbach Logistik & Spedition GmbH, gegründet 2008 als Familienunternehmen, betreibe Spedition mit Schwerpunkt Konsumgüter und temperaturgefuehrte Logistik. Vier Standorte: Koeln (HQ, ca. 90 Mitarbeitende), Bottrop (Lager- und Crossdocking, ca. 45 Mitarbeitende), Stuttgart (Süd-Hub, ca. 28 Mitarbeitende), Wroclaw (Polen, ca. 32 Mitarbeitende, GmbH-Tochter "Pellbach Logistik Polska Sp. z o.o."). Geschäftsführer sei er allein. Gesellschafterstruktur: Pellbach 50 %, Ehefrau Frieda Pellbach-Eisenacher 50 %. Frau Pellbach-Eisenacher sei "stille Gesellschafterin", trete im Geschäft aber gelegentlich auf — naheres siehe Email-Konvolut und Chat-Export.
+Die Pellbach Logistik & Spedition GmbH, gegründet 2008 als Familienunternehmen, betreibe Spedition mit Schwerpunkt Konsumgüter und temperaturgefuehrte Logistik. Vier Standorte: Koeln (HQ, ca. 90 Mitarbeiter), Bottrop (Lager- und Crossdocking, ca. 45 Mitarbeiter), Stuttgart (Süd-Hub, ca. 28 Mitarbeiter), Wroclaw (Polen, ca. 32 Mitarbeiter, GmbH-Tochter "Pellbach Logistik Polska Sp. z o.o."). Geschäftsführer sei er allein. Gesellschafterstruktur: Pellbach 50 %, Ehefrau Frieda Pellbach-Eisenacher 50 %. Frau Pellbach-Eisenacher sei "stille Gesellschafterin", trete im Geschäft aber gelegentlich auf — naheres siehe Email-Konvolut und Chat-Export.
 
 ### 3.2 Krise und Antragspflicht
 

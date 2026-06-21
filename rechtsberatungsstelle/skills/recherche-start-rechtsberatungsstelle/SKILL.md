@@ -1,6 +1,6 @@
 ---
 name: recherche-start-rechtsberatungsstelle
-description: "Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, verifizierbare Quellen, Suchbegriffe für amtliche/freie Quellen oder lizenzierte Datenbanken/dejure. Hinweise und Rahmen, KEINE geprüften Belege; Studierende recherchieren und verifizieren eigenständig. Lädt, w..."
+description: "Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, verifizierbare Quellen, Suchbegriffe für amtliche/freie Quellen oder lizenzierte Datenbanken/dejure. Hinweise und Rahmen, KEINE geprüften Belege; Studenten recherchieren und verifizieren eigenständig. Lädt, w..."
 ---
 
 # Recherchefahrplan: Orientierung, keine Recherche
@@ -49,7 +49,7 @@ Bevor der Fahrplan aufgebaut wird: Die eigenen Vorlagendokumente der Klinik lese
 
 Was ist die Rechtsfrage? Präzise formulieren. Nicht "Kündigung" — sondern: "Ist die fristlose Kündigung des Arbeitsvertrags vom 15.04.2026 rechtswirksam, obwohl dem Arbeitgeber keine Abmahnung vorausgegangen ist?"
 
-Bei zu breiter Frage mit dem Studierenden eingrenzen: "Das sind drei Rechtsfragen. Welche zuerst?"
+Bei zu breiter Frage mit dem Studentenn eingrenzen: "Das sind drei Rechtsfragen. Welche zuerst?"
 
 ### Schritt 2: Fahrplan aufbauen
 
@@ -63,7 +63,7 @@ Wahrscheinlich einschlägige Normen nennen. Ausdrücklich als ungeprüft kennzei
 > - `[PRÜFEN: Paragraphennummern gegen aktuelle Fassung verifizieren — Gesetze werden umnummeriert]`
 
 **Rechtsprechungsbereiche:**
-Nicht Entscheidungen — Bereiche. Die Entscheidungen findet der Studierende selbst.
+Nicht Entscheidungen — Bereiche. Die Entscheidungen findet der Studenten selbst.
 
 > **Rspr.-Bereiche:**
 > - BAG-Rspr. zu Abmahnungserfordernis vor fristloser Kündigung — Leitentscheidung des BAG suchen
@@ -98,7 +98,7 @@ Unsicherheit wird benannt, nicht verschwiegen.
 
 ### Schritt 4: Bestehende Recherche analysieren (wenn vorhanden)
 
-Wenn der Studierende bereits Recherchematerial hochgeladen hat: lesen, was abgedeckt ist, was fehlt.
+Wenn der Studenten bereits Recherchematerial hochgeladen hat: lesen, was abgedeckt ist, was fehlt.
 
 > **Aus Ihrer bisherigen Recherche:**
 > - Vorhanden: [Zusammenfassung des Abgedeckten]
@@ -153,7 +153,7 @@ Falls keine passen: "Keine Klinik-Vorlagendokumente zu dieser Frage — direkt z
 
 ## Beispiel
 
-**Szenario:** Studierende Hofer recherchiert für Mandantin Erdem: Kann sie die Miete mindern, weil die Heizung seit November defekt ist?
+**Szenario:** Studenten Hofer recherchiert für Mandantin Erdem: Kann sie die Miete mindern, weil die Heizung seit November defekt ist?
 
 Fahrplan enthält:
 - Gesetzliche Ausgangspunkte: `§ 536 BGB (Mietminderung), § 536a BGB (Schadensersatz), § 536c BGB (Anzeigepflicht) [UNGEPRÜFT — verifizieren]`

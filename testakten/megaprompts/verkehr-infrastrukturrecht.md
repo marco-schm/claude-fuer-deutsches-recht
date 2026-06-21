@@ -1060,7 +1060,7 @@ An die [BEHOERDE]
 
 Widerspruch
 
-Mandant/in: [NAME], [ADRESSE]
+Mandant: [NAME], [ADRESSE]
 Bescheid vom: [DATUM], Az. [AKTENZEICHEN]
 
 Sehr geehrte Damen und Herren,

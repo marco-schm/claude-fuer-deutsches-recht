@@ -1,6 +1,6 @@
 ---
 name: owi-opferrechte-nebenklage-abwesenheit
-description: "Opferrechte, Nebenklage und Adhäsion: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis."
+description: "Opferrechte, Nebenklage und Adhäsion: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis."
 ---
 
 # Opferrechte, Nebenklage und Adhäsion

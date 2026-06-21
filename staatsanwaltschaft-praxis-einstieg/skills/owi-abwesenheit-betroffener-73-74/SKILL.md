@@ -1,6 +1,6 @@
 ---
 name: owi-abwesenheit-betroffener-73-74
-description: "Abwesenheit des Betroffenen: Entbindung, Verwerfung des Einspruchs und faire Sitzungsreaktion: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene."
+description: "Abwesenheit des Betroffenen: Entbindung, Verwerfung des Einspruchs und faire Sitzungsreaktion: OWiG-Praxis-Skill für junge Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene."
 ---
 
 # Abwesenheit des Betroffenen: Entbindung, Verwerfung des Einspruchs und faire Sitzungsreaktion

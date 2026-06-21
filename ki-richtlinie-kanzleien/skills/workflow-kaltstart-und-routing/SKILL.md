@@ -24,7 +24,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## Routing-Diagnose Kanzlei-KI-Richtlinie
 - **"Wir wollen eine Richtlinie für KI in der Kanzlei"** → Standardgliederung: Zweck, Anwendungsbereich, zulässige Tools, verbotene Tools, Mandantendaten, Schulungspflicht, Verantwortlichkeiten, Verstoßfolgen.
-- **"Welches Tool dürfen Mitarbeitende benutzen?"** → Whitelist erstellen mit AVV-Status, US-Cloud-Status (DPF/SCC/TIA), Kategorisierung "Mandantendaten ja/nein".
+- **"Welches Tool dürfen Mitarbeiter benutzen?"** → Whitelist erstellen mit AVV-Status, US-Cloud-Status (DPF/SCC/TIA), Kategorisierung "Mandantendaten ja/nein".
 - **"Mandantenkommunikation zu KI-Einsatz"** → Transparenzhinweise in Mandatsvereinbarung, ggf. Einwilligung; Berufsrechtliche Aufklärungspflicht § 49b BRAO.
 - **"Schulungsnachweise"** → Art. 4 KI-VO (seit 02.02.2025) verlangt nachweisbare KI-Kompetenz.
 - **"Mitbestimmung im Betriebsrat"** → § 87 Abs. 1 Nr. 6 BetrVG bei "technischen Einrichtungen zur Überwachung"; § 80 Abs. 3 BetrVG Hinzuziehung externer Sachverständiger; § 95 BetrVG Auswahlrichtlinien.

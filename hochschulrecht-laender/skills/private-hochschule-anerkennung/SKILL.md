@@ -1,6 +1,6 @@
 ---
 name: private-hochschule-anerkennung
-description: "Prüft staatliche Anerkennung, Aufsicht, Studiengänge, Gebühren und Studierendenrechte im Hochschulrecht Länder."
+description: "Prüft staatliche Anerkennung, Aufsicht, Studiengänge, Gebühren und Studentennrechte im Hochschulrecht Länder."
 ---
 
 # Private Hochschule und Anerkennung
@@ -27,7 +27,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Widerspruch Prüfungsentscheidung i.d.R. 1 Monat (VwVfG/VwGO), Exmatrikulation/Beurlaubung semestergebunden, Promotionsverfahren landesrechtlich.
 - Tragende Normen verifizieren: HRG (Rahmen), 16 Landeshochschulgesetze (z. B. HG NRW, BayHIG, BerlHG, HmbHG), WissZeitVG, BAföG, HRK-Beschlüsse, Bologna-Erklärung, EU-RL anerkennung Berufsqualifikationen 2005/36 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Lehrende, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Lehrer, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Studien-/Prüfungsordnung, Zulassungsbescheid, Prüfungsbescheid, Widerspruchsbescheid, Klage VG, Promotionsordnung, Berufungsvereinbarung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachkern: Private Hochschule und Anerkennung
@@ -37,11 +37,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochschule, Fakultät, Ministerium, Gremium, Professorin, Studierende oder Kanzlei gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
+Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochschule, Fakultät, Ministerium, Gremium, Professorin, Studenten oder Kanzlei gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
 
 ## Spezialfokus
 
-- **Konkreter Auftrag:** Prüft staatliche Anerkennung, Aufsicht, Studiengänge, Gebühren und Studierendenrechte.
+- **Konkreter Auftrag:** Prüft staatliche Anerkennung, Aufsicht, Studiengänge, Gebühren und Studentennrechte.
 - **Erste Trennlinie:** Ist das Problem wirklich Private Hochschule und Anerkennung, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
 - **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
 - **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.

@@ -44,7 +44,7 @@ Dieser Skill erinnert an die berufsrechtliche Pflicht zum Interessenkonflikt-Che
 
 ### § 3 BORA — Verbot der Vertretung widerstreitender Interessen (Konkretisierung)
 
-§ 3 BORA konkretisiert das Verbot: Ein Rechtsanwalt darf für mehrere Auftraggeber in derselben Rechtssache dann nicht tätig werden, wenn zwischen ihnen widerstreitende Interessen bestehen. Gilt auch für ehemalige Mandantinnen und Mandanten sowie für Sozietätsmitglieder (§ 3 Abs. 2 BORA).
+§ 3 BORA konkretisiert das Verbot: Ein Rechtsanwalt darf für mehrere Auftraggeber in derselben Rechtssache dann nicht tätig werden, wenn zwischen ihnen widerstreitende Interessen bestehen. Gilt auch für ehemalige Mandanten sowie für Sozietätsmitglieder (§ 3 Abs. 2 BORA).
 
 ### Folgen einer Pflichtverletzung
 

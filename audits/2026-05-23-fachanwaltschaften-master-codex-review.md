@@ -111,7 +111,7 @@ committen**, wo sinnvoll:
 - **Skill descriptions:** ≤1024 Zeichen, einzeilig, in Quotes, nur
   `name` + `description` im Frontmatter.
 - **Frauenfreundliche Sprache:** Schraegstrich-Form
-  `Mandant/-innen`, konsistent durchgehend.
+  `Mandanten`, konsistent durchgehend.
 - **Keine Werbe-Floskeln:** "umfassend", "schnell", "einfach" — eher
   praezise juristische Sprache.
 

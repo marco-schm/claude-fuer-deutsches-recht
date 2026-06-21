@@ -106,10 +106,10 @@ Diese fünf haben gemeinsam: **nichts.** Außer dass sie alphabetisch in `B-D-D-
 855 Skills enthalten denselben sechszeiligen Block mit `Problemfokus`/`Normenradar`/`Verifizierte Anker`/`Arbeitsmodus`/`Outputpflicht`/`Fehlerbremse`. Beispielsweise:
 
 - 102 Skills nennen identisch `BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit)` + zwei weitere BAG-Az.
-- 82 Skills nennen identisch `BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten)` + zwei weitere BSG-Az.
+- 82 Skills nennen identisch `BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrer/Dozenten)` + zwei weitere BSG-Az.
 - In `selbstvertreter-sozialgericht/kompendium-08` taucht derselbe Block fünfmal hintereinander auf (einmal pro Modul) — das sind allein in einem File 30 redundante Zeilen.
 
-**Was dabei wirklich passiert:** Ein:e Nutzer:in lädt das Skill, Claude bekommt seitenweise identischen Boilerplate-Text in den Kontext, der **für die konkrete Fachfrage nichts beiträgt**. Bei `buergergeld-ueberbrueckungsgeld` ist die "BAG-Entgeltgleichheit"-Verweis schlicht falsch verortet — das ist Arbeitsrecht, nicht SGB II.
+**Was dabei wirklich passiert:** Ein:e Nutzer lädt das Skill, Claude bekommt seitenweise identischen Boilerplate-Text in den Kontext, der **für die konkrete Fachfrage nichts beiträgt**. Bei `buergergeld-ueberbrueckungsgeld` ist die "BAG-Entgeltgleichheit"-Verweis schlicht falsch verortet — das ist Arbeitsrecht, nicht SGB II.
 
 **Empfehlung für Codex:**
 - V90-Block pro Plugin **einmal** in `skills/allgemein/SKILL.md` schreiben.
@@ -161,14 +161,14 @@ Beispiele:
 
 **Minus:**
 - Alphabetische Kompendienbildung verbindet IT-Anleitung (PDF) mit Sozialrechtsgrundlagen (§ 86b SGG).
-- Jedes Modul wiederholt den BSG-Anker (Lehrende/Pilot/GmbH-GF), obwohl die Module Pflegegrad oder Bürgergeld betreffen.
+- Jedes Modul wiederholt den BSG-Anker (Lehrer/Pilot/GmbH-GF), obwohl die Module Pflegegrad oder Bürgergeld betreffen.
 - "Dolmetscher beim SG" und "Einfache Sprache Tipps" wären besser zusammengebündelt als jedes für sich.
 
 **Was Codex tun sollte:**
 1. Themen-Cluster bauen: Eilrechtsschutz / Bescheidlogik / Pflegegrad / Bürgergeld / Rente / Krankenkasse / Verfahrensformalitäten / IT-Hilfsmittel / Zugänglichkeit.
 2. Pro Cluster ein Kompendium, ~5-7 Module.
 3. V90-Block aus den Modulen rausstreichen, nur im Allgemein-Skill belassen.
-4. Bei jedem Bürgergeld-Modul stattdessen einen Bürgergeld-spezifischen Norm-Anker (§§ 7, 19, 22 SGB II, § 41 SGB II) statt der falsch verorteten BAG-Lehrender-Az.
+4. Bei jedem Bürgergeld-Modul stattdessen einen Bürgergeld-spezifischen Norm-Anker (§§ 7, 19, 22 SGB II, § 41 SGB II) statt der falsch verorteten BAG-Lehrerr-Az.
 
 ### 4.2 `beamtenrecht` (45 Skills, davon 22 Kompendien)
 **Plus:** Modul "Amtsangemessene Alimentation Fünf Parameter" ist **das beste Modul im gesamten Repo, das ich gesehen habe**. BVerfGE-Band+Randnummer-Zitate, saubere erste/zweite Stufe-Trennung, ausdrückliche Klarstellung "Privatwirtschaftsvergleich ist NICHT Parameter erster Stufe". Das ist Pflichtlektüre.

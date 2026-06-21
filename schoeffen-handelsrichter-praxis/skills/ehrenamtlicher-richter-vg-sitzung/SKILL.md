@@ -1,6 +1,6 @@
 ---
 name: ehrenamtlicher-richter-vg-sitzung
-description: "Ehrenamtlicher Richter Verwaltungsgericht (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Rolle im Verwaltungsprozess, Behördenakte, Amtsermittlung und Beratungsgeheimnis mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Ehrenamtlicher Richter Verwaltungsgericht (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Rolle im Verwaltungsprozess, Behördenakte, Amtsermittlung und Beratungsgeheimnis mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Ehrenamtlicher Richter Verwaltungsgericht: Sitzungspraxis

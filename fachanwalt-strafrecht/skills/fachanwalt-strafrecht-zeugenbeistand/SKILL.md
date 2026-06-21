@@ -7,7 +7,7 @@ description: "Zeugenbeistand im Strafverfahren für Zeugen mit eigenem Rechtsint
 
 ## Kernsachverhalt & Mandantenfragen
 
-Der Zeugenbeistand ist die anwaltliche Begleitperson eines Zeugen – nicht des Beschuldigten. Die Rolle ist strukturell eigenstaendig: Der Beistand berät den Zeugen, darf aber nicht den Verfahrensverlauf lenken wie ein Verteidiger. Mandantinnen und Mandanten verstehen diese Unterscheidung selten.
+Der Zeugenbeistand ist die anwaltliche Begleitperson eines Zeugen – nicht des Beschuldigten. Die Rolle ist strukturell eigenstaendig: Der Beistand berät den Zeugen, darf aber nicht den Verfahrensverlauf lenken wie ein Verteidiger. Mandanten verstehen diese Unterscheidung selten.
 
 **8 Kaltstart-Rückfragen:**
 

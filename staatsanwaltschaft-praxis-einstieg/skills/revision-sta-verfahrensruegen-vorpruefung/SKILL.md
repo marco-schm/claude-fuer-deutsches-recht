@@ -1,6 +1,6 @@
 ---
 name: revision-sta-verfahrensruegen-vorpruefung
-description: "Revision der Staatsanwaltschaft: Vorprüfung: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Revision der Staatsanwaltschaft: Vorprüfung: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Revision der Staatsanwaltschaft: Vorprüfung

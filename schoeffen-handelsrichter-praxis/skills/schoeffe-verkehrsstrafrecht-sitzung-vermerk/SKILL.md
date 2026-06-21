@@ -1,6 +1,6 @@
 ---
 name: schoeffe-verkehrsstrafrecht-sitzung-vermerk
-description: "Verkehrsstrafrecht für Schöffen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Unfallflucht, Trunkenheit, Gefährdung, Fahrerlaubnis und Fahreignung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Verkehrsstrafrecht für Schöffen (Orientierung): hilft ehrenamtlichen Richtern bei Unfallflucht, Trunkenheit, Gefährdung, Fahrerlaubnis und Fahreignung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Verkehrsstrafrecht für Schöffen: Orientierung

@@ -21,7 +21,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 ## Kurzbild
 
-- Mandantschaft: Klimacamp Initiative Saarbruecken e.V. (Beschwerdefuehrer 1, vertreten durch Vorsitzenden Dr. Friedrich Tannenberg-Roosendaal) sowie 14 Einzelpersonen (Beschwerdeführer 2-15, darunter Studierende, eine Lehrerin, ein Rentner, Ärztin Dr. Pohlmann-Wittfeldt).
+- Mandantschaft: Klimacamp Initiative Saarbruecken e.V. (Beschwerdefuehrer 1, vertreten durch Vorsitzenden Dr. Friedrich Tannenberg-Roosendaal) sowie 14 Einzelpersonen (Beschwerdeführer 2-15, darunter Studenten, eine Lehrerin, ein Rentner, Ärztin Dr. Pohlmann-Wittfeldt).
 - Anlass: Versammlungsverbotsverfügung des Stadtrechtsamts Saarbruecken vom 12.03.2026 für ein geplantes Dauerprotestcamp vor dem Saarländischen Landtag (geplanter Zeitraum 16.03.-30.04.2026).
 - Instanzenzug: VG Saarlouis 2 K 188/26 (Eil-Beschluss, Bestätigungsklage, Ablehnung) → OVG Saarland 1 B 14/26 (Beschwerde, zurückgewiesen) → BVerfG 1 BvR 188/26 (Verfassungsbeschwerde + Eilantrag § 32 BVerfGG).
 - Kanzlei: Roosendaal Schwingenstein Partner, Saarbruecken; federführend RA Dr. Roosendaal-Eichmueller, AZ MR-2026-VB-0312; wissenschaftliche Kooperation Prof. Dr. Birkenhain (Universität des Saarlandes).

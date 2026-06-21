@@ -152,8 +152,8 @@ _'Supervisoren-Prüfwarteschlange — studentische Arbeitsergebnisse warten hier
 ### Kernvorschriften
 
 - **§ 6 Abs. 2 RDG** — Aufsichtspflicht des begleitenden Rechtsanwalts/der begleitenden Rechtsanwältin: Die Aufsicht muss inhaltlich effektiv sein. Eine Warteschlange mit dokumentierter Prüfung ist eine institutionelle Umsetzung dieser Pflicht.
-- **§ 43a Abs. 2 BRAO** — Verschwiegenheitspflicht: Die Warteschlange enthält vertrauliche Mandantendaten; sie ist ausschließlich supervisor-zugänglich und nicht für Studierende einsehbar (außer für ihren eigenen Eintrag nach Freigabe/Rücksendung).
-- **§ 203 Abs. 3 StGB** — Gehilfenstatus der Studierenden: Der Supervisor als aufsichtführender Rechtsanwalt/Rechtsanwältin ist strafrechtlich mitverantwortlich für den sachgerechten Umgang mit Mandantendaten.
+- **§ 43a Abs. 2 BRAO** — Verschwiegenheitspflicht: Die Warteschlange enthält vertrauliche Mandantendaten; sie ist ausschließlich supervisor-zugänglich und nicht für Studenten einsehbar (außer für ihren eigenen Eintrag nach Freigabe/Rücksendung).
+- **§ 203 Abs. 3 StGB** — Gehilfenstatus der Studentenn: Der Supervisor als aufsichtführender Rechtsanwalt/Rechtsanwältin ist strafrechtlich mitverantwortlich für den sachgerechten Umgang mit Mandantendaten.
 - **§ 50 BRAO** — Handakten: Freigegebene Dokumente sind Teil der Handakte und unterliegen der 5-jährigen Aufbewahrungspflicht.
 - **DSGVO Art. 5, 32** — Sicherheit der Verarbeitung: Die Prüfwarteschlange verarbeitet personenbezogene Mandantendaten; technische und organisatorische Maßnahmen (Zugangsbeschränkung, Verschlüsselung) sind erforderlich.
 
@@ -201,29 +201,29 @@ Liegt in `references/review-queue.yaml`. Jeder Eintrag:
 **Ausstehend:** [N] | **Ältester Eintrag:** [N] Stunden
 
 ### Fristgebunden (sofortige Prüfung)
-| ID | Typ | Mandant | Studierender | Warum geflaggt | Wartet seit |
+| ID | Typ | Mandant | Studentenr | Warum geflaggt | Wartet seit |
 |---|---|---|---|---|---|
 
 ### Standard
 [gleiche Tabelle]
 
-### Nach Studierendem
+### Nach Studentenm
 [Aufschlüsselung — Muster erkennbar: wer reicht viel ein, wer sollte ein Gespräch bekommen]
 ```
 
 ### Eintrag prüfen
 
-Vollständigen Inhalt anzeigen + Warum geflaggt + Notizen des Studierenden.
+Vollständigen Inhalt anzeigen + Warum geflaggt + Notizen des Studentenn.
 
 ### Freigeben / Bearbeiten und Freigeben / Zurückschicken
 
-- **Freigeben:** Status → freigegeben, Studierender informiert, protokolliert.
-- **Bearbeiten und Freigeben:** Supervisor bearbeitet inline; die freigegebene Version ist die bearbeitete; Original im Protokoll erhalten, damit der Studierende den Unterschied sieht (Lehrmoment).
-- **Zurückschicken:** Mit Hinweis. Studierender überarbeitet und reicht erneut ein.
+- **Freigeben:** Status → freigegeben, Studentenr informiert, protokolliert.
+- **Bearbeiten und Freigeben:** Supervisor bearbeitet inline; die freigegebene Version ist die bearbeitete; Original im Protokoll erhalten, damit der Studenten den Unterschied sieht (Lehrmoment).
+- **Zurückschicken:** Mit Hinweis. Studentenr überarbeitet und reicht erneut ein.
 
 ## Beispiel
 
-**Szenario:** Studierender Müller reicht einen Entwurf der Kündigungsschutzklage für Mandantin Erdem ein (AG Berlin). Da es sich um eine gerichtliche Einreichung handelt, wird der Entwurf automatisch in die Prüfwarteschlange eingestellt.
+**Szenario:** Studentenr Müller reicht einen Entwurf der Kündigungsschutzklage für Mandantin Erdem ein (AG Berlin). Da es sich um eine gerichtliche Einreichung handelt, wird der Entwurf automatisch in die Prüfwarteschlange eingestellt.
 
 Supervisor sieht:
 ```
@@ -237,13 +237,13 @@ Supervisor prüft den Inhalt. Ergänzt: "§ 4 KSchG-Frist: Bitte noch einmal pr�
 - **Prüfung pro forma:** Eine Prüfwarteschlange ohne inhaltliche Prüfung erfüllt § 6 Abs. 2 RDG nicht. Das Protokoll dokumentiert, dass tatsächlich geprüft wurde; es ersetzt nicht die Prüfung selbst.
 - **Warteschlange als Flaschenhals:** Bei hoher Fallzahl und Fristdruck kann eine formelle Warteschlange zum Engpass werden. Supervisor muss Kapazitäten planen; dringende Fristen werden in der Warteschlange priorisiert angezeigt.
 - **Datenschutz:** Die Warteschlange enthält sensitive Mandantendaten. Nur Supervisoren-Zugang; keine Ablage in unsicheren Systemen.
-- **Zurückgeschickte Einträge nicht verfolgt:** Wenn ein Studierender einen zurückgeschickten Eintrag nicht überarbeitet und neu einreicht, bleibt die Arbeit hängen. Supervisor sollte offene Rücksendungen regelmäßig prüfen.
+- **Zurückgeschickte Einträge nicht verfolgt:** Wenn ein Studentenr einen zurückgeschickten Eintrag nicht überarbeitet und neu einreicht, bleibt die Arbeit hängen. Supervisor sollte offene Rücksendungen regelmäßig prüfen.
 
 ## Lehrfunktion der Warteschlange
 
-Die Warteschlange ist auch Datenbasis. Muster in Rücksendungen ("Studierender X vergisst regelmäßig die Fristprüfung") ist ein Coaching-Gespräch. Muster in Bearbeitungen durch den Supervisor ("Alle Mahnschreiben sind zu lang") ist ein Update für das nächste Semester-Onboarding (`/einarbeitung`).
+Die Warteschlange ist auch Datenbasis. Muster in Rücksendungen ("Studentenr X vergisst regelmäßig die Fristprüfung") ist ein Coaching-Gespräch. Muster in Bearbeitungen durch den Supervisor ("Alle Mahnschreiben sind zu lang") ist ein Update für das nächste Semester-Onboarding (`/einarbeitung`).
 
-Der Vergleich Original/bearbeitet im Protokoll ist ein Lehrmoment: Der Studierende sieht, was der Supervisor geändert hat, und warum — sofern der Supervisor einen kurzen Kommentar hinzufügt.
+Der Vergleich Original/bearbeitet im Protokoll ist ein Lehrmoment: Der Studenten sieht, was der Supervisor geändert hat, und warum — sofern der Supervisor einen kurzen Kommentar hinzufügt.
 
 ## Quellenpflicht
 
@@ -304,7 +304,7 @@ _Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpassen: Anwendun
 ## Triage zu Beginn
 1. Welcher Abschnitt des Profils soll angepasst werden: Semesterwechsel, Fachbereich, Prüfungsgates, Anleiter-Kontakt oder Gesetzesaenderung?
 2. Hat sich die Rechtsgrundlage der Beratungsstelle geaendert (z.B. neues RDG, neue Kooperationsvereinbarung)?
-3. Sind neue Studierende aufgenommen worden, die in die CLAUDE.md eingetragen werden müssen?
+3. Sind neue Studenten aufgenommen worden, die in die CLAUDE.md eingetragen werden müssen?
 4. Soll gleichzeitig ein Fachbereichsleitfaden angepasst werden oder nur das Hauptprofil?
 
 ## Aktuelle Rechtsprechung
@@ -314,17 +314,17 @@ _Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpassen: Anwendun
 - § 6 Abs. 2 Nr. 2 RDG — Anleitungsstruktur muss aktuell und wirksam sein; Semesterwechsel erfordert Profil-Update
 - Art. 30 DSGVO — Verarbeitungsverzeichnis: bei Änderung des Verarbeitungsumfangs zu aktualisieren
 - §§ 43, 43a BRAO — Berufspflichten des Anleiters: kontinuierliche Aktualitaet der Organisationsunterlagen
-- § 203 Abs. 4 StGB — Einbeziehung Dritter: bei Wechsel von Studierenden neue Verschwiegenheitsvereinbarungen prüfen
+- § 203 Abs. 4 StGB — Einbeziehung Dritter: bei Wechsel von Studentenn neue Verschwiegenheitsvereinbarungen prüfen
 
 ## Häufige Anpassungsszenarien
 
 ### 1. Semesterwechsel
 
-> Welche Studierenden sind neu? Welche gehen? Wer übernimmt laufende Mandate?
+> Welche Studentenn sind neu? Welche gehen? Wer übernimmt laufende Mandate?
 
 Änderungen in `CLAUDE.md`:
 - `Semester: [WS 2024/25]` → `[SS 2025]`
-- Liste der aktiven Studierenden aktualisieren.
+- Liste der aktiven Studentenn aktualisieren.
 - Mandate-Übergabe: Verweis auf `/rechtsberatungsstelle:semester-übergabe`.
 
 ### 2. Neuen Fachbereich hinzufügen
@@ -336,7 +336,7 @@ Fachbereich in `CLAUDE.md` unter `Fachbereiche` ergänzen. Dann sofort:
 
 > Welche Gates sollen geändert werden? Verschärfen oder lockern?
 
-Tabelle in `CLAUDE.md` → `Aufsichtsmodell` anpassen. Hinweis: Lockerung nur bei nachgewiesener Erfahrung der Studierenden. § 6 Abs. 2 Nr. 2 RDG verlangt tatsächliche Anleitung.
+Tabelle in `CLAUDE.md` → `Aufsichtsmodell` anpassen. Hinweis: Lockerung nur bei nachgewiesener Erfahrung der Studentenn. § 6 Abs. 2 Nr. 2 RDG verlangt tatsächliche Anleitung.
 
 ### 4. Gesetzesänderungen einpflegen
 
@@ -354,7 +354,7 @@ Jobcenter, Ausländerbehörde, BAMF-Außenstelle, Gericht, Dolmetscherdienste �
 
 ### 6. Pädagogikhaltung ändern
 
-Für ein bestimmtes Semester oder einen bestimmten Studierenden die Default-Haltung anpassen. Z. B.: "Für dieses Semester soll der Skill primär im Modus 'Anleiten' arbeiten, da alle Studierenden im ersten Klinik-Semester sind."
+Für ein bestimmtes Semester oder einen bestimmten Studentenn die Default-Haltung anpassen. Z. B.: "Für dieses Semester soll der Skill primär im Modus 'Anleiten' arbeiten, da alle Studentenn im ersten Klinik-Semester sind."
 
 ## Ablauf
 
@@ -372,7 +372,7 @@ Welcher Abschnitt? Optionen:
 - `[E]` Verschwiegenheitsorganisation
 - `[F]` Örtliche Besonderheiten / Kontakte
 - `[G]` Wichtige Normen (Gesetzesänderung)
-- `[H]` Semester / Studierende
+- `[H]` Semester / Studenten
 - `[L]` Fachbereichsleitfaden `guides/<name>.md`
 
 ### Schritt 3: Änderung durchführen
@@ -541,7 +541,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `mandanten-kommunikations-log` | Mandantenkommunikation dokumentieren und Kommunikations-Log führen: Anwendungsfall Rechtsberatungsstelle muss Beratungsgespraeache E-Mails und Entscheidungen vollständig und datenschutzkonform dokumentieren. DSGVO… |
 | `mandantenbrief` | Mandantenbrief für Rechtsberatungsstelle verfassen: Anwendungsfall Rechtsberatungsstelle muss Mandanten über Ergebnis der Beratung informieren oder Schreiben an Gegenseite Behörde oder Gericht vorbereiten.… |
 | `memo` | Erstellt ein Gutachten-Gerüst nach der deutschen Gutachtenmethode (Obersatz — Definition/Norm — Subsumtion — Ergebnis) mit gekennzeichneten Recherchelücken — das Gerüst, nicht die Analyse selbst. Normblöcke sind mit… |
-| `recherche-start` | Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, Quellenprüfung, Suchbegriffe für amtliche/freie Quellen oder lizenzierte Datenbanken/dejure. Hinweise und Rahmen, KEINE geprüften Belege; Studierende… |
+| `recherche-start` | Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, Quellenprüfung, Suchbegriffe für amtliche/freie Quellen oder lizenzierte Datenbanken/dejure. Hinweise und Rahmen, KEINE geprüften Belege; Studenten… |
 | `rechtsberatungsstelle-anpassen` | Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpassen: Anwendungsfall neue Rechtsberatungsstelle moechte Plugin konfigurieren mit eigenen Rechtsgebieten Zielgruppe und Verfahrensregeln. BeratungsHiG,… |
 | `rechtsberatungsstelle-kaltstart-interview` | Rechtsberatungsstelle Kaltstart und Erst-Konfiguration: Anwendungsfall neue Rechtsberatungsstelle oder neues Semester startet und Plugin muss mit Rechtsgebieten Hochschule Anleiter und Beratungsregeln eingerichtet… |
 | `semester-uebergabe` | Semesterabschluss-Übergabe — das Gegenstück zu `/einarbeitung`. Erstellt fallbezogene Übergabenotizen und eine Kohorten-Gesamtübersicht, damit die abgehende Kohorte die laufenden Mandate unter Wahrung des… |
@@ -551,14 +551,14 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 Das Plugin unterstuetzt studentische und gemeinnuetzige Rechtsberatungsstellen bei der RDG-konformen Durchfuehrung ihrer Beratungsarbeit. Es bildet den gesamten Lebenszyklus eines Mandats ab: von der Erstaufnahme über die rechtliche Analyse und Schriftstueckerstellung bis zur sauberen Semesteruebergabe.
 
-Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rechtsanwaelte. Die Beratungsleistung muss im Rahmen der nach § 6 RDG erlaubten unentgeltlichen Rechtsdienstleistungen bleiben. Alle wesentlichen Dokumente beduerften einer Anleiter-Freigabe. Das Plugin beruecksichtigt diese Aufsichtsstruktur mit einer optionalen Prüfwarteschlange.
+Besonderheit gegenueber Anwaltsplugins: Studenten sind keine zugelassenen Rechtsanwaelte. Die Beratungsleistung muss im Rahmen der nach § 6 RDG erlaubten unentgeltlichen Rechtsdienstleistungen bleiben. Alle wesentlichen Dokumente beduerften einer Anleiter-Freigabe. Das Plugin beruecksichtigt diese Aufsichtsstruktur mit einer optionalen Prüfwarteschlange.
 
 ## Wann brauchen Sie diese Skill?
 
-- Ein neuer Studierender startet seine Arbeit in der Rechtsberatungsstelle und benoetigt Einarbeitung in Struktur, RDG-Grundlagen und Tools.
+- Ein neuer Studentenr startet seine Arbeit in der Rechtsberatungsstelle und benoetigt Einarbeitung in Struktur, RDG-Grundlagen und Tools.
 - Ein Mandant meldet sich mit einem konkreten Rechtsproblem und muss mit Sachverhalt, Fristen und Interessenkonfliktpruefung aufgenommen werden.
 - Sie benoetigen Schriftsaetze, Antraege oder Mandantenbriefe in verstaendlicher Sprache für Mandanten mit sprachlichen Einschraenkungen.
-- Das Semester endet und laufende Mandate sollen sauber an die naechste Studierendenkohorte uebergeben werden.
+- Das Semester endet und laufende Mandate sollen sauber an die naechste Studentennkohorte uebergeben werden.
 - Sie wollen das Plugin an Ihre Hochschule und deren Rechtsgebiete anpassen.
 
 ## Fachbegriffe (kurz erklaert)
@@ -566,7 +566,7 @@ Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rech
 - **RDG** — Rechtsdienstleistungsgesetz; regelt, wer ausserhalb der Anwaltschaft Rechtsdienstleistungen erbringen darf.
 - **§ 6 RDG** — Erlaubnisnorm für unentgeltliche Rechtsdienstleistungen; Grundlage für studentische Beratungsstellen.
 - **BeratungsHiG** — Beratungshilfegesetz; ermoeglicht einkommensschwachen Personen staatlich gefoerderte Rechtsberatung.
-- **Anleiter** — Zugelassener Rechtsanwalt, der die Aufsicht über Studierende fuehrt und Arbeitsergebnisse freigibt.
+- **Anleiter** — Zugelassener Rechtsanwalt, der die Aufsicht über Studenten fuehrt und Arbeitsergebnisse freigibt.
 - **Gutachtenmethode** — Juristische Analyse nach dem Schema Obersatz - Norm/Definition - Subsumtion - Ergebnis.
 - **Interessenkonflikt** — Situation, in der Berater oder Kanzlei bereits die Gegenpartei vertreten; muss vor Mandatsannahme geprueft werden (§ 43a Abs. 4 BRAO entsprechend).
 - **Prüfwarteschlange** — Optionale Aufsichtsstruktur, in der Arbeitsergebnisse auf Anleiter-Freigabe warten, bevor sie den Mandanten oder Gerichten zugehen.
@@ -584,7 +584,7 @@ Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rech
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Kaltstart-Interview durchfuehren und Plugin an Hochschule und Rechtsgebiete anpassen.
-2. Neue Studierende einarbeiten (Semester-Start).
+2. Neue Studenten einarbeiten (Semester-Start).
 3. Mandanten aufnehmen: Sachverhalt, Fristen, Interessenkonflikt und Beratungsberechtigung prüfen.
 4. Passenden Skill auswaehlen (Memo, Entwurf, Mandantenbrief, einfache Sprache, Formular).
 5. Ergebnis in Prüfwarteschlange stellen; nach Anleiter-Freigabe versenden oder weitergeben.
@@ -610,7 +610,7 @@ Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rech
 
 ## Worauf besonders achten
 
-- **RDG-Grenze einhalten**: Studierende dürfen keine individualrechtliche Beratung ausserhalb des § 6 RDG-Rahmens erbringen; Abgrenzung zu anwaltlicher Taetigkeit ist essentiell.
+- **RDG-Grenze einhalten**: Studenten dürfen keine individualrechtliche Beratung ausserhalb des § 6 RDG-Rahmens erbringen; Abgrenzung zu anwaltlicher Taetigkeit ist essentiell.
 - **Anleiter-Freigabe vor Versand**: Kein Schriftstuck und kein Mandantenbrief verlasst die Beratungsstelle ohne Anleiter-Freigabe.
 - **Fristen besonders beobachten**: Versaeumte Fristen können den Mandanten seinen Anspruch kosten; der Fristen-Skill muss regelmaessig abgerufen werden.
 - **Mandatsgeheimnis bei Semesteruebergabe**: Übergabenotizen dürfen nur mit dem Einverstaendnis des Mandanten weitergegeben werden.
@@ -618,7 +618,7 @@ Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rech
 
 ## Typische Fehler
 
-- Interessenkonfliktpruefung vergessen: Zwei Studierende aus derselben Kohorte beraten unwissentlich Parteien desselben Konflikts.
+- Interessenkonfliktpruefung vergessen: Zwei Studenten aus derselben Kohorte beraten unwissentlich Parteien desselben Konflikts.
 - Memo als fertige Rechtsberatung weitergeben statt als Analyse-Grundlage für den Anleiter.
 - Fristenliste nicht aktuell halten; Fristaenderungen durch Gericht werden nicht eingetragen.
 - Bei der Semesteruebergabe Mandate ohne Übergabenotiz an Nachfolgekohorte weitergeben.
@@ -648,11 +648,11 @@ _Erstellt einen Erstentwurf häufiger Schriftstücke der Rechtsberatungsstelle �
 
 ## Zweck
 
-Studierende wenden erhebliche Zeit auf Erstentwürfe von Schriftstücken auf, deren Bildungswert in der rechtlichen Analyse und Strategie liegt — nicht im Abtippen eines Rubrum oder im Formulieren von "Sehr geehrte Damen und Herren". Diese Skill erstellt den Erstentwurf aus Fallnotizen und Rechtsgebiet-spezifischen Mustern, damit die studentische Arbeitszeit dem eigentlichen juristischen Denken zugute kommt.
+Studenten wenden erhebliche Zeit auf Erstentwürfe von Schriftstücken auf, deren Bildungswert in der rechtlichen Analyse und Strategie liegt — nicht im Abtippen eines Rubrum oder im Formulieren von "Sehr geehrte Damen und Herren". Diese Skill erstellt den Erstentwurf aus Fallnotizen und Rechtsgebiet-spezifischen Mustern, damit die studentische Arbeitszeit dem eigentlichen juristischen Denken zugute kommt.
 
-**Jeder Entwurf ist ausdrücklich ein Ausgangspunkt.** Kein fertiges Arbeitsergebnis. Der/die Studierende analysiert und überarbeitet; der Supervisor prüft, bevor das Schriftstück die Beratungsstelle verlässt.
+**Jeder Entwurf ist ausdrücklich ein Ausgangspunkt.** Kein fertiges Arbeitsergebnis. Der/die Studenten analysiert und überarbeitet; der Supervisor prüft, bevor das Schriftstück die Beratungsstelle verlässt.
 
-Beachte: Rechtliche Beratungsleistungen an Einzelpersonen durch Studierende erfolgen nach § 6 Abs. 1 RDG als unentgeltliche Rechtsdienstleistung unter Aufsicht eines zur Rechtsanwaltschaft zugelassenen Supervisors (§ 6 Abs. 2 RDG). Alle nach außen gehenden Schriftstücke sind ohne Supervisoren-Freigabe nicht zu versenden.
+Beachte: Rechtliche Beratungsleistungen an Einzelpersonen durch Studenten erfolgen nach § 6 Abs. 1 RDG als unentgeltliche Rechtsdienstleistung unter Aufsicht eines zur Rechtsanwaltschaft zugelassenen Supervisors (§ 6 Abs. 2 RDG). Alle nach außen gehenden Schriftstücke sind ohne Supervisoren-Freigabe nicht zu versenden.
 
 ## Eingaben
 
@@ -667,8 +667,8 @@ Beachte: Rechtliche Beratungsleistungen an Einzelpersonen durch Studierende erfo
 ### Kernvorschriften
 
 - **§ 6 RDG** — Unentgeltliche Rechtsdienstleistung: zulässig durch Rechtsberatungsstellen unter anwaltlicher Aufsicht; die Aufsicht muss durch eine zur Rechtsanwaltschaft zugelassene Person ausgeübt werden.
-- **§ 43a Abs. 2 BRAO** — Mandatsgeheimnis/Verschwiegenheitspflicht: gilt sinngemäß für Studierende der Beratungsstelle; keine Informationen aus dem Mandat nach außen.
-- **§ 203 Abs. 3 StGB** — Strafbarkeit der Verletzung von Privatgeheimnissen; Studierende sind als "berufsmäßig tätige Gehilfen" i. S. d. § 203 Abs. 3 S. 2 StGB zu behandeln.
+- **§ 43a Abs. 2 BRAO** — Mandatsgeheimnis/Verschwiegenheitspflicht: gilt sinngemäß für Studenten der Beratungsstelle; keine Informationen aus dem Mandat nach außen.
+- **§ 203 Abs. 3 StGB** — Strafbarkeit der Verletzung von Privatgeheimnissen; Studenten sind als "berufsmäßig tätige Gehilfen" i. S. d. § 203 Abs. 3 S. 2 StGB zu behandeln.
 - **§§ 114 ff. ZPO** — Prozesskostenhilfe (PKH): Entwürfe für PKH-Anträge müssen wirtschaftliche Verhältnisse vollständig darlegen; Prüfung hinreichender Erfolgsaussichten (§ 114 Abs. 1 S. 1 ZPO).
 - **§§ 1, 2 BerHG** — Beratungshilfe: Voraussetzungen, Bewilligung vor Erbringung der Leistung.
 - **§§ 17, 18, 23 VwVfG** — Form von Widersprüchen und Verwaltungsverfahrensschreiben.
@@ -710,7 +710,7 @@ Fehlende notwendige Tatsachen → nicht erfinden. Markierung: `[TATSACHE FEHLT: 
 
 ### Schritt 3: Zuständiges Gericht / Behörde und Formvorschriften
 
-- **Rubrum:** Gericht, Aktenzeichen (falls vorhanden), Parteien, Bevollmächtigte/r (Studierender unter Aufsicht des Supervisors)
+- **Rubrum:** Gericht, Aktenzeichen (falls vorhanden), Parteien, Bevollmächtigte/r (Studentenr unter Aufsicht des Supervisors)
 - **Formvorschriften:** Schriftform, Unterschrift, Einreichungsweg (post, Fax, beA, elektronisch)
 - Sind örtliche Besonderheiten nicht bekannt: `[PRÜFEN: Einreichungsweg beim zuständigen Gericht / der zuständigen Behörde überprüfen]`
 
@@ -718,7 +718,7 @@ Fehlende notwendige Tatsachen → nicht erfinden. Markierung: `[TATSACHE FEHLT: 
 
 Das Rechtsgebiet-Muster verwenden. Füllen, was aus den Fakten befüllt werden kann. Platzhalter explizit lassen — niemals mit plausibel klingendem Inhalt füllen.
 
-**Wo immer der Entwurf eine Rechtsbehauptung aufstellt:** Diese Behauptung ist eine Hypothese, die der/die Studierende überprüft, keine Schlussfolgerung, auf die der Entwurf sich verlässt. Entsprechend markieren.
+**Wo immer der Entwurf eine Rechtsbehauptung aufstellt:** Diese Behauptung ist eine Hypothese, die der/die Studenten überprüft, keine Schlussfolgerung, auf die der Entwurf sich verlässt. Entsprechend markieren.
 
 ### Schritt 5: Unsicherheiten kennzeichnen
 
@@ -732,11 +732,11 @@ Drei Arten von Markierungen, direkt im Text:
 
 Ein Schriftstück bei Gericht oder einer Behörde einzureichen ist eine folgenschwere Handlung. Das Gate ist das Supervisionsmodell der Beratungsstelle, verstärkt durch die Grundvoraussetzung, dass ein zugelassener Rechtsanwalt/eine zugelassene Rechtsanwältin die Aufsicht innehat (§ 6 Abs. 2 RDG). Gerichtliche und behördliche Einreichungen gehen immer durch die Supervisoren-Prüfung, unabhängig vom gewählten Supervisionsmodell.
 
-- **Formelle Prüfwarteschlange:** Entwurf geht in die Warteschlange; Studierender sieht "in Warteschlange für [Supervisor]"
+- **Formelle Prüfwarteschlange:** Entwurf geht in die Warteschlange; Studentenr sieht "in Warteschlange für [Supervisor]"
 - **Konfigurierbare Flags:** Wenn dieser Schriftstücktyp ein Flag auslöst (gerichtliche Einreichungen in der Regel immer), enthält der Output: "VOR DER EINREICHUNG MIT [SUPERVISOR] ABSPRECHEN"
 - **Leichtere Begleitung:** Standard-Sicherheitslabel; keine zusätzliche Schranke — aber gerichtliche Einreichungen gehen per Klinikverfahren dennoch an den Supervisor vor Einreichung
 
-## Prüfliste für Studierende
+## Prüfliste für Studenten
 
 Vor Vorlage an [Supervisor]:
 
@@ -744,14 +744,14 @@ Vor Vorlage an [Supervisor]:
 - [ ] Jede Tatsache: stimmt sie mit den tatsächlichen Mandantenunterlagen überein?
 - [ ] Jedes [PRÜFEN]-Flag: durch Recherche aufgelöst oder gestrichen
 - [ ] Jedes [TATSACHE FEHLT]-Flag: mit verifizierten Informationen gefüllt oder Abschnitt entfernt
-- [ ] Rechtsgrundlage: ist dies die richtige Argumentation? Gibt es bessere Ansätze? (Das ist die Analyse des Studierenden, nicht des Entwurfs.)
+- [ ] Rechtsgrundlage: ist dies die richtige Argumentation? Gibt es bessere Ansätze? (Das ist die Analyse des Studentenn, nicht des Entwurfs.)
 - [ ] Formvorschriften: Rubrum, Einreichungsweg, Format nach aktuellen Vorschriften korrekt?
 - [ ] [Supervisionsschritt per Klinik-Konfiguration]
 ```
 
 ## Beispiel
 
-**Szenario:** Mandantin Erdem erhält eine fristlose Kündigung ihres Arbeitsverhältnisses. Kündigung zugestellt am 15.04.2026. Studierender Müller soll einen Entwurf der Kündigungsschutzklage beim Arbeitsgericht Berlin erstellen.
+**Szenario:** Mandantin Erdem erhält eine fristlose Kündigung ihres Arbeitsverhältnisses. Kündigung zugestellt am 15.04.2026. Studentenr Müller soll einen Entwurf der Kündigungsschutzklage beim Arbeitsgericht Berlin erstellen.
 
 ```
 /entwurf kündigungsschutzklage-ag
@@ -764,11 +764,11 @@ Entwurf enthält: Rubrum (AG Berlin), Anträge, Klagebegründung mit `[PRÜFEN: 
 
 ## Risiken und typische Fehler
 
-- **Frist nicht beachtet:** Der Entwurf weist auf erkannte Fristen hin, berechnet sie aber nicht selbst. Studierende müssen die Dreiwochenfrist des § 4 KSchG, die Widerspruchsfrist (§ 70 VwGO), Verjährungsfristen (§ 195 BGB) eigenständig prüfen und in `/fristen` eintragen.
+- **Frist nicht beachtet:** Der Entwurf weist auf erkannte Fristen hin, berechnet sie aber nicht selbst. Studenten müssen die Dreiwochenfrist des § 4 KSchG, die Widerspruchsfrist (§ 70 VwGO), Verjährungsfristen (§ 195 BGB) eigenständig prüfen und in `/fristen` eintragen.
 - **Rubrum falsch:** Zuständigkeit, Parteibezeichnungen, Aktenzeichen müssen überprüft werden. Fehlerhaftes Rubrum kann zur Unzulässigkeit führen.
 - **PKH-Antrag vergessen:** Wenn die Mandantin/der Mandant nicht zahlungsfähig ist, muss gleichzeitig mit der Klage ein PKH-Antrag (§ 117 ZPO) eingereicht werden.
 - **Entwurf verlässt Klinik ohne Freigabe:** § 6 Abs. 2 RDG verlangt anwaltliche Aufsicht. Kein Entwurf wird dem Mandanten oder einer Behörde/einem Gericht ohne Supervisoren-Freigabe zugeleitet.
-- **Falsche Rechtsgrundlagen:** Rechtsbehauptungen im Entwurf sind Hypothesen. Der/die Studierende verifiziert jede Norm und Rechtsprechung, bevor der Entwurf weitergereicht wird.
+- **Falsche Rechtsgrundlagen:** Rechtsbehauptungen im Entwurf sind Hypothesen. Der/die Studenten verifiziert jede Norm und Rechtsprechung, bevor der Entwurf weitergereicht wird.
 
 ## Quellenpflicht
 
@@ -804,7 +804,7 @@ Die Trennung zwischen "Formularerstellung" und "Schriftsatzerstellung" war in de
 
 ### Relevante Normen für die Nachfolge-Skill `/entwurf`
 
-- **§ 1 BerHG** — Voraussetzungen der Beratungshilfe: BerH 1-Antrag ist vor Leistungserbringung beim Amtsgericht einzureichen; Studierende müssen die Voraussetzungen (Bedürftigkeit, keine anderweitige Beratungsmöglichkeit) prüfen.
+- **§ 1 BerHG** — Voraussetzungen der Beratungshilfe: BerH 1-Antrag ist vor Leistungserbringung beim Amtsgericht einzureichen; Studenten müssen die Voraussetzungen (Bedürftigkeit, keine anderweitige Beratungsmöglichkeit) prüfen.
 - **§ 117 ZPO** — PKH-Antrag: Einreichung mit Klage oder gesondertem Schriftsatz; wirtschaftliche Verhältnisse vollständig darlegen (Erklärung über persönliche und wirtschaftliche Verhältnisse, Formular bewilligen PKH-Schein).
 - **§ 6 Abs. 2 RDG** — Aufsichtspflicht: Ausgefüllte Formulare, die Rechtspositionen des Mandanten begründen oder geltend machen, sind keine formale Routineaufgabe — sie erfordern inhaltliche Supervisoren-Prüfung.
 - **§ 43a Abs. 2 BRAO** — Verschwiegenheitspflicht: Formulare enthalten sensitive Mandantendaten; strenge Vertraulichkeit.
@@ -889,7 +889,7 @@ _Fristenmanagement für die Rechtsberatungsstelle — Fristen eintragen, gesamt�
 - **Beschreibung** — eine Zeile: was ist fällig?
 - **Fälligkeitsdatum** (ggf. Uhrzeit)
 - **Quelle** — Grundlage der Frist (z. B. Zustellungsurkunde v. 20.04.2026, § 74 VwGO, § 276 Abs. 1 ZPO, Mietvertrag § 7)
-- **Zuständige/-r Studierende/-r**
+- **Zuständige/-r Studenten/-r**
 
 ## Rechtlicher Rahmen
 
@@ -921,13 +921,13 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 1. Fall-ID + Bezeichnung abfragen.
 2. Fristtyp und Beschreibung erfassen.
 3. Fälligkeitsdatum aufnehmen; Quelle dokumentieren.
-4. Zuständige/-n Studierende/-n zuweisen.
+4. Zuständige/-n Studenten/-n zuweisen.
 5. System generiert automatisch eine ID: `[fall-id]-[kurzbezeichnung]-[JJJJ-MM]`.
 6. Duplikatsprüfung: existiert bereits ein Eintrag mit gleicher Fall-ID, gleichem Typ und gleichem Datum? Falls ja, Hinweis vor dem Speichern.
 7. **Plausibilitätsprüfung (Pflicht):** Nach Eingabe des Datums wird das Ergebnis gegen typische Fristbänder für den gewählten Typ geprüft (z. B. Klagefrist VwGO: ca. 1 Monat nach Zustellung; Dreiwochenfrist KSchG: 21 Tage ab Zugang Kündigung; Widerspruchsfrist VwGO: 1 Monat). Liegt das eingetragene Datum außerhalb des typischen Bandes, erfolgt folgende Warnung:
  > "Das eingetragene Datum liegt außerhalb des typischen Bereichs für [Fristtyp] im deutschen Recht ([Rechtsgebiet]). Typische Dauer: ca. [Bandbreite] nach [auslösendem Ereignis]. Ihr Eintrag: [Datum], das sind [N] Tage nach [Ereignis]. Prüfen Sie Ihre Berechnung gegen [zitierte Norm aus dem Fristenband] sowie die maßgebliche Fristberechnungsregel (§ 187 f. BGB / § 222 ZPO / § 57 VwGO). Falls Ihre Berechnung korrekt ist (Sonderregelung, Hemmung, Unterbrechung, Wiedereinsetzung), bestätigen Sie; ich trage die Frist unverändert ein."
-8. Gibt der/die Studierende `[PRÜFEN]` im Datumsfeld ein, wird der Eintrag mit `fällig: [PRÜFEN]` gespeichert; die Plausibilitätsprüfung läuft erst, wenn ein konkretes Datum eingetragen wird.
-9. **Die Skill berechnet keine Fristen.** Die Berechnung obliegt dem/der Studierenden und dem Supervisor; die Skill trägt das Ergebnis ein.
+8. Gibt der/die Studenten `[PRÜFEN]` im Datumsfeld ein, wird der Eintrag mit `fällig: [PRÜFEN]` gespeichert; die Plausibilitätsprüfung läuft erst, wenn ein konkretes Datum eingetragen wird.
+9. **Die Skill berechnet keine Fristen.** Die Berechnung obliegt dem/der Studentenn und dem Supervisor; die Skill trägt das Ergebnis ein.
 
 ### Modus `--bericht` (Standard) — gesamtübergreifende Übersicht
 
@@ -967,7 +967,7 @@ Liest `deadlines.yaml` und erzeugt folgende Tabelle:
 
 ## Nach Zuständigen (Arbeitsbelastung)
 
-| Studierende/-r | Überfällig | Nächste 7 Tage | Nächste 14 Tage | Gesamt aktiv |
+| Studenten/-r | Überfällig | Nächste 7 Tage | Nächste 14 Tage | Gesamt aktiv |
 |---|---|---|---|---|
 
 ## Nach Rechtsgebiet
@@ -986,7 +986,7 @@ Typische Aktualisierungen: Fristdatum geändert (Terminverlegung durch Gericht),
 ### Modus `--erledigt [id]` — als abgeschlossen markieren
 
 - Setzt `status: erledigt`, `erledigungsdatum: [heute]`.
-- Bestätigt mit dem/der Studierenden, dass die Handlung tatsächlich vorgenommen und (soweit erforderlich) eingereicht wurde.
+- Bestätigt mit dem/der Studentenn, dass die Handlung tatsächlich vorgenommen und (soweit erforderlich) eingereicht wurde.
 - Verschwindet aus aktiven Berichten, bleibt aber in der YAML-Datei erhalten.
 
 ### Modus `--schliessen [id]` — ohne Erledigung schließen
@@ -995,7 +995,7 @@ Für Fristen, die nicht mehr relevant sind (Fall einvernehmlich beendet, Antrag 
 
 ## Beispiel
 
-**Szenario:** Studierende Maria hat eine Kündigung des Mietverhältnisses erhalten. Kündigung wurde am 08.04.2026 zugestellt. Widerspruchsfrist (§ 574 BGB i. V. m. § 542 BGB) läuft am 08.05.2026 ab.
+**Szenario:** Studenten Maria hat eine Kündigung des Mietverhältnisses erhalten. Kündigung wurde am 08.04.2026 zugestellt. Widerspruchsfrist (§ 574 BGB i. V. m. § 542 BGB) läuft am 08.05.2026 ab.
 
 ```
 /fristen --eintragen
@@ -1011,11 +1011,11 @@ Ausgabe: Eintrag `mueller-mietrecht-widerspruch-2026-05` wird gespeichert. Plaus
 
 ## Risiken und typische Fehler
 
-- **Frist falsch berechnet:** Die Skill trägt ein, was der/die Studierende eingibt; sie berechnet nicht selbst. Besonders kritisch bei: § 222 ZPO (Wochenfrist), § 193 BGB (Sonn-/Feiertagsverschiebung), § 57 VwGO, Sonderfälle bei Zustellungsfiktion nach § 41 Abs. 2 VwVfG.
+- **Frist falsch berechnet:** Die Skill trägt ein, was der/die Studenten eingibt; sie berechnet nicht selbst. Besonders kritisch bei: § 222 ZPO (Wochenfrist), § 193 BGB (Sonn-/Feiertagsverschiebung), § 57 VwGO, Sonderfälle bei Zustellungsfiktion nach § 41 Abs. 2 VwVfG.
 - **Notfrist verwechselt mit verlängerbarer Frist:** ZPO-Notfristen (z. B. Notfrist Berufung, § 548 ZPO; Revisionsfrist, § 548 ZPO) sind nicht verlängerbar. Fristverlängerungsanträge bei Notfristen sind unwirksam. Immer beim Supervisor klären.
 - **PKH-Antrag hemmt Frist nicht automatisch:** Die Einreichung eines PKH-Antrags unterbricht keine Klagefrist. Ausnahme: § 204 Abs. 1 Nr. 14 BGB (Verjährungshemmung durch PKH-Antrag bei Verjährungsfristen); nicht bei prozessualen Ausschlussfristen.
 - **Keine Zuweisung:** Aktive Fristen ohne Zuständige/-n werden im Bericht besonders hervorgehoben. Unzugewiesene Fristen sind Hochrisikopositionen.
-- **Frist nur im Kopf des Studierenden:** Wird nicht in der YAML-Datei eingetragen und nicht an die nächste Kohorte übergeben.
+- **Frist nur im Kopf des Studentenn:** Wird nicht in der YAML-Datei eingetragen und nicht an die nächste Kohorte übergeben.
 
 ## Quellenpflicht
 
@@ -1068,14 +1068,14 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 ## Zentrale Normen
 - § 6 Abs. 2 Nr. 2 RDG — Voraussetzungen für erlaubnisfreie Rechtsberatung in Beratungsstellen: Anleitungserfordernis und Unentgeltlichkeit
 - § 43a Abs. 2 BRAO — Verschwiegenheitspflicht des Anleiters: muss von Beginn an organisatorisch sichergestellt werden
-- § 203 Abs. 4 StGB — Einbeziehung Dritter (Studierende): Verschwiegenheitsvereinbarungen als Pflichtbestandteil der Ersteinrichtung
+- § 203 Abs. 4 StGB — Einbeziehung Dritter (Studenten): Verschwiegenheitsvereinbarungen als Pflichtbestandteil der Ersteinrichtung
 - Art. 30 DSGVO — Verarbeitungsverzeichnis: muss vor Beginn der Datenverarbeitung erstellt werden
 
 ## Berufsrechtlicher Rahmen
 
-- § 6 Abs. 2 Nr. 2 RDG: Die Organisation der Anleitungsstruktur muss sicherstellen, dass der Volljurist tatsächlich in der Lage ist, die Studierenden anzuleiten. "Formelle" Aufsicht ohne tatsächliche Prüfung genügt nicht; vgl. Krenzler, in: Krenzler (Hrsg.), RDG, 2. Aufl. 2021, § 6 Rn. 52.
+- § 6 Abs. 2 Nr. 2 RDG: Die Organisation der Anleitungsstruktur muss sicherstellen, dass der Volljurist tatsächlich in der Lage ist, die Studentenn anzuleiten. "Formelle" Aufsicht ohne tatsächliche Prüfung genügt nicht; vgl. Krenzler, in: Krenzler (Hrsg.), RDG, 2. Aufl. 2021, § 6 Rn. 52.
 - § 43a Abs. 2 BRAO: Verschwiegenheitsorganisation muss bereits bei Einrichtung der Beratungsstelle mitgedacht werden (kein Mandantendaten-Upload in nicht abgesicherte Systeme).
-- § 203 Abs. 4 StGB: Einbeziehung Dritter (Studierende, externe IT) erfordert vertragliche Absicherung.
+- § 203 Abs. 4 StGB: Einbeziehung Dritter (Studenten, externe IT) erfordert vertragliche Absicherung.
 
 ## Ablauf
 
@@ -1097,7 +1097,7 @@ Optionen (Mehrfachauswahl möglich):
 5. **Wohlfahrtsverband / Sozialberatung** (AWO, Caritas, Diakonie, DRK, Paritätischer) – § 8 Abs. 1 Nr. 4 RDG
 6. **Sonstiges** – Bitte beschreiben.
 
-Erfasse auch: Hochschule / Trägerin, Stadt, seit wann aktiv, Anzahl aktiver Studierender pro Semester.
+Erfasse auch: Hochschule / Trägerin, Stadt, seit wann aktiv, Anzahl aktiver Studentenr pro Semester.
 
 ### Schritt 2: Rechtsgrundlage bestätigen
 
@@ -1110,7 +1110,7 @@ Je nach Typ aus Schritt 1:
 | Sozialberatung (Verbände) | § 8 Abs. 1 Nr. 4 RDG | Satzungsgemäßer Auftrag erforderlich |
 | Pro-Bono (zugelassene Anwälte) | § 1 BRAO (volle Zulassung) | BRAO/BORA voll anwendbar |
 
-> Bestätigen Sie: "Alle Beratungsleistungen erfolgen unentgeltlich. Die Studierenden stehen unter meiner tatsächlichen Anleitung. Ich nehme meine Aufsichtspflicht wahr." (§ 6 II Nr. 2 RDG)
+> Bestätigen Sie: "Alle Beratungsleistungen erfolgen unentgeltlich. Die Studentenn stehen unter meiner tatsächlichen Anleitung. Ich nehme meine Aufsichtspflicht wahr." (§ 6 II Nr. 2 RDG)
 
 ### Schritt 3: Fachbereiche
 
@@ -1147,17 +1147,17 @@ Optionen (Mehrfachauswahl):
 | Memo / Rechtsgutachten | Anleiter prüft inhaltlich |
 | Semesterübergabe | Anleiter muss bestätigen |
 
-Anleiter kann Gates verschärfen (z. B. alle Dokumente) oder – für erfahrene Studierende – für bestimmte Routinedokumente lockern.
+Anleiter kann Gates verschärfen (z. B. alle Dokumente) oder – für erfahrene Studenten – für bestimmte Routinedokumente lockern.
 
 ### Schritt 5: Pädagogikhaltung
 
-> Wie lernen Studierende bei Ihnen am besten?
+> Wie lernen Studenten bei Ihnen am besten?
 
 | Haltung | Beschreibung | Geeignet für |
 |---|---|---|
-| **Ausführen** | Das System erstellt vollständige Entwürfe; Studierende analysieren und übergeben | Erfahrene Studierende (3.–5. Sem.), Routinedokumente |
-| **Anleiten** | Das System gibt Struktur und Schlüsselpunkte; Studierende füllen aus | Mittelstufe (2.–3. Sem.) |
-| **Lehren** | Das System stellt nur Fragen; Studierende erarbeiten Lösung | Anfangssemester, neue Fachgebiete |
+| **Ausführen** | Das System erstellt vollständige Entwürfe; Studenten analysieren und übergeben | Erfahrene Studenten (3.–5. Sem.), Routinedokumente |
+| **Anleiten** | Das System gibt Struktur und Schlüsselpunkte; Studenten füllen aus | Mittelstufe (2.–3. Sem.) |
+| **Lehren** | Das System stellt nur Fragen; Studenten erarbeiten Lösung | Anfangssemester, neue Fachgebiete |
 
 Default für gesamte Beratungsstelle + ggf. Übersteuern je Fachbereich / Dokumenttyp.
 
@@ -1168,7 +1168,7 @@ Default für gesamte Beratungsstelle + ggf. Übersteuern je Fachbereich / Dokume
 - Werden Mandantendaten in einem Cloud-System verarbeitet? → Auftragsverarbeitungsvertrag (AVV) nach Art. 28 DSGVO erforderlich.
 - Wer hat Zugang zu den Mandantenakten?
 - Wie werden Akten nach 5 Jahren gelöscht (§ 50 BRAO Aufbewahrungspflicht)?
-- Einweisung der Studierenden in Verschwiegenheitspflichten? → Empfehlung: Schriftliche Verpflichtungserklärung zu § 203 StGB.
+- Einweisung der Studentenn in Verschwiegenheitspflichten? → Empfehlung: Schriftliche Verpflichtungserklärung zu § 203 StGB.
 
 ### Schritt 7: Örtliche Besonderheiten
 
@@ -1187,7 +1187,7 @@ Ausgabe: vollständige, aktualisierte `CLAUDE.md` mit allen erhobenen Konfigurat
 
 Anschließend empfehlen:
 - `/rechtsberatungsstelle:leitfaden-erstellen` für jeden konfigurierten Fachbereich
-- `/rechtsberatungsstelle:einarbeitung` – Testlauf aus Studierenden-Perspektive
+- `/rechtsberatungsstelle:einarbeitung` – Testlauf aus Studentenn-Perspektive
 
 ## Risiken / typische Fehler
 
@@ -1220,10 +1220,10 @@ _Leitfaden und Merkblatt für Rechtsberatungsstelle erstellen: Anwendungsfall St
 
 1. Lade `CLAUDE.md` → Rolle (muss Anleitender Volljurist sein), Fachbereiche, Rechtsgrundlage.
 2. Nutze den untenstehenden Ablauf.
-3. Wenn der Nutzer kein Anleitender Volljurist ist: Stopp und weiterleiten (Studierende → `/rechtsberatungsstelle:einarbeitung`).
+3. Wenn der Nutzer kein Anleitender Volljurist ist: Stopp und weiterleiten (Studenten → `/rechtsberatungsstelle:einarbeitung`).
 4. Durchlaufe: Fachbereich → Intake-Fragen → Pädagogikhaltung → Prüfungsgates → Querprüfungen → örtliche Besonderheiten.
 5. Schreibe `guides/<fachbereich>.md`. Erstelle das Verzeichnis `guides/` bei Bedarf.
-6. Biete einen Testlauf an: `/rechtsberatungsstelle:entwurf` unter der konfigurierten Haltung ausführen, damit der Anleiter sieht, was Studierende sehen.
+6. Biete einen Testlauf an: `/rechtsberatungsstelle:entwurf` unter der konfigurierten Haltung ausführen, damit der Anleiter sieht, was Studenten sehen.
 
 ---
 
@@ -1241,7 +1241,7 @@ _Leitfaden und Merkblatt für Rechtsberatungsstelle erstellen: Anwendungsfall St
 ## Zentrale Normen
 - § 6 Abs. 2 Nr. 2 RDG — Erlaubnisfreie Rechtsberatung in Beratungsstellen unter Anleitung eines Volljuristen; Leitfaden konfiguriert den Anleitungsrahmen
 - § 43a Abs. 2 BRAO — Verschwiegenheitspflicht des anleitenden Anwalts: gilt auch für Leitfaden-Inhalte und Mandatsdaten
-- § 203 Abs. 4 StGB — Einbeziehung Dritter (Studierende) erfordert vertragliche Absicherung der Verschwiegenheit
+- § 203 Abs. 4 StGB — Einbeziehung Dritter (Studenten) erfordert vertragliche Absicherung der Verschwiegenheit
 - § 43a Abs. 4 BRAO i.V.m. § 3 BORA — Interessenkonflikt-Regeln müssen im Leitfaden für jeden Fachbereich verankert sein
 
 ## Berufsrechtlicher Rahmen
@@ -1257,11 +1257,11 @@ Dieser Leitfaden ist ein internes Konfigurationsdokument. Er legt fest, wie die 
 
 Biete dies als Checkliste an, die der Anleiter durcharbeiten oder als Inhaltsverzeichnis nutzen kann:
 
-- Was müssen Studierende wissen, bevor sie einen Fall berühren? (Verschwiegenheit nach § 43a BRAO analog / § 203 StGB; RDG-Grenzen; Umfang ihrer Befugnisse)
-- Was sind die 3–5 häufigsten Fehler von Studierenden in diesem Fachbereich, und wie soll der Skill sie erkennen?
-- Wann muss der Studierende pausieren und Rücksprache halten? (Einreichung, Versand, Strategieentscheidung, Vergleich)
+- Was müssen Studenten wissen, bevor sie einen Fall berühren? (Verschwiegenheit nach § 43a BRAO analog / § 203 StGB; RDG-Grenzen; Umfang ihrer Befugnisse)
+- Was sind die 3–5 häufigsten Fehler von Studentenn in diesem Fachbereich, und wie soll der Skill sie erkennen?
+- Wann muss der Studenten pausieren und Rücksprache halten? (Einreichung, Versand, Strategieentscheidung, Vergleich)
 - Welches Sprachniveau ist für Mandantenmitteilungen anzustreben? (Leichte Sprache Niveau B1/B2 als Ziel bei Mandanten ohne juristische Vorbildung; ggf. mehrsprachig bei Geflüchteten)
-- Welche örtlichen Sonderregeln, Formulare oder Fristen muss jede Studierende kennen?
+- Welche örtlichen Sonderregeln, Formulare oder Fristen muss jede Studenten kennen?
 - Wann soll der Skill lehren statt tun? (Je Dokumenttyp – Default und Ausnahmen festlegen)
 
 ## Ablauf
@@ -1270,7 +1270,7 @@ Biete dies als Checkliste an, die der Anleiter durcharbeiten oder als Inhaltsver
 
 Dies ist ein Anleiter-Skill. Lies `CLAUDE.md` → `Rolle`. Wenn die Rolle nicht "Anleitender Volljurist" ist:
 
-> Dieser Skill ist für Anleiter – er konfiguriert das Verhalten der studierendengerichteten Skills. Wenn Sie der Anleiter sind, stellen Sie sicher, dass Ihre Rolle in `/rechtsberatungsstelle:rechtsberatungsstelle-kaltstart-interview` auf "Anleitender Volljurist" gesetzt ist. Wenn Sie Studierende/r sind, ist dies nicht der richtige Skill für Sie – starten Sie mit `/rechtsberatungsstelle:einarbeitung`.
+> Dieser Skill ist für Anleiter – er konfiguriert das Verhalten der studierendengerichteten Skills. Wenn Sie der Anleiter sind, stellen Sie sicher, dass Ihre Rolle in `/rechtsberatungsstelle:rechtsberatungsstelle-kaltstart-interview` auf "Anleitender Volljurist" gesetzt ist. Wenn Sie Studenten/r sind, ist dies nicht der richtige Skill für Sie – starten Sie mit `/rechtsberatungsstelle:einarbeitung`.
 
 Stopp, wenn Rolle nicht Anleiter.
 
@@ -1286,7 +1286,7 @@ Falls ein Leitfaden für diesen Bereich bereits existiert: "Möchten Sie (a) abs
 
 ### Schritt 3: Intake-Fragen
 
-> Was sollten Studierende eine neue Mandantin/einen neuen Mandanten für diesen Fachbereich fragen? Ich starte mit einem generischen Intake für [Fachbereich] – sagen Sie mir, was hinzugefügt, entfernt oder geändert werden soll. Welche Warnsignale sollten Studierende erkennen? Welche Fälle passen gut zur Beratungsstelle, welche sollten weitervermittelt werden?
+> Was sollten Studenten eine neue Mandantin/einen neuen Mandanten für diesen Fachbereich fragen? Ich starte mit einem generischen Intake für [Fachbereich] – sagen Sie mir, was hinzugefügt, entfernt oder geändert werden soll. Welche Warnsignale sollten Studenten erkennen? Welche Fälle passen gut zur Beratungsstelle, welche sollten weitervermittelt werden?
 
 Fachbereichs-Defaults (wenn keine Angaben vorhanden):
 
@@ -1321,9 +1321,9 @@ Drei Stufen – Anleiter wählt Default und kann je Dokumenttyp übersteuern:
 
 | Haltung | Was der Skill tut | Geeignet für |
 |---|---|---|
-| **Ausführen** | Entwurf vollständig ausarbeiten; Studierende analysieren und übergeben | Routineschriftsätze im 3. Semester+ |
-| **Anleiten** | Gliederung und Schlüsselpunkte ausgeben; Studierende füllen aus | Memos, neue Fachbereiche |
-| **Lehren** | Nur Fragen stellen; Studierenden zur Lösung führen | 1. Semester, neue Fachbereiche, komplexe Rechtsfragen |
+| **Ausführen** | Entwurf vollständig ausarbeiten; Studenten analysieren und übergeben | Routineschriftsätze im 3. Semester+ |
+| **Anleiten** | Gliederung und Schlüsselpunkte ausgeben; Studenten füllen aus | Memos, neue Fachbereiche |
+| **Lehren** | Nur Fragen stellen; Studentenn zur Lösung führen | 1. Semester, neue Fachbereiche, komplexe Rechtsfragen |
 
 ### Schritt 5: Prüfungsgates
 
@@ -1341,7 +1341,7 @@ Welche anderen Fachbereiche überschneiden sich regelmäßig?
 
 ### Schritt 7: Örtliche Besonderheiten
 
-> Gibt es örtliche Regeln, Sonderformulare oder Fristen, die jede Studierende kennen muss? Welche lokalen Anlaufstellen (Gerichte, Behörden, Dolmetscherdienste, Kooperationspartner) sind wichtig?
+> Gibt es örtliche Regeln, Sonderformulare oder Fristen, die jede Studenten kennen muss? Welche lokalen Anlaufstellen (Gerichte, Behörden, Dolmetscherdienste, Kooperationspartner) sind wichtig?
 
 **Berlin-Beispiele:**
 - Berliner Mietspiegel 2023/2024 (qualifiziert nach § 558d BGB)
@@ -1372,8 +1372,8 @@ Ausgabe: `guides/<fachbereich>.md` mit den Sektionen:
 ## Risiken / typische Fehler
 
 - **Fristenversäumnis:** Der Leitfaden muss für jeden Fachbereich die kritischsten Fristen explizit benennen. Besonders gefährlich: § 36 AsylG (1 Woche), § 74 AsylG (2 Wochen bei beschleunigtem Verfahren), § 4 KSchG (3 Wochen).
-- **RDG-Grenzen nicht klar kommuniziert:** Studierende ohne klare Anleitungsstruktur überschreiten versehentlich § 3 RDG.
-- **Fehlende Konfliktprüfung:** Ohne explizite Gate-Regel übersehen Studierende, wann sie den Anleiter einschalten müssen.
+- **RDG-Grenzen nicht klar kommuniziert:** Studenten ohne klare Anleitungsstruktur überschreiten versehentlich § 3 RDG.
+- **Fehlende Konfliktprüfung:** Ohne explizite Gate-Regel übersehen Studenten, wann sie den Anleiter einschalten müssen.
 - **Sprachbarrieren bei Geflüchteten:** Leitfaden sollte Dolmetscherressourcen und Sprach-Level-Anforderungen an Mandantenbriefe festlegen.
 
 ---
@@ -1543,7 +1543,7 @@ _Mandantenkommunikation dokumentieren und Kommunikations-Log führen: Anwendungs
 
 Lückenlose Dokumentation aller Kontakte in einem Mandat ist aus mehreren Gründen unverzichtbar:
 
-1. **Semesterübergabe:** Nachfolgende Studierende müssen den Stand des Mandats vollständig nachvollziehen können (`/rechtsberatungsstelle:semester-übergabe`).
+1. **Semesterübergabe:** Nachfolgende Studenten müssen den Stand des Mandats vollständig nachvollziehen können (`/rechtsberatungsstelle:semester-übergabe`).
 2. **Haftungssicherung:** Im Streitfall muss nachgewiesen werden können, wann welche Mitteilung erging (§ 127 BGB analog für Fristwahrung).
 3. **Qualitätssicherung:** Der anleitende Volljurist prüft, ob der Mandant korrekt informiert und keine unzulässige Rechtsberatung erteilt wurde.
 4. **Verschwiegenheit:** Das Logbuch enthält personenbezogene Daten und fällt unter § 43a Abs. 2 BRAO (Anleiter), § 203 StGB (alle Beteiligten), DSGVO Art. 5, 9. Kein Zugang für Dritte ohne Freigabe.
@@ -1563,7 +1563,7 @@ Lückenlose Dokumentation aller Kontakte in einem Mandat ist aus mehreren Gründ
 - Aktenzeichen oder anonyme Mandantenkennung (z. B. "M-2024-17")
 - Datum und Uhrzeit des Kontakts
 - Art des Kontakts: persönlich | telefonisch | schriftlich (Brief/E-Mail/Fax) | durch Dritte (Dolmetscher)
-- Beteiligte: Studierender, Anleiter, Mandant, Behörde/Gericht, Dolmetscher
+- Beteiligte: Studentenr, Anleiter, Mandant, Behörde/Gericht, Dolmetscher
 - Inhalt: Was wurde mitgeteilt / besprochen / vereinbart?
 - Ergebnis: Was ist entschieden, was bleibt offen?
 - Nächste Schritte und Fristen
@@ -1574,7 +1574,7 @@ Lückenlose Dokumentation aller Kontakte in einem Mandat ist aus mehreren Gründ
 ### Eintrag [Nummer] – [Datum] [Uhrzeit]
 
 **Art:** [persönlich | telefonisch | schriftlich]
-**Beteiligte:** [Studierender: Name/Kürzel] | [Anleiter: ✓ anwesend / – nicht anwesend] | [Mandant: ✓] | [Dolmetscher: Name/Sprache oder –]
+**Beteiligte:** [Studentenr: Name/Kürzel] | [Anleiter: ✓ anwesend / – nicht anwesend] | [Mandant: ✓] | [Dolmetscher: Name/Sprache oder –]
 **Gegenüber:** [Jobcenter Mitte Berlin | BAMF Bremen | VG Berlin | Mandant direkt | Sonstiges: ]
 **Thema:** [Kurzbeschreibung, 1–2 Sätze]
 
@@ -1592,7 +1592,7 @@ Lückenlose Dokumentation aller Kontakte in einem Mandat ist aus mehreren Gründ
 | [z. B. Widerspruch SGB II] | [TT.MM.JJJJ] | [offen] |
 
 **Nächste Schritte:**
-1. [Aktion – verantwortlich: Studierender / Anleiter – bis: TT.MM.JJJJ]
+1. [Aktion – verantwortlich: Studentenr / Anleiter – bis: TT.MM.JJJJ]
 2. …
 
 **Verschwiegenheitshinweis:** Dieser Eintrag enthält vertrauliche Mandantendaten (§ 203 StGB, § 43a BRAO). Kein Zugang für Externe.
@@ -1646,7 +1646,7 @@ Strukturierter Logeintrag nach obigem Format. Immer mit Verschwiegenheitshinweis
 ### Eintrag 3 – 14.01.2025 14:30
 
 **Art:** telefonisch
-**Beteiligte:** Studierende: AS | Anleiter: – | Mandant: ✓ | Dolmetscher: Hamid Y. (Dari)
+**Beteiligte:** Studenten: AS | Anleiter: – | Mandant: ✓ | Dolmetscher: Hamid Y. (Dari)
 **Gegenüber:** Mandant direkt
 **Thema:** Besprechung Widerspruchsergebnis Jobcenter – Bescheid vom 10.01.2025 erhalten
 
@@ -1718,7 +1718,7 @@ _Mandantenbrief für Rechtsberatungsstelle verfassen: Anwendungsfall Rechtsberat
 ## Zentrale Normen
 - BORA § 11 — Mitteilungspflicht: Mandant ist über wesentliche Verfahrensschritte zu informieren
 - § 43a Abs. 2 BRAO — Verschwiegenheit: Mandantenbrief darf keine Drittinformationen offenbaren
-- § 6 Abs. 2 Nr. 2 RDG — Anleitungspflicht: Mandantenbrief von Studierenden erfordert Anleiterpruefung und -freigabe
+- § 6 Abs. 2 Nr. 2 RDG — Anleitungspflicht: Mandantenbrief von Studentenn erfordert Anleiterpruefung und -freigabe
 - Art. 5 Abs. 1 lit. c DSGVO — Datensparsamkeit: nur für Mandanten bestimmte Informationen im Brief
 
 ## BORA-Pflichten bei Mandantenmitteilungen
@@ -1778,12 +1778,12 @@ wir beraten Sie in Ihrer Sache: [kurze Stichwortbeschreibung, 1 Satz].
 [Ggf. Hinweis, was der Mandant nicht ohne uns tun sollte – z. B. "Bitte unterschreiben Sie keine neuen Dokumente des Jobcenters, ohne uns zu fragen."]
 
 **Bei Fragen:**
-Wenden Sie sich an: [Name des Studierenden / der Beratungsstelle]
+Wenden Sie sich an: [Name des Studentenn / der Beratungsstelle]
 Telefon: [...] | E-Mail: [...] | Sprechzeiten: [...]
 
 Mit freundlichen Grüßen
 
-[Name des Studierenden / Kürzel]
+[Name des Studentenn / Kürzel]
 [Beratungsstelle]
 [Rechtlicher Hinweis: Dieser Brief ist ein Entwurf, geprüft von [Anleiter].]
 ```
@@ -1867,7 +1867,7 @@ Für jede Frage:
 
 **Obersatz:** Als Fragesatz formuliert (aus Schritt 1).
 
-**Norm/Definition:** Dies ist eine Recherche-Lücke, keine Schlussfolgerung. Was der/die Studierende finden muss:
+**Norm/Definition:** Dies ist eine Recherche-Lücke, keine Schlussfolgerung. Was der/die Studenten finden muss:
 
 > `[RECHERCHE ERFORDERLICH: § 536 BGB — Mietminderung wegen Sachmangel;
 > Voraussetzungen: erheblicher Mangel, Anzeige durch Mieter (§ 536c BGB),
@@ -1884,7 +1884,7 @@ Falls der Skill einen allgemeinen Normrahmen mit hoher Sicherheit kennt, kann di
 > mindert. Die Minderung tritt kraft Gesetzes ein; einer Erklärung bedarf es nicht.
 > `[PRÜFEN: aktuelle Fassung und einschlägige Rspr. für diesen Sachverhalt]`
 
-**Subsumtion:** Hier steht die Analyse des Studierenden. Gerüst strukturieren, nicht ausfüllen:
+**Subsumtion:** Hier steht die Analyse des Studentenn. Gerüst strukturieren, nicht ausfüllen:
 
 > `[STUDENTISCHE ANALYSE: Norm auf Sachverhalt anwenden. Relevante Tatsachen:
 > - Heizung seit November defekt — seit wann ist dies ein "erheblicher" Mangel?
@@ -1901,17 +1901,17 @@ Falls der Skill einen allgemeinen Normrahmen mit hoher Sicherheit kennt, kann di
 
 Separater Abschnitt nach den Prüfungsblöcken:
 
-**Stärken (aus dem Sachverhalt — Studierende/-r soll diese testen):**
+**Stärken (aus dem Sachverhalt — Studenten/-r soll diese testen):**
 - [Hilfreiche Tatsache und warum]
 
-**Schwächen (aus dem Sachverhalt — Studierende/-r soll Gewicht abschätzen):**
+**Schwächen (aus dem Sachverhalt — Studenten/-r soll Gewicht abschätzen):**
 - [Problematische Tatsache und warum]
 - `[UNSICHER: ob [X] tatsächlich eine Schwäche ist — hängt von [Norm/Rspr.] zu [Y] ab]`
 
 **Offene Fragen (aus dem Gutachten nicht beantwortbar):**
 - Sachverhaltlich: [Was wissen wir nicht über den Mandanten/die Mandantin?]
 - Rechtlich: [Was erfordert Recherche?]
-- Strategisch: [Ermessensentscheidungen für Studierenden/Supervisor]
+- Strategisch: [Ermessensentscheidungen für Studentenn/Supervisor]
 
 ## Kurzergebnis
 
@@ -1965,7 +1965,7 @@ nächster Schritt: Z]
 
 ## Recherchelücken-Zusammenfassung
 
-[Alle RECHERCHE ERFORDERLICH-Blöcke in einer Liste, damit der/die Studierende
+[Alle RECHERCHE ERFORDERLICH-Blöcke in einer Liste, damit der/die Studenten
 sie systematisch abarbeiten kann — und /recherche-start für jede starten kann]
 
 ═══════════════════════════════════════════════════════════════════════
@@ -1985,7 +1985,7 @@ Normblock enthält: `[RECHERCHE ERFORDERLICH: § 536 BGB, § 536c BGB (Anzeigepf
 - **Unsicherheiten stillschweigend übergehen:** Wenn ein UNSICHER-Flag gesetzt ist, ist das ein Hinweis zur Recherche oder zum Supervisorengespräch, kein Tippfehler.
 - **Kurzergebnis ohne Analyse:** Das Kurzergebnis am Anfang des Gutachtens ist eine Orientierung; es muss durch die Prüfungsblöcke belegt sein.
 - **Gutachten verlässt Klinik ohne Freigabe:** Das interne Gutachten enthält vertrauliche Mandanteninformationen (§ 203 StGB, § 43a Abs. 2 BRAO). Kein Versand ohne Supervisoren-Freigabe.
-- **Falsches Prüfungsschema:** Das Gerüst folgt der üblichen deutschen Gutachtenreihenfolge. Abweichende Prüfungsreihenfolgen (z. B. Prozessvoraussetzungen zuerst im Verwaltungsrecht) müssen vom Studierenden eigenständig berücksichtigt werden.
+- **Falsches Prüfungsschema:** Das Gerüst folgt der üblichen deutschen Gutachtenreihenfolge. Abweichende Prüfungsreihenfolgen (z. B. Prozessvoraussetzungen zuerst im Verwaltungsrecht) müssen vom Studentenn eigenständig berücksichtigt werden.
 
 ## Quellenpflicht
 
@@ -2004,7 +2004,7 @@ Befund: KORRIGIERT. Skill hatte falschen Thementext: "Verbraucherrecht: Widerruf
 
 ## Skill: `recherche-start-rechtsberatungsstelle`
 
-_Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, verifizierbare Quellen, Suchbegriffe für amtliche/freie Quellen oder lizenzierte Datenbanken/dejure. Hinweise und Rahmen, KEINE geprüften Belege; Studierende recherchieren und verifizieren eigenständig. Lädt, w..._
+_Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, verifizierbare Quellen, Suchbegriffe für amtliche/freie Quellen oder lizenzierte Datenbanken/dejure. Hinweise und Rahmen, KEINE geprüften Belege; Studenten recherchieren und verifizieren eigenständig. Lädt, w..._
 
 # Recherchefahrplan: Orientierung, keine Recherche
 
@@ -2052,7 +2052,7 @@ Bevor der Fahrplan aufgebaut wird: Die eigenen Vorlagendokumente der Klinik lese
 
 Was ist die Rechtsfrage? Präzise formulieren. Nicht "Kündigung" — sondern: "Ist die fristlose Kündigung des Arbeitsvertrags vom 15.04.2026 rechtswirksam, obwohl dem Arbeitgeber keine Abmahnung vorausgegangen ist?"
 
-Bei zu breiter Frage mit dem Studierenden eingrenzen: "Das sind drei Rechtsfragen. Welche zuerst?"
+Bei zu breiter Frage mit dem Studentenn eingrenzen: "Das sind drei Rechtsfragen. Welche zuerst?"
 
 ### Schritt 2: Fahrplan aufbauen
 
@@ -2066,7 +2066,7 @@ Wahrscheinlich einschlägige Normen nennen. Ausdrücklich als ungeprüft kennzei
 > - `[PRÜFEN: Paragraphennummern gegen aktuelle Fassung verifizieren — Gesetze werden umnummeriert]`
 
 **Rechtsprechungsbereiche:**
-Nicht Entscheidungen — Bereiche. Die Entscheidungen findet der Studierende selbst.
+Nicht Entscheidungen — Bereiche. Die Entscheidungen findet der Studenten selbst.
 
 > **Rspr.-Bereiche:**
 > - BAG-Rspr. zu Abmahnungserfordernis vor fristloser Kündigung — Leitentscheidung des BAG suchen
@@ -2101,7 +2101,7 @@ Unsicherheit wird benannt, nicht verschwiegen.
 
 ### Schritt 4: Bestehende Recherche analysieren (wenn vorhanden)
 
-Wenn der Studierende bereits Recherchematerial hochgeladen hat: lesen, was abgedeckt ist, was fehlt.
+Wenn der Studenten bereits Recherchematerial hochgeladen hat: lesen, was abgedeckt ist, was fehlt.
 
 > **Aus Ihrer bisherigen Recherche:**
 > - Vorhanden: [Zusammenfassung des Abgedeckten]
@@ -2156,7 +2156,7 @@ Falls keine passen: "Keine Klinik-Vorlagendokumente zu dieser Frage — direkt z
 
 ## Beispiel
 
-**Szenario:** Studierende Hofer recherchiert für Mandantin Erdem: Kann sie die Miete mindern, weil die Heizung seit November defekt ist?
+**Szenario:** Studenten Hofer recherchiert für Mandantin Erdem: Kann sie die Miete mindern, weil die Heizung seit November defekt ist?
 
 Fahrplan enthält:
 - Gesetzliche Ausgangspunkte: `§ 536 BGB (Mietminderung), § 536a BGB (Schadensersatz), § 536c BGB (Anzeigepflicht) [UNGEPRÜFT — verifizieren]`

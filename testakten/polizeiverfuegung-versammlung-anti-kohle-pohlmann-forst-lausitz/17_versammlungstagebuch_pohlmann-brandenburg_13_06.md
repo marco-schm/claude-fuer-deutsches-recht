@@ -9,7 +9,7 @@
 
 **11:15 Uhr.** Eintreffen am Bahnhof Forst. Sammelpunkt klar markiert. Drei Ordner (Schulz-Pötke, Mautz, Krieger) sind anwesend, tragen rote Ordnerwesten. Polizei mit zwei Mannschaftswagen anwesend; freundliche Atmosphäre.
 
-**11:45 Uhr.** Schätzungsweise 480 Personen am Sammelpunkt; weitere strömen nach. Pressevertreter:innen anwesend: RBB, Lausitzer Rundschau, Sächsische Zeitung, freiwillige Stringer.
+**11:45 Uhr.** Schätzungsweise 480 Personen am Sammelpunkt; weitere strömen nach. Pressevertreter anwesend: RBB, Lausitzer Rundschau, Sächsische Zeitung, freiwillige Stringer.
 
 **12:02 Uhr.** Aufzug startet pünktlich. Spitze führt das Banner „Lausitz lebt" (4,80 m breit). Sprechchöre: „Lausitz lebt", „Brennende Lausitz". Tempo gemäßigt (3,5 km/h), Polizeibegleitung Linksverkehr. Linie 873 wird über Berliner Straße umgeleitet.
 
@@ -21,7 +21,7 @@
 
 **13:50 Uhr.** Rede Klaus-Dieter Werner-Tannenberg („Strukturwandel — aber wie?"). Beifall.
 
-**14:30 Uhr.** Performance „Lausitz weint Kohlentränen" beginnt. Sechs Performer:innen, Klangcollage, Spaten. **Keine Berührung des Marktplatz-Pflasters.** Polizeibeobachter Hauptkommissar Ammenwald nickt anerkennend.
+**14:30 Uhr.** Performance „Lausitz weint Kohlentränen" beginnt. Sechs Performer, Klangcollage, Spaten. **Keine Berührung des Marktplatz-Pflasters.** Polizeibeobachter Hauptkommissar Ammenwald nickt anerkennend.
 
 **15:40 Uhr.** Performance endet. Beifall. Erdsäcke werden ordnungsgemäß abtransportiert.
 

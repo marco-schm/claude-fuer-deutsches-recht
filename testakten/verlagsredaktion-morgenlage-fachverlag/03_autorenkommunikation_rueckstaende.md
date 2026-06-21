@@ -1,4 +1,4 @@
-# 03 Autor:innenkommunikation Rückstände
+# 03 Autorenkommunikation Rückstände
 
 ## Mailentwurf 1: Seidenpfennig
 
@@ -71,12 +71,12 @@ Datum:    Mo 01.06.2026, 11:22
 
 Liebe Frau Wendt, lieber Herr Krug,
 
-vielen Dank für die Übersendung der Update-Notizen am Sonntagabend. Wir wissen, dass die Klausurenkorrektur an der Bucerius gerade läuft, und werden den Kommentar nicht durch zusätzliche Diskussionen verzögern. Damit wir die Notizen für die Herausgeber:innenrunde am Mo 08.06. aufbereiten können, bitten wir um folgende Klarstellungen:
+vielen Dank für die Übersendung der Update-Notizen am Sonntagabend. Wir wissen, dass die Klausurenkorrektur an der Bucerius gerade läuft, und werden den Kommentar nicht durch zusätzliche Diskussionen verzögern. Damit wir die Notizen für die Herausgeberrunde am Mo 08.06. aufbereiten können, bitten wir um folgende Klarstellungen:
 
 1. Rechtsstandsdatum -- mit welchem Stichtag wurde das Update gefasst? (Vorschlag aus der Akte: 31.05.2026, bitte bestätigen).
 2. Randnummernzählung -- sollen die in der Notiz erwähnten Rn. 1, 4, 9, 12, 15 die bestehende Zählung der 7. Auflage ersetzen oder ergänzend eingearbeitet werden?
 3. Pinpoint-Fundstellen -- in Rn. 9 wird auf "Wandtke/Bullinger" verwiesen, ohne Auflage; bitte um die Auflage, mit der Sie gearbeitet haben.
-4. Abgrenzung Zeitschrift / Sammelband / Datenbank in Rn. 1 ist für die Verlagspraxis sehr interessant. Können Sie das im Kommentar selbst ausarbeiten, oder wollen Sie das einer der Hauptautor:innen überlassen?
+4. Abgrenzung Zeitschrift / Sammelband / Datenbank in Rn. 1 ist für die Verlagspraxis sehr interessant. Können Sie das im Kommentar selbst ausarbeiten, oder wollen Sie das einer der Hauptautoren überlassen?
 5. Korrektur Frau Wendt von Sonntag 21:14 ("bitte Rn. 12 ignorieren") -- bedeutet das vollständige Streichung oder Neufassung?
 
 Wir freuen uns über kurze Rückmeldung. Falls Punkte 3 oder 4 aus Zeitgründen erst nach den Klausurenkorrekturen möglich sind, sagen Sie das bitte einfach. Wir können dann in der Herausgeberrunde mit der Lücke arbeiten.
@@ -86,9 +86,9 @@ Marlena Klee
 
 ---
 
-## Status-Tabelle Autor:innenkorrespondenz Heft 7
+## Status-Tabelle Autorenkorrespondenz Heft 7
 
-| Autor:in | letzte Mail aus Redaktion | letzte Antwort | offene Punkte | Eskalationsstufe |
+| Autor | letzte Mail aus Redaktion | letzte Antwort | offene Punkte | Eskalationsstufe |
 | --- | --- | --- | --- | --- |
 | Seidenpfennig | 25.04.2026 (Kürzungswunsch v6) | 30.05.2026 (v7 eingegangen) | Kürzung, Fußnoten, IV.3-Quelle | 2 (zweites Schreiben fällig) |
 | Rabenau | 12.05.2026 (Bildrechte allgemein) | 30.05.2026 ("darf rein") | DAV-Genehmigung, Drittquelle | 1 (Erstanfrage konkret) |

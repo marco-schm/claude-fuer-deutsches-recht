@@ -1,6 +1,6 @@
 ---
 name: schoeffe-strafkammer-rolle-orientierung
-description: "Schöffe in der Strafkammer (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Rolle, Rechte, Pflichten, Fragerecht, Aktenkenntnis und richterliche Unabhängigkeit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Schöffe in der Strafkammer (Orientierung): hilft ehrenamtlichen Richtern bei Rolle, Rechte, Pflichten, Fragerecht, Aktenkenntnis und richterliche Unabhängigkeit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Schöffe in der Strafkammer: Orientierung

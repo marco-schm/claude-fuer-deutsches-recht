@@ -28,11 +28,11 @@ Das kernsanierte Gründerzeitbüro mit seinen hohen Decken und der historischen 
 
 Folgende Gruppen waren vertreten:
 
-- Mandantinnen und Mandanten aller drei Vorgängerkanzleien
+- Mandanten aller drei Vorgängerkanzleien
 - Vertreterinnen und Vertreter der RAK Aachen (Präsident, Hauptgeschäftsführer)
 - Notar Dr. Küppers und sein Büro
 - Steuerberater Prof. Dr. Kallenbrunner
-- Richterinnen und Richter des Arbeitsgerichts Aachen, Sozialgerichts Aachen und Finanzgerichts Köln (privat eingeladen)
+- Richter des Arbeitsgerichts Aachen, Sozialgerichts Aachen und Finanzgerichts Köln (privat eingeladen)
 - Lokalprominenz aus dem Aachener Anwaltsnetzwerk
 - Vertreterinnen und Vertreter der Lokalmedien (Aachener Zeitung, Aachener Nachrichten)
 
@@ -87,7 +87,7 @@ Die Gründung der EFS Rechtsanwaltsgesellschaft mbH ist erfolgreich abgeschlosse
 
 - Eine RAK-zugelassene Rechtsanwaltsgesellschaft mbH nach §§ 59c ff. BRAO
 - Drei eingetragene Fachanwälte mit je eigenem Fachgebiet
-- 12 übernommene Mitarbeiterinnen und Mitarbeiter aus drei Vorgängerkanzleien
+- 12 übernommene Mitarbeiter aus drei Vorgängerkanzleien
 - Eine moderne IT-Infrastruktur mit RA-Micro und beA-Integration
 - Eine Berufshaftpflichtversicherung weit über dem gesetzlichen Minimum
 - Eine starke Marktpositionierung als Dreierspezial-Kanzlei in Aachen

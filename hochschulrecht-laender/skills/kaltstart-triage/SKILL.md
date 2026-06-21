@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Startet Hochschulrecht für Universitäten, Hochschulen, Studierende, Lehrende, Kanzler, Präsidien und Rechtsabteilungen."
+description: "Startet Hochschulrecht für Universitäten, Hochschulen, Studenten, Lehrer, Kanzler, Präsidien und Rechtsabteilungen."
 ---
 
 # Allgemein
@@ -45,7 +45,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 
 ## Spezialfokus
 
-- **Konkreter Auftrag:** Startet Hochschulrecht für Universitäten, Hochschulen, Studierende, Lehrende, Kanzler, Präsidien und Rechtsabteilungen.
+- **Konkreter Auftrag:** Startet Hochschulrecht für Universitäten, Hochschulen, Studenten, Lehrer, Kanzler, Präsidien und Rechtsabteilungen.
 - **Erste Trennlinie:** Ist das Problem wirklich Allgemein, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
 - **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
 - **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
@@ -63,7 +63,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 - In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
 - Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
 - Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studierende, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
+- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
 - Welche Tatsachen sind belegt und welche werden nur behauptet?
 
 ## Arbeitslogik

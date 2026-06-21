@@ -104,7 +104,7 @@ Klagefrist-Ablauf (§ 4 KSchG / § 17 TzBfG): [Datum + 3 Wochen]
 Noch verbleibende Tage: [Anzahl]
 
 Nächster Schritt: [Klage einlegen / Schriftsatz erstellen / Mandant informieren]
-Verantwortliche Person: [Name Anwalt/-in]
+Verantwortliche Person: [Name Anwalt]
 Wiedervorlage: [Datum — 2 Tage vor Fristablauf als Sicherheitspolster]
 ```
 
@@ -112,7 +112,7 @@ Wiedervorlage: [Datum — 2 Tage vor Fristablauf als Sicherheitspolster]
 
 > „[Ort, Datum]
 >
-> Sehr geehrte/r [Mandant/in],
+> Sehr geehrte/r [Mandant],
 >
 > ich habe Ihre Unterlagen geprüft. Die Kündigung vom [Datum] leidet an einem Unwirksamkeitsgrund ([Fehler benennen]). Das bedeutet, dass die Kündigung voraussichtlich keine Rechtswirkung entfaltet.
 >
@@ -121,7 +121,7 @@ Wiedervorlage: [Datum — 2 Tage vor Fristablauf als Sicherheitspolster]
 > Bitte kontaktieren Sie mich so schnell wie möglich, um das weitere Vorgehen zu besprechen.
 >
 > Mit freundlichen Grüßen
-> [Anwalt/-in]"
+> [Anwalt]"
 
 ## Nächste Schritte — Matrix
 

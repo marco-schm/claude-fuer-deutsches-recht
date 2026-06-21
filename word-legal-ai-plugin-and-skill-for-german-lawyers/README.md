@@ -25,7 +25,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 (Technischer Plugin-Slug: `word-legal-ai-plugin-and-skill-for-german-lawyers`. Früherer Name bis v50.6.x: `juristisches-drafting`.)
 
-Generisches Drafting-Plugin für deutsche Anwältinnen, Anwälte und Wirtschaftsjuristen. Es trainiert die Erstellung juristischer Texte – Verträge, Klauseln, Schriftsätze, Anwaltsschreiben, Memos – mit Fokus auf **Struktur, Funktion und sprachliche Präzision**. Optimiert für die Arbeit in Microsoft Word und in Claude Cowork (Cloud).
+Generisches Drafting-Plugin für deutsche Anwälte und Wirtschaftsjuristen. Es trainiert die Erstellung juristischer Texte – Verträge, Klauseln, Schriftsätze, Anwaltsschreiben, Memos – mit Fokus auf **Struktur, Funktion und sprachliche Präzision**. Optimiert für die Arbeit in Microsoft Word und in Claude Cowork (Cloud).
 
 ## Zweck
 
@@ -38,7 +38,7 @@ Juristisches Drafting ist Handwerk. Es lebt von wiederkehrenden Mustern, saubere
 - **Word-Finish** pragmatisch prüfen, ohne Makro-, VBA- oder Automatisierungsballast,
 - **Redlines und Revisions-Workflows** in der Cloud sauber führen,
 - **Kanzleistil** bewusst kalibrieren: Großkanzlei, Boutique, Kleinkanzlei, Inhouse, Gericht, Behörde,
-- **englische und amerikanische Legal-Texte** schreiben, wenn deutsche Anwältinnen und Anwälte international arbeiten müssen, ohne deutsches Recht in Common-Law-Sprache zu verformen.
+- **englische und amerikanische Legal-Texte** schreiben, wenn deutsche Anwälte international arbeiten müssen, ohne deutsches Recht in Common-Law-Sprache zu verformen.
 
 Das Plugin enthält bewusst **keinen** Makro-, VBA- oder Word-Automatisierungs-Skill. Es soll beim Schreiben, Prüfen und Finalisieren helfen, nicht zur Office-Programmierung abbiegen.
 
@@ -173,7 +173,7 @@ Automatisch generierte Komplett-Liste aller 52 Skills in diesem Plugin. Beschrei
 | `bedingungen-aufschiebend` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Word Legal Ai Plugin And Skill For German Lawyers. |
 | `bedingungen-aufschiebend-aufloesend-fristen` | Konditionalstruktur in Vertraegen sauber bauen. § 158 BGB: aufschiebende Bedingung (Eintritt bei Eintritt) vs aufloesende Bedingung (Wegfall bei Eintritt). Potestativbedingung. Closing Conditions in M&A mit Signing/Closing-Logik. Long St... |
 | `bilingual-drafting-cowork-cloud` | Drafting deutsch-englischer Vertraege in Side-by-Side- oder Stacked-Layout. Bestimmt den Anwendungsfall (true bilingual, sovereign language, courtesy translation), waehlt das Layout (Tabelle zweispaltig oder gestapelte Saetze), klaert di... |
-| `bilinguales-writing-englische-vertraege` | Bilinguales Legal Writing für deutsche Anwältinnen und Anwälte: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Word Legal Ai Plugin And Skill For German Lawyers. |
+| `bilinguales-writing-englische-vertraege` | Bilinguales Legal Writing für deutsche Anwälte: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Word Legal Ai Plugin And Skill For German Lawyers. |
 | `boilerplate-klauseln-definitionen` | Katalog typischer Boilerplate-Klauseln im deutschen Wirtschaftsvertrag mit Wirksamkeitsanalyse und Mustertexten. Behandelt salvatorische Klausel (BGH-kritisch nach § 139 BGB), Schriftformklausel inklusive doppelter Schriftformklausel, Ge... |
 | `cowork-cloud-kollaboration-drafting` | Mandantengeheimnis-konformes Drafting in der Cloud (Claude Cowork; Office 365; Google Workspace). Rechtlicher Rahmen § 43a Abs. 2 BRAO; § 203 StGB; § 26 BORA und Art. 28 DSGVO. Auftragsverarbeitungsvertrag ist Voraussetzung. Sensible Dat... |
 | `defensive-drafting-deutscher-kanzleistil` | Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwoelf haeufigsten Fallen: kaschierte Haftungsfreistellung, verschobene Beweislast, einseitiger Gerichtsstand, unfaire Änderungsvorbehalte, kurze Verjährungsverkuerzung, Nach... |
@@ -203,7 +203,7 @@ Automatisch generierte Komplett-Liste aller 52 Skills in diesem Plugin. Beschrei
 | `orientierung-drafting-partner-kommentar` | Einstiegs- und Triage-Skill für juristisches Drafting. Klärt Dokumenttyp, Stadium, Adressat, Stilprofil, Sprachraum und Risiko, erstellt eine Mandatsmatrix und verweist auf die einschlägigen Fachmodulen word-legal-ai-plugin-and-skill-for... |
 | `partner-kommentar-umsetzen` | Setzt knappe Partnerkommentare und Randnotizen in echte Drafting-Schritte um. Übersetzt Hinweise wie bitte schärfen, zu lang, commercial, mehr Druck, weniger Gutachten, US counsel fragt, in eine Änderungsliste, priorisiert die Arbeit und... |
 | `revisions-prozess-ueberarbeiten-richterlesbar` | Markup-zwischen Parteien. Compare-Doc-Funktion erzeugt aus zwei Versionen ein Redline-Dokument. Konventionen: Einfügungen in Rot und unterstrichen; Streichungen in Rot und durchgestrichen; Kommentare am Rand. Versionierung v0 eigener Ers... |
-| `schriftsatz-ueberarbeiten-richterlesbar` | Überarbeitet Schriftsätze so, dass Richterinnen und Richter sie schnell erfassen können. Prüft Antrag, Streitgegenstand, Ergebnisüberschriften, Sachverhaltschronologie, Beweisangebote, Substantiierung, Anlagenverweise, Ton und Länge. Lie... |
+| `schriftsatz-ueberarbeiten-richterlesbar` | Überarbeitet Schriftsätze so, dass Richter sie schnell erfassen können. Prüft Antrag, Streitgegenstand, Ergebnisüberschriften, Sachverhaltschronologie, Beweisangebote, Substantiierung, Anlagenverweise, Ton und Länge. Lie... |
 | `stil-und-ton-juristische-texte` | Adressatengerechte Schreibhygiene für juristische Texte. Bestimmt Register und Ton je nach Adressat: Mandantenbrief klar und mit Empfehlung, Gegenseitenbrief kuehl und mit Frist, Schriftsatz urteilsstil und beweisbar, Memo gutachtenstil,... |
 | `term-sheet-vertragsstrafe-bgb` | Übersetzung eines Term Sheets oder Letter of Intent in einen ausgearbeiteten Vertrag. Identifiziert die typischen Term-Sheet-Punkte (Parteien Praeambel Leistung Verguetung Laufzeit Kuendigung Gewaehrleistung Haftung Geheimhaltung Recht G... |
 | `transparenzgebot-bgb-us-uk` | Drafting nach dem Transparenzgebot des § 307 I S. 2 BGB. Eine inhaltlich zulässige Klausel ist gleichwohl unwirksam, wenn sie nicht klar und verständlich ist. Maßstab ist der durchschnittliche Vertragspartner ohne Spezialwissen. Indizien... |

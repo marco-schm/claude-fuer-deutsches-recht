@@ -6,7 +6,7 @@ Dieser Megaprompt enthaelt top-15 von 58 Skills des Plugins `jurastudium`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Einstieg, Triage und Routing für Jurastudium (Klausur, AG, Examen): ordnet Rolle (Studierender, Repetitor, Korrektor), m…
+1. **einstieg-routing** — Einstieg, Triage und Routing für Jurastudium (Klausur, AG, Examen): ordnet Rolle (Studentenr, Repetitor, Korrektor), m…
 2. **studium-erstpruefung-und-mandatsziel** — Studium: Erstprüfung, Rollenklärung und Mandatsziel im Jurastudium.
 3. **ag-vorbereitung-examens-prognose** — AG-Vorbereitung und Cold-Call-Prep für Jurastudium: Anwendungsfall Student wird im naechsten Seminar oder Arbeitsgemeins…
 4. **anschluss-router** — Einstieg, Schnelltriage und Fallrouting im Jurastudium-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsc…
@@ -26,7 +26,7 @@ Dieser Megaprompt enthaelt top-15 von 58 Skills des Plugins `jurastudium`.
 
 ## Skill: `einstieg-routing`
 
-_Einstieg, Triage und Routing für Jurastudium (Klausur, AG, Examen): ordnet Rolle (Studierender, Repetitor, Korrektor), markiert Frist (Klausurzeit), wählt Norm (BGB, StGB, GG, ZPO/StPO/VwGO) und Zuständigkeit (Universität), leitet zum passenden Spezial-Skill._
+_Einstieg, Triage und Routing für Jurastudium (Klausur, AG, Examen): ordnet Rolle (Studentenr, Repetitor, Korrektor), markiert Frist (Klausurzeit), wählt Norm (BGB, StGB, GG, ZPO/StPO/VwGO) und Zuständigkeit (Universität), leitet zum passenden Spezial-Skill._
 
 # Einstieg und Routing
 
@@ -131,7 +131,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DRiG § 5a Studiendauer 9 Semester (Regelstudienzeit), Freischuss-Frist (i.d.R. 8 Semester nach JAG), Wiederholungsfrist, Hausarbeit 4-6 Wochen.
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Spezialwissen: Studium: Erstprüfung, Rollenklärung und Mandatsziel
@@ -166,7 +166,7 @@ _AG-Vorbereitung und Cold-Call-Prep für Jurastudium: Anwendungsfall Student wir
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DRiG § 5a Studiendauer 9 Semester (Regelstudienzeit), Freischuss-Frist (i.d.R. 8 Semester nach JAG), Wiederholungsfrist, Hausarbeit 4-6 Wochen.
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
@@ -310,7 +310,7 @@ _Einstieg, Schnelltriage und Fallrouting im Jurastudium-Plugin. Fragt Rolle, Zie
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DRiG § 5a Studiendauer 9 Semester (Regelstudienzeit), Freischuss-Frist (i.d.R. 8 Semester nach JAG), Wiederholungsfrist, Hausarbeit 4-6 Wochen.
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Schnellstart-Workflow
@@ -423,12 +423,12 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `lernsitzung` | Lernsitzung für Jurastudium interaktiv durchführen: Anwendungsfall Student will aktive Lernsitzung zu bestimmtem Thema absolvieren mit Erklärungen Uebungsaufgaben und sofortigem Feedback. Tatbestaende, Subsumtion,… |
 | `lernstrategien` | Lernstrategien für Jurastudium und Examensvorbereitung entwickeln: Anwendungsfall Student sucht effektive Lernmethoden für Examensvorbereitung und will Zeit und Energie optimal einsetzen. Examensvorbereitung 1. und 2.… |
 | `loesungsschemata` | Stellt klassische Lösungsschemata für die deutsche Juristenklausur bereit — Anspruchsprüfung, Verbrechensaufbau, Grundrechtsprüfung, Verhältnismäßigkeit, Klageart-Bestimmung, EBV, Bereicherung, GoA, c.i.c.,… |
-| `methodenlehre-grundlagen` | Übt die juristische Methodenlehre für Studierende — Auslegung nach Wortlaut/Systematik/Historie/Telos, Analogie, teleologische Reduktion, Auslegung gegen den Wortlaut, verfassungskonforme und unionsrechtskonforme… |
+| `methodenlehre-grundlagen` | Übt die juristische Methodenlehre für Studenten — Auslegung nach Wortlaut/Systematik/Historie/Telos, Analogie, teleologische Reduktion, Auslegung gegen den Wortlaut, verfassungskonforme und unionsrechtskonforme… |
 | `methodenlehre-öffentliches-recht` | Übt die öffentlich-rechtliche Methodenlehre — Schichtenprüfung bei Grundrechten, Verhältnismäßigkeit, Ermessen und Ermessensfehler, Verwaltungsaktqualität, prozessuale Methodik der Klagearten, unionsrechtskonforme… |
 | `methodenlehre-strafrecht` | Übt die strafrechtliche Methodenlehre — dreistufiger Verbrechensaufbau (Tatbestand, Rechtswidrigkeit, Schuld), Trennung objektiver/subjektiver Tatbestand, Konkurrenzlehre (Tateinheit § 52, Tatmehrheit § 53,… |
-| `methodenlehre-zivilrecht` | Übt die zivilrechtliche Methodenlehre für Studierende — Anspruchsgrundlagen-Schema, AGL-Reihenfolge (vertraglich, vertragsähnlich, dinglich, deliktisch, bereicherungsrechtlich), Konkurrenzen, Auslegung von… |
+| `methodenlehre-zivilrecht` | Übt die zivilrechtliche Methodenlehre für Studenten — Anspruchsgrundlagen-Schema, AGL-Reihenfolge (vertraglich, vertragsähnlich, dinglich, deliktisch, bereicherungsrechtlich), Konkurrenzen, Auslegung von… |
 | `pruefungsgespraech-ag` | Prüfungsgespraech und Sokrates-Methode in Arbeitsgemeinschaft simulieren: Anwendungsfall Student will AG-Diskussion oder Dozentengespraeach simulieren und Argumentation trainieren. Subsumtion, Lösungsschemata,… |
-| `rechtsgeschichte` | Übt deutsche und europäische Rechtsgeschichte für Studierende — römisches Recht und die BGB-Entstehung 1900, NS-Unrechtsjustiz und die Folgen der Radbruchschen Formel, SED-Unrecht und Mauerschützenprozesse, Entstehung… |
+| `rechtsgeschichte` | Übt deutsche und europäische Rechtsgeschichte für Studenten — römisches Recht und die BGB-Entstehung 1900, NS-Unrechtsjustiz und die Folgen der Radbruchschen Formel, SED-Unrecht und Mauerschützenprozesse, Entstehung… |
 | `subsumtionslehre` | Übt die Subsumtion als Königsdisziplin der deutschen Klausur — Trennung Obersatz/Definition/Subsumtion/Ergebnis, Tatbestandsmerkmal für Tatbestandsmerkmal, mit Pushback bei Subsumtionssprüngen, vorweggenommener… |
 | `tatbestaende-lernen` | Tatbestaende lernen für Jurastudium und Examensvorbereitung: Anwendungsfall Student muss Tatbestaende und Definitionen sicher beherrschen für Klausuren und Examen. Lösungsschemata Tatbestandsmerkmale BGB Strafrecht… |
 
@@ -575,7 +575,7 @@ _Examensprognose auf Basis bisheriger JPA-Klausuren und BMJV-Statistiken: Anwend
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DRiG § 5a Studiendauer 9 Semester (Regelstudienzeit), Freischuss-Frist (i.d.R. 8 Semester nach JAG), Wiederholungsfrist, Hausarbeit 4-6 Wochen.
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Eingaben
@@ -690,7 +690,7 @@ _Examensvorbereitungs-Fragen für 1. und 2. Staatsexamen erstellen: Anwendungsfa
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DRiG § 5a Studiendauer 9 Semester (Regelstudienzeit), Freischuss-Frist (i.d.R. 8 Semester nach JAG), Wiederholungsfrist, Hausarbeit 4-6 Wochen.
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
@@ -864,7 +864,7 @@ _Juristischen Fall zusammenfassen und strukturieren: Anwendungsfall Student oder
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DRiG § 5a Studiendauer 9 Semester (Regelstudienzeit), Freischuss-Frist (i.d.R. 8 Semester nach JAG), Wiederholungsfrist, Hausarbeit 4-6 Wochen.
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
@@ -1034,7 +1034,7 @@ _Gliederungs-Baukasten für juristische Hausarbeiten und Seminararbeiten: Anwend
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DRiG § 5a Studiendauer 9 Semester (Regelstudienzeit), Freischuss-Frist (i.d.R. 8 Semester nach JAG), Wiederholungsfrist, Hausarbeit 4-6 Wochen.
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Eingaben
@@ -1088,11 +1088,11 @@ Das Gerüst entsteht aus dem einschlägigen Pflichtstoffkatalog und dem Inhaltsv
 
 ### Schritt 3: Inhalte aus Quellen — nicht aus meinem Wissen
 
-**Wenn der Studierende Quellen einfügt** (Skript-Abschnitt, Notizen, Kommentarauszug): Regel und Definition aus dem bereitgestellten Text extrahieren und in das Gerüst integrieren. Das ist kein Schreiben für den Studierenden, sondern Formatierung des Bereitgestellten.
+**Wenn der Studenten Quellen einfügt** (Skript-Abschnitt, Notizen, Kommentarauszug): Regel und Definition aus dem bereitgestellten Text extrahieren und in das Gerüst integrieren. Das ist kein Schreiben für den Studentenn, sondern Formatierung des Bereitgestellten.
 
-**Wenn der Studierende keine Quelle liefert**: Gerüst mit Platzhalter belassen + Maieut-Fragen stellen (z. B. "Was hat der Professor zu § 119 BGB gesagt?", "Welche Fallgruppe nennt das Skript hier?"). Falls der Studierende ausdrücklich eine vorläufige Ausfüllung wünscht, kann ein Lehrbuch-Mehrheitsmeinung eingetragen werden — jede solche Angabe erhält `[PRÜFEN: gegen Skript / Kommentar abgleichen]`.
+**Wenn der Studenten keine Quelle liefert**: Gerüst mit Platzhalter belassen + Maieut-Fragen stellen (z. B. "Was hat der Professor zu § 119 BGB gesagt?", "Welche Fallgruppe nennt das Skript hier?"). Falls der Studenten ausdrücklich eine vorläufige Ausfüllung wünscht, kann ein Lehrbuch-Mehrheitsmeinung eingetragen werden — jede solche Angabe erhält `[PRÜFEN: gegen Skript / Kommentar abgleichen]`.
 
-**Regelwiderspruch in eigenen Materialien**: Wenn die vom Studierenden genannte Regel dem widerspricht, was in einer früher hochgeladenen Quelle steht:
+**Regelwiderspruch in eigenen Materialien**: Wenn die vom Studentenn genannte Regel dem widerspricht, was in einer früher hochgeladenen Quelle steht:
 
 > "Das weicht von Ihrer Notiz bei [Abschnitt/Quelle] ab — dort steht: [wörtliches Zitat]. Welche Fassung ist die zutreffende?"
 
@@ -1181,7 +1181,7 @@ D. Rücktritt (§§ 323 ff. BGB) [LÜCKE]
 
 ## Quellenpflicht
 
-Jede Regelaussage, die in das Gerüst aus meinem Wissen eingetragen wird (nicht aus einer vom Studierenden bereitgestellten Quelle), trägt `[PRÜFEN]`. Vor dem Lernen aus der Struktur: jede solche Stelle gegen das aktuell verwendete Skript oder einen anerkannten Kommentar abgleichen. Falsch eingeübte Strukturen sind in der Klausur schwer zu korrigieren.
+Jede Regelaussage, die in das Gerüst aus meinem Wissen eingetragen wird (nicht aus einer vom Studentenn bereitgestellten Quelle), trägt `[PRÜFEN]`. Vor dem Lernen aus der Struktur: jede solche Stelle gegen das aktuell verwendete Skript oder einen anerkannten Kommentar abgleichen. Falsch eingeübte Strukturen sind in der Klausur schwer zu korrigieren.
 
 Hinweis: Diese Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
@@ -1198,13 +1198,13 @@ _Gutachten Uebung für Jurastudium und Examensvorbereitung: Anwendungsfall Stude
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DRiG § 5a Studiendauer 9 Semester (Regelstudienzeit), Freischuss-Frist (i.d.R. 8 Semester nach JAG), Wiederholungsfrist, Hausarbeit 4-6 Wochen.
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Eingaben
 
 - **Sachverhalt** (eigener Übungssachverhalt oder skill-generierter Klausurfall)
-- **Lösung des Studierenden** (als Text einfügen)
+- **Lösung des Studentenn** (als Text einfügen)
 - **Rechtsgebiet** (BGB AT, Schuldrecht, Sachenrecht, StGB AT/BT, VerwR, Öffentliches Recht etc.)
 - **Prüfungsformat** (Erste Prüfung / Zweite Staatsprüfung / Hausarbeit / Seminararbeit)
 - Optional: **Schwerpunktprobleme** (z. B. "Schwerpunkt: Kausalität im Deliktsrecht")
@@ -1256,7 +1256,7 @@ Für jeden Anspruch / jede Strafbarkeit / jede Verwaltungsrechtsfrage:
 **c) Subsumtion**
 - Werden die Definitionen auf den konkreten Sachverhalt angewendet?
 - Gibt es tatsächliche Subsumtion (Sachverhaltsmerkmale werden unter die Definitionsmerkmale subsumiert) — oder nur eine Parallelreihung ohne Verknüpfung?
-- Kernfrage: Erklärt der Studierende, *warum* ein Merkmal (nicht) erfüllt ist?
+- Kernfrage: Erklärt der Studenten, *warum* ein Merkmal (nicht) erfüllt ist?
 
 **d) Ergebnis**
 - Klares Zwischenergebnis nach jeder Anspruchsgrundlage
@@ -1339,7 +1339,7 @@ Nach 3+ Sitzungen: Fehlermuster benennen:
 
 **Erwartete Prüfungspunkte:** § 604 BGB (Leihvertrag — Herausgabeanspruch), § 280 Abs. 1 BGB i.V.m. § 604 BGB (Schadensersatz wegen Pflichtverletzung durch Weiterbenutzung nach Fälligkeit), § 987 BGB (Nutzungsersatz — Eigentumsrecht als Anspruchsgrundlage gegenüber unrechtmäßigem Besitzer).
 
-Typischer Defizit-Befund: Studierende nennen § 985 BGB (Eigentumsherausgabe) vor § 604 BGB — falsche Reihenfolge (vertragliche Ansprüche gehen vor). Subsumtion bei § 280 Abs. 1 BGB: "B hat die Pflichtverletzung begangen" ohne Darlegung, welche Vertragspflicht verletzt wurde und dass Fälligkeit eingetreten ist.
+Typischer Defizit-Befund: Studenten nennen § 985 BGB (Eigentumsherausgabe) vor § 604 BGB — falsche Reihenfolge (vertragliche Ansprüche gehen vor). Subsumtion bei § 280 Abs. 1 BGB: "B hat die Pflichtverletzung begangen" ohne Darlegung, welche Vertragspflicht verletzt wurde und dass Fälligkeit eingetreten ist.
 
 ## Risiken und typische Fehler
 
@@ -1510,7 +1510,7 @@ _Karteikarten für Jurastudium und Examensvorbereitung erstellen: Anwendungsfall
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DRiG § 5a Studiendauer 9 Semester (Regelstudienzeit), Freischuss-Frist (i.d.R. 8 Semester nach JAG), Wiederholungsfrist, Hausarbeit 4-6 Wochen.
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Eingaben
@@ -1644,7 +1644,7 @@ _Erstellt oder aktualisiert einen strukturierten Lernplan für das Erste Staatse
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DRiG § 5a Studiendauer 9 Semester (Regelstudienzeit), Freischuss-Frist (i.d.R. 8 Semester nach JAG), Wiederholungsfrist, Hausarbeit 4-6 Wochen.
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Eingaben
@@ -1715,7 +1715,7 @@ Nicht alle Fragen auf einmal. Eine stellen, Antwort abwarten, dann nächste.
  Diesen Schritt nie überspringen — auch wenn bereits eine Stundenzahl im Profil steht.
 
 - **Ruhetage**: Mindestens ein Ruhetag pro Woche. Ohne Ausnahme empfehlen.
-- **Lernmethoden**: Mehrauswahl. Skripten lesen / Karteikarten / Klausuren schreiben / Drillsitzungen / Wiederholung mit Lerngruppe. Den Stundenplan nach dem ausrichten, was der Studierende tatsächlich durchhält.
+- **Lernmethoden**: Mehrauswahl. Skripten lesen / Karteikarten / Klausuren schreiben / Drillsitzungen / Wiederholung mit Lerngruppe. Den Stundenplan nach dem ausrichten, was der Studenten tatsächlich durchhält.
 
 ### Schritt 2.5: Repetitorium — Ergänzung oder Ersatz?
 
@@ -1834,7 +1834,7 @@ Antwort abwarten. Dann speichern.
 Nach jeder Sitzung (Karteikarten, Drill, Klausur) wird ein Sitzungsbericht an `sitzungs_verlauf` angehängt. Beim nächsten `--aktualisieren`-Aufruf:
 - Schwache Rechtsgebiete (niedrige Ergebnisse in 2+ Sitzungen) werden in Priorität und Stunden hochgestuft
 - Geplante, aber nicht absolvierte Einheiten: entweder nachgebucht oder als Lücke markiert
-- Wenn der Studierende im Rückstand liegt: Pensum anpassen oder Lücke dokumentieren
+- Wenn der Studenten im Rückstand liegt: Pensum anpassen oder Lücke dokumentieren
 
 ## Modi
 
@@ -1851,7 +1851,7 @@ Nach jeder Sitzung (Karteikarten, Drill, Klausur) wird ein Sitzungsbericht an `s
 
 ## Risiken und typische Fehler
 
-- **Zu ambitioniöse Stundenzahl**: Ein Plan mit 50 Stunden pro Woche, den ein vollzeitberufstätiger Studierender aufgestellt hat, bricht in Woche 2. Besser 25 ehrliche Stunden als 50 geplante.
+- **Zu ambitioniöse Stundenzahl**: Ein Plan mit 50 Stunden pro Woche, den ein vollzeitberufstätiger Studentenr aufgestellt hat, bricht in Woche 2. Besser 25 ehrliche Stunden als 50 geplante.
 - **Kein Repetitoriums-Abgleich**: Wer parallel Repetitorium und eigenem Plan folgt, verbringt Zeit in zwei Vollcurricula. Eines als primär wählen.
 - **Ruhetage weglassen**: Pläne ohne Ruhetage haben eine Halbwertszeit von zwei Wochen.
 - **Sitzungsergebnisse nicht einpflegen**: Der Plan ist nur so gut wie das Feedback, das er bekommt. Sitzungsberichte müssen regelmäßig angehängt werden.
@@ -1882,7 +1882,7 @@ _Lernsitzung für Jurastudium interaktiv durchführen: Anwendungsfall Student wi
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DRiG § 5a Studiendauer 9 Semester (Regelstudienzeit), Freischuss-Frist (i.d.R. 8 Semester nach JAG), Wiederholungsfrist, Hausarbeit 4-6 Wochen.
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Eingaben
@@ -2001,7 +2001,7 @@ _Lernstrategien für Jurastudium und Examensvorbereitung entwickeln: Anwendungsf
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DRiG § 5a Studiendauer 9 Semester (Regelstudienzeit), Freischuss-Frist (i.d.R. 8 Semester nach JAG), Wiederholungsfrist, Hausarbeit 4-6 Wochen.
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
@@ -2102,7 +2102,7 @@ _Lernstrategien für Jurastudium und Examensvorbereitung entwickeln: Anwendungsf
 ## Was diese Skill nicht tut
 
 - Sie schreibt keinen fertigen Lernplan (das macht `lernplan`).
-- Sie gibt keine pauschale "so musst du lernen"-Antwort. Sie nennt Strategien, der Studierende wählt.
+- Sie gibt keine pauschale "so musst du lernen"-Antwort. Sie nennt Strategien, der Studenten wählt.
 - Sie ist keine Motivationsberatung. Wer kein Examen schreiben will, lernt nicht effektiver, weil ein Plugin Ratschläge gibt.
 
 ---
@@ -2118,7 +2118,7 @@ _Stellt klassische Lösungsschemata für die deutsche Juristenklausur bereit —
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DRiG § 5a Studiendauer 9 Semester (Regelstudienzeit), Freischuss-Frist (i.d.R. 8 Semester nach JAG), Wiederholungsfrist, Hausarbeit 4-6 Wochen.
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
@@ -2141,8 +2141,8 @@ _Stellt klassische Lösungsschemata für die deutsche Juristenklausur bereit —
 **Schemata sind nicht das Gesetz, nicht die Lehre und nicht das Examen. Sie sind didaktische Krücken — manchmal sehr gute, manchmal irreführende.**
 
 Die ehrliche Lage:
-- Die ausgezeichneten Studierenden brauchen keine Schemata. Sie haben die innere Struktur verstanden und arbeiten direkt aus dem Gesetz.
-- Für viele andere — auch sehr ordentliche Studierende — sind Schemata ein **Verständniskatalysator**. Wer mit einem Schema im Kopf einsteigt, fragt sich beim Lesen des Sachverhalts: "An welchem Punkt bin ich jetzt im Schema?" Das gibt Halt und Reihenfolge.
+- Die ausgezeichneten Studentenn brauchen keine Schemata. Sie haben die innere Struktur verstanden und arbeiten direkt aus dem Gesetz.
+- Für viele andere — auch sehr ordentliche Studenten — sind Schemata ein **Verständniskatalysator**. Wer mit einem Schema im Kopf einsteigt, fragt sich beim Lesen des Sachverhalts: "An welchem Punkt bin ich jetzt im Schema?" Das gibt Halt und Reihenfolge.
 - Wer die innere Begründung kennt und das Schema dann als Stütze nutzt, ist gut bedient. Wer Schemata abspult, **ohne** zu verstehen warum, schreibt mediokere Klausuren.
 - **Whatever works**: Wenn ein Schema dir hilft, die nächste Klausur zu schreiben — nimm es. Wenn du es nicht brauchst — auch gut.
 
@@ -2270,7 +2270,7 @@ Die Skill stellt das Schema bereit, **erklärt aber jeden Schritt** mit der dogm
 > Frage: "Warum prüft man bei § 985 BGB drei Voraussetzungen?"
 > Antwort der Skill: "Weil die Norm den Anspruch des **Eigentümers** gegen den **Besitzer** auf Herausgabe regelt, **wenn** der Besitzer kein Recht zum Besitz hat. Die drei Schritte sind keine Konvention, sondern direkt der Wortlaut."
 
-Im Drill-Modus stellt die Skill Schritt-für-Schritt-Fragen, die der Studierende erst aus dem Gesetz beantwortet, dann mit dem Schema abgleicht.
+Im Drill-Modus stellt die Skill Schritt-für-Schritt-Fragen, die der Studenten erst aus dem Gesetz beantwortet, dann mit dem Schema abgleicht.
 
 ## Was diese Skill nicht tut
 

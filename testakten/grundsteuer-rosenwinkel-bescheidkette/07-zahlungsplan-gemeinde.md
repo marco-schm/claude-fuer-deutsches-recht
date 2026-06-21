@@ -38,7 +38,7 @@ Die Stadt Trier hat nach derzeitiger Aktenlage den Messbetrag rechnerisch übern
 
 Wir schlagen vor, parallel zum Einspruch beim FA Trier einen **Stundungs- und Ratenzahlungsantrag** bei der Stadtkasse Trier zu stellen. Begründung:
 
-- Liquiditätsengpass einzelner Eigentümer:innen (Frau Berisha arbeitslos seit 02/2026, ihre MEA-Hausgeldzahlungen sind im Rückstand).
+- Liquiditätsengpass einzelner Eigentümer (Frau Berisha arbeitslos seit 02/2026, ihre MEA-Hausgeldzahlungen sind im Rückstand).
 - Bewertungsgrundlage angegriffen (Antrag § 222 BewG beim FA), Erfolgsaussichten nicht von vornherein aussichtslos.
 - Stundungszinsen (1,5 % pro Monat = 18 % p. a., § 234 AO) sind im Vergleich zur Liquiditätssicherung tragbar.
 
@@ -104,7 +104,7 @@ Sehr geehrte Damen und Herren,
 
 namens der WEG Rosenwinkel 14/16 (Kassenzeichen 7008-4419-RO14) beantragen wir die **Stundung der zweiten Quartalsrate der Grundsteuer 2026** in Höhe von 4.871,60 EUR (Fälligkeit 15.05.2026) bis zur Entscheidung des Finanzamts Trier über den parallel anhängigen Antrag auf fehlerberichtigende Fortschreibung des Grundsteuerwerts (eingereicht am [Datum]).
 
-Begründung: Die Bewertungsgrundlage des städtischen Bescheids ist beim Finanzamt Trier wegen erheblicher Flächen-, Nutzungs- und Bodenrichtwert-Fehler im Änderungsverfahren. Die Erfolgsaussichten sind nach unserer Bewertung nicht von vornherein aussichtslos. Ein Liquiditätsengpass einzelner Eigentümer:innen verstärkt die Begründung.
+Begründung: Die Bewertungsgrundlage des städtischen Bescheids ist beim Finanzamt Trier wegen erheblicher Flächen-, Nutzungs- und Bodenrichtwert-Fehler im Änderungsverfahren. Die Erfolgsaussichten sind nach unserer Bewertung nicht von vornherein aussichtslos. Ein Liquiditätsengpass einzelner Eigentümer verstärkt die Begründung.
 
 Wir bieten Sicherheitsleistung über eine Bankbürgschaft der Sparkasse Trier in Höhe der gestundeten Beträge an.
 

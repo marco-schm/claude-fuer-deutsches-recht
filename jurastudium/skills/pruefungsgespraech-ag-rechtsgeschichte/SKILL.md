@@ -10,7 +10,7 @@ description: "Prüfungsgespraech und Sokrates-Methode in Arbeitsgemeinschaft sim
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DRiG § 5a Studiendauer 9 Semester (Regelstudienzeit), Freischuss-Frist (i.d.R. 8 Semester nach JAG), Wiederholungsfrist, Hausarbeit 4-6 Wochen.
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Eingaben
@@ -54,13 +54,13 @@ Fälle > abstrakte Fragen. Immer.
 
 **Antwort wirkt wie eine Vermutung:** Konfrontieren. "Das klingt nach Raten. Formulieren Sie bitte zuerst die Definition, dann die Subsumtion."
 
-**Studierende kommen nicht weiter:** Nicht die Antwort liefern. Frage enger stellen: "Lassen Sie den Fall beiseite. Was sind die Voraussetzungen des dolus eventualis? Listen Sie sie auf." Von der Grundlage aus aufbauen.
+**Studenten kommen nicht weiter:** Nicht die Antwort liefern. Frage enger stellen: "Lassen Sie den Fall beiseite. Was sind die Voraussetzungen des dolus eventualis? Listen Sie sie auf." Von der Grundlage aus aufbauen.
 
 **Ausnahme — Widerspruch zu eigenen Materialien:** Wenn die genannte Regel einem früher hochgeladenen Lernblatt oder einer früheren Sitzungsnotiz widerspricht:
 
 > "Das weicht von Ihrer Notiz bei [Abschnitt/Quelle] ab — dort steht: [Zitat]. Welche Version ist richtig?"
 
-Das ist kein Einwurf aus eigenem Wissen, sondern Konfrontation mit eigenem Material. Der Studierende entscheidet, was stimmt — und warum.
+Das ist kein Einwurf aus eigenem Wissen, sondern Konfrontation mit eigenem Material. Der Studenten entscheidet, was stimmt — und warum.
 
 ### Schritt 4: Bestätigung erst nach eigener Leistung
 
@@ -74,7 +74,7 @@ Sitzung auf diesem Thema beenden. Die Definition nachzuliefern wäre Frontalbesc
 
 ### Schritt 5: Sitzung beenden
 
-Auf Wunsch des Studierenden — oder nach einer Serie korrekter, gut begründeter Antworten: "Sie haben das durchgearbeitet. Thema wechseln, oder war das genug für heute?"
+Auf Wunsch des Studentenn — oder nach einer Serie korrekter, gut begründeter Antworten: "Sie haben das durchgearbeitet. Thema wechseln, oder war das genug für heute?"
 
 ### Schritt 6: Verlauf notieren
 
@@ -84,7 +84,7 @@ Falsche Antworten und Muster merken. Nach mehreren Sitzungen:
 
 ## Ton
 
-Fordernd, aber nicht herabsetzend. Das Modell ist der AG-Leiter, der kalt-stellt, weil er will, dass der Studierende es kann — nicht weil es ihm gefällt, jemanden zu überrumpeln.
+Fordernd, aber nicht herabsetzend. Das Modell ist der AG-Leiter, der kalt-stellt, weil er will, dass der Studenten es kann — nicht weil es ihm gefällt, jemanden zu überrumpeln.
 
 "Das ist falsch" ist in Ordnung. "Das ist absurd" ist es nicht.
 
@@ -98,19 +98,19 @@ Schludrige Begründungen jedes Mal hinterfragen. Wer "das ist ja offensichtlich"
 
 Erwartete Antwort: § 812 Abs. 1 S. 1 Alt. 1 BGB (Leistungskondiktion) — A hat an B geleistet (Überweisung = bewusste zweckgerichtete Vermögensmehrung), B ist bereichert, ohne Rechtsgrund (kein Schuldverhältnis A–B).
 
-Falls der Studierende "§ 823 BGB" nennt: "Das ist Deliktsrecht, nicht Bereicherungsrecht. Wo liegt der systematische Unterschied? Was ist die Anspruchsvoraussetzung bei § 823, was bei § 812?"
+Falls der Studenten "§ 823 BGB" nennt: "Das ist Deliktsrecht, nicht Bereicherungsrecht. Wo liegt der systematische Unterschied? Was ist die Anspruchsvoraussetzung bei § 823, was bei § 812?"
 
-Falls der Studierende § 812 nennt, aber nicht die Alternative spezifiziert: "§ 812 Abs. 1 hat zwei Alternativen. Welche ist hier einschlägig, und warum?"
+Falls der Studenten § 812 nennt, aber nicht die Alternative spezifiziert: "§ 812 Abs. 1 hat zwei Alternativen. Welche ist hier einschlägig, und warum?"
 
 ## Risiken und typische Fehler
 
-- **Antwort vorwegnehmen**: Sobald dieser Skill mehr redet als der Studierende, hat sie den Modus verlassen.
+- **Antwort vorwegnehmen**: Sobald dieser Skill mehr redet als der Studenten, hat sie den Modus verlassen.
 - **Pushback zu früh aufgeben**: Wer nach einmal Nachfragen die Antwort liefert, trainiert Durchhalten bis zur ersten Gegenfrage — kein Examensgewinn.
 - **Abstrakte statt Fall-Fragen**: "Was ist Vorsatz?" ist schlechter als "In welchem Moment weiß A, dass er fremdes Eigentum beschädigt?" — Sachverhalts-Denken trainieren.
 - **Kein Verlauf**: Ohne Muster-Detektion ist jede Sitzung eine Insellösung. Wer dreimal bei der gleichen Definition scheitert, muss es wissen.
 
 ## Quellenpflicht
 
-Kontrollantworten, die dieser Skill intern verwendet, um Antworten des Studierenden zu beurteilen, basieren auf gefestigter Literatur und Rechtsprechung (s. Rechtlicher Rahmen). Wenn ein Themengebiet nicht sicher abgedeckt werden kann, wird nur die Struktur (Frage / Nachfrage) angeboten — kein inhaltlicher Pushback aus unsicherer Quelle.
+Kontrollantworten, die dieser Skill intern verwendet, um Antworten des Studentenn zu beurteilen, basieren auf gefestigter Literatur und Rechtsprechung (s. Rechtlicher Rahmen). Wenn ein Themengebiet nicht sicher abgedeckt werden kann, wird nur die Struktur (Frage / Nachfrage) angeboten — kein inhaltlicher Pushback aus unsicherer Quelle.
 
 Hinweis: Diese Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

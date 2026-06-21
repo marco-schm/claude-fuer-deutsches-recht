@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-tagessaetze-und-nebenfolgen
-description: "Strafbefehl: Tagessätze, Nebenfolgen und Einspruchsrisiko: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Strafbefehl: Tagessätze, Nebenfolgen und Einspruchsrisiko: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Strafbefehl: Tagessätze, Nebenfolgen und Einspruchsrisiko

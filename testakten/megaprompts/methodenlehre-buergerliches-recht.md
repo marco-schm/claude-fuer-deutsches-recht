@@ -6,7 +6,7 @@ Dieser Megaprompt enthaelt top-8 von 158 Skills (gekuerzt fuer Chat-Fenster) des
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Einstieg, Triage und Routing für Methodenlehre Bürgerliches Recht: ordnet Rolle (Studierender, Anwalt, Richter), markier…
+1. **einstieg-routing** — Einstieg, Triage und Routing für Methodenlehre Bürgerliches Recht: ordnet Rolle (Studentenr, Anwalt, Richter), markier…
 2. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Methodenlehre Buergerliches Recht-Plugin. Fragt Rolle, Ziel, Fristen, Unterla…
 3. **spezial-methodenlehre-erstpruefung-und-mandatsziel** — Methodenlehre: Erstprüfung, Rollenklärung und Mandatsziel im Plugin methodenlehre buergerliches recht; schärft Rollen, B…
 4. **methodenlehre-erstpruefung-und-mandatsziel** — Dieses Skill leitet die methodische Erstprüfung eines neuen Mandats an und hilft, das Mandatsziel präzise zu definieren:…
@@ -19,7 +19,7 @@ Dieser Megaprompt enthaelt top-8 von 158 Skills (gekuerzt fuer Chat-Fenster) des
 
 ## Skill: `einstieg-routing`
 
-_Einstieg, Triage und Routing für Methodenlehre Bürgerliches Recht: ordnet Rolle (Studierender, Anwalt, Richter), markiert Frist (keine harten Fristen), wählt Norm (BGB, Art. 20 III GG (Auslegung)) und Zuständigkeit (zuständige Stelle), leitet zum passenden Spezial-Skill._
+_Einstieg, Triage und Routing für Methodenlehre Bürgerliches Recht: ordnet Rolle (Studentenr, Anwalt, Richter), markiert Frist (keine harten Fristen), wählt Norm (BGB, Art. 20 III GG (Auslegung)) und Zuständigkeit (zuständige Stelle), leitet zum passenden Spezial-Skill._
 
 # Einstieg und Routing
 

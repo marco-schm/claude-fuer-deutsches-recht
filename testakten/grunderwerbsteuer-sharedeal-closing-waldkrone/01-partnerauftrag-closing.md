@@ -8,7 +8,7 @@
 **Mandantsnummer:** AKB 2025-1144 / Waldkrone
 **Vertraulichkeit:** Mandantenintern; nicht in Standard-Newsletter
 
-Liebe Kolleginnen und Kollegen,
+Liebe Kollegen,
 
 wir brauchen bitte kurzfristig eine belastbare steuerrechtliche Einschätzung zu Projekt **Waldkrone**. Der Mandant (Silver Harbour Capital plc, Dublin) hat die Frage über das Inhouse-Team an uns weitergereicht; CFO Sarah Killeen und General Counsel Niall Brennan erwarten morgen, 13.05.2026, 10:30 Uhr eine kurze Telko-Notiz.
 

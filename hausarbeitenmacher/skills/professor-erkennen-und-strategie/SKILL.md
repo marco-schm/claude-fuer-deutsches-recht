@@ -10,7 +10,7 @@ description: "Student fragt sich ob er der Lehrmeinung des Professors folgen sol
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Hausarbeitsfrist i.d.R. 4-6 Wochen, kein Abgabeaufschub, JAG-Wiederholung pro Klausur, Promotionsverfahren landesrechtlich.
 - Tragende Normen verifizieren: JAG/JAPO Land (Pflicht-Hausarbeit), HRG, Studien-/Prüfungsordnung, GG Art. 5 Abs. 3, UrhG §§ 51, 51a (Zitatrecht), Promotionsordnung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Korrektor (Lehrstuhl/Justizprüfungsamt), Bibliothek, juris/Beck-Online (Recherche), Plagiats-Software.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Korrektor (Lehrstuhl/Justizprüfungsamt), Bibliothek, juris/Beck-Online (Recherche), Plagiats-Software.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gutachten-Hausarbeit, Sachverhalt, Lösungsskizze, Literaturverzeichnis, Plagiatsbericht, Korrekturanmerkungen, Notenbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
@@ -25,11 +25,11 @@ description: "Student fragt sich ob er der Lehrmeinung des Professors folgen sol
 ## Zentrale Normen
 - Art. 5 Abs. 3 GG — Wissenschaftsfreiheit: eigene wissenschaftliche Position ist geschuetzt und erwuenscht
 - § 1 Abs. 1 BRAO — Anwaltliche Unabhaengigkeit als Berufsziel: wird im Studium durch eigenstaendiges Denken vorbereitet
-- § 43a Abs. 1 BRAO — Unabhaengigkeit und Eigenverantwortlichkeit: Studierende ueben diese Haltung
+- § 43a Abs. 1 BRAO — Unabhaengigkeit und Eigenverantwortlichkeit: Studenten ueben diese Haltung
 
 ## Schritt 1 — Die Fangfrage
 
-Das Plugin stellt Dir freundlich eine Frage, die viele Studierende erst hinterher ernst nehmen:
+Das Plugin stellt Dir freundlich eine Frage, die viele Studenten erst hinterher ernst nehmen:
 
 > "Eine kleine, scheinbar harmlose Frage zum Anfang: **Von welchem Lehrstuhl stammt die Hausarbeit?** Wer hat die Aufgabe gestellt — welche Professorin, welcher Professor? Und ist es eine Hausarbeit (wird vermutlich der Korrekturassistent lesen) oder eine Seminararbeit (wird die Lehrkraft sehr wahrscheinlich selbst lesen)?"
 
@@ -116,7 +116,7 @@ Du darfst hier ehrlich antworten. "Ja" ist nicht verboten. Aber das Plugin antwo
 ### Bei Hausarbeit
 
 - Es liest mit hoher Wahrscheinlichkeit ein **Korrekturassistent oder eine Korrekturassistentin**.
-- Diese Personen sind oft Doktoranden am Lehrstuhl oder Wissenschaftliche Mitarbeitende.
+- Diese Personen sind oft Doktoranden am Lehrstuhl oder Wissenschaftliche Mitarbeiter.
 - Sie kennen die Auffassung des Lehrstuhls in der Regel.
 - Sie sind häufig **kritischer** als die Lehrkraft selbst, weil sie ihre eigene Position beweisen wollen.
 - Empfehlung: Sauber arbeiten, alle Streit-Stände korrekt darstellen, **eigenständige Begründung**.
@@ -156,7 +156,7 @@ Bei anonymer Aufgabe gilt: **Saubere Lösung nach allgemeinen Regeln**. Dann lie
 
 ## Schritt 8 — Eine kleine Erinnerung
 
-Das Schönste, was Du als Studierende oder Studierender machen kannst, ist:
+Das Schönste, was Du als Studenten oder Studentenr machen kannst, ist:
 
 **Eine Arbeit schreiben, die die Lehrkraft am Ende beeindruckt, gerade weil Du gegen sie argumentiert hast — aber mit so guten Argumenten, dass sie es Dir nicht übel nimmt, sondern respektiert.**
 

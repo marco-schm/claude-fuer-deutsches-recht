@@ -10,7 +10,7 @@ Analyse der kollegialen Pflichten und ihrer Verletzung im Mandatskontext
 
 > (1) Rechtsanwältinnen und Rechtsanwälte begegnen einander kollegial. Die freie und unabhängige Berufsausübung verpflichtet auch im Verhältnis zu anderen Rechtsanwältinnen und Rechtsanwälten zu Fairness und Respekt.
 >
-> (2) Rechtsanwältinnen und Rechtsanwälte dürfen in der Kommunikation mit Kolleginnen und Kollegen keine Mittel einsetzen, die geeignet sind, das Vertrauen in die gemeinsame Berufsausübung zu untergraben.
+> (2) Rechtsanwältinnen und Rechtsanwälte dürfen in der Kommunikation mit Kollegen keine Mittel einsetzen, die geeignet sind, das Vertrauen in die gemeinsame Berufsausübung zu untergraben.
 
 Quelle: [dejure.org — BORA](https://dejure.org/gesetze/BORA)
 

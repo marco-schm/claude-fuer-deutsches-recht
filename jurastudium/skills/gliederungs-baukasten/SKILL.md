@@ -10,7 +10,7 @@ description: "Gliederungs-Baukasten für juristische Hausarbeiten und Seminararb
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DRiG § 5a Studiendauer 9 Semester (Regelstudienzeit), Freischuss-Frist (i.d.R. 8 Semester nach JAG), Wiederholungsfrist, Hausarbeit 4-6 Wochen.
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Eingaben
@@ -64,11 +64,11 @@ Das Gerüst entsteht aus dem einschlägigen Pflichtstoffkatalog und dem Inhaltsv
 
 ### Schritt 3: Inhalte aus Quellen — nicht aus meinem Wissen
 
-**Wenn der Studierende Quellen einfügt** (Skript-Abschnitt, Notizen, Kommentarauszug): Regel und Definition aus dem bereitgestellten Text extrahieren und in das Gerüst integrieren. Das ist kein Schreiben für den Studierenden, sondern Formatierung des Bereitgestellten.
+**Wenn der Studenten Quellen einfügt** (Skript-Abschnitt, Notizen, Kommentarauszug): Regel und Definition aus dem bereitgestellten Text extrahieren und in das Gerüst integrieren. Das ist kein Schreiben für den Studentenn, sondern Formatierung des Bereitgestellten.
 
-**Wenn der Studierende keine Quelle liefert**: Gerüst mit Platzhalter belassen + Maieut-Fragen stellen (z. B. "Was hat der Professor zu § 119 BGB gesagt?", "Welche Fallgruppe nennt das Skript hier?"). Falls der Studierende ausdrücklich eine vorläufige Ausfüllung wünscht, kann ein Lehrbuch-Mehrheitsmeinung eingetragen werden — jede solche Angabe erhält `[PRÜFEN: gegen Skript / Kommentar abgleichen]`.
+**Wenn der Studenten keine Quelle liefert**: Gerüst mit Platzhalter belassen + Maieut-Fragen stellen (z. B. "Was hat der Professor zu § 119 BGB gesagt?", "Welche Fallgruppe nennt das Skript hier?"). Falls der Studenten ausdrücklich eine vorläufige Ausfüllung wünscht, kann ein Lehrbuch-Mehrheitsmeinung eingetragen werden — jede solche Angabe erhält `[PRÜFEN: gegen Skript / Kommentar abgleichen]`.
 
-**Regelwiderspruch in eigenen Materialien**: Wenn die vom Studierenden genannte Regel dem widerspricht, was in einer früher hochgeladenen Quelle steht:
+**Regelwiderspruch in eigenen Materialien**: Wenn die vom Studentenn genannte Regel dem widerspricht, was in einer früher hochgeladenen Quelle steht:
 
 > "Das weicht von Ihrer Notiz bei [Abschnitt/Quelle] ab — dort steht: [wörtliches Zitat]. Welche Fassung ist die zutreffende?"
 
@@ -157,6 +157,6 @@ D. Rücktritt (§§ 323 ff. BGB) [LÜCKE]
 
 ## Quellenpflicht
 
-Jede Regelaussage, die in das Gerüst aus meinem Wissen eingetragen wird (nicht aus einer vom Studierenden bereitgestellten Quelle), trägt `[PRÜFEN]`. Vor dem Lernen aus der Struktur: jede solche Stelle gegen das aktuell verwendete Skript oder einen anerkannten Kommentar abgleichen. Falsch eingeübte Strukturen sind in der Klausur schwer zu korrigieren.
+Jede Regelaussage, die in das Gerüst aus meinem Wissen eingetragen wird (nicht aus einer vom Studentenn bereitgestellten Quelle), trägt `[PRÜFEN]`. Vor dem Lernen aus der Struktur: jede solche Stelle gegen das aktuell verwendete Skript oder einen anerkannten Kommentar abgleichen. Falsch eingeübte Strukturen sind in der Klausur schwer zu korrigieren.
 
 Hinweis: Diese Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

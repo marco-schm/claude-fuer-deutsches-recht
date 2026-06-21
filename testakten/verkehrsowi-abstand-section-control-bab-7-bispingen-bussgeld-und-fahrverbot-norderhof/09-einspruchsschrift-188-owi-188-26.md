@@ -67,7 +67,7 @@ Das BAMV-Verfahren ist zwar grundsätzlich als standardisiertes Messverfahren an
 
 #### 3. Existenzgefährdung / Fahrverbot
 
-Im Falle einer Verurteilung wird ausdrücklich beantragt, gemäß § 4 Abs. 4 BKatV von der Verhängung des Regelfahrverbots abzusehen. Der Mandant ist alleiniger Geschäftsführer der Norderhof Spedition GmbH mit 38 Mitarbeitenden und einem Jahresumsatz von ca. 7,2 Mio. EUR. Ein Fahrverbot von einem Monat würde die Betriebsführung existenzgefährdend beeinträchtigen. Belege werden zur Hauptverhandlung vorgelegt.
+Im Falle einer Verurteilung wird ausdrücklich beantragt, gemäß § 4 Abs. 4 BKatV von der Verhängung des Regelfahrverbots abzusehen. Der Mandant ist alleiniger Geschäftsführer der Norderhof Spedition GmbH mit 38 Mitarbeitern und einem Jahresumsatz von ca. 7,2 Mio. EUR. Ein Fahrverbot von einem Monat würde die Betriebsführung existenzgefährdend beeinträchtigen. Belege werden zur Hauptverhandlung vorgelegt.
 
 ### IV. Beweisanträge
 

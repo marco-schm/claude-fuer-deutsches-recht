@@ -2420,7 +2420,7 @@ Update-Modus (bestehende Richtlinie als Basis). Wenn leer: Erstfassung.
 > 1. Anwendungsbereich (wer, welche Tools, welche Daten)
 > 2. Erlaubte und verbotene Nutzungen (inkl. Art. 5 KI-VO-Verbote)
 > 3. Freigabe und Prüfung (Genehmigungsworkflow)
-> 4. Offenlegung (Kunden, Mitarbeitende, Dritte; DSGVO Art. 13/14)
+> 4. Offenlegung (Kunden, Mitarbeiter, Dritte; DSGVO Art. 13/14)
 > 5. Datenhandhabung (vertrauliche Daten, Anbieter-Training; GeschGehG)
 > 6. Schulung und Zertifizierung (Art. 4 KI-VO)
 > 7. Vorfälle und Meldung (Art. 73 KI-VO Betreiber-Meldeobliegenheiten)
@@ -2507,7 +2507,7 @@ KI-NUTZUNGSRICHTLINIE
 ENTWURF — VOR EINSATZ ANWALTLICHE PRUEFUNG ERFORDERLICH
 
 § 1 Geltungsbereich und Zweck
-Diese Richtlinie gilt für alle Mitarbeiterinnen und Mitarbeiter von
+Diese Richtlinie gilt für alle Mitarbeiter von
 [NAME MANDANT] beim Einsatz von KI-Systemen im Rahmen ihrer Taetigkeit.
 Zweck ist die Sicherstellung eines rechtssicheren, transparenten und
 verantwortungsvollen KI-Einsatzes gemaess KI-VO (VO 2024/1689) und DSGVO.
@@ -2754,7 +2754,7 @@ abfragen; 1-seitigen Kurzüberblick für das Anwaltsgespräch generieren.
 **Triage:** Art. 5: kein Verbot. Art. 6 Abs. 2 i. V. m. Anhang III Nr. 4 lit. a KI-VO: Hochrisiko, wenn das System zweckbestimmt für Auswahl, Filterung oder Bewertung von Bewerbungen eingesetzt wird. DSGVO Art. 22 Abs. 1 bei Vollautomatisierung.
 § 87 Abs. 1 Nr. 6 BetrVG: Betriebsrats-Beteiligung prüfen.
 **Klassifikation: BEDINGT.** Folgenabschätzung + DSFA; Human-in-the-Loop;
-Betriebsrat einbeziehen; Offenlegung ggü. Bewerber:innen (Art. 13 DSGVO).
+Betriebsrat einbeziehen; Offenlegung ggü. Bewerber (Art. 13 DSGVO).
 
 ## Risiken und typische Fehler
 

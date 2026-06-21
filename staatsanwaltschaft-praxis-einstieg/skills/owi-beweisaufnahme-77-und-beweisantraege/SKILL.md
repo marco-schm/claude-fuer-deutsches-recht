@@ -1,6 +1,6 @@
 ---
 name: owi-beweisaufnahme-77-und-beweisantraege
-description: "Beweisaufnahme im OWi-Verfahren: Aufklärungspflicht, vereinfachte Beweisaufnahme und Beweisanträge: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene."
+description: "Beweisaufnahme im OWi-Verfahren: Aufklärungspflicht, vereinfachte Beweisaufnahme und Beweisanträge: OWiG-Praxis-Skill für junge Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene."
 ---
 
 # Beweisaufnahme im OWi-Verfahren: Aufklärungspflicht, vereinfachte Beweisaufnahme und Beweisanträge

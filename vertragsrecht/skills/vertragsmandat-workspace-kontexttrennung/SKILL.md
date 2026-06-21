@@ -7,7 +7,7 @@ description: "Verwaltet Mandatsarbeitsbereiche — neu anlegen, auflisten, wechs
 
 ## Zweck
 
-Anwältinnen und Anwälte arbeiten parallel an mehreren Mandaten. Ein
+Anwälte arbeiten parallel an mehreren Mandaten. Ein
 Mandatsarbeitsbereich hält den Kontext eines Mandanten oder Auftrags strikt
 von allen anderen getrennt. Diese Skill verwaltet diese Arbeitsbereiche.
 

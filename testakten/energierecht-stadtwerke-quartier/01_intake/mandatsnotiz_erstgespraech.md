@@ -26,7 +26,7 @@
 
 ### 1.1 Mandant und Ausgangslage
 
-Die **Stadtwerke Klotzkette AG** (SWKK) ist ein kommunales Energieversorgungsunternehmen mit Sitz in Lüdinghausen (NRW), im Mehrheits­besitz der Stadt Lüdinghausen (75,1 % Anteil). Das Unternehmen betreibt Strom- und Gasverteil­netze im Stadtgebiet sowie zwei Nahwärme­netze (Altstadt und Gewerbegebiet Ost) und beschäftigt rund 280 Mitarbeitende.
+Die **Stadtwerke Klotzkette AG** (SWKK) ist ein kommunales Energieversorgungsunternehmen mit Sitz in Lüdinghausen (NRW), im Mehrheits­besitz der Stadt Lüdinghausen (75,1 % Anteil). Das Unternehmen betreibt Strom- und Gasverteil­netze im Stadtgebiet sowie zwei Nahwärme­netze (Altstadt und Gewerbegebiet Ost) und beschäftigt rund 280 Mitarbeiter.
 
 Frau Dr. Wohlfahrt schildert das Projekt "Hafenbogen" als strategisches Vorhaben, das die SWKK sowohl als Netz­betreiber als auch als Energie­dienstleister positionieren soll. Das Projekt verbinde erstmals alle Säulen der Energie­wende in einem einzigen Quartier: Wärme, Strom, Speicher, Mobilität. Ausdrücklich betont sie, dass das Projekt auch Signal­wirkung für den Stadtrat haben soll, der im Herbst 2024 über den Haushalt entscheidet.
 
@@ -100,7 +100,7 @@ Im Erstgespräch wurden folgende Rechtsfragen identifiziert, die die Kanzlei bea
 
 ## 3. Honorarvereinbarung
 
-Die Vergütung erfolgt auf Stunden­basis (§ 34 RVG analog, Honorarvereinbarung). Vereinbart: 280 EUR/Stunde für Partnerinnen und Partner, 195 EUR/Stunde für assoziierte Rechts­anwältinnen und Rechtsanwälte, jeweils zzgl. USt. Ein Kosten­vorschuss von 5.000 EUR (zzgl. USt.) wird mit der Mandats­vereinbarung angefordert. Die Abrechnung erfolgt monatlich.
+Die Vergütung erfolgt auf Stunden­basis (§ 34 RVG analog, Honorarvereinbarung). Vereinbart: 280 EUR/Stunde für Partner, 195 EUR/Stunde für assoziierte Rechts­anwältinnen und Rechtsanwälte, jeweils zzgl. USt. Ein Kosten­vorschuss von 5.000 EUR (zzgl. USt.) wird mit der Mandats­vereinbarung angefordert. Die Abrechnung erfolgt monatlich.
 
 ---
 

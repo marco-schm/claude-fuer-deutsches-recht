@@ -9,7 +9,7 @@ Kaiserstrasse 12, 72072 Tuebingen  Telefon: 07071 / 44 55 66
 
 An das
 Landgericht Tuebingen
-- Richter/in auf Erinnerung -
+- Richter auf Erinnerung -
 Doblerstrasse 14
 72074 Tuebingen
 

@@ -1,6 +1,6 @@
 ---
 name: mehrfachverfahren-verbindung-trennung
-description: "Mehrfachverfahren: Verbindung, Trennung und Übersicht: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Mehrfachverfahren: Verbindung, Trennung und Übersicht: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Mehrfachverfahren: Verbindung, Trennung und Übersicht

@@ -1,6 +1,6 @@
 ---
 name: internationaler-beweisimport-verwertung
-description: "Internationaler Beweisimport und Verwertung: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Internationaler Beweisimport und Verwertung: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Internationaler Beweisimport und Verwertung

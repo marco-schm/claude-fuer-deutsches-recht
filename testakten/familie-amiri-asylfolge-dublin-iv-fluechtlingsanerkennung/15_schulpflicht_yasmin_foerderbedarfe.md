@@ -38,7 +38,7 @@ Ein förmlicher Antrag auf Feststellung des sonderpädagogischen Förderbedarfs 
 Die Familie hat eine Auseinandersetzung mit der Landesschulbehörde, da die zuständige Sachbearbeiterin bei der Regionalabteilung behauptet, ein Förderbedarf im Bereich emotionale/soziale Entwicklung begründe keine Pflicht der Schule zur Bereitstellung einer Schulbegleitung oder zusätzlicher Ressourcen, solange das Kind in einer Regelklasse beschult werden könne.
 
 Diese Auffassung ist rechtlich zweifelhaft:
-- § 4 NSchG: Die Schule ist verpflichtet, alle Schülerinnen und Schüler individuell zu fördern.
+- § 4 NSchG: Die Schule ist verpflichtet, alle Schüler individuell zu fördern.
 - Art. 24 BRK (UN-Behindertenrechtskonvention): Recht auf inklusive Bildung und angemessene Vorkehrungen.
 - Für Kinder mit einem festgestellten sonderpädagogischen Förderbedarf besteht ein Anspruch auf ergänzende Maßnahmen.
 

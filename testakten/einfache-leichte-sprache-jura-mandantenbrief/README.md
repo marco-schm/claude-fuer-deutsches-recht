@@ -33,7 +33,7 @@ Diese Akte zeigt, wie ein juristisches Anwaltsschreiben in zwei vereinfachte Spr
 
 ### Warum braucht es Einfache und Leichte Sprache im Recht?
 
-Anwaltsschreiben sind für Juristinnen und Juristen verständlich — für viele Mandantinnen und Mandanten jedoch nicht. Schachtelsätze, Fachbegriffe wie "Bestandskraft" oder "Wiedereinsetzung in den vorigen Stand" und dichte Gesetzesverweise überfordern Menschen mit wenig Leseerfahrung, Lernschwäche, kognitiven Einschränkungen oder geringen Deutschkenntnissen.
+Anwaltsschreiben sind für Juristen verständlich — für viele Mandanten jedoch nicht. Schachtelsätze, Fachbegriffe wie "Bestandskraft" oder "Wiedereinsetzung in den vorigen Stand" und dichte Gesetzesverweise überfordern Menschen mit wenig Leseerfahrung, Lernschwäche, kognitiven Einschränkungen oder geringen Deutschkenntnissen.
 
 Besonders betroffen sind **betreute Personen** im Sinne des § 1814 BGB. Sie haben oft eine gesetzliche Betreuerin oder einen gesetzlichen Betreuer an ihrer Seite, aber Entscheidungen — wie die Frage, ob Widerspruch gegen einen Behördenbescheid eingelegt werden soll — müssen in vielen Fällen von ihnen selbst mitgetragen werden. Dafür brauchen sie Informationen, die sie tatsächlich verstehen.
 

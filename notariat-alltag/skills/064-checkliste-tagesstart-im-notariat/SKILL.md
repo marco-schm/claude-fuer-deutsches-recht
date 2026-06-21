@@ -70,7 +70,7 @@ Rechtsgrundlagen: § 14 BNotO (Amtspflichten), § 26 BNotO (Kanzleiaufsicht), DO
 
 ### Block 8: Interne Kommunikation
 
-- [ ] Mitarbeitende über aktuelle Prioritäten informiert?
+- [ ] Mitarbeiter über aktuelle Prioritäten informiert?
 - [ ] Eskalationen: Notar über kritische Vorgänge informiert?
 - [ ] Vertretungsregelungen (falls Notar abwesend): klar kommuniziert?
 

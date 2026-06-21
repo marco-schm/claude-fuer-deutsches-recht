@@ -1,6 +1,6 @@
 ---
 name: beweisantraege-244-stpo-reagieren
-description: "Beweisanträge nach § 244 StPO: Reaktion der StA: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Beweisanträge nach § 244 StPO: Reaktion der StA: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Beweisanträge nach § 244 StPO: Reaktion der StA

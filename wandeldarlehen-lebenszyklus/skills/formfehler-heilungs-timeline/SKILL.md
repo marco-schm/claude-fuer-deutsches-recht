@@ -208,7 +208,7 @@ Vertrags-Schluss.
 ### Notar-Auftrag
 
 ```
-Sehr geehrte/r Notar/in,
+Sehr geehrte/r Notar,
 
 wir benoetigen Beurkundungs-Termin für:
 

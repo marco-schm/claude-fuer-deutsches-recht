@@ -61,7 +61,7 @@ Bezüglich der Messunsicherheit (Aufstellungsabweichung 1,8 % Längsneigung) fol
 
 Das Gericht erkennt an, dass ein atypischer Fall vorliegt, der das Absehen vom Regelfahrverbot rechtfertigt:
 
-1. Der Betroffene ist alleiniger Geschäftsführer der Norderhof Spedition GmbH mit 38 Mitarbeitenden. Die beigebrachten Belege (Handelsregisterauszug, Gewinn- und Verlustrechnung 2025, Rahmenvertrag Continental) belegen eine konkrete und qualifizierte wirtschaftliche Abhängigkeit von der Fahrerlaubnis.
+1. Der Betroffene ist alleiniger Geschäftsführer der Norderhof Spedition GmbH mit 38 Mitarbeitern. Die beigebrachten Belege (Handelsregisterauszug, Gewinn- und Verlustrechnung 2025, Rahmenvertrag Continental) belegen eine konkrete und qualifizierte wirtschaftliche Abhängigkeit von der Fahrerlaubnis.
 
 2. Die Messung erfolgte unter Bedingungen, die von der PTB-Zulassung abweichen. Dies begründet keine Freistellung, mindert aber die Vorwerfbarkeit geringfügig.
 

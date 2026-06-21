@@ -8,7 +8,7 @@
 
 ## 1. Überblick
 
-Die EFS-GmbH übernimmt zum 01. Mai 2026 zwölf Mitarbeiterinnen und Mitarbeiter im Wege des Betriebsübergangs nach § 613a BGB (Einzelheiten s. Aktenstück 06). Die bestehenden Arbeitsverhältnisse gehen kraft Gesetzes über; es ist jedoch ratsam, mit jedem Mitarbeiter einen **Bestätigungsbrief** ("Übernahmebestätigung") zu unterzeichnen, der Klarheit über die fortgeltenden Konditionen schafft.
+Die EFS-GmbH übernimmt zum 01. Mai 2026 zwölf Mitarbeiter im Wege des Betriebsübergangs nach § 613a BGB (Einzelheiten s. Aktenstück 06). Die bestehenden Arbeitsverhältnisse gehen kraft Gesetzes über; es ist jedoch ratsam, mit jedem Mitarbeiter einen **Bestätigungsbrief** ("Übernahmebestätigung") zu unterzeichnen, der Klarheit über die fortgeltenden Konditionen schafft.
 
 Zusätzlich wird für die angestellte Rechtsanwältin (MA Nr. 1, aus Eckermann-Kanzlei) und den angestellten Rechtsanwalt (MA Nr. 5, aus Friedrich & Brandt) ein **neuer, eigenständiger Anwaltsarbeitsvertrag** angeboten, da eine Anstellung bei der EFS-GmbH veränderte Aufgabenprofile mit sich bringt.
 

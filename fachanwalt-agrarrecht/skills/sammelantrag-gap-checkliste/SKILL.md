@@ -138,7 +138,7 @@ An das Amt für Agrarordnung / Landwirtschaftskammer [Land]
 Widerspruch gegen Förderbescheid
 
 Bescheid: Nr. [Bescheid-Nr.] vom [Datum], zugestellt am [Datum]
-Mandant/in: [Name, Betriebsnummer]
+Mandant: [Name, Betriebsnummer]
 
 In dem vorbezeichneten Verfahren lege ich namens und in
 Vollmacht meines Mandanten

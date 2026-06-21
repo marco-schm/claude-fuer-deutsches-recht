@@ -23,14 +23,14 @@ Der Stadtrat hat mit Beschluss vom 14. Oktober 2025 (DS-2025/0412) das Planungsa
 
 ### 1. Örtliche Situation
 
-Die Grundschule Nord liegt an der Gartenstraße 45, einer innerstädtischen Sammelstraße mit zweistreifigem Querschnitt (Fahrbahnbreite 6,50 m), beidseitigem Gehweg (Breite je ca. 2,20–2,80 m) und Längsparkstreifen auf der östlichen Seite (28 Stellplätze, bewirtschaftet Mo–Sa 08:00–20:00 Uhr). Das zulässige Höchsttempo beträgt außerhalb der Schulzeiten 50 km/h; eine besondere Schulstraßenbeschilderung existiert bislang nicht. Die Schule hat ca. 420 Schülerinnen und Schüler; der morgendliche Bringe-Verkehr konzentriert sich zwischen 07:40 und 08:10 Uhr.
+Die Grundschule Nord liegt an der Gartenstraße 45, einer innerstädtischen Sammelstraße mit zweistreifigem Querschnitt (Fahrbahnbreite 6,50 m), beidseitigem Gehweg (Breite je ca. 2,20–2,80 m) und Längsparkstreifen auf der östlichen Seite (28 Stellplätze, bewirtschaftet Mo–Sa 08:00–20:00 Uhr). Das zulässige Höchsttempo beträgt außerhalb der Schulzeiten 50 km/h; eine besondere Schulstraßenbeschilderung existiert bislang nicht. Die Schule hat ca. 420 Schüler; der morgendliche Bringe-Verkehr konzentriert sich zwischen 07:40 und 08:10 Uhr.
 
 ### 2. Identifizierte Gefahrenstellen
 
 Das Planungsamt hat in einer Ortsbesichtigung am 05. November 2025 (Teilnehmer: Fr. Weller/Planungsamt, Fr. Renner/Ordnungsamt, KHK Lange/Polizei, Fr. Ritter/Schulleitung) folgende Gefahrenstellen identifiziert:
 
 **G1 – Querung Gartenstraße am Schuleingang (Hauptgefährdung):**
-Schülerinnen und Schüler queren die Gartenstraße an einer ungesicherten Stelle ca. 18 m östlich des Schuleingangs. Eine Fußgängerfurt (Zebrastreifen) oder Querungshilfe existiert nicht. Der Sichtbereich ist durch parkende Fahrzeuge im Längsparkstreifen deutlich eingeschränkt; Sichtweiten betragen teilweise weniger als 20 m.
+Schüler queren die Gartenstraße an einer ungesicherten Stelle ca. 18 m östlich des Schuleingangs. Eine Fußgängerfurt (Zebrastreifen) oder Querungshilfe existiert nicht. Der Sichtbereich ist durch parkende Fahrzeuge im Längsparkstreifen deutlich eingeschränkt; Sichtweiten betragen teilweise weniger als 20 m.
 
 **G2 – Elterntaxizone (Halteverbot de facto nicht eingehalten):**
 Im Bereich des Schuleingangs und auf der gegenüberliegenden Fahrbahnseite parken und halten Elternfahrzeuge trotz eingeschränkten Halteverbots (Zeichen 286 StVO, Montag–Freitag) in zweiter Reihe und auf dem Gehweg. Die Polizeiinspektion hat im Zeitraum 01.09.–22.09.2025 an 12 Kontrolltagen insgesamt 78 Verstöße geahndet; die Situation besserte sich kurzfristig, normalisierte sich aber innerhalb weniger Wochen.

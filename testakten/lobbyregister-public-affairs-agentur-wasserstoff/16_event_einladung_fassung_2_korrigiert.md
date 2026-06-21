@@ -1,7 +1,7 @@
 # Einladung Parlamentarisches Fachgespräch – KORRIGIERTE FASSUNG 2
 
 **Versand:** 22.05.2026, 09:20 Uhr durch Spreebogen Regulatory GmbH (Lea Sommer)
-**Empfänger:** identischer Verteiler wie Fassung 1, plus zwei zusätzliche Mitarbeitende im Büro MdB Cordova
+**Empfänger:** identischer Verteiler wie Fassung 1, plus zwei zusätzliche Mitarbeiter im Büro MdB Cordova
 **Format:** PDF auf Briefpapier Spreebogen Regulatory GmbH, Co-Logo HansaH2 Storage AG und Nordsee Elektrolyse Konsortium GbR
 **Bezug:** Korrekturmail vom 21.05.2026 + neuer Versand 22.05.2026
 
@@ -59,5 +59,5 @@ Die Korrekturversand am 22.05.2026 wurde vom Mandat der HansaH2 Storage AG durch
 ## Empfangsbestätigungen Fassung 2
 
 - 12 von 16 Empfängern haben die Einladung bestätigt.
-- 4 Büros haben noch nicht geantwortet (MdB Reimers, MdB Albrecht, Mitarbeitender Pauli, Mitarbeitende Schulze).
+- 4 Büros haben noch nicht geantwortet (MdB Reimers, MdB Albrecht, Mitarbeiterr Pauli, Mitarbeiter Schulze).
 - Nachfass: 28.05.2026 durch Spreebogen.

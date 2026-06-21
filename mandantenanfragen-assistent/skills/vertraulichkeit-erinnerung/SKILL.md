@@ -43,7 +43,7 @@ Die Verschwiegenheitspflicht gilt ab dem Moment, in dem ein Rechtssuchender sich
 
 ## Praxis-Hinweis für das Sekretariat
 
-Die folgende Formulierung kann intern für die Einweisung neuer Mitarbeitender verwendet werden:
+Die folgende Formulierung kann intern für die Einweisung neuer Mitarbeiterr verwendet werden:
 
 ---
 

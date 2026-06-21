@@ -46,7 +46,7 @@ Die ersten 100 Tage ab Eintragung enden am 25.09.2026.
 | Erste Closed-Beta-Nutzer onboarden | Mira |
 | Marketing-Site live | Mira |
 | GitHub-Organisation einrichten, Repositories umziehen | Jonas |
-| Erste Mitarbeitende einstellen (zwei Junior-Engineers ab Q3 2026 geplant) | Aylin |
+| Erste Mitarbeiter einstellen (zwei Junior-Engineers ab Q3 2026 geplant) | Aylin |
 | Office-Lösung wählen (Hub fortführen oder Co-Working) | Mira |
 | Erste Pilotvereinbarung mit Forschungspartner abschließen | Aylin |
 | Vierteljähriges Reporting an Pfaffenrode | Aylin |
@@ -111,7 +111,7 @@ Am 25.09.2026 findet ein Review-Workshop statt:
 | --- | --- |
 | Closing-Verzug Pfaffenrode | Eskalation an Pfaffenrode, Alternativplan ohne Investment |
 | Cashflow-Engpass | Investoreneinzahlung sichern, ggf. Brückendarlehen Gründer |
-| Personal-Engpass technisches Team | freie Mitarbeitende oder Werkstudenten |
+| Personal-Engpass technisches Team | freie Mitarbeiter oder Werkstudenten |
 | Bürokratie-Verzug | externe Hilfe (Steuerberater, Anwalt) bezahlen statt selbst machen |
 | Datenschutzbehörde Berlin meldet sich | Verfahrensverzeichnis sofort bereitstellen |
 | BaFin-Anfrage zu Geschäftsmodell | offen kommunizieren, kein Token-Marketing |

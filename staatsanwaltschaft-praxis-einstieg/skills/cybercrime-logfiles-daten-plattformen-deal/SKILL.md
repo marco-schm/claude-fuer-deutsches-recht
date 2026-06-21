@@ -1,6 +1,6 @@
 ---
 name: cybercrime-logfiles-daten-plattformen-deal
-description: "Cybercrime: Logfiles und Chain of Custody: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis."
+description: "Cybercrime: Logfiles und Chain of Custody: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis."
 ---
 
 # Cybercrime: Logfiles und Chain of Custody

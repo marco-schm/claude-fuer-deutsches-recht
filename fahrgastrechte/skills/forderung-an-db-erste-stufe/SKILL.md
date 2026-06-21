@@ -136,7 +136,7 @@ ich:
  a) Widerspruch einlegen und parallel
  b) die Schlichtungsstelle Reise & Verkehr e.V. (vormals söp,
     Fasanenstraße 81, 10623 Berlin) anrufen — das Verfahren ist für
-    Verbraucherinnen und Verbraucher kostenfrei (Verbraucher-Entgelt-Regeln
+    Verbraucher kostenfrei (Verbraucher-Entgelt-Regeln
     nach § 23 VSBG i.V.m. der Verfahrensordnung der Stelle),
  c) anschließend Klage zum zuständigen Amtsgericht erheben.
 ```

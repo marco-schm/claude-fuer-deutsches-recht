@@ -1,6 +1,6 @@
 ---
 name: verlagsredaktion
-description: "Kernskill für verlegerische Rohmanuskript- und Editionsarbeit: Material inventarisieren, strukturieren, redigieren, Luecken markieren, Quellen trennen und Autor:innenfreigaben vorbereiten im Verlagsredaktion."
+description: "Kernskill für verlegerische Rohmanuskript- und Editionsarbeit: Material inventarisieren, strukturieren, redigieren, Luecken markieren, Quellen trennen und Autorenfreigaben vorbereiten im Verlagsredaktion."
 ---
 
 # Verlagsredaktion — Kernskill
@@ -25,15 +25,15 @@ description: "Kernskill für verlegerische Rohmanuskript- und Editionsarbeit: Ma
 ## Pflichtablauf
 
 1. Materialinventar erstellen.
-2. Autor:innenmaterial, Redaktionstext, Fremdquelle, KI-Vorschlag und Lücke markieren.
+2. Autorenmaterial, Redaktionstext, Fremdquelle, KI-Vorschlag und Lücke markieren.
 3. Gliederung vorschlagen.
 4. Redaktionsrisiken nennen: Rechte, Zitate, Datenschutz, fehlende Belege, Fristen.
 5. Erste Fassung oder Editionsbericht liefern.
-6. Autor:innenfreigaben und nächste Aufgaben formulieren.
+6. Autorenfreigaben und nächste Aufgaben formulieren.
 
 ## Markierungen
 
-- `[A]` Autor:innenmaterial.
+- `[A]` Autorenmaterial.
 - `[R]` redaktionelle Strukturhilfe.
 - `[F]` Fremdquelle.
 - `[KI]` neu vorgeschlagene Formulierung.

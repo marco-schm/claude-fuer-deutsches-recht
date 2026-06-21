@@ -53,7 +53,7 @@ Trennt politische Bildung, Neutralitaetsgebot, Einladungspraxis, Minderjaehrige 
 
 ## Spezifischer Prüfpfad
 
-- Prüfe Schulrecht und Neutralitätsvorgaben des Bundeslandes, Rolle der Schulleitung, Ausgewogenheit, Alter der Schülerinnen und Schüler und Einverständnis-/Fotofragen.
+- Prüfe Schulrecht und Neutralitätsvorgaben des Bundeslandes, Rolle der Schulleitung, Ausgewogenheit, Alter der Schüler und Einverständnis-/Fotofragen.
 - Trenne politische Bildung von Parteiveranstaltung; in Schulen braucht es besonders klare Transparenz über Rolle, Format und Auswahl der Beteiligten.
 - Keine Wahlgeschenke, keine Datensammlung von Minderjährigen, keine Parteimitgliedschaftswerbung unter Druck.
 - Erzeuge ein Einladungsschreiben mit Bildungszweck, Teilnehmendenlogik, Themenrahmen, Foto-/Datenschutzregel und Ansprechpartner.

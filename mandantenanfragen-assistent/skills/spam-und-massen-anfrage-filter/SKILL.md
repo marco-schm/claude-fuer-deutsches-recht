@@ -110,7 +110,7 @@ Die folgenden Merkmale sprechen gegen Spam:
 2. Skeleton-Eintrag im CRM nur mit Status "SPAM" und Typ; keine vollständige Datenerfassung.
 3. Sekretariat erhält Hinweis mit Aussortierungsempfehlung.
 4. Bei Phishing: zusätzliche Meldung an die Kanzlei-IT.
-5. Bei VERDÄCHTIG (nicht eindeutig): Empfehlung zur manuellen Prüfung durch Rechtsanwalt oder erfahrene Mitarbeitende vor Beantwortung.
+5. Bei VERDÄCHTIG (nicht eindeutig): Empfehlung zur manuellen Prüfung durch Rechtsanwalt oder erfahrene Mitarbeiter vor Beantwortung.
 
 ## Falsch-Positiv-Schutz
 

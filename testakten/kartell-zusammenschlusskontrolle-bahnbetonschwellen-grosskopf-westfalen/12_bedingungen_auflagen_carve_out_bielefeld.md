@@ -25,7 +25,7 @@ Die zentrale Abhilfemaßnahme, die die Kanzlei im Auftrag der Mandantin GBW anbi
 | Standort | Detmolder Straße 840, 33699 Bielefeld |
 | Grundstücksfläche | ca. 42.000 m² (Eigentum TBA AG) |
 | Hallen-Nutzfläche | ca. 18.500 m² |
-| Mitarbeitende | 94 (alle TBA-MA am Standort Bielefeld) |
+| Mitarbeiter | 94 (alle TBA-MA am Standort Bielefeld) |
 | Jahreskapazität | ca. 960.000 Schwellen/Jahr |
 | Jahresumsatz ex-works | ca. 32 Mio. EUR |
 | Anlagewert (Buchwert) | ca. 14,2 Mio. EUR |
@@ -40,7 +40,7 @@ Im Carve-out enthalten:
 - DB-Lieferantenzulassung (soweit übertragbar — Prüfung läuft)
 - Kundenkontakte Norddeutschland-Region (nicht-exklusiv)
 - Fertigungsrezepturen (nicht GBW-proprietär)
-- Alle Arbeitsverhältnisse der 94 Mitarbeitenden (§ 613a BGB)
+- Alle Arbeitsverhältnisse der 94 Mitarbeitern (§ 613a BGB)
 
 Nicht im Carve-out enthalten:
 
@@ -102,7 +102,7 @@ Hinweis: Verhaltensbezogene Auflagen werden von der Kommission grundsätzlich al
 
 ## 6. § 613a BGB — Arbeitnehmerrechte beim Carve-out
 
-Der Carve-out Bielefeld führt zu einem Betriebsübergang nach § 613a BGB. Die 94 Mitarbeitenden am Bielefelder Werk gehen automatisch auf den Erwerber über; ein Widerspruchsrecht besteht. Der Betriebsrat der TBA AG ist gemäß § 613a Abs. 5 BGB mindestens einen Monat vor dem geplanten Übergang zu unterrichten. Die Kanzlei empfiehlt frühzeitige Einbindung des TBA-Betriebsrats zur Vermeidung arbeitsrechtlicher Komplikationen.
+Der Carve-out Bielefeld führt zu einem Betriebsübergang nach § 613a BGB. Die 94 Mitarbeitern am Bielefelder Werk gehen automatisch auf den Erwerber über; ein Widerspruchsrecht besteht. Der Betriebsrat der TBA AG ist gemäß § 613a Abs. 5 BGB mindestens einen Monat vor dem geplanten Übergang zu unterrichten. Die Kanzlei empfiehlt frühzeitige Einbindung des TBA-Betriebsrats zur Vermeidung arbeitsrechtlicher Komplikationen.
 
 ---
 

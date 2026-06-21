@@ -7,7 +7,7 @@ description: "Kompaktes Klausur-Prüfungsschema fuer Verhältnismäßigkeit. Rei
 
 ## Zweck dieses Skills
 
-Studierende, Referendare und Examenskandidaten brauchen ein wieder­erkennbares Schema. Dieser Skill liefert Aufbau, Standard­formulierungen und die haeufigsten Punktverluste — kompakt, ohne Lehrbuchballast.
+Studenten, Referendare und Examenskandidaten brauchen ein wieder­erkennbares Schema. Dieser Skill liefert Aufbau, Standard­formulierungen und die haeufigsten Punktverluste — kompakt, ohne Lehrbuchballast.
 
 ## Standard-Aufbau Grundrechtsverletzung
 

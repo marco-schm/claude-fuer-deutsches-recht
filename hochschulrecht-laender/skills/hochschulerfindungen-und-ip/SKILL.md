@@ -26,7 +26,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Widerspruch Prüfungsentscheidung i.d.R. 1 Monat (VwVfG/VwGO), Exmatrikulation/Beurlaubung semestergebunden, Promotionsverfahren landesrechtlich.
 - Tragende Normen verifizieren: HRG (Rahmen), 16 Landeshochschulgesetze (z. B. HG NRW, BayHIG, BerlHG, HmbHG), WissZeitVG, BAföG, HRK-Beschlüsse, Bologna-Erklärung, EU-RL anerkennung Berufsqualifikationen 2005/36 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Lehrende, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Lehrer, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Studien-/Prüfungsordnung, Zulassungsbescheid, Prüfungsbescheid, Widerspruchsbescheid, Klage VG, Promotionsordnung, Berufungsvereinbarung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachkern: Hochschulerfindungen Und Ip
@@ -60,7 +60,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 - In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
 - Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
 - Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studierende, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
+- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
 - Welche Tatsachen sind belegt und welche werden nur behauptet?
 
 ## Arbeitslogik

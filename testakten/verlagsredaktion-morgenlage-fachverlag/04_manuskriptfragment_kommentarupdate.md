@@ -52,15 +52,15 @@
 | Abgrenzung Zeitschrift / Sammelband / Datenbank ausarbeiten | offen | Wendt | bis Herausgeberrunde Mo 08.06. |
 | Streichung/Neufassung Rn. 12 (Korrektur So 21:14) | offen | Wendt | Mi 03.06. |
 | Verweis Rn. 17 auf § 44b und § 60d UrhG | offen | Krug | Mi 03.06. |
-| Beispiel für Autor:innenmail bei Zweitveröffentlichung | offen | Redaktion liefert Mustertext aus Datenbank Verlagspraxis | Klee Fr 05.06. |
+| Beispiel für Autorenmail bei Zweitveröffentlichung | offen | Redaktion liefert Mustertext aus Datenbank Verlagspraxis | Klee Fr 05.06. |
 | Bezug zu BGH-Entscheidung Plattformhaftung (Lenz Heft 7) | nur prüfen, ob relevant | Wendt/Krug nach Volltextkenntnis | Mo 08.06. |
 
-## Hinweise für die Herausgeber:innenrunde am 08.06.
+## Hinweise für die Herausgeberrunde am 08.06.
 
 1. Das Update steht inhaltlich tragend, ist aber technisch unfertig (Rechtsstand, Pinpoints).
 2. Die Streichung Rn. 12 hat Auswirkungen auf den Quellenapparat der nachfolgenden Randnummern (Rn. 13, 14). Reihenfolge der Randnummerierung müsste neu vergeben werden, sobald die Endfassung vorliegt.
 3. Rn. 17 (KI/TDM) ist neu und sollte vor der Veröffentlichung mit dem für § 44b zuständigen Autorenteam (Cremers, Anhalt) abgestimmt werden, damit kein Doppelkommentar zur gleichen Norm in unterschiedlichen Kapiteln steht.
-4. Vorschlag: Update als "Lieferung 47 vorläufig" intern vermerken, Herausgeber:innenrunde am 08.06. legt nach.
+4. Vorschlag: Update als "Lieferung 47 vorläufig" intern vermerken, Herausgeberrunde am 08.06. legt nach.
 
 ## Quellenampel (Status der Belegbasis im Fragment)
 

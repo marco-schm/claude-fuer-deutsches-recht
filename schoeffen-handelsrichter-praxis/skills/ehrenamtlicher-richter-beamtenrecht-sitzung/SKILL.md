@@ -1,6 +1,6 @@
 ---
 name: ehrenamtlicher-richter-beamtenrecht-sitzung
-description: "Ehrenamtlicher Richter Beamtenrecht (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Beurteilung, Konkurrentenstreit, Disziplinarrecht, Besoldung und Dienstunfall mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Ehrenamtlicher Richter Beamtenrecht (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Beurteilung, Konkurrentenstreit, Disziplinarrecht, Besoldung und Dienstunfall mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Ehrenamtlicher Richter Beamtenrecht: Sitzungspraxis

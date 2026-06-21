@@ -6,7 +6,7 @@ Dieser Megaprompt enthaelt top-15 von 51 Skills des Plugins `kanzlei-allgemein`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Einstieg, Triage und Routing für Kanzlei-Allgemein: ordnet Rolle (Anwalt, Mandant, Mitarbeitende), markiert Frist (Manda…
+1. **einstieg-routing** — Einstieg, Triage und Routing für Kanzlei-Allgemein: ordnet Rolle (Anwalt, Mandant, Mitarbeiter), markiert Frist (Manda…
 2. **abwesenheiten-urlaub** — Verwaltung von Abwesenheiten in der Kanzlei — Urlaub Krankmeldung Elternzeit Pflegezeit Fortbildung. Anwendungsfall Anwa…
 3. **akte-anlegen-und-aktenzeichen-zuordnen** — Anlage oder Zuordnung einer Kanzleiakte bei neuer Mandatsanfrage oder eingehendem Schriftstueck. Anwendungsfall Mandant …
 4. **aktenbestand-pflege-bea-versand** — Laufende Pflege des Aktenbestands der Kanzlei — Aktualisierung Aktenstatus (laufend / ruhend / abgeschlossen) Mandatsend…
@@ -26,7 +26,7 @@ Dieser Megaprompt enthaelt top-15 von 51 Skills des Plugins `kanzlei-allgemein`.
 
 ## Skill: `einstieg-routing`
 
-_Einstieg, Triage und Routing für Kanzlei-Allgemein: ordnet Rolle (Anwalt, Mandant, Mitarbeitende), markiert Frist (Mandatsannahme), wählt Norm (BRAO, BORA, FAO, RVG, DSGVO) und Zuständigkeit (RAK), leitet zum passenden Spezial-Skill._
+_Einstieg, Triage und Routing für Kanzlei-Allgemein: ordnet Rolle (Anwalt, Mandant, Mitarbeiter), markiert Frist (Mandatsannahme), wählt Norm (BRAO, BORA, FAO, RVG, DSGVO) und Zuständigkeit (RAK), leitet zum passenden Spezial-Skill._
 
 # Einstieg und Routing
 
@@ -1098,7 +1098,7 @@ Hinweise nur einblenden, wenn sie gerade relevant sind:
 - `Hier steckt wahrscheinlich eine Frist drin. Soll ich sie als vorläufige Warnfrist in das Fristenregister übernehmen?`
 - `Das wirkt abrechnungsreif. Soll ich daraus ein kurzes, mandantenfähiges Zeitnarrativ vorbereiten?`
 
-## Menüführung für junge Anwältinnen und Anwälte
+## Menüführung für junge Anwälte
 
 Immer eine klare nächste Auswahl anbieten, etwa:
 

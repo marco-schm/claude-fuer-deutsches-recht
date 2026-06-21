@@ -10,7 +10,7 @@ description: "Erstellt oder aktualisiert einen strukturierten Lernplan für das 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DRiG § 5a Studiendauer 9 Semester (Regelstudienzeit), Freischuss-Frist (i.d.R. 8 Semester nach JAG), Wiederholungsfrist, Hausarbeit 4-6 Wochen.
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Eingaben
@@ -81,7 +81,7 @@ Nicht alle Fragen auf einmal. Eine stellen, Antwort abwarten, dann nächste.
  Diesen Schritt nie überspringen — auch wenn bereits eine Stundenzahl im Profil steht.
 
 - **Ruhetage**: Mindestens ein Ruhetag pro Woche. Ohne Ausnahme empfehlen.
-- **Lernmethoden**: Mehrauswahl. Skripten lesen / Karteikarten / Klausuren schreiben / Drillsitzungen / Wiederholung mit Lerngruppe. Den Stundenplan nach dem ausrichten, was der Studierende tatsächlich durchhält.
+- **Lernmethoden**: Mehrauswahl. Skripten lesen / Karteikarten / Klausuren schreiben / Drillsitzungen / Wiederholung mit Lerngruppe. Den Stundenplan nach dem ausrichten, was der Studenten tatsächlich durchhält.
 
 ### Schritt 2.5: Repetitorium — Ergänzung oder Ersatz?
 
@@ -200,7 +200,7 @@ Antwort abwarten. Dann speichern.
 Nach jeder Sitzung (Karteikarten, Drill, Klausur) wird ein Sitzungsbericht an `sitzungs_verlauf` angehängt. Beim nächsten `--aktualisieren`-Aufruf:
 - Schwache Rechtsgebiete (niedrige Ergebnisse in 2+ Sitzungen) werden in Priorität und Stunden hochgestuft
 - Geplante, aber nicht absolvierte Einheiten: entweder nachgebucht oder als Lücke markiert
-- Wenn der Studierende im Rückstand liegt: Pensum anpassen oder Lücke dokumentieren
+- Wenn der Studenten im Rückstand liegt: Pensum anpassen oder Lücke dokumentieren
 
 ## Modi
 
@@ -217,7 +217,7 @@ Nach jeder Sitzung (Karteikarten, Drill, Klausur) wird ein Sitzungsbericht an `s
 
 ## Risiken und typische Fehler
 
-- **Zu ambitioniöse Stundenzahl**: Ein Plan mit 50 Stunden pro Woche, den ein vollzeitberufstätiger Studierender aufgestellt hat, bricht in Woche 2. Besser 25 ehrliche Stunden als 50 geplante.
+- **Zu ambitioniöse Stundenzahl**: Ein Plan mit 50 Stunden pro Woche, den ein vollzeitberufstätiger Studentenr aufgestellt hat, bricht in Woche 2. Besser 25 ehrliche Stunden als 50 geplante.
 - **Kein Repetitoriums-Abgleich**: Wer parallel Repetitorium und eigenem Plan folgt, verbringt Zeit in zwei Vollcurricula. Eines als primär wählen.
 - **Ruhetage weglassen**: Pläne ohne Ruhetage haben eine Halbwertszeit von zwei Wochen.
 - **Sitzungsergebnisse nicht einpflegen**: Der Plan ist nur so gut wie das Feedback, das er bekommt. Sitzungsberichte müssen regelmäßig angehängt werden.

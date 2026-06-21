@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-zivilrecht
-description: "Übt die zivilrechtliche Methodenlehre für Studierende — Anspruchsgrundlagen-Schema, AGL-Reihenfolge (vertraglich, vertragsähnlich, dinglich, deliktisch, bereicherungsrechtlich), Konkurrenzen, Auslegung von Willenserklärungen (§§ 133/157 BGB), Auslegung von AGB (§ 305 ff. BGB), Verkehrssitte. Lädt..."
+description: "Übt die zivilrechtliche Methodenlehre für Studenten — Anspruchsgrundlagen-Schema, AGL-Reihenfolge (vertraglich, vertragsähnlich, dinglich, deliktisch, bereicherungsrechtlich), Konkurrenzen, Auslegung von Willenserklärungen (§§ 133/157 BGB), Auslegung von AGB (§ 305 ff. BGB), Verkehrssitte. Lädt..."
 ---
 
 # Methodenlehre — Zivilrecht
@@ -10,7 +10,7 @@ description: "Übt die zivilrechtliche Methodenlehre für Studierende — Anspru
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DRiG § 5a Studiendauer 9 Semester (Regelstudienzeit), Freischuss-Frist (i.d.R. 8 Semester nach JAG), Wiederholungsfrist, Hausarbeit 4-6 Wochen.
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
@@ -99,9 +99,9 @@ Prüfungsschritte:
 ## Drill-Modus
 
 1. Skill nennt Fall.
-2. Studierender entwirft AGL-Reihenfolge.
+2. Studentenr entwirft AGL-Reihenfolge.
 3. Skill korrigiert ohne Vorgabe: "Warum prüfst du Bereicherung vor Delikt — woraus folgt das?"
-4. Pro AGL prüft Studierender. Skill greift bei Subsumtionssprüngen, Auslegungsfehlern, Konkurrenzfehlern ein.
+4. Pro AGL prüft Studentenr. Skill greift bei Subsumtionssprüngen, Auslegungsfehlern, Konkurrenzfehlern ein.
 
 ## Was diese Skill nicht tut
 

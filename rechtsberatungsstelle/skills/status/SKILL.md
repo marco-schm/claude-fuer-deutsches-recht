@@ -1,6 +1,6 @@
 ---
 name: status
-description: "Fallstatuszusammenfassung nach Zielgruppe — mandantengerichtet (verständliche Sprache), intern (für den Supervisor) oder gerichts-/behördengerichtet (formale Schriftsatzform per Verfahrensordnung). Gleiche Fakten, unterschiedliche Darstellung und Tiefe. Lädt, wenn ein Studierender den Mandanten i..."
+description: "Fallstatuszusammenfassung nach Zielgruppe — mandantengerichtet (verständliche Sprache), intern (für den Supervisor) oder gerichts-/behördengerichtet (formale Schriftsatzform per Verfahrensordnung). Gleiche Fakten, unterschiedliche Darstellung und Tiefe. Lädt, wenn ein Studentenr den Mandanten i..."
 ---
 
 # Fallstatus: Zielgruppengerechte Fallzusammenfassung
@@ -23,9 +23,9 @@ description: "Fallstatuszusammenfassung nach Zielgruppe — mandantengerichtet (
 
 ### Kernvorschriften
 
-- **§ 6 RDG** — Informationspflicht: Mandanten sind über den Verfahrensstand verständlich zu informieren; liegt in der Eigenverantwortung des Studierenden unter Supervisoren-Aufsicht.
+- **§ 6 RDG** — Informationspflicht: Mandanten sind über den Verfahrensstand verständlich zu informieren; liegt in der Eigenverantwortung des Studentenn unter Supervisoren-Aufsicht.
 - **§ 43a Abs. 2 BRAO** — Verschwiegenheitspflicht: Statusberichte enthalten vertrauliche Mandantendaten; keine Weitergabe ohne Einwilligung.
-- **§ 11a BRAO** — Studentische Rechtsanwaltsbeschäftigung: Studierende in Beratungsstellen handeln unter Aufsicht; Statusberichte an Gerichte gehen erst nach Supervisoren-Freigabe heraus.
+- **§ 11a BRAO** — Studentische Rechtsanwaltsbeschäftigung: Studenten in Beratungsstellen handeln unter Aufsicht; Statusberichte an Gerichte gehen erst nach Supervisoren-Freigabe heraus.
 - **§§ 128–142 ZPO** — Schriftsätze an Gericht: Form- und Inhaltsvorgaben für gerichtliche Statusberichte; örtliche Geschäftsordnungen beachten.
 - **§ 81 VwVfG** — Verfahrensabschluss und Mitteilungspflichten der Behörde; spiegelbildlich Informationspflicht des Vertreters gegenüber dem Mandanten.
 - **Art. 13, 14 DSGVO** — Informationspflichten beim Umgang mit personenbezogenen Daten; Statusberichte, die Verarbeitungen beschreiben, müssen den Datenschutzvorgaben genügen.
@@ -55,10 +55,10 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Schwächen des Falls (es sei denn, es ist Zeit für dieses Gespräch — das entscheidet der Supervisor, nicht ein Statusupdate)
 - Fachjargon
 
-*Prüfvermerk für den Studierenden (nicht für den Mandanten — vor Versand entfernen):*
+*Prüfvermerk für den Studentenn (nicht für den Mandanten — vor Versand entfernen):*
 `[KI-GESTÜTZTER ENTWURF — erfordert studentische Prüfung und Supervisionsschritt per Klinik-Konfiguration]`
 
-Verfahrensrechtlicher Hinweis: Manche Beratungsstellen (insb. unter BRAO-Aufsicht) haben spezifische Unterschriftsblöcke für Briefe unter Studierenden-Aufsicht. Anforderungen mit dem Supervisor klären.
+Verfahrensrechtlicher Hinweis: Manche Beratungsstellen (insb. unter BRAO-Aufsicht) haben spezifische Unterschriftsblöcke für Briefe unter Studentenn-Aufsicht. Anforderungen mit dem Supervisor klären.
 
 ```markdown
 Sehr geehrte/r [Mandant/-in],
@@ -75,11 +75,11 @@ eine Antwort. Falls nichts kommt, melden wir uns."]
 **Was Sie tun müssen:** [Konkret und klar. Oder: "Im Moment müssen Sie nichts
 tun. Wir melden uns, sobald wir etwas von Ihnen brauchen."]
 
-**So erreichen Sie uns:** [Telefon, Sprechzeiten, Name des Studierenden]
+**So erreichen Sie uns:** [Telefon, Sprechzeiten, Name des Studentenn]
 
 Mit freundlichen Grüßen
 
-[Name des Studierenden]
+[Name des Studentenn]
 Studentische/-r Rechtsberater/-in
 unter Aufsicht von [Supervisorenname, Rechtsanwalt/-anwältin]
 [Name der Beratungsstelle]
@@ -89,19 +89,19 @@ unter Aufsicht von [Supervisorenname, Rechtsanwalt/-anwältin]
 
 ### Modus: Intern (für den Supervisor)
 
-**Leser/-in:** Der begleitende Supervisor. Kennt das Recht. Will wissen, wo der Fall steht und was der Studierende von ihm/ihr braucht.
+**Leser/-in:** Der begleitende Supervisor. Kennt das Recht. Will wissen, wo der Fall steht und was der Studenten von ihm/ihr braucht.
 
 **Einzubeziehen:**
 - Verfahrensstand (wo im Verfahren)
 - Was seit dem letzten Check-in getan wurde
 - Was als nächstes kommt (Fristen, Termine)
 - Fragen, die Supervisoren-Input erfordern
-- Einschätzung des Studierenden (wie läuft es, Bedenken)
+- Einschätzung des Studentenn (wie läuft es, Bedenken)
 
 ```markdown
 ### Fallstatus: [Mandant] — [Gegenstand] — [Datum]
 
-**Studierender:** [Name] | **Verfahrensstand:** [Vorberatung / Widerspruch eingereicht /
+**Studentenr:** [Name] | **Verfahrensstand:** [Vorberatung / Widerspruch eingereicht /
 Klage erhoben / Verhandlung ausstehend / etc.]
 
 ## Seit dem letzten Check-in
@@ -112,19 +112,19 @@ Klage erhoben / Verhandlung ausstehend / etc.]
 
 | Datum | Was | Handlung erforderlich durch |
 |---|---|---|
-| [Datum] | [Frist/Termin] | [Studierender/Supervisor/beide] |
+| [Datum] | [Frist/Termin] | [Studentenr/Supervisor/beide] |
 
 ## Supervisoren-Input benötigt
 
 - [Konkrete Frage oder Entscheidungspunkt]
 
-## Einschätzung des Studierenden
+## Einschätzung des Studentenn
 
 [Wie läuft es. Stärken, Bedenken, strategische Fragen. Hier zeigt sich das Denken
-des Studierenden.]
+des Studentenn.]
 
 ---
-[KI-GESTÜTZTER ENTWURF — Studierender sollte insb. den Abschnitt Einschätzung
+[KI-GESTÜTZTER ENTWURF — Studentenr sollte insb. den Abschnitt Einschätzung
 selbst formulieren; das ist sein/ihr Denken, keine Notizenzusammenfassung]
 ```
 
@@ -162,7 +162,7 @@ vom [Datum] / § [X] ZPO/VwGO/VwVfG / im Hinblick auf den Termin vom [Datum]] an
 
 4. Vorgeschlagene nächste Schritte: [soweit relevant]
 
-[Unterschriftsblock — Studierender unter Aufsicht von [Supervisor, Rechtsanwalt/-anwältin]]
+[Unterschriftsblock — Studentenr unter Aufsicht von [Supervisor, Rechtsanwalt/-anwältin]]
 
 [Zustellungsnachweis falls eingereicht]
 
@@ -193,7 +193,7 @@ Entsprechend der Klinik-Konfiguration:
 - **Strategische Hinweise an Mandanten ohne Supervisorengespräch:** Schlechte Nachrichten (z. B. geringer Erfolgsaussichten) oder strategische Optionen gehören in das Supervisorengespräch, nicht in einen Statusbrief.
 - **Gerichtlicher Statusbericht ohne Supervisoren-Freigabe:** Verstoß gegen § 6 Abs. 2 RDG. Jedes nach außen gehende Schriftstück wird vom Supervisor freigegeben.
 - **Falsche Datumsangaben:** Fristen- und Terminangaben im Mandantenbrief müssen mit `deadlines.yaml` abgeglichen werden.
-- **Studentische Einschätzung im internen Bericht KI-generiert:** Der Abschnitt "Einschätzung des Studierenden" ist persönliches Denken. Die KI kann ihn strukturieren; schreiben muss ihn der Studierende selbst.
+- **Studentische Einschätzung im internen Bericht KI-generiert:** Der Abschnitt "Einschätzung des Studentenn" ist persönliches Denken. Die KI kann ihn strukturieren; schreiben muss ihn der Studenten selbst.
 
 ## Quellenpflicht
 

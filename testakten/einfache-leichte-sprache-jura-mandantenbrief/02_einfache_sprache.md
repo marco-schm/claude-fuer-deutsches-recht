@@ -106,4 +106,4 @@ Sabine Muster, Rechtsanwältin
 
 ---
 
-> **Hinweis:** Dieser Brief wurde nach den Grundsätzen der **Einfachen Sprache** (DIN SPEC 33429) vereinfacht. Zielgruppe: Mandantinnen und Mandanten mit eingeschränkter Lesekompetenz oder wenig juristischem Vorwissen. Die Fassung ersetzt nicht das juristische Originalschreiben.
+> **Hinweis:** Dieser Brief wurde nach den Grundsätzen der **Einfachen Sprache** (DIN SPEC 33429) vereinfacht. Zielgruppe: Mandanten mit eingeschränkter Lesekompetenz oder wenig juristischem Vorwissen. Die Fassung ersetzt nicht das juristische Originalschreiben.

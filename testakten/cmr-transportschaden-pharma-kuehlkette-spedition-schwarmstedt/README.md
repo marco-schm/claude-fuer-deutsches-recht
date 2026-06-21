@@ -22,7 +22,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 ## Kurzbild
 
-- Mandantin: Schwarmstedt Logistik GmbH, Schwarmstedt (Niedersachsen), 145 Mitarbeitende, ADR-zertifizierter Pharma- und Gefahrgutspediteur; GF Eberhard Funkbruch.
+- Mandantin: Schwarmstedt Logistik GmbH, Schwarmstedt (Niedersachsen), 145 Mitarbeiter, ADR-zertifizierter Pharma- und Gefahrgutspediteur; GF Eberhard Funkbruch.
 - Transportauftrag: Temperaturgefuehrte Krebs-Immuntherapie (monoklonaler Antikörper, 144 Vials, Einzelwert 86.400 EUR/Vial, Gesamtwert 12.441.600 EUR) von MediVita SE (Wuppertal) an Universitätsklinik Lyon; CMR-Frachtbrief Nr. CMR-2026-DE-001-0018, 12. Januar 2026.
 - Subunternehmer: Petrescu Transport SRL (Bukarest, Rumänien); Fahrer Catalin Petrescu.
 - Kühlkettenbruch: A6 Bourg-en-Bresse, 14. Januar 2026, 03:18–03:54 Uhr; 36 Minuten über +8°C, Peak +14,3°C; 95 von 144 Vials vernichtet; Schaden 8.208.000 EUR.

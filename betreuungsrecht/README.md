@@ -60,8 +60,8 @@ Wünsche der betreuten Person dokumentieren und rechtzeitig Hilfe holen.
 - Familienbetreuer, die erstmals mit Gericht, Bank, Heim, Pflegekasse und Arztkommunikation umgehen müssen
 - Berufsbetreuerinnen und Berufsbetreuer mit Sachkundenachweis nach § 23 BtOG
 - Vereinsbetreuerinnen und Vereinsbetreuer (§ 18 BtOG)
-- Mitarbeitende von Betreuungsbehörden (§§ 6 ff. BtOG)
-- Anwältinnen und Anwälte, die Betreuer, Angehörige oder Betroffene begleiten
+- Mitarbeiter von Betreuungsbehörden (§§ 6 ff. BtOG)
+- Anwälte, die Betreuer, Angehörige oder Betroffene begleiten
 
 ## Wichtige Rechtsgrundlagen
 

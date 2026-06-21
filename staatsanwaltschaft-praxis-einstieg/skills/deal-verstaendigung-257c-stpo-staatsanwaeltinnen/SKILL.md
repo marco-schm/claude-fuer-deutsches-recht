@@ -1,6 +1,6 @@
 ---
 name: deal-verstaendigung-257c-stpo-staatsanwaeltinnen
-description: "Verständigung nach § 257c StPO: StA sauber positionieren: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Verständigung nach § 257c StPO: StA sauber positionieren: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Verständigung nach § 257c StPO: StA sauber positionieren

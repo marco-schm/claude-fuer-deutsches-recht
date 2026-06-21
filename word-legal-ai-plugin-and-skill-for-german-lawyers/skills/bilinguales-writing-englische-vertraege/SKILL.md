@@ -1,9 +1,9 @@
 ---
 name: bilinguales-writing-englische-vertraege
-description: "Bilinguales Legal Writing für deutsche Anwältinnen und Anwälte: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Bilinguales Legal Writing für deutsche Anwälte: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Word Legal Ai Plugin And Skill For German Lawyers."
 ---
 
-# Bilinguales Legal Writing für deutsche Anwältinnen und Anwälte
+# Bilinguales Legal Writing für deutsche Anwälte
 
 ## Arbeitsweg
 
@@ -25,6 +25,6 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 ## Arbeitsworkflow
 1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
 2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
-3. **Materielle Weichen:** Die Kernfragen zu **Bilinguales Legal Writing für deutsche Anwältinnen und Anwälte** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
+3. **Materielle Weichen:** Die Kernfragen zu **Bilinguales Legal Writing für deutsche Anwälte** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
 4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
 5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.

@@ -1,6 +1,6 @@
 ---
 name: ladung-erhalten-erste-orientierung-orientierung
-description: "Ladung erhalten: erste Orientierung (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei erste Ladung, Ort, Zeit, Entschuldigung, Verdienstausfall und Vorbereitung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Ladung erhalten: erste Orientierung (Orientierung): hilft ehrenamtlichen Richtern bei erste Ladung, Ort, Zeit, Entschuldigung, Verdienstausfall und Vorbereitung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Ladung erhalten: erste Orientierung: Orientierung

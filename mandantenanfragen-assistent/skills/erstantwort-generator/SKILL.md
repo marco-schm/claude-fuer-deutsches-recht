@@ -63,7 +63,7 @@ vielen Dank für Ihre Anfrage, die uns heute zugegangen ist.
 
 [DRINGLICHKEITS-HINWEIS — nur wenn HOCH: Absatz einfügen, sonst weglassen]
 
-Wir begleiten potenzielle Mandantinnen und Mandanten gern dabei, die richtigen
+Wir begleiten potenzielle Mandanten gern dabei, die richtigen
 nächsten Schritte zu finden. Bitte beachten Sie, dass [MANDATSVERHAELTNIS-DISCLAIMER-KURZFORM].
 
 Für eine erste Terminabsprache stehen wir Ihnen telefonisch zur Verfügung:

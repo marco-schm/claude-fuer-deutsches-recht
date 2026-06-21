@@ -10,7 +10,7 @@ description: "Übt die Subsumtion als Königsdisziplin der deutschen Klausur —
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DRiG § 5a Studiendauer 9 Semester (Regelstudienzeit), Freischuss-Frist (i.d.R. 8 Semester nach JAG), Wiederholungsfrist, Hausarbeit 4-6 Wochen.
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
@@ -70,16 +70,16 @@ Diese Skill **markiert und korrigiert** systematisch:
 
 Im Drill-Modus läuft die Skill so:
 
-1. Studierender nennt Norm und Sachverhalt.
+1. Studentenr nennt Norm und Sachverhalt.
 2. Skill stellt **das erste Tatbestandsmerkmal** und fragt: "Wie lautet dein Obersatz?"
-3. Studierender formuliert.
+3. Studentenr formuliert.
 4. Skill korrigiert nur **diesen einen Satz** (z. B. "Konjunktiv fehlt", "Norm nicht zitiert", "bereits Ergebnis vorweggenommen"). Keine Vorlage, kein Mustertext.
 5. Definition: Skill fragt "Wie definierst du dieses Merkmal?" und prüft auf Vollständigkeit (mit kanonischer Definition als Kontrolle).
 6. Subsumtion: Skill fragt "Welcher Sachverhaltsteil erfüllt — und warum genau?"
 7. Erst dann: Ergebnis.
 8. Nächstes Merkmal.
 
-Der Studierende **schreibt die Subsumtion selbst**. Die Skill schreibt sie nicht vor.
+Der Studenten **schreibt die Subsumtion selbst**. Die Skill schreibt sie nicht vor.
 
 ## Beispiele zum Drill-Aufbau (Skill nutzt sie als Anlass)
 
@@ -91,7 +91,7 @@ Der Studierende **schreibt die Subsumtion selbst**. Die Skill schreibt sie nicht
 
 - **Korrekturmarken** im eingereichten Text (welcher Subsumtionsfehler an welcher Stelle).
 - **Eine konkrete Nachfrage** pro Fehler — kein Mustergutachten.
-- Am Ende: **eine Empfehlung**, welcher Subsumtionsfehler typisch für diesen Studierenden wiederkehrt (für `jurastudium-anpassen`).
+- Am Ende: **eine Empfehlung**, welcher Subsumtionsfehler typisch für diesen Studentenn wiederkehrt (für `jurastudium-anpassen`).
 
 ## Was diese Skill nicht tut
 

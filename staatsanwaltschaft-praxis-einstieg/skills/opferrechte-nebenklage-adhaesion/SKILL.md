@@ -1,6 +1,6 @@
 ---
 name: opferrechte-nebenklage-adhaesion
-description: "Opferrechte, Nebenklage und Adhäsion: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Opferrechte, Nebenklage und Adhäsion: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Opferrechte, Nebenklage und Adhäsion

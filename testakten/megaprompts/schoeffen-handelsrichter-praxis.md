@@ -6,22 +6,22 @@ Dieser Megaprompt enthaelt top-10 von 80 Skills des Plugins `schoeffen-handelsri
 
 ## Inhaltsverzeichnis
 
-1. **ehrenamtlicher-richter-vg-orientierung** — Ehrenamtlicher Richter Verwaltungsgericht (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Rolle im Ve…
+1. **ehrenamtlicher-richter-vg-orientierung** — Ehrenamtlicher Richter Verwaltungsgericht (Orientierung): hilft ehrenamtlichen Richtern bei Rolle im Ve…
 2. **beratung-abstimmung-orientierung-sitzung** — Beratung und Abstimmung: erklärt Beratungsgeheimnis, Abstimmungslogik, Dissens und Protokollfragen für Schöffen, Handels…
-3. **handelsrichter-kfh-rolle-orientierung** — Handelsrichter in der Kammer für Handelssachen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei KfH-Zu…
-4. **bilanzstreit-orientierung-sitzung** — Handelsrichter Bilanzstreit (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Jahresabschluss, Gewährle…
-5. **handelsrichter-gesellschafterstreit-orientierung** — Handelsrichter Gesellschafterstreit (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei GmbH/OHG/KG-Strei…
-6. **vertriebsstreit-orientierung-sitzung** — Handelsrichter Vertriebsstreit (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Handelsvertreter, Vert…
-7. **schoeffe-wirtschaftsstrafverfahren-orientierung** — Wirtschaftsstrafverfahren für Schöffen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Bilanzen, Zahl…
-8. **ehrenamtlicher-richter-beamtenrecht-orientierung** — Ehrenamtlicher Richter Beamtenrecht (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Beurteilung, Konk…
-9. **ladung-erhalten-erste-orientierung-orientierung** — Ladung erhalten: erste Orientierung (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei erste Ladung, Ort…
-10. **schoeffe-strafkammer-rolle-orientierung** — Schöffe in der Strafkammer (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Rolle, Rechte, Pflichten, …
+3. **handelsrichter-kfh-rolle-orientierung** — Handelsrichter in der Kammer für Handelssachen (Orientierung): hilft ehrenamtlichen Richtern bei KfH-Zu…
+4. **bilanzstreit-orientierung-sitzung** — Handelsrichter Bilanzstreit (Orientierung): hilft ehrenamtlichen Richtern bei Jahresabschluss, Gewährle…
+5. **handelsrichter-gesellschafterstreit-orientierung** — Handelsrichter Gesellschafterstreit (Orientierung): hilft ehrenamtlichen Richtern bei GmbH/OHG/KG-Strei…
+6. **vertriebsstreit-orientierung-sitzung** — Handelsrichter Vertriebsstreit (Orientierung): hilft ehrenamtlichen Richtern bei Handelsvertreter, Vert…
+7. **schoeffe-wirtschaftsstrafverfahren-orientierung** — Wirtschaftsstrafverfahren für Schöffen (Orientierung): hilft ehrenamtlichen Richtern bei Bilanzen, Zahl…
+8. **ehrenamtlicher-richter-beamtenrecht-orientierung** — Ehrenamtlicher Richter Beamtenrecht (Orientierung): hilft ehrenamtlichen Richtern bei Beurteilung, Konk…
+9. **ladung-erhalten-erste-orientierung-orientierung** — Ladung erhalten: erste Orientierung (Orientierung): hilft ehrenamtlichen Richtern bei erste Ladung, Ort…
+10. **schoeffe-strafkammer-rolle-orientierung** — Schöffe in der Strafkammer (Orientierung): hilft ehrenamtlichen Richtern bei Rolle, Rechte, Pflichten, …
 
 ---
 
 ## Skill: `ehrenamtlicher-richter-vg-orientierung`
 
-_Ehrenamtlicher Richter Verwaltungsgericht (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Rolle im Verwaltungsprozess, Behördenakte, Amtsermittlung und Beratungsgeheimnis mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis._
+_Ehrenamtlicher Richter Verwaltungsgericht (Orientierung): hilft ehrenamtlichen Richtern bei Rolle im Verwaltungsprozess, Behördenakte, Amtsermittlung und Beratungsgeheimnis mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis._
 
 # Ehrenamtlicher Richter Verwaltungsgericht: Orientierung
 
@@ -127,7 +127,7 @@ Konkret zu prüfen:
 
 ## Skill: `handelsrichter-kfh-rolle-orientierung`
 
-_Handelsrichter in der Kammer für Handelssachen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei KfH-Zuständigkeit, kaufmännische Expertise, Beratung und Urteilsfindung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis._
+_Handelsrichter in der Kammer für Handelssachen (Orientierung): hilft ehrenamtlichen Richtern bei KfH-Zuständigkeit, kaufmännische Expertise, Beratung und Urteilsfindung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis._
 
 # Handelsrichter in der Kammer für Handelssachen: Orientierung
 
@@ -189,7 +189,7 @@ Konkret zu prüfen:
 
 ## Skill: `bilanzstreit-orientierung-sitzung`
 
-_Handelsrichter Bilanzstreit (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Jahresabschluss, Gewährleistung, Earn-out, Bilanzgarantie und kaufmännische Plausibilität mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis._
+_Handelsrichter Bilanzstreit (Orientierung): hilft ehrenamtlichen Richtern bei Jahresabschluss, Gewährleistung, Earn-out, Bilanzgarantie und kaufmännische Plausibilität mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis._
 
 # Handelsrichter Bilanzstreit: Orientierung
 
@@ -250,7 +250,7 @@ Konkret zu prüfen:
 
 ## Skill: `handelsrichter-gesellschafterstreit-orientierung`
 
-_Handelsrichter Gesellschafterstreit (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei GmbH/OHG/KG-Streit, Beschlussmängel, Treuepflicht und einstweiliger Rechtsschutz mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis._
+_Handelsrichter Gesellschafterstreit (Orientierung): hilft ehrenamtlichen Richtern bei GmbH/OHG/KG-Streit, Beschlussmängel, Treuepflicht und einstweiliger Rechtsschutz mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis._
 
 # Handelsrichter Gesellschafterstreit: Orientierung
 
@@ -309,7 +309,7 @@ Konkret zu prüfen:
 
 ## Skill: `vertriebsstreit-orientierung-sitzung`
 
-_Handelsrichter Vertriebsstreit (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Handelsvertreter, Vertragshändler, Ausgleichsanspruch, Kündigung und Provisionsstreit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis._
+_Handelsrichter Vertriebsstreit (Orientierung): hilft ehrenamtlichen Richtern bei Handelsvertreter, Vertragshändler, Ausgleichsanspruch, Kündigung und Provisionsstreit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis._
 
 # Handelsrichter Vertriebsstreit: Orientierung
 
@@ -370,7 +370,7 @@ Konkret zu prüfen:
 
 ## Skill: `schoeffe-wirtschaftsstrafverfahren-orientierung`
 
-_Wirtschaftsstrafverfahren für Schöffen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Bilanzen, Zahlungsflüsse, Insolvenzdelikte, Steuerzahlen und Sachverständige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis._
+_Wirtschaftsstrafverfahren für Schöffen (Orientierung): hilft ehrenamtlichen Richtern bei Bilanzen, Zahlungsflüsse, Insolvenzdelikte, Steuerzahlen und Sachverständige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis._
 
 # Wirtschaftsstrafverfahren für Schöffen: Orientierung
 
@@ -431,7 +431,7 @@ Konkret zu prüfen:
 
 ## Skill: `ehrenamtlicher-richter-beamtenrecht-orientierung`
 
-_Ehrenamtlicher Richter Beamtenrecht (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Beurteilung, Konkurrentenstreit, Disziplinarrecht, Besoldung und Dienstunfall mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis._
+_Ehrenamtlicher Richter Beamtenrecht (Orientierung): hilft ehrenamtlichen Richtern bei Beurteilung, Konkurrentenstreit, Disziplinarrecht, Besoldung und Dienstunfall mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis._
 
 # Ehrenamtlicher Richter Beamtenrecht: Orientierung
 
@@ -492,7 +492,7 @@ Konkret zu prüfen:
 
 ## Skill: `ladung-erhalten-erste-orientierung-orientierung`
 
-_Ladung erhalten: erste Orientierung (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei erste Ladung, Ort, Zeit, Entschuldigung, Verdienstausfall und Vorbereitung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis._
+_Ladung erhalten: erste Orientierung (Orientierung): hilft ehrenamtlichen Richtern bei erste Ladung, Ort, Zeit, Entschuldigung, Verdienstausfall und Vorbereitung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis._
 
 # Ladung erhalten: erste Orientierung: Orientierung
 
@@ -553,7 +553,7 @@ Konkret zu prüfen:
 
 ## Skill: `schoeffe-strafkammer-rolle-orientierung`
 
-_Schöffe in der Strafkammer (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Rolle, Rechte, Pflichten, Fragerecht, Aktenkenntnis und richterliche Unabhängigkeit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis._
+_Schöffe in der Strafkammer (Orientierung): hilft ehrenamtlichen Richtern bei Rolle, Rechte, Pflichten, Fragerecht, Aktenkenntnis und richterliche Unabhängigkeit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis._
 
 # Schöffe in der Strafkammer: Orientierung
 

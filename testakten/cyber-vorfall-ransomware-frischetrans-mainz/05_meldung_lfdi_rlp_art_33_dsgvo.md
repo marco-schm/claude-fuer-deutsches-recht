@@ -74,7 +74,7 @@ Forensische Analyse ergab, dass die Angreifer bereits ab dem 04.05.2026 (ca. 22:
 1. **Kunden (Unternehmen):**
    18 Geschäftskunden der Frischetrans Mittelrhein GmbH. Abgeflossene Daten umfassen Kundenstammdaten (Firmendaten, Ansprechpartner, Vertrags- und Lieferdetails, Bankverbindungen für die Abrechnung).
 
-2. **Mitarbeiterinnen und Mitarbeiter:**
+2. **Mitarbeiter:**
    280 aktive Beschäftigte, davon 38 Mitarbeiter mit besonders sensiblen Gesundheitsdaten aus laufenden oder abgeschlossenen Betrieblichen Eingliederungsmanagement-Verfahren (BEM). Bei diesen 38 Personen sind Diagnosen, Therapieverläufe und ärztliche Bescheinigungen in den Personalakten enthalten.
 
    Darüber hinaus: Personalstammdaten (Name, Adresse, Geburtsdatum, Sozialversicherungsnummer, Bankverbindung, Lohnabrechnung) aller 280 Mitarbeiter.

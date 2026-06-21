@@ -1,6 +1,6 @@
 ---
 name: arbeitnehmeraehnliche-selbstaendige
-description: "Solo-Selbstständige: prüft im DRV-Raster Auftraggeberkonzentration und Mitarbeitende; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Solo-Selbstständige: prüft im DRV-Raster Auftraggeberkonzentration und Mitarbeiter; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Sozialversicherung und Vorsorge: Prüft im drv-raster auftraggeberkonzentration und mitarbeitende

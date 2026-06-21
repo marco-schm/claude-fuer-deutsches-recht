@@ -7,7 +7,7 @@ description: "Vollständige Relation im Schulstandard für Referendar-/Assessorp
 
 **Vorsicht: hiermit bitte nicht mogeln im Studium.** Dieser Skill schreibt eine ausformulierte Vollrelation auf Prüfungsstandard. Genau deswegen ist die Verwendung als eingereichte Klausur- oder Hausarbeitsleistung im juristischen Vorbereitungsdienst eine Prüfungstaeuschung (Paragraf 14 JAG NRW Paragraf 12 JAPO Bayern und vergleichbare Vorschriften der Länder). Folge: Nichtbestehen Aberkennung Disziplinarverfahren. Erlaubt und sinnvoll: Erst selbst schreiben dann mit dieser Vollrelation abgleichen und Schwaechen finden.
 
-Dieser Skill schreibt eine ausformulierte Vollrelation in der Form wie sie im Referendariat und in der Assessor/-innen-Prüfung verlangt wird. Im Gegensatz zur Praxis-Kurzform werden alle Stationen ausgeschrieben als Fliesstext mit Obersatz Definition Subsumtion Ergebnis (Gutachtenstil im Sachverhalt-Teil; Urteilsstil nur dort wo am Ende übernommen wird).
+Dieser Skill schreibt eine ausformulierte Vollrelation in der Form wie sie im Referendariat und in der Assessoren-Prüfung verlangt wird. Im Gegensatz zur Praxis-Kurzform werden alle Stationen ausgeschrieben als Fliesstext mit Obersatz Definition Subsumtion Ergebnis (Gutachtenstil im Sachverhalt-Teil; Urteilsstil nur dort wo am Ende übernommen wird).
 
 Laenge: 8 bis 20 Seiten je nach Aktenumfang. Schreibstil: gutachterlich klar normverankert. Jedes Zitat einer Norm in der Form **Paragraf 433 BGB** oder **Artikel 35 CISG**.
 

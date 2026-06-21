@@ -60,7 +60,7 @@ A: Ja, uneingeschränkt. Wir haben sowohl das Bundesamt für Wirtschaft und Ausf
 
 ---
 
-**F5: Wird es Konsequenzen für Mitarbeitende geben?**
+**F5: Wird es Konsequenzen für Mitarbeiter geben?**
 
 A: Wir führen eine interne Untersuchung durch und werden auf deren Basis alle erforderlichen personellen und organisatorischen Konsequenzen ziehen. Zu laufenden internen Ermittlungen äußern wir uns nicht öffentlich.
 
@@ -134,7 +134,7 @@ Tel.: +49 711 123456-90 | presse@globalmaschinen-gmbh.de
 
 ## 6. Interne Kommunikations-Sperre
 
-Alle Mitarbeitenden sind angewiesen, **keine** Aussagen gegenüber Medien, Behörden oder Dritten zu machen, ohne vorherige Abstimmung mit der Syndikusrechtsanwältin oder der Unternehmenskommunikation. Anfragen sofort an Lena Hauser (+49 711 123456-90) weiterleiten.
+Alle Mitarbeitern sind angewiesen, **keine** Aussagen gegenüber Medien, Behörden oder Dritten zu machen, ohne vorherige Abstimmung mit der Syndikusrechtsanwältin oder der Unternehmenskommunikation. Anfragen sofort an Lena Hauser (+49 711 123456-90) weiterleiten.
 
 ---
 

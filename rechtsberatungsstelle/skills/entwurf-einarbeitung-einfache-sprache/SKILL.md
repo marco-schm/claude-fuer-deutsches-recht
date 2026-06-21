@@ -15,11 +15,11 @@ description: "Erstellt einen Erstentwurf häufiger Schriftstücke der Rechtsbera
 
 ## Zweck
 
-Studierende wenden erhebliche Zeit auf Erstentwürfe von Schriftstücken auf, deren Bildungswert in der rechtlichen Analyse und Strategie liegt — nicht im Abtippen eines Rubrum oder im Formulieren von "Sehr geehrte Damen und Herren". Diese Skill erstellt den Erstentwurf aus Fallnotizen und Rechtsgebiet-spezifischen Mustern, damit die studentische Arbeitszeit dem eigentlichen juristischen Denken zugute kommt.
+Studenten wenden erhebliche Zeit auf Erstentwürfe von Schriftstücken auf, deren Bildungswert in der rechtlichen Analyse und Strategie liegt — nicht im Abtippen eines Rubrum oder im Formulieren von "Sehr geehrte Damen und Herren". Diese Skill erstellt den Erstentwurf aus Fallnotizen und Rechtsgebiet-spezifischen Mustern, damit die studentische Arbeitszeit dem eigentlichen juristischen Denken zugute kommt.
 
-**Jeder Entwurf ist ausdrücklich ein Ausgangspunkt.** Kein fertiges Arbeitsergebnis. Der/die Studierende analysiert und überarbeitet; der Supervisor prüft, bevor das Schriftstück die Beratungsstelle verlässt.
+**Jeder Entwurf ist ausdrücklich ein Ausgangspunkt.** Kein fertiges Arbeitsergebnis. Der/die Studenten analysiert und überarbeitet; der Supervisor prüft, bevor das Schriftstück die Beratungsstelle verlässt.
 
-Beachte: Rechtliche Beratungsleistungen an Einzelpersonen durch Studierende erfolgen nach § 6 Abs. 1 RDG als unentgeltliche Rechtsdienstleistung unter Aufsicht eines zur Rechtsanwaltschaft zugelassenen Supervisors (§ 6 Abs. 2 RDG). Alle nach außen gehenden Schriftstücke sind ohne Supervisoren-Freigabe nicht zu versenden.
+Beachte: Rechtliche Beratungsleistungen an Einzelpersonen durch Studenten erfolgen nach § 6 Abs. 1 RDG als unentgeltliche Rechtsdienstleistung unter Aufsicht eines zur Rechtsanwaltschaft zugelassenen Supervisors (§ 6 Abs. 2 RDG). Alle nach außen gehenden Schriftstücke sind ohne Supervisoren-Freigabe nicht zu versenden.
 
 ## Eingaben
 
@@ -34,8 +34,8 @@ Beachte: Rechtliche Beratungsleistungen an Einzelpersonen durch Studierende erfo
 ### Kernvorschriften
 
 - **§ 6 RDG** — Unentgeltliche Rechtsdienstleistung: zulässig durch Rechtsberatungsstellen unter anwaltlicher Aufsicht; die Aufsicht muss durch eine zur Rechtsanwaltschaft zugelassene Person ausgeübt werden.
-- **§ 43a Abs. 2 BRAO** — Mandatsgeheimnis/Verschwiegenheitspflicht: gilt sinngemäß für Studierende der Beratungsstelle; keine Informationen aus dem Mandat nach außen.
-- **§ 203 Abs. 3 StGB** — Strafbarkeit der Verletzung von Privatgeheimnissen; Studierende sind als "berufsmäßig tätige Gehilfen" i. S. d. § 203 Abs. 3 S. 2 StGB zu behandeln.
+- **§ 43a Abs. 2 BRAO** — Mandatsgeheimnis/Verschwiegenheitspflicht: gilt sinngemäß für Studenten der Beratungsstelle; keine Informationen aus dem Mandat nach außen.
+- **§ 203 Abs. 3 StGB** — Strafbarkeit der Verletzung von Privatgeheimnissen; Studenten sind als "berufsmäßig tätige Gehilfen" i. S. d. § 203 Abs. 3 S. 2 StGB zu behandeln.
 - **§§ 114 ff. ZPO** — Prozesskostenhilfe (PKH): Entwürfe für PKH-Anträge müssen wirtschaftliche Verhältnisse vollständig darlegen; Prüfung hinreichender Erfolgsaussichten (§ 114 Abs. 1 S. 1 ZPO).
 - **§§ 1, 2 BerHG** — Beratungshilfe: Voraussetzungen, Bewilligung vor Erbringung der Leistung.
 - **§§ 17, 18, 23 VwVfG** — Form von Widersprüchen und Verwaltungsverfahrensschreiben.
@@ -77,7 +77,7 @@ Fehlende notwendige Tatsachen → nicht erfinden. Markierung: `[TATSACHE FEHLT: 
 
 ### Schritt 3: Zuständiges Gericht / Behörde und Formvorschriften
 
-- **Rubrum:** Gericht, Aktenzeichen (falls vorhanden), Parteien, Bevollmächtigte/r (Studierender unter Aufsicht des Supervisors)
+- **Rubrum:** Gericht, Aktenzeichen (falls vorhanden), Parteien, Bevollmächtigte/r (Studentenr unter Aufsicht des Supervisors)
 - **Formvorschriften:** Schriftform, Unterschrift, Einreichungsweg (post, Fax, beA, elektronisch)
 - Sind örtliche Besonderheiten nicht bekannt: `[PRÜFEN: Einreichungsweg beim zuständigen Gericht / der zuständigen Behörde überprüfen]`
 
@@ -85,7 +85,7 @@ Fehlende notwendige Tatsachen → nicht erfinden. Markierung: `[TATSACHE FEHLT: 
 
 Das Rechtsgebiet-Muster verwenden. Füllen, was aus den Fakten befüllt werden kann. Platzhalter explizit lassen — niemals mit plausibel klingendem Inhalt füllen.
 
-**Wo immer der Entwurf eine Rechtsbehauptung aufstellt:** Diese Behauptung ist eine Hypothese, die der/die Studierende überprüft, keine Schlussfolgerung, auf die der Entwurf sich verlässt. Entsprechend markieren.
+**Wo immer der Entwurf eine Rechtsbehauptung aufstellt:** Diese Behauptung ist eine Hypothese, die der/die Studenten überprüft, keine Schlussfolgerung, auf die der Entwurf sich verlässt. Entsprechend markieren.
 
 ### Schritt 5: Unsicherheiten kennzeichnen
 
@@ -99,11 +99,11 @@ Drei Arten von Markierungen, direkt im Text:
 
 Ein Schriftstück bei Gericht oder einer Behörde einzureichen ist eine folgenschwere Handlung. Das Gate ist das Supervisionsmodell der Beratungsstelle, verstärkt durch die Grundvoraussetzung, dass ein zugelassener Rechtsanwalt/eine zugelassene Rechtsanwältin die Aufsicht innehat (§ 6 Abs. 2 RDG). Gerichtliche und behördliche Einreichungen gehen immer durch die Supervisoren-Prüfung, unabhängig vom gewählten Supervisionsmodell.
 
-- **Formelle Prüfwarteschlange:** Entwurf geht in die Warteschlange; Studierender sieht "in Warteschlange für [Supervisor]"
+- **Formelle Prüfwarteschlange:** Entwurf geht in die Warteschlange; Studentenr sieht "in Warteschlange für [Supervisor]"
 - **Konfigurierbare Flags:** Wenn dieser Schriftstücktyp ein Flag auslöst (gerichtliche Einreichungen in der Regel immer), enthält der Output: "VOR DER EINREICHUNG MIT [SUPERVISOR] ABSPRECHEN"
 - **Leichtere Begleitung:** Standard-Sicherheitslabel; keine zusätzliche Schranke — aber gerichtliche Einreichungen gehen per Klinikverfahren dennoch an den Supervisor vor Einreichung
 
-## Prüfliste für Studierende
+## Prüfliste für Studenten
 
 Vor Vorlage an [Supervisor]:
 
@@ -111,14 +111,14 @@ Vor Vorlage an [Supervisor]:
 - [ ] Jede Tatsache: stimmt sie mit den tatsächlichen Mandantenunterlagen überein?
 - [ ] Jedes [PRÜFEN]-Flag: durch Recherche aufgelöst oder gestrichen
 - [ ] Jedes [TATSACHE FEHLT]-Flag: mit verifizierten Informationen gefüllt oder Abschnitt entfernt
-- [ ] Rechtsgrundlage: ist dies die richtige Argumentation? Gibt es bessere Ansätze? (Das ist die Analyse des Studierenden, nicht des Entwurfs.)
+- [ ] Rechtsgrundlage: ist dies die richtige Argumentation? Gibt es bessere Ansätze? (Das ist die Analyse des Studentenn, nicht des Entwurfs.)
 - [ ] Formvorschriften: Rubrum, Einreichungsweg, Format nach aktuellen Vorschriften korrekt?
 - [ ] [Supervisionsschritt per Klinik-Konfiguration]
 ```
 
 ## Beispiel
 
-**Szenario:** Mandantin Erdem erhält eine fristlose Kündigung ihres Arbeitsverhältnisses. Kündigung zugestellt am 15.04.2026. Studierender Müller soll einen Entwurf der Kündigungsschutzklage beim Arbeitsgericht Berlin erstellen.
+**Szenario:** Mandantin Erdem erhält eine fristlose Kündigung ihres Arbeitsverhältnisses. Kündigung zugestellt am 15.04.2026. Studentenr Müller soll einen Entwurf der Kündigungsschutzklage beim Arbeitsgericht Berlin erstellen.
 
 ```
 /entwurf kündigungsschutzklage-ag
@@ -131,11 +131,11 @@ Entwurf enthält: Rubrum (AG Berlin), Anträge, Klagebegründung mit `[PRÜFEN: 
 
 ## Risiken und typische Fehler
 
-- **Frist nicht beachtet:** Der Entwurf weist auf erkannte Fristen hin, berechnet sie aber nicht selbst. Studierende müssen die Dreiwochenfrist des § 4 KSchG, die Widerspruchsfrist (§ 70 VwGO), Verjährungsfristen (§ 195 BGB) eigenständig prüfen und in `/fristen` eintragen.
+- **Frist nicht beachtet:** Der Entwurf weist auf erkannte Fristen hin, berechnet sie aber nicht selbst. Studenten müssen die Dreiwochenfrist des § 4 KSchG, die Widerspruchsfrist (§ 70 VwGO), Verjährungsfristen (§ 195 BGB) eigenständig prüfen und in `/fristen` eintragen.
 - **Rubrum falsch:** Zuständigkeit, Parteibezeichnungen, Aktenzeichen müssen überprüft werden. Fehlerhaftes Rubrum kann zur Unzulässigkeit führen.
 - **PKH-Antrag vergessen:** Wenn die Mandantin/der Mandant nicht zahlungsfähig ist, muss gleichzeitig mit der Klage ein PKH-Antrag (§ 117 ZPO) eingereicht werden.
 - **Entwurf verlässt Klinik ohne Freigabe:** § 6 Abs. 2 RDG verlangt anwaltliche Aufsicht. Kein Entwurf wird dem Mandanten oder einer Behörde/einem Gericht ohne Supervisoren-Freigabe zugeleitet.
-- **Falsche Rechtsgrundlagen:** Rechtsbehauptungen im Entwurf sind Hypothesen. Der/die Studierende verifiziert jede Norm und Rechtsprechung, bevor der Entwurf weitergereicht wird.
+- **Falsche Rechtsgrundlagen:** Rechtsbehauptungen im Entwurf sind Hypothesen. Der/die Studenten verifiziert jede Norm und Rechtsprechung, bevor der Entwurf weitergereicht wird.
 
 ## Quellenpflicht
 

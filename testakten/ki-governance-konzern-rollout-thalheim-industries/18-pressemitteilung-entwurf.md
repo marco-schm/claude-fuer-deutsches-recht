@@ -21,7 +21,7 @@
 
 Die Thalheim Industries SE, führendes Unternehmen im deutschen Anlagenbau und in der Energietechnik mit Sitz in Mannheim, gibt den Start ihres konzernweiten KI-Governance-Programms bekannt. Mit dem Programm bereitet sich Thalheim Industries auf die vollständige Konformität mit der Verordnung (EU) 2024/1689 über künstliche Intelligenz (KI-VO) vor, die für Hochrisiko-KI-Systeme ab dem 2. August 2026 verbindlich gilt.
 
-„Wir sehen die EU-KI-Verordnung nicht als Bürde, sondern als Chance, das Vertrauen unserer Kunden, Mitarbeiterinnen und Mitarbeiter sowie Geschäftspartner in unsere technologischen Entscheidungen zu stärken", sagte Dr. Reinhard Thalheim-Lattermann, Vorstandsvorsitzender der Thalheim Industries SE. „Künstliche Intelligenz ist ein zentraler Baustein unserer digitalen Transformation. Governance ist der Rahmen, der sicherstellt, dass wir diese Technologie verantwortungsvoll einsetzen."
+„Wir sehen die EU-KI-Verordnung nicht als Bürde, sondern als Chance, das Vertrauen unserer Kunden, Mitarbeiter sowie Geschäftspartner in unsere technologischen Entscheidungen zu stärken", sagte Dr. Reinhard Thalheim-Lattermann, Vorstandsvorsitzender der Thalheim Industries SE. „Künstliche Intelligenz ist ein zentraler Baustein unserer digitalen Transformation. Governance ist der Rahmen, der sicherstellt, dass wir diese Technologie verantwortungsvoll einsetzen."
 
 [*Redaktionelle Anmerkung: Zitat mit CEO noch abzustimmen.*]
 
@@ -31,9 +31,9 @@ Thalheim Industries setzt derzeit fünf KI-Systeme in operativem Betrieb ein, da
 
 Dr. Sigrid Wolfsbacher, Chief Information Officer: „Wir haben ein zentrales KI-Inventar aufgebaut und alle eingesetzten Systeme klassifiziert. Das gibt uns die Transparenz, die wir brauchen, um verantwortungsvoll zu handeln."
 
-**KI-Kompetenz für alle Mitarbeiterinnen und Mitarbeiter**
+**KI-Kompetenz für alle Mitarbeiter**
 
-Ein Kernbestandteil des Programms ist die konzernweite AI-Literacy-Initiative: Alle 12.000 Mitarbeiterinnen und Mitarbeiter erhalten bis Oktober 2026 eine Schulung zum verantwortungsvollen Umgang mit KI-Systemen — von den Grundlagen bis zur fachbereichsspezifischen Vertiefung für Nutzer von Hochrisiko-Systemen.
+Ein Kernbestandteil des Programms ist die konzernweite AI-Literacy-Initiative: Alle 12.000 Mitarbeiter erhalten bis Oktober 2026 eine Schulung zum verantwortungsvollen Umgang mit KI-Systemen — von den Grundlagen bis zur fachbereichsspezifischen Vertiefung für Nutzer von Hochrisiko-Systemen.
 
 **Datenschutz als integraler Bestandteil**
 
@@ -46,7 +46,7 @@ Thalheim Industries verhandelt parallel eine Betriebsvereinbarung zu KI-Systemen
 ---
 
 **Über Thalheim Industries SE**
-Die Thalheim Industries SE ist ein führendes deutsches Industrieunternehmen im Bereich Anlagenbau und Energietechnik mit Hauptsitz in Mannheim. Mit rund 12.000 Mitarbeiterinnen und Mitarbeitern und einem Jahresumsatz von ca. 3,2 Milliarden Euro (2025) ist Thalheim Industries in 18 Ländern tätig. Das Unternehmen ist im MDAX gelistet.
+Die Thalheim Industries SE ist ein führendes deutsches Industrieunternehmen im Bereich Anlagenbau und Energietechnik mit Hauptsitz in Mannheim. Mit rund 12.000 Mitarbeitern und einem Jahresumsatz von ca. 3,2 Milliarden Euro (2025) ist Thalheim Industries in 18 Ländern tätig. Das Unternehmen ist im MDAX gelistet.
 
 ---
 

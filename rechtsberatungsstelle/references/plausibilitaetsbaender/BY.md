@@ -2,7 +2,7 @@
 
 ## Zweck
 
-Diese Datei bietet studentischen Beraterinnen und Beratern der Rechtsberatungsstelle einen schnellen Orientierungsrahmen für typische Mandate in Bayern. Die Bänder sind keine Rechtsgutachten, sondern Plausibilitätsmarken: Liegt ein Mandantenanliegen innerhalb des Bands, ist eine eingehende Prüfung sinnvoll; liegt es weit außerhalb, ist besondere Vorsicht geboten oder das Anliegen ist zur Klarstellung zurückzuverweisen. Alle Bänder ersetzen nicht die eigenständige Subsumtion im Einzelfall.
+Diese Datei bietet studentischen Beratern der Rechtsberatungsstelle einen schnellen Orientierungsrahmen für typische Mandate in Bayern. Die Bänder sind keine Rechtsgutachten, sondern Plausibilitätsmarken: Liegt ein Mandantenanliegen innerhalb des Bands, ist eine eingehende Prüfung sinnvoll; liegt es weit außerhalb, ist besondere Vorsicht geboten oder das Anliegen ist zur Klarstellung zurückzuverweisen. Alle Bänder ersetzen nicht die eigenständige Subsumtion im Einzelfall.
 
 ---
 
@@ -26,7 +26,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Bundeslandspezifische Besonderheiten
 
 **Bayerisches Verwaltungsverfahrensgesetz (BayVwVfG)**
-Bayern hat ein eigenes Verwaltungsverfahrensgesetz (BayVwVfG), das dem Bundes-VwVfG strukturell entspricht, aber in einzelnen Punkten abweicht. Relevant für die Beratungsstelle: Widerspruchsverfahren vor bayerischen Behörden richtet sich nach Art. 15 ff. BayVwVfG i. V. m. Art. 13 AGGVG. In Bayern wurde das Widerspruchsverfahren für viele Bereiche des allgemeinen Verwaltungsrechts abgeschafft (Bayerisches Gesetz zur Verwaltungsvereinfachung von 2007); Klage ist dann unmittelbar möglich. Studierenden ist daher wichtig: Vor Empfehlung eines Widerspruchs prüfen, ob der jeweilige Sachbereich vom Widerspruchsausschluss nach Art. 15 Abs. 2 AGGVG erfasst ist.
+Bayern hat ein eigenes Verwaltungsverfahrensgesetz (BayVwVfG), das dem Bundes-VwVfG strukturell entspricht, aber in einzelnen Punkten abweicht. Relevant für die Beratungsstelle: Widerspruchsverfahren vor bayerischen Behörden richtet sich nach Art. 15 ff. BayVwVfG i. V. m. Art. 13 AGGVG. In Bayern wurde das Widerspruchsverfahren für viele Bereiche des allgemeinen Verwaltungsrechts abgeschafft (Bayerisches Gesetz zur Verwaltungsvereinfachung von 2007); Klage ist dann unmittelbar möglich. Studentenn ist daher wichtig: Vor Empfehlung eines Widerspruchs prüfen, ob der jeweilige Sachbereich vom Widerspruchsausschluss nach Art. 15 Abs. 2 AGGVG erfasst ist.
 
 **AGGVG (Ausführungsgesetz zur Verwaltungsgerichtsordnung)**
 Das bayerische AGGVG regelt die Ausführung der VwGO in Bayern. Für die Beratungsstelle bedeutsam: Die Klagefrist beträgt nach wie vor 1 Monat (§ 74 VwGO), sofern kein Widerspruchsverfahren vorgesehen ist. Klage geht dann direkt beim zuständigen Verwaltungsgericht ein (München, Augsburg, Ansbach, Bayreuth, Regensburg, Würzburg).
@@ -49,7 +49,7 @@ Das bayerische AGGVG regelt die Ausführung der VwGO in Bayern. Für die Beratun
 | Ingolstadt | Einfacher Mietspiegel | 2023 | Kappungsgrenze 20 % in 3 Jahren |
 | Würzburg | Einfacher Mietspiegel | 2021 | Kappungsgrenze 20 % in 3 Jahren |
 
-Hinweis für die Praxis: Liegt kein aktueller qualifizierter Mietspiegel vor, kann der Vermieter die Mieterhöhung alternativ mit Sachverständigengutachten oder drei Vergleichswohnungen begründen (§ 558a Abs. 2 BGB). Die Studierenden prüfen zunächst, ob der Mietspiegel formell korrekt nach § 558a Abs. 1 BGB in das Mieterhöhungsschreiben einbezogen wurde.
+Hinweis für die Praxis: Liegt kein aktueller qualifizierter Mietspiegel vor, kann der Vermieter die Mieterhöhung alternativ mit Sachverständigengutachten oder drei Vergleichswohnungen begründen (§ 558a Abs. 2 BGB). Die Studentenn prüfen zunächst, ob der Mietspiegel formell korrekt nach § 558a Abs. 1 BGB in das Mieterhöhungsschreiben einbezogen wurde.
 
 ---
 

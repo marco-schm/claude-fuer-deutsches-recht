@@ -1,13 +1,13 @@
 ---
 name: executive-summary-bausteine
-description: "Executive Summary der KI-Nutzungsrichtlinie für Kanzleien erstellen: Anwendungsfall Kanzleiführung will Mitarbeitenden die wichtigsten Kernpunkte in kurzem Executive Summary vermitteln. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster sechs Kern-Eckp..."
+description: "Executive Summary der KI-Nutzungsrichtlinie für Kanzleien erstellen: Anwendungsfall Kanzleiführung will Mitarbeitern die wichtigsten Kernpunkte in kurzem Executive Summary vermitteln. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster sechs Kern-Eckp..."
 ---
 
 # Executive Summary Bausteine
 
 ## Arbeitsbereich
 
-Executive Summary der KI-Nutzungsrichtlinie für Kanzleien erstellen: Anwendungsfall Kanzleiführung will Mitarbeitenden die wichtigsten Kernpunkte in kurzem Executive Summary vermitteln. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster sechs Kern-Eckpunkte Werkzeugcharakter, Verschwiegenheit, Datenschutz, Quellenprüfung, keine Privat-Accounts, Kennzeichnungspflichten. Output modularer Executive Summary anpassbar an Kanzlei-Groesse und Rechtsgebiete. Abgrenzung zu Richtlinien-Skelett für vollständige Richtlinie und zu Compliance-Regelsatz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Executive Summary der KI-Nutzungsrichtlinie für Kanzleien erstellen: Anwendungsfall Kanzleiführung will Mitarbeitern die wichtigsten Kernpunkte in kurzem Executive Summary vermitteln. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster sechs Kern-Eckpunkte Werkzeugcharakter, Verschwiegenheit, Datenschutz, Quellenprüfung, keine Privat-Accounts, Kennzeichnungspflichten. Output modularer Executive Summary anpassbar an Kanzlei-Groesse und Rechtsgebiete. Abgrenzung zu Richtlinien-Skelett für vollständige Richtlinie und zu Compliance-Regelsatz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Executive Summary der KI-Nutzungsrichtlinie für Kanzleien erstellen: Anwendungs
 
 ## Spezialwissen
 
-Der Executive Summary einer KI-Nutzungsrichtlinie fasst die sechs wichtigsten Eckpunkte so zusammen, dass alle Mitarbeitenden — Anwältinnen und Anwälte wie auch nicht-anwaltliche Kräfte — die wesentlichen Verhaltensregeln sofort überblicken können. Die Bausteine sind modular und können je nach Kanzlei-Profil angepasst werden.
+Der Executive Summary einer KI-Nutzungsrichtlinie fasst die sechs wichtigsten Eckpunkte so zusammen, dass alle Mitarbeitern — Anwälte wie auch nicht-anwaltliche Kräfte — die wesentlichen Verhaltensregeln sofort überblicken können. Die Bausteine sind modular und können je nach Kanzlei-Profil angepasst werden.
 
 ## Rechtlicher Hintergrund
 
@@ -52,7 +52,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ## Vorlagentext / Bausteine
 
 **Eckpunkt 1 – Unterstützendes Werkzeug:**
-Nutzen Sie KI-Systeme nur als Werkzeug, nicht als Ersatz für Ihre juristische Expertise. Die finale Verantwortung für rechtliche Bewertungen und die persönliche Leistungserbringung liegt stets bei den Anwältinnen und Anwälten (§ 43 Satz 1 BRAO).
+Nutzen Sie KI-Systeme nur als Werkzeug, nicht als Ersatz für Ihre juristische Expertise. Die finale Verantwortung für rechtliche Bewertungen und die persönliche Leistungserbringung liegt stets bei den Anwälten (§ 43 Satz 1 BRAO).
 
 **Eckpunkt 2 – Verschwiegenheit:**
 Achten Sie strikt auf die anwaltliche Verschwiegenheitspflicht (§ 43a BRAO, § 203 StGB). Die Weitergabe von Mandatsgeheimnissen an KI-Dienstleister ist berufsrechtlich nur unter den engen Voraussetzungen des § 43e BRAO zulässig. Die sorgfältige Auswahl und vertragliche Bindung des Anbieters ist entscheidend.
@@ -61,7 +61,7 @@ Achten Sie strikt auf die anwaltliche Verschwiegenheitspflicht (§ 43a BRAO, § 
 Personenbezogene Daten, Mandatsgeheimnisse und Geschäftsgeheimnisse dürfen nur in Ausnahmefällen und nach Möglichkeit anonymisiert in KI-Systeme eingegeben werden. Dokumente, Akten und Informationen müssen vor einem Upload anonymisiert werden. Im Zweifel ist der Upload zu unterlassen.
 
 **Eckpunkt 4 – Quellenprüfung und Risikobewusstsein:**
-Auch wenn der Output der KI-Systeme plausibel klingt: Die Ergebnisse sind kritisch zu hinterfragen. Zitate und Quellen müssen zwingend nachrecherchiert werden. Ein "Grundvertrauen" wie bei menschlichen Mitarbeitenden ist nicht angebracht (BRAK-Hinweise 12/2024; DAV 32/2025).
+Auch wenn der Output der KI-Systeme plausibel klingt: Die Ergebnisse sind kritisch zu hinterfragen. Zitate und Quellen müssen zwingend nachrecherchiert werden. Ein "Grundvertrauen" wie bei menschlichen Mitarbeitern ist nicht angebracht (BRAK-Hinweise 12/2024; DAV 32/2025).
 
 **Eckpunkt 5 – Keine Privat-Accounts:**
 Verwenden Sie für Ihre berufliche Tätigkeit in der Kanzlei nur vorab freigegebene Kanzlei-Accounts, nicht Ihre privaten Accounts, um dem Compliance-Risiko der "Schatten-KI" entgegenzuwirken.

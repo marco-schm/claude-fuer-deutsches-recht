@@ -189,7 +189,7 @@ Pro Stadt: Typ (qualifiziert/einfach), aktueller Stand, offizielle URL, Online-A
 
 **Typ.** qualifiziert nach § 558d BGB
 
-**Aktueller Stand.** Mietspiegel 2024; veröffentlicht/gültig seit 01.06.2024; Stichtag der Erhebung: nicht explizit genannt auf der offiziellen Seite, Fortentwicklung auf Basis der Erhebung 2022 und einer weiteren Stichprobenerhebung 2024 (rund 3.500 Mieter:innen-Haushalte); vom Magistrat am 17.05.2024 anerkannt
+**Aktueller Stand.** Mietspiegel 2024; veröffentlicht/gültig seit 01.06.2024; Stichtag der Erhebung: nicht explizit genannt auf der offiziellen Seite, Fortentwicklung auf Basis der Erhebung 2022 und einer weiteren Stichprobenerhebung 2024 (rund 3.500 Mieter-Haushalte); vom Magistrat am 17.05.2024 anerkannt
 
 **Offizielle URL.** [Mietspiegel | Stadt Frankfurt am Main](https://frankfurt.de/themen/planen-bauen-und-wohnen/wohnen/informationen-zum-wohnungsmarkt/mietspiegel)
 
@@ -467,7 +467,7 @@ Pro Stadt: Typ (qualifiziert/einfach), aktueller Stand, offizielle URL, Online-A
 
 ## Universitätsstädte
 
-Universitätsstädte mit besonders angespanntem Wohnungsmarkt (Studierenden-Nachfrage). Alphabetisch sortiert. Quellen ausschließlich amtlich (Stadtverwaltung, Landesministerium).
+Universitätsstädte mit besonders angespanntem Wohnungsmarkt (Studentenn-Nachfrage). Alphabetisch sortiert. Quellen ausschließlich amtlich (Stadtverwaltung, Landesministerium).
 
 ### Bamberg
 
@@ -565,7 +565,7 @@ Universitätsstädte mit besonders angespanntem Wohnungsmarkt (Studierenden-Nach
 
 **PDF-Download.** [Qualifizierter Mietspiegel 2026 (PDF)](https://www.greifswald.de/de/.galleries/dokumente/Pressestelle-Dokumente/2026-04-14-BV-V_08_0261-Mietspiegelbroschuere-Greifswald-2026.pdf)
 
-**Besonderheiten.** Greifswald ist nach der Mietpreisbegrenzungs- und Kappungsgrenzenlandesverordnung M-V vom 26.08.2023 als Gebiet mit angespanntem Wohnungsmarkt ausgewiesen; damit gilt bei Wiedervermietung die Mietpreisbremse (max. 10 % über ortsüblicher Vergleichsmiete) und bei Bestandsmieten die abgesenkte Kappungsgrenze von 15 % innerhalb von drei Jahren. Die Stadt weist den aktuellen Mietspiegel als Ergebnis einer Arbeitsgruppe aus; beteiligt sind u. a. Haus & Grund Greifswald e.V., Mieterverein Vorpommern-Greifswald e.V., WVG, WGG, BImA, IVD und die Stadtverwaltung. Der einfache Mietspiegel 2024 galt bis zum 1. März 2026; der qualifizierte Mietspiegel 2026 ist der erste seiner Art für Greifswald. Studierendenwohnheime, betreutes Wohnen, selbstgenutztes Eigentum, WG-Zimmer und Gästezimmer waren nicht einbezogen.
+**Besonderheiten.** Greifswald ist nach der Mietpreisbegrenzungs- und Kappungsgrenzenlandesverordnung M-V vom 26.08.2023 als Gebiet mit angespanntem Wohnungsmarkt ausgewiesen; damit gilt bei Wiedervermietung die Mietpreisbremse (max. 10 % über ortsüblicher Vergleichsmiete) und bei Bestandsmieten die abgesenkte Kappungsgrenze von 15 % innerhalb von drei Jahren. Die Stadt weist den aktuellen Mietspiegel als Ergebnis einer Arbeitsgruppe aus; beteiligt sind u. a. Haus & Grund Greifswald e.V., Mieterverein Vorpommern-Greifswald e.V., WVG, WGG, BImA, IVD und die Stadtverwaltung. Der einfache Mietspiegel 2024 galt bis zum 1. März 2026; der qualifizierte Mietspiegel 2026 ist der erste seiner Art für Greifswald. Studentennwohnheime, betreutes Wohnen, selbstgenutztes Eigentum, WG-Zimmer und Gästezimmer waren nicht einbezogen.
 
 ### Göttingen
 
@@ -593,7 +593,7 @@ Universitätsstädte mit besonders angespanntem Wohnungsmarkt (Studierenden-Nach
 
 **PDF-Download.** [Mietspiegel 2026–2027 als PDF](https://halle.de/fileadmin/Binaries/Publikationen/Stadtentwicklung/Mietspiegel/Mietspiegel_2026_2027_Broschuere.pdf)
 
-**Besonderheiten.** Die Stadt Halle (Saale) führt den Mietspiegel als qualifizierten Mietspiegel; er wurde am 17.12.2025 vom Stadtrat anerkannt und ist eine Fortschreibung des qualifizierten Mietspiegels 2024. Herausgebende Stelle ist die Stadt Halle (Saale), Abteilung Stadtentwicklung / Freiraumplanung; erstellt wurde er durch DOMUS Consult und anerkannt auch durch Interessenvertretungen der Mietenden und Vermietenden. Auf der offiziellen Seite wird der Online-Mietspiegelrechner ausdrücklich genannt. Für Neuvermietungen weist die Stadt auf die Beachtung der Mietpreisbremse hin; bei Mieterhöhungen gilt die ortsübliche Vergleichsmiete und die 20%-Kappungsgrenze innerhalb von drei Jahren. Der Mietspiegel gilt nicht für öffentlich geförderten bzw. preisgebundenen Wohnraum sowie für Studierendenwohnheime und andere Sonderwohnformen. Halle ist eine Großstadt mit Pflicht zur Mietspiegelerstellung; einen Hinweis, dass bewusst kein Mietspiegel existiert, gibt es hier nicht.
+**Besonderheiten.** Die Stadt Halle (Saale) führt den Mietspiegel als qualifizierten Mietspiegel; er wurde am 17.12.2025 vom Stadtrat anerkannt und ist eine Fortschreibung des qualifizierten Mietspiegels 2024. Herausgebende Stelle ist die Stadt Halle (Saale), Abteilung Stadtentwicklung / Freiraumplanung; erstellt wurde er durch DOMUS Consult und anerkannt auch durch Interessenvertretungen der Mietenden und Vermietenden. Auf der offiziellen Seite wird der Online-Mietspiegelrechner ausdrücklich genannt. Für Neuvermietungen weist die Stadt auf die Beachtung der Mietpreisbremse hin; bei Mieterhöhungen gilt die ortsübliche Vergleichsmiete und die 20%-Kappungsgrenze innerhalb von drei Jahren. Der Mietspiegel gilt nicht für öffentlich geförderten bzw. preisgebundenen Wohnraum sowie für Studentennwohnheime und andere Sonderwohnformen. Halle ist eine Großstadt mit Pflicht zur Mietspiegelerstellung; einen Hinweis, dass bewusst kein Mietspiegel existiert, gibt es hier nicht.
 
 ### Heidelberg
 
@@ -691,7 +691,7 @@ Universitätsstädte mit besonders angespanntem Wohnungsmarkt (Studierenden-Nach
 
 **PDF-Download.** [Stadt Oldenburg Serviceportal (Dokumentation / Mietspiegel-Download)](https://www.oldenburg.de/startseite/leben-umwelt/planen-bauen/stadtplanung/aktuelles/fortschreibung-des-mietspiegels-veroeffentlicht.html)
 
-**Besonderheiten.** Oldenburg gehört in Niedersachsen zu den Kommunen mit angespanntem Wohnungsmarkt; daher gelten die Mietpreisbremse, die abgesenkte Kappungsgrenze von 15 % in drei Jahren und die verlängerte Kündigungssperrfrist nach der Niedersächsischen Mieterschutzverordnung, derzeit bis 31. Dezember 2029 für die Mietpreisbremse/Kappungsgrenze. Herausgebende Stelle: Stadt Oldenburg in Zusammenarbeit mit dem ALP Institut für Wohnen und Stadtentwicklung GmbH sowie dem Arbeitskreis Mietspiegel (u. a. Mieterverein Oldenburg und Umgebung e.V., Haus- und Grundeigentümerverein Oldenburg e.V., Verband Wohneigentum Niedersachsen, Stadtverwaltung). Der Mietspiegel gilt für Mietwohnungen und vermietete Häuser im freien Wohnungsmarkt mit 20 bis 200 m²; Wohnungen/Häuser ohne von der Vermieterseite bereitgestellte Heizung sind ausgenommen. Für Studierendenwohnheime und andere ausgenommene Wohnformen ist er nicht anwendbar.
+**Besonderheiten.** Oldenburg gehört in Niedersachsen zu den Kommunen mit angespanntem Wohnungsmarkt; daher gelten die Mietpreisbremse, die abgesenkte Kappungsgrenze von 15 % in drei Jahren und die verlängerte Kündigungssperrfrist nach der Niedersächsischen Mieterschutzverordnung, derzeit bis 31. Dezember 2029 für die Mietpreisbremse/Kappungsgrenze. Herausgebende Stelle: Stadt Oldenburg in Zusammenarbeit mit dem ALP Institut für Wohnen und Stadtentwicklung GmbH sowie dem Arbeitskreis Mietspiegel (u. a. Mieterverein Oldenburg und Umgebung e.V., Haus- und Grundeigentümerverein Oldenburg e.V., Verband Wohneigentum Niedersachsen, Stadtverwaltung). Der Mietspiegel gilt für Mietwohnungen und vermietete Häuser im freien Wohnungsmarkt mit 20 bis 200 m²; Wohnungen/Häuser ohne von der Vermieterseite bereitgestellte Heizung sind ausgenommen. Für Studentennwohnheime und andere ausgenommene Wohnformen ist er nicht anwendbar.
 
 ### Passau
 
@@ -719,7 +719,7 @@ Universitätsstädte mit besonders angespanntem Wohnungsmarkt (Studierenden-Nach
 
 **PDF-Download.** [Mietspiegel 2026](https://www.regensburg.de/fm/121/mietspiegel-2024.pdf)
 
-**Besonderheiten.** Regensburg ist nach der Bayerischen Mieterschutzverordnung ein Gebiet mit angespanntem Wohnungsmarkt; der Mietspiegel 2024 nennt für Regensburg Mietpreisbremse, Kappungsgrenze und verlängerte Kündigungsbeschränkung bei Wohnungsumwandlung, jeweils befristet bis 31. Dezember 2025, während die Stadt 2026 einen neuen qualifizierten Mietspiegel veröffentlicht hat. Der Mietspiegel wird von der Stadt Regensburg (Amt für Stadtentwicklung / Abteilung Stadterneuerung und Wohnungswesen) herausgegeben; bei der Erarbeitung waren u.a. Mieter- und Vermieterverbände sowie der Stadtrat beteiligt. Der Mietspiegel 2026 wird von der Stadt als kostenfrei online verfügbar beschrieben, außerdem gibt es einen offiziellen Online-Rechner; das Archiv enthält frühere Mietspiegel bis 1988. Besonderheit Regensburg/Studentenmarkt: Die Stadt betont die Hochschulen als Treiber der Wohnraumnachfrage; Wohnraum in Studierendenheimen ist vom Mietspiegel ausdrücklich ausgenommen. Hinweis: Der PDF-Link unter der aktuellen Seite verweist auf die 2024er PDF-Datei; die Stadtseite nennt jedoch den Mietspiegel 2026 als aktuellen Stand.
+**Besonderheiten.** Regensburg ist nach der Bayerischen Mieterschutzverordnung ein Gebiet mit angespanntem Wohnungsmarkt; der Mietspiegel 2024 nennt für Regensburg Mietpreisbremse, Kappungsgrenze und verlängerte Kündigungsbeschränkung bei Wohnungsumwandlung, jeweils befristet bis 31. Dezember 2025, während die Stadt 2026 einen neuen qualifizierten Mietspiegel veröffentlicht hat. Der Mietspiegel wird von der Stadt Regensburg (Amt für Stadtentwicklung / Abteilung Stadterneuerung und Wohnungswesen) herausgegeben; bei der Erarbeitung waren u.a. Mieter- und Vermieterverbände sowie der Stadtrat beteiligt. Der Mietspiegel 2026 wird von der Stadt als kostenfrei online verfügbar beschrieben, außerdem gibt es einen offiziellen Online-Rechner; das Archiv enthält frühere Mietspiegel bis 1988. Besonderheit Regensburg/Studentenmarkt: Die Stadt betont die Hochschulen als Treiber der Wohnraumnachfrage; Wohnraum in Studentennheimen ist vom Mietspiegel ausdrücklich ausgenommen. Hinweis: Der PDF-Link unter der aktuellen Seite verweist auf die 2024er PDF-Datei; die Stadtseite nennt jedoch den Mietspiegel 2026 als aktuellen Stand.
 
 ### Rostock
 
@@ -789,7 +789,7 @@ Universitätsstädte mit besonders angespanntem Wohnungsmarkt (Studierenden-Nach
 
 **PDF-Download.** [Wohnungsmarktanalyse und -prognose für die Stadt Vechta (PDF)](https://www.vechta.de/fileadmin/04_Wirtschaft_Stadtentwicklung/02_Stadtentwicklung/Wohnraumversorgung/02_1_Bezahlbares_Wohnen_in_Vechta_-_09.02.2021_-_Endfassung_Wohnungsmarktanalyse_und_-prognose_fuer_d.pdf)
 
-**Besonderheiten.** Offizielle Hinweise zur Mietpreisbremse und abgesenkten Kappungsgrenze kommen in Niedersachsen aus der Niedersächsischen Mieterschutzverordnung; die aktuelle Landesseite nennt 57 Kommunen, nennt Vechta im bereitgestellten Text jedoch nicht ausdrücklich. Eine ältere offizielle Landesmeldung hält fest, dass Vechta 2020 aus dem Mietpreisbremse-Gebiet herausgenommen wurde, weil dort nach damaliger Einschätzung ausreichend Neubau stattgefunden habe. Für Studierende weist die Uni Vechta auf einen angespannten Wohnungsmarkt und auf typische Wohnkosten hin; außerdem gibt es auf den Uni-Seiten konkrete Wohnheimplätze und Mieten. Herausgebende Stelle der städtischen Datei ist die Stadt Vechta; es handelt sich nicht um einen städtischen Mietspiegel, sondern um eine Wohnungsmarktanalyse eines externen Instituts. Keine offizielle kommunale Mietspiegel-Berechnung gefunden.
+**Besonderheiten.** Offizielle Hinweise zur Mietpreisbremse und abgesenkten Kappungsgrenze kommen in Niedersachsen aus der Niedersächsischen Mieterschutzverordnung; die aktuelle Landesseite nennt 57 Kommunen, nennt Vechta im bereitgestellten Text jedoch nicht ausdrücklich. Eine ältere offizielle Landesmeldung hält fest, dass Vechta 2020 aus dem Mietpreisbremse-Gebiet herausgenommen wurde, weil dort nach damaliger Einschätzung ausreichend Neubau stattgefunden habe. Für Studenten weist die Uni Vechta auf einen angespannten Wohnungsmarkt und auf typische Wohnkosten hin; außerdem gibt es auf den Uni-Seiten konkrete Wohnheimplätze und Mieten. Herausgebende Stelle der städtischen Datei ist die Stadt Vechta; es handelt sich nicht um einen städtischen Mietspiegel, sondern um eine Wohnungsmarktanalyse eines externen Instituts. Keine offizielle kommunale Mietspiegel-Berechnung gefunden.
 
 ### Weimar
 

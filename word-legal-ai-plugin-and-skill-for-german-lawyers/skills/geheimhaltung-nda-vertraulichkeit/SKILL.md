@@ -19,7 +19,7 @@ description: "Drafting eines stand-alone NDA und einer Geheimhaltungsklausel als
 - Anlass (Anbahnung Transaktion, Lieferantengespräch, Personalanbahnung, Due Diligence).
 - Art der vertraulichen Information (Technik, Finanzen, Personal, Strategie, Sourcecode).
 - Übermittlungswege (Datenraum, E-Mail, Demo, Probemuster).
-- Empfängerkreis (eigene Mitarbeitende, Berater, Konzern, Subunternehmer).
+- Empfängerkreis (eigene Mitarbeiter, Berater, Konzern, Subunternehmer).
 - Gewünschte Sanktion (Schadensersatz, Unterlassung, Vertragsstrafe).
 - Gerichtsstand, Rechtswahl, Dauer.
 
@@ -61,7 +61,7 @@ Mustertext (Geheimhaltungsklausel in einem Rahmenvertrag, B2B):
 > § X Geheimhaltung
 > (1) Vertrauliche Informationen im Sinne dieses Vertrages sind alle Informationen, die eine Partei der anderen im Zusammenhang mit der Vertragserfüllung in mündlicher, schriftlicher, elektronischer oder verkörperter Form offenlegt und die als vertraulich gekennzeichnet sind oder deren Vertraulichkeit sich aus den Umständen ergibt.
 > (2) Ausgenommen sind Informationen, die (i) ohne Verletzung dieses Vertrages öffentlich bekannt sind oder werden, (ii) der empfangenden Partei vor der Offenlegung nachweislich bekannt waren, (iii) der empfangenden Partei rechtmäßig durch Dritte ohne Geheimhaltungspflicht zugänglich gemacht werden oder (iv) von der empfangenden Partei eigenständig ohne Nutzung vertraulicher Informationen entwickelt wurden.
-> (3) Die empfangende Partei nutzt vertrauliche Informationen ausschließlich zum Zweck der Vertragsdurchführung und gibt sie nicht an Dritte weiter. Sie verpflichtet ihre Mitarbeitenden und hinzugezogenen Berater inhaltsgleich und nach dem Need-to-Know-Prinzip.
+> (3) Die empfangende Partei nutzt vertrauliche Informationen ausschließlich zum Zweck der Vertragsdurchführung und gibt sie nicht an Dritte weiter. Sie verpflichtet ihre Mitarbeitern und hinzugezogenen Berater inhaltsgleich und nach dem Need-to-Know-Prinzip.
 > (4) Eine Offenlegung auf gesetzliche oder behördliche Anordnung bleibt zulässig, wobei die empfangende Partei die offenlegende Partei vorab unterrichtet, soweit gesetzlich zulässig, um die Möglichkeit gerichtlichen Schutzes zu eröffnen.
 > (5) Die Pflichten gelten für die Vertragslaufzeit und für weitere fünf Jahre nach Beendigung.
 > (6) Auf Verlangen oder bei Vertragsende gibt die empfangende Partei alle Verkörperungen der vertraulichen Informationen zurück oder vernichtet sie und bestätigt dies in Textform. Ausgenommen sind automatisierte Backups und gesetzlich vorgeschriebene Aufbewahrung.

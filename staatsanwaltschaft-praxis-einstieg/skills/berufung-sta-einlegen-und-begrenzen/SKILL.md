@@ -1,6 +1,6 @@
 ---
 name: berufung-sta-einlegen-und-begrenzen
-description: "Berufung der Staatsanwaltschaft einlegen und begrenzen: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Berufung der Staatsanwaltschaft einlegen und begrenzen: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Berufung der Staatsanwaltschaft einlegen und begrenzen

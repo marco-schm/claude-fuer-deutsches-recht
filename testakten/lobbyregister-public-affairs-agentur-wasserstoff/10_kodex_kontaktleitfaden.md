@@ -1,6 +1,6 @@
 # Kontaktleitfaden und Offenlegungssaetze
 
-**Verbindlich für:** alle Mitarbeitenden der Spreebogen Regulatory GmbH, alle eingebundenen Unterauftragnehmer, alle aus den Mandaten heraus auftretenden Personen
+**Verbindlich für:** alle Mitarbeitern der Spreebogen Regulatory GmbH, alle eingebundenen Unterauftragnehmer, alle aus den Mandaten heraus auftretenden Personen
 **Stand:** 22.05.2026
 **Freigabe:** Mara Wendt, Lea Sommer
 
@@ -35,7 +35,7 @@ Jeder Kontakt wird binnen 24 Stunden in 04_kontaktlog_berlin.csv eingetragen. Sp
 
 - Unklarheiten direkt an Mara Wendt (CEO) oder Frederik Holst (Compliance).
 - Fragen zur Eintragung an Stern & Partner mbB (Dr. Annegret Beimer, Tel. 030-23 99 14 22).
-- Bei Konflikt zwischen Auftraggebern: Kontaktdelegation an einen anderen Mitarbeitenden, nicht Doppelmandatfuehrung am selben Tisch.
+- Bei Konflikt zwischen Auftraggebern: Kontaktdelegation an einen anderen Mitarbeitern, nicht Doppelmandatfuehrung am selben Tisch.
 
 ## 7. Schulung
 

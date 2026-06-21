@@ -15,7 +15,7 @@ Dieser Megaprompt enthaelt top-15 von 59 Skills des Plugins `ki-richtlinie-kanzl
 7. **bias-diskriminierung-regelsatz-erstellen** — Bias und Diskriminierung in KI-Outputs für Kanzleien prüfen: Anwendungsfall Kanzlei nutzt KI-System bei Personalentschei…
 8. **compliance-regelsatz-erstellen** — Compliance-Regelsatz Zehn Gebote für KI-Einsatz in Kanzleien erstellen: Anwendungsfall Kanzlei benoetigt praegnante Verh…
 9. **dienstleister-due-diligence** — KI-Dienstleister Due Diligence für Kanzleien durchführen: Anwendungsfall Kanzlei moechte neuen KI-Dienst beauftragen und…
-10. **executive-summary-bausteine** — Executive Summary der KI-Nutzungsrichtlinie für Kanzleien erstellen: Anwendungsfall Kanzleiführung will Mitarbeitenden d…
+10. **executive-summary-bausteine** — Executive Summary der KI-Nutzungsrichtlinie für Kanzleien erstellen: Anwendungsfall Kanzleiführung will Mitarbeitern d…
 11. **geschgehg-halluzinations-handhabung-kanzlei** — GeschGehG-Bausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei muss beim KI-Einsatz Geschäftsgeheim…
 12. **halluzinations-handhabung** — Halluzinationen von KI in juristischer Arbeit erkennen und Prozessbetrug vermeiden: Anwendungsfall Anwalt nutzt KI für R…
 13. **kanzlei-kontext-analyse** — Kanzlei-Kontext erfassen für massgeschneiderte KI-Nutzungsrichtlinie: Anwendungsfall vor Erstellung einer KI-Richtlinie …
@@ -136,7 +136,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 1. **Bestandsaufnahme:** Welche Tools sind bereits im Einsatz? Inoffiziell (Shadow-IT) und offiziell?
 2. **Reife:** Existiert bereits eine Richtlinie? Mit welchen Mängeln (kein Inventar, keine Whitelist, kein Schulungsnachweis)?
 3. **Kanzleistruktur:** Größe, Berufsstand, interdisziplinär? Syndikus, Steuerberatung, Wirtschaftsprüfung, Notariat mitabgedeckt?
-4. **Datenflüsse:** Welche Mandanten-/Mitarbeitenden-/Bewerberdaten? Welche Sensibilität (insb. Strafrechtsmandate, Gesundheitsmandate)?
+4. **Datenflüsse:** Welche Mandanten-/Mitarbeitern-/Bewerberdaten? Welche Sensibilität (insb. Strafrechtsmandate, Gesundheitsmandate)?
 5. **Betriebsrat:** Bei größeren Kanzleien § 87 Abs. 1 Nr. 6 BetrVG für Tools, die zur Verhaltens-/Leistungskontrolle geeignet sind.
 6. **Ziel:** Vollständige Erstrichtlinie? Nachbesserung? Tool-Einzelfreigabe? Schulungsprogramm?
 
@@ -178,7 +178,7 @@ Vor der Eingabe mandatsbezogener Informationen in KI-Systeme sind alle personenb
 
 **Baustein Platzhalter-Schema:**
 Beim Ersetzen personenbezogener Daten durch Platzhalter wird folgendes Schema verwendet:
-- Mandantinnen und Mandanten: "[Mandant-1]", "[Mandant-2]" etc.
+- Mandanten: "[Mandant-1]", "[Mandant-2]" etc.
 - Gegner: "[Gegner-1]", "[Gegner-2]" etc.
 - Zeuginnen und Zeugen: "[Zeuge-1]", "[Zeuge-2]" etc.
 - Unternehmen: "[Unternehmen-A]", "[Unternehmen-B]" etc.
@@ -424,7 +424,7 @@ Art. 22 Abs. 1 DSGVO: Betroffene haben das Recht, nicht einer ausschließlich au
 Kein KI-System trifft in der Kanzlei eine abschließende Entscheidung mit rechtlicher Wirkung oder erheblicher tatsächlicher Beeinträchtigung für eine natürliche Person. Alle von KI-Systemen erzeugten Empfehlungen, Einstufungen oder Bewertungen sind ausnahmslos von einer qualifizierten menschlichen Person zu überprüfen, zu bewerten und freizugeben. Dies gilt insbesondere für: Mandatszuordnungen, Honorarberechnungen, Bonitätsbewertungen von Mandanten sowie Personalentscheidungen.
 
 **Baustein Menschliche Überprüfung:**
-Mitarbeitende, die KI-generierte Ergebnisse für Entscheidungsprozesse nutzen, sind angewiesen, das KI-Ergebnis stets als Hilfsmittel — nicht als Entscheidung — zu behandeln. Die menschliche Überprüfung muss inhaltlich erfolgen; ein rein formales "Abnicken" des KI-Outputs ohne eigene Prüfung genügt nicht den Anforderungen des Art. 22 DSGVO.
+Mitarbeiter, die KI-generierte Ergebnisse für Entscheidungsprozesse nutzen, sind angewiesen, das KI-Ergebnis stets als Hilfsmittel — nicht als Entscheidung — zu behandeln. Die menschliche Überprüfung muss inhaltlich erfolgen; ein rein formales "Abnicken" des KI-Outputs ohne eigene Prüfung genügt nicht den Anforderungen des Art. 22 DSGVO.
 
 **Baustein Betroffenenrechte:**
 Sofern KI-Systeme an Entscheidungen mit Auswirkungen auf Mandanten oder Dritte beteiligt sind, informiert die Kanzlei betroffene Personen auf Anfrage über die Logik der Entscheidungsfindung sowie über das Recht, eine menschliche Überprüfung der Entscheidung zu verlangen (Art. 22 Abs. 3 DSGVO).
@@ -539,7 +539,7 @@ Gemäß § 43 Satz 1 BRAO sind alle Rechtsanwältinnen und Rechtsanwälte zur ge
 Die Wahrung des Anwaltsgeheimnisses ist oberstes Gebot (§ 43a Abs. 2 BRAO, § 203 Abs. 1 Nr. 3 StGB). Die Zusammenarbeit mit KI-Dienstleistern als externe IT-Dienstleister ist nur unter den Voraussetzungen des § 43e BRAO zulässig. Mit jedem eingesetzten KI-Dienstleister ist eine schriftliche Vereinbarung nach § 43e BRAO abzuschließen, die den Dienstleister zur Verschwiegenheit verpflichtet und auf die strafrechtlichen Folgen eines Verstoßes nach § 203 StGB hinweist.
 
 **Baustein Prüfpflicht/Halluzinationen:**
-Alle von KI-Systemen generierten Fundstellen, Zitate und Rechtsangaben sind ausnahmslos auf ihre Existenz und ihren Inhalt hin zu überprüfen. Wer dies unterlässt, handelt pflichtwidrig nach § 43 BRAO und haftet für die Folgen. Ein "Grundvertrauen" wie bei erfahrenen Mitarbeitenden ist bei KI-generierten Arbeitsprodukten nicht angebracht (BRAK-Hinweise 12/2024; DAV-Stellungnahme 32/2025).
+Alle von KI-Systemen generierten Fundstellen, Zitate und Rechtsangaben sind ausnahmslos auf ihre Existenz und ihren Inhalt hin zu überprüfen. Wer dies unterlässt, handelt pflichtwidrig nach § 43 BRAO und haftet für die Folgen. Ein "Grundvertrauen" wie bei erfahrenen Mitarbeitern ist bei KI-generierten Arbeitsprodukten nicht angebracht (BRAK-Hinweise 12/2024; DAV-Stellungnahme 32/2025).
 
 --- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
@@ -620,7 +620,7 @@ _Bias und Diskriminierung in KI-Outputs für Kanzleien prüfen: Anwendungsfall K
 
 ## Spezialwissen
 
-KI-Systeme werden auf Basis großer Textmengen trainiert, die Verzerrungen und gesellschaftliche Vorurteile enthalten können. Diese "Bias" können sich in den Outputs der KI-Systeme widerspiegeln und zu Diskriminierungen führen — besonders kritisch bei Personalentscheidungen, aber auch bei der Mandantenberatung zu diskriminierungsrechtlichen Fragen. Kanzleien müssen ihre Mitarbeitenden befähigen, Bias zu erkennen und zu korrigieren.
+KI-Systeme werden auf Basis großer Textmengen trainiert, die Verzerrungen und gesellschaftliche Vorurteile enthalten können. Diese "Bias" können sich in den Outputs der KI-Systeme widerspiegeln und zu Diskriminierungen führen — besonders kritisch bei Personalentscheidungen, aber auch bei der Mandantenberatung zu diskriminierungsrechtlichen Fragen. Kanzleien müssen ihre Mitarbeitern befähigen, Bias zu erkennen und zu korrigieren.
 
 ## Rechtlicher Hintergrund
 
@@ -629,7 +629,7 @@ KI-Systeme werden auf Basis großer Textmengen trainiert, die Verzerrungen und g
 ## Vorlagentext / Bausteine
 
 **Baustein Bias-Sensibilisierung:**
-KI-Systeme können aufgrund ihrer Trainingsdaten vorurteilsbehaftete Inhalte erzeugen, die gegen das AGG oder andere Diskriminierungsverbote verstoßen. Mitarbeitende sind angewiesen, KI-generierte Texte auf diskriminierende Formulierungen, Stereotypen oder einseitige Bewertungen zu prüfen. Derartige Inhalte sind zu löschen und intern zu melden. Eine Weiterverwendung ist nicht zulässig.
+KI-Systeme können aufgrund ihrer Trainingsdaten vorurteilsbehaftete Inhalte erzeugen, die gegen das AGG oder andere Diskriminierungsverbote verstoßen. Mitarbeiter sind angewiesen, KI-generierte Texte auf diskriminierende Formulierungen, Stereotypen oder einseitige Bewertungen zu prüfen. Derartige Inhalte sind zu löschen und intern zu melden. Eine Weiterverwendung ist nicht zulässig.
 
 **Baustein AGG-Compliance Personalwesen:**
 Beim Einsatz von KI-Systemen bei der Vorauswahl von Bewerbungen oder bei sonstigen Personalentscheidungen stellt die Kanzlei sicher, dass die nach § 1 AGG geschützten Merkmale (Rasse, ethnische Herkunft, Geschlecht, Religion oder Weltanschauung, Behinderung, Alter, sexuelle Identität) keine Rolle spielen. KI-generierte Bewerbungsbewertungen werden ausnahmslos von einer qualifizierten Personalverantwortlichen oder einem qualifizierten Personalverantwortlichen überprüft, bevor eine Entscheidung getroffen wird.
@@ -693,13 +693,13 @@ Geprueft von: [NAME], [DATUM]
 
 ## Skill: `compliance-regelsatz-erstellen`
 
-_Compliance-Regelsatz Zehn Gebote für KI-Einsatz in Kanzleien erstellen: Anwendungsfall Kanzlei benoetigt praegnante Verhaltensregeln für alle Mitarbeitenden zu erlaubten und verbotenen KI-Nutzungen. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster ke..._
+_Compliance-Regelsatz Zehn Gebote für KI-Einsatz in Kanzleien erstellen: Anwendungsfall Kanzlei benoetigt praegnante Verhaltensregeln für alle Mitarbeitern zu erlaubten und verbotenen KI-Nutzungen. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster ke..._
 
 # Compliance-Regelsatz erstellen
 
 ## Arbeitsbereich
 
-Compliance-Regelsatz Zehn Gebote für KI-Einsatz in Kanzleien erstellen: Anwendungsfall Kanzlei benoetigt praegnante Verhaltensregeln für alle Mitarbeitenden zu erlaubten und verbotenen KI-Nutzungen. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster kein Privat-Account, keine Mandatsdaten ohne Anonymisierung, kein PDF-Upload ohne AVV, Korrekturlesung Pflicht, KI-Kennzeichnung. Output standardisierter Zehn-Gebote-Regelsatz anpassbar an Kanzlei-Profil. Abgrenzung zu Richtlinien-Skelett für vollständige Richtlinie und zu Berufsrecht-Bausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Compliance-Regelsatz Zehn Gebote für KI-Einsatz in Kanzleien erstellen: Anwendungsfall Kanzlei benoetigt praegnante Verhaltensregeln für alle Mitarbeitern zu erlaubten und verbotenen KI-Nutzungen. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster kein Privat-Account, keine Mandatsdaten ohne Anonymisierung, kein PDF-Upload ohne AVV, Korrekturlesung Pflicht, KI-Kennzeichnung. Output standardisierter Zehn-Gebote-Regelsatz anpassbar an Kanzlei-Profil. Abgrenzung zu Richtlinien-Skelett für vollständige Richtlinie und zu Berufsrecht-Bausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -711,7 +711,7 @@ Compliance-Regelsatz Zehn Gebote für KI-Einsatz in Kanzleien erstellen: Anwendu
 
 ## Spezialwissen
 
-Ein klarer, prägnanter Compliance-Regelsatz ist das operative Herzstück jeder KI-Nutzungsrichtlinie. Er muss so formuliert sein, dass alle Mitarbeitenden — unabhängig von juristischem Hintergrund — die Kernregeln sofort verstehen und anwenden können. Dieser Skill erzeugt einen standardisierten Zehn-Gebote-Regelsatz, der an das Kanzlei-Profil angepasst werden kann.
+Ein klarer, prägnanter Compliance-Regelsatz ist das operative Herzstück jeder KI-Nutzungsrichtlinie. Er muss so formuliert sein, dass alle Mitarbeitern — unabhängig von juristischem Hintergrund — die Kernregeln sofort verstehen und anwenden können. Dieser Skill erzeugt einen standardisierten Zehn-Gebote-Regelsatz, der an das Kanzlei-Profil angepasst werden kann.
 
 ## Rechtlicher Hintergrund
 
@@ -736,7 +736,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 **1.** Wir nutzen beim Einsatz von KI-Systemen in der Kanzlei ausschließlich autorisierte Kanzlei-Accounts — niemals private Accounts.
 
-**2.** Wir kopieren keine personenbezogenen Daten von Mandanten oder Mitarbeitenden in KI-Systeme, es sei denn, die Daten wurden zuvor vollständig anonymisiert.
+**2.** Wir kopieren keine personenbezogenen Daten von Mandanten oder Mitarbeitern in KI-Systeme, es sei denn, die Daten wurden zuvor vollständig anonymisiert.
 
 **3.** Wir laden keine Dokumente, Akten oder Schriftstücke als Datei in einen KI-Dienst hoch, ohne diese zuvor anonymisiert zu haben — außer bei Anbietern, mit denen ein wirksamer Auftragsverarbeitungsvertrag nach Art. 28 DSGVO und eine § 43e-BRAO-Vereinbarung bestehen.
 
@@ -767,7 +767,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Hinweise zur Aktualisierung
 
-Der Regelsatz ist mindestens halbjährlich zu überprüfen. Bei wesentlichen Änderungen der genutzten KI-Dienste, bei neuen Gerichtsentscheidungen zur Haftung oder bei neuen BRAK/DAV-Hinweisen ist eine Aktualisierung geboten. Alle Mitarbeitenden müssen über Änderungen informiert und neu geschult werden.
+Der Regelsatz ist mindestens halbjährlich zu überprüfen. Bei wesentlichen Änderungen der genutzten KI-Dienste, bei neuen Gerichtsentscheidungen zur Haftung oder bei neuen BRAK/DAV-Hinweisen ist eine Aktualisierung geboten. Alle Mitarbeitern müssen über Änderungen informiert und neu geschult werden.
 
 ## Aktuelle Rechtsprechung (v14.2)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -926,13 +926,13 @@ Halluzinations-Reparatur Bundle 035:
 
 ## Skill: `executive-summary-bausteine`
 
-_Executive Summary der KI-Nutzungsrichtlinie für Kanzleien erstellen: Anwendungsfall Kanzleiführung will Mitarbeitenden die wichtigsten Kernpunkte in kurzem Executive Summary vermitteln. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster sechs Kern-Eckp..._
+_Executive Summary der KI-Nutzungsrichtlinie für Kanzleien erstellen: Anwendungsfall Kanzleiführung will Mitarbeitern die wichtigsten Kernpunkte in kurzem Executive Summary vermitteln. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster sechs Kern-Eckp..._
 
 # Executive Summary Bausteine
 
 ## Arbeitsbereich
 
-Executive Summary der KI-Nutzungsrichtlinie für Kanzleien erstellen: Anwendungsfall Kanzleiführung will Mitarbeitenden die wichtigsten Kernpunkte in kurzem Executive Summary vermitteln. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster sechs Kern-Eckpunkte Werkzeugcharakter, Verschwiegenheit, Datenschutz, Quellenprüfung, keine Privat-Accounts, Kennzeichnungspflichten. Output modularer Executive Summary anpassbar an Kanzlei-Groesse und Rechtsgebiete. Abgrenzung zu Richtlinien-Skelett für vollständige Richtlinie und zu Compliance-Regelsatz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Executive Summary der KI-Nutzungsrichtlinie für Kanzleien erstellen: Anwendungsfall Kanzleiführung will Mitarbeitern die wichtigsten Kernpunkte in kurzem Executive Summary vermitteln. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster sechs Kern-Eckpunkte Werkzeugcharakter, Verschwiegenheit, Datenschutz, Quellenprüfung, keine Privat-Accounts, Kennzeichnungspflichten. Output modularer Executive Summary anpassbar an Kanzlei-Groesse und Rechtsgebiete. Abgrenzung zu Richtlinien-Skelett für vollständige Richtlinie und zu Compliance-Regelsatz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -944,7 +944,7 @@ Executive Summary der KI-Nutzungsrichtlinie für Kanzleien erstellen: Anwendungs
 
 ## Spezialwissen
 
-Der Executive Summary einer KI-Nutzungsrichtlinie fasst die sechs wichtigsten Eckpunkte so zusammen, dass alle Mitarbeitenden — Anwältinnen und Anwälte wie auch nicht-anwaltliche Kräfte — die wesentlichen Verhaltensregeln sofort überblicken können. Die Bausteine sind modular und können je nach Kanzlei-Profil angepasst werden.
+Der Executive Summary einer KI-Nutzungsrichtlinie fasst die sechs wichtigsten Eckpunkte so zusammen, dass alle Mitarbeitern — Anwälte wie auch nicht-anwaltliche Kräfte — die wesentlichen Verhaltensregeln sofort überblicken können. Die Bausteine sind modular und können je nach Kanzlei-Profil angepasst werden.
 
 ## Rechtlicher Hintergrund
 
@@ -977,7 +977,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ## Vorlagentext / Bausteine
 
 **Eckpunkt 1 – Unterstützendes Werkzeug:**
-Nutzen Sie KI-Systeme nur als Werkzeug, nicht als Ersatz für Ihre juristische Expertise. Die finale Verantwortung für rechtliche Bewertungen und die persönliche Leistungserbringung liegt stets bei den Anwältinnen und Anwälten (§ 43 Satz 1 BRAO).
+Nutzen Sie KI-Systeme nur als Werkzeug, nicht als Ersatz für Ihre juristische Expertise. Die finale Verantwortung für rechtliche Bewertungen und die persönliche Leistungserbringung liegt stets bei den Anwälten (§ 43 Satz 1 BRAO).
 
 **Eckpunkt 2 – Verschwiegenheit:**
 Achten Sie strikt auf die anwaltliche Verschwiegenheitspflicht (§ 43a BRAO, § 203 StGB). Die Weitergabe von Mandatsgeheimnissen an KI-Dienstleister ist berufsrechtlich nur unter den engen Voraussetzungen des § 43e BRAO zulässig. Die sorgfältige Auswahl und vertragliche Bindung des Anbieters ist entscheidend.
@@ -986,7 +986,7 @@ Achten Sie strikt auf die anwaltliche Verschwiegenheitspflicht (§ 43a BRAO, § 
 Personenbezogene Daten, Mandatsgeheimnisse und Geschäftsgeheimnisse dürfen nur in Ausnahmefällen und nach Möglichkeit anonymisiert in KI-Systeme eingegeben werden. Dokumente, Akten und Informationen müssen vor einem Upload anonymisiert werden. Im Zweifel ist der Upload zu unterlassen.
 
 **Eckpunkt 4 – Quellenprüfung und Risikobewusstsein:**
-Auch wenn der Output der KI-Systeme plausibel klingt: Die Ergebnisse sind kritisch zu hinterfragen. Zitate und Quellen müssen zwingend nachrecherchiert werden. Ein "Grundvertrauen" wie bei menschlichen Mitarbeitenden ist nicht angebracht (BRAK-Hinweise 12/2024; DAV 32/2025).
+Auch wenn der Output der KI-Systeme plausibel klingt: Die Ergebnisse sind kritisch zu hinterfragen. Zitate und Quellen müssen zwingend nachrecherchiert werden. Ein "Grundvertrauen" wie bei menschlichen Mitarbeitern ist nicht angebracht (BRAK-Hinweise 12/2024; DAV 32/2025).
 
 **Eckpunkt 5 – Keine Privat-Accounts:**
 Verwenden Sie für Ihre berufliche Tätigkeit in der Kanzlei nur vorab freigegebene Kanzlei-Accounts, nicht Ihre privaten Accounts, um dem Compliance-Risiko der "Schatten-KI" entgegenzuwirken.
@@ -1286,7 +1286,7 @@ Die DSGVO verpflichtet Verantwortliche nach Art. 5 Abs. 2 DSGVO zur Rechenschaft
 
 ## Vorgehen
 
-1. **Organisationsstruktur erfassen**: Anzahl der Berufsträger (Anwälte, Syndici, Referendare), Anzahl und Art der nicht-anwaltlichen Mitarbeitenden, Standorte (national/international).
+1. **Organisationsstruktur erfassen**: Anzahl der Berufsträger (Anwälte, Syndici, Referendare), Anzahl und Art der nicht-anwaltlichen Mitarbeitern, Standorte (national/international).
 2. **Rechtsgebiete identifizieren**: Welche Bereiche werden bearbeitet (Arbeitsrecht, Strafrecht, Datenschutzrecht, M&A, Familienrecht)? Manche Bereiche (z.B. Strafrecht, Familienrecht) erfordern besonders strenge Anonymisierungspflichten.
 3. **Mandantenstruktur analysieren**: Privatpersonen vs. Unternehmensmandate; grenzüberschreitende Mandate (Drittlandtransfer-Risiko); Mandate mit sensiblen Daten nach Art. 9 DSGVO.
 4. **IT-Infrastruktur inventarisieren**: Welche KI-Dienstleister werden bereits genutzt oder geplant? Bestehen Auftragsverarbeitungsverträge (AVV)? Welche Cloud-Dienste laufen bereits?
@@ -1306,7 +1306,7 @@ Die DSGVO verpflichtet Verantwortliche nach Art. 5 Abs. 2 DSGVO zur Rechenschaft
 - Existiert ein Datenschutzbeauftragter? Ist dieser intern oder extern bestellt?
 - Existiert ein Berufsrechtsbeauftragter nach § 31 BORA?
 - Welche bestehenden IT-Sicherheitsrichtlinien oder Compliance-Dokumente gibt es?
-- Sind Mitarbeitende bereits im Umgang mit KI-Systemen geschult worden?
+- Sind Mitarbeiter bereits im Umgang mit KI-Systemen geschult worden?
 
 ## Hinweise zur Aktualisierung
 
@@ -1521,7 +1521,7 @@ Themen: Effektives Prompten (Vier-Elemente-Methode), Anonymisierungstechniken, Q
 Die Teilnahme an Schulungsveranstaltungen zum KI-Einsatz wird schriftlich dokumentiert. Jede Teilnehmerin und jeder Teilnehmer bestätigt durch Unterschrift, dass die Schulungsinhalte vermittelt wurden und verstanden wurden. Die Dokumentation wird für mindestens drei Jahre aufbewahrt.
 
 **Baustein Jährliche Aktualisierungspflicht:**
-Die Schulungsunterlagen und -inhalte werden jährlich — spätestens bis [Monat] — auf Aktualität überprüft und an neue Rechtsentwicklungen, neue KI-Systeme und neue Erkenntnisse zu Risiken angepasst. Alle Mitarbeitenden nehmen jährlich an einer Aktualisierungsschulung teil.
+Die Schulungsunterlagen und -inhalte werden jährlich — spätestens bis [Monat] — auf Aktualität überprüft und an neue Rechtsentwicklungen, neue KI-Systeme und neue Erkenntnisse zu Risiken angepasst. Alle Mitarbeitern nehmen jährlich an einer Aktualisierungsschulung teil.
 
 ## Hinweise zur Aktualisierung
 

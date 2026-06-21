@@ -25,7 +25,7 @@ Wird OpenGrid Events UG durch die Leistungen 145 und 146 selbst mit Interessenve
 
 1. Stakeholder-Mapping enthält Bewertung der Erreichbarkeit, Ansprechbarkeit und Themenaffinität von Abgeordneten und Referatsleitungen. Das ist nicht reine Logistik.
 2. Das Argumentationspapier liefert inhaltliche Formulierungen zur Speicherprivilegierung, die in der ersten Einladungsfassung als Sprache der "deutschen Wasserstoffindustrie" verwendet wurden.
-3. OpenGrid selbst hat in einer E-Mail an die Spreebogen-Mitarbeitenden Lea und Nils Formulierungsvorschläge für politische Argumente unterbreitet (Slack-Export vom 22.05.2026).
+3. OpenGrid selbst hat in einer E-Mail an die Spreebogen-Mitarbeitern Lea und Nils Formulierungsvorschläge für politische Argumente unterbreitet (Slack-Export vom 22.05.2026).
 4. Eric Tongers war als Berater bei einer Voranfrage an MdB Karin Reimers eingebunden (Telefonnotiz Lea vom 14.05.2026).
 
 **Argumente dagegen (nur Logistik):**

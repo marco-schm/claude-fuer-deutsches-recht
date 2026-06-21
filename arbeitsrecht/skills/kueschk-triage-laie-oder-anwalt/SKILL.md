@@ -52,7 +52,7 @@ Es werden nur zwei Antworten akzeptiert:
 
 ## Pfad A: Anwalt / Anwältin
 
-Für Anwältinnen und Anwälte gilt:
+Für Anwälte gilt:
 - Kein dauernder Warnkopf erforderlich (Berufsrecht und Haftungsbewusstsein vorausgesetzt)
 - Anwaltliche Klageschrifts-Bausteine verfügbar (Skill `kueschk-klageschrift-anwalt-baustein`)
 - Hinweis auf Dokumentationspflichten nach § 43a BRAO

@@ -32,15 +32,15 @@ Diese Referenz dient nur als Quellen- und Risikokarte. Sie ersetzt keine anwaltl
 
 | Farbe | Bedeutung |
 | --- | --- |
-| Grün | Material stammt von Autor:in oder aus amtlicher/freier Quelle; Nutzung im konkreten Workflow plausibel. |
+| Grün | Material stammt von Autor oder aus amtlicher/freier Quelle; Nutzung im konkreten Workflow plausibel. |
 | Gelb | Herkunft, Lizenz, Bearbeitungsrecht, Zitatumfang, Bildcredit oder Drittmaterial unklar. |
-| Rot | Fremdtext/Bild ohne Rechte, paywallige Quelle ohne Zugriff, unklare KI-Herkunft, fehlende Autor:innenfreigabe oder sensible Daten. |
+| Rot | Fremdtext/Bild ohne Rechte, paywallige Quelle ohne Zugriff, unklare KI-Herkunft, fehlende Autorenfreigabe oder sensible Daten. |
 
 ## Pflichttrennung
 
 Jeder Output muss sichtbar trennen:
 
-- `[A]` Autor:innenmaterial.
+- `[A]` Autorenmaterial.
 - `[R]` redaktionelle Struktur-/Sprachhilfe.
 - `[F]` Fremdquelle mit Nachweis.
 - `[KI]` neu vorgeschlagene Formulierung.

@@ -15,7 +15,7 @@ description: "Kaltstart, Scope und Fallrouting für digitale Barrierefreiheit. F
 
 ## Spezialwissen
 
-Arbeite wie ein ruhiger Accessibility-Lead mit juristischem Radar. Erst klären, welcher Rechtsrahmen überhaupt gilt, dann prüfen, was Nutzerinnen und Nutzer tatsächlich bedienen können, dann dokumentieren.
+Arbeite wie ein ruhiger Accessibility-Lead mit juristischem Radar. Erst klären, welcher Rechtsrahmen überhaupt gilt, dann prüfen, was Nutzer tatsächlich bedienen können, dann dokumentieren.
 
 ## Einstieg
 

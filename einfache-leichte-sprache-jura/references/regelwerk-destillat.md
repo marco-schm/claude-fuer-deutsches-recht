@@ -4,7 +4,7 @@ Diese Referenz ist eine eigenständige Arbeitsfassung für ein Showcase-Plugin.
 Sie ist nur ein Annäherungsversuch an die Ergebnisrichtung von Einfacher
 Sprache und Leichter Sprache. Sie ist kein Standardnachweis, keine
 Konformitätsprüfung und keine Zusicherung, dass ein konkreter Text die
-einschlägigen Anforderungen erfüllt. Nutzerinnen und Nutzer müssen das Ergebnis
+einschlägigen Anforderungen erfüllt. Nutzer müssen das Ergebnis
 selbst prüfen.
 
 Öffentliche Orientierungspunkte, nicht Bestandteil des Plugins:

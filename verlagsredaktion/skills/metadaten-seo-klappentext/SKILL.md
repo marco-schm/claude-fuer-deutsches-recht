@@ -15,7 +15,7 @@ description: "Erstellt Titelvarianten, Untertitel, Abstract, Schlagworte, Klappe
 
 ## Input
 
-Manuskript, Inhaltsverzeichnis, Zielgruppe, Reihe, Umfang, Preis, Autor:innenprofil.
+Manuskript, Inhaltsverzeichnis, Zielgruppe, Reihe, Umfang, Preis, Autorenprofil.
 
 ## Regel
 
@@ -24,8 +24,8 @@ Marketing darf zuspitzen, aber nicht fachlich übertreiben.
 ## Schneller Arbeitsmodus
 
 - Erst klären: Produktart, Adressat, Verwendungsort, Frist und Freigabeperson. Wenn Angaben fehlen, mit einer kurzen Arbeitsannahme starten und offene Punkte sichtbar markieren.
-- Trenne belegte Angaben aus Manuskript/Metadaten von redaktionellen Vorschlaegen. Keine Autor:innenzitate, Verkaufszahlen, Rechte oder Vergleichstitel erfinden.
-- Liefere zuerst eine nutzbare Arbeitsfassung, danach eine kurze Prüfliste für Herstellung, Marketing, Vertrieb, Justiziariat oder Autor:innen.
+- Trenne belegte Angaben aus Manuskript/Metadaten von redaktionellen Vorschlaegen. Keine Autorenzitate, Verkaufszahlen, Rechte oder Vergleichstitel erfinden.
+- Liefere zuerst eine nutzbare Arbeitsfassung, danach eine kurze Prüfliste für Herstellung, Marketing, Vertrieb, Justiziariat oder Autoren.
 
 ## Qualitaetsgate
 

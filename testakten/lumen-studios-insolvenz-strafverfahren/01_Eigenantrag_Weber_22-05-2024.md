@@ -43,7 +43,7 @@ Die Gesellschaft ist zahlungsunfähig im Sinne von § 17 InsO. Stand 22.05.2024 
 | Sparkasse Frankfurt — Kontokorrent-Überziehung | 31.480,00 | sofortig fällig |
 | Lieferanten (vier verschiedene, Beträge zwischen EUR 1.840 und EUR 8.420) | 18.987,00 | div. zwischen 03/2024 und 05/2024 |
 | Miete Goethestraße 18 (April und Mai 2024) | 9.600,00 | 03.04. / 03.05.2024 |
-| Honorar Freelance-Mitarbeitende (Lohnauszahlung April-Resthonorare, fünf Personen) | 12.840,00 | 30.04.2024 |
+| Honorar Freelance-Mitarbeiter (Lohnauszahlung April-Resthonorare, fünf Personen) | 12.840,00 | 30.04.2024 |
 | **Summe fällige Verbindlichkeiten** | **143.185,00** | |
 
 Verfügbare flüssige Mittel zum 22.05.2024: EUR 5.482,33 (Geschäftskonto Sparkasse Frankfurt; vier zusätzliche Verfahrenskonten leerstehend).
@@ -74,7 +74,7 @@ Da gemäß § 15 Abs. 1 Satz 2 InsO jeder Geschäftsführer einzeln antragspflic
 | Gesellschafter | Sebastian Richter (55 %, GF) — Florian Weber (45 %, GF) |
 | Gründung | 08.03.2019 |
 | Geschäftsgegenstand | Produktion von Werbe- und Imagefilmen, Social-Media-Content, Kreativ-Dienstleistungen |
-| Mitarbeitende | 6 fest angestellt, ca. 12 fortlaufend tätige Freelancer |
+| Mitarbeiter | 6 fest angestellt, ca. 12 fortlaufend tätige Freelancer |
 | Wirtschaftsjahr | Kalenderjahr |
 | Letzte Bilanz | 31.12.2022 (testiert 18.09.2023 durch StB Hartmann) |
 | Buchhaltung | bis Q3 2023 vollständig; Q4 2023 und 2024 lückenhaft (siehe III) |

@@ -54,7 +54,7 @@ Dieser Agent läuft nicht selbstständig. Einen Wiederholungshinweis einrichten 
 ### Schritt 2 — Abwesenheitsregister laden
 
 **Bei verbundenem Personalverwaltungssystem (HRIS) mit Lesezugriff für Rechtsabteilung:**
-Alle Mitarbeitenden mit aktivem Abwesenheitsstatus abfragen. Abrufen: Mitarbeiterkennung, Bundesland, Abwesenheitsart, Beginn, genommene Zeit (bei Teilzeitabwesenheit in der tatsächlichen Einheit des Mitarbeitenden, nicht pauschal 40 Stunden/Woche), voraussichtliches Rückkehrdatum, Meldestatus, ärztlicher Bescheinigungsstatus.
+Alle Mitarbeitern mit aktivem Abwesenheitsstatus abfragen. Abrufen: Mitarbeiterkennung, Bundesland, Abwesenheitsart, Beginn, genommene Zeit (bei Teilzeitabwesenheit in der tatsächlichen Einheit des Mitarbeitern, nicht pauschal 40 Stunden/Woche), voraussichtliches Rückkehrdatum, Meldestatus, ärztlicher Bescheinigungsstatus.
 
 **Bei manuellem Betrieb:**
 `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/abwesenheits-register.yaml` lesen. Existiert die Datei nicht, auffordern:
@@ -84,11 +84,11 @@ Für jeden aktiven Eintrag den Status gegen das jeweilige Regime berechnen. Dies
 
 **Betriebliches Eingliederungsmanagement (§ 167 Abs. 2 SGB IX):**
 - Auslöseschwelle: mehr als 6 Wochen Arbeitsunfähigkeit innerhalb von 12 Monaten.
-- Überwachen: ob das bEM angeboten wurde (Schriftlichkeit erforderlich), ob der Mitarbeitende zugestimmt hat, ob das Verfahren durchgeführt oder dokumentiert abgelehnt wurde.
+- Überwachen: ob das bEM angeboten wurde (Schriftlichkeit erforderlich), ob der Mitarbeiter zugestimmt hat, ob das Verfahren durchgeführt oder dokumentiert abgelehnt wurde.
 - Statusänderungen melden: bEM nicht angeboten → Kündigungsschutzrisiko bei krankheitsbedingter Kündigung.
 
 **Sonderkündigungsschutz (allgemein):**
-- Bei jeder Abwesenheitsart: zutreffenden Sonderkündigungsschutz prüfen (§ 17 MuSchG, § 18 BEEG, § 5 PflegeZG, ggf. § 178 SGB IX bei schwerbehinderten Mitarbeitenden).
+- Bei jeder Abwesenheitsart: zutreffenden Sonderkündigungsschutz prüfen (§ 17 MuSchG, § 18 BEEG, § 5 PflegeZG, ggf. § 178 SGB IX bei schwerbehinderten Mitarbeitern).
 - Laufende Schutzfrist und etwaigen Zustimmungsvorbehalt der Aufsichtsbehörde dokumentieren.
 
 ### Schritt 4 — Entscheidungshinweise generieren
@@ -122,7 +122,7 @@ Erforderlich: Anmeldung heute nachholen, wenn die recherchierte Frist dies verla
 [Mitarbeiter/Rolle] — [Regime] nähert sich Ausschöpfung
 Bei aktuellem Verbrauchstempo voraussichtliche Ausschöpfung: [Datum]
 Entscheidung vor Ausschöpfung erforderlich:
-(1) Analyse etwaiger Weiterbeschäftigungsalternativen (SGB IX, AGG) — sofern der Mitarbeitende ggf. eine Schwerbehinderung hat oder ein anderes Schutzrecht greift, interaktiven Prozess vor Kündigungsentscheidung beginnen oder fortführen.
+(1) Analyse etwaiger Weiterbeschäftigungsalternativen (SGB IX, AGG) — sofern der Mitarbeiter ggf. eine Schwerbehinderung hat oder ein anderes Schutzrecht greift, interaktiven Prozess vor Kündigungsentscheidung beginnen oder fortführen.
 (2) Zusätzlicher freiwilliger Urlaub — gesondert vom gesetzlichen Anspruch dokumentieren.
 (3) Beendigung — erst nach Abschluss des Eingliederungsverfahrens oder nach Dokumentation, dass dieses nicht anwendbar ist.
 Analyse nicht bis zur Ausschöpfung aufschieben.
@@ -134,7 +134,7 @@ Analyse nicht bis zur Ausschöpfung aufschieben.
 Betriebliches Eingliederungsmanagement eingeleitet? [Ja / Nein / Unbekannt]
 Falls nein: jetzt einleiten. Schriftliche Kontaktaufnahme ist besser als keine.
 Kündigung bei Ausschöpfung ohne Eingliederungsanalyse begründet Haftungsrisiko.
-Kann der Mitarbeitende nach dem interaktiven Verfahren nicht zurückkehren: Unzumutbarkeitsanalyse vor Einleitung der Kündigung dokumentieren.
+Kann der Mitarbeiter nach dem interaktiven Verfahren nicht zurückkehren: Unzumutbarkeitsanalyse vor Einleitung der Kündigung dokumentieren.
 ```
 
 *Gesetzlicher Anspruch erschöpft, keine Rückkehr, kein bEM dokumentiert:*
@@ -154,7 +154,7 @@ Eskalieren an: [Name aus der Eskalationstabelle]
 Elternzeit: [Beginn] bis [voraussichtliches Ende]
 Welche Frist läuft: [Arbeitnehmer-Anmeldefenster / Arbeitgeber-Weiterbeschäftigungspflicht — bitte explizit angeben]
 Recherchierte Frist nach BEEG und ggf. Landesrecht: [Datum]
-Ist dies das Anmeldefenster des Mitarbeitenden: nicht als Arbeitgeberpflicht behandeln. Ist dies die Weiterbeschäftigungspflicht nach fristgerechter Anmeldung: Position muss bei Rückkehr verfügbar sein, ggf. gleichwertige Position, wenn die ursprüngliche weggefallen ist.
+Ist dies das Anmeldefenster des Mitarbeitern: nicht als Arbeitgeberpflicht behandeln. Ist dies die Weiterbeschäftigungspflicht nach fristgerechter Anmeldung: Position muss bei Rückkehr verfügbar sein, ggf. gleichwertige Position, wenn die ursprüngliche weggefallen ist.
 ```
 
 ### Schritt 5 — Ausgabeformat

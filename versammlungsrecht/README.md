@@ -122,7 +122,7 @@ Automatisch generierte Komplett-Liste aller 55 Skills in diesem Plugin. Beschrei
 | `privat-oeffentlich-abgrenzen` | Prüft, ob eine Zusammenkunft öffentlich, privat, vereinsintern, parteiintern, betrieblich oder nur ein Gesprächskreis ist im Versammlungsrecht. |
 | `qualitaetsgate-bekanntgabe-route-aufzug` | Letzter Check vor öffentlicher Einladung oder Versand der Anzeige im Versammlungsrecht. |
 | `route-aufzug-und-streckenplanung` | Plant Aufzüge und Routen so, dass Versammlungszweck, Verkehr, Sicherheit und Behördeneinwände gut ausbalanciert sind im Versammlungsrecht. |
-| `schule-universitaet-schutz-vorauseilendem` | Prüft Schüler-, Studierenden-, Hochschul- und Jugendversammlungen samt Aufsicht, Schulrecht und Hausrecht im Versammlungsrecht. |
+| `schule-universitaet-schutz-vorauseilendem` | Prüft Schüler-, Studentenn-, Hochschul- und Jugendversammlungen samt Aufsicht, Schulrecht und Hausrecht im Versammlungsrecht. |
 | `schutz-vor-vorauseilendem-gehorsam` | Hilft, berechtigte Behördenbelange zu berücksichtigen, ohne die Versammlung aus Angst selbst zu entkernen im Versammlungsrecht. |
 | `spontanversammlung-strafrecht-versg` | Prüft echte Spontanversammlungen, bei denen Anlass und Bildung so unmittelbar zusammenfallen, dass vorherige Anzeige nicht möglich war im Versammlungsrecht. |
 | `strafrecht-versg-risiken` | Routet Strafbarkeitsrisiken aus VersammlG, StGB, Waffenrecht, Vermummung, Schutzwaffen und Nötigung im Versammlungsrecht. |

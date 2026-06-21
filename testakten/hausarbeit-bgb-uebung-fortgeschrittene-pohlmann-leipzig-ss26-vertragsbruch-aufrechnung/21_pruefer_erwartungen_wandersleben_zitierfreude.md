@@ -65,7 +65,7 @@ Wandersleben bevorzugt eine klar strukturierte Darstellung:
 "Im vorliegenden Fall ..."
 ```
 
-Er bewertet es negativ, wenn Studierende nur eine Meinung nennen und sagen „Es gibt auch andere Ansichten."
+Er bewertet es negativ, wenn Studenten nur eine Meinung nennen und sagen „Es gibt auch andere Ansichten."
 
 ### Lieblingsstreitstände laut Tutoren
 

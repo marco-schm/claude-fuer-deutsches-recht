@@ -156,7 +156,7 @@ Ihre Abmahnung vom [Datum]
 
 Sehr geehrte Damen und Herren,
 
-wir zeigen die anwaltliche Vertretung des/der [Mandant/in] an.
+wir zeigen die anwaltliche Vertretung des/der [Mandant] an.
 
 Ihre Abmahnung wird aus folgenden Gründen zurückgewiesen:
 

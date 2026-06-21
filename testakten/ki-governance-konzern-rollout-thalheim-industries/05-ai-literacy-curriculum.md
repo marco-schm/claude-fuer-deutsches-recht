@@ -4,7 +4,7 @@
 **Dokumentversion:** 1.3
 **Erstellungsdatum:** 15. November 2025
 **Verfasser:** Dr. Falk Roosendaal; Petra Schöneberger (Leiterin Personalentwicklung)
-**Zielgruppe:** Alle Mitarbeiterinnen und Mitarbeiter der Thalheim Industries SE
+**Zielgruppe:** Alle Mitarbeiter der Thalheim Industries SE
 
 ---
 
@@ -15,7 +15,7 @@ Art. 4 der Verordnung (EU) 2024/1689 (KI-VO) (https://dejure.org/gesetze/KIVO/4.
 Die Pflicht nach Art. 4 KI-VO gilt für Thalheim Industries SE als Betreiber (Deployer) aller fünf klassifizierten KI-Systeme. Sie ist spätestens ab 02.08.2025 anwendbar (Art. 113 Abs. 2 KI-VO).
 
 **Ziele des Schulungsprogramms:**
-1. Sicherstellen, dass alle Mitarbeiterinnen und Mitarbeiter die grundlegenden Funktionsweisen, Risiken und Rechte im Zusammenhang mit KI verstehen.
+1. Sicherstellen, dass alle Mitarbeiter die grundlegenden Funktionsweisen, Risiken und Rechte im Zusammenhang mit KI verstehen.
 2. Schaffen zielgruppenspezifischer Vertiefungskenntnisse für Nutzer von Hochrisiko-Systemen.
 3. Befähigung zur Wahrnehmung menschlicher Aufsicht über KI-Systeme (Art. 14 KI-VO).
 4. Sensibilisierung für Hinweisgeberpflichten bei Anomalien oder Missbrauch.
@@ -26,7 +26,7 @@ Die Pflicht nach Art. 4 KI-VO gilt für Thalheim Industries SE als Betreiber (De
 
 | Zielgruppe | Modul | Dauer | Format | Frist |
 |---|---|---|---|---|
-| Alle Mitarbeitenden | Modul A: KI-Grundlagen & Rechte | 90 Min. | E-Learning | 31.10.2026 |
+| Alle Mitarbeitern | Modul A: KI-Grundlagen & Rechte | 90 Min. | E-Learning | 31.10.2026 |
 | Führungskräfte | Modul B: KI-Governance & Compliance | 180 Min. | Hybrid (Präsenz + E-Learning) | 31.07.2026 |
 | HR-Fachbereich | Modul C: RecruitAI — Hochrisiko & Bias | 240 Min. | Präsenz-Workshop | 31.05.2026 |
 | Finanzierung/Vertrieb | Modul D: CreditVision Score — KI-VO & DSGVO | 240 Min. | Präsenz-Workshop | 31.05.2026 |

@@ -1,6 +1,6 @@
 ---
 name: haeusliche-gewalt-opferschutz-und-beweis
-description: "Häusliche Gewalt: Opferschutz, Aussage und Beweis: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Häusliche Gewalt: Opferschutz, Aussage und Beweis: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Häusliche Gewalt: Opferschutz, Aussage und Beweis

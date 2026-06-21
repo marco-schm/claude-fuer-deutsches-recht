@@ -29,7 +29,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Spezialwissen
 
-Zielgruppe: Proberichter/-innen, Assessoren/-innen, Rechtspfleger/-innen.
+Zielgruppe: Proberichter, Assessoren, Rechtspfleger.
 
 ## Triage zu Beginn (für Trainer)
 
@@ -113,7 +113,7 @@ Tag 1 wie oben. Tag 2 vertieft die Arbeitsakte `testakten/solis-vision-x-smartgl
 
 ## Hinweis zur Prüfungstaeuschung
 
-Im Trainerleitfaden zu Beginn jeder Schulung den Hinweis mitgeben: **Die hier ausgegebenen Relationen und Urteilsentwuerfe dürfen nicht in Klausuren des Vorbereitungsdienstes als eigene Arbeit eingereicht werden.** Es handelt sich um Schulungs- und Praxismaterial; die Eigenleistung der Teilnehmer/-innen ist nicht verzichtbar.
+Im Trainerleitfaden zu Beginn jeder Schulung den Hinweis mitgeben: **Die hier ausgegebenen Relationen und Urteilsentwuerfe dürfen nicht in Klausuren des Vorbereitungsdienstes als eigene Arbeit eingereicht werden.** Es handelt sich um Schulungs- und Praxismaterial; die Eigenleistung der Teilnehmer ist nicht verzichtbar.
 
 ## Workflow-Entscheidungspunkte
 

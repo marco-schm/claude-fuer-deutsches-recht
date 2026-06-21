@@ -14,7 +14,7 @@ Bearbeiterin: RAin Dr. Friederike Pohl-Krauss
 - Hanna Trüffelberch, 50 % — voll haftende Partnerin, Geschäftsführerin
 - Anne Ürgelheim (Schwester Hannas), 50 % — voll haftende Partnerin, Entwurfsleitung
 
-**Mitarbeitende:** 18 (Stand 2025), davon 12 Architekten/Ingenieure, 4 Büroangestellte, 2 Azubis.
+**Mitarbeiter:** 18 (Stand 2025), davon 12 Architekten/Ingenieure, 4 Büroangestellte, 2 Azubis.
 **Umsatz (2024):** ca. 3,8 Mio. EUR brutto (Beratungsleistungen Architektur + Planung).
 **EBITDA (2024):** ca. 840.000 EUR.
 **Schwerpunkt:** Öffentlicher Hochbau, sozialer Wohnungsbau, Schulgebäude, Renovierung historischer Gebäude.

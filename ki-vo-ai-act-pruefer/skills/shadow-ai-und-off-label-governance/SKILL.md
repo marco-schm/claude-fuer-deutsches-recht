@@ -1,13 +1,13 @@
 ---
 name: shadow-ai-und-off-label-governance
-description: "Shadow-AI und Off-label-Nutzung beherrschen: Wenn Mitarbeitende allgemeine Chatbots oder freigegebene KI-Tools entgegen Zweckbestimmung für Hochrisiko-nahe Aufgaben verwenden. Prüft Art. 3, Art. 6, Art. 25, Art. 26, Art. 50 KI-VO, Policy, Monitoring, Re-Evaluation und Beweisakte."
+description: "Shadow-AI und Off-label-Nutzung beherrschen: Wenn Mitarbeiter allgemeine Chatbots oder freigegebene KI-Tools entgegen Zweckbestimmung für Hochrisiko-nahe Aufgaben verwenden. Prüft Art. 3, Art. 6, Art. 25, Art. 26, Art. 50 KI-VO, Policy, Monitoring, Re-Evaluation und Beweisakte."
 ---
 
 # Shadow-AI und Off-label-Governance
 
 ## Worum geht es?
 
-Ein allgemeiner Chatbot ist nicht automatisch Hochrisiko. Gefährlich wird es, wenn Mitarbeitende ihn faktisch für Bewerberranking, Leistungsbeurteilung, Kreditvorauswahl, medizinische Triage, Behördenentscheidungen oder Justiznahe Sachverhaltsbewertung einsetzen, obwohl die Organisation ihn nur als Schreib- oder Recherchehilfe freigegeben hat.
+Ein allgemeiner Chatbot ist nicht automatisch Hochrisiko. Gefährlich wird es, wenn Mitarbeiter ihn faktisch für Bewerberranking, Leistungsbeurteilung, Kreditvorauswahl, medizinische Triage, Behördenentscheidungen oder Justiznahe Sachverhaltsbewertung einsetzen, obwohl die Organisation ihn nur als Schreib- oder Recherchehilfe freigegeben hat.
 
 ## Prüfspur
 

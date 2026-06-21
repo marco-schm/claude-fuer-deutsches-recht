@@ -67,7 +67,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 1. **Bestandsaufnahme:** Welche Tools sind bereits im Einsatz? Inoffiziell (Shadow-IT) und offiziell?
 2. **Reife:** Existiert bereits eine Richtlinie? Mit welchen Mängeln (kein Inventar, keine Whitelist, kein Schulungsnachweis)?
 3. **Kanzleistruktur:** Größe, Berufsstand, interdisziplinär? Syndikus, Steuerberatung, Wirtschaftsprüfung, Notariat mitabgedeckt?
-4. **Datenflüsse:** Welche Mandanten-/Mitarbeitenden-/Bewerberdaten? Welche Sensibilität (insb. Strafrechtsmandate, Gesundheitsmandate)?
+4. **Datenflüsse:** Welche Mandanten-/Mitarbeitern-/Bewerberdaten? Welche Sensibilität (insb. Strafrechtsmandate, Gesundheitsmandate)?
 5. **Betriebsrat:** Bei größeren Kanzleien § 87 Abs. 1 Nr. 6 BetrVG für Tools, die zur Verhaltens-/Leistungskontrolle geeignet sind.
 6. **Ziel:** Vollständige Erstrichtlinie? Nachbesserung? Tool-Einzelfreigabe? Schulungsprogramm?
 

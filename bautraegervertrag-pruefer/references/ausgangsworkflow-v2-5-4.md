@@ -1063,7 +1063,7 @@ Aufbau:
 ```text
 Betreff: Prüfung Bauträgervertrag [Projektname, Haus/Einheit/Stellplatz, Entwurfsdatum oder UR-Nr.] - Übersendung der ersten Einschätzung und des Gutachtens
 
-Sehr geehrte/r [Mandant/in],
+Sehr geehrte/r [Mandant],
 
 anbei erhalten Sie die Prüfung des Bauträgervertrags [Projekt/Haus/Einheit]. Kurz zusammengefasst:
 

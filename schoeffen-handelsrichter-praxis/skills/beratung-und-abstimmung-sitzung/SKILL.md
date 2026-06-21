@@ -1,6 +1,6 @@
 ---
 name: beratung-und-abstimmung-sitzung
-description: "Beratung und Abstimmung (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Beratungsgeheimnis, Stimmengewicht, Reihenfolge, Protokoll und Minderheitsgefühl mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Beratung und Abstimmung (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Beratungsgeheimnis, Stimmengewicht, Reihenfolge, Protokoll und Minderheitsgefühl mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Beratung und Abstimmung: Sitzungspraxis

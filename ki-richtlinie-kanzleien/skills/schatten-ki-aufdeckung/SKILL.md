@@ -1,6 +1,6 @@
 ---
 name: schatten-ki-aufdeckung
-description: "Schatten-KI in Kanzleien erkennen und konstruktiv umgehen: Anwendungsfall Kanzleiführung vermutet oder stellt fest dass Mitarbeitende nicht autorisierte KI-Dienste mit privaten Accounts nutzen. § 43a BRAO Verschwiegenheit, DSGVO Datenschutzverletzung, § 203 StGB Berufsgeheimnis. Prüfraster Stilan..."
+description: "Schatten-KI in Kanzleien erkennen und konstruktiv umgehen: Anwendungsfall Kanzleiführung vermutet oder stellt fest dass Mitarbeiter nicht autorisierte KI-Dienste mit privaten Accounts nutzen. § 43a BRAO Verschwiegenheit, DSGVO Datenschutzverletzung, § 203 StGB Berufsgeheimnis. Prüfraster Stilan..."
 ---
 
 # Schatten-KI Aufdeckung
@@ -15,19 +15,19 @@ description: "Schatten-KI in Kanzleien erkennen und konstruktiv umgehen: Anwendu
 
 ## Spezialwissen
 
-"Schatten-KI" bezeichnet die heimliche oder geduldete Nutzung nicht autorisierter KI-Systeme und Chatbots durch Mitarbeitende im Kanzleibetrieb — oft mit privaten Accounts und ohne Wissen der Kanzleiführung. Diese Praxis gefährdet Datenschutz, Anwaltsgeheimnis und Compliance erheblich. Dieser Skill beschreibt Methoden zur Erkennung und zum konstruktiven Umgang mit Schatten-KI.
+"Schatten-KI" bezeichnet die heimliche oder geduldete Nutzung nicht autorisierter KI-Systeme und Chatbots durch Mitarbeiter im Kanzleibetrieb — oft mit privaten Accounts und ohne Wissen der Kanzleiführung. Diese Praxis gefährdet Datenschutz, Anwaltsgeheimnis und Compliance erheblich. Dieser Skill beschreibt Methoden zur Erkennung und zum konstruktiven Umgang mit Schatten-KI.
 
 ## Rechtlicher Hintergrund
 
-§ 43a Abs. 2 BRAO, § 203 StGB: Jede Übermittlung von Mandatsgeheimnissen an nicht autorisierte externe Dienste kann eine Verletzung der Verschwiegenheitspflicht darstellen — auch wenn der Mitarbeitende dies nicht beabsichtigt. Art. 5 DSGVO: Rechenschaftspflicht des Verantwortlichen — die Kanzlei muss darlegen können, dass Daten rechtmäßig verarbeitet werden. § 87 Abs. 1 Nr. 6 BetrVG: Mitbestimmungsrecht des Betriebsrats bei technischer Überwachung von Mitarbeitenden. § 26 BDSG: Zulässigkeit der Verarbeitung von Beschäftigtendaten. Art. 4 KI-VO: Pflicht zur KI-Kompetenz setzt voraus, dass der Einsatz bekannt und geregelt ist.
+§ 43a Abs. 2 BRAO, § 203 StGB: Jede Übermittlung von Mandatsgeheimnissen an nicht autorisierte externe Dienste kann eine Verletzung der Verschwiegenheitspflicht darstellen — auch wenn der Mitarbeiter dies nicht beabsichtigt. Art. 5 DSGVO: Rechenschaftspflicht des Verantwortlichen — die Kanzlei muss darlegen können, dass Daten rechtmäßig verarbeitet werden. § 87 Abs. 1 Nr. 6 BetrVG: Mitbestimmungsrecht des Betriebsrats bei technischer Überwachung von Mitarbeitern. § 26 BDSG: Zulässigkeit der Verarbeitung von Beschäftigtendaten. Art. 4 KI-VO: Pflicht zur KI-Kompetenz setzt voraus, dass der Einsatz bekannt und geregelt ist.
 
 ## Vorlagentext / Bausteine
 
 **Baustein Schatten-KI-Richtlinie:**
-Mitarbeitende dürfen für berufliche Tätigkeiten ausschließlich die von der Kanzlei autorisierten KI-Accounts und -Dienste verwenden. Die Nutzung privater Accounts oder nicht autorisierter KI-Dienste für die Bearbeitung von Mandatsangelegenheiten ist untersagt. Verstöße können berufsrechtliche Konsequenzen (Verletzung der Verschwiegenheitspflicht nach § 43a BRAO, § 203 StGB) und arbeitsrechtliche Folgen haben.
+Mitarbeiter dürfen für berufliche Tätigkeiten ausschließlich die von der Kanzlei autorisierten KI-Accounts und -Dienste verwenden. Die Nutzung privater Accounts oder nicht autorisierter KI-Dienste für die Bearbeitung von Mandatsangelegenheiten ist untersagt. Verstöße können berufsrechtliche Konsequenzen (Verletzung der Verschwiegenheitspflicht nach § 43a BRAO, § 203 StGB) und arbeitsrechtliche Folgen haben.
 
 **Baustein Meldestelle:**
-Für Fragen zum zulässigen Einsatz von KI-Systemen steht [Name Datenschutzbeauftragter/Berufsrechtsbeauftragter] als vertrauliche Anlaufstelle zur Verfügung. Mitarbeitende, die unsicher sind, ob ein KI-Tool im konkreten Fall eingesetzt werden darf, sind ausdrücklich aufgefordert, vorher Rücksprache zu halten.
+Für Fragen zum zulässigen Einsatz von KI-Systemen steht [Name Datenschutzbeauftragter/Berufsrechtsbeauftragter] als vertrauliche Anlaufstelle zur Verfügung. Mitarbeiter, die unsicher sind, ob ein KI-Tool im konkreten Fall eingesetzt werden darf, sind ausdrücklich aufgefordert, vorher Rücksprache zu halten.
 
 ## Hinweise zur Aktualisierung
 

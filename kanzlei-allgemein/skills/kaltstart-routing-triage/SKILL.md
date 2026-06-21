@@ -280,7 +280,7 @@ Das Plugin folgt einem nachtblauen Kanzleidesign mit silberner Grundstruktur und
 
 ## Worauf besonders achten
 
-- **beA sicherer Uebermittlungsweg**: Nur der persönliche Versand durch den beA-Inhaber zaehlt als sUW; Versand durch Mitarbeitende erfordert qeS.
+- **beA sicherer Uebermittlungsweg**: Nur der persönliche Versand durch den beA-Inhaber zaehlt als sUW; Versand durch Mitarbeiter erfordert qeS.
 - **PostModG seit 1.1.2025**: Die Zustellungsfiktion bei Brief betraegt jetzt vier Werktage (vorher drei); alle Fristberechnungen anpassen.
 - **GwG-Kataloggeschaefte nicht uebersehen**: Truhand, Immobilientransaktionen und Gesellschaftsgruendungen loesen GwG-Pflichten aus, auch wenn kein Gerichtsverfahren anhangig ist.
 - **DSGVO-Speicherbegrenzung bei Aktenarchivierung**: Nach Ablauf der sechs-jaehrigen Aufbewahrungsfrist (§ 50 BRAO) müssen Akten geloescht werden.

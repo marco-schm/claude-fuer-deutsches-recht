@@ -8,7 +8,7 @@
 
 ## 1. Überblick Mitarbeiterstruktur
 
-Die EFS-GmbH übernimmt zum 01. Mai 2026 insgesamt **12 Mitarbeiterinnen und Mitarbeiter** aus drei Vorgängerkanzleien:
+Die EFS-GmbH übernimmt zum 01. Mai 2026 insgesamt **12 Mitarbeiter** aus drei Vorgängerkanzleien:
 
 | Vorgängerkanzlei | Übernehmende Mitarbeiter | Übergebender Rechtsträger |
 |---|---|---|

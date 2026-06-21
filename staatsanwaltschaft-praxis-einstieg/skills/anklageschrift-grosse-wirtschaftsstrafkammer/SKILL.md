@@ -1,6 +1,6 @@
 ---
 name: anklageschrift-grosse-wirtschaftsstrafkammer
-description: "Anklageschrift zur großen Wirtschaftsstrafkammer: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Anklageschrift zur großen Wirtschaftsstrafkammer: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Anklageschrift zur großen Wirtschaftsstrafkammer

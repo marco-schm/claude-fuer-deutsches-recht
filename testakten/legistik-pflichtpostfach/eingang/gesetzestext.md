@@ -78,7 +78,7 @@ Im Sinne dieses Gesetzes ist
 (1) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern und für Heimat sowie dem Bundesministerium für Digitales und Verkehr durch Rechtsverordnung mit Zustimmung des Bundesrates die folgenden technischen und verfahrensrechtlichen Anforderungen näher zu regeln:
 
 1. die technischen Mindestanforderungen an das Pflichtpostfach, insbesondere zu kryptographischen Verfahren, Mindest-Verfügbarkeit, Datenschutz nach Maßgabe der Verordnung (EU) 2016/679 und IT-Sicherheit nach dem Gesetz über das Bundesamt für Sicherheit in der Informationstechnik,
-2. die Verfahren zur Authentifizierung der Nutzerinnen und Nutzer im Vertrauensniveau "hoch" gemäß Artikel 8 der eIDAS-Verordnung,
+2. die Verfahren zur Authentifizierung der Nutzer im Vertrauensniveau "hoch" gemäß Artikel 8 der eIDAS-Verordnung,
 3. die Verfahren zur Bekanntgabe und Aktualisierung der Postfachadresse, insbesondere die Anforderungen an die Registerführung nach § 3,
 4. die einheitlichen Standards für die Interoperabilität der nach § 4 vorgegebenen Zustelldienste, einschließlich der einzuhaltenden Datenformate (XJustiz, JSON-Schema gemäß OZG-Vorgaben),
 5. die Mindeststandards für Barrierefreiheit gemäß der Verordnung (EU) 2019/882,

@@ -23,7 +23,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-Ein Verlagsdesk für juristische und fachliche Verlage: Eingangskorb, Manuskriptaufnahme, Redaktion, Rechtecheck, Zitat- und Fundstellenkontrolle, Autor:innenkommunikation, Heftplanung, Buchprojektsteuerung, Satzfahnen, Metadaten, Marketingtexte, Produktionsübergabe und Qualitätstor.
+Ein Verlagsdesk für juristische und fachliche Verlage: Eingangskorb, Manuskriptaufnahme, Redaktion, Rechtecheck, Zitat- und Fundstellenkontrolle, Autorenkommunikation, Heftplanung, Buchprojektsteuerung, Satzfahnen, Metadaten, Marketingtexte, Produktionsübergabe und Qualitätstor.
 
 Der erste Bildschirm soll sich für eine Sachbearbeiterin so anfühlen: Alles liegt durcheinander im Postfach, aber das Plugin macht daraus sofort eine Morgenlage, eine Prioritätenliste und den nächsten verwendbaren Arbeitsschritt.
 
@@ -39,12 +39,12 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 ## Was das Plugin gut können soll
 
 - Aus einer unordentlichen Inbox eine Tagesübersicht machen.
-- Manuskripte, Diktate, Folien, Screenshots, Tabellen und Autor:innenmails inventarisieren.
+- Manuskripte, Diktate, Folien, Screenshots, Tabellen und Autorenmails inventarisieren.
 - Rohmanuskripte als Anschubhilfe erstellen, ohne fremde Texte zu kopieren.
 - Vorhandene Texte strukturieren, kürzen, glätten und auf Widersprüche prüfen.
 - Zitate, Fundstellen, Randnummern und Quellenstatus transparent markieren.
 - Rechtefragen zu UrhG, Verlagsgesetz, Bildrechten, Tabellen und Fremdmaterialien als Ampel vorbereiten.
-- Autor:innen freundlich, knapp und verbindlich anschreiben.
+- Autoren freundlich, knapp und verbindlich anschreiben.
 - Heft-, Buch- und Online-First-Workflows in Aufgaben und Fristen übersetzen.
 - Klappentexte, Vorschauen, Metadaten und Marketingtexte aus dem Manuskript ableiten.
 - Satzfahnen und Korrekturläufe steuern.
@@ -67,11 +67,11 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 | `rechtecheck-urhg-verlg` | Urheberrecht, Verlagsgesetz, Nutzungsrechte, Zitatrecht und Zweitveröffentlichung. |
 | `bildrechte-grafiken-tabellen` | Bilder, Screenshots, Tabellen, Grafiken, Diagramme und Credits prüfen. |
 | `fremdtext-plagiat-uebernahmecheck` | Fremdtext, KI-Text, Copy-Paste und Paraphrase-Risiken markieren. |
-| `autorenkommunikation-email` | Autor:innenmails, Erinnerungen, Freigaben, Nachforderungen. |
+| `autorenkommunikation-email` | Autorenmails, Erinnerungen, Freigaben, Nachforderungen. |
 | `honorar-vertrag-royalties-triage` | Vertrags-/Honorar-/Royalty-Fragen für redaktionelle Vorprüfung. |
 | `metadaten-seo-klappentext` | Titel, Untertitel, Abstract, Schlagworte, VLB-/Web-Metadaten, Klappentext. |
 | `zeitschriften-heftplanung` | Hefte, Rubriken, Deadlines, Online-first, Fahnen und Umbruch koordinieren. |
-| `buchprojekt-kapitelkoordination` | Kapitel, Autor:innen, Register, Abbildungen, Vorwort und Produktionsstand. |
+| `buchprojekt-kapitelkoordination` | Kapitel, Autoren, Register, Abbildungen, Vorwort und Produktionsstand. |
 | `kommentar-aktualisierung-randnummern` | Kommentarupdates, Randnummern, Nachweise, Rechtsstandsvermerk. |
 | `entscheidungsmonitor-rechtsstand` | Entscheidungen und Gesetzesänderungen als Aktualisierungsanlass erfassen. |
 | `satzfahne-korrekturlauf` | Fahnenprüfung, Korrekturzeichen, Umbruch, Freigabe und letzte Checks. |
@@ -81,7 +81,7 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 | `knowledge-base-faq-kundenservice` | FAQ und interne Wissensbasis für Vertrieb, Support und Redaktion. |
 | `ai-einsatz-transparenz-datenschutz` | KI-Einsatz, Vertraulichkeit, DSGVO, Rechte und Freigabe dokumentieren. |
 | `produktionsuebergabe-checkliste` | Übergabe an Herstellung, Satz, Online, Marketing, Vertrieb und Archiv. |
-| `qualitaetsgate-verlag` | Schlussprüfung vor Autor:innenversand, Satz, Onlinegang oder Druck. |
+| `qualitaetsgate-verlag` | Schlussprüfung vor Autorenversand, Satz, Onlinegang oder Druck. |
 
 ## Quellenregel
 
@@ -89,7 +89,7 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 - Literatur nur aus Nutzerquelle, frei zugänglicher Quelle oder lizenziertem Live-Zugriff.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle.
 - Fremdtexte niemals wörtlich übernehmen, außer der Nutzer verlangt ein zulässiges kurzes Zitat mit sauberer Quellenangabe und Zweck.
-- Bei Verlagstexten immer trennen: Autor:innenmaterial, Redaktionstext, Fremdquelle, KI-Vorschlag und offene Lücke.
+- Bei Verlagstexten immer trennen: Autorenmaterial, Redaktionstext, Fremdquelle, KI-Vorschlag und offene Lücke.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
@@ -105,16 +105,16 @@ Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschre
 | `abstimmung-mit-produktion-satz-druck` | Klaert die Schnittstelle zur Produktion: Satzdaten Format Bildaufloesung Schriftrechte Fahnenlauf Druckfreigabe Online-Auslieferung und Reklamationswege im Verlagsredaktion. |
 | `abstimmung-mit-rechtsabteilung-pruefung` | Inhouse-Legal-Check vor Veroeffentlichung: strukturierte Abstimmung mit Justiziariat zu Aeusserungsrecht, Persoenlichkeitsrecht, Urheberrecht, Wettbewerbsrecht und Datenschutz im Verlagsredaktion. |
 | `abstimmung-mit-vertrieb-marketing` | Briefing für Vertrieb und Marketing zu einem Verlagsprodukt: Zielgruppe Kernnutzen Vergleichstitel Preisarchitektur und Material für Katalog Webseite Veranstaltungen im Verlagsredaktion. |
-| `ai-einsatz-transparenz-datenschutz` | Dokumentiert KI-Einsatz, Vertraulichkeit, Datenschutz, Autor:innenmaterial, Fremdrechte, Trainingsverbot, Freigaben und interne Verlagspolitik im Verlagsredaktion. |
+| `ai-einsatz-transparenz-datenschutz` | Dokumentiert KI-Einsatz, Vertraulichkeit, Datenschutz, Autorenmaterial, Fremdrechte, Trainingsverbot, Freigaben und interne Verlagspolitik im Verlagsredaktion. |
 | `audio-transkript-zu-fachbeitrag` | Destilliert einen Audio-Vortrag oder ein freies Diktat zu einem zitierfaehigen Fachbeitrag für juristische Fachzeitschriften und Sammelbaende im Verlagsredaktion. |
 | `aussagensicherheit-buchprojekt-bauleiter` | Prüft im Manuskript jede tragende Aussage darauf ob sie so im Druck stehen darf: Belegtiefe Ehrenschutz Datenschutz Berufsrecht und Aussagewahrheit im Verlagsredaktion. |
 | `autorenkommunikation-compliance-dokumentation-und-akte` | Autorenkommunikation: Compliance-Dokumentation und Aktenvermerk im Verlagsredaktion. |
-| `autorenkommunikation-email` | Schreibt freundliche, klare Autor:innenkommunikation für Nachforderungen, Korrekturen, Freigaben, Rechtefragen, Fristen und Eskalationen im Verlagsredaktion. |
+| `autorenkommunikation-email` | Schreibt freundliche, klare Autorenkommunikation für Nachforderungen, Korrekturen, Freigaben, Rechtefragen, Fristen und Eskalationen im Verlagsredaktion. |
 | `barrierefreiheit-epub-pdf` | Prüft Verlagsoutputs auf Struktur, Alt-Texte, Tabellenlesbarkeit, Ueberschriftenlogik, PDF- und EPUB-Zugaenglichkeit im Verlagsredaktion. |
 | `bildrechte-grafiken-tabellen` | Prüft Bilder, Screenshots, Grafiken, Tabellen, Diagramme, Credits, Alt-Texte, Bearbeitungen und Nutzungsumfang für Verlagspublikationen im Verlagsredaktion. |
 | `bildrechte-zahlen-schwellen-und-berechnung` | Bildrechte: Zahlen, Schwellenwerte und Berechnung im Verlagsredaktion. |
 | `buchprojekt-bauleiter` | Bauleiter juristisches Buchprojekt: Konzept, Autorenvertrag, Manuskripteinreichung, Lektorat, Druck. Prüfraster für Herausgeber und Verlag im Verlagsredaktion. |
-| `buchprojekt-kapitelkoordination` | Steuert Buchprojekte, Kapitel, Autor:innen, Herausgeber:innen, Register, Abbildungen, Vorwort, Fristen und Produktionsstand im Verlagsredaktion. |
+| `buchprojekt-kapitelkoordination` | Steuert Buchprojekte, Kapitel, Autoren, Herausgeber, Register, Abbildungen, Vorwort, Fristen und Produktionsstand im Verlagsredaktion. |
 | `buchprojekte-internationaler-bezug-und-schnittstellen` | Buchprojekte: Internationaler Bezug und Schnittstellen im Verlagsredaktion. |
 | `dokumente-intake` | Dokumentenintake für Verlagsredaktion: sortiert Verlagsvertrag, Manuskript, Bildrechtevereinbarung, prüft Datum, Absender, Frist und Beweiswert (Quellen, Recherche-Notizen); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO. |
 | `eingangskorb-heftplanung-interessen` | Eingangskorb: Risikoampel, Gegenargumente und Verteidigungslinien im Verlagsredaktion. |
@@ -132,7 +132,7 @@ Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschre
 | `haftungsfreistellung-autor-verlag` | Haftungsfreistellung zwischen Autor und Verlag: Klauselbaustein im Verlagsvertrag, Reichweite, AGB-Schranken, Versicherungsfragen, Praxis bei Abmahnung und Klage im Verlagsredaktion. |
 | `handschrift-und-altdoc-digitalisieren` | Digitalisiert handschriftliche Originalvorlagen und alte Dokumente für die Verlagsredaktion, mit Lesart-Markierung, Erhaltungsdokumentation und Auditfaehigkeit im Verlagsredaktion. |
 | `heftplanung-mehrparteien-konflikt-und-interessen` | Heftplanung: Mehrparteienkonflikt und Interessenmatrix im Verlagsredaktion. |
-| `honorar-vertrag-royalties-triage` | Triage für Autor:innenvertrag, Honorar, Tantiemen, Pauschale, Nebenrechte, Abrechnung, Nutzungsarten und Eskalation an Justiziariat im Verlagsredaktion. |
+| `honorar-vertrag-royalties-triage` | Triage für Autorenvertrag, Honorar, Tantiemen, Pauschale, Nebenrechte, Abrechnung, Nutzungsarten und Eskalation an Justiziariat im Verlagsredaktion. |
 | `honorarrechnung-erstellen-pruefen` | Honorarrechnung erstellen und prüfen: Pflichtangaben, USt-Behandlung, Kleinunternehmer, Reverse Charge, Auslandsautoren, KSK. Mit Musterrechnungen für Aufsatz, Beitrag, Werk im Verlagsredaktion. |
 | `honorarvertrag-templates-und-abweichungen` | Honorarvertragstemplates für juristische Werke: Standardvertrag Aufsatz, Buch, Kommentar, Herausgeberwerk. Abweichungspruefung gegen UrhG § 32 angemessene Verguetung im Verlagsredaktion. |
 | `ideenpool-priorisierung-impressum` | Verwaltet einen Ideen-Backlog der Verlagsredaktion mit Priorisierungsmatrix, Zustandskategorien und Eskalationsregeln für entscheidungsreife Themen im Verlagsredaktion. |
@@ -142,7 +142,7 @@ Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschre
 | `juristische-tatbestand-beweis-und-belege` | Juristische: Tatbestandsmerkmale, Beweisfragen und Beleglage im Verlagsredaktion. |
 | `kaltstart-triage` | Cooler Einstieg für das Verlagsredaktion-Plugin: stummer Upload, Morgenlage, Eingangskorb, Fristen, Rechteampel, Manuskriptstatus und Routing zu den Verlagsdesk-Skills. |
 | `knowledge-base-faq-kundenservice` | Erstellt FAQ, interne Wissensbasis und Kundenservice-Antworten zu Verlagstiteln, Updates, Downloads, Errata, Lizenzen und Produktfragen im Verlagsredaktion. |
-| `kommentar-aktualisierung-randnummern` | Unterstuetzt Kommentarupdates mit Randnummernlogik, Rechtsstandsvermerk, Nachweisen, Änderungsprotokoll und Autor:innenrueckfragen im Verlagsredaktion. |
+| `kommentar-aktualisierung-randnummern` | Unterstuetzt Kommentarupdates mit Randnummernlogik, Rechtsstandsvermerk, Nachweisen, Änderungsprotokoll und Autorenrueckfragen im Verlagsredaktion. |
 | `konferenzmitschnitt-zu-tagungsbericht` | Macht aus einem Tagungs- oder Konferenzmitschnitt einen Tagungsbericht für Fachzeitschrift, mit Vortragsuebersicht, Diskussionsskizze und Quellenpflicht im Verlagsredaktion. |
 | `lektorat-struktur-manuskriptaufnahme` | Redigiert Struktur, Argumentationsgang, Gliederung, Kuerzung, Redundanzen, Widersprueche und Lesefuehrung von Verlagsmanuskripten im Verlagsredaktion. |
 | `loeschpflicht-archivierung-loseblattwerk` | Loeschpflicht und Archivierung bei juristischer Fachzeitschrift: DSGVO Art. 17 Recht auf Vergessen, Online-Archiv, Aktenzeichen-Anonymisierung, Pressefreiheitsabwaegung, Versionierung im Verlagsredaktion. |
@@ -150,7 +150,7 @@ Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschre
 | `mahnung-an-honorar-vertrag` | Mahnung an Autor bei Rueckforderung von Vorschuss oder ueberzahltem Honorar: Stufenmodell, Nachfrist gemaess BGB § 286 und § 323, Verjährungspruefung, Mustertexte und gerichtliche Geltendmachung im Verlagsredaktion. |
 | `manuskript-behoerden-gericht-und-registerweg` | Manuskript: Behörden-, Gerichts- oder Registerweg im Verlagsredaktion. |
 | `manuskript-merkwuerdige-formate-rettung` | Rettet Manuskripte aus DOCX-/Markdown-/LaTeX-Mix, alten Word97-Dateien und KI-generiertem Wust; legt saubere Konvertierungspfade für die Verlagsredaktion im Verlagsredaktion. |
-| `manuskriptaufnahme-materialinventar` | Nimmt Manuskripte und Begleitmaterial auf, erstellt ein Materialinventar, trennt Autor:innenmaterial, Fremdquelle, Redaktionstext, Luecken und Rechtefragen im Verlagsredaktion. |
+| `manuskriptaufnahme-materialinventar` | Nimmt Manuskripte und Begleitmaterial auf, erstellt ein Materialinventar, trennt Autorenmaterial, Fremdquelle, Redaktionstext, Luecken und Rechtefragen im Verlagsredaktion. |
 | `marketing-presse-social` | Erstellt Verlagstexte für Vorschau, Newsletter, Presse, Website und Social Media aus Manuskript, Zielgruppe und Produktnutzen im Verlagsredaktion. |
 | `metadaten-fehlerkatalog` | Metadaten Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `metadaten-seo-klappentext` | Erstellt Titelvarianten, Untertitel, Abstract, Schlagworte, Klappentext, Webteaser, Kurzbeschreibung und Metadaten aus Manuskriptmaterial im Verlagsredaktion. |
@@ -162,7 +162,7 @@ Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschre
 | `pressetext-rechtsthemen` | Pressetext zu Rechtsthemen: Schreibanleitung für Verlagspressemitteilung zu neuem Buch oder neuer Entscheidung. Mustertexte für Fachpresse und allgemeine Medien mit Sperrfrist im Verlagsredaktion. |
 | `produktionsuebergabe-checkliste` | Erstellt die Übergabe an Herstellung, Satz, Online, Marketing, Vertrieb und Archiv mit Dateien, Freigaben, Rechten, Metadaten und offenen Punkten im Verlagsredaktion. |
 | `projektplan-fristen-heftplanung` | Erstellt Projektplaene für Heft, Onlinebeitrag, Buchkapitel, Kommentarupdate oder Sonderband mit Deadlines, Abhaengigkeiten und Verantwortlichen im Verlagsredaktion. |
-| `qualitaetsgate-verlag-quellen-zitate` | Schlusspruefung für Verlagsoutputs vor Autor:innenversand, Satz, Onlinegang oder Druck mit Rechte-, Quellen-, Stil-, Fristen- und Produktionsampel im Verlagsredaktion. |
+| `qualitaetsgate-verlag-quellen-zitate` | Schlusspruefung für Verlagsoutputs vor Autorenversand, Satz, Onlinegang oder Druck mit Rechte-, Quellen-, Stil-, Fristen- und Produktionsampel im Verlagsredaktion. |
 | `quellen-livecheck` | Quellen-Live-Check für Verlagsredaktion: prüft Normen (UrhG, VerlagsG, Presserechte Länder) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Presserat und Quellenhygiene nach references/quellenhygiene.md. |
 | `quellen-zitate-fundstellencheck` | Prüft Quellen, Zitate, Randnummern, Fundstellen, Rechtsprechung und Literaturstatus mit strenger Regel gegen erfundene oder paywallige Blindzitate im Verlagsredaktion. |
 | `rechtecheck-urhg-verlg` | Erstellt eine redaktionelle Rechteampel zu UrhG, Verlagsgesetz, Nutzungsrechten, Zitatrecht, Bearbeitung, Zweitveroeffentlichung und Freigaben im Verlagsredaktion. |
@@ -175,9 +175,9 @@ Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschre
 | `relationslinien-pruefung-im-aufsatz` | Prüft die logischen Relationslinien eines juristischen Aufsatzes: traegt das Argumentationsgeruest die Hauptthese ohne Sprunglinien und ohne Zirkel? im Verlagsredaktion. |
 | `richtigstellung-online-print` | Richtigstellung im Online- und Printmedium: Berichtigungsanspruch, Gegendarstellung nach MStV § 20, Erratum, Online-Korrekturhinweis. Mustertexte für alle drei Eskalationsstufen im Verlagsredaktion. |
 | `roh-research-zu-essay` | Verdichtet unstrukturierten Recherchewust einer Autorin zu einem zitierfaehigen Essay oder Diskussionsbeitrag für juristisches Fachformat im Verlagsredaktion. |
-| `rohmanuskript-anschubhilfe` | Baut aus Diktaten, Folien, Notizen und E-Mails ein klar markiertes Rohmanuskript als Anschubhilfe, ohne Autor:innenstimme und Redaktion zu vermischen im Verlagsredaktion. |
+| `rohmanuskript-anschubhilfe` | Baut aus Diktaten, Folien, Notizen und E-Mails ein klar markiertes Rohmanuskript als Anschubhilfe, ohne Autorenstimme und Redaktion zu vermischen im Verlagsredaktion. |
 | `rueckruf-fehlerbeitrag-screenshot-pdf` | Rueckruf bei spaet erkanntem Fehlerbeitrag: Rechtsfolgenpruefung BGB § 824, UrhG § 14, Aeusserungsrecht. Eskalationsplan, Mustertexte für Print- und Online-Rueckruf, Kostenabwaegung im Verlagsredaktion. |
-| `sachbearbeiterinnen-cockpit` | Persoenliches Verlagscockpit für Sachbearbeitung und Redaktion: Tageslage, Prioritaeten, Fristen, Autor:innen, Rechteampel, Produktionsstand und naechste Aktionen im Verlagsredaktion. |
+| `sachbearbeiterinnen-cockpit` | Persoenliches Verlagscockpit für Sachbearbeitung und Redaktion: Tageslage, Prioritaeten, Fristen, Autoren, Rechteampel, Produktionsstand und naechste Aktionen im Verlagsredaktion. |
 | `sales-katalog-satzfahne-korrekturlauf` | Bereitet Vertriebs-, Katalog-, VLB- und Buchhandelsdaten mit Zielgruppen, Verkaufsargumenten, Warengruppe, Schlagworten und Vergleichstiteln vor im Verlagsredaktion. |
 | `satzfahne-korrekturlauf` | Fuehrt durch Satzfahnen, Korrekturlaeufe, Umbruch, Seitenzahlen, Abbildungen, Fussnoten, Freigaben und letzte Produktionschecks im Verlagsredaktion. |
 | `satzfahnen-formular-portal-und-einreichung` | Satzfahnen: Formular, Portal und Einreichungslogik im Verlagsredaktion. |
@@ -204,14 +204,14 @@ Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschre
 | `verl-zitierweise-pruefung-zeitschrift-jus-njw` | Prueft die Zitierweise in Manuskripten gegen die jeweiligen Hausnormen von NJW NZA JuS JZ und verwandten Fachzeitschriften ohne Halluzination. |
 | `verlage-dokumentenmatrix-und-lueckenliste` | Verlage: Dokumentenmatrix, Lückenliste und Nachforderung im Verlagsredaktion. |
 | `verlagsdesk-erstpruefung-und-mandatsziel` | Verlagsdesk: Erstprüfung, Rollenklärung und Mandatsziel im Verlagsredaktion. |
-| `verlagsredaktion` | Kernskill für verlegerische Rohmanuskript- und Editionsarbeit: Material inventarisieren, strukturieren, redigieren, Luecken markieren, Quellen trennen und Autor:innenfreigaben vorbereiten im Verlagsredaktion. |
+| `verlagsredaktion` | Kernskill für verlegerische Rohmanuskript- und Editionsarbeit: Material inventarisieren, strukturieren, redigieren, Luecken markieren, Quellen trennen und Autorenfreigaben vorbereiten im Verlagsredaktion. |
 | `vlb-katalog-pflege-jur` | VLB-Katalog (Verzeichnis lieferbarer Buecher) pflegen: ONIX-Metadaten, Schlagworte, Klappentext, Reihen, Preisbindung, Erscheinungstermin-Pflege. Konsistenz mit Webshop, beck-online und Buchhandel im Verlagsredaktion. |
 | `vorschuss-ai-einsatz` | Vorschusspruefung für Buchprojekte: Bemessungsgrundlage, Auszahlungsstufen, Verrechnung mit Tantiemen, Rueckforderung bei Nichtablieferung, steuerliche und sozialversicherungsrechtliche Folgen im Verlagsredaktion. |
 | `webinar-vorbereitung` | Webinar-Vorbereitung als Fachbeitrag-Sequel: Vom Aufsatz zur Onlineveranstaltung. Vertrag mit Autor, FAO-Fortbildungspunkte, Technik, Datenschutz, Aufzeichnung und Vermarktung im Verlagsredaktion. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Verlagsredaktion. |
 | `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
-| `zeitschriften-heftplanung` | Organisiert Zeitschriftenhefte mit Rubriken, Beitraegen, Autor:innen, Seitenbudget, Online-first, Korrekturlauf, Anzeigen und Schlussredaktion: Organisiert Zeitschriftenhefte mit Rubriken, Beitraegen, Autor:innen, Seitenbudget, Online-fi... |
+| `zeitschriften-heftplanung` | Organisiert Zeitschriftenhefte mit Rubriken, Beitraegen, Autoren, Seitenbudget, Online-first, Korrekturlauf, Anzeigen und Schlussredaktion: Organisiert Zeitschriftenhefte mit Rubriken, Beitraegen, Autoren, Seitenbudget, Online-fi... |
 | `zeitschriftenartikel-leitfaden` | Leitfaden Zeitschriftenartikel: Auswahl Zeitschrift, Manuskriptregeln, Peer Review, Open Access. Prüfraster für Autorin und Verlag im Verlagsredaktion. |
 | `zitate-quellenkarte` | Zitate Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `zitierweise-pruefung-zeitschrift-jus-njw` | Prüft die Zitierweise in Manuskripten gegen die jeweiligen Hausnormen von NJW NZA JuS JZ und verwandten Fachzeitschriften ohne Halluzination im Verlagsredaktion. |

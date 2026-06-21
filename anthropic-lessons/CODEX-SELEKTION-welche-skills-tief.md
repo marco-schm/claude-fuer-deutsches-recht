@@ -30,7 +30,7 @@ Anthropic hat den Maßstab gesetzt, an dem wir uns orientieren. Schau dir das ge
 3. **Mandatsbegleitend.** Plugins, die ein einzelnes Mandat über Wochen/Monate/Jahre tragen — Insolvenzverfahren, Bauprozess, große Compliance-Fälle, Patentstreit, IPO-Prep.
 4. **Komplexe Mehr-Schritt-Workflows.** Plugins, bei denen ein Skill viele Sub-Schritte hat (Due Diligence, Disclosure Schedules, Closing Checklist deutscher Lesart).
 
-**Daraus folgt auch: Lange Skills lohnen sich NICHT** bei Verbraucher-Selbsthilfe (Fluggast, Mahnbescheid, Bürgergeld-Widerspruch), kurzen Tool-Skills (PDF-Stempel, Anlagen-Sortierung, Zitierprüfer), Studierenden-Hilfen (Hausarbeit, Methodenlehre) und Berufsrechts-Mikro-Skills (kurze Email-Umformulierung, Schriftform-Check).
+**Daraus folgt auch: Lange Skills lohnen sich NICHT** bei Verbraucher-Selbsthilfe (Fluggast, Mahnbescheid, Bürgergeld-Widerspruch), kurzen Tool-Skills (PDF-Stempel, Anlagen-Sortierung, Zitierprüfer), Studentenn-Hilfen (Hausarbeit, Methodenlehre) und Berufsrechts-Mikro-Skills (kurze Email-Umformulierung, Schriftform-Check).
 
 ---
 

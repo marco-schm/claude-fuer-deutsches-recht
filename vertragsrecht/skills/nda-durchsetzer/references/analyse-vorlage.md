@@ -3,7 +3,7 @@
 > Verbindliche Struktur der **strukturierten Analyse**, die parallel zum
 > Redline-Dokument als eigenständiges Dokument auszuliefern ist.
 > Reihenfolge und Abschnittsnummern sind verbindlich — sie sollen
-> Mandantinnen, Mandanten und verhandelnden Anwältinnen, Anwälten ein
+> Mandantinnen, Mandanten und verhandelnden Anwälten ein
 > wiedererkennbares Format bieten.
 
 ---

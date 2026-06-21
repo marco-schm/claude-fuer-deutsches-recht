@@ -65,7 +65,7 @@ Wir beanstanden im Einzelnen:
 
 **Punkt 2 Schlussformel.** Die Schlussformel enthält keine Dankesformel und kein Bedauern über das Ausscheiden. Ob daraus ein einklagbarer Berichtigungsanspruch folgt, ist nur nach live verifizierter Rechtsprechung zu bewerten. Im vorliegenden Gesamtbild wirkt die knappe Schlussformel jedoch deutlich distanzierend und steht nicht im Einklang mit den übrigen positiven Leistungsbewertungen. Wir bitten deshalb um folgende einvernehmliche Neufassung: "Wir bedauern das Ausscheiden von Frau [Name], danken ihr für die geleistete Arbeit und wünschen ihr für ihren weiteren beruflichen und persönlichen Lebensweg alles Gute."
 
-**Punkt 3 Vorgesetztenbeurteilung.** Trotz unstreitiger Fuehrungsverantwortung enthaelt das Zeugnis keine Aussage zur Vorgesetztenbeurteilung. Diese Auslassung wird im Bewerbungsverkehr als verdecktes Negativsignal gelesen. Wir bitten um Ergaenzung: "Als Vorgesetzte wurde sie von ihren Mitarbeiterinnen und Mitarbeitern stets uneingeschraenkt anerkannt."
+**Punkt 3 Vorgesetztenbeurteilung.** Trotz unstreitiger Fuehrungsverantwortung enthaelt das Zeugnis keine Aussage zur Vorgesetztenbeurteilung. Diese Auslassung wird im Bewerbungsverkehr als verdecktes Negativsignal gelesen. Wir bitten um Ergaenzung: "Als Vorgesetzte wurde sie von ihren Mitarbeitern stets uneingeschraenkt anerkannt."
 
 [Weitere Punkte analog.]
 

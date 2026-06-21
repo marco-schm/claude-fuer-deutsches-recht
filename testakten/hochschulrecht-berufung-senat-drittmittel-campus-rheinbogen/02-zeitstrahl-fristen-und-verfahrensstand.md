@@ -5,7 +5,7 @@
 ### 2025 — Vorfeld
 
 - **Sommersemester 2025**: Stellenausschreibung W3 Maschinenelement-Konstruktion, Veröffentlichung im Bundesanzeiger und Stellenticker des Wissenschaftsrats. Bewerbungsfrist 30.09.2025. Sechs Bewerbungen, davon vier mit Industrie-Bezug.
-- **15.10.2025**: Konstituierung der Berufungskommission unter Vorsitz Prof. Dr.-Ing. Hellbach. Mitglieder: zwei weitere ProfessorInnen, eine wissenschaftliche Mitarbeiterin, ein Studierender, eine externe Professorin.
+- **15.10.2025**: Konstituierung der Berufungskommission unter Vorsitz Prof. Dr.-Ing. Hellbach. Mitglieder: zwei weitere ProfessorInnen, eine wissenschaftliche Mitarbeiterin, ein Studentenr, eine externe Professorin.
 - **November/Dezember 2025**: Eingang externer Gutachten (drei externe Gutachter, je zwei Stellungnahmen pro Spitzenkandidat).
 - **20.01.2026**: Probevorträge der vier Bewerbungen mit höchster Vorbewertung; Listenvorbereitung beginnt.
 

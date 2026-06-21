@@ -67,7 +67,7 @@ Laut Aushang (Jahrgangstreffen WS 25/26) und Gerüchten aus dem Vorsemester legt
 ## IV. Häufige Fehler (laut Tutorienbericht SS 25)
 
 1. **Kein Gutachtenstil** im Fließtext — häufigster Abzugsgrund bei Wandersleben.
-2. **Fehlende Streitstandsdarstellung:** Viele Studierende nennen die h. M., vergessen aber die Mindermeinung mit Beleg.
+2. **Fehlende Streitstandsdarstellung:** Viele Studenten nennen die h. M., vergessen aber die Mindermeinung mit Beleg.
 3. **BeckRS-Zitate:** Wandersleben zieht hierfür Punkte ab. Nur NJW, NJW-RR, ZGS, JZ, MDR etc. akzeptiert.
 4. **Seitenüberschreitung:** Über 30 Seiten führt zu Punktabzug; viele Kandidaten überschreiten die Grenze durch zu lange Einleitungen.
 5. **§ 389 BGB Rückwirkung:** Wird oft ohne Streitstand nur als Ergebnis genannt — das reicht nicht.

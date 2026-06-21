@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Subsumtions-Prüfer (Jura): ordnet Rolle (Studierender, Bearbeiter), markiert Frist (keine harten Fristen), wählt Norm (BGB, StGB, GG, Methodenlehre) und Zuständigkeit (zuständige Stelle), leitet zum passenden Spezial-Skill."
+description: "Einstieg, Triage und Routing für Subsumtions-Prüfer (Jura): ordnet Rolle (Studentenr, Bearbeiter), markiert Frist (keine harten Fristen), wählt Norm (BGB, StGB, GG, Methodenlehre) und Zuständigkeit (zuständige Stelle), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing

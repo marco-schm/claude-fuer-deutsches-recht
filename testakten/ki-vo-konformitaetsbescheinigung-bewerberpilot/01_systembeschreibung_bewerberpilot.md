@@ -21,7 +21,7 @@ Nicht bestimmungsgemäße Nutzung:
 - Automatisierte Absage ohne menschliche Prüfung.
 - Bewertung von Krankheit, Schwangerschaft, Gewerkschaft, Religion, politischer Haltung oder Herkunft.
 - Einsatz für Beschäftigtenüberwachung.
-- Einsatz zur Leistungs- oder Verhaltensbewertung bestehender Mitarbeitender.
+- Einsatz zur Leistungs- oder Verhaltensbewertung bestehender Mitarbeiterr.
 
 ## 2. Rollen
 

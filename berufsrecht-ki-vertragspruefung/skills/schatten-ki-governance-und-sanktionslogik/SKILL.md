@@ -7,7 +7,7 @@ description: "Schatten-KI-Governance für Kanzleien: private Tools, Teamdiszipli
 
 ## Problem
 
-Eine Kanzlei kann einen vorbildlichen Anbieter prüfen und trotzdem scheitern, wenn Mitarbeitende daneben private Tools nutzen. Berufsrechtlich zählt die tatsächliche Organisation, nicht die PowerPoint-Policy.
+Eine Kanzlei kann einen vorbildlichen Anbieter prüfen und trotzdem scheitern, wenn Mitarbeiter daneben private Tools nutzen. Berufsrechtlich zählt die tatsächliche Organisation, nicht die PowerPoint-Policy.
 
 ## Arbeitsmodus
 

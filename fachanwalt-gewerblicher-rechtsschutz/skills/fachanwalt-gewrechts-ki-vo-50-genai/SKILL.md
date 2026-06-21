@@ -7,7 +7,7 @@ description: "KI-generierte Inhalte auf gewerblichen Rechtsschutz prüfen wenn G
 
 1. Welches KI-System wird eingesetzt (ChatGPT, Midjourney, Sora, DALL-E, Stable Diffusion, Runway, unternehmensinternes LLM)?
 2. Welcher Output-Typ wird erzeugt und wie eingesetzt — Text (Blog, Pressemitteilung), Bild (Produktfoto, Werbebanner), Video (Werbespot), Audio (Podcast-Stimme) oder Chatbot?
-3. Wird der KI-Output unverändert verwendet, oder erfolgt redaktionelle Nachbearbeitung durch Mitarbeitende?
+3. Wird der KI-Output unverändert verwendet, oder erfolgt redaktionelle Nachbearbeitung durch Mitarbeiter?
 4. In welchem rechtlichen Kontext wird der Output eingesetzt (B2C-Werbung, B2B-Kommunikation, politische Werbung, Finanzdienstleistung, Pharmaziewerbung)?
 5. Werden reale Personen in KI-generiertem Bild- oder Videomaterial dargestellt (Deep Fake-Risiko, §§ 22, 23 KUG, § 201a StGB)?
 6. Ab wann soll die KI-Nutzung starten — Art. 50 KI-VO gilt ab 2.8.2026?
@@ -199,8 +199,8 @@ S. 2 KI-VO offensichtlich künstlerischen oder satirischen Zwecken dienen.
 | "KI-VO gilt erst ab 2.8.2026 — heute noch kein Verstoß" | Abgemahnter | Bei § 5a UWG-Abmahnung: UWG gilt bereits; KI-Herkunft als wesentliche Information schon heute |
 | "Inhalt wurde redaktionell bearbeitet — keine KI-Kennzeichnung nötig" | Verwender | Art. 50 Abs. 2: Ausnahme nur bei erheblicher Bearbeitung; Beweislast beim Verwender; Dokumentation erforderlich |
 | "Satire / Kunst — Ausnahme Art. 50 Abs. 4 S. 2" | Verwender | Ausnahme eng: muss für Durchschnittsbetrachter offensichtlich sein; Zweifel gehen zu Lasten des Verwenders |
-| "KI-Output ist urheberrechtlich geschützt" | Mandant/in | § 2 UrhG: nur persönliche geistige Schöpfung eines Menschen schutzfähig; KI erzeugt keinen Schutz; Gestaltungsspielraum des Prompters reicht nach herrschender Meinung nicht |
-| "Bußgeld nur gegen Anbieter, nicht Verwender" | Mandant/in | Art. 50 Abs. 4: Verwender-Pflicht bei Deep Fakes; Art. 50 Abs. 1: Anbieter-Pflicht bei Chatbots; beide Ebenen gesondert prüfen |
+| "KI-Output ist urheberrechtlich geschützt" | Mandant | § 2 UrhG: nur persönliche geistige Schöpfung eines Menschen schutzfähig; KI erzeugt keinen Schutz; Gestaltungsspielraum des Prompters reicht nach herrschender Meinung nicht |
+| "Bußgeld nur gegen Anbieter, nicht Verwender" | Mandant | Art. 50 Abs. 4: Verwender-Pflicht bei Deep Fakes; Art. 50 Abs. 1: Anbieter-Pflicht bei Chatbots; beide Ebenen gesondert prüfen |
 
 ## Streitwert und Kosten
 

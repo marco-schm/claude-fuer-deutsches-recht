@@ -77,7 +77,7 @@ Der **Verhaltenskodex** (Anlage zu § 5 LobbyRG) verlangt bei Erstkontakt mit Ma
 - **Keine Registereintragung trotz Pflicht** = Erstkontakt rechtswidrig, möglicher Bußgeldgrund.
 - **Adressaten verlangen Belegt** der Registereintragung: stets Nummer parat haben.
 - **Anwaltliche Mandatsangelegenheit** (§ 2 II Nr. 9 LobbyRG): bei reiner Rechtsangelegenheit Ausnahme, aber nicht bei politischer Lobby für den Mandanten.
-- **Dolmetscher / Mitarbeitende** bei Vertretung: zur Identifikation und Funktion benennen.
+- **Dolmetscher / Mitarbeiter** bei Vertretung: zur Identifikation und Funktion benennen.
 - **Schriftliche Nachfassung**: Inhalt der Kontaktaufnahme dokumentieren — bei Anfrage durch Aufsicht Beweis möglich.
 
 ## Quellenanker

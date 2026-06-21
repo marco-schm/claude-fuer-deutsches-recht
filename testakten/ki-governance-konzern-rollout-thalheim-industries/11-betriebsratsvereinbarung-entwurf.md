@@ -9,7 +9,7 @@
 
 ## Präambel
 
-Die Thalheim Industries SE setzt im Rahmen ihrer Geschäftstätigkeit KI-gestützte Systeme ein, darunter Hochrisiko-KI-Systeme nach Anhang III der Verordnung (EU) 2024/1689 (KI-Verordnung). Der Betriebsrat macht sein Mitbestimmungsrecht nach § 87 Abs. 1 Nr. 6 BetrVG (https://dejure.org/gesetze/BetrVG/87.html) geltend, da KI-Systeme technische Einrichtungen im Sinne dieser Vorschrift darstellen, die zur Überwachung des Verhaltens oder der Leistung der Arbeitnehmerinnen und Arbeitnehmer bestimmt oder geeignet sind.
+Die Thalheim Industries SE setzt im Rahmen ihrer Geschäftstätigkeit KI-gestützte Systeme ein, darunter Hochrisiko-KI-Systeme nach Anhang III der Verordnung (EU) 2024/1689 (KI-Verordnung). Der Betriebsrat macht sein Mitbestimmungsrecht nach § 87 Abs. 1 Nr. 6 BetrVG (https://dejure.org/gesetze/BetrVG/87.html) geltend, da KI-Systeme technische Einrichtungen im Sinne dieser Vorschrift darstellen, die zur Überwachung des Verhaltens oder der Leistung der Arbeitnehmer bestimmt oder geeignet sind.
 
 Arbeitgeber und Betriebsrat sind sich einig, dass der Einsatz von KI-Systemen transparent, fair und unter Wahrung der Persönlichkeitsrechte der Beschäftigten erfolgen muss. Diese Betriebsvereinbarung regelt die Einführung, den Betrieb und die Überwachung von KI-Systemen, die auf Beschäftigte oder ihre Daten einwirken.
 

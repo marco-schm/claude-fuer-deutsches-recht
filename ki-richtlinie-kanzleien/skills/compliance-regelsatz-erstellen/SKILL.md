@@ -1,13 +1,13 @@
 ---
 name: compliance-regelsatz-erstellen
-description: "Compliance-Regelsatz Zehn Gebote für KI-Einsatz in Kanzleien erstellen: Anwendungsfall Kanzlei benoetigt praegnante Verhaltensregeln für alle Mitarbeitenden zu erlaubten und verbotenen KI-Nutzungen. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster ke..."
+description: "Compliance-Regelsatz Zehn Gebote für KI-Einsatz in Kanzleien erstellen: Anwendungsfall Kanzlei benoetigt praegnante Verhaltensregeln für alle Mitarbeitern zu erlaubten und verbotenen KI-Nutzungen. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster ke..."
 ---
 
 # Compliance-Regelsatz erstellen
 
 ## Arbeitsbereich
 
-Compliance-Regelsatz Zehn Gebote für KI-Einsatz in Kanzleien erstellen: Anwendungsfall Kanzlei benoetigt praegnante Verhaltensregeln für alle Mitarbeitenden zu erlaubten und verbotenen KI-Nutzungen. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster kein Privat-Account, keine Mandatsdaten ohne Anonymisierung, kein PDF-Upload ohne AVV, Korrekturlesung Pflicht, KI-Kennzeichnung. Output standardisierter Zehn-Gebote-Regelsatz anpassbar an Kanzlei-Profil. Abgrenzung zu Richtlinien-Skelett für vollständige Richtlinie und zu Berufsrecht-Bausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Compliance-Regelsatz Zehn Gebote für KI-Einsatz in Kanzleien erstellen: Anwendungsfall Kanzlei benoetigt praegnante Verhaltensregeln für alle Mitarbeitern zu erlaubten und verbotenen KI-Nutzungen. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster kein Privat-Account, keine Mandatsdaten ohne Anonymisierung, kein PDF-Upload ohne AVV, Korrekturlesung Pflicht, KI-Kennzeichnung. Output standardisierter Zehn-Gebote-Regelsatz anpassbar an Kanzlei-Profil. Abgrenzung zu Richtlinien-Skelett für vollständige Richtlinie und zu Berufsrecht-Bausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Compliance-Regelsatz Zehn Gebote für KI-Einsatz in Kanzleien erstellen: Anwendu
 
 ## Spezialwissen
 
-Ein klarer, prägnanter Compliance-Regelsatz ist das operative Herzstück jeder KI-Nutzungsrichtlinie. Er muss so formuliert sein, dass alle Mitarbeitenden — unabhängig von juristischem Hintergrund — die Kernregeln sofort verstehen und anwenden können. Dieser Skill erzeugt einen standardisierten Zehn-Gebote-Regelsatz, der an das Kanzlei-Profil angepasst werden kann.
+Ein klarer, prägnanter Compliance-Regelsatz ist das operative Herzstück jeder KI-Nutzungsrichtlinie. Er muss so formuliert sein, dass alle Mitarbeitern — unabhängig von juristischem Hintergrund — die Kernregeln sofort verstehen und anwenden können. Dieser Skill erzeugt einen standardisierten Zehn-Gebote-Regelsatz, der an das Kanzlei-Profil angepasst werden kann.
 
 ## Rechtlicher Hintergrund
 
@@ -44,7 +44,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 **1.** Wir nutzen beim Einsatz von KI-Systemen in der Kanzlei ausschließlich autorisierte Kanzlei-Accounts — niemals private Accounts.
 
-**2.** Wir kopieren keine personenbezogenen Daten von Mandanten oder Mitarbeitenden in KI-Systeme, es sei denn, die Daten wurden zuvor vollständig anonymisiert.
+**2.** Wir kopieren keine personenbezogenen Daten von Mandanten oder Mitarbeitern in KI-Systeme, es sei denn, die Daten wurden zuvor vollständig anonymisiert.
 
 **3.** Wir laden keine Dokumente, Akten oder Schriftstücke als Datei in einen KI-Dienst hoch, ohne diese zuvor anonymisiert zu haben — außer bei Anbietern, mit denen ein wirksamer Auftragsverarbeitungsvertrag nach Art. 28 DSGVO und eine § 43e-BRAO-Vereinbarung bestehen.
 
@@ -75,7 +75,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Hinweise zur Aktualisierung
 
-Der Regelsatz ist mindestens halbjährlich zu überprüfen. Bei wesentlichen Änderungen der genutzten KI-Dienste, bei neuen Gerichtsentscheidungen zur Haftung oder bei neuen BRAK/DAV-Hinweisen ist eine Aktualisierung geboten. Alle Mitarbeitenden müssen über Änderungen informiert und neu geschult werden.
+Der Regelsatz ist mindestens halbjährlich zu überprüfen. Bei wesentlichen Änderungen der genutzten KI-Dienste, bei neuen Gerichtsentscheidungen zur Haftung oder bei neuen BRAK/DAV-Hinweisen ist eine Aktualisierung geboten. Alle Mitarbeitern müssen über Änderungen informiert und neu geschult werden.
 
 ## Aktuelle Rechtsprechung (v14.2)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

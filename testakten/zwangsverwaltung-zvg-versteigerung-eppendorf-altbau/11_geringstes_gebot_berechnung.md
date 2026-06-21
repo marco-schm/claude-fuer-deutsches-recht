@@ -101,7 +101,7 @@ Das **wirtschaftliche Bietlimit** ist keine Rechtsgröße, sondern die intern ka
 
 ---
 
-## 7. Anmerkungen für junge Anwältinnen und Anwälte
+## 7. Anmerkungen für junge Anwälte
 
 **Verwechslungsgefahr:** Der Begriff "Mindestgebot" wird im Volksmund oft fälschlich für das wirtschaftliche Bietlimit verwendet. Im ZVG bedeutet "geringstes Gebot" ausschließlich die gesetzliche Untergrenze nach § 49 ZVG – nicht das persönliche Maximalgebot.
 

@@ -11,7 +11,7 @@ description: "Tatbestaende lernen für Jurastudium und Examensvorbereitung: Anwe
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DRiG § 5a Studiendauer 9 Semester (Regelstudienzeit), Freischuss-Frist (i.d.R. 8 Semester nach JAG), Wiederholungsfrist, Hausarbeit 4-6 Wochen.
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 **Fokus:** Tatbestaende lernen für Jurastudium und Examensvorbereitung: Anwendungsfall Student muss Tatbestaende und Definitionen sicher beherrschen für Klausuren und Examen. Lösungsschemata Tatbestandsmerkmale BGB Strafrecht öffentliches Recht, Subsumtion, Methodenlehre. Prüfraster Tatbestandsmerkmale vollständig, Definitionen normiert oder hM-Definition, Abgrenzung verwandter Tatbestaende, Examensrelevanz einordnen. Output Tatbestand-Lernkarten mit Definition Schema und Abgrenzungshinweisen. Abgrenzung zu Lösungsschemata für Klausuraufbau und zu Karteikarten für allgemeines Lernen.
@@ -70,7 +70,7 @@ Schemata sind erlaubt — als Lernhilfsmittel, **nicht** als Klausurprodukt. Sie
 
 ### Schritt 5 — Drill
 - Skill fragt: "Wie definierst du `fremd`?"
-- Studierender antwortet.
+- Studentenr antwortet.
 - Skill prüft Vollständigkeit: vier Anker erwartet, drei genannt — "Was fehlt: zivilrechtlich oder Tatzeitpunkt?"
 - Korrektur, Wiederholung, in Karteikarte einfügen.
 
@@ -102,6 +102,6 @@ Diese Skill arbeitet eng mit `karteikarten`:
 
 ## Was diese Skill nicht tut
 
-- Sie liefert keine vorgefertigten Karteikartendecks, die der Studierende nur konsumiert. Lernzweck wäre dann verfehlt. Die Definitionen muss der Studierende formulieren — die Skill korrigiert.
+- Sie liefert keine vorgefertigten Karteikartendecks, die der Studenten nur konsumiert. Lernzweck wäre dann verfehlt. Die Definitionen muss der Studenten formulieren — die Skill korrigiert.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Sie übt keine ganzen Klausuren (siehe `gutachten-uebung`).

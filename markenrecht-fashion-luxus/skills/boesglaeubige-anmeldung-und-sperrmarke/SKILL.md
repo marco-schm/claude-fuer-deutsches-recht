@@ -21,7 +21,7 @@ description: "Bösgläubige Markenanmeldung, Sperrmarke und Trittbrettfahrer pr�
 ## Pflichtfragen
 
 - Wer hat wann angemeldet und welche Vorbenutzung war bekannt?
-- Gibt es Geschäftsbeziehung, Verhandlungen, Vertrieb, Agentur, ehemalige Mitarbeitende?
+- Gibt es Geschäftsbeziehung, Verhandlungen, Vertrieb, Agentur, ehemalige Mitarbeiter?
 - Liegen Serienanmeldungen, Abmahnwelle oder Domain-/Social-Handle-Blockaden vor?
 - Welche Belege: E-Mails, Pitches, Messekontakte, NDAs, Rechnungen, Screenshots?
 

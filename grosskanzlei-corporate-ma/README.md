@@ -31,7 +31,7 @@ Technischer Plugin-Name: `grosskanzlei-corporate-ma`.
 
 Dies ist das freistehende Großkanzlei-Corporate/M&A-Plugin für den gesamten Transaktionslebenszyklus: Intake, Aktenanlage, Konflikt-/GwG-/Sanktionscheck, Datenraum, Due Diligence, Tabellenreview, Liquiditätsvorschau, Insolvenzreife, Q&A, SPA/APA, Disclosure Schedules, Signing, Closing, W&I, Public M&A, Fusionskontrolle, Investitionskontrolle, Umwandlungsrecht, Umwandlungssteuerrecht, KG/GmbH & Co. KG, StaRUG, Insolvenzplan, Distressed M&A, Board Paper, PMI, Deal-PMO, Billing, XRechnung/ZUGFeRD-Vorbereitung, GoBD-Protokoll und Closing Bible.
 
-Für neue Nutzerinnen und Nutzer gibt es zusätzlich einen **Anfänger-/First-Year-Associate-Modus**: Das Plugin fragt bei Bedarf am Anfang, wie viel Führung gewünscht ist, erklärt Deal-Begriffe nur dort, wo sie gebraucht werden, zerlegt Aufgaben in kleine Schritte und setzt Senior-Review-Gates, bevor etwas an Mandanten, Gegenseite, Notar, Bank oder Behörde geht.
+Für neue Nutzer gibt es zusätzlich einen **Anfänger-/First-Year-Associate-Modus**: Das Plugin fragt bei Bedarf am Anfang, wie viel Führung gewünscht ist, erklärt Deal-Begriffe nur dort, wo sie gebraucht werden, zerlegt Aufgaben in kleine Schritte und setzt Senior-Review-Gates, bevor etwas an Mandanten, Gegenseite, Notar, Bank oder Behörde geht.
 
 **Wichtig:** Dieses Plugin funktioniert vollständig allein. Alle Kernabläufe, Hilfstabellen, Prüfungsschablonen und Workflows liegen im Plugin selbst; für die hier beschriebenen M&A-Workflows ist keine Zusatzinstallation nötig.
 

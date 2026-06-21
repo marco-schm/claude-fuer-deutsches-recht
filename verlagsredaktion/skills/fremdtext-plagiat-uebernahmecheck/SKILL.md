@@ -15,7 +15,7 @@ description: "Markiert Fremdtext-, Copy-Paste-, Plagiats-, KI-Text- und Paraphra
 
 ## Ziel
 
-Nicht kriminalisieren, sondern sauber klären: Was ist Autor:innenleistung, was ist Zitat, was ist Paraphrase, was muss neu formuliert oder belegt werden?
+Nicht kriminalisieren, sondern sauber klären: Was ist Autorenleistung, was ist Zitat, was ist Paraphrase, was muss neu formuliert oder belegt werden?
 
 ## Prüfung
 
@@ -29,8 +29,8 @@ Nicht kriminalisieren, sondern sauber klären: Was ist Autor:innenleistung, was 
 ## Schneller Arbeitsmodus
 
 - Erst klären: Produktart, Adressat, Verwendungsort, Frist und Freigabeperson. Wenn Angaben fehlen, mit einer kurzen Arbeitsannahme starten und offene Punkte sichtbar markieren.
-- Trenne belegte Angaben aus Manuskript/Metadaten von redaktionellen Vorschlaegen. Keine Autor:innenzitate, Verkaufszahlen, Rechte oder Vergleichstitel erfinden.
-- Liefere zuerst eine nutzbare Arbeitsfassung, danach eine kurze Prüfliste für Herstellung, Marketing, Vertrieb, Justiziariat oder Autor:innen.
+- Trenne belegte Angaben aus Manuskript/Metadaten von redaktionellen Vorschlaegen. Keine Autorenzitate, Verkaufszahlen, Rechte oder Vergleichstitel erfinden.
+- Liefere zuerst eine nutzbare Arbeitsfassung, danach eine kurze Prüfliste für Herstellung, Marketing, Vertrieb, Justiziariat oder Autoren.
 
 ## Qualitaetsgate
 

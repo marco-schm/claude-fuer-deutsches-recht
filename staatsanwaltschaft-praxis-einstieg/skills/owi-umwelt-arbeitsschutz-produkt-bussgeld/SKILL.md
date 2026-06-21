@@ -1,6 +1,6 @@
 ---
 name: owi-umwelt-arbeitsschutz-produkt-bussgeld
-description: "Umwelt-, Arbeitsschutz- und Produkt-OWi: technische Behördenakten in gerichtsfeste Bußgeldlogik bringen: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene."
+description: "Umwelt-, Arbeitsschutz- und Produkt-OWi: technische Behördenakten in gerichtsfeste Bußgeldlogik bringen: OWiG-Praxis-Skill für junge Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene."
 ---
 
 # Umwelt-, Arbeitsschutz- und Produkt-OWi: technische Behördenakten in gerichtsfeste Bußgeldlogik bringen

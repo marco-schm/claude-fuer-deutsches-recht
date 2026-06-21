@@ -45,4 +45,4 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Gegenargumente bei Vorwurf der Pflichtverletzung
 - "Wir haben Tool X freigegeben mit Auflage Y" — Whitelist und Auflagen müssen schriftlich dokumentiert sein.
-- "Mitarbeitender hat Auflagen missachtet" — Schulungsnachweis + verpflichtende Kenntnisnahme.
+- "Mitarbeiterr hat Auflagen missachtet" — Schulungsnachweis + verpflichtende Kenntnisnahme.

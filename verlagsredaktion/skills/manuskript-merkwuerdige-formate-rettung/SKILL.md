@@ -15,7 +15,7 @@ description: "Rettet Manuskripte aus DOCX-/Markdown-/LaTeX-Mix, alten Word97-Dat
 
 ## Worum geht es konkret
 
-Autorinnen und Autoren liefern selten in der Form, die der Verlag braucht. Dieser Skill hilft, ein Manuskript aus einem unsauberen Eingangsformat (alte Word-Datei, gemischtes DOCX/Markdown, LaTeX-Fragmente, exportiertes PDF, mit KI generierter Wust) in ein verlagstaugliches Arbeitsdokument zu ueberfuehren - ohne juristischen Substanzverlust und ohne Fundstellenzerstoerung.
+Autoren liefern selten in der Form, die der Verlag braucht. Dieser Skill hilft, ein Manuskript aus einem unsauberen Eingangsformat (alte Word-Datei, gemischtes DOCX/Markdown, LaTeX-Fragmente, exportiertes PDF, mit KI generierter Wust) in ein verlagstaugliches Arbeitsdokument zu ueberfuehren - ohne juristischen Substanzverlust und ohne Fundstellenzerstoerung.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

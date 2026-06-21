@@ -1,6 +1,6 @@
 ---
 name: schoeffe-strafkammer-rolle-sitzung
-description: "Schöffe in der Strafkammer (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Rolle, Rechte, Pflichten, Fragerecht, Aktenkenntnis und richterliche Unabhängigkeit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Schöffe in der Strafkammer (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Rolle, Rechte, Pflichten, Fragerecht, Aktenkenntnis und richterliche Unabhängigkeit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Schöffe in der Strafkammer: Sitzungspraxis

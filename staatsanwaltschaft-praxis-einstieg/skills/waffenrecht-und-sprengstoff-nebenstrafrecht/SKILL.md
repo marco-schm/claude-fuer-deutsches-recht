@@ -1,6 +1,6 @@
 ---
 name: waffenrecht-und-sprengstoff-nebenstrafrecht
-description: "Waffen- und Sprengstoffsachen: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Waffen- und Sprengstoffsachen: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Waffen- und Sprengstoffsachen

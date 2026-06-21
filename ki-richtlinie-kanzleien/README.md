@@ -21,7 +21,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-Dieses Plugin erstellt und pflegt eine berufsrechtskonforme KI-Nutzungsrichtlinie für Kanzleien und Rechtsabteilungen mit Anwältinnen und Anwälten sowie Syndikus-Anwältinnen und Syndikus-Anwälten. Es beruht auf BRAO, BORA, DSGVO, KI-Verordnung sowie den Hinweisen der BRAK (Dezember 2024) und der DAV-Stellungnahme Nr. 32/2025.
+Dieses Plugin erstellt und pflegt eine berufsrechtskonforme KI-Nutzungsrichtlinie für Kanzleien und Rechtsabteilungen mit Anwälten sowie Syndikus-Anwältinnen und Syndikus-Anwälten. Es beruht auf BRAO, BORA, DSGVO, KI-Verordnung sowie den Hinweisen der BRAK (Dezember 2024) und der DAV-Stellungnahme Nr. 32/2025.
 
 ---
 
@@ -86,7 +86,7 @@ Dieses Plugin erstellt und pflegt eine berufsrechtskonforme KI-Nutzungsrichtlini
 ## Verwendungsbeispiel
 
 ```
-Ich bin Partner einer mittelgroßen Kanzlei mit 15 Anwältinnen und Anwälten im deutschen
+Ich bin Partner einer mittelgroßen Kanzlei mit 15 Anwälten im deutschen
 Gesellschaftsrecht und M&A. Wir wollen einen führenden US-amerikanischen KI-Dienst
 mit Enterprise-Account einsetzen. Erstelle für uns einen vollständigen Entwurf einer
 KI-Nutzungsrichtlinie: Beginne mit dem Skill kanzlei-kontext-analyse, erzeuge dann
@@ -119,7 +119,7 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `bora-brak-dsgvo` | Bora: Zahlen, Schwellenwerte und Berechnung. |
 | `brak-internationaler-bezug-und-schnittstellen` | Brak: Internationaler Bezug und Schnittstellen. |
 | `brao-quellenkarte` | Brao Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `compliance-regelsatz-erstellen` | Compliance-Regelsatz Zehn Gebote für KI-Einsatz in Kanzleien erstellen: Anwendungsfall Kanzlei benoetigt praegnante Verhaltensregeln für alle Mitarbeitenden zu erlaubten und verbotenen KI-Nutzungen. § 43a BRAO Verschwiegenheit, § 43e BRA... |
+| `compliance-regelsatz-erstellen` | Compliance-Regelsatz Zehn Gebote für KI-Einsatz in Kanzleien erstellen: Anwendungsfall Kanzlei benoetigt praegnante Verhaltensregeln für alle Mitarbeitern zu erlaubten und verbotenen KI-Nutzungen. § 43a BRAO Verschwiegenheit, § 43e BRA... |
 | `dienstleister-due-diligence` | KI-Dienstleister Due Diligence für Kanzleien durchführen: Anwendungsfall Kanzlei moechte neuen KI-Dienst beauftragen und muss eigenverantwortlich Datenschutz Berufsrecht und Sicherheit prüfen. § 43e BRAO Dienstleisterprüfung, Art. 28 Abs... |
 | `dokumentationspflichten-protokoll-dsgvo` | Dokumentationspflichten und beweissichere Protokollierung von KI-Nutzung in Kanzleien: Anwendungsfall Kanzlei muss KI-Inputs und KI-Outputs nachvollziehbar dokumentieren für Datenschutzbehörden, Mandanten-Beschwerden oder berufsrechtlich... |
 | `dokumente-intake` | Dokumentenintake für KI-Richtlinie für Kanzleien: sortiert KI-Richtlinie intern, AVV-Mustertext, Mandantenhinweis, prüft Datum, Absender, Frist und Beweiswert (Tool-Bewertung, AVV-Dokumentation); markiert Lücken; berücksichtigt Mandatsge... |
@@ -127,7 +127,7 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `dsgvo-compliance-dokumentation-und-akte` | DSGVO: Compliance-Dokumentation und Aktenvermerk. |
 | `einstieg-routing` | Einstieg, Triage und Routing für KI-Richtlinie für Kanzleien: ordnet Rolle (Kanzlei, Mandant, KI-Anbieter), markiert Frist (keine harten Fristen), wählt Norm (BRAO § 43e, BORA, DSGVO Art. 28) und Zuständigkeit (RAK), leitet zum passenden... |
 | `executive-summary-1-pager-template` | Ein-Seiten-Executive-Summary für KI-Nutzungsrichtlinien einer Kanzlei oder Rechtsabteilung; produziert ein druckfertiges 1-Pager-Dokument mit den Bloecken 'Was ist erlaubt', 'Was ist nicht erlaubt', 'Wo Vorsicht', 'Anlaufstellen' und 'Na... |
-| `executive-summary-bausteine` | Executive Summary der KI-Nutzungsrichtlinie für Kanzleien erstellen: Anwendungsfall Kanzleiführung will Mitarbeitenden die wichtigsten Kernpunkte in kurzem Executive Summary vermitteln. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstle... |
+| `executive-summary-bausteine` | Executive Summary der KI-Nutzungsrichtlinie für Kanzleien erstellen: Anwendungsfall Kanzleiführung will Mitarbeitern die wichtigsten Kernpunkte in kurzem Executive Summary vermitteln. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstle... |
 | `geschgehg-halluzinations-handhabung-kanzlei` | GeschGehG-Bausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei muss beim KI-Einsatz Geschäftsgeheimnisse von Mandanten und eigene Kanzleiinformationen schützen. § 1 Abs. 3 Nr. 1 GeschGehG angemessene Geheimhaltungsma... |
 | `halluzinations-handhabung` | Halluzinationen von KI in juristischer Arbeit erkennen und Prozessbetrug vermeiden: Anwendungsfall Anwalt nutzt KI für Rechtsprechungs-Recherche und muss sicherstellen dass keine falschen Fundstellen in Schriftsatz oder Gutachten einflie... |
 | `hinweisen-kanzleien-pflegt` | Hinweisen: Formular, Portal und Einreichungslogik. |
@@ -145,14 +145,14 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `nutzung-mandatsdaten` | Nutzungsrichtlinie: Fristen, Form, Zuständigkeit und Rechtsweg. |
 | `output-waehlen` | Output-Wahl für KI-Richtlinie für Kanzleien: stimmt Adressat (Kanzlei, Mandant, KI-Anbieter), Frist (keine harten Fristen) und Form auf den Zweck ab — typische Outputs: Interne KI-Richtlinie, Mandanten-Hinweisblatt, AVV-Checkliste. |
 | `pflegt-erstpruefung-und-mandatsziel` | Pflegt: Erstprüfung, Rollenklärung und Mandatsziel. |
-| `prompting-leitfaden` | Prompting-Leitfaden für juristische KI-Nutzung in Kanzleien: Anwendungsfall Anwalt oder Mitarbeitende wollen KI effektiver nutzen und benoetigen praxiserprobte Prompt-Methoden. Mandantenkommunikation mit KI, Anwaltsgeheimnis beim Prompte... |
+| `prompting-leitfaden` | Prompting-Leitfaden für juristische KI-Nutzung in Kanzleien: Anwendungsfall Anwalt oder Mitarbeiter wollen KI effektiver nutzen und benoetigen praxiserprobte Prompt-Methoden. Mandantenkommunikation mit KI, Anwaltsgeheimnis beim Prompte... |
 | `quellen-livecheck` | Quellen-Live-Check für KI-Richtlinie für Kanzleien: prüft Normen (BRAO § 43e, BORA, DSGVO Art. 28) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt RAK und Quellenhygiene nach references/quellenhygiene.md. |
 | `rdg-pruefung-chatbot` | Rdg Prüfung Chatbot: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Ki Richtlinie Kanzleien. |
 | `rechtsabteilungen-syndikus-verordnung` | Rechtsabteilungen: Risikoampel, Gegenargumente und Verteidigungslinien. |
 | `richtlinie-fehlerkatalog` | Richtlinie Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `richtlinien-skelett-update-schatten` | KI-Nutzungsrichtlinie Skelett für Kanzleien erzeugen: Anwendungsfall Kanzlei will erstmals KI-Nutzungsrichtlinie erstellen und benoetigt vollständige Grundstruktur. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO K... |
 | `richtlinien-update-zyklus` | KI-Nutzungsrichtlinie regelmäßig prüfen und aktualisieren: Anwendungsfall bestehende KI-Richtlinie ist aelter als sechs Monate oder es gibt wesentliche neue Rechtsentwicklung. Art. 4 KI-VO KI-Kompetenz, KI-VO Durchführungsrechtsakte, neu... |
-| `schatten-ki-aufdeckung` | Schatten-KI in Kanzleien erkennen und konstruktiv umgehen: Anwendungsfall Kanzleiführung vermutet oder stellt fest dass Mitarbeitende nicht autorisierte KI-Dienste mit privaten Accounts nutzen. § 43a BRAO Verschwiegenheit, DSGVO Datensch... |
+| `schatten-ki-aufdeckung` | Schatten-KI in Kanzleien erkennen und konstruktiv umgehen: Anwendungsfall Kanzleiführung vermutet oder stellt fest dass Mitarbeiter nicht autorisierte KI-Dienste mit privaten Accounts nutzen. § 43a BRAO Verschwiegenheit, DSGVO Datensch... |
 | `spezial-brao-livequellen-und-rechtsprechungscheck` | Brao: Livequellen- und Rechtsprechungscheck. |
 | `spezial-richtlinie-red-team-und-qualitaetskontrolle` | Richtlinie: Red-Team und Qualitätskontrolle. |
 | `start-chronologie-fristen` | Einstieg, Schnelltriage und Fallrouting im KI Richtlinie Kanzleien-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei... |

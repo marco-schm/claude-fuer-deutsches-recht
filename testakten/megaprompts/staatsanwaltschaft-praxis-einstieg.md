@@ -114,7 +114,7 @@ Konkret zu prüfen:
 
 ## Skill: `owi-einspruch-und-zwischenverfahren-69`
 
-_Einspruch gegen Bußgeldbescheid und Zwischenverfahren: Frist, Beschränkung, Nachermittlung, Rücknahme oder Vorlage sauber steuern: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quelle..._
+_Einspruch gegen Bußgeldbescheid und Zwischenverfahren: Frist, Beschränkung, Nachermittlung, Rücknahme oder Vorlage sauber steuern: OWiG-Praxis-Skill für junge Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quelle..._
 
 # Einspruch gegen Bußgeldbescheid und Zwischenverfahren: Frist, Beschränkung, Nachermittlung, Rücknahme oder Vorlage sauber steuern
 
@@ -174,7 +174,7 @@ Konkret zu prüfen:
 
 ## Skill: `owi-kaltstart-bussgeldverfahren-sta-rolle`
 
-_OWiG-Kaltstart: Strafsache oder Ordnungswidrigkeit, Verwaltungsbehörde, Staatsanwaltschaft, Gericht und richtige Verfahrenssprache trennen: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst u..._
+_OWiG-Kaltstart: Strafsache oder Ordnungswidrigkeit, Verwaltungsbehörde, Staatsanwaltschaft, Gericht und richtige Verfahrenssprache trennen: OWiG-Praxis-Skill für junge Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst u..._
 
 # OWiG-Kaltstart: Strafsache oder Ordnungswidrigkeit, Verwaltungsbehörde, Staatsanwaltschaft, Gericht und richtige Verfahrenssprache trennen
 
@@ -248,7 +248,7 @@ Konkret zu prüfen:
 
 ## Skill: `owi-uebergang-revision-staatsanwaeltinnen`
 
-_Übergang zwischen Bußgeld- und Strafverfahren: Hinweis, Rollenwechsel und keine Verfahrensfalle: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene im Staatsanwaltschafts-Pr..._
+_Übergang zwischen Bußgeld- und Strafverfahren: Hinweis, Rollenwechsel und keine Verfahrensfalle: OWiG-Praxis-Skill für junge Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene im Staatsanwaltschafts-Pr..._
 
 # Übergang zwischen Bußgeld- und Strafverfahren: Hinweis, Rollenwechsel und keine Verfahrensfalle
 
@@ -316,7 +316,7 @@ Konkret zu prüfen:
 
 ## Skill: `owi-verkehrsowi-vorlage-an`
 
-_Verkehrsordnungswidrigkeiten: Fahrverbot, Punkte, Messung, Halter- und Fahrerfrage aus StA-Sicht: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene im Staatsanwaltschafts-P..._
+_Verkehrsordnungswidrigkeiten: Fahrverbot, Punkte, Messung, Halter- und Fahrerfrage aus StA-Sicht: OWiG-Praxis-Skill für junge Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene im Staatsanwaltschafts-P..._
 
 # Verkehrsordnungswidrigkeiten: Fahrverbot, Punkte, Messung, Halter- und Fahrerfrage aus StA-Sicht
 

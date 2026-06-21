@@ -31,7 +31,7 @@ Realistische Akte für die **Insolvenzplan- und StaRUG-Planwerkstatt** (`insolve
 
 ## Sachverhalt
 
-Die Metallbau Hansa GmbH (HRB 142 387, AG Hamburg), Billbrookdeich 127, 22113 Hamburg, fertigt Stahlbaugruppen, Trägerkonstruktionen und Moduleinheiten für kommunale Fernwärmeprojekte, Bahnstationen und industrielle Anlagenbauer. Alleingesellschafterin ist die Hansa Beteiligungs UG (haftungsbeschränkt); Geschäftsführerinnen und Geschäftsführer sind Anna Reimers (kaufmännisch) und Lukas Petersen (technisch). Der CFO Björn Hollender wurde Anfang 2025 eingestellt.
+Die Metallbau Hansa GmbH (HRB 142 387, AG Hamburg), Billbrookdeich 127, 22113 Hamburg, fertigt Stahlbaugruppen, Trägerkonstruktionen und Moduleinheiten für kommunale Fernwärmeprojekte, Bahnstationen und industrielle Anlagenbauer. Alleingesellschafterin ist die Hansa Beteiligungs UG (haftungsbeschränkt); Geschäftsführer sind Anna Reimers (kaufmännisch) und Lukas Petersen (technisch). Der CFO Björn Hollender wurde Anfang 2025 eingestellt.
 
 Im Geschäftsjahr 2023 erwirtschaftete das Unternehmen noch einen Umsatz von 19,8 Mio. Euro mit einem EBITDA von 1,42 Mio. Euro. In den Jahren 2023 und 2024 wurden zwei Großaufträge – Bahnstation Altona-Süd (3,1 Mio. Euro) und Wärmeprojekt Stellingen (2,4 Mio. Euro) – zu fixen Pauschalpreisen ohne Materialgleitklausel abgeschlossen. Der darauffolgende Stahlpreisanstieg ließ die Rohstoffquote von 53 % (2023) auf 64 % (2025) steigen. Kombiniert mit fehlendem Projektcontrolling und einer durch Covenant-Verletzung gekürzten Bankenlinie entstand ein Jahresverlust von vorläufig 2,09 Mio. Euro im Jahr 2025. Die NordBank AG hat die Rückführung ihres Kontokorrentkredits (vollständig ausgenutzt: 2,0 Mio. Euro) zum 30. Juni 2026 angekündigt.
 
@@ -51,7 +51,7 @@ Am 12. Mai 2026 beauftragte die Geschäftsführerin Anna Reimers die Kanzlei Wes
 | Umsatz 2024 | 18,4 Mio. Euro |
 | Umsatz 2025 (vorläufig) | 16,9 Mio. Euro |
 | EBITDA 2025 (vorläufig) | –1,03 Mio. Euro |
-| Mitarbeitende | 86 Sozialversicherungspflichtige + 2 GF |
+| Mitarbeiter | 86 Sozialversicherungspflichtige + 2 GF |
 | Hauptgläubiger | NordBank AG (4,2 Mio. Euro), Hansa Beteiligungs UG (0,95 Mio. Euro, nachrangig) |
 | Investor | Nordlicht Turnaround Fonds GmbH & Co. KG (Term Sheet: 1,4 Mio. Euro) |
 | Verfahrensziel | Insolvenzplan in Eigenverwaltung (§ 270a InsO) oder StaRUG-Restrukturierungsplan |

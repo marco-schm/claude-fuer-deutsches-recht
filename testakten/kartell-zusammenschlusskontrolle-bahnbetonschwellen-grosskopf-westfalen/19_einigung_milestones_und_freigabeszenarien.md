@@ -20,7 +20,7 @@ Am 03. August 2026 (65. Arbeitstag) reichte GBW formal das Verpflichtungsangebot
 
 ### 2.1 Kerninhalt des Angebots
 
-1. **Veräußerung Bielefelder Werk:** Vollständige Übertragung des Produktionswerks TBA Bielefeld (Detmolder Straße 840) inkl. Grundstück, Maschinen, 94 Mitarbeitende, Fertigungslizenzen an einen genehmigten Erwerber.
+1. **Veräußerung Bielefelder Werk:** Vollständige Übertragung des Produktionswerks TBA Bielefeld (Detmolder Straße 840) inkl. Grundstück, Maschinen, 94 Mitarbeiter, Fertigungslizenzen an einen genehmigten Erwerber.
 2. **Erwerber:** Vorgeschlagener Erwerber: Adlerstein Beton AG (Wien, Österreich) — führender österreichischer Bahnschwellenhersteller mit bestehender DB-Voranmeldung für Lieferantenzulassung.
 3. **Hold-separate-Verpflichtung:** Bis zum Vollzug der Veräußerung führt GBW das Bielefelder Werk wirtschaftlich getrennt und unabhängig weiter (Hold Separate Manager, Monitoring Trustee).
 4. **Zeitrahmen Veräußerung:** Abschluss innerhalb von 9 Monaten nach Freigabeentscheidung (mit Option auf Verlängerung um 3 Monate durch Trustee).

@@ -1,6 +1,6 @@
 ---
 name: owi-ki-deepfake-mehrfachverfahren-verbindung
-description: "KI- und Deepfake-Beweise im Strafverfahren: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis."
+description: "KI- und Deepfake-Beweise im Strafverfahren: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis."
 ---
 
 # KI- und Deepfake-Beweise im Strafverfahren

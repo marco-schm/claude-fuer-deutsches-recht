@@ -1,6 +1,6 @@
 ---
 name: referendar-trainee-pipeline
-description: "Steuert Nachwuchs, Stationen, Mentor:innen, Angebote und Conversion. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Steuert Nachwuchs, Stationen, Mentoren, Angebote und Conversion. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
 ---
 
 # Referendar- und Trainee-Pipeline
@@ -39,7 +39,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Ausgangspunkt
 
-Steuert Nachwuchs, Stationen, Mentor:innen, Angebote und Conversion. Der Skill denkt aus der Perspektive einer deutschen mittelständischen Kanzlei mit Partnerkreis, Associates, Counsel, Business Services, Mandatsgeheimnis, Berufsrecht, RVG/BRAO-Grenzen, Mandantenbeziehungen und echter Liquiditätslogik.
+Steuert Nachwuchs, Stationen, Mentoren, Angebote und Conversion. Der Skill denkt aus der Perspektive einer deutschen mittelständischen Kanzlei mit Partnerkreis, Associates, Counsel, Business Services, Mandatsgeheimnis, Berufsrecht, RVG/BRAO-Grenzen, Mandantenbeziehungen und echter Liquiditätslogik.
 
 ## Erste Abfragen
 

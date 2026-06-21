@@ -11,7 +11,7 @@ Stand: 02.06.2026, nach Eingang der Nachreichung der hinweisgebenden Person vom 
 - **HinSchG**: Stand 2026, Änderungen durch das Whistleblower-Schutzgesetz-Ergänzungsgesetz prüfen — gegen `gesetze-im-internet.de` verifizieren. Insbesondere die §§ 7, 8, 9 (Identitätsschutz), § 13 (Anonyme Meldungen), § 17 (Frist 3 Monate), §§ 33-37 (Repressalienschutz).
 - **AWG/AWV**: Sanktionspakete gegen Russland (Verordnungen 833/2014 ff., letzte Änderungen 2024/2025 live prüfen). Bei den im Hinweis genannten Bestimmungsländern sind die jeweils aktuellen Restriktionen entscheidend, nicht der Stand von 2022.
 - **Dual-Use-VO 2021/821**: Anhang I in der konsolidierten Fassung. Bei den fraglichen CNC-Modulen relevante ECCN-Klassen 2B201, 2B206 prüfen.
-- **DSGVO**: Art. 33 für die Frage Datenpanne, Art. 6 Abs. 1 lit. c iVm § 26 BDSG für die Bearbeitung der Mitarbeitendendaten im Hinweisgeberverfahren.
+- **DSGVO**: Art. 33 für die Frage Datenpanne, Art. 6 Abs. 1 lit. c iVm § 26 BDSG für die Bearbeitung der Mitarbeiterndaten im Hinweisgeberverfahren.
 
 ### 2. Fehlende technische und kaufmännische Nachweise
 

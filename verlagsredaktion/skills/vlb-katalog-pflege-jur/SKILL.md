@@ -95,7 +95,7 @@ Die [n]. Auflage beruecksichtigt:
 Mit [Praxistipps / Mustertexten / Checklisten / Beispielsfaellen]
 laesst sich das Werk auch im Mandatsalltag direkt nutzen.
 
-Die Autorinnen und Autoren sind [kurze Vorstellung, max. 2 Saetze].
+Die Autoren sind [kurze Vorstellung, max. 2 Saetze].
 ```
 
 **ONIX-Mindesteintrag-Checkliste**

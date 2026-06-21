@@ -1,6 +1,6 @@
 ---
 name: owi-beschlussverfahren-72-und-widerspruch
-description: "Beschlussverfahren nach § 72 OWiG: Widerspruchsfrist, Zustimmungslage und taktische Entscheidung prüfen: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene."
+description: "Beschlussverfahren nach § 72 OWiG: Widerspruchsfrist, Zustimmungslage und taktische Entscheidung prüfen: OWiG-Praxis-Skill für junge Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene."
 ---
 
 # Beschlussverfahren nach § 72 OWiG: Widerspruchsfrist, Zustimmungslage und taktische Entscheidung prüfen

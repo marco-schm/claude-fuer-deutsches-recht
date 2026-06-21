@@ -21,7 +21,7 @@
 
 ## B. Ausgangslage
 
-Die Stadt Lindenhafen liegt im Landkreis Heidegrund in Niedersachsen und versorgt seit Jahrzehnten weite Teile ihrer Innenstadt sowie zwei Gewerbegebiete über ein erdgasbetriebenes Fernwärmenetz. Betreiberin dieses Netzes ist die KommunalWärme Lindenhafen GmbH (nachfolgend: KWL), eine 100-prozentige Tochtergesellschaft der Stadt. Die KWL beschäftigt 78 Mitarbeiterinnen und Mitarbeiter; ihr Jahresumsatz lag im Geschäftsjahr 2022 bei rund 19,2 Mio. Euro.
+Die Stadt Lindenhafen liegt im Landkreis Heidegrund in Niedersachsen und versorgt seit Jahrzehnten weite Teile ihrer Innenstadt sowie zwei Gewerbegebiete über ein erdgasbetriebenes Fernwärmenetz. Betreiberin dieses Netzes ist die KommunalWärme Lindenhafen GmbH (nachfolgend: KWL), eine 100-prozentige Tochtergesellschaft der Stadt. Die KWL beschäftigt 78 Mitarbeiter; ihr Jahresumsatz lag im Geschäftsjahr 2022 bei rund 19,2 Mio. Euro.
 
 Vor dem Hintergrund der europäischen Klimaschutzziele und der nationalen Vorgaben zur Wärmewende hat der Stadtrat Lindenhafen am 14. März 2023 mit 29 zu 8 Stimmen beschlossen, der KWL einen kommunalen Investitionszuschuss in Höhe von 14 Mio. Euro zu gewähren. Mit diesen Mitteln soll die KWL bis Ende 2026 das bestehende Gasnetz schrittweise auf eine klimaneutrale Wärmeversorgung umstellen: Konkret ist die Errichtung einer zentralen Wärmepumpenanlage (Leistung: 12 MW thermisch), die Erneuerung von ca. 8,4 km Leitungstrassen sowie der Anschluss von derzeit noch nicht versorgten Stadtgebieten (Neubaugebiete Am Sandkrug und Westliches Industriegelände) geplant.
 

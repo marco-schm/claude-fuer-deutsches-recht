@@ -1,6 +1,6 @@
 ---
 name: wohnungsdurchsuchung-gefahr-im-verzug
-description: "Wohnungsdurchsuchung und Gefahr im Verzug: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Wohnungsdurchsuchung und Gefahr im Verzug: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Wohnungsdurchsuchung und Gefahr im Verzug

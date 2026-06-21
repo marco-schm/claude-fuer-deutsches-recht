@@ -31,7 +31,7 @@ Beginne mit `oeffentliches-wirtschaftsrecht-allgemein`. Das Plugin fragt zuerst 
 
 - Es arbeitet mit Akten- und Fristenlogik statt mit Bauchgefühl.
 - Es trennt Rechtsgrundlage, Verfahren, Beweis, Kosten, Kommunikation und Eskalation.
-- Es soll Nutzerinnen und Nutzer befähigen: verständliche Erklärung, präzise Rückfragen, dann belastbarer Entwurf.
+- Es soll Nutzer befähigen: verständliche Erklärung, präzise Rückfragen, dann belastbarer Entwurf.
 - Rechtsprechung und Gesetzesstände werden nicht halluziniert, sondern als Live-Check über amtliche oder frei zugängliche Quellen markiert.
 
 ## Typische Outputs

@@ -1,6 +1,6 @@
 ---
 name: owi-einspruch-und-zwischenverfahren-69
-description: "Einspruch gegen Bußgeldbescheid und Zwischenverfahren: Frist, Beschränkung, Nachermittlung, Rücknahme oder Vorlage sauber steuern: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quelle..."
+description: "Einspruch gegen Bußgeldbescheid und Zwischenverfahren: Frist, Beschränkung, Nachermittlung, Rücknahme oder Vorlage sauber steuern: OWiG-Praxis-Skill für junge Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quelle..."
 ---
 
 # Einspruch gegen Bußgeldbescheid und Zwischenverfahren: Frist, Beschränkung, Nachermittlung, Rücknahme oder Vorlage sauber steuern

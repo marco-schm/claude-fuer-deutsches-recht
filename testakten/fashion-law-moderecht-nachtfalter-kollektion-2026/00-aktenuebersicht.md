@@ -4,7 +4,7 @@
 
 | Rolle | Name | Notiz |
 | --- | --- | --- |
-| Mandantin | Nachtfalter Studio GmbH, Berlin | Premium-Label, 31 Mitarbeitende |
+| Mandantin | Nachtfalter Studio GmbH, Berlin | Premium-Label, 31 Mitarbeiter |
 | Gründerin | Irmhild Mertens | will Drop nicht verschieben |
 | Hersteller | Anatol Weaving A.S., Izmir | Webware und Futterstoffe, neue Subunternehmerliste fehlt |
 | Creator | Liv Sundström | 1,1 Mio. Follower, Buyout im Vertragsentwurf unklar |

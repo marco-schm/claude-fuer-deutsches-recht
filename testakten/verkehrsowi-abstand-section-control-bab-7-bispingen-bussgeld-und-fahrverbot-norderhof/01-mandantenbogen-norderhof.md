@@ -21,7 +21,7 @@ AZ Kanzlei: ML-2026-OWi-0188
 
 **Arbeitgeber/Unternehmen:** Norderhof Spedition GmbH, Holstenstraße 202, 22767 Hamburg
 **Funktion:** Geschäftsführer (alleiniger GF, 100 % Gesellschafter)
-**Mitarbeitende:** 38 Personen (davon 24 Fahrer, 8 Disponenten, 6 Verwaltung)
+**Mitarbeiter:** 38 Personen (davon 24 Fahrer, 8 Disponenten, 6 Verwaltung)
 **Jahresumsatz 2025:** ca. 7,2 Mio. EUR
 **Tätigkeitsbeschreibung:** Übernahme der Gesellschaft vom Vater 2014; seitdem alleinige Führung; Mandant ist selbst im Besitz der Fahrerlaubnis Klasse CE und fährt nach eigenen Angaben gelegentlich selbst LKW-Touren, insbesondere bei Personalengpässen.
 

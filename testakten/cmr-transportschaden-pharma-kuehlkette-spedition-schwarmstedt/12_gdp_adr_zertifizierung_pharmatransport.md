@@ -24,7 +24,7 @@ Die GDP-Leitlinien für den Vertrieb von Humanarzneimitteln in der EU sind in de
 **Qualifizierung des Frachtführers:** Pharmahersteller (hier: MediVita SE) sind nach GDP verpflichtet, ihre Logistikdienstleister zu qualifizieren (Supplier Qualification). MediVita hätte prüfen müssen, ob Schwarmstedt GDP-konform ist; Schwarmstedt wiederum hätte prüfen müssen, ob Petrescu Transport SRL GDP-konform ist.
 
 **Lieferantenqualifizierungsdokumentation (MediVita SE):**
-Schwarmstedt hat vorgelegt: GDP-Auditbericht 2024 (intern, Selbsteinschätzung) sowie ein Zertifikat der IHK Lüneburg über eine GDP-Schulung für Mitarbeitende im Februar 2024. MediVita hat nach Auskunft des Logistikverantwortlichen Quasdorf einen "Approved Carrier"-Status an Schwarmstedt vergeben (Schwarmstedt ist in der MediVita-Lieferantenliste für temperaturkontrollierte Transporte unter "GDP Qualified" eingetragen, Eintrag vom 15. März 2024).
+Schwarmstedt hat vorgelegt: GDP-Auditbericht 2024 (intern, Selbsteinschätzung) sowie ein Zertifikat der IHK Lüneburg über eine GDP-Schulung für Mitarbeiter im Februar 2024. MediVita hat nach Auskunft des Logistikverantwortlichen Quasdorf einen "Approved Carrier"-Status an Schwarmstedt vergeben (Schwarmstedt ist in der MediVita-Lieferantenliste für temperaturkontrollierte Transporte unter "GDP Qualified" eingetragen, Eintrag vom 15. März 2024).
 
 ### 1.3 GDP-Status von Petrescu Transport SRL
 

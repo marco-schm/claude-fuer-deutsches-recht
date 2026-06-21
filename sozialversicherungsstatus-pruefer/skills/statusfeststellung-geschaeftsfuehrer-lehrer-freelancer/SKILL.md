@@ -3,7 +3,7 @@ name: statusfeststellung-geschaeftsfuehrer-lehrer-freelancer
 description: "Prüft § 7 SGB IV und § 7a SGB IV mit aktueller BSG-Linie zu Minderheitsgeschäftsführern, mittelbarer Beteiligung, Dozenten und projektbezogenen Freelancern im Sozialversicherungsstatus Prüfer."
 ---
 
-# Statusfeststellung: Geschäftsführer, Lehrende, Freelancer und Scheinselbstständigkeit
+# Statusfeststellung: Geschäftsführer, Lehrer, Freelancer und Scheinselbstständigkeit
 
 ## Arbeitsweg
 
@@ -14,7 +14,7 @@ description: "Prüft § 7 SGB IV und § 7a SGB IV mit aktueller BSG-Linie zu Min
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Verifizierte Anker
-- BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R: Lehrende/Dozenten sind einzelfallabhängig zu beurteilen; Parteiwille und Ausschluss eines Weisungsrechts reichen nicht.
+- BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R: Lehrer/Dozenten sind einzelfallabhängig zu beurteilen; Parteiwille und Ausschluss eines Weisungsrechts reichen nicht.
 - BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R: tatsächliche Eingliederung und fehlendes Unternehmerrisiko können Freelancerstatus kippen.
 - BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R sowie Urteil vom 20.02.2024 - B 12 KR 1/22 R: Geschäftsführerstatus hängt an echter Rechtsmacht, Sperrminorität und ggf. mittelbarer Beteiligung.
 

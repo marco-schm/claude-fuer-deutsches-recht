@@ -3,7 +3,7 @@
 Diese Anleitung zeigt Schritt für Schritt, wie man **Claude Cowork** so einrichtet, dass die Inferenz über einen
 **EU-Gateway-Anbieter** läuft. Gemeint sind hier Anbieter mit EU-Hosting, die eine **Berufsverschwiegenheitsvereinbarung** nach § 43e Abs. 3 BRAO zur Verfügung stellen können. Das tatsächliche Backend ist je nach Anbieter und Vereinbarung in der Regel **AWS Bedrock oder Google Vertex**. Welches Backend in deinem konkreten Fall verwendet wird, ist mit dem Gateway-Anbieter zwingend vor der Nutzung abzustimmen.
 
-Die Anleitung richtet sich an **nicht-technische Nutzerinnen und Nutzer**. Alle Schritte lassen sich ohne
+Die Anleitung richtet sich an **nicht-technische Nutzer**. Alle Schritte lassen sich ohne
 Programmierkenntnisse durchführen.
 
 ---

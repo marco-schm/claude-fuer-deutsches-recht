@@ -1,7 +1,7 @@
 # Eigentümerbrief und Vorlage Eigentümerversammlung
 
 **Absender:** Rosenwinkel Hausverwaltung GmbH, M. Kreutzer
-**Empfänger:** Eigentümer:innen der WEG Rosenwinkel 14/16
+**Empfänger:** Eigentümer der WEG Rosenwinkel 14/16
 **Datum:** 28.05.2026 (Postlauf)
 **Anlage:** Tagesordnung Eigentümerversammlung 04.06.2026
 
@@ -29,7 +29,7 @@ Geschäftsführerin Rosenwinkel Hausverwaltung GmbH
 4. **Beschluss 2:** Beauftragung eines Verkehrswertgutachtens beim Sachverständigen Dr. Tannenfels & Partner, Trier (Kostenrahmen 4.500 -- 6.500 EUR), wenn die Bodenrichtwertauskunft vom Gutachterausschuss eine deutliche Abweichung ergibt.
 5. **Beschluss 3:** Beauftragung der Architektin Wiegand mit aktualisierter Flächenbestätigung (800 -- 1.200 EUR).
 6. **Beschluss 4:** Stundungs- bzw. Ratenzahlungsantrag bei der Stadtkasse Trier; Bestellung einer Bankbürgschaft Sparkasse Trier als Sicherheitsleistung (Kosten ca. 0,6 % p. a. auf gestundete Beträge).
-7. **Beschluss 5:** Verteilung der Anwalts-, Gutachter- und Sicherheitsleistungskosten auf die Eigentümer:innen nach MEA-Anteilen (§ 16 Abs. 2 WEG).
+7. **Beschluss 5:** Verteilung der Anwalts-, Gutachter- und Sicherheitsleistungskosten auf die Eigentümer nach MEA-Anteilen (§ 16 Abs. 2 WEG).
 8. Diskussion: Sondersituation Frau Krachtburg und die Frage Verfassungswidrigkeit.
 9. Sonstiges.
 
@@ -96,7 +96,7 @@ Nach § 16 Abs. 2 WEG werden die Kosten nach Miteigentumsanteilen verteilt, sowe
 
 ## Verfassungswidrigkeit -- Sprachregelung für die Versammlung
 
-Die Frage, ob "die Grundsteuer verfassungswidrig" sei, wird von Eigentümer:innen häufig gestellt. Anwaltliche Linie für die Versammlung:
+Die Frage, ob "die Grundsteuer verfassungswidrig" sei, wird von Eigentümer häufig gestellt. Anwaltliche Linie für die Versammlung:
 
 > Es gibt in der Tat verfassungsrechtliche Diskussionen zur Grundsteuerreform 2022 und zur Anwendung des Bundesmodells. Es ist auch ein Vorlagebeschluss eines Finanzgerichts an das Bundesverfassungsgericht anhängig. Eine endgültige Entscheidung steht aber nicht in Aussicht. **Auf eine vage Verfassungsrüge zu warten, ist für unseren Einzelfall riskant.** Unsere Strategie ist anders: Wir zeigen, dass die **konkrete** Bewertung unseres Objekts falsch ist. Damit haben wir auch dann Erfolg, wenn das BVerfG die Reform insgesamt für verfassungsmäßig hält.
 
@@ -120,4 +120,4 @@ Die Frage, ob "die Grundsteuer verfassungswidrig" sei, wird von Eigentümer:inne
 
 ### Beschluss 5
 
-"Die Kosten der Verfahren werden nach Miteigentumsanteilen (§ 16 Abs. 2 WEG) auf die Eigentümer:innen verteilt. Die Hausverwaltung legt nach Abschluss eines jeden Verfahrensabschnitts eine Kostenaufstellung vor."
+"Die Kosten der Verfahren werden nach Miteigentumsanteilen (§ 16 Abs. 2 WEG) auf die Eigentümer verteilt. Die Hausverwaltung legt nach Abschluss eines jeden Verfahrensabschnitts eine Kostenaufstellung vor."

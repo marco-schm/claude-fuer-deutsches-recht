@@ -80,7 +80,7 @@ Rechtsgrundlagen: §§ 1–21 BNotO (Amtspflichten, Zuständigkeit, Unparteilich
 > **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
 <!-- END ausformulierungspflicht (autogen) -->
 
-## Hinweise für Notar/in und Sachbearbeitung
+## Hinweise für Notar und Sachbearbeitung
 
 Kein Entwurf und keine Terminvereinbarung, bevor Kaltstart vollständig. Jeder Vorgang erhält ab Eingang eine Vollzugsnummer. Aktenabschluss erst, wenn alle Vollzugsbestätigungen eingegangen und Kosten bezahlt sind. Wiedervorlage bei unerledigten Posten spätestens nach 4 Wochen.
 

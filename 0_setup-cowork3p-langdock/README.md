@@ -3,7 +3,7 @@
 Diese Anleitung zeigt Schritt für Schritt, wie man **Claude Cowork** so einrichtet, dass die Inferenz über den
 **EU-Gateway von Langdock** (deutsches Unternehmen, EU-Hosting, stellt Berufsverschwiegenheitsvereinbarung zur Verfügung (§ 43e Abs. 3 BRAO)) läuft. Das tatsächliche Backend auf Langdock-Seite muss dafür je nach Modell und Vereinbarung **AWS Bedrock oder Google Vertex** sein. Das ist mit Langdock zwingend vor der Nutzung abzustimmen.
 
-Die Anleitung richtet sich an **nicht-technische Nutzerinnen und Nutzer**. Alle Schritte lassen sich ohne
+Die Anleitung richtet sich an **nicht-technische Nutzer**. Alle Schritte lassen sich ohne
 Programmierkenntnisse durchführen.
 
 ---

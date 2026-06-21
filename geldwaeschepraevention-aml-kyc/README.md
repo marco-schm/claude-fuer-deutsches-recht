@@ -119,7 +119,7 @@ Automatisch generierte Komplett-Liste aller 57 Skills in diesem Plugin. Beschrei
 | `aml-kryptotransaktionen-mica-spezial` | Spezialfall Kryptotransaktionen und MiCA / Travel Rule: Identifizierung Kryptowallets, Reisedatenuebermittlung, schwellenfreie Pflichten. Prüfraster für CASP im Geldwaeschepraevention Aml Kyc. |
 | `aml-kyc-start-chronologie-fristen` | Einstieg, Schnelltriage und Fallrouting im Geldwaeschepraevention AML KYC-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitspl... |
 | `aml-trade-based-money-laundering-spezial` | Spezialfall Trade-Based-Money-Laundering: Over- und Underinvoicing, mehrfache Rechnungsstellung, Phantomgueter. Prüfraster für Handelsfinanzierung im Geldwaeschepraevention Aml Kyc. |
-| `aml-verdachtsmeldung-fiu-leitfaden` | Leitfaden Verdachtsmeldung an FIU: goAML, Schwellen, Tippoff-Verbot, Schutz der Mitarbeitenden. Prüfraster für Geldwaeschebeauftragten im Geldwaeschepraevention Aml Kyc. |
+| `aml-verdachtsmeldung-fiu-leitfaden` | Leitfaden Verdachtsmeldung an FIU: goAML, Schwellen, Tippoff-Verbot, Schutz der Mitarbeitern. Prüfraster für Geldwaeschebeauftragten im Geldwaeschepraevention Aml Kyc. |
 | `anschluss-routing` | Anschluss-Routing für Geldwäscheprävention AML/KYC: wählt den nächsten Spezial-Skill nach Engpass (Verdachtsmeldung unverzüglich § 43 GwG, KYC-Akte, Risk Assessment, Compliance-Manual), dokumentiert Router-Entscheidung mit Begründung. |
 | `awareness-zahlen-schwellen-und-berechnung` | Awareness: Zahlen, Schwellenwerte und Berechnung. |
 | `behoerdenverfahren-schriftsatz-brief-und-memo-bausteine` | Behördenverfahren: Schriftsatz-, Brief- und Memo-Bausteine. |

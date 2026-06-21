@@ -6,9 +6,9 @@ Datum: 27.08.2026
 
 ## Ausgangslage
 
-Im August 2026 wurden mehrere Fallkonstellationen bearbeitet, die Fortbildungsbedarf im Team deutlich gemacht haben. Insbesondere die zunehmende Zahl komplexer SGB-XII-Fälle, Aufenthaltsrechtsfälle und Schuldenberatungen übersteigt teilweise den Routinewissensstand der Mitarbeitenden.
+Im August 2026 wurden mehrere Fallkonstellationen bearbeitet, die Fortbildungsbedarf im Team deutlich gemacht haben. Insbesondere die zunehmende Zahl komplexer SGB-XII-Fälle, Aufenthaltsrechtsfälle und Schuldenberatungen übersteigt teilweise den Routinewissensstand der Mitarbeitern.
 
-## Fortbildungsbedarf nach Mitarbeitenden
+## Fortbildungsbedarf nach Mitarbeitern
 
 ### Dr. Marek Roosendaal (Volljurist)
 

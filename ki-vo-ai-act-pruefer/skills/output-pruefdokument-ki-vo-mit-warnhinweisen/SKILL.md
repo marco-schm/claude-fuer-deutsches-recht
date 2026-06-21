@@ -51,7 +51,7 @@ Dokumentieren:
 - tatsächliche Nutzung in der Organisation
 - verbotene oder ausgeschlossene Nutzungen
 - vorhersehbarer Fehlgebrauch
-- bekannte Abweichungen durch Mitarbeitende
+- bekannte Abweichungen durch Mitarbeiter
 - Re-Evaluation-Trigger
 
 ### 4. GPAI/Chatbot-Abgrenzung

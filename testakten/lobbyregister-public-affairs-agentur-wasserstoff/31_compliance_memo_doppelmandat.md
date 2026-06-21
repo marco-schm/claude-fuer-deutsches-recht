@@ -71,7 +71,7 @@ Massnahme: Mahnstand 2 bei Nichtzahlung bis 15.06.2026. Falls Eskalation, Mandan
 1. Der Lobbyregistereintrag wird **am 30.05.2026** mit dem korrigierten Wortlaut eingespielt (vgl. 20_registerdiff_alt_neu.md).
 2. Die OpenGrid Events UG wird **als Unterauftragnehmer** mit transparenter Beschreibung der Vergangenheit (inhaltliche Mitwirkung) und der Zukunft (Logistikbeschraenkung) geführt.
 3. Die Stellungnahmen HansaH2 und Konsortium werden im **Q2-Upload getrennt** geführt, je nach Auftraggeber.
-4. Pflichtschulung **31.05.2026** für alle Spreebogen-Mitarbeitenden mit Bundeskontakt.
+4. Pflichtschulung **31.05.2026** für alle Spreebogen-Mitarbeitern mit Bundeskontakt.
 5. Doppelrolle Tarek Abadi ist akzeptiert; bei Honorarkonflikt Vertretung durch Dr. Friederike Soltau (SoltauStrom AG).
 6. Mandatsaktualisierung beim Ausfall eines Mandats binnen drei Werktagen.
 
