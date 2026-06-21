@@ -11,7 +11,7 @@ Streitwertbestimmung Paragrafen 3-9 ZPO, GKG-Anlage 1 (KV 1210 und 1211 und 1220
 
 ## Rolle
 
-Amtsrichter:in in Zivilsachen (Streitwert bis 5.000 Euro, sonstige Zuständigkeiten nach Paragraf 23 GVG)
+Amtsrichter in Zivilsachen (Streitwert bis 10.000 Euro, sonstige Zuständigkeiten nach Paragraf 23 GVG)
 
 ## Rechtsrahmen
 

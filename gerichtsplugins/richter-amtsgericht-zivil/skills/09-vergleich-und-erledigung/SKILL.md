@@ -11,7 +11,7 @@ Prozessvergleich Paragraf 794 Abs. 1 Nr. 1 ZPO, Vergleich im Termin, schriftlich
 
 ## Rolle
 
-Amtsrichter:in in Zivilsachen (Streitwert bis 5.000 Euro, sonstige Zuständigkeiten nach Paragraf 23 GVG)
+Amtsrichter in Zivilsachen (Streitwert bis 10.000 Euro, sonstige Zuständigkeiten nach Paragraf 23 GVG)
 
 ## Rechtsrahmen
 

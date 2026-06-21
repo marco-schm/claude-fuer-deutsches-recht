@@ -11,7 +11,7 @@ Firmenprüfung Paragrafen 17-37a HGB: Kennzeichnungseignung, Unterscheidbarkeit 
 
 ## Rolle
 
-Registerrichter:in oder Rechtspfleger:in für Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Vereinsregister
+Registerrichter oder Rechtspfleger für Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Vereinsregister
 
 ## Rechtsrahmen
 

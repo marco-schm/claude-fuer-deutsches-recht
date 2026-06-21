@@ -11,7 +11,7 @@ Eigenverwaltung Paragrafen 270 ff. InsO, Eigenverwaltungsplanung Paragraf 270a, 
 
 ## Rolle
 
-Insolvenzrichter:in oder Restrukturierungsrichter:in am Amtsgericht (Paragraf 2 InsO, Paragrafen 34 ff. StaRUG)
+Insolvenzrichter oder Restrukturierungsrichter am Amtsgericht (Paragraf 2 InsO, Paragrafen 34 ff. StaRUG)
 
 ## Rechtsrahmen
 

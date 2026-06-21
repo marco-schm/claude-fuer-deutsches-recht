@@ -11,7 +11,7 @@ Insolvenzplanverfahren Paragrafen 217 ff. InsO: Vorprüfung Paragraf 231, Anhör
 
 ## Rolle
 
-Insolvenzrichter:in oder Restrukturierungsrichter:in am Amtsgericht (Paragraf 2 InsO, Paragrafen 34 ff. StaRUG)
+Insolvenzrichter oder Restrukturierungsrichter am Amtsgericht (Paragraf 2 InsO, Paragrafen 34 ff. StaRUG)
 
 ## Rechtsrahmen
 

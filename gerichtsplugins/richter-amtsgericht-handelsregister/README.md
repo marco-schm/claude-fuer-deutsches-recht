@@ -4,7 +4,7 @@
 
 ## Rolle
 
-Registerrichter:in oder Rechtspfleger:in für Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Vereinsregister
+Registerrichter oder Rechtspfleger für Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Vereinsregister
 
 ## Rechtsrahmen
 

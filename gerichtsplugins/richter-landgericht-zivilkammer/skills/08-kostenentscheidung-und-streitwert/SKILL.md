@@ -11,7 +11,7 @@ Kostenentscheidung Paragrafen 91-101 ZPO, Streitwertfestsetzung Paragrafen 39-51
 
 ## Rolle
 
-Vorsitzende:r oder Berichterstatter:in einer Zivilkammer (Paragraf 71 GVG, Streitwert ab 5.001 Euro; auch sonstige Zuständigkeiten Paragrafen 71-74 GVG) sowie zweite Instanz Berufung Paragraf 511 ZPO
+Vorsitzender oder Berichterstatter einer Zivilkammer (Paragraf 71 GVG, Streitwert ab 10.001 Euro; auch sonstige Zuständigkeiten Paragrafen 71-74 GVG) sowie zweite Instanz Berufung Paragraf 511 ZPO
 
 ## Rechtsrahmen
 

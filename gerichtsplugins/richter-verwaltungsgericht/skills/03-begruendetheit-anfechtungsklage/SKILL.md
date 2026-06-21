@@ -11,7 +11,7 @@ Begründetheit Paragraf 113 Abs. 1 VwGO: Rechtmaessigkeit des Verwaltungsakts (R
 
 ## Rolle
 
-Verwaltungsrichter:in als Einzelrichter:in oder Kammer (Paragrafen 4-6 VwGO)
+Verwaltungsrichter als Einzelrichter oder Kammer (Paragrafen 4-6 VwGO)
 
 ## Rechtsrahmen
 

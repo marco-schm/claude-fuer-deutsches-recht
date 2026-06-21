@@ -4,7 +4,7 @@
 
 ## Rolle
 
-Amtsrichter:in in Zivilsachen (Streitwert bis 5.000 Euro, sonstige Zuständigkeiten nach Paragraf 23 GVG)
+Amtsrichter in Zivilsachen (Streitwert bis 10.000 Euro, sonstige Zuständigkeiten nach Paragraf 23 GVG)
 
 ## Rechtsrahmen
 

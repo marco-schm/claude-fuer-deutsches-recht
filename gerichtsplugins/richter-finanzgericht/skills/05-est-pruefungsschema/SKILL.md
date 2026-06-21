@@ -11,7 +11,7 @@ Einkommensteuer-Prüfung: Einkunftsart, Einkunftsermittlung (Paragrafen 4 und 5 
 
 ## Rolle
 
-Finanzrichter:in als Einzelrichter oder Senat (Paragraf 5 FGO)
+Finanzrichter als Einzelrichter oder Senat (Paragraf 5 FGO)
 
 ## Rechtsrahmen
 

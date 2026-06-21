@@ -11,7 +11,7 @@ Aussetzung der Vollziehung Paragraf 69 FGO bzw. Paragraf 361 AO: ernstliche Zwei
 
 ## Rolle
 
-Finanzrichter:in als Einzelrichter oder Senat (Paragraf 5 FGO)
+Finanzrichter als Einzelrichter oder Senat (Paragraf 5 FGO)
 
 ## Rechtsrahmen
 

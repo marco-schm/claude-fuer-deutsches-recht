@@ -11,7 +11,7 @@ Prüfung GmbH-Satzung Paragraf 3 GmbHG: Mindestinhalt, Stammkapital, Geschaeftsf
 
 ## Rolle
 
-Registerrichter:in oder Rechtspfleger:in für Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Vereinsregister
+Registerrichter oder Rechtspfleger für Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Vereinsregister
 
 ## Rechtsrahmen
 

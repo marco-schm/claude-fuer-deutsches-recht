@@ -11,7 +11,7 @@ Streitiger und unstreitiger Sachverhalt heraussortieren, Geltung von Paragraf 13
 
 ## Rolle
 
-Jede:r Zivilrechtler:in (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
+Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
 
 ## Rechtsrahmen
 

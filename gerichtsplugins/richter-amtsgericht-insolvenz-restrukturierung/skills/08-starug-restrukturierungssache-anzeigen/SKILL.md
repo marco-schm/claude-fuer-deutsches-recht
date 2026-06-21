@@ -1,17 +1,17 @@
 ---
 name: 08-starug-restrukturierungssache-anzeigen
-description: "Anzeige Restrukturierungssache Paragrafen 31 ff. StaRUG, Restrukturierungsbeauftragte:r Paragraf 73 StaRUG, Restrukturierungsforum, öffentliche oder nicht-öffentliche Sache"
+description: "Anzeige Restrukturierungssache Paragrafen 31 ff. StaRUG, Restrukturierungsbeauftragter Paragraf 73 StaRUG, Restrukturierungsforum, öffentliche oder nicht-öffentliche Sache"
 ---
 
 # 08 StaRUG Restrukturierungssache Anzeigen
 
 ## Zweck
 
-Anzeige Restrukturierungssache Paragrafen 31 ff. StaRUG, Restrukturierungsbeauftragte:r Paragraf 73 StaRUG, Restrukturierungsforum, öffentliche oder nicht-öffentliche Sache
+Anzeige Restrukturierungssache Paragrafen 31 ff. StaRUG, Restrukturierungsbeauftragter Paragraf 73 StaRUG, Restrukturierungsforum, öffentliche oder nicht-öffentliche Sache
 
 ## Rolle
 
-Insolvenzrichter:in oder Restrukturierungsrichter:in am Amtsgericht (Paragraf 2 InsO, Paragrafen 34 ff. StaRUG)
+Insolvenzrichter oder Restrukturierungsrichter am Amtsgericht (Paragraf 2 InsO, Paragrafen 34 ff. StaRUG)
 
 ## Rechtsrahmen
 

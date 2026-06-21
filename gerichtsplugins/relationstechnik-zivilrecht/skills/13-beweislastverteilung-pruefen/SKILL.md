@@ -11,7 +11,7 @@ Beweislastverteilung nach allgemeinen Regeln (Rosenberg-Formel) und Sondernormen
 
 ## Rolle
 
-Jede:r Zivilrechtler:in (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
+Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
 
 ## Rechtsrahmen
 

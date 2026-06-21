@@ -11,7 +11,7 @@ Strukturierter Entscheidungsvorschlag mit Schuldspruch-Skizze, Strafzumessungs-S
 
 ## Rolle
 
-Strafrichter:in oder Schöffengericht am Amtsgericht (Paragraf 24 GVG, Paragraf 25 GVG, Paragrafen 28-30 GVG)
+Strafrichter oder Schöffengericht am Amtsgericht (Paragraf 24 GVG, Paragraf 25 GVG, Paragrafen 28-30 GVG)
 
 ## Rechtsrahmen
 

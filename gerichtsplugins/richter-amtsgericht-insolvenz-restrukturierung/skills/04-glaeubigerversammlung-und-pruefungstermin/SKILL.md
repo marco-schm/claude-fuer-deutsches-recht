@@ -11,7 +11,7 @@ Gläubigerversammlung Paragrafen 74 ff. InsO, Berichtstermin Paragraf 156, Prüf
 
 ## Rolle
 
-Insolvenzrichter:in oder Restrukturierungsrichter:in am Amtsgericht (Paragraf 2 InsO, Paragrafen 34 ff. StaRUG)
+Insolvenzrichter oder Restrukturierungsrichter am Amtsgericht (Paragraf 2 InsO, Paragrafen 34 ff. StaRUG)
 
 ## Rechtsrahmen
 

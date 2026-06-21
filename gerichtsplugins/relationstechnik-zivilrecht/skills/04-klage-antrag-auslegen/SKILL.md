@@ -11,7 +11,7 @@ Klageantrag auslegen Paragraf 133 BGB analog, Bestimmtheit Paragraf 253 Abs. 2 N
 
 ## Rolle
 
-Jede:r Zivilrechtler:in (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
+Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
 
 ## Rechtsrahmen
 

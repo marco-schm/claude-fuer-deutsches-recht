@@ -11,7 +11,7 @@ Betriebsübergang Paragraf 613a BGB, Eintritt in Arbeitsverhältnisse, Widerspru
 
 ## Rolle
 
-Arbeitsrichter:in als Vorsitzende:r einer Kammer (mit zwei ehrenamtlichen Richtern aus Arbeitgeber- und Arbeitnehmerkreis) Paragraf 16 ArbGG
+Arbeitsrichter als Vorsitzender einer Kammer (mit zwei ehrenamtlichen Richtern aus Arbeitgeber- und Arbeitnehmerkreis) Paragraf 16 ArbGG
 
 ## Rechtsrahmen
 

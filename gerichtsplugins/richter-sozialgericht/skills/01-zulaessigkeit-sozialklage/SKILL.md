@@ -11,7 +11,7 @@ Zulässigkeit Paragrafen 51 ff. SGG: Rechtsweg, Klagearten (Anfechtung Leistung 
 
 ## Rolle
 
-Sozialrichter:in als Einzelrichter:in oder Kammer (Paragrafen 12 und 31 SGG); mit ehrenamtlichen Richtern in muendlicher Verhandlung
+Sozialrichter als Einzelrichter oder Kammer (Paragrafen 12 und 31 SGG); mit ehrenamtlichen Richtern in muendlicher Verhandlung
 
 ## Rechtsrahmen
 

@@ -9,7 +9,7 @@ Richter Amtsgericht Zivilsachen
 
 ## Sachverhalt (verkuerzt)
 
-Klägerin K (Halterin Pkw VW Golf) verklagt Beklagten B (Halter Pkw BMW) auf Zahlung von 3.420 Euro Reparaturkosten plus 80 Euro Auslagenpauschale plus Rechtsanwaltsgebuehren. Unfall am Kreisverkehr Bahnhofstrasse Musterstadt am 15.03.2026. K behauptet B sei beim Einfahren in den Kreisverkehr nicht der bereits einfahrenden K gewichen. B bestreitet das mit Nichtwissen und behauptet K sei mit überhoehter Geschwindigkeit gefahren. Polizeiliche Unfallaufnahme im Anlagenkonvolut. Streitwert 3.500 Euro — sachliche Zuständigkeit AG nach Paragraf 23 GVG (bis 5.000 Euro).
+Klägerin K (Halterin Pkw VW Golf) verklagt Beklagten B (Halter Pkw BMW) auf Zahlung von 3.420 Euro Reparaturkosten plus 80 Euro Auslagenpauschale plus Rechtsanwaltsgebuehren. Unfall am Kreisverkehr Bahnhofstrasse Musterstadt am 15.03.2026. K behauptet B sei beim Einfahren in den Kreisverkehr nicht der bereits einfahrenden K gewichen. B bestreitet das mit Nichtwissen und behauptet K sei mit überhoehter Geschwindigkeit gefahren. Polizeiliche Unfallaufnahme im Anlagenkonvolut. Streitwert 3.500 Euro — sachliche Zuständigkeit AG nach Paragraf 23 GVG (bis 10.000 Euro).
 
 ## Aufgabe
 

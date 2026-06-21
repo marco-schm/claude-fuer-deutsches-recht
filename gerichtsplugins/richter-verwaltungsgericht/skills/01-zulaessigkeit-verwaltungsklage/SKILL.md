@@ -11,7 +11,7 @@ Zulässigkeit der Klage: Verwaltungsrechtsweg Paragraf 40 VwGO, Klagearten Parag
 
 ## Rolle
 
-Verwaltungsrichter:in als Einzelrichter:in oder Kammer (Paragrafen 4-6 VwGO)
+Verwaltungsrichter als Einzelrichter oder Kammer (Paragrafen 4-6 VwGO)
 
 ## Rechtsrahmen
 

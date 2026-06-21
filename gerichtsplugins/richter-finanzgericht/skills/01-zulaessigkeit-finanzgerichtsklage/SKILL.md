@@ -11,7 +11,7 @@ Zulässigkeit der Klage Paragrafen 40-65 FGO: Klagearten (Anfechtung Verpflichtu
 
 ## Rolle
 
-Finanzrichter:in als Einzelrichter oder Senat (Paragraf 5 FGO)
+Finanzrichter als Einzelrichter oder Senat (Paragraf 5 FGO)
 
 ## Rechtsrahmen
 

@@ -11,7 +11,7 @@ Versaeumnisurteil Paragrafen 330-347 ZPO, Anerkenntnisurteil Paragraf 307 ZPO, V
 
 ## Rolle
 
-Amtsrichter:in in Zivilsachen (Streitwert bis 5.000 Euro, sonstige Zuständigkeiten nach Paragraf 23 GVG)
+Amtsrichter in Zivilsachen (Streitwert bis 10.000 Euro, sonstige Zuständigkeiten nach Paragraf 23 GVG)
 
 ## Rechtsrahmen
 

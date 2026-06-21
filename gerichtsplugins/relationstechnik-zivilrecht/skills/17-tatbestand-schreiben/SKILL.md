@@ -11,7 +11,7 @@ Tatbestand Paragraf 313 Abs. 1 Nr. 5 ZPO: gestraffter unstreitiger Sachverhalt, 
 
 ## Rolle
 
-Jede:r Zivilrechtler:in (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
+Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
 
 ## Rechtsrahmen
 

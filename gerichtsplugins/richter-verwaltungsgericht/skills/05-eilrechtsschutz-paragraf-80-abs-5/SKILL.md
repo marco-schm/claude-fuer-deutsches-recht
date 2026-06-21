@@ -11,7 +11,7 @@ Eilrechtsschutz Paragraf 80 Abs. 5 VwGO: Anordnung oder Wiederherstellung der au
 
 ## Rolle
 
-Verwaltungsrichter:in als Einzelrichter:in oder Kammer (Paragrafen 4-6 VwGO)
+Verwaltungsrichter als Einzelrichter oder Kammer (Paragrafen 4-6 VwGO)
 
 ## Rechtsrahmen
 

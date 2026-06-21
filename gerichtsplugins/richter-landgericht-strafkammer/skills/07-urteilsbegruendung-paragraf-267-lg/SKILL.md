@@ -11,7 +11,7 @@ Urteilsgründe Paragraf 267 StPO bei umfangreichen Strafverfahren: Persoenliche 
 
 ## Rolle
 
-Vorsitzende:r oder Berichterstatter:in einer großen oder kleinen Strafkammer (Paragraf 74 GVG, Paragraf 76 GVG); Schwurgericht Paragraf 74 Abs. 2 GVG
+Vorsitzender oder Berichterstatter einer großen oder kleinen Strafkammer (Paragraf 74 GVG, Paragraf 76 GVG); Schwurgericht Paragraf 74 Abs. 2 GVG
 
 ## Rechtsrahmen
 

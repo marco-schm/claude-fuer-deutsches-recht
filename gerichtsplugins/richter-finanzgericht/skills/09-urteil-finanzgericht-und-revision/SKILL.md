@@ -11,7 +11,7 @@ Urteil Paragraf 105 FGO: Tatbestand, Entscheidungsgründe, Tenor; Revision Parag
 
 ## Rolle
 
-Finanzrichter:in als Einzelrichter oder Senat (Paragraf 5 FGO)
+Finanzrichter als Einzelrichter oder Senat (Paragraf 5 FGO)
 
 ## Rechtsrahmen
 

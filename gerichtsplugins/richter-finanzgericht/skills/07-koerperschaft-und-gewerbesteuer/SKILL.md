@@ -11,7 +11,7 @@ Körperschaftsteuer: Subjektsteuerpflicht Paragraf 1 KStG, Einkommensermittlung 
 
 ## Rolle
 
-Finanzrichter:in als Einzelrichter oder Senat (Paragraf 5 FGO)
+Finanzrichter als Einzelrichter oder Senat (Paragraf 5 FGO)
 
 ## Rechtsrahmen
 

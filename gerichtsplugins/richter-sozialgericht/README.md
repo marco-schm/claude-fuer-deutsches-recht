@@ -4,7 +4,7 @@
 
 ## Rolle
 
-Sozialrichter:in als Einzelrichter:in oder Kammer (Paragrafen 12, 31 SGG); mit ehrenamtlichen Richtern in muendlicher Verhandlung
+Sozialrichter als Einzelrichter oder Kammer (Paragrafen 12, 31 SGG); mit ehrenamtlichen Richtern in muendlicher Verhandlung
 
 ## Rechtsrahmen
 

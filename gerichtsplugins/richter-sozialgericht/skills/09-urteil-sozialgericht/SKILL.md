@@ -11,7 +11,7 @@ Urteil Paragrafen 132 ff. SGG: Tenor (Aufhebung, Verurteilung zur Leistung, Besc
 
 ## Rolle
 
-Sozialrichter:in als Einzelrichter:in oder Kammer (Paragrafen 12 und 31 SGG); mit ehrenamtlichen Richtern in muendlicher Verhandlung
+Sozialrichter als Einzelrichter oder Kammer (Paragrafen 12 und 31 SGG); mit ehrenamtlichen Richtern in muendlicher Verhandlung
 
 ## Rechtsrahmen
 

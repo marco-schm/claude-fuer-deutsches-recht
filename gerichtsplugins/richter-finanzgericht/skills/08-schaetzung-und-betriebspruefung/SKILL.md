@@ -11,7 +11,7 @@ Schaetzung Paragraf 162 AO als Beweismittel: aeussere und innere Schaetzung, Zei
 
 ## Rolle
 
-Finanzrichter:in als Einzelrichter oder Senat (Paragraf 5 FGO)
+Finanzrichter als Einzelrichter oder Senat (Paragraf 5 FGO)
 
 ## Rechtsrahmen
 

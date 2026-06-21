@@ -11,7 +11,7 @@ Annahmevoraussetzungen Paragraf 93a Abs. 2 BVerfGG: grundsaetzliche verfassungsr
 
 ## Rolle
 
-Wissenschaftliche:r Mitarbeiter:in oder Berichterstatter:in in einer Kammer beider Senate des Bundesverfassungsgerichts (Paragrafen 93a-93d BVerfGG)
+Wissenschaftlicher Mitarbeiter oder Berichterstatter in einer Kammer beider Senate des Bundesverfassungsgerichts (Paragrafen 93a-93d BVerfGG)
 
 ## Rechtsrahmen
 

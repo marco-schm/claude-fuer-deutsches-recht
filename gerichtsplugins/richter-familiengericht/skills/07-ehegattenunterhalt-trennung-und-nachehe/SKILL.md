@@ -11,7 +11,7 @@ Trennungsunterhalt Paragraf 1361 BGB und nachehelicher Unterhalt Paragrafen 1569
 
 ## Rolle
 
-Familienrichter:in am Amtsgericht (Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG) für Ehe-, Kindschafts-, Unterhalts-, Versorgungsausgleichs-, Gewaltschutz- und sonstige Familiensachen nach FamFG
+Familienrichter am Amtsgericht (Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG) für Ehe-, Kindschafts-, Unterhalts-, Versorgungsausgleichs-, Gewaltschutz- und sonstige Familiensachen nach FamFG
 
 ## Rechtsrahmen
 

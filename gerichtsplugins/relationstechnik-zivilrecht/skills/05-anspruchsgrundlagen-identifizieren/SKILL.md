@@ -11,7 +11,7 @@ Anspruchsgrundlagen aufstellen: vertraglich, vertragsaehnlich, dinglich, delikti
 
 ## Rolle
 
-Jede:r Zivilrechtler:in (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
+Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
 
 ## Rechtsrahmen
 

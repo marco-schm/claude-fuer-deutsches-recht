@@ -11,7 +11,7 @@ Einstweiliger Rechtsschutz Paragraf 86b SGG: Anordnung der aufschiebenden Wirkun
 
 ## Rolle
 
-Sozialrichter:in als Einzelrichter:in oder Kammer (Paragrafen 12 und 31 SGG); mit ehrenamtlichen Richtern in muendlicher Verhandlung
+Sozialrichter als Einzelrichter oder Kammer (Paragrafen 12 und 31 SGG); mit ehrenamtlichen Richtern in muendlicher Verhandlung
 
 ## Rechtsrahmen
 

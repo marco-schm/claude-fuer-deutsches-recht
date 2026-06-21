@@ -7,19 +7,19 @@
 
 | Plugin | Rolle |
 |---|---|
-| `richter-amtsgericht-zivil` | Amtsrichter:in in Zivilsachen (Streitwert bis 5.000 Euro, sonstige Zuständigkeiten nach Paragraf 23 GVG) |
-| `richter-amtsgericht-straf` | Strafrichter:in oder Schöffengericht am Amtsgericht (Paragraf 24 GVG, Paragraf 25 GVG, Paragrafen 28-30 GVG) |
-| `richter-amtsgericht-insolvenz-restrukturierung` | Insolvenzrichter:in oder Restrukturierungsrichter:in am Amtsgericht (Paragraf 2 InsO, Paragrafen 34 ff. StaRUG) |
-| `richter-amtsgericht-handelsregister` | Registerrichter:in oder Rechtspfleger:in für Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Vereinsregister |
-| `richter-landgericht-zivilkammer` | Vorsitzende:r oder Berichterstatter:in einer Zivilkammer (Paragraf 71 GVG, Streitwert ab 5.001 Euro; auch sonstige Zuständigkeiten Paragrafen 71-74 GVG) sowie zweite Instanz Berufung Paragraf 511 ZPO |
-| `richter-landgericht-strafkammer` | Vorsitzende:r oder Berichterstatter:in einer großen oder kleinen Strafkammer (Paragraf 74 GVG, Paragraf 76 GVG); Schwurgericht Paragraf 74 Abs. 2 GVG |
-| `richter-verwaltungsgericht` | Verwaltungsrichter:in als Einzelrichter:in oder Kammer (Paragrafen 4-6 VwGO) |
-| `richter-finanzgericht` | Finanzrichter:in als Einzelrichter oder Senat (Paragraf 5 FGO) |
-| `richter-sozialgericht` | Sozialrichter:in als Einzelrichter:in oder Kammer (Paragrafen 12, 31 SGG); mit ehrenamtlichen Richtern in muendlicher Verhandlung |
-| `richter-arbeitsgericht` | Arbeitsrichter:in als Vorsitzende:r einer Kammer (mit zwei ehrenamtlichen Richtern aus Arbeitgeber- und Arbeitnehmerkreis) Paragraf 16 ArbGG |
-| `richter-familiengericht` | Familienrichter:in am Amtsgericht (Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG) für Ehe-, Kindschafts-, Unterhalts-, Versorgungsausgleichs-, Gewaltschutz- und sonstige Familiensachen nach FamFG |
-| `richter-bverfg-verfassungsbeschwerden` | Wissenschaftliche:r Mitarbeiter:in oder Berichterstatter:in in einer Kammer beider Senate des Bundesverfassungsgerichts (Paragrafen 93a-93d BVerfGG) |
-| `relationstechnik-zivilrecht` | Jede:r Zivilrechtler:in (Richter, Referendar, Anwalt) der eine große Relation aufbauen will |
+| `richter-amtsgericht-zivil` | Amtsrichter in Zivilsachen (Streitwert bis 10.000 Euro, sonstige Zuständigkeiten nach Paragraf 23 GVG) |
+| `richter-amtsgericht-straf` | Strafrichter oder Schöffengericht am Amtsgericht (Paragraf 24 GVG, Paragraf 25 GVG, Paragrafen 28-30 GVG) |
+| `richter-amtsgericht-insolvenz-restrukturierung` | Insolvenzrichter oder Restrukturierungsrichter am Amtsgericht (Paragraf 2 InsO, Paragrafen 34 ff. StaRUG) |
+| `richter-amtsgericht-handelsregister` | Registerrichter oder Rechtspfleger für Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Vereinsregister |
+| `richter-landgericht-zivilkammer` | Vorsitzender oder Berichterstatter einer Zivilkammer (Paragraf 71 GVG, Streitwert ab 10.001 Euro; auch sonstige Zuständigkeiten Paragrafen 71-74 GVG) sowie zweite Instanz Berufung Paragraf 511 ZPO |
+| `richter-landgericht-strafkammer` | Vorsitzender oder Berichterstatter einer großen oder kleinen Strafkammer (Paragraf 74 GVG, Paragraf 76 GVG); Schwurgericht Paragraf 74 Abs. 2 GVG |
+| `richter-verwaltungsgericht` | Verwaltungsrichter als Einzelrichter oder Kammer (Paragrafen 4-6 VwGO) |
+| `richter-finanzgericht` | Finanzrichter als Einzelrichter oder Senat (Paragraf 5 FGO) |
+| `richter-sozialgericht` | Sozialrichter als Einzelrichter oder Kammer (Paragrafen 12, 31 SGG); mit ehrenamtlichen Richtern in muendlicher Verhandlung |
+| `richter-arbeitsgericht` | Arbeitsrichter als Vorsitzender einer Kammer (mit zwei ehrenamtlichen Richtern aus Arbeitgeber- und Arbeitnehmerkreis) Paragraf 16 ArbGG |
+| `richter-familiengericht` | Familienrichter am Amtsgericht (Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG) für Ehe-, Kindschafts-, Unterhalts-, Versorgungsausgleichs-, Gewaltschutz- und sonstige Familiensachen nach FamFG |
+| `richter-bverfg-verfassungsbeschwerden` | Wissenschaftlicher Mitarbeiter oder Berichterstatter in einer Kammer beider Senate des Bundesverfassungsgerichts (Paragrafen 93a-93d BVerfGG) |
+| `relationstechnik-zivilrecht` | Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will |
 
 ## Wichtiger Hinweis vor Verwendung
 
