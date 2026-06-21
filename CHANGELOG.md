@@ -1,16 +1,40 @@
-# v367.0.0 — Staatsanwaltschafts-Plugin: Validator-Fix der Skill-Descriptions
+# v368.0.0 — Staatsanwaltschafts-Plugins konsolidiert, Sammelordner Gerichts-Plugins, README-Konsistenz
 
-Forward-Fix nach dem Release-Validator. Fuenf Skill-Descriptions des neuen Plugins
-`gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft` enthielten Paragrafenlisten mit
-Zahl-Komma-Zahl-Sequenzen (zum Beispiel Paragrafen 142, 143 GVG), die der
-Cowork-Strukturvalidator nicht zulaesst. Betroffen waren die Skills 02, 03, 05, 08 und
-16. Die Sequenzen wurden in Frontmatter und Zweck auf die Schreibweise mit und
-umgestellt (Paragrafen 142 und 143 GVG), sodass der Validator und der
-Release-ZIP-Build wieder durchlaufen. Inhaltlich unveraendert.
+## Staatsanwaltschaft-Amtsanwaltschaft: vier neue Skills 25–28
+
+- Skill 25 Adhaesionsverfahren Paragraf 403 StPO (Eignung zur Mitverhandlung, Abtrennung).
+- Skill 26 Opferschutz, Nebenklage und Verletztenrechte (Paragrafen 406d ff., 395 ff. StPO, psychosoziale Prozessbegleitung).
+- Skill 27 Wiederaufnahme zuungunsten Paragraf 362 StPO mit BVerfG 2 BvR 900/22 vom 31.10.2023 (NJW 2023, 3698): Paragraf 362 Nr. 5 StPO als verfassungswidrig nichtig.
+- Skill 28 Internationale Rechtshilfe und Europaeischer Haftbefehl (Paragrafen 78 ff. IRG, Paragrafen 91a ff. IRG, RiVASt).
+- Aktenzeichen-Verifikation: Skill 04 Anker-Rechtsprechung BVerfGE 103, 142 ergaenzt; Skill 08 Belehrung BGH 5 StR 190/91 statt GSSt 1/96.
+- README und MEGAPROMPT auf 28 Skills aktualisiert.
+
+## Staatsanwaltschaft Praxis-Einstieg in den Sammelordner verschoben
+
+- `staatsanwaltschaft-praxis-einstieg` (142 Skills) ist jetzt unter `gerichtsplugins/staatsanwaltschaft-praxis-einstieg` einsortiert; Source-Pfad in `marketplace.json` entsprechend angepasst.
+- Neuer kuratierter `MEGAPROMPT.md` und `MINIPROMPT.md` direkt im Plugin-Ordner, parallel zu allen anderen Gerichts-Plugins.
+- Triage-, Cluster- und OWiG-Spur-Beschreibung im Megaprompt.
+
+## Haupt-README: Sammelordner-Eintraege und Konsistenz
+
+- Plugin-Tabelle: Sammelordner-Zeile `gerichtsplugins/` alphabetisch zwischen `geldwaeschepraevention-aml-kyc` und `gesellschaftsgruender` eingefuegt; 14 einzelne Gerichts-Plugin-Zeilen entfernt.
+- Plugin-Tabelle: Sammelordner-Zeile `insolvenzrecht-plugins/` alphabetisch zwischen `insiderrecht-compliance` und `internal-investigations-praxis` eingefuegt; 11 einzelne Insolvenz-Plugin-Zeilen entfernt.
+- Statistik: 25913 Skills, 229 Plugins, 212 Testakten konsistent ueberall (Header, SKILLS.md, Sammel-Downloads).
+- Marketplace.json alphabetisch sortiert (war hinten ans Ende der Liste angehaengt fuer die Gerichts-Plugins).
+
+## Sammelordner `gerichtsplugins/`
+
+- README listet jetzt alle 15 Plugins (13 Richter-Rollen, Relationstechnik, Staatsanwaltschaft-Amtsanwaltschaft, Staatsanwaltschaft-Praxis-Einstieg).
+- Megaprompt-Generator beruecksichtigt jetzt auch `gerichtsplugins/*` (vorher nur Top-Level); zentrale Sammlung in `testakten/megaprompts/` hat jetzt 229 Eintraege.
+- Unified Mini Prompts unveraendert vollstaendig fuer alle 229 Plugins.
+
+## Validator-Fix vor Bump
+
+- Forward-Fix der Zahl-Komma-Zahl-Sequenzen in Skill-Descriptions 02, 03, 05, 08 und 16 von `staatsanwaltschaft-amtsanwaltschaft` (aus v367 weitergetragen, jetzt verifiziert sauber).
 
 ## Versionierung
 
-- Repo-weiter Bump auf v367.0.0.
+- Repo-weiter Bump auf v368.0.0 (229 Plugin-Manifeste, marketplace.json, SKILLS.md, alle README-Eintraege).
 
 ---
 

@@ -13,14 +13,14 @@ Dieser Megaprompt enthaelt top-15 von 59 Skills des Plugins `ki-richtlinie-kanzl
 5. **automatisierte-entscheidungen-art-22-dsgvo** — Automatisierte Einzelentscheidungen nach Art. 22 DSGVO in Kanzleien prüfen: Anwendungsfall Kanzlei plant KI-gestützte Ma…
 6. **berufsrecht-bausteine** — Berufsrechtliche Textbausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei erstellt KI-Richtlinie un…
 7. **bias-diskriminierung-regelsatz-erstellen** — Bias und Diskriminierung in KI-Outputs für Kanzleien prüfen: Anwendungsfall Kanzlei nutzt KI-System bei Personalentschei…
-8. **compliance-regelsatz-erstellen** — Compliance-Regelsatz Zehn Gebote für KI-Einsatz in Kanzleien erstellen: Anwendungsfall Kanzlei benoetigt praegnante Verh…
-9. **dienstleister-due-diligence** — KI-Dienstleister Due Diligence für Kanzleien durchführen: Anwendungsfall Kanzlei moechte neuen KI-Dienst beauftragen und…
-10. **executive-summary-bausteine** — Executive Summary der KI-Nutzungsrichtlinie für Kanzleien erstellen: Anwendungsfall Kanzleiführung will Mitarbeitern d…
-11. **geschgehg-halluzinations-handhabung-kanzlei** — GeschGehG-Bausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei muss beim KI-Einsatz Geschäftsgeheim…
-12. **halluzinations-handhabung** — Halluzinationen von KI in juristischer Arbeit erkennen und Prozessbetrug vermeiden: Anwendungsfall Anwalt nutzt KI für R…
-13. **kanzlei-kontext-analyse** — Kanzlei-Kontext erfassen für massgeschneiderte KI-Nutzungsrichtlinie: Anwendungsfall vor Erstellung einer KI-Richtlinie …
-14. **kennzeichnungspflichten-veroeffentlichungen** — Kennzeichnungspflichten für KI-generierte Inhalte in Kanzlei-Veröffentlichungen prüfen: Anwendungsfall Kanzlei veröffent…
-15. **ki-kompetenz-erwerb-plan** — KI-Kompetenz-Schulungsplan für Kanzleien nach Art. 4 KI-VO erstellen: Anwendungsfall Kanzlei muss seit 2. Februar 2025 s…
+8. **dienstleister-due-diligence** — KI-Dienstleister Due Diligence für Kanzleien durchführen: Anwendungsfall Kanzlei moechte neuen KI-Dienst beauftragen und…
+9. **geschgehg-halluzinations-handhabung-kanzlei** — GeschGehG-Bausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei muss beim KI-Einsatz Geschäftsgeheim…
+10. **halluzinations-handhabung** — Halluzinationen von KI in juristischer Arbeit erkennen und Prozessbetrug vermeiden: Anwendungsfall Anwalt nutzt KI für R…
+11. **kanzlei-kontext-analyse** — Kanzlei-Kontext erfassen für massgeschneiderte KI-Nutzungsrichtlinie: Anwendungsfall vor Erstellung einer KI-Richtlinie …
+12. **kennzeichnungspflichten-veroeffentlichungen** — Kennzeichnungspflichten für KI-generierte Inhalte in Kanzlei-Veröffentlichungen prüfen: Anwendungsfall Kanzlei veröffent…
+13. **ki-kompetenz-erwerb-plan** — KI-Kompetenz-Schulungsplan für Kanzleien nach Art. 4 KI-VO erstellen: Anwendungsfall Kanzlei muss seit 2. Februar 2025 s…
+14. **literatur-quellen-prompting-leitfaden-rdg** — Pflicht-Literatur und Aktualisierungsliste für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will Richtlin…
+15. **musterklauseln-it-vertrag** — Musterklauseln für IT-Vertraege mit KI-Dienstleistern in Kanzleien: Anwendungsfall Kanzlei verhandelt Vertrag mit KI-Anb…
 
 ---
 
@@ -691,129 +691,6 @@ Geprueft von: [NAME], [DATUM]
 
 ---
 
-## Skill: `compliance-regelsatz-erstellen`
-
-_Compliance-Regelsatz Zehn Gebote für KI-Einsatz in Kanzleien erstellen: Anwendungsfall Kanzlei benoetigt praegnante Verhaltensregeln für alle Mitarbeitern zu erlaubten und verbotenen KI-Nutzungen. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster ke..._
-
-# Compliance-Regelsatz erstellen
-
-## Arbeitsbereich
-
-Compliance-Regelsatz Zehn Gebote für KI-Einsatz in Kanzleien erstellen: Anwendungsfall Kanzlei benoetigt praegnante Verhaltensregeln für alle Mitarbeitern zu erlaubten und verbotenen KI-Nutzungen. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster kein Privat-Account, keine Mandatsdaten ohne Anonymisierung, kein PDF-Upload ohne AVV, Korrekturlesung Pflicht, KI-Kennzeichnung. Output standardisierter Zehn-Gebote-Regelsatz anpassbar an Kanzlei-Profil. Abgrenzung zu Richtlinien-Skelett für vollständige Richtlinie und zu Berufsrecht-Bausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; DSGVO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
-
-Ein klarer, prägnanter Compliance-Regelsatz ist das operative Herzstück jeder KI-Nutzungsrichtlinie. Er muss so formuliert sein, dass alle Mitarbeitern — unabhängig von juristischem Hintergrund — die Kernregeln sofort verstehen und anwenden können. Dieser Skill erzeugt einen standardisierten Zehn-Gebote-Regelsatz, der an das Kanzlei-Profil angepasst werden kann.
-
-## Rechtlicher Hintergrund
-
-Der Regelsatz operationalisiert die zentralen Rechtspflichten: § 43a Abs. 2 BRAO (Verschwiegenheit), § 43e BRAO (IT-Dienstleister), Art. 5 DSGVO (Grundsätze der Verarbeitung: Zweckbindung, Datenminimierung), Art. 28 DSGVO (Auftragsverarbeitung), § 2 Abs. 2 UrhG (Urheberrecht am KI-Output), Art. 50 Abs. 4 KI-VO (Kennzeichnung), § 203 StGB (Geheimnisverrat), Art. 22 DSGVO (Verbot automatisierter Entscheidungen).
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — KI-Compliance-Regelsatz für Kanzlei erstellen | Regelsatz nach 10-Gebote-Schema; Template unten |
-| Variante A — Kleine Kanzlei max drei Seiten | Kurzfassung Regelsatz; nur Kernregeln |
-| Variante B — Mandant will Regelsatz in Englisch | Englischsprachige Vorlage; Terminologie anpassen |
-| Variante C — Vorhandener Regelsatz aktualisieren | Nur geaenderte Stellen ueberarbeiten; Version-Tracking |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Vorlagentext / Bausteine
-
-**Die Zehn Gebote für den KI-Einsatz in [Name der Kanzlei]:**
-
-**1.** Wir nutzen beim Einsatz von KI-Systemen in der Kanzlei ausschließlich autorisierte Kanzlei-Accounts — niemals private Accounts.
-
-**2.** Wir kopieren keine personenbezogenen Daten von Mandanten oder Mitarbeitern in KI-Systeme, es sei denn, die Daten wurden zuvor vollständig anonymisiert.
-
-**3.** Wir laden keine Dokumente, Akten oder Schriftstücke als Datei in einen KI-Dienst hoch, ohne diese zuvor anonymisiert zu haben — außer bei Anbietern, mit denen ein wirksamer Auftragsverarbeitungsvertrag nach Art. 28 DSGVO und eine § 43e-BRAO-Vereinbarung bestehen.
-
-**4.** Wir korrekturlesen und prüfen jeden KI-generierten Text eigenverantwortlich auf inhaltliche Richtigkeit, bevor er intern oder extern weiterverwendet wird.
-
-**5.** Wir verifizieren ausnahmslos jede Fundstelle, jedes Zitat und jeden Gesetzeshinweis aus KI-generiertem Output anhand der originalen Quelle. KI-Systeme können Fundstellen erfinden.
-
-**6.** Wir kennzeichnen KI-generierte Inhalte in internen und externen Dokumenten, soweit dies die Transparenz erfordert. Bei anwaltlichen Schriftsätzen tragen wir durch unsere Unterschrift die volle redaktionelle Verantwortung.
-
-**7.** Wir delegieren keine Letztentscheidung an ein KI-System. Jede rechtliche Bewertung und jede mandatsbezogene Entscheidung verbleibt beim Menschen.
-
-**8.** Wir verarbeiten keine besonders sensiblen personenbezogenen Daten nach Art. 9 Abs. 1 DSGVO mit KI-Systemen, es sei denn, eine ausdrückliche Rechtfertigung nach Art. 9 Abs. 2 DSGVO liegt vor.
-
-**9.** Wir laden keine urheberrechtlich geschützten Texte (Kommentare, Fachaufsätze, Datenbankexporte) in KI-Systeme hoch, ohne die erforderlichen Nutzungsrechte zu besitzen. Gesetze und Gerichtsentscheidungen von offiziellen Portalen sind frei nutzbar.
-
-**10.** Wir melden jeden Verdachtsfall einer Compliance-Verletzung beim KI-Einsatz unverzüglich an [Name Datenschutzbeauftragter/Berufsrechtsbeauftragter/Geschäftsführung].
-
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
-
-Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
-
-Schlussabsatz Variante B (formal-streng):
-Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
-## Hinweise zur Aktualisierung
-
-Der Regelsatz ist mindestens halbjährlich zu überprüfen. Bei wesentlichen Änderungen der genutzten KI-Dienste, bei neuen Gerichtsentscheidungen zur Haftung oder bei neuen BRAK/DAV-Hinweisen ist eine Aktualisierung geboten. Alle Mitarbeitern müssen über Änderungen informiert und neu geschult werden.
-
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen (Paragrafenkette)
-- § 43a Abs. 2 BRAO — Verschwiegenheit
-- § 43e BRAO — IT-Dienstleister-Anforderungen
-- Art. 28 DSGVO — AVV-Pflicht
-- Art. 5 Abs. 1 lit. c KI-VO — Verbotene biometrische Praktiken
-- § 87 Abs. 1 Nr. 6 BetrVG — Mitbestimmung bei technischen Ueberwachungssystemen
-
-## Triage zu Beginn
-1. Welche KI-Systeme werden in der Kanzlei eingesetzt — ist eine Freigabeliste vorhanden?
-2. Gibt es bereits einen Compliance-Regelsatz oder wird er neu erstellt?
-3. Ist ein Betriebsrat vorhanden — wurde nach § 87 Abs. 1 Nr. 6 BetrVG eingebunden?
-4. Sind alle Mitarbeiter über das Privat-Account-Verbot und die Anonymisierungspflicht informiert?
-5. Gibt es Schulungsunterlagen zum Compliance-Regelsatz?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
-
-## Output-Template — Compliance-Regelsatz KI (10 Gebote)
-**Adressat:** Alle Kanzlei-Mitarbeiter — Tonfall: verbindlich, klar
-```
-COMPLIANCE-REGELSATZ KI-EINSATZ — [KANZLEI]
-Stand: [DATUM] — Version: [VERSIONSNUMMER]
-VERBINDLICH FUER ALLE MITARBEITERINNEN UND MITARBEITER
-
-1. KEIN PRIVAT-ACCOUNT: Nur freigegebene Kanzlei-Accounts verwenden.
-2. KEINE MANDATSDATEN OHNE ANONYMISIERUNG: Vor jeder KI-Eingabe pseudonymisieren.
-3. KEIN PDF-UPLOAD OHNE AVV: Dokumente nur in Systeme mit Art. 28 DSGVO-AVV hochladen.
-4. KEINE UNKRITISCHE UEBERNAHME: Jede KI-Ausgabe ist vor Verwendung menschlich zu pruefen.
-5. KENNZEICHNUNGSPFLICHT: KI-generierte Inhalte im Schriftsatz als solche kennzeichnen.
-6. QUELLENVERIFIZIERUNG: Jede Rechtsprechungs-Fundstelle gegen amtliche Quellen pruefen.
-7. KEINE VERTRAULICHEN DATEN IN NICHT-FREIGEGEBENE SYSTEME.
-8. MELDEPFLICHT: Sicherheitsvorfall oder ungewoehnliches KI-Verhalten sofort melden an: [KONTAKT].
-9. SCHULUNGSPFLICHT: Jaehrliche KI-Pflichtschulung erforderlich.
-10. COMPLIANCE-OFFICER KONTAKTIEREN bei Unsicherheit: [KONTAKT].
-
-Verabschiedet von: [GESCHAEFTSFUEHRUNG], [DATUM]
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
 ## Skill: `dienstleister-due-diligence`
 
 _KI-Dienstleister Due Diligence für Kanzleien durchführen: Anwendungsfall Kanzlei moechte neuen KI-Dienst beauftragen und muss eigenverantwortlich Datenschutz Berufsrecht und Sicherheit prüfen. § 43e BRAO Dienstleisterprüfung, Art. 28 Abs. 1 DSGVO Garantiepflichten, ISO 27001 SOC 2. Prüfraster EU-..._
@@ -921,144 +798,6 @@ Geprueft von: [NAME], [DATUM]
 <!-- AUDIT 27.05.2026
 Halluzinations-Reparatur Bundle 035:
 -->
-
----
-
-## Skill: `executive-summary-bausteine`
-
-_Executive Summary der KI-Nutzungsrichtlinie für Kanzleien erstellen: Anwendungsfall Kanzleiführung will Mitarbeitern die wichtigsten Kernpunkte in kurzem Executive Summary vermitteln. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster sechs Kern-Eckp..._
-
-# Executive Summary Bausteine
-
-## Arbeitsbereich
-
-Executive Summary der KI-Nutzungsrichtlinie für Kanzleien erstellen: Anwendungsfall Kanzleiführung will Mitarbeitern die wichtigsten Kernpunkte in kurzem Executive Summary vermitteln. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster sechs Kern-Eckpunkte Werkzeugcharakter, Verschwiegenheit, Datenschutz, Quellenprüfung, keine Privat-Accounts, Kennzeichnungspflichten. Output modularer Executive Summary anpassbar an Kanzlei-Groesse und Rechtsgebiete. Abgrenzung zu Richtlinien-Skelett für vollständige Richtlinie und zu Compliance-Regelsatz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; DSGVO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
-
-Der Executive Summary einer KI-Nutzungsrichtlinie fasst die sechs wichtigsten Eckpunkte so zusammen, dass alle Mitarbeitern — Anwälte wie auch nicht-anwaltliche Kräfte — die wesentlichen Verhaltensregeln sofort überblicken können. Die Bausteine sind modular und können je nach Kanzlei-Profil angepasst werden.
-
-## Rechtlicher Hintergrund
-
-Die sechs Eckpunkte spiegeln die zentralen Rechtspflichten wider: § 43 BRAO (Gewissenhaftigkeit), § 43a Abs. 2 BRAO (Verschwiegenheit), § 43e BRAO (IT-Dienstleister), § 203 StGB (Geheimnisverrat), Art. 5 und 6 DSGVO (Datenschutzgrundsätze und Rechtmäßigkeit), § 2 Abs. 2 UrhG (Schöpfungshöhe) sowie Art. 50 Abs. 4 KI-VO (Kennzeichnungspflichten). BRAK-Hinweise 12/2024 und DAV-Stellungnahme 32/2025 konkretisieren die berufsrechtliche Anforderung der Prüfpflicht.
-
-## Vorgehen
-
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
-1. **Eckpunkt 1 – Werkzeugcharakter** herausarbeiten und in die Richtlinie einpassen.
-2. **Eckpunkt 2 – Verschwiegenheit** mit § 43a BRAO und § 203 StGB verankern.
-3. **Eckpunkt 3 – Datenschutz und Geheimnisschutz** mit DSGVO-Artikeln verbinden.
-4. **Eckpunkt 4 – Quellenprüfung** mit OLG Koblenz-Linie und BRAK/DAV verknüpfen.
-5. **Eckpunkt 5 – Keine Privat-Accounts** organisatorisch verankern.
-6. **Eckpunkt 6 – Kennzeichnung** auf Art. 50 Abs. 4 KI-VO abstützen.
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Executive Summary KI-Richtlinie erstellen | Summary nach Schema; Template unten |
-| Variante A — Nur für Fuehrungsebene kein Technik-Detail | Managementfassung ohne technische Spezifikationen |
-| Variante B — Summary soll Mandanten ueberzeugen nicht intern | Externe Kommunikations-Version; Nutzen betonen |
-| Variante C — Summary für Regulierungsbehoerde | Regulierungskonforme Darstellung; Compliance-Sprache |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Vorlagentext / Bausteine
-
-**Eckpunkt 1 – Unterstützendes Werkzeug:**
-Nutzen Sie KI-Systeme nur als Werkzeug, nicht als Ersatz für Ihre juristische Expertise. Die finale Verantwortung für rechtliche Bewertungen und die persönliche Leistungserbringung liegt stets bei den Anwälten (§ 43 Satz 1 BRAO).
-
-**Eckpunkt 2 – Verschwiegenheit:**
-Achten Sie strikt auf die anwaltliche Verschwiegenheitspflicht (§ 43a BRAO, § 203 StGB). Die Weitergabe von Mandatsgeheimnissen an KI-Dienstleister ist berufsrechtlich nur unter den engen Voraussetzungen des § 43e BRAO zulässig. Die sorgfältige Auswahl und vertragliche Bindung des Anbieters ist entscheidend.
-
-**Eckpunkt 3 – Datenschutz und Geheimnisschutz:**
-Personenbezogene Daten, Mandatsgeheimnisse und Geschäftsgeheimnisse dürfen nur in Ausnahmefällen und nach Möglichkeit anonymisiert in KI-Systeme eingegeben werden. Dokumente, Akten und Informationen müssen vor einem Upload anonymisiert werden. Im Zweifel ist der Upload zu unterlassen.
-
-**Eckpunkt 4 – Quellenprüfung und Risikobewusstsein:**
-Auch wenn der Output der KI-Systeme plausibel klingt: Die Ergebnisse sind kritisch zu hinterfragen. Zitate und Quellen müssen zwingend nachrecherchiert werden. Ein "Grundvertrauen" wie bei menschlichen Mitarbeitern ist nicht angebracht (BRAK-Hinweise 12/2024; DAV 32/2025).
-
-**Eckpunkt 5 – Keine Privat-Accounts:**
-Verwenden Sie für Ihre berufliche Tätigkeit in der Kanzlei nur vorab freigegebene Kanzlei-Accounts, nicht Ihre privaten Accounts, um dem Compliance-Risiko der "Schatten-KI" entgegenzuwirken.
-
-**Eckpunkt 6 – Kennzeichnung und Transparenz:**
-Öffentliche KI-generierte Inhalte, die keiner menschlichen Verantwortung oder redaktionellen Kontrolle unterliegen, müssen als solche gekennzeichnet werden (Art. 50 Abs. 4 KI-VO). KI-generierte Inhalte sind stets auf mögliche Verletzungen von Urheber- und Persönlichkeitsrechten zu prüfen.
-
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
-
-Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
-
-Schlussabsatz Variante B (formal-streng):
-Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
-## Hinweise zur Aktualisierung
-
-Die Eckpunkte sind zu überarbeiten, wenn neue BRAK-Hinweise oder DAV-Stellungnahmen veröffentlicht werden oder wenn die KI-VO durch Durchführungsrechtsakte konkretisiert wird. Auch neue Gerichtsentscheidungen zur Haftung bei KI-Nutzung können eine Anpassung erforderlich machen.
-
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen (Paragrafenkette)
-- § 43a Abs. 2 BRAO — Verschwiegenheit (Kern jedes Executive Summary)
-- Art. 28 DSGVO — AVV-Pflicht (kein Einsatz ohne AVV)
-- Art. 4 Nr. 1 DSGVO — Personenbezug und Anonymisierungspflicht
-- § 203 StGB — strafrechtliches Berufsgeheimnis
-
-## Triage zu Beginn
-1. Für welche Zielgruppe ist das Executive Summary — Partner, alle Mitarbeiter, Mandanten?
-2. Wie umfangreich ist die KI-Nutzungsrichtlinie — was muss im Summary priorisiert werden?
-3. Sind kritische Nutzungsfaelle bekannt — muss das Summary sie explizit adressieren?
-4. Soll das Summary als eigenstaendiges Dokument oder als Richtlinien-Deckblatt verwendet werden?
-5. Wird das Summary zum Compliance-Nachweis gegenueber Mandanten oder Behörden verwendet?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
-
-## Output-Template — Executive Summary KI-Nutzungsrichtlinie
-**Adressat:** Kanzlei-Fuehrung / alle Mitarbeiter — Tonfall: klar, begrenzend, essentiell
-```
-EXECUTIVE SUMMARY — KI-NUTZUNGSRICHTLINIE
-[KANZLEI] — Stand: [DATUM]
-
-6 GRUNDSAETZE FUR DEN KI-EINSATZ IN UNSERER KANZLEI:
-
-1. WERKZEUGCHARAKTER: KI ist ein Arbeitshilfsmittel — keine eigenstaendige Rechtsberatung.
- Jede KI-Ausgabe wird menschlich geprueft und verantwortet.
-
-2. VERSCHWIEGENHEIT (§ 43a Abs. 2 BRAO): Mandatsdaten werden vor KI-Eingabe anonymisiert.
- Das Mandantengeheimnis gilt absolut.
-
-3. DATENSCHUTZ (DSGVO / Art. 28): Nur KI-Systeme mit Kanzlei-Account und AVV.
- Kein Privat-Account. Kein Upload personenbezogener Daten ohne AVV.
-
-4. QUELLENPRÜFUNG: Rechtsprechungs-Zitate werden gegen amtliche Quellen verifiziert.
- Halluzinierte Fundstellen sind ein Haftungsrisiko.
-
-5. KEINE PRIVAT-ACCOUNTS: Nur freigegebene Kanzlei-Lizenzen.
- (Freigabeliste: [REFERENZ AUF LISTE])
-
-6. KENNZEICHNUNGSPFLICHT: KI-generierte Abschnitte in Mandanten-Dokumenten als solche
- kennzeichnen (interne Kennzeichnung genuegt).
-
-Bei Fragen: [ANSPRECHPARTNER] — [EMAIL]
-Vollstaendige Richtlinie: [REFERENZ]
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
@@ -1565,6 +1304,251 @@ Schulungsteilnahme wird dokumentiert für: Art. 4 KI-VO Kompetenznachweis / § 1
 
 VERANTWORTLICH: [KOMPETENZ-OFFICER NAME]
 NAECHSTE ÜBERPRÜFUNG: [DATUM]
+```
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `literatur-quellen-prompting-leitfaden-rdg`
+
+_Pflicht-Literatur und Aktualisierungsliste für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will Richtlinie auf dem neuesten Stand halten und benoetigt strukturierte Quellenübersicht. BRAK-Hinweise, DAV-Stellungnahmen, EU-Kommissionsmaterial, BNetzA-Hinweise und KI-VO EU 2024/1689...._
+
+# Literatur und Quellen
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; DSGVO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen
+
+Eine fundierte KI-Nutzungsrichtlinie stützt sich auf anerkannte Primärquellen und berufsständische Verlautbarungen. Dieser Skill listet die Kernliteratur, gibt Hinweise zur Recherche aktueller Entwicklungen und enthält eine offene Aktualisierungsliste für neu erscheinende relevante Quellen.
+
+## Rechtlicher Hintergrund
+
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Quellenverzeichnis und Verifizierungsprotokoll erstellen | Quellenverzeichnis nach Schema; Template unten |
+| Variante A — Quellenangaben aus KI unvollstaendig | Luecken als ungepruefte KI-Angaben markieren; Nachpruefung dokumentieren |
+| Variante B — Nur Gerichtsentscheidungen zu zitieren | Rechtsprechungs-Subset; Quellenprüfung weglassen |
+| Variante C — Quellenangaben auf Englisch | Englischsprachige Zitierweise; Bluebook oder OSCOLA als Standard |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+## Vorlagentext / Bausteine
+
+**Pflicht-Literaturliste (Stand 07/2025):**
+
+**Berufsständisches Softlaw:**
+- BRAK (Remmertz), Hinweise zum Einsatz von künstlicher Intelligenz (KI), Stand: Dezember 2024. Abrufbar unter: https://www.brak.de/newsroom/newsletter/nachrichten-aus-berlin/2025/ausgabe-1-2025-v-812025/kuenstliche-intelligenz-in-anwaltskanzleien-brak-veroeffentlicht-leitfaden/
+- DAV, Initiativ-Stellungnahme zum Einsatz von KI in der Anwaltschaft, Stellungnahme Nr. 32/2025, Berlin, Juli 2025.
+
+**Wissenschaftliche Literatur:**
+- Martini/Wendehorst (Hrsg.), KI-VO — Kommentar zur Verordnung (EU) 2024/1689, 1. Aufl.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+**EU-Institutionen:**
+- Europäische Kommission, FAQ zur KI-Kompetenz (Art. 4 KI-VO). Abrufbar unter: https://digital-strategy.ec.europa.eu
+- Bundesnetzagentur, Hinweise zur KI-Kompetenz. Abrufbar unter: https://www.bundesnetzagentur.de
+
+**Rechtsprechung:**
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+**Primärrechtsquellen:**
+- Verordnung (EU) 2024/1689 (KI-VO): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024R1689
+- Verordnung (EU) 2016/679 (DSGVO): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679
+- BRAO: https://www.gesetze-im-internet.de/brao/
+- StGB § 203: https://www.gesetze-im-internet.de/stgb/__203.html
+
+**Offene Aktualisierungsliste (bei nächstem Review zu prüfen):**
+- [ ] Neue BRAK-Hinweise nach 07/2025
+- [ ] Neue DAV-Stellungnahmen nach 07/2025
+- [ ] KI-VO-Durchführungsrechtsakte der EU-Kommission
+- [ ] Neue BGH/OLG-Entscheidungen zu KI in Schriftsätzen
+- [ ] Neue EuGH-Entscheidungen zu DSGVO und KI
+
+--- vor Versand klären ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+## Hinweise zur Aktualisierung
+
+Die Literaturliste ist beim halbjährlichen Richtlinien-Review vollständig zu überprüfen und um neu erschienene relevante Beiträge zu ergänzen. Sobald ein KI-VO-Durchführungsrechtsakt erscheint, ist er sofort in die Primärquellenliste aufzunehmen.
+
+## Aktuelle Rechtsprechung (v14.2)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Zentrale Normen (Paragrafenkette)
+- § 43 BRAO — Sorgfaltspflicht und korrekte Quellenangaben
+- § 138 ZPO — Wahrheitspflicht (gilt auch für Quellenangaben)
+- Art. 5 Abs. 1 lit. d DSGVO — Richtigkeit der verarbeiteten Informationen
+- § 44b UrhG — Text-und-Data-Mining-Schranke (für KI-Recherche)
+
+## Triage zu Beginn
+1. Werden Quellen aus KI-Ausgaben direkt verwendet oder gegen amtliche Quellen verifiziert?
+2. Ist ein Verifikationsprozess für Rechtsprechungs-Fundstellen (juris, Beckonline, EUR-Lex) etabliert?
+3. Werden Kommentare und Monografien aus KI-Ausgaben abgeglichen?
+4. Gibt es eine aktuelle Literatursammlung für das relevante Rechtsgebiet?
+5. Sind Mitarbeiter geschult, zwischen Primaer- und Sekundaerquellen zu unterscheiden?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Output-Template — Quellenverzeichnis / Verifizierungsprotokoll
+**Adressat:** Kanzlei intern — Tonfall: dokumentierend
+```
+QUELLENVERZEICHNIS UND VERIFIZIERUNGSPROTOKOLL
+[DATUM] — [AKTENZEICHEN] — Dokument: [BEZEICHNUNG]
+
+PRIMÄRQUELLEN (verifiziert):
+Rechtsprechung:
+- [GERICHT, DATUM — AZ, FUNDSTELLE]: Verifiziert gegen [QUELLE] am [DATUM]
+- [WEITERE]
+
+Gesetze und Verordnungen:
+- [NORM]: verifiziert gegen [QUELLE] am [DATUM]
+
+SEKUNDÄRQUELLEN (Kommentare / Literatur):
+- [AUTOR, Werk, Auflage, Randzahl]: Im Original eingesehen am [DATUM]
+
+KI-GENERIERTE FUNDSTELLEN (Verifikationsstatus):
+- [FUNDSTELLE]: [BESTAETIGT / NICHT GEFUNDEN / FEHLERHAFT — Korrektur: BESCHREIBUNG]
+
+Verifiziert von: [NAME], [DATUM]
+```
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `musterklauseln-it-vertrag`
+
+_Musterklauseln für IT-Vertraege mit KI-Dienstleistern in Kanzleien: Anwendungsfall Kanzlei verhandelt Vertrag mit KI-Anbieter und braucht Klauseln zu Verschwiegenheit Training-Opt-out Löschpflichten und Haftung. § 43e BRAO Verschwiegenheits-Erklärung, Art. 28 DSGVO AVV, § 203 StGB Berufsgeheimnis..._
+
+# Musterklauseln IT-Vertrag
+
+## Arbeitsbereich
+
+Musterklauseln für IT-Verträge mit KI-Dienstleistern in Kanzleien: Anwendungsfall Kanzlei verhandelt Vertrag mit KI-Anbieter und braucht Klauseln zu Verschwiegenheit Training-Opt-out Löschpflichten und Haftung. § 43e BRAO Verschwiegenheits-Erklärung, Art. 28 DSGVO AVV, § 203 StGB Berufsgeheimnis. Prüfraster Verschwiegenheits- und § 43e-Erklärung, Training-Opt-out, Löschpflichten, Auditrrechte, Haftungsregelung, Subprozessoren-Genehmigung. Output Musterklausel-Sammlung für IT-Vertrag mit KI-Dienstleister. Abgrenzung zu Auftragsverarbeitungsvertrag-Prüfen und zu Dienstleister-Due-Diligence. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; DSGVO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen
+
+Jeder Vertrag mit einem KI-Dienstleister, der Mandatsdaten verarbeiten soll, muss zwei Säulen aufweisen: einen datenschutzrechtlichen Auftragsverarbeitungsvertrag (AVV) nach Art. 28 DSGVO und eine berufsrechtliche Vereinbarung nach § 43e BRAO. Dieser Skill stellt die wichtigsten Musterklauseln bereit.
+
+## Rechtlicher Hintergrund
+
+§ 43e BRAO: Befugte Weitergabe von Berufsgeheimnissen an IT-Dienstleister setzt einen entsprechenden Vertrag voraus, der den Dienstleister zur Verschwiegenheit verpflichtet. § 203 Abs. 3 Satz 2 StGB: Der Dienstleister wird als "mitwirkende Person" privilegiert und nicht wegen Geheimnisverrats bestraft, wenn eine ordnungsgemäße § 43e-Vereinbarung besteht. § 53a StPO: Zeugnisverweigerungsrecht des Dienstleisters. § 97 Abs. 2 StPO: Beschlagnahmeschutz. Art. 28 DSGVO: AVV-Pflicht. Art. 82 DSGVO: Haftung des Verantwortlichen und Auftragsverarbeiters.
+
+## Vorgehen
+
+1. **Vertragsstruktur festlegen**: Separater AVV nach Art. 28 DSGVO plus separater § 43e-BRAO-Vertrag (oder kombiniert in einem Dokument).
+2. **Klauseln anpassen**: Musterklauseln an den konkreten Dienstleister und die konkrete Leistung anpassen (Subprozessoren, Rechenzentrum-Standorte, Löschfristen).
+3. **Training-Opt-out separat vereinbaren**: Explizit regeln, dass der Dienstleister Eingaben nicht für das Training seiner Modelle verwendet.
+4. **Auditrechte absichern**: Recht der Kanzlei auf Prüfung der Einhaltung durch eigene Prüfer oder externe Auditoren.
+5. **Strafrechtliche Belehrung erteilen**: § 43e-BRAO-Vertrag muss auf die strafrechtliche Relevanz eines Verschwiegenheitsbruchs nach § 203 StGB hinweisen.
+
+## Vorlagentext / Bausteine
+
+**Klausel 1 — Anerkennung der Verschwiegenheitspflicht (§ 43e BRAO):**
+Der Auftragnehmer ist bekannt, dass die im Rahmen der zu erbringenden Dienste erhaltenen Informationen beruflichen Verschwiegenheitspflichten unterliegen können. Der Auftragnehmer erkennt alle Rechte und Pflichten aus §§ 43a und 43e BRAO an und hält alle im Rahmen der Dienste erlangten Geheimnisse im Sinne von § 203 StGB und §§ 43a, 43e BRAO streng geheim und schützt sie vor unbefugtem Zugriff durch Dritte.
+
+**Klausel 2 — Zweckbindung und Zugangsbeschränkung:**
+Der Auftragnehmer hat nur insoweit Zugang zu Geheimen Informationen, als dies für die Erbringung der vereinbarten Dienste erforderlich ist. Eine Nutzung für eigene Zwecke, insbesondere für das Training von KI-Modellen, ist ausdrücklich untersagt.
+
+**Klausel 3 — Training-Opt-out:**
+Der Auftragnehmer verpflichtet sich unwiderruflich, die vom Auftraggeber eingegebenen oder hochgeladenen Inhalte (Texte, Dokumente, Prompts und Outputs) nicht zum Training oder zur Weiterentwicklung von KI-Modellen oder KI-Systemen zu verwenden. Diese Verpflichtung gilt auch für alle Unterauftragnehmer.
+
+**Klausel 4 — Unterauftragnehmer:**
+Der Auftragnehmer darf Geheime Informationen an Unterauftragnehmer nur weitergeben, wenn (i) der Unterauftragnehmer schriftlich zur Vertraulichkeit verpflichtet wurde, (ii) der Unterauftragnehmer seine Leistungen ausschließlich innerhalb des EWR erbringt oder angemessene Drittland-Garantien bestehen, und (iii) die Genehmigung des Auftraggebers vorliegt.
+
+**Klausel 5 — Strafrechtliche Belehrung nach § 203 StGB:**
+Der Auftraggeber belehrt den Auftragnehmer, dass ein Verstoß gegen die Verschwiegenheitspflicht eine Straftat nach § 203 StGB darstellen kann, die mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft wird.
+
+**Klausel 6 — Strafprozessuale Privilegien:**
+Dem Auftragnehmer ist bekannt, dass Berufsgeheimnisse dem Zeugnisverweigerungsrecht nach § 53a StPO und dem Beschlagnahmeschutz nach § 97 Abs. 2 StPO unterfallen. Im Fall einer behördlichen Vernehmung oder Beschlagnahme wird der Auftragnehmer unverzüglich den Auftraggeber informieren.
+
+**Klausel 7 — Löschpflichten:**
+Nach Beendigung des Vertrags oder auf Aufforderung des Auftraggebers löscht der Auftragnehmer alle gespeicherten Geheimen Informationen unwiderruflich und bestätigt dies schriftlich innerhalb von 30 Tagen.
+
+**Klausel 8 — Auditrechte:**
+Der Auftraggeber oder ein von ihm beauftragter Dritter ist berechtigt, die Einhaltung dieser Vereinbarung durch den Auftragnehmer zu überprüfen. Der Auftragnehmer unterstützt solche Prüfungen nach Ankündigung mit angemessener Frist.
+
+## Hinweise zur Aktualisierung
+
+Musterklauseln sind bei jeder wesentlichen Änderung der berufsrechtlichen oder datenschutzrechtlichen Anforderungen zu aktualisieren. Neue BRAK-Veröffentlichungen zu § 43e BRAO-Vereinbarungen sind besonders zu beachten. Ebenso sind neue Entscheidungen zu § 203 StGB oder zu den Anforderungen an AVV in die Klauseln einzuarbeiten.
+
+## Aktuelle Rechtsprechung (v14.2)
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Zentrale Normen (Paragrafenkette)
+- § 305 BGB — Einbeziehung von AGB
+- § 307 BGB — Inhaltskontrolle (unangemessene Benachteiligung)
+- Art. 25 KI-VO — Verantwortlichkeitsverteilung in der KI-Lieferkette
+- Art. 28 DSGVO — AVV-Klauseln in IT-Vertraegen
+- § 2 GeschGehG — Geheimhaltungsmassnahmen
+
+## Triage zu Beginn
+1. Handelt es sich um AGB oder Individualvereinbarung (§ 305 Abs. 1 BGB)?
+2. Welche Risikoklasse hat das KI-System — bestimmt Art. 25 KI-VO Verantwortlichkeit?
+3. Sind Haftungsbeschraenkungen im Vertrag wirksam — § 307 BGB-Prüfung?
+4. Enthalten die Klauseln Regelungen zu Training auf Eingabedaten?
+5. Sind AVV-Pflichten nach Art. 28 DSGVO in den IT-Vertrag integriert?
+
+## Output-Template — KI-Vertrags-Musterklausel
+**Adressat:** Vertragsparteien / Rechtsabteilung — Tonfall: vertragsrechtlich, klar
+```
+MUSTERKLAUSEL KI-EINSATZ — IT-VERTRAG
+[VERTRAG] — Version: [VERSION] — Stand: [DATUM]
+
+§ [X] KI-EINSATZ UND DATENVERARBEITUNG
+
+(1) Verarbeitung auf Daten: Der Auftragnehmer versichert, dass KI-Systeme,
+die im Rahmen dieses Vertrages eingesetzt werden, Eingabedaten des Auftrag-
+gebers nicht zum Training von Modellen verwenden. Anderslautende Klauseln in
+AGB des Auftragnehmers werden hierdurch ausdruecklich ausgeschlossen.
+
+(2) Verantwortlichkeit (Art. 25 KI-VO): Die Parteien sind sich einig, dass
+der Auftraggeber als Betreiber nach Art. 3 Nr. 4 KI-VO handelt. Der Auftrag-
+nehmer als Anbieter traegt die Pflichten nach Art. 9-15 KI-VO.
+
+(3) Auftragsverarbeitung: Soweit der Auftragnehmer personenbezogene Daten
+verarbeitet, gilt Anlage [X] (AVV nach Art. 28 DSGVO).
+
+(4) Haftungsgrenze: Die Haftung des Auftragnehmers für Schaden durch
+fehlerhafte KI-Ausgaben ist auf [EURO-BETRAG] pro Schadensfall begrenzt,
+hoechstens [EURO-BETRAG] pro Jahr. Vorbehaltlich § 307 BGB.
+
+(5) Vertraulichkeit (GeschGehG): Der Auftragnehmer verpflichtet sich, alle
+Eingabedaten als Geschäftsgeheimnisse i.S.d. § 2 GeschGehG zu behandeln.
 ```
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->

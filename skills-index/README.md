@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v367.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v368.0.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -167,7 +167,20 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [rechtsberatungsstelle](./rechtsberatungsstelle.md) (59 Skills)
 - [rechtstheorie-rechtsphilosophie](./rechtstheorie-rechtsphilosophie.md) (64 Skills)
 - [regulatorisches-recht](./regulatorisches-recht.md) (61 Skills)
+- [relationstechnik-zivilrecht](./relationstechnik-zivilrecht.md) (20 Skills)
 - [rentenpruefer](./rentenpruefer.md) (51 Skills)
+- [richter-amtsgericht-handelsregister](./richter-amtsgericht-handelsregister.md) (10 Skills)
+- [richter-amtsgericht-insolvenz-restrukturierung](./richter-amtsgericht-insolvenz-restrukturierung.md) (10 Skills)
+- [richter-amtsgericht-straf](./richter-amtsgericht-straf.md) (10 Skills)
+- [richter-amtsgericht-zivil](./richter-amtsgericht-zivil.md) (10 Skills)
+- [richter-arbeitsgericht](./richter-arbeitsgericht.md) (10 Skills)
+- [richter-bverfg-verfassungsbeschwerden](./richter-bverfg-verfassungsbeschwerden.md) (10 Skills)
+- [richter-familiengericht](./richter-familiengericht.md) (10 Skills)
+- [richter-finanzgericht](./richter-finanzgericht.md) (10 Skills)
+- [richter-landgericht-strafkammer](./richter-landgericht-strafkammer.md) (10 Skills)
+- [richter-landgericht-zivilkammer](./richter-landgericht-zivilkammer.md) (10 Skills)
+- [richter-sozialgericht](./richter-sozialgericht.md) (10 Skills)
+- [richter-verwaltungsgericht](./richter-verwaltungsgericht.md) (10 Skills)
 - [robotik-recht](./robotik-recht.md) (212 Skills)
 - [roemisch-katholisches-kirchenrecht](./roemisch-katholisches-kirchenrecht.md) (1876 Skills)
 - [roemisches-recht](./roemisches-recht.md) (283 Skills)
@@ -180,7 +193,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [softwarerecht-de-eu-us](./softwarerecht-de-eu-us.md) (105 Skills)
 - [solo-selbststaendige-praxis](./solo-selbststaendige-praxis.md) (201 Skills)
 - [sozialversicherungsstatus-pruefer](./sozialversicherungsstatus-pruefer.md) (101 Skills)
-- [staatsanwaltschaft-amtsanwaltschaft](./staatsanwaltschaft-amtsanwaltschaft.md) (24 Skills)
+- [staatsanwaltschaft-amtsanwaltschaft](./staatsanwaltschaft-amtsanwaltschaft.md) (28 Skills)
 - [staatsanwaltschaft-praxis-einstieg](./staatsanwaltschaft-praxis-einstieg.md) (142 Skills)
 - [startup-hr-personalabteilung-berlin](./startup-hr-personalabteilung-berlin.md) (111 Skills)
 - [status-navigator-step-plan](./status-navigator-step-plan.md) (35 Skills)
@@ -224,16 +237,3 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [zitierweise-deutsches-recht](./zitierweise-deutsches-recht.md) (83 Skills)
 - [zwangsverwaltung-zvg](./zwangsverwaltung-zvg.md) (58 Skills)
 - [zwangsvollstreckung](./zwangsvollstreckung.md) (59 Skills)
-- [richter-amtsgericht-zivil](./richter-amtsgericht-zivil.md) (10 Skills)
-- [richter-amtsgericht-straf](./richter-amtsgericht-straf.md) (10 Skills)
-- [richter-amtsgericht-insolvenz-restrukturierung](./richter-amtsgericht-insolvenz-restrukturierung.md) (10 Skills)
-- [richter-amtsgericht-handelsregister](./richter-amtsgericht-handelsregister.md) (10 Skills)
-- [richter-landgericht-zivilkammer](./richter-landgericht-zivilkammer.md) (10 Skills)
-- [richter-landgericht-strafkammer](./richter-landgericht-strafkammer.md) (10 Skills)
-- [richter-verwaltungsgericht](./richter-verwaltungsgericht.md) (10 Skills)
-- [richter-finanzgericht](./richter-finanzgericht.md) (10 Skills)
-- [richter-sozialgericht](./richter-sozialgericht.md) (10 Skills)
-- [richter-arbeitsgericht](./richter-arbeitsgericht.md) (10 Skills)
-- [richter-familiengericht](./richter-familiengericht.md) (10 Skills)
-- [richter-bverfg-verfassungsbeschwerden](./richter-bverfg-verfassungsbeschwerden.md) (10 Skills)
-- [relationstechnik-zivilrecht](./relationstechnik-zivilrecht.md) (20 Skills)

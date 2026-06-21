@@ -40,7 +40,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 BvR 370/07 (Online-Durchsuchung): Heimliche Zugriffe auf informationstechnische Systeme beruehren das Grundrecht auf Gewaehrleistung der Vertraulichkeit und Integritaet informationstechnischer Systeme und sind nur unter engen Voraussetzungen zulaessig.
+- BVerfG 1 BvR 370/07 und 1 BvR 595/07 (Urteil vom 27.02.2008, BVerfGE 120 274 - Online-Durchsuchung): Die heimliche Infiltration informationstechnischer Systeme beruehrt das Grundrecht auf Gewaehrleistung der Vertraulichkeit und Integritaet informationstechnischer Systeme; sie steht grundsaetzlich unter Richtervorbehalt und verlangt gesetzliche Sicherungen des Kernbereichs privater Lebensgestaltung.
 - Paragraf 100a StPO setzt eine Katalogtat, einen auf Tatsachen gestuetzten Verdacht und die Subsidiaritaet (Erschwernis anderer Aufklaerung) voraus.
 - Der Kernbereich privater Lebensgestaltung ist zu schuetzen; Erkenntnisse daraus unterliegen einem Verwertungsverbot (st. Rspr., Aktenzeichen vor Verwendung verifizieren).
 

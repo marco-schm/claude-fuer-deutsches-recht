@@ -20,7 +20,7 @@ Dieser Megaprompt enthaelt top-15 von 59 Skills des Plugins `rechtsberatungsstel
 12. **mandanten-kommunikations-log** — Mandantenkommunikation dokumentieren und Kommunikations-Log führen: Anwendungsfall Rechtsberatungsstelle muss Beratungsg…
 13. **mandantenbrief-memo-rbs-beratungshilfe** — Mandantenbrief für Rechtsberatungsstelle verfassen: Anwendungsfall Rechtsberatungsstelle muss Mandanten über Ergebnis de…
 14. **memo** — Erstellt ein Gutachten-Gerüst nach der deutschen Gutachtenmethode (Obersatz — Definition/Norm — Subsumtion — Ergebnis) m…
-15. **recherche-start-rechtsberatungsstelle** — Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, verifizierbare Quellen, Suchbegri…
+15. **semester-uebergabe** — Semesterabschluss-Übergabe — das Gegenstück zu `/einarbeitung`. Erstellt fallbezogene Übergabenotizen und eine Kohorten-…
 
 ---
 
@@ -2002,11 +2002,11 @@ Befund: KORRIGIERT. Skill hatte falschen Thementext: "Verbraucherrecht: Widerruf
 
 ---
 
-## Skill: `recherche-start-rechtsberatungsstelle`
+## Skill: `semester-uebergabe`
 
-_Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, verifizierbare Quellen, Suchbegriffe für amtliche/freie Quellen oder lizenzierte Datenbanken/dejure. Hinweise und Rahmen, KEINE geprüften Belege; Studenten recherchieren und verifizieren eigenständig. Lädt, w..._
+_Semesterabschluss-Übergabe — das Gegenstück zu `/einarbeitung`. Erstellt fallbezogene Übergabenotizen und eine Kohorten-Gesamtübersicht, damit die abgehende Kohorte die laufenden Mandate unter Wahrung des Mandatsgeheimnisses sauber an die nächste übergibt. Liest Fristendatei, Mandantenkommunikati..._
 
-# Recherchefahrplan: Orientierung, keine Recherche
+# Semesterübergabe
 
 ## Arbeitsweg
 
@@ -2016,172 +2016,193 @@ _Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechun
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
+## Zweck
+
+Jedes Semester verliert die Rechtsberatungsstelle ihre gesamte studentische Belegschaft und baut sie neu auf. `/einarbeitung` löst die eine Hälfte des Problems — Onboarding der neuen Kohorte. Diese Skill löst die andere Hälfte: Sie verabschiedet die abgehende Kohorte, indem sie Übergabenotizen erstellt, die alle für den Fortgang notwendigen Informationen zu jedem laufenden Mandat enthalten.
+
+Ohne diese Übergabe verlässt das Fallwissen die Beratungsstelle mit den Studentenn. Die neue Kohorte beginnt mit der Fallakte und der Aktennotiz — das reicht nie. Zwei Wochen gehen für die Wiedereinarbeitung verloren; der Mandant erlebt dies als Rückschritt: Anrufe bleiben unbeantwortet, bereits beantwortete Fragen werden erneut gestellt.
+
+**Mandatsgeheimnis:** Übergabenotizen enthalten vertrauliche Mandantendaten (§ 43a Abs. 2 BRAO, § 203 StGB). Sie werden ausschließlich innerhalb der Beratungsstelle zwischen beteiligten Studentenn und dem Supervisor ausgetauscht — niemals per privater E-Mail, Chat-Dienst oder sonstiger ungesicherter Verbindung.
+
 ## Eingaben
 
-- **Rechtsfrage** — so präzise wie möglich formuliert; nicht "Mietrecht", sondern "Kann die Mieterin die Miete mindern, weil die Heizung seit November defekt ist und der Vermieter nicht reagiert hat?"
-- **Rechtsgebiet** (optional, falls nicht aus der Frage erkennbar)
-- **Bisherige Recherche** (optional) — bereits gefundene Normen oder Entscheidungen für Lückenanalyse
+- **Semester** (Standard: laufendes Semester)
+- **Einzelner Fall** (optional: `--fall=[fall-id]`) für Einzelfall-Übergabe (z. B. bei vorzeitigem Ausscheiden)
+- **Aktive Fallliste** — wenn die Klinik kein zentrales Fallregister führt, muss diese als Eingabe übergeben werden; die Skill erfindet keine Fälle
+- **Zuordnung:** Wer geht, wer kommt — falls bekannt; sonst "TBD — Supervisor weist zu"
 
 ## Rechtlicher Rahmen
 
-### Primärquellen-Hierarchie im deutschen Recht
+### Kernvorschriften
 
-- **Bundesrecht** geht Landesrecht vor (Art. 31 GG).
-- **EU-Recht** hat Vorrang vor nationalem Recht; bei europarechtlichem Bezug (z. B. Verbraucherrecht, Datenschutz, Wettbewerbsrecht) immer auch EU-Rechtsakte und EuGH-Rspr. prüfen.
-- **Gesetzliche Grundlage → Ausführungsverordnung → Verwaltungsvorschrift** — Hierarchie im Verwaltungsrecht.
-- Für studentische Beratungsstellen besonders relevant: **BGB, ZPO, VwVfG, VwGO, AGG, KSchG, BerHG, RDG**.
+- **§ 43a Abs. 2 BRAO** — Verschwiegenheitspflicht des Rechtsanwalts; gilt sinngemäß für Studenten der Beratungsstelle. Die Übergabenotiz enthält nur Informationen, die für die Fallfortführung unbedingt notwendig sind.
+- **§ 203 Abs. 1, Abs. 3 StGB** — Verletzung von Privatgeheimnissen: Die Weitergabe von Mandantendaten an nicht-befugte Dritte ist strafbar. Studenten als "berufsmäßig tätige Gehilfen" i. S. d. § 203 Abs. 3 S. 2 StGB.
+- **§ 6 Abs. 2 RDG** — Aufsichtspflicht: Fallübergaben sind ein Aufgabenbereich, der der Supervisorenkontrolle bedarf; der begleitende Rechtsanwalt/die begleitende Rechtsanwältin zeichnet die Übergabe ab.
+- **§ 50 BRAO** — Aufbewahrungspflicht für Handakten: Der Supervisor hat Unterlagen nach Mandatsende mindestens 5 Jahre aufzubewahren; die Übergabenotizen sind Teil der Handakte im Rechtssinne.
+- **DSGVO Art. 5 Abs. 1 lit. f** (Integrität und Vertraulichkeit), **Art. 32 DSGVO** — Technische und organisatorische Maßnahmen für die Datensicherheit; sichere Übertragungswege für Übergabenotizen.
 
-### Leitentscheidungen zur Recherchemethodik (exemplarisch)
+### Leitentscheidungen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Ablauf
 
-### Schritt 0: Klinik-Vorlagendokumente zuerst lesen
+### Schritt 1: Fälle und Zuständigkeiten identifizieren
 
-Bevor der Fahrplan aufgebaut wird: Die eigenen Vorlagendokumente der Klinik lesen. Der Supervisor hat beim Kalt-Start Handbücher, Einreichungsanleitungen, Musterakten und Altgutachten hinterlegt — sie sind fachlich geprüft, spezifisch für die Klinik und schlagen jede Datenbanksuche in den ersten zwanzig Minuten.
+- Alle aktiven Fälle erfassen (aus Fallregister + `deadlines.yaml` Fall-IDs + Kommunikationslogs)
+- Für jeden Fall: Wer ist der aktuelle/die aktuelle Bearbeiter/-in? Bleibt diese Person oder scheidet sie aus?
+- Zuordnung: Ausscheidende/-r → Nachfolger/-in (falls bekannt; sonst "TBD — Supervisor weist zu")
 
-1. Klinik-Konfiguration (CLAUDE.md) → `## Vorlagendokumente` lesen. Gibt es Dokumente, deren Zweck oder Dateiname zur Rechtsfrage passt (z. B. "Mietrecht-Einreichungsleitfaden" für eine Mietminderungsfrage)?
-2. Für jeden Treffer: als **Vorlagendokumente zuerst lesen**-Block an den Anfang des Fahrplans stellen. Dokumentnamen angeben, warum relevant, was es abdeckt und wo außerhalb davon noch recherchiert werden muss.
-3. Falls keine Vorlagendokumente zur Frage passen: ausdrücklich benennen ("Keine Klinik-Vorlagendokumente zu dieser Frage — direkt zu den Primärquellen").
+Falls kein zentrales Fallregister existiert: Eingabe einer Fallliste erforderlich. Nicht raten.
 
-### Schritt 1: Frage präzisieren
+### Schritt 2: Fallbezogene Übergabenotiz
 
-Was ist die Rechtsfrage? Präzise formulieren. Nicht "Kündigung" — sondern: "Ist die fristlose Kündigung des Arbeitsvertrags vom 15.04.2026 rechtswirksam, obwohl dem Arbeitgeber keine Abmahnung vorausgegangen ist?"
+Für jeden Fall:
 
-Bei zu breiter Frage mit dem Studentenn eingrenzen: "Das sind drei Rechtsfragen. Welche zuerst?"
+```markdown
+### Fallübergabe — [Fallbezeichnung] — [Semester-Ende]
 
-### Schritt 2: Fahrplan aufbauen
-
-**Gesetzliche Ausgangspunkte:**
-Wahrscheinlich einschlägige Normen nennen. Ausdrücklich als ungeprüft kennzeichnen.
-
-> **Wahrscheinlich einschlägig** (UNGEPRÜFT — Aktualität und Einschlägigkeit verifizieren):
-> - § 626 BGB — Außerordentliche Kündigung aus wichtigem Grund; Zweiwochenfrist (§ 626 Abs. 2 BGB)
-> - § 314 BGB — Außerordentliche Kündigung von Dauerschuldverhältnissen
-> - §§ 1, 2 KSchG — Soziale Rechtfertigung; Anwendbarkeit prüfen (Betriebsgröße, Beschäftigungsdauer)
-> - `[PRÜFEN: Paragraphennummern gegen aktuelle Fassung verifizieren — Gesetze werden umnummeriert]`
-
-**Rechtsprechungsbereiche:**
-Nicht Entscheidungen — Bereiche. Die Entscheidungen findet der Studenten selbst.
-
-> **Rspr.-Bereiche:**
-> - BAG-Rspr. zu Abmahnungserfordernis vor fristloser Kündigung — Leitentscheidung des BAG suchen
-> - BAG-Rspr. zum "wichtigen Grund" i. S. d. § 626 BGB — Fallgruppen (Diebstahl, Arbeitsverweigerung, etc.)
-> - Rspr. zum Verhältnismäßigkeitsgrundsatz bei Kündigung ohne vorherige Abmahnung
-> - Rspr. zu den Anforderungen an die Anhörung des Betriebsrats (§ 102 BetrVG) — falls Betriebsrat vorhanden
-
-**Kommentare und Sekundärquellen:**
-
-> **Kommentare (zum Einstieg, nicht als Quelle zitieren):**
-> - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
-> - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
-> - Praxishandbuch Arbeitsrecht (beck-online) — Einstieg für typische Fallkonstellationen
-
-**Suchbegriffe:**
-
-> **Suchbegriffe für juris / beck-online / dejure:**
-> - juris: `fristlose Kündigung Abmahnung Erfordernis Arbeitnehmer § 626`
-> - beck-online: `außerordentliche Kündigung ohne Abmahnung BAG`
-> - dejure.org: `§ 626 BGB Rechtsprechung — Abmahnungserfordernis`
-> - Ergebnisse verfeinern basierend auf den Treffern — diese sind Einstiegsabfragen
-
-### Schritt 3: Unsicherheiten kennzeichnen
-
-Wenn die Skill unsicher ist, ob eine Quelle einschlägig oder aktuell ist:
-
-> `[UNSICHER: ob § 314 BGB hier neben § 626 BGB anwendbar ist — die Rspr. wird es zeigen]`
-
-Unsicherheit wird benannt, nicht verschwiegen.
-
-**Kein stilles Ergänzen:** Diese Skill liefert Hinweise, keine geprüften Quellen — das ist so gewollt. Falls eine Suchanfrage in einer konfigurierten Datenbank wenige oder keine Treffer ergibt, dies ausdrücklich sagen und aufhören. Lücken nicht durch Modellwissen oder Websuche ohne Rückfrage füllen. Stattdessen: "Die Suche ergab [N] Treffer in [Datenbank]. Die Abdeckung scheint dünn für [Frage/Norm]. Optionen: (1) Suchabfrage erweitern, (2) andere Datenbank probieren, (3) Websuche — Treffer werden als `[Websuche — verifizieren]` markiert und sind vor der Verwendung gegen Primärquellen zu prüfen, oder (4) Lücke dem Supervisor melden. Welche Option bevorzugen Sie?" Der Supervisor entscheidet über weniger verlässliche Quellen.
-
-### Schritt 4: Bestehende Recherche analysieren (wenn vorhanden)
-
-Wenn der Studenten bereits Recherchematerial hochgeladen hat: lesen, was abgedeckt ist, was fehlt.
-
-> **Aus Ihrer bisherigen Recherche:**
-> - Vorhanden: [Zusammenfassung des Abgedeckten]
-> - Lücke: [Was der Fahrplan oben nahelegt, aber noch nicht gefunden wurde]
-> - `[PRÜFEN: Die zitierte Entscheidung [Name] — per Datenbank-Zitieranalyse prüfen, ob sie nicht durch spätere Rspr. eingeschränkt wurde]`
-
-## Vorlagendokumente der Klinik (zuerst lesen)
-
-[Per Schritt 0. Passende Klinikdokumente mit Erläuterung benennen.
-Falls keine passen: "Keine Klinik-Vorlagendokumente zu dieser Frage — direkt zu den Primärquellen."]
-
-## Gesetzliche Ausgangspunkte (UNGEPRÜFT)
-
-[Liste mit PRÜFEN-Flags]
-
-## Rechtsprechungsbereiche
-
-[Bereiche, keine Entscheidungen]
-
-## Kommentare und Sekundärquellen (zum Orientieren, nicht als Quelle)
-
-[Liste]
-
-## Suchbegriffe
-
-**juris:** [Abfragen]
-**beck-online:** [Abfragen]
-**dejure:** [Abfragen]
-
-## Unsicherheitsmarkierungen
-
-[Stellen, an denen der Fahrplan genuinely unsicher ist]
+**Fall-ID:** [fall-id]
+**Rechtsgebiet:** [Gebiet]
+**Ausscheidende/-r Studenten/-r:** [Name]
+**Nachfolger/-in:** [Name oder "TBD"]
+**Begleitender Supervisor:** [Name]
+**Mandant:** [Name oder Mandanten-ID — kein Klarname in unsicheren Systemen]
 
 ---
 
-## Nächste Schritte
+## Aktueller Stand
 
-1. Mit einem Kommentar einsteigen, um den Rahmen zu verstehen
-2. Die gesetzlichen Normen suchen — verifizieren, ob die Angaben oben aktuell sind
-3. Suchbegriffe in den Datenbanken starten, Leitentscheidungen finden
-4. Jede Entscheidung per Zitieranalyse (juris: "Rechtsprechung zu diesem Urteil") auf Aktualität prüfen
-5. Zurückgehen und `/memo` nutzen, um die Analyse zu strukturieren, sobald die Normen feststehen
+[Ein Absatz: Verfahrensstand. Was ist getan, was steht aus, wo geht der Fall hin.
+Falls der Fall an einem natürlichen Haltepunkt steht (zwischen Einreichungen, wartend
+auf Behördenantwort), dies benennen.]
 
-## Was dieser Fahrplan nicht leistet
+## Offene Fristen
 
-- **Er liefert keine zitierfähigen Belege.** Jeder Hinweis oben ist zu verifizieren.
-- **Er ersetzt nicht die Recherche.** Sie recherchieren. Der Fahrplan bringt Sie schneller an den Startpunkt.
-- **Er deckt keine Spezialmaterie ab.** Für Nischenrechtsgebiete (z. B. spezifisches Landesrecht, Sondergerichtsbarkeit) ggf. Supervisor fragen.
+*Aus `deadlines.yaml`. Erste Aufgabe der/des Nachfolger/-in: Fristen bestätigen und übernehmen.*
+
+| Fällig | Typ | Beschreibung | Hinweise |
+|---|---|---|---|
+| [Datum] | [Typ] | [Einzeiler] | [bei Dringlichkeit: "DRINGEND — fällig innerhalb von [N] Tagen nach Semesterbeginn"] |
+
+## Was getan wurde
+
+- [Wichtige Schritte dieses Semesters: Erstberatung, Einreichungen, Termine, wesentliche Schriftstücke]
+- [Erstellte Dokumente — mit Verweis auf Ablageort]
+
+## Was noch offen ist
+
+- [Ausstehende Entscheidungen: z. B. "Mandantin hat noch nicht über das Vergleichsangebot entschieden"]
+- [Recherche-Lücken: z. B. "§ 556g BGB Mietpreisbremse — Ausnahmen noch nicht abschließend geprüft"]
+- [Offene Kommunikation: z. B. "Antwort der Behörde auf Widerspruch ausstehend"]
+
+## Mandantenbeziehung
+
+- [Wie oft Kontakt? Telefon, E-Mail, persönlich?]
+- [Relevanter Beziehungskontext für Nachfolger/-in: Sprache, besondere Lebensumstände, Kommunikationspräferenzen]
+- [Nächster geplanter Kontakt oder Termine]
+
+## Erstellte und eingereichte Schriftstücke
+
+*Verweise, kein Inhalt.*
+
+- [Datum] [Schriftstücktyp] — [Ablagepfad] — [Status: eingereicht / Entwurf / in Supervisor-Prüfung]
+
+## Kommunikationshistorie-Zusammenfassung
+
+*Aus dem Kommunikationslog. Dreizeilige Zusammenfassung hier; Nachfolger/-in liest den vollständigen Log.*
+
+[Kurze Zusammenfassung des jüngsten Kommunikationsmusters — z. B. "3 Telefonate seit Erstberatung, alle auf Russisch, Mandantin bevorzugt abends. Letzter Kontakt: 15.04.2026, Adresse für Schriftstück bestätigt."]
+
+## Hinweise des Supervisors an Nachfolger/-in
+
+*Vom Supervisor vor Weiterleitung der Übergabenotiz ergänzt. Kann enthalten: "Dieser Fall hat eine sensible Familiensituation — Akte vor dem ersten Kontakt genau lesen"; "Mandant hat gebeten, alle Post an Postfach, nicht Hausadresse"; "Es gibt noch eine offene Scoping-Frage — erste Woche mit mir besprechen."*
+
+[Hinweise, oder "keine"]
+
+## Erste-Woche-Prioritäten für Nachfolger/-in
+
+1. [Konkret — z. B. "Mandantin innerhalb von 48 Stunden nach Fallübernahme anrufen. Sich vorstellen, Fallübernahme bestätigen."]
+2. [Fristenbezogen — z. B. "Widerspruchsfrist endet am [Datum]. Entwurf des abgehenden Studentenn prüfen, überarbeiten, einreichen."]
+3. [Wissenslücke — z. B. "Gutachten des abgehenden Studentenn zur Mietpreisbremse lesen, bevor am [Datum] die Verhandlung stattfindet."]
 
 ---
+
+**Übergabe erstellt von:** [Ausscheidende/-r Studenten/-r]
+**Datum:** [JJJJ-MM-TT]
+**Geprüft von:** [Supervisor, sofern Supervisionsmodell dies vorsieht]
 ```
+
+### Schritt 3: Kohorten-Gesamtübersicht
+
+Nach allen fallbezogenen Notizen, `handoffs/[semester]/_zusammenfassung.md` erstellen:
+
+```markdown
+### Kohortenübergabe-Zusammenfassung — [Semester-Ende]
+
+**Ausscheidende Studenten:** [N]
+**Eintretende Studenten:** [N]
+**Laufende, zu übergebende Fälle:** [N]
+**Fälle, die zum Semesterende abgeschlossen werden (keine Übergabe):** [N]
+
+---
+
+## Übergaben
+
+| Fall | Ausscheidend | Nachfolge | Rechtsgebiet | Dringlichkeit |
+|---|---|---|---|---|
+| [fall-id] | [Name] | [Name oder TBD] | [Gebiet] | [normal / Frist innerhalb 2 Wochen / dringend] |
+
+## Nicht zugewiesen
+
+[Fälle, für die "TBD" als Nachfolger/-in eingetragen ist — Supervisor weist vor Semesterstart zu]
+
+## Fristen innerhalb von 30 Tagen nach Semesterbeginn
+
+[Aus deadlines.yaml — das sind die Fälle, in die die neue Kohorte sofort einarbeiten muss]
+
+## Hinweise für den Supervisor
+
+- [Falls in diesem Semester besondere Leistungsprobleme bei Studentenn aufgefallen sind — für engere Begleitung im Folgesemester notieren]
+- [Falls ausscheidende Studenten bereit sind, für den Nachfolger/die Nachfolgerin zur Verfügung zu stehen — z. B. Absolvent/-in, der/die die Übergabe begleiten möchte]
+- [Muster über Fälle hinweg — z. B. "Drei von sechs Fällen haben Fristen in den ersten 14 Tagen des neuen Semesters; ggf. Onboarding-Übungen auf diese Rechtsgebiete fokussieren"]
+```
+
+### Schritt 4: Supervisoren-Prüfung
+
+Das Schließen oder Übergeben eines Falls ist eine folgenschwere Handlung. Das Gate ist das Supervisionsmodell der Beratungsstelle (§ 6 Abs. 2 RDG). Fallabschluss-Notizen werden immer vom Supervisor abgezeichnet, bevor der Fall im Übergabedokument als geschlossen markiert wird — unabhängig vom gewählten Supervisionsmodell.
+
+- **Formelle Prüfwarteschlange:** Jede Übergabenotiz geht in die Warteschlange, bevor sie an den/die Nachfolger/-in weitergeleitet wird.
+- **Konfigurierbare Flags:** Notizen erhalten "VOR WEITERLEITUNG MIT [SUPERVISOR] PRÜFEN"; Supervisor prüft informell.
+- **Leichtere Begleitung:** Standard-KI-Label; Supervisor prüft über bestehende Betreuungsstruktur. Fallabschlüsse gehen dennoch vor Markierung als geschlossen an den Supervisor.
+
+### Schritt 5: Übergabe vollziehen
+
+Nach Supervisoren-Prüfung liegen die Übergabenotizen unter `handoffs/[semester]/[fall-id].md`. Der/die Nachfolger/-in liest sie im `/einarbeitung`-Durchlauf zu Semesterbeginn — `/einarbeitung` soll die Notizen für die zugewiesenen Fälle surfacen.
 
 ## Beispiel
 
-**Szenario:** Studenten Hofer recherchiert für Mandantin Erdem: Kann sie die Miete mindern, weil die Heizung seit November defekt ist?
+**Szenario:** Studenten Müller beendet das Semester und gibt Fall `erdem-mietrecht-2026` an nachfolgende Studenten Schulze weiter. Frist: Widerspruch gegen Mieterhöhung am 08.06.2026.
 
-Fahrplan enthält:
-- Gesetzliche Ausgangspunkte: `§ 536 BGB (Mietminderung), § 536a BGB (Schadensersatz), § 536c BGB (Anzeigepflicht) [UNGEPRÜFT — verifizieren]`
-- Rspr.-Bereiche: "AG/LG München und Hamburg Rspr. zu Heizungsausfall als erheblicher Mangel; Minderungsquoten-Rspr.; Anzeigepflicht-Rspr."
-- Suchbegriffe: `juris: "§ 536 BGB Heizung Mietminderung erheblicher Mangel"`
-- Unsicherheit: `[UNSICHER: ob Frau Erdems mündliche Anzeige am 05.11.2025 die Formerfordernisse des § 536c BGB erfüllt — Rspr. prüfen]`
+Übergabenotiz enthält: aktueller Stand (Widerspruchsentwurf fertig, wartet auf Supervisoren-Freigabe), Fristtabelle (08.06.2026 — DRINGEND), Was getan wurde (Erstberatung 15.03.2026, Entwurf 01.04.2026), Hinweis Supervisor: "Mandantin spricht nur Türkisch — Schulze soll Dolmetscher organisieren."
 
 ## Risiken und typische Fehler
 
-- **Fahrplan-Hinweise als fertige Belege behandeln:** Die häufigste Fehlerquelle. Normen und Rspr.-Bereiche müssen in den Datenbanken nachgeschlagen, auf Aktualität geprüft und korrekt zitiert werden.
-- **Nur eine Datenbank nutzen:** Verschiedene Datenbanken decken unterschiedliche Quellen ab. amtliche/freie Quellen oder lizenzierte Datenbanken ergänzen sich; dejure eignet sich für schnelle Normensuche.
-- **Keine Zitieranalyse:** Eine Entscheidung, die in einer neueren höchstrichterlichen Entscheidung eingeschränkt wurde, kann nicht mehr als Beleg verwendet werden. Zitieranalyse in juris (Rubrik "Rechtsprechung zu diesem Urteil") ist Pflicht.
-- **Lücke schweigend überbrücken:** Wenn eine Suchanfrage wenige Treffer ergibt, nicht durch Modellwissen ergänzen. Den Supervisor informieren und auf eine verlässlichere Quelle warten.
+- **Übergabe ohne Mandatsgeheimniswahrung:** E-Mail-Versand von Übergabenotizen über private Konten oder Chat-Dienste verstößt gegen § 203 StGB und DSGVO Art. 5. Nur bestellungsführende, gesicherte Systeme.
+- **Fristenübergabe vergessen:** Die gefährlichste Lücke. Alle aktiven Fristen müssen in der Notiz erscheinen; Nachfolger/-in muss sie in `/fristen` als eigene Fristen neu eintragen.
+- **Übergabe ohne Supervisoren-Abzeichnung:** § 6 Abs. 2 RDG verlangt effektive Aufsicht. Auch "formlose" Übergaben sind dem Supervisor zu melden.
+- **Zu dünne Übergabenotiz:** "Fall läuft gut" ist keine Übergabe. Die Notiz muss so vollständig sein, dass jemand ohne Vorkenntnisse den Fall übernehmen kann.
+- **Mandantenkontakt während der Übergabephase nicht gesichert:** Zwischen Ausscheiden der alten und Übernahme durch neue Studenten muss der Supervisor Ansprechbarkeit für den Mandanten sicherstellen.
 
 ## Quellenpflicht
 
-Jeder im Fahrplan vorgeschlagene Hinweis ist mit der Herkunft zu kennzeichnen: `[juris]`, `[beck-online]`, `[dejure]` für datenbankgestützte Hinweise; `[Websuche — verifizieren]` für webbasierte Hinweise; `[Modellwissen — verifizieren]` für aus dem Modell stammende Hinweise. Hinweise mit "verifizieren" tragen höheres Fehlerrisiko und sind zuerst gegen Primärquellen zu prüfen. Tags nicht entfernen — sie sind das schnellste Signal für den Supervisor, welche Stellen besonderer Aufmerksamkeit bedürfen.
+Übergabenotizen sind interne Arbeitsdokumente, keine zitierten Rechtsgutachten. Alle darin enthaltenen offenen Rechtsfragen sind in den entsprechenden Skills (`/memo`, `/recherche-start`) mit Quellenangaben zu hinterlegen. Die Übergabenotiz verweist auf das zugrundeliegende Gutachten, zitiert aber keine Normen eigenständig ohne Verifizierung.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
-
----
-
-<!-- AUDIT 27.05.2026
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
--->
 
 ---
 

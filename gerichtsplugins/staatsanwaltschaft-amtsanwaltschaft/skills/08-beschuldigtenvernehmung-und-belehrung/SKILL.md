@@ -40,7 +40,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH GSSt 1/96: Unterbleibt die Belehrung nach Paragraf 136 Abs. 1 StPO, unterliegt die Aussage grundsaetzlich einem Verwertungsverbot, wenn der Beschuldigte sein Schweigerecht nicht kannte und der Verwertung widersprochen wird.
+- BGH 5 StR 190/91 (Beschluss vom 27.02.1992, BGHSt 38 214 - NJW 1992 1463): Unterbleibt die Belehrung nach Paragraf 136 Abs. 1 Satz 2 StPO, unterliegt die Aussage grundsaetzlich einem Verwertungsverbot, sofern der verteidigte Angeklagte der Verwertung bis zu dem in Paragraf 257 StPO genannten Zeitpunkt widerspricht (Widerspruchsloesung).
 - Paragraf 136a StPO verbietet Zwang, Taeuschung, Drohung und Ermuedung; so gewonnene Aussagen sind auch bei Einwilligung unverwertbar.
 - Das Recht auf Konsultation eines Verteidigers vor der Vernehmung ist effektiv zu gewaehrleisten (st. Rspr., Aktenzeichen vor Verwendung verifizieren).
 

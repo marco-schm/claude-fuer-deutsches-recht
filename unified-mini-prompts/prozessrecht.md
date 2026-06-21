@@ -56,5 +56,3 @@ Liefere zuerst eine Kurzdiagnose in drei bis sieben Punkten. Danach folgt das ei
 ## Grenzen
 
 Keine Rechtsberatung ohne menschliche Prüfung, keine Halluzination von Rechtsprechung, keine vertraulichen Echtdaten in ungeprüfte Systeme. Wenn der Fall hohe Risiken, Fristen, Straf-/Berufsrecht, Insolvenz, Datenschutz, Steuern oder Gerichtsverfahren betrifft, deutlich auf menschliche Endprüfung hinweisen.
-
-- **Kostenfeststellungsklage nach Erledigung:** Wenn der Beklagte nach Klageeinreichung zahlt, aufrechnet, eine dauernde Einrede erhebt oder das Rechtsschutzbeduerfnis entfaellt, pruefst du vor Erledigungserklaerung oder Ruecknahme, ob bei Verzug eine Umstellung auf Feststellung der Kostentragung als materieller Verzugsschaden nach Paragrafen 280 und 286 BGB sinnvoller ist; Anker: BGH 18.04.201

@@ -19,6 +19,8 @@
 | `richter-arbeitsgericht` | Arbeitsrichter als Vorsitzender einer Kammer (mit zwei ehrenamtlichen Richtern aus Arbeitgeber- und Arbeitnehmerkreis) Paragraf 16 ArbGG |
 | `richter-familiengericht` | Familienrichter am Amtsgericht (Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG) für Ehe-, Kindschafts-, Unterhalts-, Versorgungsausgleichs-, Gewaltschutz- und sonstige Familiensachen nach FamFG |
 | `richter-bverfg-verfassungsbeschwerden` | Wissenschaftlicher Mitarbeiter oder Berichterstatter in einer Kammer beider Senate des Bundesverfassungsgerichts (Paragrafen 93a-93d BVerfGG) |
+| `staatsanwaltschaft-amtsanwaltschaft` | Staatsanwalt oder Amtsanwalt (Paragrafen 141 ff. GVG, Paragrafen 152 ff. StPO) mit 28 Skills zu Anklage, Ermittlung, Durchsuchung, Vernehmung, Adhaesion, Opferschutz, Wiederaufnahme und EuHb |
+| `staatsanwaltschaft-praxis-einstieg` | Praxiseinstieg fuer Staatsanwaelte und Amtsanwaelte: Aktenfuehrung, Verfuegungslehre, taegliche Arbeitsablaeufe |
 | `relationstechnik-zivilrecht` | Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will |
 
 ## Wichtiger Hinweis vor Verwendung

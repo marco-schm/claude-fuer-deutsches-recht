@@ -178,7 +178,12 @@ def main() -> int:
     created = 0
     skipped = 0
     too_big_skip = 0
-    for plugin_dir in sorted(REPO.iterdir()):
+    # Top-Level-Plugins plus Sammelordner gerichtsplugins/
+    candidate_dirs = list(REPO.iterdir())
+    gerichts_dir = REPO / 'gerichtsplugins'
+    if gerichts_dir.is_dir():
+        candidate_dirs.extend(gerichts_dir.iterdir())
+    for plugin_dir in sorted(candidate_dirs, key=lambda p: p.name):
         if not plugin_dir.is_dir():
             continue
         # nur echte Plugin-Verzeichnisse (mit .claude-plugin/plugin.json)

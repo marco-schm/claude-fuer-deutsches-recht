@@ -6,16 +6,61 @@ Dieser Megaprompt enthaelt top-10 von 80 Skills des Plugins `schoeffen-handelsri
 
 ## Inhaltsverzeichnis
 
-1. **ehrenamtlicher-richter-vg-orientierung** — Ehrenamtlicher Richter Verwaltungsgericht (Orientierung): hilft ehrenamtlichen Richtern bei Rolle im Ve…
-2. **beratung-abstimmung-orientierung-sitzung** — Beratung und Abstimmung: erklärt Beratungsgeheimnis, Abstimmungslogik, Dissens und Protokollfragen für Schöffen, Handels…
-3. **handelsrichter-kfh-rolle-orientierung** — Handelsrichter in der Kammer für Handelssachen (Orientierung): hilft ehrenamtlichen Richtern bei KfH-Zu…
-4. **bilanzstreit-orientierung-sitzung** — Handelsrichter Bilanzstreit (Orientierung): hilft ehrenamtlichen Richtern bei Jahresabschluss, Gewährle…
-5. **handelsrichter-gesellschafterstreit-orientierung** — Handelsrichter Gesellschafterstreit (Orientierung): hilft ehrenamtlichen Richtern bei GmbH/OHG/KG-Strei…
-6. **vertriebsstreit-orientierung-sitzung** — Handelsrichter Vertriebsstreit (Orientierung): hilft ehrenamtlichen Richtern bei Handelsvertreter, Vert…
-7. **schoeffe-wirtschaftsstrafverfahren-orientierung** — Wirtschaftsstrafverfahren für Schöffen (Orientierung): hilft ehrenamtlichen Richtern bei Bilanzen, Zahl…
-8. **ehrenamtlicher-richter-beamtenrecht-orientierung** — Ehrenamtlicher Richter Beamtenrecht (Orientierung): hilft ehrenamtlichen Richtern bei Beurteilung, Konk…
-9. **ladung-erhalten-erste-orientierung-orientierung** — Ladung erhalten: erste Orientierung (Orientierung): hilft ehrenamtlichen Richtern bei erste Ladung, Ort…
-10. **schoeffe-strafkammer-rolle-orientierung** — Schöffe in der Strafkammer (Orientierung): hilft ehrenamtlichen Richtern bei Rolle, Rechte, Pflichten, …
+1. **beratung-abstimmung-orientierung-sitzung** — Beratung und Abstimmung: erklärt Beratungsgeheimnis, Abstimmungslogik, Dissens und Protokollfragen für Schöffen, Handels…
+2. **ehrenamtlicher-richter-vg-orientierung** — Ehrenamtlicher Richter Verwaltungsgericht (Orientierung): hilft ehrenamtlichen Richtern bei Rolle im Verwaltungsprozess,…
+3. **handelsrichter-kfh-rolle-orientierung** — Handelsrichter in der Kammer für Handelssachen (Orientierung): hilft ehrenamtlichen Richtern bei KfH-Zuständigkeit, kauf…
+4. **bilanzstreit-orientierung-sitzung** — Handelsrichter Bilanzstreit (Orientierung): hilft ehrenamtlichen Richtern bei Jahresabschluss, Gewährleistung, Earn-out,…
+5. **handelsrichter-gesellschafterstreit-orientierung** — Handelsrichter Gesellschafterstreit (Orientierung): hilft ehrenamtlichen Richtern bei GmbH/OHG/KG-Streit, Beschlussmänge…
+6. **vertriebsstreit-orientierung-sitzung** — Handelsrichter Vertriebsstreit (Orientierung): hilft ehrenamtlichen Richtern bei Handelsvertreter, Vertragshändler, Ausg…
+7. **schoeffe-wirtschaftsstrafverfahren-orientierung** — Wirtschaftsstrafverfahren für Schöffen (Orientierung): hilft ehrenamtlichen Richtern bei Bilanzen, Zahlungsflüsse, Insol…
+8. **ehrenamtlicher-richter-beamtenrecht-orientierung** — Ehrenamtlicher Richter Beamtenrecht (Orientierung): hilft ehrenamtlichen Richtern bei Beurteilung, Konkurrentenstreit, D…
+9. **ladung-erhalten-erste-orientierung-orientierung** — Ladung erhalten: erste Orientierung (Orientierung): hilft ehrenamtlichen Richtern bei erste Ladung, Ort, Zeit, Entschuld…
+10. **schoeffe-strafkammer-rolle-orientierung** — Schöffe in der Strafkammer (Orientierung): hilft ehrenamtlichen Richtern bei Rolle, Rechte, Pflichten, Fragerecht, Akten…
+
+---
+
+## Skill: `beratung-abstimmung-orientierung-sitzung`
+
+_Beratung und Abstimmung: erklärt Beratungsgeheimnis, Abstimmungslogik, Dissens und Protokollfragen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter Praxis._
+
+# Beratung und Abstimmung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: GVG §§ 28-77, 116, StPO §§ 30 ff., LRiStAG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Beratung und Abstimmung
+- **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.
+- **Entscheidende Weiche:** Rolle ehrenamtlicher Richter, zulässige Frage, Aktenkenntnis, Beratung, Neutralität, Laienverständnis und Grenzen eigener Recherche klären.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Kaltstart in fünf Schritten
+
+1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
+2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
+3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
+4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
+5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
+
+## Prüf- und Arbeitslogik
+
+- **Normenanker:** DRiG, GVG, StPO, ZPO, VwGO, ArbGG, SGG, FGO und landesrechtliche Hinweise live prüfen
+- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
+- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
+- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
+- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 263 StPO (Geheimhaltung)
+- § 43 DRiG (Eid)
+- § 45 DRiG
 
 ---
 
@@ -77,51 +122,6 @@ Konkret zu prüfen:
 - § 76 GVG (Mitwirkung)
 - §§ 105-109 GVG (Handelsrichter)
 - BVerfGE 14, 56 (Schöffen als Richter)
-
----
-
-## Skill: `beratung-abstimmung-orientierung-sitzung`
-
-_Beratung und Abstimmung: erklärt Beratungsgeheimnis, Abstimmungslogik, Dissens und Protokollfragen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter Praxis._
-
-# Beratung und Abstimmung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GVG §§ 28-77, 116, StPO §§ 30 ff., LRiStAG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Beratung und Abstimmung
-- **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.
-- **Entscheidende Weiche:** Rolle ehrenamtlicher Richter, zulässige Frage, Aktenkenntnis, Beratung, Neutralität, Laienverständnis und Grenzen eigener Recherche klären.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Kaltstart in fünf Schritten
-
-1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
-2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
-3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
-4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
-5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
-
-## Prüf- und Arbeitslogik
-
-- **Normenanker:** DRiG, GVG, StPO, ZPO, VwGO, ArbGG, SGG, FGO und landesrechtliche Hinweise live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
-## Normen & Rechtsprechung
-
-Konkret zu prüfen:
-
-- § 263 StPO (Geheimhaltung)
-- § 43 DRiG (Eid)
-- § 45 DRiG
 
 ---
 

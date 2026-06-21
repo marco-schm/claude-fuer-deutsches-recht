@@ -2,20 +2,20 @@
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 63 Skills des Plugins `prozessrecht`.
+Dieser Megaprompt enthaelt top-10 von 64 Skills des Plugins `prozessrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Einstieg, Triage und Routing für Prozessrecht (ZPO/VwGO/StPO/SGG): ordnet Rolle (Mandant, Gegner, Gericht), markiert Fri…
-2. **anspruchstabelle-beweislast** — Anspruchstabelle für zivilprozessuales Mandat erstellen: alle Ansprüche und Gegenansprüche tabellarisch erfassen. Normen…
-3. **anwaltsgeheimnis-pruefung** — Anwaltsgeheimnis und Verschwiegenheitspflicht bei Weitergabe von Mandatsinformationen prüfen. Normen: § 43a BRAO, § 203 …
-4. **beweissicherung-einstweilige-verfuegung** — Beweissicherungsantrag im selbständigen Beweisverfahren vorbereiten: Sachverständigengutachten vor Klageerhebung sichern…
-5. **chronologie** — Sachverhaltschronologie für Klageschrift oder Verteidigung aufbauen: Zeitlinie mit Belegen und Normbezug. Normen: §§ 253…
-6. **gegenseite-status-mahnbescheid-mahnschreiben** — Prozessualen Status der Gegenseite erfassen: Bevollmaechtigung, Zustelladresse, Insolvenzantrag, Kostensicherheit. Norme…
-7. **mahnbescheid** — Mahnbescheid im gerichtlichen Mahnverfahren beantragen: Voraussetzungen, Formulierung, Übergang zum Streitverfahren. Nor…
-8. **mahnschreiben-aufnahme** — Erhaltenes Mahnschreiben der Gegenseite aufnehmen und einordnen: Anerkennungsgefahr, Verjaebrungshemmung. Normen: §§ 204…
-9. **mahnschreiben-entwurf-anwaltsgeheimnis** — Vorgerichtliches Mahnschreiben entwerfen: Zahlungsaufforderung mit Frist und Klageankündigung. Normen: §§ 286 288 BGB, §…
-10. **mahnschreiben-erhalten-aktualisierung** — Auf erhaltenes Mahnschreiben der Gegenseite reagieren: Widerspruch, Zahlungsplan oder Verjaebrungsaufschub. Normen: §§ 2…
+2. **kostenfeststellungsklage-verzugsschaden-erledigung** — Kostenfeststellungsklage nach Erledigung des ursprünglichen Klagebegehrens: Wahl zwischen § 91a ZPO, § 269 Abs. 3 S. 3 Z…
+3. **anspruchstabelle-beweislast** — Anspruchstabelle für zivilprozessuales Mandat erstellen: alle Ansprüche und Gegenansprüche tabellarisch erfassen. Normen…
+4. **anwaltsgeheimnis-pruefung** — Anwaltsgeheimnis und Verschwiegenheitspflicht bei Weitergabe von Mandatsinformationen prüfen. Normen: § 43a BRAO, § 203 …
+5. **beweissicherung-einstweilige-verfuegung** — Beweissicherungsantrag im selbständigen Beweisverfahren vorbereiten: Sachverständigengutachten vor Klageerhebung sichern…
+6. **chronologie** — Sachverhaltschronologie für Klageschrift oder Verteidigung aufbauen: Zeitlinie mit Belegen und Normbezug. Normen: §§ 253…
+7. **gegenseite-status-mahnbescheid-mahnschreiben** — Prozessualen Status der Gegenseite erfassen: Bevollmaechtigung, Zustelladresse, Insolvenzantrag, Kostensicherheit. Norme…
+8. **mahnbescheid** — Mahnbescheid im gerichtlichen Mahnverfahren beantragen: Voraussetzungen, Formulierung, Übergang zum Streitverfahren. Nor…
+9. **mahnschreiben-aufnahme** — Erhaltenes Mahnschreiben der Gegenseite aufnehmen und einordnen: Anerkennungsgefahr, Verjaebrungshemmung. Normen: §§ 204…
+10. **mahnschreiben-entwurf-anwaltsgeheimnis** — Vorgerichtliches Mahnschreiben entwerfen: Zahlungsaufforderung mit Frist und Klageankündigung. Normen: §§ 286 288 BGB, §…
 
 ---
 
@@ -60,6 +60,104 @@ Dieser Einstieg routet **Prozessrecht** vom ersten Sachverhalt zu Rollen, Friste
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+---
+
+## Skill: `kostenfeststellungsklage-verzugsschaden-erledigung`
+
+_Kostenfeststellungsklage nach Erledigung des ursprünglichen Klagebegehrens: Wahl zwischen § 91a ZPO, § 269 Abs. 3 S. 3 ZPO und materiell-rechtlicher Kostenerstattung als Verzugsschaden nach Paragrafen 280 und 286 BGB. Prüft Zahlung, Aufrechnung, dauernde Einrede, Unmöglichkeit und Wegfall Rechtsschutzbedürfnis vor oder nach Rechtshängigkeit._
+
+# Kostenfeststellungsklage bei erledigter Hauptsache als Verzugsschaden
+
+## Worum es geht
+
+Dieser Skill greift, wenn nach Klageeinreichung der ursprüngliche Antrag nicht mehr sinnvoll aufrechterhalten werden kann: Die Gegenseite zahlt, rechnet auf, erhebt eine dauerhafte Einrede, die Leistung wird unmöglich oder das Rechtsschutzbedürfnis fällt weg. In solchen Fällen darf die Klägerseite nicht reflexhaft erledigen oder zurücknehmen. Zuerst ist zu prüfen, ob die Kosten des Klageverfahrens als materiell-rechtlicher Verzugsschaden weiterverfolgt werden können.
+
+Der praktische Kniff lautet: War die Gegenseite bei Klageeinreichung in Verzug und war die Klage deshalb veranlasst, kann der Kläger sein Begehren auf Feststellung umstellen, dass die Beklagte die Kosten des Rechtsstreits beziehungsweise die durch die Klageeinreichung entstandenen Rechtsverfolgungskosten zu tragen hat. Das ist keine normale Kostenfestsetzung nach §§ 103, 104 ZPO, sondern eine materiell-rechtliche Feststellungsklage.
+
+## Normenanker
+
+- § 91a ZPO — Kostenentscheidung nach übereinstimmender Erledigungserklärung; nur summarische Billigkeitsentscheidung nach bisherigem Sach- und Streitstand.
+- § 269 Abs. 3 Satz 3 ZPO — Kostenentscheidung nach Wegfall des Klageanlasses vor Rechtshängigkeit; ebenfalls ermessens- und summarisch geprägt.
+- § 263 ZPO — Klageänderung, wenn Einwilligung oder Sachdienlichkeit vorliegt.
+- § 264 Nr. 2 ZPO — keine Klageänderung bei bloßer Erweiterung oder Beschränkung des Klageantrags in der Hauptsache oder in Nebenforderungen.
+- § 256 Abs. 1 ZPO — Feststellungsinteresse; relevant, wenn die genaue Kostenhöhe noch nicht beziffert werden soll.
+- § 261 Abs. 1 ZPO — Rechtshängigkeit tritt mit Zustellung der Klageschrift ein, nicht schon mit Eingang bei Gericht.
+- §§ 280 Abs. 1 und 2, 286 BGB — Ersatz des Verzögerungsschadens; hierzu können notwendige Rechtsverfolgungskosten gehören.
+- § 104 ZPO — spätere Bezifferung im Kostenfestsetzungsverfahren, wenn ein tragfähiger Kostengrundtitel vorliegt.
+
+## Entscheidungsanker
+
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12: Die Möglichkeit eines Kostenantrags nach § 269 Abs. 3 Satz 3 und Abs. 4 ZPO hindert eine materiell-rechtliche Kostenerstattungsklage nicht; der summarische Kostenweg ist nicht gleich sicher und wirkungsvoll.
+- BGH, Beschluss vom 13.12.2006 - XII ZB 71/04: Wer nach Rechtshängigkeit trotz nachträglicher Zahlung die Klage zurücknimmt, kann kostenrechtlich in die falsche Spur geraten; Zeitpunkt der Rechtshängigkeit sauber prüfen.
+- BGH, Beschluss vom 11.01.2022 - VIII ZB 44/21: Materiell-rechtliche Kostenerstattungsansprüche werden nicht beliebig in die prozessuale Kostenentscheidung nach § 269 Abs. 3 Satz 2 ZPO hineingezogen; die Verfahrensspur muss bewusst gewählt werden.
+- OLG Karlsruhe, Urteil vom 20.05.2026 - 7 U 173/25: Nach Wegfall des Klageanlasses vor Rechtshängigkeit kann eine Klageänderung auf Feststellung der Kostenerstattungspflicht zulässig sein; vor Verwendung die frei zugängliche amtliche Veröffentlichung oder eine andere verlässliche Fundstelle live verifizieren.
+
+## Prüfungsworkflow
+
+1. **Zeitpunkt des erledigenden Ereignisses bestimmen.**
+   - Eingang der Klage bei Gericht: Anhängigkeit.
+   - Zustellung an die Gegenseite: Rechtshängigkeit.
+   - Zahlung, Aufrechnung, Einrede, Unmöglichkeit oder anderer Wegfall ist minutengenau zu dokumentieren, wenn es knapp wird.
+
+2. **Klageanlass bei Einreichung prüfen.**
+   - War die Forderung fällig?
+   - Lag Verzug nach § 286 BGB vor?
+   - Gab es eine Mahnung, Fristsetzung, kalendermäßige Leistungszeit oder ernsthafte und endgültige Leistungsverweigerung?
+   - Hatte die Klägerseite ohne Klage vernünftigerweise nicht mit freiwilliger Erfüllung zu rechnen?
+
+3. **Prozessuale Standardwege gegen den materiellen Kostenweg stellen.**
+   - Übereinstimmende Erledigung nach § 91a ZPO führt nur zu einer Billigkeitsentscheidung und regelmäßig nicht zu voller Beweisaufnahme.
+   - Klagerücknahme mit Kostenantrag nach § 269 Abs. 3 Satz 3 ZPO kann bei Wegfall vor Rechtshängigkeit richtig sein, bleibt aber summarisch.
+   - Die Kostenfeststellungsklage hält den materiell-rechtlichen Schadensersatzanspruch offen und kann strategisch besser sein, wenn Verzug, Veranlassung und Kausalität gut belegbar sind.
+
+4. **Klageänderung formulieren.**
+   - Der alte Zahlungs- oder Leistungsantrag wird nicht einfach aufgegeben, sondern auf Feststellung der materiellen Kostentragungspflicht umgestellt.
+   - Der Schriftsatz muss erklären, warum die ursprüngliche Hauptsache nicht mehr verfolgt wird und warum die Kosten als Verzugsschaden ersetzt verlangt werden.
+
+5. **Haftungsfalle dokumentieren.**
+   - Wer vor Rechtshängigkeit fälschlich erledigt, riskiert Kostenlast.
+   - Wer nach Rechtshängigkeit fälschlich zurücknimmt, riskiert ebenfalls Kostenlast.
+   - Die falsche Erklärung lässt sich oft nicht elegant reparieren; daher vor jeder Prozesserklärung eine kurze Aktennotiz mit Zeitachse erstellen.
+
+## Antrag und Schriftsatzbaustein
+
+### Feststellungsantrag
+
+```text
+Es wird festgestellt, dass die Beklagte verpflichtet ist, der Klägerin die durch die Einreichung der Klage vom [Datum] entstandenen Kosten des Rechtsstreits als Verzugsschaden zu ersetzen.
+```
+
+Wenn das Gericht und die Aktenlage die kurze Tenorfassung tragen:
+
+```text
+Es wird festgestellt, dass die Beklagte die Kosten des Rechtsstreits zu tragen hat.
+```
+
+### Begründungsbaustein
+
+```text
+Die Klägerin hält an dem ursprünglichen Zahlungsantrag nicht mehr fest, weil die Beklagte die Hauptforderung nach Klageeinreichung erfüllt hat. Bei Einreichung der Klage befand sich die Beklagte jedoch aufgrund der Mahnung vom [Datum] und des fruchtlosen Fristablaufs am [Datum] in Verzug. Die Klage war deshalb zur zweckentsprechenden Rechtsverfolgung veranlasst. Die durch die Klageeinreichung entstandenen Kosten sind haftungsausfüllend kausal auf den Verzug zurückzuführen und nach §§ 280 Abs. 1 und 2, 286 BGB zu ersetzen. Die Klägerin ist nicht auf eine summarische Kostenentscheidung nach § 269 Abs. 3 Satz 3 ZPO oder § 91a ZPO beschränkt, weil diese Verfahren den materiell-rechtlichen Kostenerstattungsanspruch nicht mit gleicher Richtigkeitsgewähr klären.
+```
+
+## Fallstricke
+
+- **Verzug fehlt:** Ohne Verzug oder sonstige materiell-rechtliche Kostengrundlage bleibt nur das prozessuale Kostenregime.
+- **Zahlung war vor Klageeinreichung bekannt:** Dann ist die Klage möglicherweise nicht veranlasst; die Kostenfeststellungsklage wird gefährlich.
+- **Nur prozessuale Kostenformel beantragt:** Der Antrag muss als materiell-rechtlicher Feststellungsantrag verständlich sein, sonst rutscht das Gericht zurück in § 91a ZPO oder § 269 ZPO.
+- **Kosten doppelt geltend gemacht:** Keine bezifferte Leistungsklage auf Kosten so formulieren, dass daneben im Kostenfestsetzungsverfahren dieselben Kosten noch einmal auftauchen.
+- **Offene Beweisfragen:** Gerade wenn § 91a ZPO oder § 269 Abs. 3 Satz 3 ZPO wegen offener Beweisaufnahme zur Kostenaufhebung führen könnte, ist die materielle Kostenspur strategisch wertvoll.
+
+## Output
+
+Erzeuge ein kurzes Prozessstrategie-Memo mit:
+
+1. Zeitachse Anhängigkeit, Rechtshängigkeit und erledigendes Ereignis.
+2. Verzugslage und Klageveranlassung.
+3. Entscheidungsmatrix § 91a ZPO, § 269 Abs. 3 Satz 3 ZPO, Kostenfeststellungsklage.
+4. Empfohlenem Antrag.
+5. Ausformuliertem Schriftsatzbaustein.
+6. Haftungsnotiz für die Handakte.
 
 ---
 
@@ -1037,145 +1135,6 @@ Ausgabe als Markdown-Datei `demand-letters/[slug]/v[N].md`.
 - **Unterlassung ohne Abmahnung:** Im UWG/UrhG/MarkenG ist die Abmahnung (mit Unterlassungsaufforderung und Vertragsstrafe) zwingende Voraussetzung; ohne Abmahnung keine Kostenerstattung (§ 97a Abs. 1 UrhG).
 - **Güteantrag-Pflicht (§ 15a EGZPO):** In Bayern, Brandenburg, NRW und weiteren Ländern ist bei bestimmten Streitwerten ein Güteantrag vor Klageerhebung vorgeschrieben.
 - **Fristberechnung:** Fristende nicht auf Sonn- oder Feiertag setzen (§ 193 BGB).
-
----
-
-## Skill: `mahnschreiben-erhalten-aktualisierung`
-
-_Auf erhaltenes Mahnschreiben der Gegenseite reagieren: Widerspruch, Zahlungsplan oder Verjaebrungsaufschub. Normen: §§ 286 287 BGB, §§ 203 204 BGB. Prüfraster: Forderungsprüfung, Verjaebrungsrisiko, Verteidigungsoptionen. Output: Antwortschreiben auf Mahnschreiben. Abgrenzung: nicht Klageverteidi..._
-
-# Eingehendes Mahnschreiben / Abmahnung – Triage
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Triage — kläre vor der Auswertung
-
-1. **Schreibentyp:** Einfache Mahnung, Abmahnung (Wettbewerb/Urheberrecht), Forderungsschreiben eines Inkassos oder Klageankündigung?
-2. **Frist:** Enthalt das Schreiben eine Zahlungsfrist oder Reaktionsfrist — wann läuft sie ab?
-3. **Berechtigung:** Ist die behauptete Forderung dem Grunde und der Höhe nach berechtigt?
-4. **Portfolio-Abgleich:** Liegt bereits ein Mandat oder ein Konflikt zu diesem Sachverhalt vor?
-5. **Handlungspriorität:** Sofortige Reaktion (Unterlassung, Zahlung, Ablehnung) oder abwarten?
-
-## Zentrale Normen
-- § 286 BGB (Verzug durch Mahnung)
-- § 203 BGB (Verjährungshemmung durch Verhandlungen)
-- § 8 Abs. 1 UWG (Abmahnung im Wettbewerbsrecht)
-- § 97a UrhG (Abmahnung im Urheberrecht)
-- § 43a Abs. 1 BRAO (Interessenkonflikt bei eingehenden Forderungen)
-
-## Rechtsprechung (ergänzt)
-1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Eingaben
-
-- Hochgeladenes oder einzufügendes Schreiben (Text, Scan, PDF)
-- Optional: `--slug=custom-slug` für eigenes Aktenzeichen
-
-## Ablauf
-
-1. **Feldextraktion:**
- - Absender (Name, Kanzlei, Anschrift)
- - Empfänger (Mandant / Gesellschaft)
- - Datum des Schreibens
- - Aktenzeichen / Referenz des Absenders
- - Art des Schreibens (Mahnung, Abmahnung, Klagedrohung, Aufforderung zur Unterlassung, C&D-Äquivalent)
- - Geldforderung (Betrag, Währung, Fälligkeitsdatum)
- - Anspruchsgrundlage (soweit angegeben)
- - Gesetzte Frist (Datum extrahieren; wenn "2 Wochen ab Zugang" oder ähnlich: Frist anhand des Schreibdatums + Postlaufzeit schätzen)
-
-2. **Portfolio-Abgleich:** Prüfen, ob zu Absender / Sachverhalt bereits ein Mandat in `mandate/_log.yaml` existiert. Wenn ja: Verknüpfung herstellen und History-Update vorschlagen.
-
-3. **Berechtigungsprüfung (Kurzanalyse):**
- - Besteht das behauptete Schuldverhältnis dem Grunde nach?
- - Ist die Forderung bezifferbar und plausibel?
- - Sind Verjährungseinwände (§§ 195, 199 BGB) offensichtlich möglich?
- - Stehen Gegenansprüche (Aufrechnung § 387 BGB, Zurückbehaltungsrecht § 273 BGB) im Raum?
- - Besteht Verdacht auf unberechtigte Abmahnung (§ 8c UWG, § 97a Abs. 4 UrhG)?
- - Ist die Abmahnung formell vollständig (Unterlassungserklärung, Vertragsstrafe, Vollmacht)?
-
-4. **Risikoeinschätzung:** Ampelschema:
- - 🔴 Hohe Berechtigung / akute Frist – sofortiger Handlungsbedarf
- - 🟡 Mittlere Berechtigung / prüfungsbedürftig
- - 🟢 Geringe Berechtigung / defensiv haltbar
-
-5. **Handlungsoptionen mit Empfehlung:**
- - (a) Zahlung / Erfüllung (mit Vorbehalten)
- - (b) Modifizierte Unterlassungserklärung (bei Abmahnung)
- - (c) Abwehr / Zurückweisung mit Begründung
- - (d) Verhandlung / Vergleichsgespräch
- - (e) Schutzschrift hinterlegen (§ 945a ZPO) bei Gefahr einstweiliger Verfügung
- - (f) Mandat-Intake → neues Mandat anlegen
-
-6. **Fristen-Alarm:**
- - Antwortfrist aus Schreiben extrahieren und als absolute Frist eintragen
- - Verjährungshemmung durch Verhandlung (§ 203 BGB) oder Mahnbescheid (§ 204 Abs. 1 Nr. 3 BGB) als Optionen nennen
-
-7. **Datei speichern:** `inbound/[JJJJ-MM-TT]-[slug].md`
-
-## Quellen und Zitierweise
-
-Verbindlich: `../references/zitierweise.md`.
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Köhler, in: Köhler/Bornkamm/Feddersen, UWG, 43. Aufl. 2025, § 8c Rn. 5 ff. (missbräuchliche Abmahnung).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-
-## Ausgabeformat
-
-```
-EINGEHENDES SCHREIBEN – TRIAGE-BERICHT
-Slug: [automatisch generiert]
-Datum Eingang: TT.MM.JJJJ
-Absender: [Kanzlei / Gläubiger]
-Art: [Mahnung | Abmahnung | Klagedrohung]
-
-──────────────────────────────────────
-KERNFELDER
-──────────────────────────────────────
-Forderungsbetrag: EUR X.XXX,XX
-Anspruchsgrundlage: § 280 Abs. 1, 3, § 281 BGB
-Frist gesetzt bis: TT.MM.JJJJ
-Konsequenz: Klageandrohung
-
-──────────────────────────────────────
-RISIKOEINSCHÄTZUNG: 🟡 MITTEL
-──────────────────────────────────────
-Begründung: Forderung dem Grunde nach plausibel;
-Zugang der Fristsetzung unklar; Verjährung prüfen.
-
-──────────────────────────────────────
-HANDLUNGSOPTIONEN
-──────────────────────────────────────
-Empfehlung: (c) Abwehr – fehlender Verjährungsverzicht
-Alternativen: (d) Verhandlung, (e) Schutzschrift
-
-──────────────────────────────────────
-FRISTEN
-──────────────────────────────────────
-⚠️ Antwortfrist: TT.MM.JJJJ
-📅 Verjährungsende: 31.12.JJJJ (§§ 195, 199 BGB)
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Risiken / typische Fehler
-
-- **Fristüberschreitung:** Bei Abmahnungen im UWG/UrhG ist die Frist oft sehr kurz (3–10 Tage); plug-in markiert Schreiben mit kurzem Frist-Alert.
-- **Schutzschrift vergessen:** Bei drohender einstweiliger Verfügung (z. B. Wettbewerbsrecht, Markenrecht) sofortige Schutzschrift-Hinterlegung im Zentralen Schutzschriftenregister (ZSSR, § 945a ZPO) erwägen.
-- **Kostenfalle § 93 ZPO:** Wenn Berechtigung klar, Zahlung / Unterlassungserklärung vor Klagezustellung prüfen; sonst trägt Beklagter Kosten trotz sofortigem Anerkenntnis.
-- **Unvollständige Vollmacht:** Abmahnung ohne beigefügte Vollmacht ist zurückweisbar (§ 174 BGB); Zurückweisung unverzüglich erklären.
 
 ---
 

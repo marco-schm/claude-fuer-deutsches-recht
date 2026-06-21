@@ -1,6 +1,6 @@
 # betaeubungsmittelrecht
 
-**125 Skills** · Stand `v364.0.0`
+**125 Skills** · Stand `v368.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/betaeubungsmittelrecht/README.md)

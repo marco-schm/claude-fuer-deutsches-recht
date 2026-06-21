@@ -7,13 +7,13 @@ Dieser Megaprompt enthaelt top-8 von 129 Skills (gekuerzt fuer Chat-Fenster) des
 ## Inhaltsverzeichnis
 
 1. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt …
-2. **abmahnung-pruefen-datenbankrecht** — Prüfung einer erhaltenen Datenbankrechts-Abmahnung: Berechtigungs-Check des Abmahnenden (§ 87a Abs. 2 UrhG), Verletzungs…
-3. **agb-auskunft-rechnungslegung** — Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: § 307 BGB-Inhaltskontrolle für Nutzungsverbote, Scraping-…
-4. **agrar-logistik-cyberincident** — Datenbankrecht für Agrar- und Sensordaten: §§ 87a-87e UrhG für Präzisionslandwirtschaftsdatenbanken und IoT-Sensornetzwe…
-5. **api-nutzung-rate-limits-und-vertragsbruch** — Prüft die rechtliche Bewertung von API-Nutzung im Datenbankkontext: Vertragsbruch bei Überschreitung von Rate-Limits ode…
-6. **auskunft-rechnungslegung-schadensschaetzung** — Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht nach §§ 97 101 UrhG: Dreigliedrige Schadensberechnung …
-7. **b2b-kundendaten-datenbank-insolvenz-als** — Analysiert Datenbankherstellerrecht (§§ 87a-87e UrhG) und GeschGehG bei CRM-Datenbankexporten durch ausscheidende Mitarb…
-8. **backup-export-und-vendor-lock** — Datenbankrecht bei Backup-Rechten, Datenexport und Vendor-Lock-in: § 87c UrhG erlaubte Entnahmen für rechtmäßige Nutzer,…
+2. **policy-db-abschlussmemo** — Erstellung und Prüfung unternehmensinterner Compliance-Richtlinien für den Umgang mit fremden und eigenen Datenbanken: §…
+3. **abmahnung-pruefen-datenbankrecht** — Prüfung einer erhaltenen Datenbankrechts-Abmahnung: Berechtigungs-Check des Abmahnenden (§ 87a Abs. 2 UrhG), Verletzungs…
+4. **agb-auskunft-rechnungslegung** — Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: § 307 BGB-Inhaltskontrolle für Nutzungsverbote, Scraping-…
+5. **agrar-logistik-cyberincident** — Datenbankrecht für Agrar- und Sensordaten: §§ 87a-87e UrhG für Präzisionslandwirtschaftsdatenbanken und IoT-Sensornetzwe…
+6. **api-nutzung-rate-limits-und-vertragsbruch** — Prüft die rechtliche Bewertung von API-Nutzung im Datenbankkontext: Vertragsbruch bei Überschreitung von Rate-Limits ode…
+7. **auskunft-rechnungslegung-schadensschaetzung** — Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht nach §§ 97 101 UrhG: Dreigliedrige Schadensberechnung …
+8. **b2b-kundendaten-datenbank-insolvenz-als** — Analysiert Datenbankherstellerrecht (§§ 87a-87e UrhG) und GeschGehG bei CRM-Datenbankexporten durch ausscheidende Mitarb…
 
 ---
 
@@ -56,6 +56,78 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 ## Fachlicher Anker — Datenbankrecht
 
 Tragende Anker: UrhG §§ 87a ff., Richtlinie 96/9/EG, Data Act. Tatsächliche Fundstellen werden über dejure.org, openJur, gesetze-im-internet.de, BGH-/BVerfG-/EuGH-/EuG-Datenbank live geprüft und nicht aus Modellwissen finalisiert.
+
+---
+
+## Skill: `policy-db-abschlussmemo`
+
+_Erstellung und Prüfung unternehmensinterner Compliance-Richtlinien für den Umgang mit fremden und eigenen Datenbanken: §§ 87a-87e UrhG (Herstellerrecht), § 4 UrhG (Datenbankwerk), RL 96/9/EG, TDM-Schranken §§ 44b und 60d UrhG, Data Act 2023/2854. Mandant benötigt eine rechtssichere Data-Governance-P..._
+
+# Datenbankrecht Compliance-Policy: Data Governance, Freigabeverfahren, Schulung
+
+## Arbeitsbereich
+
+Erstellung und Prüfung unternehmensinterner Compliance-Richtlinien für den Umgang mit fremden und eigenen Datenbanken: §§ 87a-87e UrhG (Herstellerrecht), § 4 UrhG (Datenbankwerk), RL 96/9/EG, TDM-Schranken §§ 44b, 60d UrhG, Data Act 2023/2854. Mandant benötigt eine rechtssichere Data-Governance-Policy, Nutzungsgenehmigungsverfahren, Schulungskonzept und internes Audit-Framework. Output: Policy-Entwurf, Freigabe-Workflow, Checkliste für Einkauf und IT. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: UrhG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Mandantenfall
+
+- Ein Softwareunternehmen möchte eine unternehmensweite Richtlinie für den Zugriff auf externe Datenbanken und Daten-Feeds einführen, nachdem eine Abmahnung wegen unbefugten Scrapings eingegangen ist.
+- Ein Konzern führt eine M&A-Integration durch und muss sicherstellen, dass die übernommene Datenbank-Nutzungspraxis des Targets mit den eigenen Compliance-Standards vereinbar ist.
+- Ein Forschungsinstitut erstellt nach Förderauflagen eine Open-Data-Policy und muss das Verhältnis zwischen eigenen Datenbankrechten und Open-Access-Verpflichtungen klären.
+
+## Erste Schritte
+
+1. **Bestandsaufnahme Datenbanknutzung**: Inventarisierung aller genutzten externen Datenbanken, APIs, Daten-Feeds und Scraping-Prozesse; Erfassung vorhandener Lizenzverträge, Nutzungsbedingungen und interner Zugangstechnik.
+2. **Rechtliche Risikoklassifizierung**: Jede Datenquelle nach Schutzstatus bewerten (Datenbankwerk § 4 UrhG, Herstellerrecht §§ 87a-87e UrhG, keine Schutzfähigkeit) und Nutzungsumfang gegen erlaubte Schranken prüfen (§§ 44b, 60d UrhG, eigene Lizenz).
+3. **Freigabe-entwerfen**: Mehrstufiges Genehmigungsverfahren: (a) IT prüft technische Zugriffsmethode, (b) Legal prüft Schutzstatus und Lizenzabdeckung, (c) Freigabe durch Data-Owner dokumentiert in einem zentralen Register.
+4. **Policy-Entwurf erstellen**: Gliederung mit Geltungsbereich, Definitionen (Datenbank, wesentliche Entnahme, TDM), verbotene Handlungen, erlaubte Nutzung, Meldepflichten intern, Sanktionen bei Verstoß.
+5. **Schulungskonzept**: Awareness-Training für IT, Produkt, Einkauf und Legal; Fallbeispiele aus EuGH-Rechtsprechung (BHB/William Hill C-203/02, Innoweb/Wegener C-202/12); jährliche Auffrischung.
+6. **Audit-Mechanismus**: Quartalsweise Stichproben aus Zugriffslogs; jährliche Vollprüfung durch Internal Audit; externe Rechtsanwaltsprüfung alle zwei Jahre.
+
+## Rechtsrahmen
+
+- **§ 87b Abs. 1 UrhG** — Verbot der Entnahme oder Weiterverwendung wesentlicher Teile der Datenbank ohne Zustimmung; Grundlage für interne Verbotskatalog der Policy.
+- **§ 44b UrhG** — Text-und-Data-Mining als Schranke: erlaubt für alle Nutzer, sofern Rightsholders kein maschinenlesbares Opt-out gesetzt haben; Policy muss Opt-out-Prüfpflicht abbilden.
+- **§ 60d UrhG** — TDM für wissenschaftliche Forschung: privilegiert, aber nur nicht-kommerzielle Zwecke; Policy für Forschungseinrichtungen muss Zweckbindung sicherstellen.
+- **Art. 6 RL 96/9/EG** — Rechtmäßiger Nutzer darf unwesentliche Teile entnehmen; vertragliche Einschränkungen dieser Schranke sind unwirksam.
+- **Data Act VO 2023/2854, Art. 4-6** — Zugangs- und Weitergaberechte für IoT-generierte Daten; Policy muss Data-Act-Pflichten bei vernetzten Produkten abdecken.
+- **§ 307 BGB** — AGB-Kontrolle für in der Policy enthaltene Beschränkungen gegenüber Mitarbeitern und Lieferanten; unangemessene Benachteiligung ist unwirksam.
+
+## Prüfraster
+
+- Sind alle externen Datenquellen im zentralen Datenbankregister erfasst und mit Schutzstatus versehen?
+- Existiert für jede Quelle eine schriftliche Lizenz oder eine dokumentierte Schrankenprüfung (§§ 44b, 60d UrhG)?
+- Ist der Freigabe-klar definiert (wer genehmigt was, in welcher Frist, wie dokumentiert)?
+- Bildet die Policy die Opt-out-Prüfpflicht nach § 44b Abs. 3 UrhG ab (robots.txt, maschinenlesbarer Hinweis)?
+- Sind Sanktionen bei Policy-Verstößen (Abmahnung, Kündigung, Kostenerstattung) arbeitsrechtlich wirksam vereinbart?
+- Wird die Policy mindestens jährlich auf neue Rechtsentwicklungen (EuGH-Urteile, Gesetzesänderungen) aktualisiert?
+- Ist ein Eskalationspfad für Zweifelsfälle und Drittansprüche (Abmahnung, einstweilige Verfügung) definiert?
+- Deckt die Policy auch die eigenen Datenbanken des Unternehmens ab (Schutz nach außen, Lizenzierung, Durchsetzung)?
+
+## Typische Fallstricke
+
+- **Shadow-IT-Lücken**: Fachbereiche greifen ohne Legal-Freigabe auf externe Daten-APIs zu; Policy muss explizit auch inoffizielle Tools (Browser-Extensions, No-Code-Plattformen) erfassen.
+- **Schranken-Irrtum**: Mitarbeiter glauben, öffentlich zugängliche Daten seien frei verwendbar; Policy muss klar stellen, dass Öffentlichkeit keinen Schutz aufhebt.
+- **Opt-out ignoriert**: TDM-Schranke (§ 44b UrhG) gilt nicht, wenn der Rechtsinhaber ein maschinenlesbares Opt-out gesetzt hat; fehlende robots.txt-Prüfroutine ist Compliance-Lücke.
+- **Veraltete Lizenzregister**: Datenbanklizenzen laufen ab oder ändern sich; ohne Ablaufdaten im Register entstehen unbemerkt Rechtsverletzungen.
+- **Fehlende Mitarbeiterkommunikation**: Eine Policy ohne Schulung und Awareness ist im Streitfall schwer als wirksam durchgesetzt nachzuweisen.
+
+## Quellen
+
+- [§ 87b UrhG — Rechte des Datenbankherstellers (gesetze-im-internet.de)](https://www.gesetze-im-internet.de/urhg/__87b.html)
+- [§ 44b UrhG — Text und Data Mining (gesetze-im-internet.de)](https://www.gesetze-im-internet.de/urhg/__44b.html)
+- [§ 60d UrhG — TDM für Wissenschaft (gesetze-im-internet.de)](https://www.gesetze-im-internet.de/urhg/__60d.html)
+- [RL 96/9/EG — Datenbankrichtlinie (eur-lex.europa.eu)](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+- [Data Act VO 2023/2854 (eur-lex.europa.eu)](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32023R2854)
+- [EuGH C-202/12 Innoweb/Wegener — Meta-Suchdienst als Entnahme (curia.europa.eu)](https://curia.europa.eu/juris/liste.jsf?num=C-202/12)
 
 ---
 
@@ -582,73 +654,6 @@ _Analysiert Datenbankherstellerrecht (§§ 87a-87e UrhG) und GeschGehG bei CRM-D
 - [§ 241 BGB — dejure.org](https://dejure.org/gesetze/BGB/241.html)
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
 - [GeschGehG — gesetze-im-internet.de](https://www.gesetze-im-internet.de/geschgehg/index.html)
-
----
-
-## Skill: `backup-export-und-vendor-lock`
-
-_Datenbankrecht bei Backup-Rechten, Datenexport und Vendor-Lock-in: § 87c UrhG erlaubte Entnahmen für rechtmäßige Nutzer, vertragliche Backup-Klauseln, Data Act Art. 17 Wechselrecht, Exportformat-Anforderungen und rechtliche Mittel gegen Lock-in-Strategien. Bewertet AGB-Wirksamkeit von Export-Verb..._
-
-# Backup, Export und Vendor-Lock-in — Datenbankrecht und Datenmitnahme
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: UrhG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Mandantenfall
-
-- Unternehmen hat entdeckt, dass sein Datenbankdienstleister in den AGB den Export der Daten in maschinenlesbarer Form ausschließt — ist das wirksam?
-- SaaS-Anbieter verlangt nach Vertragsende eine hohe Gebühr für den Datenexport — darf er das und was sind die rechtlichen Mittel dagegen?
-- IT-Leiter fragt, welche Vertragsklauseln beim Abschluss eines neuen Datenbankvertrags verhindern, dass das Unternehmen an einen Anbieter gebunden bleibt.
-
-## Erste Schritte
-
-1. Backup-Recht nach § 87c UrhG prüfen: Erlaubte Handlungen für rechtmäßige Datenbanknutzer — ist eine Sicherungskopie zulässig?
-2. Vertragliche Export-Klausel analysieren: Verbietet die AGB den Datenexport — ist das Verbot nach § 307 BGB angemessen?
-3. Data Act Art. 17 anwenden: Wechselrecht ab September 2025 — Anbieter müssen Datenmigration ohne unverhältnismäßige Hürden ermöglichen.
-4. Exportformat-Standard prüfen: Offenes, maschinenlesbares Format erforderlich — proprietäre Formate können Lock-in begründen.
-5. Gebühr für Export bewerten: Angemessene Gebühr nach Data Act Art. 17 zulässig, aber unverhältnismäßige Exportgebühren sind verboten.
-6. Vertragsgestaltung für neuen Datenbankvertrag: Exit-Klausel mit Exportpflicht, Format-Anforderungen, Löschpflicht nach Herausgabe.
-
-## Rechtsrahmen
-
-- § 87c UrhG: Erlaubte Handlungen — rechtmäßige Nutzer dürfen Teile einer Datenbank für zulässige Zwecke nutzen; Sicherungskopie analog.
-- § 307 BGB: AGB-Wirksamkeit von Export-Verboten — totalem Datenexport-Verbot widerspricht berechtigtem Interesse des Nutzers.
-- Data Act VO 2023/2854 Art. 17: Wechselrecht — keine unverhältnismäßigen technischen oder wirtschaftlichen Hürden bei Anbieterwechsel.
-- DSGVO Art. 20: Datenportabilität — gilt für personenbezogene Verbraucherdaten; kostenloses, strukturiertes Format.
-- § 314 BGB: Außerordentliche Kündigung bei Verweigerung des Datenexports als wesentlicher Vertragspflicht.
-- § 93 UrhG analog: Schutz gegen wesentliche Änderungen oder Vernichtung des Datenbankwerks.
-
-## Prüfraster
-
-- Schließen AGB den Datenexport vollständig aus — ist das nach § 307 BGB unverhältnismäßig benachteiligend?
-- Besteht nach Data Act Art. 17 ein gesetzliches Wechselrecht — gilt die VO für den betreffenden Dienst?
-- Hat der Nutzer ein Recht auf Backup nach § 87c UrhG oder vertraglich?
-- Verlangt der Anbieter für den Export eine unangemessene Gebühr (> echte Kosten)?
-- Stellt der Anbieter Daten in einem offenen Format bereit oder bindet er durch proprietäre Formate?
-- Enthält der bestehende Vertrag eine Exit-Klausel mit Exportpflicht, und ist diese vollstreckbar?
-- Umfasst der Export auch Metadaten, Konfigurationsdaten und Datenbankstruktur — oder nur Rohdaten?
-
-## Typische Fallstricke
-
-- AGB-Klauseln, die Datenexport gegen Entgelt erlauben, aber mit unangemessenen Gebühren belasten, sind nach § 307 BGB anfechtbar.
-- Data Act Art. 17 Wechselrecht gilt erst ab September 2025 — für bestehende Verträge muss vertragliche Grundlage geprüft werden.
-- Proprietäre Exportformate können faktisch den Datenwechsel verhindern, obwohl rechtlich ein Herausgabeanspruch besteht.
-- Backup von Datenbankstrukturen ohne Genehmigung kann Herstellerrecht verletzen, wenn keine vertragliche Erlaubnis oder § 87c-Schranke eingreift.
-- Löschpflicht nach Export — der alte Anbieter hat kein Recht, eine Kopie der Kundendaten nach Herausgabe zu behalten.
-
-## Quellen
-
-- [§ 87c UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87c.html)
-- [§ 307 BGB — dejure.org](https://dejure.org/gesetze/BGB/307.html)
-- [Data Act VO 2023/2854 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32023R2854)
-- [DSGVO Art. 20 — dejure.org](https://dejure.org/gesetze/DSGVO/20.html)
-- [§ 314 BGB — dejure.org](https://dejure.org/gesetze/BGB/314.html)
-- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
 
 ---
 

@@ -805,6 +805,8 @@ Die Kosten des Rechtsstreits traegt der Beklagte (Paragraf 91a I 1 ZPO).
 
 > **Achtung — abgrenzende Konstellation**: Bei **einseitiger** Erledigungserklärung, der die Gegenseite **widerspricht**, ist der Streitgegenstand gewandelt zur Feststellung der Erledigung. Darüber wird **durch Urteil** entschieden (nicht durch Beschluss nach Paragraf 91a ZPO), mit Tenor "Es wird festgestellt, dass die Hauptsache erledigt ist" und voller Kostenentscheidung nach Paragraf 91 ZPO. Tenor und Urteilsbegründung gehören dann nicht in diesen Beschluss-Skill, sondern in `tenor-bauen-zivil` und `entscheidungsgruende-zivil-schreiben`.
 
+> **Weitere Abgrenzung — materielle Kostenfeststellungsklage**: Fällt der Klageanlass vor Rechtshängigkeit weg und stützt die Klägerseite die Kosten auf Verzugsschaden nach §§ 280, 286 BGB, ist das nicht bloß ein Erledigungsbeschluss. Dann geht es um einen materiell-rechtlichen Feststellungsantrag, etwa "Es wird festgestellt, dass die Beklagte die Kosten des Rechtsstreits zu tragen hat." Die Entscheidung ergeht durch Urteil oder Versäumnisurteil, nicht durch Beschluss nach § 91a ZPO. BGH, Urteil vom 18.04.2013 - III ZR 156/12, und OLG Karlsruhe, Urteil vom 20.05.2026 - 7 U 173/25, vor Verwendung anhand frei zugänglicher Fundstelle prüfen.
+
 ## 4) Begründungsmuster
 
 ### PKH — Erfolgsaussicht und Bedürftigkeit
@@ -860,8 +862,9 @@ gegeben.
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. **Streitwertbeschluss zu spaet.** Festsetzung bis zur nächsten Instanz möglich, aber meist mit Urteil/Endbeschluss (Paragraf 63 II GKG).
 5. **Erledigungsbeschluss ohne Begründung der Kostenentscheidung.** Paragraf 91a ZPO verlangt billiges Ermessen; mindestens kurze Begründung der Kostenquote.
-6. **Rechtsmittelbelehrung falsch.** Bei sofortiger Beschwerde 2 Wochen ab Zustellung; bei Einspruch gegen Versäumnisbeschluss 2 Wochen ab Zustellung; bei Beschwerde gegen Streitwertfestsetzung 6 Monate ab Festsetzung (Paragraf 68 GKG).
-7. **Unterschriften fehlen.** Bei Kammer-Beschluss alle drei Richter. Bei Verhinderung Vermerk "für den an der Unterschrift verhinderten Richter [Name] gemäß Paragraf 315 ZPO".
+6. **Kostenfeststellungsklage als § 91a-Beschluss fehlbehandelt.** Wenn die Klägerseite nach Zahlung vor Rechtshängigkeit auf materiell-rechtliche Kostenerstattung als Verzugsschaden umgestellt hat, muss ein Urteil über den Feststellungsantrag gebaut werden; der Rechtspfleger-Kostenfestsetzungsweg nach §§ 103, 104 ZPO kommt erst nach Kostengrundtitel.
+7. **Rechtsmittelbelehrung falsch.** Bei sofortiger Beschwerde 2 Wochen ab Zustellung; bei Einspruch gegen Versäumnisbeschluss 2 Wochen ab Zustellung; bei Beschwerde gegen Streitwertfestsetzung 6 Monate ab Festsetzung (Paragraf 68 GKG).
+8. **Unterschriften fehlen.** Bei Kammer-Beschluss alle drei Richter. Bei Verhinderung Vermerk "für den an der Unterschrift verhinderten Richter [Name] gemäß Paragraf 315 ZPO".
 
 ## 7) Schnellprüfung vor Versand
 

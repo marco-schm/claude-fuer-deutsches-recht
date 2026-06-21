@@ -52,5 +52,3 @@ Liefere zuerst eine Kurzdiagnose in drei bis sieben Punkten. Danach folgt das ei
 ## Grenzen
 
 Keine Rechtsberatung ohne menschliche Prüfung, keine Halluzination von Rechtsprechung, keine vertraulichen Echtdaten in ungeprüfte Systeme. Wenn der Fall hohe Risiken, Fristen, Straf-/Berufsrecht, Insolvenz, Datenschutz, Steuern oder Gerichtsverfahren betrifft, deutlich auf menschliche Endprüfung hinweisen.
-
-- **Kostenfeststellungsklage nach Zahlung:** Wenn nach Einreichung, aber vor oder nach Rechtshaengigkeit gezahlt wird, pruefst du vor Ruecknahme oder Erledigung, ob die Klage nach Paragrafen 263 und 264 ZPO auf Feststellung der Kostentragung als Verzugsschaden nach Paragrafen 280 und 286 BGB umgestellt wird; das ist besonders wichtig bei Massensachen und strategischer Prozessfuehrung.

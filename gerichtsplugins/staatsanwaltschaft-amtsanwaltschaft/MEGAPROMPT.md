@@ -51,6 +51,10 @@ Deutsch, behoerdenformell. Keine Umgangssprache. Klare Subsumtion (Obersatz, Def
 22. **22-strafvollstreckung-paragraf-451** — Vollstreckung durch die Staatsanwaltschaft, Ladung, Aufschub.
 23. **23-klageerzwingung-und-beschwerdebescheid-paragraf-172** — Bescheid und Klageerzwingungsverfahren.
 24. **24-abschlussverfuegung-und-entscheidungsvorschlag** — Abschlussverfuegung, Gesamtwuerdigung, Verfuegungstechnik.
+25. **25-adhaesionsverfahren-paragraf-403** — Adhaesionsantrag (Paragrafen 403 ff. StPO), Eignung zur Mitverhandlung, Abtrennung.
+26. **26-opferschutz-nebenklage-und-verletztenrechte** — Opferschutz (Paragrafen 406d ff. StPO), Nebenklage (Paragrafen 395 ff. StPO), psychosoziale Prozessbegleitung.
+27. **27-wiederaufnahme-zuungunsten-paragraf-362** — Wiederaufnahme zuungunsten (Paragraf 362 StPO), formale Anforderungen, ne bis in idem (Art. 103 Abs. 3 GG).
+28. **28-internationale-rechtshilfe-und-eu-haftbefehl** — EuHb (Paragrafen 78 ff. IRG), EEA (Paragrafen 91a ff. IRG), klassische Rechtshilfe (RiVASt).
 
 ## Ausgabeformat pro Schritt
 

@@ -10,8 +10,8 @@ Dieser Megaprompt enthaelt top-15 von 52 Skills des Plugins `lobbyregister-bunde
 2. **interessenvertretung-begriff-interne** — Prüft, ob eine Kontaktaufnahme unmittelbare oder mittelbare Einflussnahme auf Willensbildungs- oder Entscheidungsprozess…
 3. **lobbyregister-kommandocenter** — Master-Routing für Lobbyregister-Mandate: Pflichtcheck, Registrierung, Aktualisierung, Verhaltenskodex, Meldung, Sanktio…
 4. **intake-mandat-lobbyregister** — Erfasst Ausgangslage, Organisation, Kontaktplaene, Auftraggeber, Fristen und Portalstatus vor jeder Lobbyregister-Prüfun…
-5. **adressatenkreis-bundestag-bundesregierung** — Kartiert Adressatinnen und Adressaten nach § 1 LobbyRG: Bundestagsorgane, Mitglieder, Fraktionen, Gruppen, Mitarbeiter…
-6. **ausnahmen-bundesregierung-bundestag** — Prüft Ausnahmen bei Interessenvertretung gegenüber Bundesregierung und Ministerien nach § 2 Abs. 3 LobbyRG, einschließli…
+5. **ausnahmen-bundesregierung-bundestag** — Prüft Ausnahmen bei Interessenvertretung gegenüber Bundesregierung und Ministerien nach § 2 Abs. 3 LobbyRG, einschließli…
+6. **adressatenkreis-bundestag-bundesregierung** — Kartiert Adressatinnen und Adressaten nach § 1 LobbyRG: Bundestagsorgane, Mitglieder, Fraktionen, Gruppen, Mitarbeiter, …
 7. **betraute-personen-datenschutz** — Ermittelt Personen, die mit Interessenvertretung nicht nur bei Gelegenheit betraut sind und unmittelbar auftreten. Abgre…
 8. **freiwillige-registrierung-fremdmandat** — Berät zu freiwilliger Eintragung nach § 2 Abs. 5 LobbyRG: Rechte, volle Pflichten, Aktualisierung, Verhaltenskodex und B…
 9. **fruehere-interessenvertretung** — Führt durch Anzeige, dass keine registrierungspflichtige Interessenvertretung mehr betrieben wird, sowie Archivierung un…
@@ -520,6 +520,57 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ---
 
+## Skill: `ausnahmen-bundesregierung-bundestag`
+
+_Prüft Ausnahmen bei Interessenvertretung gegenüber Bundesregierung und Ministerien nach § 2 Abs. 3 LobbyRG, einschließlich Buergeranfragen, Sachverständigengremien und Ersuchen. Output Ausnahmeprüfung im Lobbyregister Bundestag._
+
+# Ausnahmen Bundesregierung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: § 3 LobbyRG Eintragung vor erster Interessenvertretung, § 5 LobbyRG jährliche Aktualisierung, Berichtspflicht ggf. innerhalb 3 Monaten nach Ende des Geschäftsjahres.
+- Tragende Normen verifizieren: LobbyRG §§ 1, 2, 3, 5, 6, 7, 8 (i.d.F. Reform 2024), Verhaltenskodex Lobbyregister, GOBT, BGleiG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Interessenvertreter, Bundestagsverwaltung (Lobbyregisterstelle), Geschäftsstelle, registrierte Verbände, Bundesregierung (zweiter Registerteil).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lobbyregistereintrag, Verhaltenskodex-Bestätigung, Tätigkeitsbericht, Hausausweisantrag, Finanzangaben, Verbandsmitgliederliste — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Gefuehrter Ablauf
+
+1. Sachverhalt in einem Satz zusammenfassen: Wer will mit wem worueber sprechen oder hat bereits gehandelt?
+2. Offizielle Quelle und Rechtsstand nennen: LobbyRG, Lobbyregister-FAQ, Handbuch oder Verhaltenskodex.
+3. Die folgenden Leitfragen nacheinander stellen und fehlende Angaben als offene Punkte markieren.
+4. Ergebnis nicht als Rechtsrat ausgeben, sondern als prueffaehige Arbeitsunterlage mit Annahmen, Belegen und naechster Portalaktion.
+
+## Ausnahmenkanon § 2 LobbyRG (Stand prüfen)
+
+- **§ 2 Abs. 2 LobbyRG — Tätigkeitsbezogene Ausnahmen:** u. a. Stellungnahmen aufgrund Beteiligung in Gesetzgebung (z. B. § 47 Abs. 3 GGO), Auskunft auf Verlangen von Bundestag/Bundesregierung, anwaltliche oder anwaltsähnliche Mandate in konkreten Verfahren, Sozialpartnerdialog, Petitionen.
+- **§ 2 Abs. 3 LobbyRG — Persönliche/strukturelle Ausnahmen:** Hauptkommunal/-länderebenen, Religionsgemeinschaften des öffentlichen Rechts, politische Parteien, einzelne Bürgeranfragen, Wissenschaftsbetrieb auf Forschungsbasis.
+- **§ 2 Abs. 1 LobbyRG — Registrierungsschwelle:** Eintragungspflicht bei regelmäßiger, auf Dauer angelegter, geschäftsmäßiger oder gegen Gegenleistung beauftragter Interessenvertretung sowie bei mehr als 30 unterschiedlichen Interessenvertretungskontakten in den jeweils letzten drei Monaten. Die alte 100.000-Euro-Schwelle nicht fortschreiben; aktuelle Fassung live prüfen.
+- **Wichtig:** Auch nicht eintragungspflichtige Interessenvertretung kann freiwillig registriert werden; dafür den aktuellen § 2 LobbyRG und den Pflichtkanon nach § 3 LobbyRG live prüfen, nicht die Definitionsnorm für Interessenvertreter als Freiwilligkeitsnorm zitieren.
+- **Strafe/Bußgeld:** Bei vorsätzlich falschen Angaben § 7 LobbyRG (bis 50.000 Euro); zusätzlich Verlust der Anhörungsmöglichkeit und Veröffentlichung im Register.
+
+## Leitfragen
+
+1. Welche Regierungsebene ist adressiert?
+2. Liegt ein individuelles Ersuchen um Daten oder Fachwissen vor?
+3. Ist die Taetigkeit Teil eines eingerichteten Expertengremiums?
+
+## Quellenanker
+
+- LobbyRG: https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html
+- Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-für-interessenvertreter-863572
+- Handbuch: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch
+- Leitplanken: ../../references/lobbyregister-leitplanken.md
+
+## Qualitaetsgate
+
+- Pflichtgrund, Ausnahme und freiwillige Registrierung werden getrennt.
+- Jede Frist bekommt Triggerdatum, Verantwortliche und Wiedervorlage.
+- Jede Portalangabe bekommt Quelle, Freigabe und offenen Pruefpunkt.
+- Unsichere Rechts- oder Tatsachenfragen werden nicht geglaettet, sondern sichtbar markiert.
+
+---
+
 ## Skill: `adressatenkreis-bundestag-bundesregierung`
 
 _Kartiert Adressatinnen und Adressaten nach § 1 LobbyRG: Bundestagsorgane, Mitglieder, Fraktionen, Gruppen, Mitarbeiter, Bundesregierung und Leitungsebenen bis Referatsleitung. Output Adressatenkarte im Lobbyregister Bundestag._
@@ -579,57 +630,6 @@ Reformfassung des LobbyRG durch das Gesetz zur Aenderung des Lobbyregistergesetz
 - LobbyRG (konsolidierte Fassung 2024): https://www.bundestag.de/resource/blob/991838/Konsolidierte-Fassung-LobbyRG-2024.pdf
 - LobbyRG bei gesetze-im-internet: https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html
 - Bundestag Hinweise zur Rechtslage ab 01.03.2024: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-zur-neuen-rechtslage-ab-dem-1-maerz-2024-955618
-- Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-für-interessenvertreter-863572
-- Handbuch: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch
-- Leitplanken: ../../references/lobbyregister-leitplanken.md
-
-## Qualitaetsgate
-
-- Pflichtgrund, Ausnahme und freiwillige Registrierung werden getrennt.
-- Jede Frist bekommt Triggerdatum, Verantwortliche und Wiedervorlage.
-- Jede Portalangabe bekommt Quelle, Freigabe und offenen Pruefpunkt.
-- Unsichere Rechts- oder Tatsachenfragen werden nicht geglaettet, sondern sichtbar markiert.
-
----
-
-## Skill: `ausnahmen-bundesregierung-bundestag`
-
-_Prüft Ausnahmen bei Interessenvertretung gegenüber Bundesregierung und Ministerien nach § 2 Abs. 3 LobbyRG, einschließlich Buergeranfragen, Sachverständigengremien und Ersuchen. Output Ausnahmeprüfung im Lobbyregister Bundestag._
-
-# Ausnahmen Bundesregierung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: § 3 LobbyRG Eintragung vor erster Interessenvertretung, § 5 LobbyRG jährliche Aktualisierung, Berichtspflicht ggf. innerhalb 3 Monaten nach Ende des Geschäftsjahres.
-- Tragende Normen verifizieren: LobbyRG §§ 1, 2, 3, 5, 6, 7, 8 (i.d.F. Reform 2024), Verhaltenskodex Lobbyregister, GOBT, BGleiG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Interessenvertreter, Bundestagsverwaltung (Lobbyregisterstelle), Geschäftsstelle, registrierte Verbände, Bundesregierung (zweiter Registerteil).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lobbyregistereintrag, Verhaltenskodex-Bestätigung, Tätigkeitsbericht, Hausausweisantrag, Finanzangaben, Verbandsmitgliederliste — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Gefuehrter Ablauf
-
-1. Sachverhalt in einem Satz zusammenfassen: Wer will mit wem worueber sprechen oder hat bereits gehandelt?
-2. Offizielle Quelle und Rechtsstand nennen: LobbyRG, Lobbyregister-FAQ, Handbuch oder Verhaltenskodex.
-3. Die folgenden Leitfragen nacheinander stellen und fehlende Angaben als offene Punkte markieren.
-4. Ergebnis nicht als Rechtsrat ausgeben, sondern als prueffaehige Arbeitsunterlage mit Annahmen, Belegen und naechster Portalaktion.
-
-## Ausnahmenkanon § 2 LobbyRG (Stand prüfen)
-
-- **§ 2 Abs. 2 LobbyRG — Tätigkeitsbezogene Ausnahmen:** u. a. Stellungnahmen aufgrund Beteiligung in Gesetzgebung (z. B. § 47 Abs. 3 GGO), Auskunft auf Verlangen von Bundestag/Bundesregierung, anwaltliche oder anwaltsähnliche Mandate in konkreten Verfahren, Sozialpartnerdialog, Petitionen.
-- **§ 2 Abs. 3 LobbyRG — Persönliche/strukturelle Ausnahmen:** Hauptkommunal/-länderebenen, Religionsgemeinschaften des öffentlichen Rechts, politische Parteien, einzelne Bürgeranfragen, Wissenschaftsbetrieb auf Forschungsbasis.
-- **§ 2 Abs. 1 LobbyRG — Registrierungsschwelle:** Eintragungspflicht bei regelmäßiger, auf Dauer angelegter, geschäftsmäßiger oder gegen Gegenleistung beauftragter Interessenvertretung sowie bei mehr als 30 unterschiedlichen Interessenvertretungskontakten in den jeweils letzten drei Monaten. Die alte 100.000-Euro-Schwelle nicht fortschreiben; aktuelle Fassung live prüfen.
-- **Wichtig:** Auch nicht eintragungspflichtige Interessenvertretung kann freiwillig registriert werden; dafür den aktuellen § 2 LobbyRG und den Pflichtkanon nach § 3 LobbyRG live prüfen, nicht die Definitionsnorm für Interessenvertreter als Freiwilligkeitsnorm zitieren.
-- **Strafe/Bußgeld:** Bei vorsätzlich falschen Angaben § 7 LobbyRG (bis 50.000 Euro); zusätzlich Verlust der Anhörungsmöglichkeit und Veröffentlichung im Register.
-
-## Leitfragen
-
-1. Welche Regierungsebene ist adressiert?
-2. Liegt ein individuelles Ersuchen um Daten oder Fachwissen vor?
-3. Ist die Taetigkeit Teil eines eingerichteten Expertengremiums?
-
-## Quellenanker
-
-- LobbyRG: https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html
 - Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-für-interessenvertreter-863572
 - Handbuch: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch
 - Leitplanken: ../../references/lobbyregister-leitplanken.md

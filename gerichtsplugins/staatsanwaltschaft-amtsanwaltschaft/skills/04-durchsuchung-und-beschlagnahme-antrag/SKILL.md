@@ -40,8 +40,8 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 2 BvR 1444/00: Gefahr im Verzug ist eng auszulegen und mit Tatsachen zu begruenden; die Eilkompetenz der Staatsanwaltschaft ist die Ausnahme, der Richtervorbehalt die Regel.
-- BVerfG 2 BvR 1027/02: Durchsuchungen unterliegen strengen Anforderungen an Bestimmtheit und Verhaeltnismaessigkeit; vor Verwendung Aktenzeichen verifizieren.
+- BVerfG 2 BvR 1444/00 (Urteil vom 20.02.2001, BVerfGE 103, 142): Gefahr im Verzug ist eng auszulegen und mit Tatsachen zu begruenden; die Eilkompetenz der Staatsanwaltschaft ist die Ausnahme, der Richtervorbehalt die Regel.
+- BVerfG 2 BvR 1027/02 (Beschluss vom 12.04.2005, BVerfGE 113 29 - NJW 2005 1917): Bei Durchsuchung, Sicherstellung und Beschlagnahme von Datentraegern ist der Zugriff auf fuer das Verfahren bedeutungslose Informationen im Rahmen des Vertretbaren zu vermeiden; bei schwerwiegenden, bewussten oder willkuerlichen Verstoessen kommt ein Beweisverwertungsverbot in Betracht.
 - Der Durchsuchungsbeschluss muss Tatvorwurf, gesuchte Beweismittel und Durchsuchungsziel so umgrenzen, dass die Massnahme messbar bleibt (st. Rspr., Aktenzeichen vor Verwendung verifizieren).
 
 ## Pruefungsschema in Stufen

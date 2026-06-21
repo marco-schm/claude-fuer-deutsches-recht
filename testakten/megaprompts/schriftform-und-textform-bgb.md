@@ -26,7 +26,7 @@ Dieser Megaprompt enthaelt top-15 von 59 Skills des Plugins `schriftform-und-tex
 
 ## Skill: `einstieg-routing`
 
-_Einstieg, Triage und Routing für Schriftform/Textform BGB: ordnet Rolle (Vertragsparteien), markiert Frist (Form vor Wirksamkeit), wählt Norm (§§ 126/126a, 126b BGB, § 127 BGB, § 130 BGB Zugang) und Zuständigkeit (Zivilgerichte), leitet zum passenden Spezial-Skill._
+_Einstieg, Triage und Routing für Schriftform/Textform BGB: ordnet Rolle (Vertragsparteien), markiert Frist (Form vor Wirksamkeit), wählt Norm (§§ 126/126a und 126b BGB, § 127 BGB, § 130 BGB Zugang) und Zuständigkeit (Zivilgerichte), leitet zum passenden Spezial-Skill._
 
 # Einstieg und Routing
 
