@@ -1,3 +1,21 @@
+# v360.0.0 — Gerichts-Plugins fachlich angereichert
+
+Die experimentellen Gerichts-Plugins unter `_GERICHTE_EXPERIMENTAL/` wurden fachlich vertieft, ohne Megaprompts oder Miniprompts zu veraendern.
+
+## Inhalt
+
+- 140 `SKILL.md` in den 13 Gerichts-Plugins um fuenf Abschnitte erweitert: Anker-Rechtsprechung, Pruefungsschema in Stufen, typische Fallstricke, Tenor- beziehungsweise Beschluss-Bausteine und benachbarte Skills.
+- Richterliche Arbeitsprodukte konkreter gemacht: Hinweise, Beweisbeschluesse, Eilbeschluesse, Urteile, Registerverfuegungen, sozial- und finanzgerichtliche Beschluesse sowie BVerfG-Kammerentwuerfe.
+- Aktengeheimnis und Amtsverschwiegenheit bleiben in jedem erweiterten Skill ausdruecklich als Grenze benannt.
+- Versions-Bump aller Plugins und Uebersichten auf 360.0.0; `SKILLS.md` und Unified Mini Prompts wurden neu generiert.
+
+## Sanity
+
+- `validate-yaml-frontmatter` und `validate-plugin-structure` laufen gruen.
+- Alle 140 Gerichts-Skills enthalten die fuenf neuen Pflichtabschnitte.
+
+---
+
 # v359.0.0 — Neuer Ordner `_GERICHTE_EXPERIMENTAL` mit 13 experimentellen Gerichts-Plugins
 
 Neues Experiment: 13 Plugins, die einen Richter, eine Richterin oder einen wissenschaftlichen Mitarbeiter im jeweiligen Rechtsgebiet abbilden. Alle Plugins liegen im neuen Ordner `_GERICHTE_EXPERIMENTAL/` und sind ausdruecklich als Experiment markiert.

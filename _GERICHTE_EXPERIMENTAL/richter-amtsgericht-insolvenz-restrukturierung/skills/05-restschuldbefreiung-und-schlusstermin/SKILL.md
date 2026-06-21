@@ -36,3 +36,49 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 - Aktengeheimnis pruefen (Paragraf 353b StGB, Paragraf 43 DRiG).
 - KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
 - Revisionssicher dokumentieren.
+
+## Anker-Rechtsprechung
+
+- BGH IX ZR 285/14 (26.01.2017): Zahlungsunfaehigkeit ist aus Liquiditaetsstatus und Liquiditaetsluecke konkret herzuleiten.
+- BGH IX ZR 65/14 (12.05.2016): Vorsatzanfechtung verlangt tragfaehige Indizien fuer Kenntnis und Benachteiligungsvorsatz.
+- BVerfG 1 BvR 135/00 (03.08.2004): Insolvenzgerichtliche Eingriffe in Vermoegen und Berufsausuebung brauchen gesetzliche Grundlage und Verhaeltnismaessigkeit.
+- BGH IX ZB 219/10 (19.09.2013): Auswahl und Kontrolle des Insolvenzverwalters muessen nachvollziehbar und am Verfahrenserfolg orientiert sein.
+
+## Pruefungsschema in Stufen
+
+1. Antrag, Antragsbefugnis und Glaubhaftmachung feststellen.
+   - Verdichte den Aktenstoff fuer 05 Restschuldbefreiung Und Schlusstermin: Schlusstermin Paragraf 197 InsO, Schlussverteilung, Restschuldbefreiungsverfahren Paragrafen 286 ff. InsO, Versagungsgruende Paragraf 290, Obliegenheiten Paragraf 295
+2. Insolvenzgrund nach Paragrafen 17 bis 19 InsO oder Restrukturierungsanzeige nach StaRUG pruefen.
+   - Verdichte den Aktenstoff fuer 05 Restschuldbefreiung Und Schlusstermin: Schlusstermin Paragraf 197 InsO, Schlussverteilung, Restschuldbefreiungsverfahren Paragrafen 286 ff. InsO, Versagungsgruende Paragraf 290, Obliegenheiten Paragraf 295
+3. Sicherungsmassnahmen, Gutachterauftrag und Verwalterauswahl begruenden.
+   - Verdichte den Aktenstoff fuer 05 Restschuldbefreiung Und Schlusstermin: Schlusstermin Paragraf 197 InsO, Schlussverteilung, Restschuldbefreiungsverfahren Paragrafen 286 ff. InsO, Versagungsgruende Paragraf 290, Obliegenheiten Paragraf 295
+4. Beteiligtenrechte, Bekanntmachung und Termine strukturieren.
+   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstuecks zu.
+5. Beschluss mit Rechtsmittel, Kosten und Geheimschutzvermerk formulieren.
+   - Schreibe den Ausspruch vollstaendig aus, pruefe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+
+## Typische Fallstricke
+
+- Ein Fremdantrag wird ohne ausreichende Glaubhaftmachung wie ein Eigenantrag behandelt.
+- Sicherungsmassnahmen werden pauschal statt verhaeltnismaessig angeordnet.
+- StaRUG-Sache und Insolvenzreife werden nicht sauber getrennt.
+- Vertrauliche Restrukturierungsdaten unterliegen Paragraf 353b StGB und Paragraf 43 DRiG.
+
+## Tenor-Bausteine bzw. Beschluss-Bausteine
+
+### Baustein A
+
+```text
+Zur Sicherung der Masse wird angeordnet, dass Verfuegungen der Schuldnerin nur mit Zustimmung des vorlaeufigen Insolvenzverwalters wirksam sind. Der Umfang der Massnahme ist auf die zur Sicherung des Verfahrens erforderlichen Vermoegenswerte beschraenkt.
+```
+
+### Baustein B
+
+```text
+Die Schuldnerin hat binnen [Frist] einen aktuellen Liquiditaetsstatus, eine Dreiwochenplanung und eine Liste der wesentlichen Glaeubiger einzureichen.
+```
+
+## Benachbarte Skills
+
+- **Davor**: `04-glaeubigerversammlung-und-pruefungstermin` - Nutze diesen Vorgaenger fuer die vorgelagerte Akten-, Zulassigkeits- oder Strukturfrage, bevor 05 Restschuldbefreiung Und Schlusstermin bearbeitet wird.
+- **Danach**: `06-eigenverwaltung-und-schutzschirm` - Nutze diesen Folgeschritt, sobald 05 Restschuldbefreiung Und Schlusstermin als gerichtlicher Arbeitsstand verwertbar ist.
