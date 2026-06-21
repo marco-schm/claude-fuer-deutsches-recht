@@ -1,6 +1,6 @@
 # berufsrecht-notare
 
-**204 Skills** · Stand `v363.0.0`
+**204 Skills** · Stand `v364.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/berufsrecht-notare/README.md)

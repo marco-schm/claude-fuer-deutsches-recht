@@ -270,7 +270,7 @@ jobs:
                 gh release delete-asset "$RELEASE_TAG" "$asset_name" -y >/dev/null 2>&1 || true
                 sleep 1
               fi
-              if gh release upload "$RELEASE_TAG" "$asset" --clobber; then
+              if timeout 180s gh release upload "$RELEASE_TAG" "$asset" --clobber; then
                 return 0
               fi
               echo "Upload fehlgeschlagen (Versuch $attempt): $asset_name"

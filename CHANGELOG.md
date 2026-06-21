@@ -1,9 +1,9 @@
-# v363.0.0 — Prozesskosten-Kniff und Remote-Aenderungen integriert
+# v364.0.0 — Prozesskosten-Kniff und Remote-Aenderungen integriert
 
 - Remote-Stand von `main` als Basis uebernommen; die neuen Sammelordner-Hinweise fuer Gerichts- und Insolvenzrechts-Plugins bleiben erhalten.
 - Prozessrecht und Forderungsmanagement um die Kostenfeststellungsklage nach erledigter Hauptsache beziehungsweise Zahlung nach Klageeinreichung erweitert.
 - Zahlungsklage, Klage-Einreichungslogik, Anschluss-Routing, Mandatsabschluss, Beschlussbau ZPO und Selbstvertreter-Kostenfestsetzung verweisen auf die Verzugsschaden-Spur vor reflexhafter Erledigung oder Klageruecknahme.
-- SKILLS.md, skills-index und Unified Mini Prompts neu erzeugt; Repo-weiter Versionsstand auf v363.0.0 gezogen.
+- SKILLS.md, skills-index und Unified Mini Prompts neu erzeugt; Repo-weiter Versionsstand auf v364.0.0 gezogen.
 
 # v362.0.0 — Release-ZIPs fuer verschachtelte Plugins stabilisiert
 
