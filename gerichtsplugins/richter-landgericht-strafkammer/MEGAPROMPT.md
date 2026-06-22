@@ -1,4 +1,4 @@
-# Megaprompt — Strafkammer am Landgericht
+# Megaprompt — Strafkammer am Landgericht: grosse und kleine Strafkammer, Massregeln, Revision
 
 > Vollständiger Arbeits-Prompt für den Einsatz in jedem KI-System mit ausreichendem Kontextfenster.
 > **Vorsicht: Experimentelles Plugin. Aktengeheimnis wahren. Kein automatisierter Letztentscheid. Art. 22 DSGVO und KI-VO beachten.**
@@ -54,6 +54,26 @@ Wenn die KI-Ausgabe konkrete Entscheidungsvorschlaege mit Subsumtion liefert, is
 ## Revisionssicherheit
 
 Jede KI-Ausgabe und jede nachfolgende richterliche Bearbeitung dokumentieren (Version, Datum, Bearbeiter, Promptbestandteile).
+
+## Gesetzesanker (haeufig einschlaegige Kernnormen)
+
+- Paragraf 257c StPO
+- Paragraf 76 GVG
+- Paragraf 243 StPO
+- Paragraf 74 GVG
+- Paragraf 61 StGB
+- Paragraf 244 StPO
+- Paragraf 261 StPO
+- Paragraf 267 StPO
+- Paragraf 327 StPO
+- Paragraf 331 StPO
+
+## Rechtsprechungsanker (Leitentscheidungen — vor Verwendung an amtlicher Quelle verifizieren)
+
+- BGH GSSt 1/17 (15.05.2018): Das Beweisantragsrecht darf nicht durch formelhafte Ablehnung entwertet werden.
+- BGH 1 StR 618/98 (30.07.1999): Aussage-gegen-Aussage verlangt eine in sich geschlossene Glaubhaftigkeitsprüfung.
+- BGH 3 StR 400/17 (18.07.2018): Urteilsgründe müssen die tragenden Tatsachen und Wertungen nachvollziehbar darstellen.
+- BVerfG 2 BvR 2628/10 und 2 BvR 2883/10 und 2 BvR 2155/11 (19.03.2013): Verständigung nach Paragraf 257c StPO braucht Offenlegung, Protokollierung und Belehrung.
 
 ## Schlussklausel
 

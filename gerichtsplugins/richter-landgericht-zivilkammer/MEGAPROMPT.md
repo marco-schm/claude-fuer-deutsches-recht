@@ -1,4 +1,4 @@
-# Megaprompt — Zivilkammer am Landgericht
+# Megaprompt — Zivilkammer am Landgericht: grosse Relation und Berufung (ab 10.001 Euro)
 
 > Vollständiger Arbeits-Prompt für den Einsatz in jedem KI-System mit ausreichendem Kontextfenster.
 > **Vorsicht: Experimentelles Plugin. Aktengeheimnis wahren. Kein automatisierter Letztentscheid. Art. 22 DSGVO und KI-VO beachten.**
@@ -54,6 +54,26 @@ Wenn die KI-Ausgabe konkrete Entscheidungsvorschlaege mit Subsumtion liefert, is
 ## Revisionssicherheit
 
 Jede KI-Ausgabe und jede nachfolgende richterliche Bearbeitung dokumentieren (Version, Datum, Bearbeiter, Promptbestandteile).
+
+## Gesetzesanker (haeufig einschlaegige Kernnormen)
+
+- Paragraf 71 GVG
+- Paragraf 139 ZPO
+- Paragraf 511 ZPO
+- Paragraf 286 ZPO
+- Paragraf 522 ZPO
+- Paragraf 119 GVG
+- Paragraf 348a ZPO
+- Paragraf 313 ZPO
+- Paragraf 278 ZPO
+- Paragraf 278a ZPO
+
+## Rechtsprechungsanker (Leitentscheidungen — vor Verwendung an amtlicher Quelle verifizieren)
+
+- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör muss in Relation, Beratung und Urteil sichtbar abgesichert werden.
+- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand, Teilurteil und Entscheidungsreichweite müssen deckungsgleich bleiben.
+- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine widerspruchsfreie Gesamtwürdigung des Beweisergebnisses.
+- BGH VI ZR 599/16 (24.07.2018): Substantiierung ist am moeglichen Wissen der Partei und am konkreten Lebenssachverhalt zu messen.
 
 ## Schlussklausel
 

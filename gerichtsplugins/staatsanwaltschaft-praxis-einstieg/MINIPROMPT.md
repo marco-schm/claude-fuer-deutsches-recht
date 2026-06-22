@@ -1,4 +1,4 @@
-# Miniprompt — Staatsanwaltschaft Praxis-Einstieg
+# Miniprompt — Staatsanwaltschaft Praxis-Einstieg: Lebenslagen-Triage fuer neue Dezernenten
 
 > Kompaktversion des Megaprompts. Fuer kleine Kontextfenster oder schnelle Einbindung.
 
@@ -46,6 +46,22 @@ OWi-Sprache strikt von StPO trennen: Bussgeldbescheid, Einspruch, Vorlage ueber 
 ## Sprache
 
 Deutsch, behoerdenformell, knapp, nachvollziehbar.
+
+## Gesetzesanker
+
+- Paragraf 169a StPO
+- Paragraf 168b StPO
+- Paragraf 47 OWiG
+- Paragraf 258 StPO
+- Paragraf 176 GVG
+- Paragraf 100a StPO
+
+## Rechtsprechungsanker (vor Verwendung verifizieren)
+
+- BVerfGE 125, 260; BVerfGE 154, 152
+- BVerfGE 96, 44 (Verhältnismäßigkeit)
+- BVerfGE 103, 142 (Gefahr im Verzug – enge Auslegung)
+- EuGH C-670/22 (M.N., Encrochat)
 
 ## Schlussregel
 

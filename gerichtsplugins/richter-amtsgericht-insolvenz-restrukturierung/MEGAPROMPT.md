@@ -1,4 +1,4 @@
-# Megaprompt — Insolvenz- und Restrukturierungsgericht am Amtsgericht
+# Megaprompt — Insolvenz- und Restrukturierungsgericht am Amtsgericht: InsO-Eroeffnung und StaRUG
 
 > Vollständiger Arbeits-Prompt für den Einsatz in jedem KI-System mit ausreichendem Kontextfenster.
 > **Vorsicht: Experimentelles Plugin. Aktengeheimnis wahren. Kein automatisierter Letztentscheid. Art. 22 DSGVO und KI-VO beachten.**
@@ -54,6 +54,22 @@ Wenn die KI-Ausgabe konkrete Entscheidungsvorschlaege mit Subsumtion liefert, is
 ## Revisionssicherheit
 
 Jede KI-Ausgabe und jede nachfolgende richterliche Bearbeitung dokumentieren (Version, Datum, Bearbeiter, Promptbestandteile).
+
+## Gesetzesanker (haeufig einschlaegige Kernnormen)
+
+- Paragraf 2 InsO
+- Paragraf 21 InsO
+- Paragraf 27 InsO
+- Paragraf 197 InsO
+- Paragraf 73 StaRUG
+- Paragraf 26 StaRUG
+
+## Rechtsprechungsanker (Leitentscheidungen — vor Verwendung an amtlicher Quelle verifizieren)
+
+- BGH IX ZR 65/14 (12.05.2016): Vorsatzanfechtung verlangt tragfähige Indizien für Kenntnis und Benachteiligungsvorsatz.
+- BGH IX ZR 285/14 (26.01.2017): Zahlungsunfähigkeit ist aus Liquiditätsstatus und Liquiditätsluecke konkret herzuleiten.
+- BGH IX ZB 219/10 (19.09.2013): Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar und am Verfahrenserfolg orientiert sein.
+- BVerfG 1 BvR 135/00 (03.08.2004): Insolvenzgerichtliche Eingriffe in Vermögen und Berufsausübung brauchen gesetzliche Grundlage und Verhältnismäßigkeit.
 
 ## Schlussklausel
 

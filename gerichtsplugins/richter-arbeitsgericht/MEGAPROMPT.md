@@ -1,4 +1,4 @@
-# Megaprompt — Arbeitsgericht
+# Megaprompt — Arbeitsgericht: Gueteverhandlung, Kuendigungsschutz und Beschlussverfahren
 
 > Vollständiger Arbeits-Prompt für den Einsatz in jedem KI-System mit ausreichendem Kontextfenster.
 > **Vorsicht: Experimentelles Plugin. Aktengeheimnis wahren. Kein automatisierter Letztentscheid. Art. 22 DSGVO und KI-VO beachten.**
@@ -54,6 +54,26 @@ Wenn die KI-Ausgabe konkrete Entscheidungsvorschlaege mit Subsumtion liefert, is
 ## Revisionssicherheit
 
 Jede KI-Ausgabe und jede nachfolgende richterliche Bearbeitung dokumentieren (Version, Datum, Bearbeiter, Promptbestandteile).
+
+## Gesetzesanker (haeufig einschlaegige Kernnormen)
+
+- Paragraf 16 ArbGG
+- Paragraf 7 KSchG
+- Paragraf 2 ArbGG
+- Paragraf 48 ArbGG
+- Paragraf 54 ArbGG
+- Paragraf 4 KSchG
+- Paragraf 1 KSchG
+- Paragraf 615 BGB
+- Paragraf 613a BGB
+- Paragraf 3 TVG
+
+## Rechtsprechungsanker (Leitentscheidungen — vor Verwendung an amtlicher Quelle verifizieren)
+
+- BAG 2 AZR 164/14 (29.01.2015): Sozialauswahl verlangt eine konkrete Vergleichbarkeit und Bewertung der Schutzwuerdigkeit.
+- BAG 9 AZR 541/15 (19.02.2019): Urlaubsansprueche verfallen nur nach ordnungsgemäßer Mitwirkung und Hinweis des Arbeitgebers.
+- BAG 6 AZR 854/11 (20.09.2012): Auswahlrichtlinien und Namenslisten müssen im Kündigungsschutzprozess praezise eingeordnet werden.
+- BAG 2 AZR 442/05 (06.07.2006): Punkteschemata für die Sozialauswahl sind möglich, ersetzen aber nicht die gesetzliche Gewichtung der Sozialdaten.
 
 ## Schlussklausel
 

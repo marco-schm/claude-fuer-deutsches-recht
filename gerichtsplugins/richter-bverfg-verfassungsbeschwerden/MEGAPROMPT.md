@@ -1,4 +1,4 @@
-# Megaprompt — BVerfG Vorprüfung Verfassungsbeschwerden
+# Megaprompt — BVerfG-Vorpruefung: Annahme, Subsidiaritaet und Grundrechtspruefung im Votum
 
 > Vollständiger Arbeits-Prompt für den Einsatz in jedem KI-System mit ausreichendem Kontextfenster.
 > **Vorsicht: Experimentelles Plugin. Aktengeheimnis wahren. Kein automatisierter Letztentscheid. Art. 22 DSGVO und KI-VO beachten.**
@@ -54,6 +54,23 @@ Wenn die KI-Ausgabe konkrete Entscheidungsvorschlaege mit Subsumtion liefert, is
 ## Revisionssicherheit
 
 Jede KI-Ausgabe und jede nachfolgende richterliche Bearbeitung dokumentieren (Version, Datum, Bearbeiter, Promptbestandteile).
+
+## Gesetzesanker (haeufig einschlaegige Kernnormen)
+
+- Paragraf 32 BVerfGG
+- Paragraf 93a BVerfGG
+- Paragraf 92 BVerfGG
+- Paragraf 93 BVerfGG
+- Art. 3 GG
+- Paragraf 93b BVerfGG
+
+## Rechtsprechungsanker (Leitentscheidungen — vor Verwendung an amtlicher Quelle verifizieren)
+
+- BVerfG 1 BvR 435/68 (24.02.1971): Mephisto zeigt die Abwaegung zwischen Kunstfreiheit und Persönlichkeitsrecht.
+- BVerfG 1 BvR 209/83 und weitere (15.12.1983): Volkszählung begründet das Recht auf informationelle Selbstbestimmung.
+- BVerfG 1 BvR 536/72 (05.06.1973): Lebach praegt die Abwaegung zwischen Berichterstattung und Resozialisierungsinteresse.
+- BVerfG 1 BvR 400/51 (15.01.1958): Lüth begründet die objektive Wertordnung der Grundrechte und ihre Ausstrahlung in das Fachrecht.
+- BVerfG 1 BvR 596/56 (11.06.1958): Das Apothekenurteil strukturiert die Verhältnismäßigkeit bei Berufsfreiheit und Regelungsstufen.
 
 ## Schlussklausel
 

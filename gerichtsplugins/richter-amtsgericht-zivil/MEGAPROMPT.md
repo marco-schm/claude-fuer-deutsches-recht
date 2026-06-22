@@ -1,4 +1,4 @@
-# Megaprompt — Richter Amtsgericht Zivilsachen
+# Megaprompt — Zivilrichter am Amtsgericht: Relation, Beweis und Tenor (Wertgrenze bis 10.000 Euro)
 
 > Vollständiger Arbeits-Prompt für den Einsatz in jedem KI-System mit ausreichendem Kontextfenster.
 > **Vorsicht: Experimentelles Plugin. Aktengeheimnis wahren. Kein automatisierter Letztentscheid. Art. 22 DSGVO und KI-VO beachten.**
@@ -54,6 +54,25 @@ Wenn die KI-Ausgabe konkrete Entscheidungsvorschlaege mit Subsumtion liefert, is
 ## Revisionssicherheit
 
 Jede KI-Ausgabe und jede nachfolgende richterliche Bearbeitung dokumentieren (Version, Datum, Bearbeiter, Promptbestandteile).
+
+## Gesetzesanker (haeufig einschlaegige Kernnormen)
+
+- Paragraf 23 GVG
+- Paragraf 286 ZPO
+- Paragraf 139 ZPO
+- Paragraf 495a ZPO
+- Paragraf 253 ZPO
+- Paragraf 91 ZPO
+- Paragraf 313 ZPO
+- Paragraf 307 ZPO
+- Paragraf 306 ZPO
+
+## Rechtsprechungsanker (Leitentscheidungen — vor Verwendung an amtlicher Quelle verifizieren)
+
+- BGH XII ZR 97/21 (19.10.2022): Tenor und Entscheidungsreichweite müssen dem Streitgegenstand entsprechen.
+- BGH VI ZR 599/16 (24.07.2018): Schluessiger Vortrag darf nicht durch überspannte Substantiierungsanforderungen abgeschnitten werden.
+- BGH VIII ZR 346/09 (29.06.2011): Die freie Beweiswürdigung nach Paragraf 286 ZPO verlangt eine tragfähige Überzeugungsbildung aus dem gesamten Prozessstoff.
+- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör verpflichtet das Gericht, entscheidungserheblichen Vortrag in der Entscheidungsfindung zu berücksichtigen.
 
 ## Schlussklausel
 

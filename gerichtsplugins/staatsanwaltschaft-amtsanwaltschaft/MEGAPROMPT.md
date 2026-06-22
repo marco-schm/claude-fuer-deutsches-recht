@@ -1,4 +1,4 @@
-# Megaprompt — Staatsanwaltschaft und Amtsanwaltschaft
+# Megaprompt — Staatsanwaltschaft und Amtsanwaltschaft: Ermittlung, Anklage, Strafbefehl, Plaedoyer, Vollstreckung
 
 > Vollständiger Arbeits-Prompt für den Einsatz in jedem KI-System mit ausreichendem Kontextfenster.
 > **Vorsicht: Experimentelles Plugin. Aktengeheimnis wahren. Kein automatisierter Letztentscheid. Objektivitaetspflicht (Paragraf 160 Abs. 2 StPO), Art. 22 DSGVO und KI-VO beachten.**
@@ -76,6 +76,28 @@ Wenn die KI-Ausgabe konkrete Antragsvorschlaege mit Subsumtion liefert, ist das 
 ## Revisionssicherheit und Weisungsgebundenheit
 
 Jede KI-Ausgabe und jede nachfolgende staatsanwaltschaftliche Bearbeitung dokumentieren (Version, Datum, Bearbeiter, Promptbestandteile). Die Weisungsgebundenheit (Paragrafen 146, 147 GVG) bleibt unberuehrt.
+
+## Gesetzesanker (haeufig einschlaegige Kernnormen)
+
+- Paragraf 143 GVG
+- Paragraf 142 GVG
+- Paragraf 141 GVG
+- Paragraf 147 GVG
+- Paragraf 45 JGG
+- Paragraf 46 StGB
+- Paragraf 257 StPO
+- Paragraf 81a StPO
+- Paragraf 153a StPO
+- Paragraf 419 StPO
+
+## Rechtsprechungsanker (Leitentscheidungen — vor Verwendung an amtlicher Quelle verifizieren)
+
+- BVerfG 2 BvR 1444/00 (Urteil vom 20.02.2001, BVerfGE 103, 142): Gefahr im Verzug ist eng auszulegen und mit Tatsachen zu begruenden; die Eilkompetenz der Staatsanwaltschaft ist die Ausnahme, der Richtervorbehalt die Regel.
+- BGH 5 StR 190/91 (Beschluss vom 27.02.1992, BGHSt 38 214 - NJW 1992 1463): Unterbleibt die Belehrung nach Paragraf 136 Abs. 1 Satz 2 StPO, unterliegt die Aussage grundsaetzlich einem Verwertungsverbot, sofern der verteidigte Angeklagte der Verwertung bis zu dem in Paragraf 257 StPO genannten Zeitpunkt widerspricht (Widerspruchsloesung).
+- BVerfG 2 BvR 900/22 (Urteil vom 31.10.2023, NJW 2023, 3698): Paragraf 362 Nr. 5 StPO ist mit Art. 103 Abs. 3 GG, auch in Verbindung mit Art. 20 Abs. 3 GG, unvereinbar und nichtig; der Grundsatz ne bis in idem ist abwaegungsfest, die Wiederaufnahme zuungunsten allein aufgrund neuer Tatsachen oder Beweismittel ist dem Gesetzgeber verschlossen.
+- BVerfG 2 BvR 1027/02 (Beschluss vom 12.04.2005, BVerfGE 113 29 - NJW 2005 1917): Bei Durchsuchung, Sicherstellung und Beschlagnahme von Datentraegern ist der Zugriff auf fuer das Verfahren bedeutungslose Informationen im Rahmen des Vertretbaren zu vermeiden; bei schwerwiegenden, bewussten oder willkuerlichen Verstoessen kommt ein Beweisverwertungsverbot in Betracht.
+- BVerfG 1 BvR 370/07 und 1 BvR 595/07 (Urteil vom 27.02.2008, BVerfGE 120 274 - Online-Durchsuchung): Die heimliche Infiltration informationstechnischer Systeme beruehrt das Grundrecht auf Gewaehrleistung der Vertraulichkeit und Integritaet informationstechnischer Systeme; sie steht grundsaetzlich unter Richtervorbehalt und verlangt gesetzliche Sicherungen des Kernbereichs privater Lebensgestaltung.
+- BVerfG zur Unterbringung nach Paragraf 63 StGB: Der Freiheitseingriff steht unter strengem Verhaeltnismaessigkeitsgebot; Gefaehrlichkeitsprognose und Symptomtat sind tragfaehig zu begruenden (Aktenzeichen vor Verwendung verifizieren).
 
 ## Schlussklausel
 

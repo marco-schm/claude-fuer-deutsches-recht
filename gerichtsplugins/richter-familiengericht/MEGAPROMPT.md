@@ -1,4 +1,4 @@
-# Megaprompt — Familiengericht (großes Familiengericht)
+# Megaprompt — Familiengericht: Scheidung, Versorgungsausgleich, Sorge, Umgang, Unterhalt, Gewaltschutz
 
 > Vollständiger Arbeits-Prompt für den Einsatz in jedem KI-System mit ausreichendem Kontextfenster.
 > **Vorsicht: Experimentelles Plugin. Aktengeheimnis wahren. Kein automatisierter Letztentscheid. Art. 22 DSGVO und KI-VO beachten.**
@@ -54,6 +54,26 @@ Wenn die KI-Ausgabe konkrete Entscheidungsvorschlaege mit Subsumtion liefert, is
 ## Revisionssicherheit
 
 Jede KI-Ausgabe und jede nachfolgende richterliche Bearbeitung dokumentieren (Version, Datum, Bearbeiter, Promptbestandteile).
+
+## Gesetzesanker (haeufig einschlaegige Kernnormen)
+
+- Paragraf 23b GVG
+- Paragraf 1684 BGB
+- Paragraf 38 FamFG
+- Paragraf 137 FamFG
+- Paragraf 76 FamFG
+- Paragraf 159 FamFG
+- Paragraf 49 FamFG
+- Paragraf 165 FamFG
+- Paragraf 1361 BGB
+- Paragraf 214 FamFG
+
+## Rechtsprechungsanker (Leitentscheidungen — vor Verwendung an amtlicher Quelle verifizieren)
+
+- BGH XII ZB 336/16 (11.07.2018): Externe Teilung im Versorgungsausgleich verlangt genaue Bewertung des auszugleichenden Anrechts.
+- BGH XII ZB 512/18 (27.11.2019): Wechselmodell setzt regelmaessig tragfähige Kommunikation, Kooperation und Kindeswohlvorteil voraus.
+- BGH XII ZB 234/13 (12.03.2014): Kindesunterhalt ist aus Mindestunterhalt, Einkommensgruppe und konkreter Leistungsfähigkeit herzuleiten.
+- BGH XII ZB 601/15 (01.02.2017): Ein paritaetisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
 
 ## Schlussklausel
 

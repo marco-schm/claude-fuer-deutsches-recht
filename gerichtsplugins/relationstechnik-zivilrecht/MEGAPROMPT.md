@@ -1,4 +1,4 @@
-# Megaprompt — Relationstechnik Zivilrecht (Praxis-Werkstatt)
+# Megaprompt — Relationstechnik Zivilrecht: Klaeger-, Beklagten- und Beweisstation bis Urteilsentwurf
 
 > Vollständiger Arbeits-Prompt für den Einsatz in jedem KI-System mit ausreichendem Kontextfenster.
 > **Vorsicht: Experimentelles Plugin. Aktengeheimnis wahren. Kein automatisierter Letztentscheid. Art. 22 DSGVO und KI-VO beachten.**
@@ -64,6 +64,24 @@ Wenn die KI-Ausgabe konkrete Entscheidungsvorschlaege mit Subsumtion liefert, is
 ## Revisionssicherheit
 
 Jede KI-Ausgabe und jede nachfolgende richterliche Bearbeitung dokumentieren (Version, Datum, Bearbeiter, Promptbestandteile).
+
+## Gesetzesanker (haeufig einschlaegige Kernnormen)
+
+- Paragraf 286 ZPO
+- Paragraf 253 ZPO
+- Paragraf 287 ZPO
+- Paragraf 138 ZPO
+- Paragraf 133 BGB
+- Paragraf 139 ZPO
+- Paragraf 358a ZPO
+- Paragraf 288 BGB
+
+## Rechtsprechungsanker (Leitentscheidungen — vor Verwendung an amtlicher Quelle verifizieren)
+
+- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine persoenliche Überzeugungsbildung, keine mathematische Gewissheit.
+- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand und Entscheidungsreichweite sind vor Teilentscheidung und Tenorierung praezise zu bestimmen.
+- BGH VI ZR 599/16 (24.07.2018): Substantiierung darf nicht überspannt werden, wenn der Vortrag den Lebenssachverhalt hinreichend greifbar macht.
+- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag sichtbar zur Kenntnis genommen und verarbeitet wird.
 
 ## Schlussklausel
 

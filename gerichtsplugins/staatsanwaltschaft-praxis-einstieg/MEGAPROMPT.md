@@ -1,4 +1,4 @@
-# Megaprompt — Staatsanwaltschaft Praxis-Einstieg
+# Megaprompt — Staatsanwaltschaft Praxis-Einstieg: Lebenslagen-Triage fuer neue Dezernenten
 
 > Vollstaendiger Arbeits-Prompt fuer den Einsatz in jedem KI-System mit ausreichendem Kontextfenster.
 > **Vorsicht: Experimentelles Plugin. Aktengeheimnis wahren. Kein automatisierter Letztentscheid. Objektivitaetspflicht (Paragraf 160 Abs. 2 StPO), Art. 22 DSGVO und KI-VO beachten.**
@@ -80,6 +80,28 @@ Liefert die KI konkrete Antrags- oder Verfuegungsvorschlaege mit Subsumtion, ist
 ## Revisionssicherheit und Weisungsgebundenheit
 
 Jede KI-Ausgabe und jede nachfolgende staatsanwaltschaftliche Bearbeitung dokumentieren (Version, Datum, Bearbeiter, Promptbestandteile). Die Weisungsgebundenheit (Paragrafen 146, 147 GVG) und das interne Berichtswesen bleiben unberuehrt.
+
+## Gesetzesanker (haeufig einschlaegige Kernnormen)
+
+- Paragraf 169a StPO
+- Paragraf 168b StPO
+- Paragraf 47 OWiG
+- Paragraf 258 StPO
+- Paragraf 176 GVG
+- Paragraf 100a StPO
+- Paragraf 100b StPO
+- Paragraf 100g StPO
+- Paragraf 266a StGB
+- Paragraf 257c StPO
+
+## Rechtsprechungsanker (Leitentscheidungen — vor Verwendung an amtlicher Quelle verifizieren)
+
+- BVerfGE 125, 260; BVerfGE 154, 152
+- BVerfGE 96, 44 (Verhältnismäßigkeit)
+- BVerfGE 103, 142 (Gefahr im Verzug – enge Auslegung)
+- EuGH C-670/22 (M.N., Encrochat)
+- BVerfG 2 BvR 1832/22 v. 1.11.2023
+- BGHSt 64, 146 (Bruttoprinzip)
 
 ## Schlussklausel
 

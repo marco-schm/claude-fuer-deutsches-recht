@@ -1,3 +1,26 @@
+# v370.0.0 — Gerichts-Plugins: Mega- und Miniprompts mit Gesetzes- und Rechtsprechungsankern
+
+Aufwertung der Mega- und Miniprompts aller 15 Plugins im Sammelordner `gerichtsplugins/`. Ziel war ein schaerferer, themenspezifischer Einstieg samt belastbarer Anker, ohne Aktenzeichen zu erfinden.
+
+## Bessere Namen und Spezifikation
+
+- Jeder Mega- und Miniprompt traegt jetzt einen praezisen, themenspezifischen Titel statt der bloszen Rollennennung (zum Beispiel Zivilrichter am Amtsgericht: Relation, Beweis und Tenor mit Wertgrenze bis 10.000 Euro; Strafkammer am Landgericht: grosse und kleine Strafkammer, Massregeln, Revision; BVerfG-Vorpruefung: Annahme, Subsidiaritaet und Grundrechtspruefung im Votum).
+
+## Gesetzesanker und Rechtsprechungsanker
+
+- Neuer Abschnitt Gesetzesanker je Mega- und Miniprompt: die im jeweiligen Plugin am haeufigsten einschlaegigen Kernnormen, automatisch aus den Skills abgeleitet und auf die jeweilige Verfahrensordnung zugeschnitten (Disclaimer-Normen wie Paragraf 353b StGB bewusst ausgenommen, damit nur die fachlichen Kernnormen erscheinen).
+- Neuer Abschnitt Rechtsprechungsanker je Mega- und Miniprompt: die wichtigsten Leitentscheidungen, ausschliesslich aus den bereits in den Skills vorhandenen, vetteten Zitaten uebernommen (keine neuen oder erfundenen Aktenzeichen) und mit dem Hinweis versehen, sie vor Verwendung an amtlicher Quelle zu verifizieren.
+
+## Sanity
+
+- Genau dreissig Dateien geaendert (15 Mega- plus 15 Miniprompts); keine Skill-, plugin.json- oder Marketplace-Description beruehrt. Kein Paragraf-Zeichen, keine doppelten Abschnitte, Markdown geglaettet.
+
+## Versionierung
+
+- Repo-weiter Bump auf v370.0.0 (229 plugin.json, marketplace.json, README, SKILLS.md, skills-index-Seiten und Asset-Stand). Die hands-off-Plugins bleiben unberuehrt.
+
+---
+
 # v369.0.0 — Gerichts-Plugins: Konventions-Angleichung und Qualitaetsdurchgang
 
 Qualitaetsdurchgang ueber alle 15 Plugins im Sammelordner `gerichtsplugins/`, mit Schwerpunkt auf dem nachtraeglich hinzugekommenen Plugin `staatsanwaltschaft-praxis-einstieg`, das von den Konventionen der uebrigen 14 Gerichts-Plugins abwich.

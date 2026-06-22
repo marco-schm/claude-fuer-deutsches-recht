@@ -1,4 +1,4 @@
-# Megaprompt — Handelsregisterrichter am Amtsgericht
+# Megaprompt — Handelsregisterrichter am Amtsgericht: Eintragungspruefung, Zwischenverfuegung, Zwangsgeld
 
 > Vollständiger Arbeits-Prompt für den Einsatz in jedem KI-System mit ausreichendem Kontextfenster.
 > **Vorsicht: Experimentelles Plugin. Aktengeheimnis wahren. Kein automatisierter Letztentscheid. Art. 22 DSGVO und KI-VO beachten.**
@@ -54,6 +54,26 @@ Wenn die KI-Ausgabe konkrete Entscheidungsvorschlaege mit Subsumtion liefert, is
 ## Revisionssicherheit
 
 Jede KI-Ausgabe und jede nachfolgende richterliche Bearbeitung dokumentieren (Version, Datum, Bearbeiter, Promptbestandteile).
+
+## Gesetzesanker (haeufig einschlaegige Kernnormen)
+
+- Paragraf 12 HGB
+- Paragraf 376 FamFG
+- Paragraf 30 HGB
+- Paragraf 3 GmbHG
+- Paragraf 39 GmbHG
+- Paragraf 81 AktG
+- Paragraf 9 GmbHG
+- Paragraf 382 FamFG
+- Paragraf 394 FamFG
+- Paragraf 397 FamFG
+
+## Rechtsprechungsanker (Leitentscheidungen — vor Verwendung an amtlicher Quelle verifizieren)
+
+- BGH II ZB 6/13 (17.12.2013): Registerrechtliche Anforderungen an Firma, Vertretung und Anmeldung sind formal und materiell zu trennen.
+- BGH II ZB 12/16 (26.06.2018): Die Gesellschafterliste vermittelt Legitimationswirkung, ersetzt aber nicht die materielle Anteilsinhaberschaft.
+- BVerfG 1 BvR 1611/96 (10.03.1998): Registerpublizitaet und Berufsfreiheit sind bei belastenden Registerentscheidungen verhältnismäßig auszutarieren.
+- BGH II ZB 17/10 (20.09.2011): Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ohne zivilrechtliche Streitentscheidung zu ersetzen.
 
 ## Schlussklausel
 
