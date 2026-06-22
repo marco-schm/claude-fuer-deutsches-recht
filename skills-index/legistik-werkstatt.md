@@ -1,6 +1,6 @@
 # legistik-werkstatt
 
-**254 Skills** · Stand `v369.0.0`
+**254 Skills** · Stand `v370.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/legistik-werkstatt/README.md)
