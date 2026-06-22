@@ -27,15 +27,30 @@ description: "EncroChat, Sky ECC und ANOM: Beweiswert und Verwertungsangriff: Pr
 
 ## Normen & Rechtsprechung
 
-Konkret zu prüfen:
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: EncroChat-Daten verlangen Prüfung von Europäischer Ermittlungsanordnung, Zuständigkeit, Verteidigungsrechten und Zugang zum Beweismaterial.
+- BGH, Beschluss vom 02.03.2022 - 5 StR 457/21, BGHSt 67, 29: EncroChat-Daten können verwertbar sein; die konkrete Herkunft, Übermittlung und Relevanz bleiben aktenbezogen zu prüfen.
+- BVerfG, Beschluss vom 01.11.2023 - 2 BvR 1832/22, frei nachweisbar über bundesverfassungsgericht.de/dejure: Verfassungsbeschwerden gegen EncroChat-Verwertung scheitern nicht an abstrakter Skepsis, sondern an konkreter Darlegung.
+- BVerfG, Beschluss vom 20.02.2001 - 2 BvR 1444/00, BVerfGE 103, 142: Gefahr im Verzug bei Durchsuchungen ist eng zu verstehen und aktenkundig zu begründen.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Digitale Ermittlungsmaßnahmen brauchen eine tragfähige gesetzliche Grundlage, Richtervorbehalt und Kernbereichsschutz.
 
-- Paragraf 100b, Paragraf 100e Abs. 6 StPO
-- EuGH C-670/22 (M.N., Encrochat)
-- BGHSt 67, 29 (Encrochat-Verwertbarkeit)
-- BVerfG 2 BvR 1832/22 v. 1.11.2023
-- Paragraf 100a StPO (TKÜ)
-- Paragraf 100b StPO (Online-Durchsuchung)
-- Paragraf 100g StPO (Verkehrsdaten)
-- Paragraf 110 Abs. 3 StPO (Netzwerkdurchsicht)
-- Paragrafen 202a, 202c StGB
-- BVerfGE 125, 260; BVerfGE 154, 152
+## Prüf- und Arbeitslogik
+
+1. Arbeitsschritt EncroChat, Sky ECC und ANOM: Beweiswert und Verwertungsangriff: Anfangsverdacht, Maßnahmeziel, Datenquelle, Richtervorbehalt und Verhältnismäßigkeit zuerst prüfen.
+2. Herkunft, Integrität, Rechtshilfeweg, Zuordnung zum Beschuldigten und Verteidigungszugang für jeden Datensatz dokumentieren.
+3. Durchsuchung, Beschlagnahme, Telekommunikationsüberwachung und digitale Sicherung strikt nach Eingriffsnorm trennen.
+4. Berufsgeheimnisse, Kernbereichsschutz, Zufallsfunde und Löschungspflichten vor der Auswertung markieren.
+5. Antrag oder Verfügung mit Tatvorwurf, Beweismittel, Begrenzung, Vollzugsauftrag und Dokumentationspflicht formulieren.
+
+## Antrags- bzw. Verfügungs-Bausteine
+
+### Baustein A
+
+```text
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
+```
+
+### Baustein B
+
+```text
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
+```

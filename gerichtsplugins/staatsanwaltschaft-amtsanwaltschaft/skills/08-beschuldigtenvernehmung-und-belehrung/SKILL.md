@@ -3,11 +3,11 @@ name: 08-beschuldigtenvernehmung-und-belehrung
 description: "Vernehmung des Beschuldigten (Paragrafen 133 und 136 und 163a StPO), Belehrung ueber Schweigerecht und Verteidigerkonsultation, verbotene Vernehmungsmethoden (Paragraf 136a StPO), Verwertungsfragen"
 ---
 
-# 08 Beschuldigtenvernehmung Und Belehrung
+# 08 Beschuldigtenvernehmung und Belehrung
 
 ## Zweck
 
-Vernehmung des Beschuldigten (Paragrafen 133 und 136 und 163a StPO), Belehrung ueber Schweigerecht und Verteidigerkonsultation, verbotene Vernehmungsmethoden (Paragraf 136a StPO), Verwertungsfragen
+Vernehmung des Beschuldigten (Paragrafen 133 und 136 und 163a StPO), Belehrung über Schweigerecht und Verteidigerkonsultation, verbotene Vernehmungsmethoden (Paragraf 136a StPO), Verwertungsfragen
 
 ## Rolle
 
@@ -31,47 +31,43 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
 
-## Anker-Rechtsprechung
+## Normen & Rechtsprechung
 
-- BGH 5 StR 190/91 (Beschluss vom 27.02.1992, BGHSt 38 214 - NJW 1992 1463): Unterbleibt die Belehrung nach Paragraf 136 Abs. 1 Satz 2 StPO, unterliegt die Aussage grundsaetzlich einem Verwertungsverbot, sofern der verteidigte Angeklagte der Verwertung bis zu dem in Paragraf 257 StPO genannten Zeitpunkt widerspricht (Widerspruchsloesung).
-- Paragraf 136a StPO verbietet Zwang, Taeuschung, Drohung und Ermuedung; so gewonnene Aussagen sind auch bei Einwilligung unverwertbar.
-- Das Recht auf Konsultation eines Verteidigers vor der Vernehmung ist effektiv zu gewaehrleisten (st. Rspr., Aktenzeichen vor Verwendung verifizieren).
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
+- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
 
-## Pruefungsschema in Stufen
+## Prüf- und Arbeitslogik
 
-1. Beschuldigtenstatus und Belehrungspflicht klaeren.
-   - Bestimme den Zeitpunkt der Inkulpation und die Pflicht zur Belehrung nach Paragraf 136 StPO.
-2. Belehrungsinhalt vollstaendig sichern.
-   - Belehre ueber Tatvorwurf, Schweigerecht, Verteidigerkonsultation und Beweisantragsrecht und dokumentiere dies.
-3. Vernehmungsmethoden pruefen (Paragraf 136a StPO).
-   - Schliesse Zwang, Taeuschung, Drohung und unzulaessige Versprechen aus.
-4. Aussageinhalt strukturiert festhalten.
-   - Trenne Angaben des Beschuldigten von Vorhalt und Bewertung; halte Wortlaut bei zentralen Punkten fest.
-5. Verwertbarkeit einschaetzen.
-   - Pruefe Belehrungsmaengel, Widerspruchslage und moegliche Verwertungsverbote.
+1. Arbeitsschritt Beschuldigtenvernehmung und Belehrung: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
+2. Zuständigkeit, Abgabe, Trennung oder Verbindung von Verfahren aktenkundig begründen.
+3. Ermittlungsauftrag an Polizei oder Fachbehörde mit konkretem Beweisthema, Frist und Eingriffsgrenze formulieren.
+4. Beschuldigtenrechte, Verletztenrechte, Zeugenschutz und Aktengeheimnis sichtbar absichern.
+5. Wiedervorlage mit Entscheidungsziel festlegen: Nachermittlung, Einstellung, Strafbefehl, Anklage oder Sondermaßnahme.
 
 ## Typische Fallstricke
 
-- Die Belehrung ueber das Schweigerecht wird verspaetet erteilt, nachdem die Inkulpation bereits eingetreten war.
+- Die Belehrung über das Schweigerecht wird verspätet erteilt, nachdem die Inkulpation bereits eingetreten war.
 - Der Hinweis auf das Recht auf Verteidigerkonsultation unterbleibt oder wird nur formelhaft erteilt.
 - Zusagen oder Vorteilsversprechen verstossen gegen Paragraf 136a StPO.
 - Bewertungen der Vernehmungsperson werden als Aussage des Beschuldigten protokolliert.
 
-## Antrags- bzw. Verfuegungs-Bausteine
+## Antrags- bzw. Verfügungs-Bausteine
 
-### Belehrungsbaustein
+### Baustein A
 
 ```text
-Dem Beschuldigten wurde eroeffnet, welche Tat ihm zur Last gelegt wird. Er wurde belehrt, dass es ihm freistehe, sich zur Sache zu aeussern oder nicht auszusagen, und dass er jederzeit einen Verteidiger seiner Wahl befragen koenne (Paragraf 136 Abs. 1 StPO).
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
 ```
 
-### Vermerk Verwertbarkeit
+### Baustein B
 
 ```text
-Die Aussage ist [verwertbar/nicht verwertbar], weil [Belehrung erfolgt / Belehrungsmangel und Widerspruch nach Paragraf 257 StPO zu erwarten].
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `07-telekommunikationsueberwachung-und-verdeckte-massnahmen` - Vorgelagerter Arbeitsschritt; dort die Akten-, Zustaendigkeits- oder Ermittlungsfrage klaeren, bevor Beschuldigtenvernehmung Und Belehrung bearbeitet wird.
-- **Danach**: `09-sachverstaendige-und-koerperliche-untersuchung` - Folgeschritt, sobald Beschuldigtenvernehmung Und Belehrung als staatsanwaltschaftlicher Arbeitsstand verwertbar ist.
+- **Davor**: `07-telekommunikationsueberwachung-und-verdeckte-massnahmen` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Beschuldigtenvernehmung und Belehrung trägt.
+- **Danach**: `09-sachverstaendige-und-koerperliche-untersuchung` - Folgeschritt im selben Plugin; nutze ihn, sobald Beschuldigtenvernehmung und Belehrung entscheidungs- oder verfügungsreif vorbereitet ist.

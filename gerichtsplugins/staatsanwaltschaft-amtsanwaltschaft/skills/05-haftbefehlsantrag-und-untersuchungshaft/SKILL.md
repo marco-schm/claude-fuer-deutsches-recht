@@ -3,7 +3,7 @@ name: 05-haftbefehlsantrag-und-untersuchungshaft
 description: "Antrag auf Erlass eines Haftbefehls (Paragrafen 112 und 112a und 114 StPO), dringender Tatverdacht, Haftgruende, Verhaeltnismaessigkeit (Paragraf 112 Abs. 1 Satz 2), Haftverschonung (Paragraf 116 StPO)"
 ---
 
-# 05 Haftbefehlsantrag Und Untersuchungshaft
+# 05 Haftbefehlsantrag und Untersuchungshaft
 
 ## Zweck
 
@@ -31,24 +31,21 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
 
-## Anker-Rechtsprechung
+## Normen & Rechtsprechung
 
-- Untersuchungshaft steht unter strengem Verhaeltnismaessigkeitsgebot; mit zunehmender Haftdauer waechst das Gewicht des Freiheitsgrundrechts, woraus das Bundesverfassungsgericht das Beschleunigungsgebot in Haftsachen ableitet (st. Rspr.; Aktenzeichen vor Verwendung verifizieren).
-- Der Haftgrund der Fluchtgefahr (Paragraf 112 Abs. 2 Nr. 2 StPO) ist mit konkreten Tatsachen zu begruenden; die Straferwartung allein genuegt nicht (st. Rspr., Aktenzeichen vor Verwendung verifizieren).
-- Verdunkelungsgefahr (Paragraf 112 Abs. 2 Nr. 3 StPO) verlangt konkrete Anhaltspunkte fuer Verdunkelungshandlungen, nicht die blosse Moeglichkeit (st. Rspr., Aktenzeichen vor Verwendung verifizieren).
+- BVerfG, Beschluss vom 15.12.1965 - 1 BvR 513/65, BVerfGE 19, 342: Untersuchungshaft steht unter strengem Verhältnismäßigkeits- und Beschleunigungsgebot.
+- Ständige Rechtsprechung des BVerfG zum Beschleunigungsgebot in Haftsachen: Verzögerungen müssen aktenkundig erklärt und durch konkrete Verfahrensförderung kompensiert werden; aktuelles Aktenzeichen vor Antragstellung verifizieren.
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
 
-## Pruefungsschema in Stufen
+## Prüf- und Arbeitslogik
 
-1. Dringenden Tatverdacht pruefen.
-   - Lege dar, dass nach dem derzeitigen Ermittlungsstand eine hohe Wahrscheinlichkeit der Taeterschaft besteht.
-2. Haftgrund konkret begruenden.
-   - Begruende Flucht-, Verdunkelungs- oder Wiederholungsgefahr mit einzelfallbezogenen Tatsachen, nicht mit Vermutungen.
-3. Verhaeltnismaessigkeit pruefen (Paragraf 112 Abs. 1 Satz 2 StPO).
-   - Wiege die Schwere des Eingriffs gegen Bedeutung der Sache und Straferwartung ab.
-4. Haftverschonung pruefen (Paragraf 116 StPO).
-   - Pruefe mildere Massnahmen wie Meldeauflagen, Kaution oder Passabgabe.
-5. Antrag und Vorfuehrung formulieren.
-   - Fasse den Haftbefehlsantrag mit Tat, Haftgrund und Beweismitteln und regele die Vorfuehrung nach Paragrafen 115, 128 StPO.
+1. Arbeitsschritt Haftbefehlsantrag und Untersuchungshaft: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
+2. Flucht, Fluchtgefahr, Verdunkelungsgefahr, Wiederholungsgefahr und Außervollzugsetzung getrennt begründen.
+3. Bei Rechtshilfe oder Europäischem Haftbefehl Ausschreibung, Spezialität, Verhältnismäßigkeit und Übersetzungen kontrollieren.
+4. Vorführung, Fristen, Verteidigerbestellung und Haftprüfung in der Verfügung festhalten.
+5. Antrag mit konkreter Tatsachengrundlage, Beweismitteln und Vollzugshinweisen formulieren.
 
 ## Typische Fallstricke
 
@@ -57,21 +54,21 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 - Haftverschonung nach Paragraf 116 StPO wird nicht geprueft, obwohl mildere Mittel ausreichen.
 - Der dringende Tatverdacht wird mit dem Anfangsverdacht verwechselt.
 
-## Antrags- bzw. Verfuegungs-Bausteine
+## Antrags- bzw. Verfügungs-Bausteine
 
-### Antrag Haftbefehl
+### Baustein A
 
 ```text
-Es wird beantragt, gegen den Beschuldigten [Name] wegen [Tat] Haftbefehl gemaess Paragrafen 112, 114 StPO zu erlassen. Der Beschuldigte ist der Tat dringend verdaechtig; es besteht der Haftgrund der [Flucht-/Verdunkelungs-/Wiederholungsgefahr] aus folgenden Tatsachen: [Tatsachen].
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
 ```
 
-### Antrag Haftverschonung
+### Baustein B
 
 ```text
-Hilfsweise wird angeregt, den Vollzug des Haftbefehls gemaess Paragraf 116 StPO gegen folgende Auflagen auszusetzen: [Auflagen].
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `04-durchsuchung-und-beschlagnahme-antrag` - Vorgelagerter Arbeitsschritt; dort die Akten-, Zustaendigkeits- oder Ermittlungsfrage klaeren, bevor Haftbefehlsantrag Und Untersuchungshaft bearbeitet wird.
-- **Danach**: `06-vorlaeufige-festnahme-und-eilkompetenz` - Folgeschritt, sobald Haftbefehlsantrag Und Untersuchungshaft als staatsanwaltschaftlicher Arbeitsstand verwertbar ist.
+- **Davor**: `04-durchsuchung-und-beschlagnahme-antrag` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Haftbefehlsantrag und Untersuchungshaft trägt.
+- **Danach**: `06-vorlaeufige-festnahme-und-eilkompetenz` - Folgeschritt im selben Plugin; nutze ihn, sobald Haftbefehlsantrag und Untersuchungshaft entscheidungs- oder verfügungsreif vorbereitet ist.

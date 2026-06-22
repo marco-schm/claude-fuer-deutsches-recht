@@ -34,46 +34,41 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör verpflichtet das Gericht, entscheidungserheblichen Vortrag in der Entscheidungsfindung zu berücksichtigen.
-- BGH VI ZR 599/16 (24.07.2018): Schluessiger Vortrag darf nicht durch überspannte Substantiierungsanforderungen abgeschnitten werden.
-- BGH VIII ZR 346/09 (29.06.2011): Die freie Beweiswürdigung nach Paragraf 286 ZPO verlangt eine tragfähige Überzeugungsbildung aus dem gesamten Prozessstoff.
-- BGH XII ZR 97/21 (19.10.2022): Tenor und Entscheidungsreichweite müssen dem Streitgegenstand entsprechen.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Zuständigkeit nach GVG, Streitwert und Verfahrensart bestimmen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Antraege und Lebenssachverhalt auslegen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-3. Schluessigkeit, Erheblichkeit und Beweisbedarf trennen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Hinweis nach Paragraf 139 ZPO nur bei entscheidungserheblicher Unklarheit erteilen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteil, Beschluss oder Vergleichsvermerk mit Kosten- und Vollstreckbarkeitsfolge ausformulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Arbeitsschritt Akte Erstdurchsicht: Rechtsweg, sachliche Zuständigkeit, örtlichen Gerichtsstand und funktionelle Zuständigkeit zuerst prüfen.
+2. Klage nach Paragraf 253 ZPO auf Antrag, Parteien, Lebenssachverhalt, Bezifferung, Anlagen und Zustellfähigkeit kontrollieren.
+3. Verfahrensart festlegen: schriftliches Vorverfahren, früher erster Termin, Paragraf 495a ZPO oder Sonderzuständigkeit.
+4. Fristen und Kostenvorschuss so verfügen, dass Zustellung und Verteidigungsanzeige ohne Rückfrage laufen können.
+5. Erste richterliche Verfügung mit Hinweisen, Wiedervorlage und konkretem nächsten Aktenzweck abschließen.
 
 ## Typische Fallstricke
 
-- Paragraf 495a ZPO wird genutzt, obwohl rechtliches Gehör oder Streitwertgrenze nicht sauber geprüft sind.
-- Kostenentscheidung wird ohne Erledigungs- oder Teilunterliegensquote formuliert.
-- Ein Anerkenntnis oder Versaeumnis wird mit streitigem Urteil vermischt.
-- Aktengeheimnis nach Paragraf 353b StGB und Amtsverschwiegenheit nach Paragraf 43 DRiG werden bei externen Arbeitsmitteln übersehen.
+- Der Gerichtsstand wird aus der Parteianschrift statt aus dem Streitgegenstand abgeleitet.
+- Zustellung wird verfügt, obwohl Kostenvorschuss, ladungsfähige Anschrift oder Antrag noch fehlen.
+- Paragraf 495a ZPO wird angeordnet, ohne Streitwertgrenze und Gehörsbedarf zu prüfen.
+- Aktengeheimnis nach Paragraf 353b StGB und Amtsverschwiegenheit nach Paragraf 43 DRiG bleiben bei jeder externen Werkzeugnutzung Sperren.
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
 
 ### Baustein A
 
 ```text
-Die Parteien werden darauf hingewiesen, dass das Gericht den bisherigen Vortrag zu [Punkt] für entscheidungserheblich, aber noch nicht hinreichend konkret haelt. Ergaenzender Vortrag kann binnen [Frist] eingereicht werden.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Die Kostenentscheidung beruht auf Paragraf [Norm] ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus Paragraf [Norm] ZPO.
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `02-streitwert-und-gerichtskosten` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 03 Akte Erstdurchsicht bearbeitet wird.
-- **Danach**: `04-relation-zivilrecht-klein` - Nutze diesen Folgeschritt, sobald 03 Akte Erstdurchsicht als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `02-streitwert-und-gerichtskosten` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Akte Erstdurchsicht trägt.
+- **Danach**: `04-relation-zivilrecht-klein` - Folgeschritt im selben Plugin; nutze ihn, sobald Akte Erstdurchsicht entscheidungs- oder verfügungsreif vorbereitet ist.

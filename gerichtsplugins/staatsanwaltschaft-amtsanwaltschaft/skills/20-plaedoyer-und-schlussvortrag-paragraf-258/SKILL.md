@@ -3,11 +3,11 @@ name: 20-plaedoyer-und-schlussvortrag-paragraf-258
 description: "Schlussvortrag der Staatsanwaltschaft (Paragraf 258 StPO), Wuerdigung des Beweisergebnisses, rechtliche Bewertung, konkreter Antrag zu Schuld- und Rechtsfolgenausspruch, Strafzumessungsantrag (Paragraf 46 StGB)"
 ---
 
-# 20 Plaedoyer Und Schlussvortrag Paragraf 258
+# 20 Plaedoyer und Schlussvortrag Paragraf 258
 
 ## Zweck
 
-Schlussvortrag der Staatsanwaltschaft (Paragraf 258 StPO), Wuerdigung des Beweisergebnisses, rechtliche Bewertung, konkreter Antrag zu Schuld- und Rechtsfolgenausspruch, Strafzumessungsantrag (Paragraf 46 StGB)
+Schlussvortrag der Staatsanwaltschaft (Paragraf 258 StPO), Würdigung des Beweisergebnisses, rechtliche Bewertung, konkreter Antrag zu Schuld- und Rechtsfolgenausspruch, Strafzumessungsantrag (Paragraf 46 StGB)
 
 ## Rolle
 
@@ -31,24 +31,20 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
 
-## Anker-Rechtsprechung
+## Normen & Rechtsprechung
 
-- Paragraf 258 StPO gewaehrt der Staatsanwaltschaft den Schlussvortrag mit Ausfuehrungen und Antraegen; der Angeklagte hat das letzte Wort.
-- Der Schlussantrag muss aus dem Inbegriff der Hauptverhandlung (Paragraf 261 StPO) abgeleitet sein und auch entlastende Umstaende wuerdigen (Paragraf 160 Abs. 2 StPO).
-- Der Strafzumessungsantrag folgt Paragraf 46 StGB: Schuld als Grundlage, Abwaegung der Zumessungstatsachen (st. Rspr., Aktenzeichen vor Verwendung verifizieren).
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
+- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
 
-## Pruefungsschema in Stufen
+## Prüf- und Arbeitslogik
 
-1. Beweisergebnis wuerdigen.
-   - Fasse das Ergebnis der Beweisaufnahme zu jedem Tatbestandsmerkmal zusammen und wuerdige es nach Paragraf 261 StPO.
-2. Rechtliche Bewertung vornehmen.
-   - Subsumiere den festgestellten Sachverhalt unter die Strafnorm und behandle Konkurrenzen.
-3. Strafzumessung begruenden (Paragraf 46 StGB).
-   - Lege Schuldumfang, Strafrahmen und die wesentlichen Zumessungstatsachen dar.
-4. Nebenfolgen einbeziehen.
-   - Beziehe Einziehung, Fahrverbot, Massregeln und Kosten in den Antrag ein.
-5. Konkreten Antrag formulieren.
-   - Formuliere einen bestimmten Antrag zu Schuldspruch und Rechtsfolge; markiere ihn als Antrag, nicht als Entscheidung.
+1. Arbeitsschritt Plaedoyer und Schlussvortrag Paragraf 258: Sitzungsrolle, Beweisthema, Verfahrensstand und Ziel des staatsanwaltschaftlichen Antrags zuerst bestimmen.
+2. Fragerecht, Beweisanträge, Verständigung, Befangenheit und Rechtsmittel nur auf aktenkundige Tatsachen stützen.
+3. Bei Verteidigeranträgen sofort Zulässigkeit, Begründetheit, Ablehnungsgrund und Protokollierungsbedarf trennen.
+4. Schlussvortrag nach Tatnachweis, rechtlicher Würdigung, Strafzumessung und Nebenfolgen gliedern.
+5. Anträge klar, knapp und protokollfest formulieren; keine informellen Absprachen außerhalb der StPO dulden.
 
 ## Typische Fallstricke
 
@@ -57,21 +53,21 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 - Die Strafzumessung wird behauptet statt aus Paragraf 46 StGB abgeleitet.
 - Nebenfolgen wie Einziehung oder Fahrverbot werden im Antrag vergessen.
 
-## Antrags- bzw. Verfuegungs-Bausteine
+## Antrags- bzw. Verfügungs-Bausteine
 
-### Schlussantrag
+### Baustein A
 
 ```text
-Nach dem Ergebnis der Beweisaufnahme ist der Angeklagte der [Tat] schuldig. Es wird beantragt, ihn wegen [Tat] nach [Paragraf StGB] zu einer [Freiheitsstrafe von / Geldstrafe von [Zahl] Tagessaetzen zu je [Betrag] Euro] zu verurteilen sowie [Nebenfolgen] anzuordnen. Die Kosten traegt der Angeklagte.
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
 ```
 
-### Strafzumessungsteil
+### Baustein B
 
 ```text
-Zugunsten des Angeklagten sprechen [Umstaende], zu seinen Lasten [Umstaende]. Bei einem Strafrahmen von [Rahmen] erscheint eine [Strafe] tat- und schuldangemessen (Paragraf 46 StGB).
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `19-sitzungsdienst-und-fragerecht-hauptverhandlung` - Vorgelagerter Arbeitsschritt; dort die Akten-, Zustaendigkeits- oder Ermittlungsfrage klaeren, bevor Plaedoyer Und Schlussvortrag Paragraf 258 bearbeitet wird.
-- **Danach**: `21-rechtsmittel-der-staatsanwaltschaft` - Folgeschritt, sobald Plaedoyer Und Schlussvortrag Paragraf 258 als staatsanwaltschaftlicher Arbeitsstand verwertbar ist.
+- **Davor**: `19-sitzungsdienst-und-fragerecht-hauptverhandlung` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Plaedoyer und Schlussvortrag Paragraf 258 trägt.
+- **Danach**: `21-rechtsmittel-der-staatsanwaltschaft` - Folgeschritt im selben Plugin; nutze ihn, sobald Plaedoyer und Schlussvortrag Paragraf 258 entscheidungs- oder verfügungsreif vorbereitet ist.

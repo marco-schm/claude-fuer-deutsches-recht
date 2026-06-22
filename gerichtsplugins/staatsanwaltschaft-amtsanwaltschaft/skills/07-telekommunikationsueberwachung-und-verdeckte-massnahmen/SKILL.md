@@ -3,11 +3,11 @@ name: 07-telekommunikationsueberwachung-und-verdeckte-massnahmen
 description: "Antrag auf Telekommunikationsueberwachung (Paragraf 100a StPO), Online-Durchsuchung (Paragraf 100b StPO), Verkehrsdaten (Paragraf 100g StPO), Katalogtat, Subsidiaritaet, Richtervorbehalt, Kernbereichsschutz"
 ---
 
-# 07 Telekommunikationsueberwachung Und Verdeckte Massnahmen
+# 07 Telekommunikationsüberwachung und Verdeckte Maßnahmen
 
 ## Zweck
 
-Antrag auf Telekommunikationsueberwachung (Paragraf 100a StPO), Online-Durchsuchung (Paragraf 100b StPO), Verkehrsdaten (Paragraf 100g StPO), Katalogtat, Subsidiaritaet, Richtervorbehalt, Kernbereichsschutz
+Antrag auf Telekommunikationsüberwachung (Paragraf 100a StPO), Online-Durchsuchung (Paragraf 100b StPO), Verkehrsdaten (Paragraf 100g StPO), Katalogtat, Subsidiaritaet, Richtervorbehalt, Kernbereichsschutz
 
 ## Rolle
 
@@ -31,47 +31,43 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
 
-## Anker-Rechtsprechung
+## Normen & Rechtsprechung
 
-- BVerfG 1 BvR 370/07 und 1 BvR 595/07 (Urteil vom 27.02.2008, BVerfGE 120 274 - Online-Durchsuchung): Die heimliche Infiltration informationstechnischer Systeme beruehrt das Grundrecht auf Gewaehrleistung der Vertraulichkeit und Integritaet informationstechnischer Systeme; sie steht grundsaetzlich unter Richtervorbehalt und verlangt gesetzliche Sicherungen des Kernbereichs privater Lebensgestaltung.
-- Paragraf 100a StPO setzt eine Katalogtat, einen auf Tatsachen gestuetzten Verdacht und die Subsidiaritaet (Erschwernis anderer Aufklaerung) voraus.
-- Der Kernbereich privater Lebensgestaltung ist zu schuetzen; Erkenntnisse daraus unterliegen einem Verwertungsverbot (st. Rspr., Aktenzeichen vor Verwendung verifizieren).
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
+- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
 
-## Pruefungsschema in Stufen
+## Prüf- und Arbeitslogik
 
-1. Katalogtat und Verdachtsgrad pruefen.
-   - Pruefe, ob eine Katalogtat (Paragraf 100a Abs. 2 StPO) vorliegt und der Verdacht auf bestimmte Tatsachen gestuetzt ist.
-2. Subsidiaritaet darlegen.
-   - Begruende, warum die Erforschung des Sachverhalts auf andere Weise wesentlich erschwert oder aussichtslos waere.
-3. Verhaeltnismaessigkeit und Dauer bestimmen.
-   - Begrenze Massnahme, Zielperson und Anordnungsdauer und pruefe mildere Mittel.
-4. Kernbereichsschutz sichern.
-   - Sieh Vorkehrungen gegen die Erhebung kernbereichsrelevanter Inhalte und ihre Loeschung vor.
-5. Antrag und Verfahren fassen.
-   - Fasse den Antrag mit Anschlusskennung, Zielperson, Katalogtat und Dauer; beachte Benachrichtigungspflichten (Paragraf 101 StPO).
+1. Arbeitsschritt Telekommunikationsüberwachung und Verdeckte Maßnahmen: Anfangsverdacht, Maßnahmeziel, Datenquelle, Richtervorbehalt und Verhältnismäßigkeit zuerst prüfen.
+2. Herkunft, Integrität, Rechtshilfeweg, Zuordnung zum Beschuldigten und Verteidigungszugang für jeden Datensatz dokumentieren.
+3. Durchsuchung, Beschlagnahme, Telekommunikationsüberwachung und digitale Sicherung strikt nach Eingriffsnorm trennen.
+4. Berufsgeheimnisse, Kernbereichsschutz, Zufallsfunde und Löschungspflichten vor der Auswertung markieren.
+5. Antrag oder Verfügung mit Tatvorwurf, Beweismittel, Begrenzung, Vollzugsauftrag und Dokumentationspflicht formulieren.
 
 ## Typische Fallstricke
 
 - Es wird keine Katalogtat benannt oder der Verdacht ist nicht auf bestimmte Tatsachen gestuetzt.
 - Die Subsidiaritaet wird nur formelhaft behauptet, nicht konkret begruendet.
-- Der Kernbereichsschutz und die spaetere Benachrichtigung nach Paragraf 101 StPO werden uebergangen.
+- Der Kernbereichsschutz und die spätere Benachrichtigung nach Paragraf 101 StPO werden übergangen.
 - Verkehrsdaten und Inhaltsdaten werden vermengt, obwohl unterschiedliche Eingriffsschwellen gelten.
 
-## Antrags- bzw. Verfuegungs-Bausteine
+## Antrags- bzw. Verfügungs-Bausteine
 
-### Antrag Telekommunikationsueberwachung
+### Baustein A
 
 ```text
-Es wird beantragt, die Ueberwachung und Aufzeichnung der Telekommunikation des Anschlusses [Kennung], genutzt von [Zielperson], gemaess Paragraf 100a StPO fuer die Dauer von [Zeitraum] anzuordnen. Es besteht der auf bestimmte Tatsachen gestuetzte Verdacht der Katalogtat [Tat] nach Paragraf 100a Abs. 2 StPO.
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
 ```
 
-### Vermerk Subsidiaritaet
+### Baustein B
 
 ```text
-Die Erforschung des Sachverhalts waere auf andere Weise wesentlich erschwert, weil [konkrete Gruende]. Mildere Mittel ([Aufzaehlung]) sind ausgeschoepft oder untauglich.
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `06-vorlaeufige-festnahme-und-eilkompetenz` - Vorgelagerter Arbeitsschritt; dort die Akten-, Zustaendigkeits- oder Ermittlungsfrage klaeren, bevor Telekommunikationsueberwachung Und Verdeckte Massnahmen bearbeitet wird.
-- **Danach**: `08-beschuldigtenvernehmung-und-belehrung` - Folgeschritt, sobald Telekommunikationsueberwachung Und Verdeckte Massnahmen als staatsanwaltschaftlicher Arbeitsstand verwertbar ist.
+- **Davor**: `06-vorlaeufige-festnahme-und-eilkompetenz` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Telekommunikationsüberwachung und Verdeckte Maßnahmen trägt.
+- **Danach**: `08-beschuldigtenvernehmung-und-belehrung` - Folgeschritt im selben Plugin; nutze ihn, sobald Telekommunikationsüberwachung und Verdeckte Maßnahmen entscheidungs- oder verfügungsreif vorbereitet ist.

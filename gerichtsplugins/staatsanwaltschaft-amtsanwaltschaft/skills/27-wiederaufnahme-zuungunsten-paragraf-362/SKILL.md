@@ -7,7 +7,7 @@ description: "Antrag der Staatsanwaltschaft auf Wiederaufnahme zuungunsten des V
 
 ## Zweck
 
-Antrag der Staatsanwaltschaft auf Wiederaufnahme zuungunsten des Verurteilten oder Freigesprochenen (Paragraf 362 StPO), Pruefungsschema der Wiederaufnahmegruende, formale Anforderungen (Paragraf 366 StPO), Verfahren nach Paragrafen 367 bis 373a StPO
+Antrag der Staatsanwaltschaft auf Wiederaufnahme zuungunsten des Verurteilten oder Freigesprochenen (Paragraf 362 StPO), Prüfungsschema der Wiederaufnahmegruende, formale Anforderungen (Paragraf 366 StPO), Verfahren nach Paragrafen 367 bis 373a StPO
 
 ## Rolle
 
@@ -31,47 +31,43 @@ StPO, StGB, GVG, GG, RiStBV, OrgStA
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
 
-## Anker-Rechtsprechung
+## Normen & Rechtsprechung
 
-- Paragraf 362 StPO regelt die Wiederaufnahme zuungunsten des rechtskraeftig Verurteilten oder Freigesprochenen abschliessend und eng.
-- Paragraf 366 StPO verlangt einen schriftlichen Antrag mit Angabe der Wiederaufnahmegruende und Beweismittel.
-- BVerfG 2 BvR 900/22 (Urteil vom 31.10.2023, NJW 2023, 3698): Paragraf 362 Nr. 5 StPO ist mit Art. 103 Abs. 3 GG, auch in Verbindung mit Art. 20 Abs. 3 GG, unvereinbar und nichtig; der Grundsatz ne bis in idem ist abwaegungsfest, die Wiederaufnahme zuungunsten allein aufgrund neuer Tatsachen oder Beweismittel ist dem Gesetzgeber verschlossen.
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
+- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
 
-## Pruefungsschema in Stufen
+## Prüf- und Arbeitslogik
 
-1. Anwendungsvoraussetzungen pruefen.
-   - Pruefe, ob ein rechtskraeftiges Urteil vorliegt und ob die Wiederaufnahme zuungunsten in Betracht kommt (Paragraf 362 StPO).
-2. Wiederaufnahmegruende pruefen (Paragraf 362 Nr. 1 bis Nr. 5 StPO).
-   - Pruefe Urkundenfaelschung, Falschaussage, Amtspflichtverletzung des Richters, glaubwuerdiges Gestaendnis ausserhalb des Verfahrens oder den engen Sonderfall des Paragraf 362 Nr. 5 StPO; pruefe gleichzeitig den verfassungsrechtlichen Rahmen aus Art. 103 Abs. 3 GG.
-3. Beweismittel pruefen.
-   - Pruefe, ob die geltend gemachten Tatsachen mit ausreichenden Beweismitteln belegt sind und ob sie geeignet sind, die Wiederaufnahme zu rechtfertigen.
-4. Formale Antragsanforderungen pruefen (Paragraf 366 StPO).
-   - Pruefe Form, Begruendung und Beifuegung der Beweismittel; bereite den Antrag schriftlich vor.
-5. Zustaendigkeit und weiteres Verfahren bestimmen (Paragrafen 367 bis 373a StPO).
-   - Bestimme das zustaendige Gericht und das weitere Verfahren der Zulaessigkeits- und Begruendetheitspruefung.
+1. Arbeitsschritt Wiederaufnahme Zuungunsten Paragraf 362: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
+2. Einstellung nach Paragraf 170 Abs. 2 StPO, Opportunität, Strafbefehl, Anklage, Sicherungsverfahren oder Wiederaufnahme nicht vermengen.
+3. Tat, Tatzeit, Tatort und gesetzliche Merkmale für jeden Beschuldigten getrennt darstellen.
+4. Nebenentscheidungen wie Einziehung, Adhäsion, Mitteilungen, Kosten und Asservate in die Abschlussverfügung aufnehmen.
+5. Ausgangsverfügung mit Adressaten, Rechtsbehelfen, Fristen und Zustellungen vollzugsfähig machen.
 
 ## Typische Fallstricke
 
-- Die Wiederaufnahmegruende werden ueber den Wortlaut des Paragraf 362 StPO hinaus ausgedehnt; der Antrag ist unzulaessig.
+- Die Wiederaufnahmegruende werden über den Wortlaut des Paragraf 362 StPO hinaus ausgedehnt; der Antrag ist unzulaessig.
 - Der verfassungsrechtliche Rahmen aus Art. 103 Abs. 3 GG wird nicht reflektiert.
 - Die Beweismittel sind nicht hinreichend dargelegt; der Antrag bleibt formal mangelhaft.
 - Der Antrag erschoepft sich in einer abweichenden Beweiswuerdigung statt in neuen Tatsachen oder Beweismitteln.
 
-## Antrags- bzw. Verfuegungs-Bausteine
+## Antrags- bzw. Verfügungs-Bausteine
 
-### Wiederaufnahmeantrag
+### Baustein A
 
 ```text
-Es wird beantragt, das Verfahren gegen [Name] aus dem Urteil des [Gericht] vom [Datum], Aktenzeichen [Aktenzeichen], gemaess Paragraf 362 Nr. [Ziffer] StPO zuungunsten des [Verurteilten/Freigesprochenen] wieder aufzunehmen. Die Wiederaufnahmegruende stuetzen sich auf [Tatsachen]. Beweismittel: [Liste]. Die formalen Anforderungen des Paragraf 366 StPO sind erfuellt.
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
 ```
 
-### Vorlagebaustein an die Generalstaatsanwaltschaft
+### Baustein B
 
 ```text
-Die Akten werden der Generalstaatsanwaltschaft zur Pruefung der Wiederaufnahme zuungunsten gemaess Paragraf 362 StPO vorgelegt. Die Stellungnahme erfolgt unter Beruecksichtigung des Grundsatzes ne bis in idem (Art. 103 Abs. 3 GG).
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `26-opferschutz-nebenklage-und-verletztenrechte` - Vorgelagerter Arbeitsschritt; dort die opferschutzrechtliche Begleitung klaeren, bevor die Wiederaufnahme zuungunsten geprueft wird.
-- **Danach**: `28-internationale-rechtshilfe-und-eu-haftbefehl` - Folgeschritt, sobald die Wiederaufnahme grenzueberschreitende Bezuege hat und Rechtshilfe oder Auslieferung in Betracht kommt.
+- **Davor**: `26-opferschutz-nebenklage-und-verletztenrechte` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Wiederaufnahme Zuungunsten Paragraf 362 trägt.
+- **Danach**: `28-internationale-rechtshilfe-und-eu-haftbefehl` - Folgeschritt im selben Plugin; nutze ihn, sobald Wiederaufnahme Zuungunsten Paragraf 362 entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -3,7 +3,7 @@ name: 01-akte-erstdurchsicht-und-anfangsverdacht
 description: "Strukturierte Erstdurchsicht des Ermittlungsvorgangs: Anzeige, Tatvorwurf, zureichende tatsaechliche Anhaltspunkte (Paragraf 152 Abs. 2 StPO), Beschuldigtenstatus, Verjaehrung, erste Ermittlungsrichtung nach Paragraf 160 StPO"
 ---
 
-# 01 Akte-Erstdurchsicht Und Anfangsverdacht
+# 01 Akte-Erstdurchsicht und Anfangsverdacht
 
 ## Zweck
 
@@ -31,46 +31,43 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
 
-## Anker-Rechtsprechung
+## Normen & Rechtsprechung
 
-- Das Legalitaetsprinzip (Paragraf 152 Abs. 2 in Verbindung mit Paragraf 170 StPO) verpflichtet die Staatsanwaltschaft, bei zureichenden tatsaechlichen Anhaltspunkten einzuschreiten; das Bundesverfassungsgericht hat das Prinzip wiederholt bestaetigt (st. Rspr.; Aktenzeichen vor Verwendung verifizieren).
-- Nr. 1 bis Nr. 6 RiStBV: Die Staatsanwaltschaft leitet das Ermittlungsverfahren und bestimmt Umfang und Richtung der Ermittlungen sachleitend.
-- Anfangsverdacht setzt konkrete, auf Tatsachen gestuetzte Anhaltspunkte voraus, nicht blosse Vermutung (st. Rspr.; Aktenzeichen vor Verwendung verifizieren).
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
+- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
 
-## Pruefungsschema in Stufen
+## Prüf- und Arbeitslogik
 
-1. Anzeige, Vorgang und Tatvorwurf erfassen.
-   - Halte Anzeigeerstatter, angezeigte Person, Lebenssachverhalt und mutmassliche Strafnorm aktengetragen fest.
-2. Anfangsverdacht nach Paragraf 152 Abs. 2 StPO pruefen.
-   - Pruefe, ob zureichende tatsaechliche Anhaltspunkte vorliegen; trenne Tatsache von Wertung und Vermutung.
-3. Verfahrenshindernisse und Verjaehrung pruefen (Paragrafen 78 ff. StGB).
-   - Berechne die Verjaehrungsfrist, pruefe Strafantrag (Paragraf 77 StGB) und besondere Verfolgungsvoraussetzungen.
-4. Beschuldigtenstatus und Personalien klaeren.
-   - Lege fest, ab wann die Inkulpation greift, und sichere die Belehrungslage fuer kuenftige Vernehmungen.
-5. Erste Ermittlungsrichtung festlegen.
-   - Skizziere die naechsten Ermittlungshandlungen und markiere jede Entscheidung als Vorschlag zur dezernatlichen Pruefung.
+1. Arbeitsschritt Akte-Erstdurchsicht und Anfangsverdacht: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
+2. Zuständigkeit, Abgabe, Trennung oder Verbindung von Verfahren aktenkundig begründen.
+3. Ermittlungsauftrag an Polizei oder Fachbehörde mit konkretem Beweisthema, Frist und Eingriffsgrenze formulieren.
+4. Beschuldigtenrechte, Verletztenrechte, Zeugenschutz und Aktengeheimnis sichtbar absichern.
+5. Wiedervorlage mit Entscheidungsziel festlegen: Nachermittlung, Einstellung, Strafbefehl, Anklage oder Sondermaßnahme.
 
 ## Typische Fallstricke
 
-- Verdachtsgrad wird ueberschaetzt: blosse Moeglichkeit wird als zureichender Anhaltspunkt behandelt.
-- Verjaehrung oder fehlender Strafantrag werden erst spaet erkannt, nachdem Ermittlungsaufwand entstanden ist.
+- Verdachtsgrad wird überschaetzt: blosse Moeglichkeit wird als zureichender Anhaltspunkt behandelt.
+- Verjaehrung oder fehlender Strafantrag werden erst spät erkannt, nachdem Ermittlungsaufwand entstanden ist.
 - Entlastende Umstaende werden in der Erstdurchsicht ausgeblendet, obwohl Paragraf 160 Abs. 2 StPO sie verlangt.
 - Akteninhalte gelangen wegen Paragraf 353b StGB und Paragraf 37 BeamtStG nicht in nicht freigegebene Werkzeuge.
 
-## Antrags- bzw. Verfuegungs-Bausteine
+## Antrags- bzw. Verfügungs-Bausteine
 
-### Verfuegung Ermittlungsauftrag
+### Baustein A
 
 ```text
-In dem Ermittlungsverfahren gegen [Name] wegen [Tatvorwurf] besteht nach Aktenlage ein Anfangsverdacht gemaess Paragraf 152 Abs. 2 StPO. Es wird verfuegt: [Ermittlungshandlungen]. Wiedervorlage in [Frist].
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
 ```
 
-### Vermerk Verdachtspruefung
+### Baustein B
 
 ```text
-Zureichende tatsaechliche Anhaltspunkte ergeben sich aus [konkrete Tatsachen, Blatt der Akte]. Eine Verjaehrung ist nach Paragraf 78 StGB [nicht] eingetreten; ein Strafantrag liegt [vor/nicht vor].
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
 ```
 
 ## Benachbarte Skills
 
-- **Danach**: `02-zustaendigkeit-sta-und-amtsanwaltschaft` - Folgeschritt, sobald Akte-Erstdurchsicht Und Anfangsverdacht als staatsanwaltschaftlicher Arbeitsstand verwertbar ist.
+- **Davor**: `28-internationale-rechtshilfe-und-eu-haftbefehl` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Akte-Erstdurchsicht und Anfangsverdacht trägt.
+- **Danach**: `02-zustaendigkeit-sta-und-amtsanwaltschaft` - Folgeschritt im selben Plugin; nutze ihn, sobald Akte-Erstdurchsicht und Anfangsverdacht entscheidungs- oder verfügungsreif vorbereitet ist.

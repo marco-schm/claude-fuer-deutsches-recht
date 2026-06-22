@@ -3,7 +3,7 @@ name: 03-ermittlungsfuehrung-und-ermittlungsanweisung
 description: "Sachleitungsbefugnis der Staatsanwaltschaft (Paragrafen 161 und 163 StPO), Ermittlungsanweisungen an Polizei und Ermittlungspersonen (Paragraf 152 GVG), Ermittlungsplan, Beweisthemen, Aktenfuehrung"
 ---
 
-# 03 Ermittlungsfuehrung Und Ermittlungsanweisung
+# 03 Ermittlungsfuehrung und Ermittlungsanweisung
 
 ## Zweck
 
@@ -31,24 +31,20 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
 
-## Anker-Rechtsprechung
+## Normen & Rechtsprechung
 
-- Paragraf 161 Abs. 1 StPO begruendet die Befugnis der Staatsanwaltschaft, Ermittlungen jeder Art selbst vorzunehmen oder durch die Behoerden und Beamten des Polizeidienstes vornehmen zu lassen.
-- Paragraf 152 GVG unterstellt die Ermittlungspersonen der Staatsanwaltschaft ihren Anordnungen; das Sachleitungsrecht umfasst Art, Umfang und Richtung der Ermittlungen.
-- Die Aufklaerungspflicht verlangt, alle erreichbaren be- und entlastenden Beweismittel auszuschoepfen (Paragraf 160 Abs. 2 StPO; st. Rspr., Aktenzeichen vor Verwendung verifizieren).
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
+- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
 
-## Pruefungsschema in Stufen
+## Prüf- und Arbeitslogik
 
-1. Beweisthemen und offene Punkte ordnen.
-   - Liste je Tatbestandsmerkmal das beweisbeduerftige Thema und das vorhandene oder fehlende Beweismittel auf.
-2. Ermittlungshandlungen auswaehlen und priorisieren.
-   - Ordne Vernehmungen, Spurensicherung, Auskuenfte und Gutachten nach Eilbeduerftigkeit und Verhaeltnismaessigkeit.
-3. Ermittlungsanweisung praezise formulieren.
-   - Formuliere konkrete, ausfuehrbare Auftraege an die Ermittlungspersonen mit Beweisthema, Ziel und Frist.
-4. Zwangsmassnahmen-Bedarf erkennen.
-   - Pruefe, ob richterliche Anordnungen erforderlich sind, und verweise auf die einschlaegigen Folgeskills.
-5. Ermittlungsstand fortschreiben.
-   - Halte Eingaenge, offene Auftraege und Wiedervorlagen revisionssicher fest.
+1. Arbeitsschritt Ermittlungsfuehrung und Ermittlungsanweisung: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
+2. Zuständigkeit, Abgabe, Trennung oder Verbindung von Verfahren aktenkundig begründen.
+3. Ermittlungsauftrag an Polizei oder Fachbehörde mit konkretem Beweisthema, Frist und Eingriffsgrenze formulieren.
+4. Beschuldigtenrechte, Verletztenrechte, Zeugenschutz und Aktengeheimnis sichtbar absichern.
+5. Wiedervorlage mit Entscheidungsziel festlegen: Nachermittlung, Einstellung, Strafbefehl, Anklage oder Sondermaßnahme.
 
 ## Typische Fallstricke
 
@@ -57,21 +53,21 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 - Eilbeduerftige Spurensicherung wird hinter Routineermittlungen zurueckgestellt.
 - Akteninhalte gelangen wegen Paragraf 353b StGB und Paragraf 37 BeamtStG in nicht freigegebene Werkzeuge.
 
-## Antrags- bzw. Verfuegungs-Bausteine
+## Antrags- bzw. Verfügungs-Bausteine
 
-### Ermittlungsanweisung an die Polizei
+### Baustein A
 
 ```text
-Es wird gebeten zu ermitteln: 1. [Beweisthema] durch [Massnahme]. 2. [Beweisthema] durch [Massnahme]. Beweisziel ist jeweils [Ziel]. Rueckgabe der Akte mit Ermittlungsergebnis bis [Frist].
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
 ```
 
-### Verfuegung Ermittlungsplan
+### Baustein B
 
 ```text
-Offene Beweisthemen: [Liste]. Naechste Schritte: [Schritte]. Zustaendig: [Ermittlungsperson]. Wiedervorlage: [Frist].
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `02-zustaendigkeit-sta-und-amtsanwaltschaft` - Vorgelagerter Arbeitsschritt; dort die Akten-, Zustaendigkeits- oder Ermittlungsfrage klaeren, bevor Ermittlungsfuehrung Und Ermittlungsanweisung bearbeitet wird.
-- **Danach**: `04-durchsuchung-und-beschlagnahme-antrag` - Folgeschritt, sobald Ermittlungsfuehrung Und Ermittlungsanweisung als staatsanwaltschaftlicher Arbeitsstand verwertbar ist.
+- **Davor**: `02-zustaendigkeit-sta-und-amtsanwaltschaft` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Ermittlungsfuehrung und Ermittlungsanweisung trägt.
+- **Danach**: `04-durchsuchung-und-beschlagnahme-antrag` - Folgeschritt im selben Plugin; nutze ihn, sobald Ermittlungsfuehrung und Ermittlungsanweisung entscheidungs- oder verfügungsreif vorbereitet ist.

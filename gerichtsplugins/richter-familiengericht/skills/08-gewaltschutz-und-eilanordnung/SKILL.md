@@ -3,7 +3,7 @@ name: 08-gewaltschutz-und-eilanordnung
 description: "Gewaltschutzverfahren GewSchG: Schutzanordnungen Paragraf 1 (Abstand, Naehe, Kontakt), Wohnungszuweisung Paragraf 2, Eilbeschluss Paragraf 214 FamFG, sofortige Wirksamkeit Paragraf 209 FamFG, Strafbewehrung Paragraf 4 GewSchG"
 ---
 
-# 08 Gewaltschutz Und Eilanordnung
+# 08 Gewaltschutz und Eilanordnung
 
 ## Zweck
 
@@ -34,23 +34,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH XII ZB 601/15 (01.02.2017): Ein paritaetisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
-- BGH XII ZB 512/18 (27.11.2019): Wechselmodell setzt regelmaessig tragfähige Kommunikation, Kooperation und Kindeswohlvorteil voraus.
-- BGH XII ZB 234/13 (12.03.2014): Kindesunterhalt ist aus Mindestunterhalt, Einkommensgruppe und konkreter Leistungsfähigkeit herzuleiten.
-- BGH XII ZB 336/16 (11.07.2018): Externe Teilung im Versorgungsausgleich verlangt genaue Bewertung des auszugleichenden Anrechts.
+- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15, BGHZ 214, 31: Ein paritätisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
+- BGH, Beschluss vom 27.11.2019 - XII ZB 512/18, frei nachweisbar über dejure/openJur: Wechselmodell setzt tragfähige Kommunikation, Kooperation und konkreten Kindeswohlvorteil voraus.
+- BGH, Beschluss vom 12.03.2014 - XII ZB 234/13, frei nachweisbar über dejure/openJur: Kindesunterhalt ist aus Bedarf, Einkommensgruppe und Leistungsfähigkeit nachvollziehbar herzuleiten.
+- BGH, Beschluss vom 11.07.2018 - XII ZB 336/16, frei nachweisbar über dejure/openJur: Versorgungsausgleich verlangt genaue Bewertung des auszugleichenden Anrechts und der Teilungsform.
 
 ## Prüfungsschema in Stufen
 
-1. Familiensache, Verfahrensart, Beteiligte und Zuständigkeit klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Amtsermittlung, Anhörung, Jugendamt oder Versorgungstraeger je nach Sache einbinden.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-3. Materielle Anspruchs- oder Kindeswohlprüfung stufenweise durchfuehren.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Eilbeduerftigkeit, Verbund oder Folgesache gesondert prüfen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Beschluss mit Tenor, Gründen, Rechtsmittel und Vollstreckungshinweis formulieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
+1. Arbeitsschritt Gewaltschutz und Eilanordnung: Schutzbedürfnis, konkrete Verletzungshandlung, Glaubhaftmachung und Eilzuständigkeit zuerst prüfen.
+2. Kontakt-, Näherungs-, Wohnungs- und Herausgabeanordnungen getrennt nach Erforderlichkeit formulieren.
+3. Anhörung, einstweilige Anordnung ohne mündliche Verhandlung und Befristung mit Gefährdungslage begründen.
+4. Kindeswohl, Polizeischutz, Strafverfahren und Datenschutzfolgen sichtbar voneinander abgrenzen.
+5. Beschluss mit Reichweite, Ordnungsmittelhinweis, Zustellung und Vollzug klar fassen.
 
 ## Typische Fallstricke
 
@@ -64,16 +59,16 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Umgang des Kindes [Name] mit [Elternteil] wird wie folgt geregelt: [Regelung]. Im Uebrigen werden die Antraege zurückgewiesen.
+Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
 ```
 
 ### Baustein B
 
 ```text
-Im Wege der internen Teilung wird zu Lasten des Anrechts [Versorgungstraeger] zugunsten von [Beteiligte Person] ein Anrecht in Höhe von [Wert] bezogen auf den [Ehezeitende] übertragen.
+Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `07-ehegattenunterhalt-trennung-und-nachehe` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 08 Gewaltschutz Und Eilanordnung bearbeitet wird.
-- **Danach**: `09-beschluss-familiensache-paragraf-38-famfg` - Nutze diesen Folgeschritt, sobald 08 Gewaltschutz Und Eilanordnung als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `07-ehegattenunterhalt-trennung-und-nachehe` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Gewaltschutz und Eilanordnung trägt.
+- **Danach**: `09-beschluss-familiensache-paragraf-38-famfg` - Folgeschritt im selben Plugin; nutze ihn, sobald Gewaltschutz und Eilanordnung entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -34,23 +34,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH IX ZR 285/14 (26.01.2017): Zahlungsunfähigkeit ist aus Liquiditätsstatus und Liquiditätsluecke konkret herzuleiten.
-- BGH IX ZR 65/14 (12.05.2016): Vorsatzanfechtung verlangt tragfähige Indizien für Kenntnis und Benachteiligungsvorsatz.
-- BVerfG 1 BvR 135/00 (03.08.2004): Insolvenzgerichtliche Eingriffe in Vermögen und Berufsausübung brauchen gesetzliche Grundlage und Verhältnismäßigkeit.
-- BGH IX ZB 219/10 (19.09.2013): Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar und am Verfahrenserfolg orientiert sein.
+- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
+- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
+- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
+- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Antrag, Antragsbefugnis und Glaubhaftmachung feststellen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-2. Insolvenzgrund nach Paragrafen 17 bis 19 InsO oder Restrukturierungsanzeige nach StaRUG prüfen.
-   - Prüfe Liquiditätsstatus, Gläubigerbetroffenheit, Eingriffsintensität und gesetzliche Anordnungsvoraussetzungen getrennt.
-3. Sicherungsmaßnahmen, Gutachterauftrag und Verwalterauswahl begründen.
-   - Prüfe Liquiditätsstatus, Gläubigerbetroffenheit, Eingriffsintensität und gesetzliche Anordnungsvoraussetzungen getrennt.
-4. Beteiligtenrechte, Bekanntmachung und Termine strukturieren.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-5. Beschluss mit Rechtsmittel, Kosten und Geheimschutzvermerk formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Arbeitsschritt Insolvenzplan Bestaetigen: Verfahrensphase, Beteiligtenrechte und konkrete Beschlusszuständigkeit festlegen.
+2. Gläubigerrechte, Prüfungstermin, Schlusstermin, Restschuldbefreiung und Versagungsgründe getrennt prüfen.
+3. Masseinteresse, Verfahrensökonomie und rechtliches Gehör dokumentieren.
+4. Beschluss mit Tenor, Gründen, Zustellung und Rechtsmittelbelehrung formulieren.
+5. Bei Verbraucher- oder Regelinsolvenz Besonderheiten nicht vermengen.
 
 ## Typische Fallstricke
 
@@ -64,16 +59,16 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Zur Sicherung der Masse wird angeordnet, dass Verfügungen der Schuldnerin nur mit Zustimmung des vorläufigen Insolvenzverwalters wirksam sind. Der Umfang der Maßnahme ist auf die zur Sicherung des Verfahrens erforderlichen Vermögenswerte beschränkt.
+Zur Sicherung der Masse wird angeordnet, dass Verfügungen des Schuldners nur mit Zustimmung des vorläufigen Insolvenzverwalters wirksam sind. Die Maßnahme ist erforderlich, weil [konkretes Sicherungsrisiko].
 ```
 
 ### Baustein B
 
 ```text
-Die Schuldnerin hat binnen [Frist] einen aktuellen Liquiditätsstatus, eine Dreiwochenplanung und eine Liste der wesentlichen Gläubiger einzureichen.
+Das Insolvenzverfahren über das Vermögen des Schuldners wird wegen [Zahlungsunfähigkeit/Überschuldung] eröffnet. Zum Insolvenzverwalter wird [Name] bestellt.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `06-eigenverwaltung-und-schutzschirm` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 07 Insolvenzplan Bestaetigen bearbeitet wird.
-- **Danach**: `08-starug-restrukturierungssache-anzeigen` - Nutze diesen Folgeschritt, sobald 07 Insolvenzplan Bestaetigen als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `06-eigenverwaltung-und-schutzschirm` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Insolvenzplan Bestaetigen trägt.
+- **Danach**: `08-starug-restrukturierungssache-anzeigen` - Folgeschritt im selben Plugin; nutze ihn, sobald Insolvenzplan Bestaetigen entscheidungs- oder verfügungsreif vorbereitet ist.

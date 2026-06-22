@@ -3,7 +3,7 @@ name: 07-kammer-und-senat-zustaendigkeit
 description: "Zuständigkeit Kammer (drei Richter) Paragraf 93b BVerfGG vs. Senatszuständigkeit, Annahmebeschluss durch Kammer, Senatsannahme bei besonderer Bedeutung, einstimmige Nichtannahme"
 ---
 
-# 07 Kammer Und Senat Zuständigkeit
+# 07 Kammer und Senat Zuständigkeit
 
 ## Zweck
 
@@ -34,24 +34,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 BvR 400/51 (15.01.1958): Lüth begründet die objektive Wertordnung der Grundrechte und ihre Ausstrahlung in das Fachrecht.
-- BVerfG 1 BvR 596/56 (11.06.1958): Das Apothekenurteil strukturiert die Verhältnismäßigkeit bei Berufsfreiheit und Regelungsstufen.
-- BVerfG 1 BvR 435/68 (24.02.1971): Mephisto zeigt die Abwaegung zwischen Kunstfreiheit und Persönlichkeitsrecht.
-- BVerfG 1 BvR 209/83 und weitere (15.12.1983): Volkszählung begründet das Recht auf informationelle Selbstbestimmung.
-- BVerfG 1 BvR 536/72 (05.06.1973): Lebach praegt die Abwaegung zwischen Berichterstattung und Resozialisierungsinteresse.
+- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung in die Auslegung des Fachrechts hinein.
+- BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56, BVerfGE 7, 377, Apothekenurteil: Berufsfreiheitsbeschränkungen sind nach Eingriffsintensität und Verhältnismäßigkeit zu staffeln.
+- BVerfG, Beschluss vom 24.02.1971 - 1 BvR 435/68, BVerfGE 30, 173, Mephisto: Kunstfreiheit und Persönlichkeitsrecht sind fallbezogen abzuwägen.
+- BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 und weitere, BVerfGE 65, 1, Volkszählung: Das Recht auf informationelle Selbstbestimmung schützt vor unbegrenzter Erhebung, Speicherung und Verknüpfung personenbezogener Daten.
+- BVerfG, Urteil vom 05.06.1973 - 1 BvR 536/72, BVerfGE 35, 202, Lebach: Berichterstattung und Resozialisierungsinteresse sind konkret zu gewichten.
 
 ## Prüfungsschema in Stufen
 
-1. Beschwerdegegenstand, Beschwerdefuehrung und Beschwerdebefugnis prüfen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-2. Rechtswegerschoepfung, Subsidiaritaet, Frist und Form nach BVerfGG klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-3. Annahmegründe nach Paragraf 93a BVerfGG getrennt von Begründetheit prüfen.
-   - Kontrolliere Fristbeginn, Form, Vertretung, Vollmacht und gesetzliche Zulassungsvoraussetzungen anhand der konkreten Akte.
-4. Grundrechtsverletzung mit Schutzbereich, Eingriff und Rechtfertigung analysieren.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-5. Kammervotum, Nichtannahmebeschluss oder Stattgabebeschluss mit Tragweite formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Arbeitsschritt Kammer und Senat Zuständigkeit: Senat, Kammer, Berichterstatterzuständigkeit und Entscheidungsform zuerst bestimmen.
+2. Nichtannahme, stattgebender Kammerbeschluss oder Senatsentscheidung nach Annahmevoraussetzungen und Tragweite trennen.
+3. Tenor, Gründe, Gegenstandswert, Auslagenerstattung und Vollzugsfolgen aufeinander abstimmen.
+4. Fachgerichtliche Entscheidungsfolgen und Rückverweisung präzise formulieren.
+5. Veröffentlichungs- und Begründungsniveau an Bedeutung, Wiederholungsgefahr und Grundsatzcharakter anpassen.
 
 ## Typische Fallstricke
 
@@ -65,16 +60,16 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht vorliegen.
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht dargelegt sind.
 ```
 
 ### Baustein B
 
 ```text
-Die angegriffene Entscheidung verletzt die Beschwerdefuehrerin in ihrem Grundrecht aus Art. [Artikel] GG. Die Sache wird an [Gericht] zur erneuten Entscheidung zurückverwiesen.
+Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrecht aus [Grundrecht], weil [verfassungsrechtlicher Prüfungsfehler] nicht tragfähig berücksichtigt wurde.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `06-fachgerichtliche-entscheidung-pruefen` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 07 Kammer Und Senat Zuständigkeit bearbeitet wird.
-- **Danach**: `08-votum-wissenschaftlicher-mitarbeiter` - Nutze diesen Folgeschritt, sobald 07 Kammer Und Senat Zuständigkeit als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `06-fachgerichtliche-entscheidung-pruefen` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Kammer und Senat Zuständigkeit trägt.
+- **Danach**: `08-votum-wissenschaftlicher-mitarbeiter` - Folgeschritt im selben Plugin; nutze ihn, sobald Kammer und Senat Zuständigkeit entscheidungs- oder verfügungsreif vorbereitet ist.

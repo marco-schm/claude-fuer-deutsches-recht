@@ -3,11 +3,11 @@ name: 24-abschlussverfuegung-und-entscheidungsvorschlag
 description: "Strukturierte Abschlussverfuegung des Dezernats: Gesamtwuerdigung des Ermittlungsergebnisses, Entscheidung zwischen Anklage, Strafbefehl, Einstellung und Massregel, Verfuegungstechnik, Risikohinweise, ausdrueckliche Markierung als Vorschlag"
 ---
 
-# 24 Abschlussverfuegung Und Entscheidungsvorschlag
+# 24 Abschlussverfuegung und Entscheidungsvorschlag
 
 ## Zweck
 
-Strukturierte Abschlussverfuegung des Dezernats: Gesamtwuerdigung des Ermittlungsergebnisses, Entscheidung zwischen Anklage, Strafbefehl, Einstellung und Massregel, Verfuegungstechnik, Risikohinweise, ausdrueckliche Markierung als Vorschlag
+Strukturierte Abschlussverfuegung des Dezernats: Gesamtwuerdigung des Ermittlungsergebnisses, Entscheidung zwischen Anklage, Strafbefehl, Einstellung und Maßregel, Verfügungstechnik, Risikohinweise, ausdrueckliche Markierung als Vorschlag
 
 ## Rolle
 
@@ -31,46 +31,43 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
 
-## Anker-Rechtsprechung
+## Normen & Rechtsprechung
 
-- Die Abschlussentscheidung folgt dem Legalitaetsprinzip (Paragraf 152 Abs. 2 StPO) und der Pruefung des hinreichenden Tatverdachts (Paragraf 170 StPO).
-- Die Verfuegungstechnik der RiStBV ordnet Bescheide, Mitteilungen und Anklageschrift; Form und Adressaten sind vollstaendig zu erfassen.
-- Die Entscheidung ist objektiv und weisungsgebunden zu treffen (Paragrafen 146, 147 GVG; st. Rspr., Aktenzeichen vor Verwendung verifizieren).
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
+- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
 
-## Pruefungsschema in Stufen
+## Prüf- und Arbeitslogik
 
-1. Ermittlungsergebnis gesamtwuerdigen.
-   - Fasse Beweislage, rechtliche Bewertung und offene Punkte zu jeder Tat zusammen.
-2. Entscheidungsweg waehlen.
-   - Grenze Anklage, Strafbefehl, beschleunigtes Verfahren, Opportunitaetseinstellung und Einstellung mangels Tatverdachts ab.
-3. Nebenentscheidungen bedenken.
-   - Pruefe Einziehung, Massregeln, Kosten, Mitteilungen und Bescheide.
-4. Verfuegung technisch fassen.
-   - Ordne die Verfuegung nach Adressaten, Bescheiden und Wiedervorlagen nach der RiStBV.
-5. Risikohinweise und Markierung setzen.
-   - Benenne Beweis-, Verjaehrungs- und Verfahrensrisiken und markiere alles als Vorschlag zur dezernatlichen Pruefung.
+1. Arbeitsschritt Abschlussverfuegung und Entscheidungsvorschlag: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
+2. Einstellung nach Paragraf 170 Abs. 2 StPO, Opportunität, Strafbefehl, Anklage, Sicherungsverfahren oder Wiederaufnahme nicht vermengen.
+3. Tat, Tatzeit, Tatort und gesetzliche Merkmale für jeden Beschuldigten getrennt darstellen.
+4. Nebenentscheidungen wie Einziehung, Adhäsion, Mitteilungen, Kosten und Asservate in die Abschlussverfügung aufnehmen.
+5. Ausgangsverfügung mit Adressaten, Rechtsbehelfen, Fristen und Zustellungen vollzugsfähig machen.
 
 ## Typische Fallstricke
 
 - Die Abschlussentscheidung waehlt den Verfahrensweg, ohne den hinreichenden Tatverdacht je Tat zu pruefen.
-- Notwendige Bescheide an Verletzte oder Anzeigeerstatter werden in der Verfuegung vergessen.
+- Notwendige Bescheide an Verletzte oder Anzeigeerstatter werden in der Verfügung vergessen.
 - Nebenentscheidungen wie Einziehung oder Kosten werden nicht mitverfuegt.
-- Die Verfuegung wird als Letztentscheid formuliert statt als Vorschlag zur dezernatlichen Pruefung.
+- Die Verfügung wird als Letztentscheid formuliert statt als Vorschlag zur dezernatlichen Pruefung.
 
-## Antrags- bzw. Verfuegungs-Bausteine
+## Antrags- bzw. Verfügungs-Bausteine
 
-### Abschlussverfuegung Geruest
+### Baustein A
 
 ```text
-I. Sachverhalt und Beweisergebnis: [Zusammenfassung]. II. Rechtliche Wuerdigung: [Subsumtion]. III. Entscheidung: [Anklage/Strafbefehl/Einstellung]. IV. Nebenentscheidungen: [Einziehung/Kosten/Bescheide]. V. Verfuegung: [Adressaten, Fristen, Wiedervorlage].
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
 ```
 
-### Markierungsbaustein
+### Baustein B
 
 ```text
-Dieser Entwurf ist ein Vorschlag zur dezernatlichen Pruefung. Die abschliessende Entscheidung trifft der zustaendige Staatsanwalt beziehungsweise Amtsanwalt (kein automatisierter Letztentscheid, Art. 22 DSGVO).
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `23-klageerzwingung-und-beschwerdebescheid-paragraf-172` - Vorgelagerter Arbeitsschritt; dort die Akten-, Zustaendigkeits- oder Ermittlungsfrage klaeren, bevor Abschlussverfuegung Und Entscheidungsvorschlag bearbeitet wird.
+- **Davor**: `23-klageerzwingung-und-beschwerdebescheid-paragraf-172` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Abschlussverfuegung und Entscheidungsvorschlag trägt.
+- **Danach**: `25-adhaesionsverfahren-paragraf-403` - Folgeschritt im selben Plugin; nutze ihn, sobald Abschlussverfuegung und Entscheidungsvorschlag entscheidungs- oder verfügungsreif vorbereitet ist.

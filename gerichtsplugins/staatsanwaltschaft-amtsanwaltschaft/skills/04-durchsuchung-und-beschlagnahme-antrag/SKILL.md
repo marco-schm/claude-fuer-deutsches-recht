@@ -3,7 +3,7 @@ name: 04-durchsuchung-und-beschlagnahme-antrag
 description: "Antrag auf richterliche Anordnung der Durchsuchung (Paragrafen 102 bis 105 StPO) und Beschlagnahme (Paragrafen 94 bis 98 StPO), Verhaeltnismaessigkeit, Gefahr im Verzug, Richtervorbehalt"
 ---
 
-# 04 Durchsuchung Und Beschlagnahme Antrag
+# 04 Durchsuchung und Beschlagnahme Antrag
 
 ## Zweck
 
@@ -31,24 +31,21 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
 
-## Anker-Rechtsprechung
+## Normen & Rechtsprechung
 
-- BVerfG 2 BvR 1444/00 (Urteil vom 20.02.2001, BVerfGE 103, 142): Gefahr im Verzug ist eng auszulegen und mit Tatsachen zu begruenden; die Eilkompetenz der Staatsanwaltschaft ist die Ausnahme, der Richtervorbehalt die Regel.
-- BVerfG 2 BvR 1027/02 (Beschluss vom 12.04.2005, BVerfGE 113 29 - NJW 2005 1917): Bei Durchsuchung, Sicherstellung und Beschlagnahme von Datentraegern ist der Zugriff auf fuer das Verfahren bedeutungslose Informationen im Rahmen des Vertretbaren zu vermeiden; bei schwerwiegenden, bewussten oder willkuerlichen Verstoessen kommt ein Beweisverwertungsverbot in Betracht.
-- Der Durchsuchungsbeschluss muss Tatvorwurf, gesuchte Beweismittel und Durchsuchungsziel so umgrenzen, dass die Massnahme messbar bleibt (st. Rspr., Aktenzeichen vor Verwendung verifizieren).
+- BVerfG, Beschluss vom 20.02.2001 - 2 BvR 1444/00, BVerfGE 103, 142: Gefahr im Verzug darf den Richtervorbehalt nur bei dokumentierter Eilbedürftigkeit verdrängen.
+- BVerfG, Beschluss vom 12.04.2005 - 2 BvR 1027/02, BVerfGE 113, 29: Durchsuchung und Beschlagnahme bei Berufsgeheimnisträgern verlangen gesteigerte Verhältnismäßigkeit und Schutz vertraulicher Mandatskommunikation.
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
 
-## Pruefungsschema in Stufen
+## Prüf- und Arbeitslogik
 
-1. Eingriffsschwelle und Verdacht pruefen.
-   - Lege Anfangsverdacht und Auffindevermutung dar und benenne die gesuchten Beweismittel konkret.
-2. Richtervorbehalt und Eilkompetenz abgrenzen.
-   - Pruefe vorrangig den richterlichen Beschluss; Gefahr im Verzug nur mit dokumentierten Tatsachen, nicht mit Routineerwaegungen.
-3. Verhaeltnismaessigkeit pruefen.
-   - Wiege Eingriffstiefe gegen Bedeutung der Sache und Verdachtsgrad ab und pruefe mildere Mittel.
-4. Antrag praezise fassen.
-   - Bezeichne Durchsuchungsobjekt, Beschuldigten, Tatvorwurf und gesuchte Gegenstaende bestimmt.
-5. Beschlagnahmefolgen und Verwertung mitdenken.
-   - Pruefe Sicherstellung, Beschlagnahmebestaetigung und Beweisverwertungsfragen.
+1. Arbeitsschritt Durchsuchung und Beschlagnahme Antrag: Anfangsverdacht, Maßnahmeziel, Datenquelle, Richtervorbehalt und Verhältnismäßigkeit zuerst prüfen.
+2. Herkunft, Integrität, Rechtshilfeweg, Zuordnung zum Beschuldigten und Verteidigungszugang für jeden Datensatz dokumentieren.
+3. Durchsuchung, Beschlagnahme, Telekommunikationsüberwachung und digitale Sicherung strikt nach Eingriffsnorm trennen.
+4. Berufsgeheimnisse, Kernbereichsschutz, Zufallsfunde und Löschungspflichten vor der Auswertung markieren.
+5. Antrag oder Verfügung mit Tatvorwurf, Beweismittel, Begrenzung, Vollzugsauftrag und Dokumentationspflicht formulieren.
 
 ## Typische Fallstricke
 
@@ -57,21 +54,21 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 - Zufallsfunde (Paragraf 108 StPO) und Beschlagnahmeverbote (Paragraf 97 StPO) werden nicht bedacht.
 - Verhaeltnismaessigkeit wird nicht dokumentiert, obwohl die Massnahme tief in Art. 13 GG eingreift.
 
-## Antrags- bzw. Verfuegungs-Bausteine
+## Antrags- bzw. Verfügungs-Bausteine
 
-### Antrag Durchsuchungsbeschluss
+### Baustein A
 
 ```text
-Es wird beantragt, die Durchsuchung der Wohnung und Nebenraeume des Beschuldigten [Name], [Anschrift], gemaess Paragrafen 102, 105 StPO anzuordnen. Gesucht werden [Beweismittel]. Der Beschuldigte ist verdaechtig, [Tatvorwurf] begangen zu haben.
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
 ```
 
-### Antrag Beschlagnahme
+### Baustein B
 
 ```text
-Es wird beantragt, die in der Anlage bezeichneten Gegenstaende gemaess Paragrafen 94, 98 StPO zu beschlagnahmen, weil sie als Beweismittel fuer [Tat] von Bedeutung sind.
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `03-ermittlungsfuehrung-und-ermittlungsanweisung` - Vorgelagerter Arbeitsschritt; dort die Akten-, Zustaendigkeits- oder Ermittlungsfrage klaeren, bevor Durchsuchung Und Beschlagnahme Antrag bearbeitet wird.
-- **Danach**: `05-haftbefehlsantrag-und-untersuchungshaft` - Folgeschritt, sobald Durchsuchung Und Beschlagnahme Antrag als staatsanwaltschaftlicher Arbeitsstand verwertbar ist.
+- **Davor**: `03-ermittlungsfuehrung-und-ermittlungsanweisung` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Durchsuchung und Beschlagnahme Antrag trägt.
+- **Danach**: `05-haftbefehlsantrag-und-untersuchungshaft` - Folgeschritt im selben Plugin; nutze ihn, sobald Durchsuchung und Beschlagnahme Antrag entscheidungs- oder verfügungsreif vorbereitet ist.

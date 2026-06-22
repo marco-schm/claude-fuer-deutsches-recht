@@ -3,7 +3,7 @@ name: 03-zahlungsklage-lohn-und-gehalt
 description: "Zahlungsklage: faelliger Arbeitslohn, Annahmeverzug Paragrafen 615 BGB, Urlaubsabgeltung Paragraf 7 Abs. 4 BUrlG, Entgeltfortzahlung im Krankheitsfall Paragraf 3 EFZG, Verzugspauschale Paragraf 288 Abs. 5 BGB"
 ---
 
-# 03 Zahlungsklage Lohn Und Gehalt
+# 03 Zahlungsklage Lohn und Gehalt
 
 ## Zweck
 
@@ -34,23 +34,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BAG 2 AZR 442/05 (06.07.2006): Punkteschemata für die Sozialauswahl sind möglich, ersetzen aber nicht die gesetzliche Gewichtung der Sozialdaten.
-- BAG 2 AZR 164/14 (29.01.2015): Sozialauswahl verlangt eine konkrete Vergleichbarkeit und Bewertung der Schutzwuerdigkeit.
-- BAG 9 AZR 541/15 (19.02.2019): Urlaubsansprueche verfallen nur nach ordnungsgemäßer Mitwirkung und Hinweis des Arbeitgebers.
-- BAG 6 AZR 854/11 (20.09.2012): Auswahlrichtlinien und Namenslisten müssen im Kündigungsschutzprozess praezise eingeordnet werden.
+- BAG, Urteil vom 06.07.2006 - 2 AZR 442/05, frei nachweisbar über dejure/openJur: Punkteschemata können die Sozialauswahl strukturieren, ersetzen aber nicht die gesetzliche Gewichtung der Sozialdaten.
+- BAG, Urteil vom 29.01.2015 - 2 AZR 164/14, frei nachweisbar über dejure/openJur: Sozialauswahl setzt konkrete Vergleichbarkeit, ordnungsgemäße Gruppenbildung und Bewertung der Schutzwürdigkeit voraus.
+- BAG, Urteil vom 19.02.2019 - 9 AZR 541/15, frei nachweisbar über dejure/openJur: Urlaubsansprüche verfallen nur bei ordnungsgemäßer Mitwirkung und klarem Hinweis des Arbeitgebers.
+- BAG, Urteil vom 20.09.2012 - 6 AZR 854/11, frei nachweisbar über dejure/openJur: Namensliste, Auswahlrichtlinie und Darlegungslast sind im Kündigungsschutzprozess sauber voneinander zu trennen.
 
 ## Prüfungsschema in Stufen
 
-1. Rechtsweg, Verfahrensart und Guetetermin vorbereiten.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Antraege, Streitgegenstand und Fristen, besonders Paragraf 4 und Paragraf 7 KSchG, prüfen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-3. Materielle Anspruchs- oder Kündigungsvoraussetzungen stufenweise abarbeiten.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Vergleichsfenster mit Zeugnis, Abrechnung, Urlaub und Arbeitspapieren klären.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Urteil, Beschluss oder Vergleich mit Vollstreckbarkeit und Kosten formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Arbeitsschritt Zahlungsklage Lohn und Gehalt: Anspruchszeitraum, Brutto-Netto-Bezug, Fälligkeit und Ausschlussfristen zuerst aufklären.
+2. Arbeitsvertrag, Tarifvertrag, Betriebsvereinbarung, Entgeltabrechnung und tatsächliche Arbeitsleistung gegeneinander prüfen.
+3. Annahmeverzug, Überstunden, Sonderzahlung und Zurückbehaltungsrechte getrennt behandeln.
+4. Beweislast für Arbeitsleistung, Anordnung/Duldung und Höhe sichtbar machen.
+5. Tenor vollstreckbar mit Betrag, Zinsen, Abrechnungsanspruch und Kosten formulieren.
 
 ## Typische Fallstricke
 
@@ -64,16 +59,16 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die Kündigung der Beklagten vom [Datum] nicht aufgeloest worden ist.
+Im Gütetermin wird mit den Parteien erörtert, ob eine Beendigung gegen Zahlung einer Abfindung, die ordnungsgemäße Abrechnung bis [Datum] und die Erteilung eines qualifizierten Zeugnisses in Betracht kommen.
 ```
 
 ### Baustein B
 
 ```text
-Die Parteien sind sich darüber einig, dass das Arbeitsverhältnis aufgrund ordentlicher betriebsbedingter Kündigung mit Ablauf des [Datum] endet. Die Beklagte zahlt an die Klägerin eine Abfindung in Höhe von [Betrag] Euro brutto.
+Das Gericht weist darauf hin, dass es für [Kündigungsgrund/Zahlungsanspruch/Betriebsratsanhörung] auf [konkrete Tatsache] ankommen dürfte. Ergänzender Vortrag kann binnen [Frist] erfolgen.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `02-kuendigungsschutzklage-pruefen` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 03 Zahlungsklage Lohn Und Gehalt bearbeitet wird.
-- **Danach**: `04-betriebsuebergang-und-tarif` - Nutze diesen Folgeschritt, sobald 03 Zahlungsklage Lohn Und Gehalt als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `02-kuendigungsschutzklage-pruefen` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Zahlungsklage Lohn und Gehalt trägt.
+- **Danach**: `04-betriebsuebergang-und-tarif` - Folgeschritt im selben Plugin; nutze ihn, sobald Zahlungsklage Lohn und Gehalt entscheidungs- oder verfügungsreif vorbereitet ist.

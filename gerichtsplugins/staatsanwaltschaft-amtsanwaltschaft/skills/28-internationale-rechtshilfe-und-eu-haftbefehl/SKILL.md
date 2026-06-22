@@ -3,11 +3,11 @@ name: 28-internationale-rechtshilfe-und-eu-haftbefehl
 description: "Internationale Rechtshilfe in Strafsachen: Europaeischer Haftbefehl (Paragrafen 78 bis 83i IRG), Rechtshilfeersuchen (Paragrafen 59 ff. IRG), Europaeische Ermittlungsanordnung (Paragrafen 91a ff. IRG); Pruefschema fuer Ausstellung und Bewilligung, doppelte Strafbarkeit, Listentaten, Verhaeltnismaessigkeit"
 ---
 
-# 28 Internationale Rechtshilfe Und EU Haftbefehl
+# 28 Internationale Rechtshilfe und EU Haftbefehl
 
 ## Zweck
 
-Internationale Rechtshilfe in Strafsachen: Europaeischer Haftbefehl (Paragrafen 78 bis 83i IRG), Rechtshilfeersuchen (Paragrafen 59 ff. IRG), Europaeische Ermittlungsanordnung (Paragrafen 91a ff. IRG); Pruefschema fuer Ausstellung und Bewilligung, doppelte Strafbarkeit, Listentaten, Verhaeltnismaessigkeit
+Internationale Rechtshilfe in Strafsachen: Europaeischer Haftbefehl (Paragrafen 78 bis 83i IRG), Rechtshilfeersuchen (Paragrafen 59 ff. IRG), Europaeische Ermittlungsanordnung (Paragrafen 91a ff. IRG); Pruefschema für Ausstellung und Bewilligung, doppelte Strafbarkeit, Listentaten, Verhaeltnismaessigkeit
 
 ## Rolle
 
@@ -31,47 +31,44 @@ IRG, StPO, GVG, EUV, AEUV, Rahmenbeschluss EuHb, Richtlinie EEA, RiVASt, RiStBV,
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
 
-## Anker-Rechtsprechung
+## Normen & Rechtsprechung
 
-- Paragraf 79 IRG regelt die Bewilligungsvoraussetzungen fuer den eingehenden Europaeischen Haftbefehl, Paragraf 81 IRG die Pruefung der beiderseitigen Strafbarkeit ausserhalb des Listenkatalogs.
-- Paragrafen 59 ff. IRG regeln die sonstige Rechtshilfe und die Voraussetzungen der Bewilligung.
-- Paragrafen 91a ff. IRG setzen die Richtlinie ueber die Europaeische Ermittlungsanordnung um; die Anordnung muss notwendig und verhaeltnismaessig sein und auf einer im Inland zulaessigen Massnahme beruhen (st. Rspr. EuGH und BVerfG, Aktenzeichen vor Verwendung verifizieren).
+- BVerfG, Beschluss vom 15.12.1965 - 1 BvR 513/65, BVerfGE 19, 342: Untersuchungshaft steht unter strengem Verhältnismäßigkeits- und Beschleunigungsgebot.
+- Ständige Rechtsprechung des BVerfG zum Beschleunigungsgebot in Haftsachen: Verzögerungen müssen aktenkundig erklärt und durch konkrete Verfahrensförderung kompensiert werden; aktuelles Aktenzeichen vor Antragstellung verifizieren.
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
 
-## Pruefungsschema in Stufen
+## Prüf- und Arbeitslogik
 
-1. Verfahrensart bestimmen.
-   - Pruefe, ob ein Europaeischer Haftbefehl, eine Europaeische Ermittlungsanordnung oder ein klassisches Rechtshilfeersuchen in Betracht kommt.
-2. Voraussetzungen pruefen.
-   - Pruefe bei EuHb die Listentat (Art. 2 Abs. 2 Rahmenbeschluss EuHb) oder die beiderseitige Strafbarkeit (Paragraf 81 IRG); bei EEA die Zulaessigkeit der entsprechenden Inlandsmassnahme.
-3. Verhaeltnismaessigkeit pruefen.
-   - Pruefe Schwere der Tat, Eingriffstiefe und mildere Mittel; dokumentiere die Verhaeltnismaessigkeitsabwaegung.
-4. Form und Inhalt des Ersuchens.
-   - Erstelle das Formular nach Anhang des Rahmenbeschlusses bzw. der Richtlinie; uebersetze die Angaben in die geforderte Sprache.
-5. Geschaeftsweg und Uebermittlung.
-   - Bestimme den Geschaeftsweg ueber Justizbehoerde, Generalstaatsanwaltschaft oder zentrale Behoerde nach RiVASt und uebermittle das Ersuchen.
+1. Arbeitsschritt Internationale Rechtshilfe und EU Haftbefehl: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
+2. Flucht, Fluchtgefahr, Verdunkelungsgefahr, Wiederholungsgefahr und Außervollzugsetzung getrennt begründen.
+3. Bei Rechtshilfe oder Europäischem Haftbefehl Ausschreibung, Spezialität, Verhältnismäßigkeit und Übersetzungen kontrollieren.
+4. Vorführung, Fristen, Verteidigerbestellung und Haftprüfung in der Verfügung festhalten.
+5. Antrag mit konkreter Tatsachengrundlage, Beweismitteln und Vollzugshinweisen formulieren.
 
 ## Typische Fallstricke
 
 - Die Verhaeltnismaessigkeit eines EuHb wird nicht dokumentiert, obwohl Bagatellfaelle ausgeschlossen sind.
 - Die beiderseitige Strafbarkeit wird nicht geprueft, obwohl keine Listentat vorliegt.
-- Die EEA wird ohne Pruefung der Zulaessigkeit der entsprechenden Inlandsmassnahme erlassen.
+- Die EEA wird ohne Pruefung der Zulässigkeit der entsprechenden Inlandsmassnahme erlassen.
 - Der Geschaeftsweg nach RiVASt wird missachtet und das Ersuchen wird unmittelbar an die auslaendische Stelle gesandt.
 
-## Antrags- bzw. Verfuegungs-Bausteine
+## Antrags- bzw. Verfügungs-Bausteine
 
-### Ausstellung Europaeischer Haftbefehl
+### Baustein A
 
 ```text
-Es wird ein Europaeischer Haftbefehl gegen [Name, Geburtsdatum, Staatsangehoerigkeit] zur Strafverfolgung wegen [Tat] erlassen. Die Tat unterfaellt [Listentat nach Art. 2 Abs. 2 Rahmenbeschluss EuHb / Pruefung der beiderseitigen Strafbarkeit nach Paragraf 81 IRG]. Grundlage: nationaler Haftbefehl des [Gericht] vom [Datum]. Die Verhaeltnismaessigkeit ist gewahrt, weil [Begruendung].
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
 ```
 
-### Europaeische Ermittlungsanordnung
+### Baustein B
 
 ```text
-Es wird eine Europaeische Ermittlungsanordnung gemaess Paragrafen 91a ff. IRG erlassen. Die angeordnete Massnahme [Massnahme] ist im Inland zulaessig nach [Norm], notwendig und verhaeltnismaessig fuer das anhaengige Verfahren wegen [Tat]. Die Anordnung wird der Justizbehoerde [Mitgliedstaat] zur Vollstreckung uebermittelt.
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `27-wiederaufnahme-zuungunsten-paragraf-362` - Vorgelagerter Arbeitsschritt; dort die innerstaatliche Verfahrenslage klaeren, bevor grenzueberschreitende Rechtshilfe veranlasst wird.
-- **Danach**: `24-abschlussverfuegung-und-entscheidungsvorschlag` - Folgeschritt, sobald die Rechtshilfeerkenntnisse in den Abschluss des Verfahrens einfliessen.
+- **Davor**: `27-wiederaufnahme-zuungunsten-paragraf-362` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Internationale Rechtshilfe und EU Haftbefehl trägt.
+- **Danach**: `01-akte-erstdurchsicht-und-anfangsverdacht` - Folgeschritt im selben Plugin; nutze ihn, sobald Internationale Rechtshilfe und EU Haftbefehl entscheidungs- oder verfügungsreif vorbereitet ist.

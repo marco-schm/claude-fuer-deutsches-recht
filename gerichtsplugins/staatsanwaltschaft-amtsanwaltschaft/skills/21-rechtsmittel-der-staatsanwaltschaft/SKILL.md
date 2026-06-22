@@ -31,24 +31,21 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
 
-## Anker-Rechtsprechung
+## Normen & Rechtsprechung
 
-- Paragraf 296 Abs. 2 StPO erlaubt der Staatsanwaltschaft, Rechtsmittel auch zugunsten des Angeklagten einzulegen; die Objektivitaetspflicht praegt die Rechtsmittelentscheidung.
-- Die Revision (Paragrafen 337, 344 StPO) ruegt die Verletzung des Rechts; die Begruendung muss Verfahrens- und Sachruegen formgerecht bezeichnen.
-- Das Verschlechterungsverbot (Paragraf 358 Abs. 2 StPO) gilt nicht bei einem zuungunsten des Angeklagten eingelegten Rechtsmittel der Staatsanwaltschaft (st. Rspr., Aktenzeichen vor Verwendung verifizieren).
+- BVerfG, Beschluss vom 15.12.1965 - 1 BvR 513/65, BVerfGE 19, 342: Untersuchungshaft steht unter strengem Verhältnismäßigkeits- und Beschleunigungsgebot.
+- Ständige Rechtsprechung des BVerfG zum Beschleunigungsgebot in Haftsachen: Verzögerungen müssen aktenkundig erklärt und durch konkrete Verfahrensförderung kompensiert werden; aktuelles Aktenzeichen vor Antragstellung verifizieren.
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
 
-## Pruefungsschema in Stufen
+## Prüf- und Arbeitslogik
 
-1. Beschwer und Erfolgsaussicht pruefen.
-   - Pruefe, ob das Urteil rechtsfehlerhaft ist und ein Rechtsmittel Erfolg verspricht.
-2. Rechtsmittelart waehlen.
-   - Grenze Berufung, Revision und Beschwerde nach Statthaftigkeit und Angriffsziel ab.
-3. Richtung bestimmen (Paragraf 296 Abs. 2 StPO).
-   - Entscheide zugunsten oder zuungunsten des Angeklagten und begruende dies objektiv.
-4. Frist und Form wahren.
-   - Wahre Einlegungs- und Begruendungsfristen (Paragrafen 314, 341, 345 StPO) und die Formanforderungen.
-5. Begruendung fassen.
-   - Fasse Sach- und Verfahrensruegen bestimmt; markiere die Entscheidung als Vorschlag zur dezernatlichen Pruefung.
+1. Arbeitsschritt Rechtsmittel Der Staatsanwaltschaft: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
+2. Flucht, Fluchtgefahr, Verdunkelungsgefahr, Wiederholungsgefahr und Außervollzugsetzung getrennt begründen.
+3. Bei Rechtshilfe oder Europäischem Haftbefehl Ausschreibung, Spezialität, Verhältnismäßigkeit und Übersetzungen kontrollieren.
+4. Vorführung, Fristen, Verteidigerbestellung und Haftprüfung in der Verfügung festhalten.
+5. Antrag mit konkreter Tatsachengrundlage, Beweismitteln und Vollzugshinweisen formulieren.
 
 ## Typische Fallstricke
 
@@ -57,21 +54,21 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 - Ein Rechtsmittel wird zuungunsten eingelegt, obwohl die Objektivitaetspflicht ein Rechtsmittel zugunsten gebietet.
 - Berufung und Revision werden in der Statthaftigkeit verwechselt.
 
-## Antrags- bzw. Verfuegungs-Bausteine
+## Antrags- bzw. Verfügungs-Bausteine
 
-### Rechtsmitteleinlegung
+### Baustein A
 
 ```text
-Gegen das Urteil des [Gericht] vom [Datum] legt die Staatsanwaltschaft [Berufung/Revision] ein. Das Rechtsmittel wird [zuungunsten / zugunsten] des Angeklagten eingelegt.
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
 ```
 
-### Revisionsbegruendung Geruest
+### Baustein B
 
 ```text
-Geruegt wird die Verletzung [formellen/materiellen] Rechts. 1. Sachruege: [Darstellung]. 2. Verfahrensruege: [Verfahrenstatsachen nach Paragraf 344 Abs. 2 StPO].
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `20-plaedoyer-und-schlussvortrag-paragraf-258` - Vorgelagerter Arbeitsschritt; dort die Akten-, Zustaendigkeits- oder Ermittlungsfrage klaeren, bevor Rechtsmittel Der Staatsanwaltschaft bearbeitet wird.
-- **Danach**: `22-strafvollstreckung-paragraf-451` - Folgeschritt, sobald Rechtsmittel Der Staatsanwaltschaft als staatsanwaltschaftlicher Arbeitsstand verwertbar ist.
+- **Davor**: `20-plaedoyer-und-schlussvortrag-paragraf-258` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Rechtsmittel Der Staatsanwaltschaft trägt.
+- **Danach**: `22-strafvollstreckung-paragraf-451` - Folgeschritt im selben Plugin; nutze ihn, sobald Rechtsmittel Der Staatsanwaltschaft entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -31,47 +31,43 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
 
-## Anker-Rechtsprechung
+## Normen & Rechtsprechung
 
-- Paragraf 170 Abs. 2 StPO verlangt die Einstellung, wenn die Ermittlungen keinen genuegenden Anlass zur Erhebung der oeffentlichen Klage bieten.
-- Hinreichender Tatverdacht setzt die nach vorlaeufiger Bewertung wahrscheinliche Verurteilung in einer Hauptverhandlung voraus (st. Rspr., Aktenzeichen vor Verwendung verifizieren).
-- Die Einstellung nach Paragraf 170 Abs. 2 StPO erwaechst nicht in materielle Rechtskraft; bei neuen Tatsachen kann das Verfahren wieder aufgenommen werden (st. Rspr., Aktenzeichen vor Verwendung verifizieren).
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
+- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
 
-## Pruefungsschema in Stufen
+## Prüf- und Arbeitslogik
 
-1. Beweisergebnis zusammenfassen.
-   - Fasse die be- und entlastenden Beweismittel zu jedem Tatbestandsmerkmal zusammen.
-2. Hinreichenden Tatverdacht prognostizieren.
-   - Bewerte, ob eine Verurteilung in der Hauptverhandlung wahrscheinlicher ist als ein Freispruch.
-3. Einstellungsgrund bestimmen.
-   - Grenze die Einstellung mangels Tatverdachts von der Opportunitaetseinstellung ab.
-4. Bescheide formulieren.
-   - Fasse die Mitteilung an Beschuldigten und den begruendeten Bescheid an den Anzeigeerstatter (Paragraf 171 StPO).
-5. Wiederaufnahmevorbehalt sichern.
-   - Halte fest, welche neuen Tatsachen eine Wiederaufnahme rechtfertigen koennten.
+1. Arbeitsschritt Einstellung Mangels Tatverdacht Paragraf 170: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
+2. Einstellung nach Paragraf 170 Abs. 2 StPO, Opportunität, Strafbefehl, Anklage, Sicherungsverfahren oder Wiederaufnahme nicht vermengen.
+3. Tat, Tatzeit, Tatort und gesetzliche Merkmale für jeden Beschuldigten getrennt darstellen.
+4. Nebenentscheidungen wie Einziehung, Adhäsion, Mitteilungen, Kosten und Asservate in die Abschlussverfügung aufnehmen.
+5. Ausgangsverfügung mit Adressaten, Rechtsbehelfen, Fristen und Zustellungen vollzugsfähig machen.
 
 ## Typische Fallstricke
 
 - Hinreichender Tatverdacht wird mit Gewissheit der Verurteilung verwechselt, sodass zu vorschnell eingestellt wird.
-- Der Bescheid an den Anzeigeerstatter wird nicht oder ohne Belehrung ueber das Klageerzwingungsverfahren erteilt.
+- Der Bescheid an den Anzeigeerstatter wird nicht oder ohne Belehrung über das Klageerzwingungsverfahren erteilt.
 - Entlastende Beweise werden nicht gewuerdigt, obwohl Paragraf 160 Abs. 2 StPO sie verlangt.
-- Die Einstellung wird begruendet, als sei sie rechtskraeftig, obwohl Wiederaufnahme moeglich bleibt.
+- Die Einstellung wird begruendet, als sei sie rechtskraeftig, obwohl Wiederaufnahme möglich bleibt.
 
-## Antrags- bzw. Verfuegungs-Bausteine
+## Antrags- bzw. Verfügungs-Bausteine
 
-### Einstellungsverfuegung Paragraf 170 Abs. 2 StPO
+### Baustein A
 
 ```text
-Das Ermittlungsverfahren gegen [Name] wegen [Tat] wird gemaess Paragraf 170 Abs. 2 StPO eingestellt, weil ein hinreichender Tatverdacht nicht besteht. Begruendung: [Beweislage].
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
 ```
 
-### Bescheid an Anzeigeerstatter
+### Baustein B
 
 ```text
-Ihre Strafanzeige hat keinen genuegenden Anlass zur Erhebung der oeffentlichen Klage ergeben. Das Verfahren wurde nach Paragraf 170 Abs. 2 StPO eingestellt. Gegen diesen Bescheid koennen Sie nach Paragraf 172 StPO vorgehen.
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `09-sachverstaendige-und-koerperliche-untersuchung` - Vorgelagerter Arbeitsschritt; dort die Akten-, Zustaendigkeits- oder Ermittlungsfrage klaeren, bevor Einstellung Mangels Tatverdacht Paragraf 170 bearbeitet wird.
-- **Danach**: `11-einstellung-aus-opportunitaet-paragraf-153-und-153a` - Folgeschritt, sobald Einstellung Mangels Tatverdacht Paragraf 170 als staatsanwaltschaftlicher Arbeitsstand verwertbar ist.
+- **Davor**: `09-sachverstaendige-und-koerperliche-untersuchung` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Einstellung Mangels Tatverdacht Paragraf 170 trägt.
+- **Danach**: `11-einstellung-aus-opportunitaet-paragraf-153-und-153a` - Folgeschritt im selben Plugin; nutze ihn, sobald Einstellung Mangels Tatverdacht Paragraf 170 entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -3,11 +3,11 @@ name: 02-zustaendigkeit-sta-und-amtsanwaltschaft
 description: "Sachliche und oertliche Zustaendigkeit (Paragrafen 142 und 143 GVG), Abgrenzung Staatsanwalt und Amtsanwalt nach OrgStA, Dezernatszustaendigkeit, Abgabe und Uebernahme, Zustaendigkeit beim Amtsgericht und Landgericht"
 ---
 
-# 02 Zustaendigkeit Staatsanwaltschaft Und Amtsanwaltschaft
+# 02 Zuständigkeit Staatsanwaltschaft und Amtsanwaltschaft
 
 ## Zweck
 
-Sachliche und oertliche Zustaendigkeit (Paragrafen 142 und 143 GVG), Abgrenzung Staatsanwalt und Amtsanwalt nach OrgStA, Dezernatszustaendigkeit, Abgabe und Uebernahme, Zustaendigkeit beim Amtsgericht und Landgericht
+Sachliche und oertliche Zuständigkeit (Paragrafen 142 und 143 GVG), Abgrenzung Staatsanwalt und Amtsanwalt nach OrgStA, Dezernatszuständigkeit, Abgabe und Uebernahme, Zuständigkeit beim Amtsgericht und Landgericht
 
 ## Rolle
 
@@ -31,47 +31,44 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
 
-## Anker-Rechtsprechung
+## Normen & Rechtsprechung
 
-- Paragraf 142 GVG und Paragraf 143 GVG regeln die Bestellung und oertliche Zustaendigkeit der Staatsanwaltschaft beim jeweiligen Gericht.
-- OrgStA und landesrechtliche Anordnungen weisen der Amtsanwaltschaft die minderschweren Delikte der amtsgerichtlichen Zustaendigkeit zu; die Abgrenzung folgt dem Katalog der Organisationsanordnung.
-- Die oertliche Zustaendigkeit folgt dem Gerichtsstand der Tat, des Wohnsitzes oder des Ergreifungsorts (Paragrafen 7 ff. StPO; st. Rspr., Aktenzeichen vor Verwendung verifizieren).
+- BVerfG, Beschluss vom 15.12.1965 - 1 BvR 513/65, BVerfGE 19, 342: Untersuchungshaft steht unter strengem Verhältnismäßigkeits- und Beschleunigungsgebot.
+- Ständige Rechtsprechung des BVerfG zum Beschleunigungsgebot in Haftsachen: Verzögerungen müssen aktenkundig erklärt und durch konkrete Verfahrensförderung kompensiert werden; aktuelles Aktenzeichen vor Antragstellung verifizieren.
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
 
-## Pruefungsschema in Stufen
+## Prüf- und Arbeitslogik
 
-1. Sachliche Zustaendigkeit bestimmen.
-   - Ordne die Sache der Staatsanwaltschaft beim Landgericht oder der Amtsanwaltschaft zu und benenne die tragende Norm der OrgStA.
-2. Oertliche Zustaendigkeit nach Paragrafen 7 ff. StPO pruefen.
-   - Pruefe Tatort, Wohnsitz und Ergreifungsort und bestimme den vorrangigen Gerichtsstand.
-3. Abgabe oder Uebernahme pruefen.
-   - Pruefe Abgabe an die zustaendige Behoerde oder Uebernahme; dokumentiere Zustaendigkeitswechsel revisionssicher.
-4. Verbindung und Trennung von Verfahren erwaegen (Paragrafen 2 bis 4 StPO).
-   - Pruefe Verbindung zusammenhaengender Sachen aus Gruenden der Sachleitung.
-5. Dezernatszuordnung festhalten.
-   - Halte fest, ob Sonderdezernat oder Amtsanwalt zustaendig ist, und markiere die Zuordnung als Vorschlag.
+1. Arbeitsschritt Zuständigkeit Staatsanwaltschaft und Amtsanwaltschaft: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
+2. Flucht, Fluchtgefahr, Verdunkelungsgefahr, Wiederholungsgefahr und Außervollzugsetzung getrennt begründen.
+3. Bei Rechtshilfe oder Europäischem Haftbefehl Ausschreibung, Spezialität, Verhältnismäßigkeit und Übersetzungen kontrollieren.
+4. Vorführung, Fristen, Verteidigerbestellung und Haftprüfung in der Verfügung festhalten.
+5. Antrag mit konkreter Tatsachengrundlage, Beweismitteln und Vollzugshinweisen formulieren.
 
 ## Typische Fallstricke
 
-- Amtsanwaltliche Zustaendigkeit wird angenommen, obwohl ein Qualifikationstatbestand die Sache dem Staatsanwalt zuweist.
-- Oertliche Zustaendigkeit wird nicht geprueft, obwohl mehrere Gerichtsstaende in Betracht kommen.
+- Amtsanwaltliche Zuständigkeit wird angenommen, obwohl ein Qualifikationstatbestand die Sache dem Staatsanwalt zuweist.
+- Oertliche Zuständigkeit wird nicht geprueft, obwohl mehrere Gerichtsstaende in Betracht kommen.
 - Abgaben werden ohne klaren Vermerk vorgenommen, sodass die Aktenhistorie unklar bleibt.
-- Verbindungsentscheidungen werden getroffen, ohne die spaetere gerichtliche Zustaendigkeit zu bedenken.
+- Verbindungsentscheidungen werden getroffen, ohne die spätere gerichtliche Zuständigkeit zu bedenken.
 
-## Antrags- bzw. Verfuegungs-Bausteine
+## Antrags- bzw. Verfügungs-Bausteine
 
-### Abgabeverfuegung
+### Baustein A
 
 ```text
-Das Verfahren wird gemaess Paragraf 143 GVG in Verbindung mit [Norm] an die Staatsanwaltschaft beziehungsweise Amtsanwaltschaft [Ort] abgegeben, weil [Zustaendigkeitsgrund].
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
 ```
 
-### Zustaendigkeitsvermerk
+### Baustein B
 
 ```text
-Sachlich zustaendig ist [Staatsanwalt/Amtsanwalt] nach [OrgStA-Stelle]; oertlich zustaendig ist [Ort] nach Paragraf [7/8/9] StPO.
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `01-akte-erstdurchsicht-und-anfangsverdacht` - Vorgelagerter Arbeitsschritt; dort die Akten-, Zustaendigkeits- oder Ermittlungsfrage klaeren, bevor Zustaendigkeit Staatsanwaltschaft Und Amtsanwaltschaft bearbeitet wird.
-- **Danach**: `03-ermittlungsfuehrung-und-ermittlungsanweisung` - Folgeschritt, sobald Zustaendigkeit Staatsanwaltschaft Und Amtsanwaltschaft als staatsanwaltschaftlicher Arbeitsstand verwertbar ist.
+- **Davor**: `01-akte-erstdurchsicht-und-anfangsverdacht` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Zuständigkeit Staatsanwaltschaft und Amtsanwaltschaft trägt.
+- **Danach**: `03-ermittlungsfuehrung-und-ermittlungsanweisung` - Folgeschritt im selben Plugin; nutze ihn, sobald Zuständigkeit Staatsanwaltschaft und Amtsanwaltschaft entscheidungs- oder verfügungsreif vorbereitet ist.

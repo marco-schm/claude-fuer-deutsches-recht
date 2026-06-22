@@ -3,7 +3,7 @@ name: 06-vorlaeufige-festnahme-und-eilkompetenz
 description: "Vorlaeufige Festnahme (Paragraf 127 StPO), staatsanwaltschaftliche Eilanordnungskompetenz bei Gefahr im Verzug, Vorfuehrung vor den Richter (Paragraf 128 StPO), Fristen des Paragraf 128 Abs. 1 StPO"
 ---
 
-# 06 Vorlaeufige Festnahme Und Eilkompetenz
+# 06 Vorlaeufige Festnahme und Eilkompetenz
 
 ## Zweck
 
@@ -31,47 +31,43 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
 
-## Anker-Rechtsprechung
+## Normen & Rechtsprechung
 
-- Art. 104 Abs. 2 und Abs. 3 GG: Ueber die Zulaessigkeit und Fortdauer einer Freiheitsentziehung entscheidet der Richter; der Festgenommene ist spaetestens am Tag nach der Festnahme vorzufuehren.
-- Paragraf 128 Abs. 1 StPO konkretisiert die Vorfuehrungspflicht ohne Verzug, spaetestens am Tag nach der Ergreifung.
-- Die Eilanordnungskompetenz der Staatsanwaltschaft bei Gefahr im Verzug ist subsidiaer zum Richtervorbehalt und mit Tatsachen zu dokumentieren (st. Rspr., Aktenzeichen vor Verwendung verifizieren).
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
+- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
 
-## Pruefungsschema in Stufen
+## Prüf- und Arbeitslogik
 
-1. Festnahmegrund pruefen (Paragraf 127 StPO).
-   - Pruefe Betreffen auf frischer Tat oder Verfolgung und das Vorliegen der Haftgrundvoraussetzungen.
-2. Eilkompetenz und Gefahr im Verzug pruefen.
-   - Begruende, warum eine vorherige richterliche Anordnung nicht rechtzeitig erreichbar war.
-3. Vorfuehrungsfristen sichern (Paragraf 128 StPO).
-   - Stelle die Vorfuehrung ohne Verzug, spaetestens am Folgetag, organisatorisch sicher.
-4. Belehrung und Verteidigung gewaehrleisten.
-   - Sichere Belehrung und den Zugang zu Verteidigung vor der Vorfuehrung.
-5. Anschlussentscheidung vorbereiten.
-   - Bereite Haftbefehlsantrag oder Freilassung vor und verweise auf den Haftbefehlsskill.
+1. Arbeitsschritt Vorlaeufige Festnahme und Eilkompetenz: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
+2. Flucht, Fluchtgefahr, Verdunkelungsgefahr, Wiederholungsgefahr und Außervollzugsetzung getrennt begründen.
+3. Bei Rechtshilfe oder Europäischem Haftbefehl Ausschreibung, Spezialität, Verhältnismäßigkeit und Übersetzungen kontrollieren.
+4. Vorführung, Fristen, Verteidigerbestellung und Haftprüfung in der Verfügung festhalten.
+5. Antrag mit konkreter Tatsachengrundlage, Beweismitteln und Vollzugshinweisen formulieren.
 
 ## Typische Fallstricke
 
-- Die Vorfuehrungsfrist des Paragraf 128 StPO wird ueberschritten und die Freiheitsentziehung damit rechtswidrig.
+- Die Vorfuehrungsfrist des Paragraf 128 StPO wird überschritten und die Freiheitsentziehung damit rechtswidrig.
 - Gefahr im Verzug wird pauschal angenommen, ohne die Nichterreichbarkeit des Richters zu dokumentieren.
 - Die Belehrung des Festgenommenen wird nicht aktenkundig gemacht.
 - Eine Anschlussentscheidung (Haftbefehl oder Freilassung) wird nicht rechtzeitig vorbereitet.
 
-## Antrags- bzw. Verfuegungs-Bausteine
+## Antrags- bzw. Verfügungs-Bausteine
 
-### Vermerk Eilkompetenz
+### Baustein A
 
 ```text
-Der Beschuldigte wurde am [Datum, Uhrzeit] vorlaeufig festgenommen (Paragraf 127 StPO). Eine vorherige richterliche Entscheidung war wegen [konkrete Tatsachen] nicht rechtzeitig zu erlangen. Die Vorfuehrung erfolgt am [Datum] (Paragraf 128 StPO).
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
 ```
 
-### Verfuegung Vorfuehrung
+### Baustein B
 
 ```text
-Der Festgenommene ist dem Ermittlungsrichter beim Amtsgericht [Ort] unverzueglich, spaetestens am [Datum], vorzufuehren. Beizufuegen: Akte, Haftbefehlsantrag.
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `05-haftbefehlsantrag-und-untersuchungshaft` - Vorgelagerter Arbeitsschritt; dort die Akten-, Zustaendigkeits- oder Ermittlungsfrage klaeren, bevor Vorlaeufige Festnahme Und Eilkompetenz bearbeitet wird.
-- **Danach**: `07-telekommunikationsueberwachung-und-verdeckte-massnahmen` - Folgeschritt, sobald Vorlaeufige Festnahme Und Eilkompetenz als staatsanwaltschaftlicher Arbeitsstand verwertbar ist.
+- **Davor**: `05-haftbefehlsantrag-und-untersuchungshaft` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Vorlaeufige Festnahme und Eilkompetenz trägt.
+- **Danach**: `07-telekommunikationsueberwachung-und-verdeckte-massnahmen` - Folgeschritt im selben Plugin; nutze ihn, sobald Vorlaeufige Festnahme und Eilkompetenz entscheidungs- oder verfügungsreif vorbereitet ist.

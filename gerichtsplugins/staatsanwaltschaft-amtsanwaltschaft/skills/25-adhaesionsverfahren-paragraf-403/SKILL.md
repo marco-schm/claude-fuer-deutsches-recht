@@ -7,7 +7,7 @@ description: "Adhaesionsantrag des Verletzten im Strafverfahren (Paragrafen 403 
 
 ## Zweck
 
-Adhaesionsantrag des Verletzten im Strafverfahren (Paragrafen 403 bis 406c StPO), Pruefung der Zulaessigkeit und Eignung zur Mitverhandlung, Abtrennung nach Paragraf 406 Abs. 1 Satz 6 StPO, Schnittstelle zum Opferschutz und zur Verfahrensoekonomie
+Adhaesionsantrag des Verletzten im Strafverfahren (Paragrafen 403 bis 406c StPO), Pruefung der Zulässigkeit und Eignung zur Mitverhandlung, Abtrennung nach Paragraf 406 Abs. 1 Satz 6 StPO, Schnittstelle zum Opferschutz und zur Verfahrensoekonomie
 
 ## Rolle
 
@@ -31,47 +31,43 @@ StPO, BGB, ZPO, GVG, RiStBV, OrgStA, RVG
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
 
-## Anker-Rechtsprechung
+## Normen & Rechtsprechung
 
-- Paragraf 403 StPO eroeffnet dem Verletzten den Adhaesionsantrag auf einen aus der Straftat erwachsenen vermoegensrechtlichen Anspruch im Strafverfahren.
-- Paragraf 406 Abs. 1 Satz 6 StPO erlaubt dem Strafgericht, von einer Entscheidung abzusehen oder den Antrag abzutrennen, wenn der Antrag zur Erledigung im Strafverfahren nicht geeignet ist.
-- Die Mitverhandlung soll dem Verletzten ohne doppelte Prozessfuehrung Titel und Vollstreckungsgrundlage verschaffen (st. Rspr., Aktenzeichen vor Verwendung verifizieren).
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
+- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
 
-## Pruefungsschema in Stufen
+## Prüf- und Arbeitslogik
 
-1. Antragsberechtigung und Verletzteneigenschaft pruefen (Paragraf 403 StPO).
-   - Pruefe, ob der Antragsteller durch die angeklagte Tat unmittelbar verletzt ist und ob ein vermoegensrechtlicher Anspruch geltend gemacht wird.
-2. Antragsanforderungen pruefen (Paragraf 404 Abs. 1 StPO).
-   - Pruefe, ob Antrag, Anspruchsgrund, Beweismittel und Bezifferung hinreichend bestimmt vorliegen.
-3. Zeitpunkt der Antragstellung pruefen (Paragraf 404 Abs. 1 Satz 2 StPO).
-   - Pruefe, ob der Antrag bis zum Beginn der Schlussvortraege gestellt ist.
-4. Eignung zur Mitverhandlung pruefen (Paragraf 406 Abs. 1 Satz 6 StPO).
-   - Pruefe, ob die zivilrechtliche Pruefung das Strafverfahren erheblich verzoegert oder ungeeignet erscheint und ob Abtrennung in Betracht kommt.
-5. Stellungnahme der Staatsanwaltschaft fertigen.
-   - Formuliere die Stellungnahme zum Adhaesionsantrag fuer die Hauptverhandlung und schlage Tenor-Variante (stattgebend, abweisend, abtrennend) vor.
+1. Arbeitsschritt Adhaesionsverfahren Paragraf 403: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
+2. Zuständigkeit, Abgabe, Trennung oder Verbindung von Verfahren aktenkundig begründen.
+3. Ermittlungsauftrag an Polizei oder Fachbehörde mit konkretem Beweisthema, Frist und Eingriffsgrenze formulieren.
+4. Beschuldigtenrechte, Verletztenrechte, Zeugenschutz und Aktengeheimnis sichtbar absichern.
+5. Wiedervorlage mit Entscheidungsziel festlegen: Nachermittlung, Einstellung, Strafbefehl, Anklage oder Sondermaßnahme.
 
 ## Typische Fallstricke
 
-- Die Verletzteneigenschaft wird nicht geprueft, obwohl sie ueber die Zulaessigkeit entscheidet.
+- Die Verletzteneigenschaft wird nicht geprueft, obwohl sie über die Zulässigkeit entscheidet.
 - Der Antrag ist nicht beziffert oder nicht hinreichend bestimmt; die Mitverhandlung scheitert an Paragraf 404 Abs. 1 StPO.
 - Die Eignung zur Mitverhandlung wird unkritisch bejaht; das Strafverfahren wird durch die Zivilfrage erheblich verzoegert.
 - Die Stellungnahme der Staatsanwaltschaft fehlt oder bleibt formularhaft.
 
-## Antrags- bzw. Verfuegungs-Bausteine
+## Antrags- bzw. Verfügungs-Bausteine
 
-### Stellungnahme zum Adhaesionsantrag
+### Baustein A
 
 ```text
-Der Adhaesionsantrag des Verletzten [Name] vom [Datum] auf Zahlung von [Betrag] Euro ist zulaessig nach Paragraf 403 StPO. Anspruchsgrundlage ist [Norm]. Die Eignung zur Mitverhandlung gemaess Paragraf 406 Abs. 1 Satz 6 StPO besteht, weil [Begruendung]. Es wird beantragt, [stattgebenden Tenor / Abtrennung] auszusprechen.
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
 ```
 
-### Abtrennungsantrag
+### Baustein B
 
 ```text
-Es wird angeregt, ueber den Adhaesionsantrag nach Paragraf 406 Abs. 1 Satz 6 StPO nicht zu entscheiden, weil die Pruefung des Anspruchs das Verfahren erheblich verzoegern wuerde. Der Antragsteller ist auf den Zivilrechtsweg zu verweisen.
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `19-sitzungsdienst-und-fragerecht-hauptverhandlung` - Vorgelagerter Arbeitsschritt; dort die Sitzungsfuehrung klaeren, bevor der Adhaesionsantrag bearbeitet wird.
-- **Danach**: `26-opferschutz-nebenklage-und-verletztenrechte` - Folgeschritt, in dem die opferschutzrechtliche Begleitung des Verletzten weitergefuehrt wird.
+- **Davor**: `24-abschlussverfuegung-und-entscheidungsvorschlag` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Adhaesionsverfahren Paragraf 403 trägt.
+- **Danach**: `26-opferschutz-nebenklage-und-verletztenrechte` - Folgeschritt im selben Plugin; nutze ihn, sobald Adhaesionsverfahren Paragraf 403 entscheidungs- oder verfügungsreif vorbereitet ist.

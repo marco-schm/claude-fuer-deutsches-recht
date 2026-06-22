@@ -34,23 +34,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 BvR 347/98 (06.12.2005): Bei lebensbedrohlicher Erkrankung kann die gesetzliche Krankenversicherung ausnahmsweise neue Behandlungsmethoden schulden.
-- BVerfG 1 BvL 1/09 und 1 BvL 3/09 und 1 BvL 4/09 (09.02.2010): Existenzsichernde Leistungen müssen realitaetsgerecht und transparent bemessen werden.
-- BVerfG 1 BvL 10/10 und 1 BvL 2/11 (18.07.2012): Leistungen für Asylbewerber duerfen das menschenwuerdige Existenzminimum nicht migrationspolitisch relativieren.
-- BSG B 1 KR 32/18 R (28.05.2019): Krankenhausbehandlung und neue Methoden erfordern eine saubere Abgrenzung von Potential, Standard und Einzelfallanspruch.
+- BVerfG, Beschluss vom 06.12.2005 - 1 BvR 347/98, BVerfGE 115, 25: Bei lebensbedrohlicher Erkrankung kann ausnahmsweise ein Anspruch auf neue Behandlungsmethoden bestehen.
+- BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09, 1 BvL 3/09 und 1 BvL 4/09, BVerfGE 125, 175: Existenzsichernde Leistungen müssen realitätsgerecht, transparent und folgerichtig bemessen werden.
+- BVerfG, Urteil vom 18.07.2012 - 1 BvL 10/10 und 1 BvL 2/11, BVerfGE 132, 134: Das menschenwürdige Existenzminimum darf nicht migrationspolitisch relativiert werden.
+- BSG, Urteil vom 28.05.2019 - B 1 KR 32/18 R, frei nachweisbar über sozialgerichtsbarkeit.de/dejure: Krankenhausbehandlung und neue Methoden verlangen die Abgrenzung von Standard, Potential und Einzelfallanspruch.
 
 ## Prüfungsschema in Stufen
 
-1. Sozialrechtsweg, Beteiligte, Bescheid und Widerspruchsbescheid prüfen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Klageart oder Eilantrag nach SGG bestimmen.
-   - Stelle fest, welche Tatsachen unstreitig, welche bestritten und welche für den konkreten Antrag entscheidungserheblich sind.
-3. Anspruchsnorm des jeweiligen SGB mit Tatbestandsmerkmalen prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Amtsermittlung, medizinische Befunde und Sachverständigengutachten strukturieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteil oder Beschluss mit Leistung, Aufhebung, Verpflichtung oder Feststellung tenorieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Arbeitsschritt Zulässigkeit Sozialklage: Klageart, Vorverfahren, Klagefrist, Beteiligtenfähigkeit und zuständigen Sozialleistungsträger prüfen.
+2. Verwaltungsakte, Widerspruchsbescheid und Streitgegenstand exakt abgrenzen.
+3. Amtsermittlung auf die entscheidungserheblichen medizinischen, beruflichen oder wirtschaftlichen Tatsachen begrenzen.
+4. Ehrenamtliche Richter, Terminvorbereitung und Vergleichsmöglichkeiten rechtzeitig einbeziehen.
+5. Urteil mit Tenor zur Aufhebung, Verurteilung, Feststellung oder Klageabweisung sauber formulieren.
 
 ## Typische Fallstricke
 
@@ -64,16 +59,16 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Antragsgegner wird im Wege der einstweiligen Anordnung verpflichtet, der Antragstellerin vorläufig bis zum [Datum] Leistungen in Höhe von [Betrag] monatlich zu gewaehren.
+Der Leistungsträger wird im Wege der einstweiligen Anordnung verpflichtet, dem Antragsteller vorläufig [Leistung] für den Zeitraum [Zeitraum] zu gewähren.
 ```
 
 ### Baustein B
 
 ```text
-Der Bescheid vom [Datum] in Gestalt des Widerspruchsbescheids vom [Datum] wird aufgehoben. Der Beklagte wird verurteilt, über den Antrag unter Beachtung der Rechtsauffassung des Gerichts neu zu entscheiden.
+Das Gericht zieht die Verwaltungsakte bei und fordert den Leistungsträger auf, zu [medizinische/leistungsrechtliche Frage] binnen [Frist] Stellung zu nehmen.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `10-entscheidungsvorschlag-sozialgericht` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 01 Zulässigkeit Sozialklage bearbeitet wird.
-- **Danach**: `02-amtsermittlung-sozialgericht` - Nutze diesen Folgeschritt, sobald 01 Zulässigkeit Sozialklage als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `10-entscheidungsvorschlag-sozialgericht` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Zulässigkeit Sozialklage trägt.
+- **Danach**: `02-amtsermittlung-sozialgericht` - Folgeschritt im selben Plugin; nutze ihn, sobald Zulässigkeit Sozialklage entscheidungs- oder verfügungsreif vorbereitet ist.

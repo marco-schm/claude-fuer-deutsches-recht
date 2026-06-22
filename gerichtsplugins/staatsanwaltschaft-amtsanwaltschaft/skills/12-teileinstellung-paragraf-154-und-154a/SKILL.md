@@ -3,7 +3,7 @@ name: 12-teileinstellung-paragraf-154-und-154a
 description: "Beschraenkung der Verfolgung nach Paragraf 154 StPO (unwesentliche Nebentat) und Paragraf 154a StPO (Beschraenkung auf Tatteile), prozessoekonomische Konzentration, Wiederaufnahmevorbehalt"
 ---
 
-# 12 Teileinstellung Paragraf 154 Und 154a
+# 12 Teileinstellung Paragraf 154 und 154a
 
 ## Zweck
 
@@ -31,47 +31,43 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
 
-## Anker-Rechtsprechung
+## Normen & Rechtsprechung
 
-- Paragraf 154 StPO erlaubt das Absehen von der Verfolgung, wenn die Strafe neben einer anderen zu erwartenden Strafe nicht ins Gewicht faellt.
-- Paragraf 154a StPO erlaubt die Beschraenkung der Verfolgung auf einzelne abtrennbare Tatteile oder Gesetzesverletzungen aus prozessoekonomischen Gruenden.
-- Ausgeschiedene Tatteile koennen wieder einbezogen werden; die Beschraenkung ist kein Verbrauch der Strafklage (st. Rspr., Aktenzeichen vor Verwendung verifizieren).
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
+- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
 
-## Pruefungsschema in Stufen
+## Prüf- und Arbeitslogik
 
-1. Tat- und Tatteilstruktur erfassen.
-   - Ordne die Taten und abtrennbaren Tatteile und ihre jeweilige Straferwartung.
-2. Gewichtungsprognose anstellen.
-   - Pruefe, ob die auszuscheidende Strafe neben der verbleibenden nicht ins Gewicht faellt.
-3. Beschraenkungsweg waehlen.
-   - Grenze das Ausscheiden ganzer Taten (Paragraf 154) von der Beschraenkung auf Tatteile (Paragraf 154a) ab.
-4. Konzentration begruenden.
-   - Lege den prozessoekonomischen Nutzen und die fortbestehende Aufklaerung der Kerntat dar.
-5. Vorbehalt sichern.
-   - Halte den Wiedereinbeziehungsvorbehalt und die Auswirkungen auf die Anklage fest.
+1. Arbeitsschritt Teileinstellung Paragraf 154 und 154a: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
+2. Einstellung nach Paragraf 170 Abs. 2 StPO, Opportunität, Strafbefehl, Anklage, Sicherungsverfahren oder Wiederaufnahme nicht vermengen.
+3. Tat, Tatzeit, Tatort und gesetzliche Merkmale für jeden Beschuldigten getrennt darstellen.
+4. Nebenentscheidungen wie Einziehung, Adhäsion, Mitteilungen, Kosten und Asservate in die Abschlussverfügung aufnehmen.
+5. Ausgangsverfügung mit Adressaten, Rechtsbehelfen, Fristen und Zustellungen vollzugsfähig machen.
 
 ## Typische Fallstricke
 
 - Eine Tat wird ausgeschieden, obwohl sie das Unrecht der Tatserie wesentlich praegt.
-- Die spaetere Wiedereinbeziehung wird nicht bedacht, sodass Beweismittel verloren gehen.
+- Die spätere Wiedereinbeziehung wird nicht bedacht, sodass Beweismittel verloren gehen.
 - Beschraenkung und Einstellung mangels Tatverdacht werden vermengt.
 - Die Beschraenkung wird nicht aktenkundig gemacht, sodass der Verfahrensgegenstand unklar bleibt.
 
-## Antrags- bzw. Verfuegungs-Bausteine
+## Antrags- bzw. Verfügungs-Bausteine
 
-### Verfuegung Paragraf 154 StPO
+### Baustein A
 
 ```text
-Von der Verfolgung der Tat [Bezeichnung] wird gemaess Paragraf 154 Abs. 1 StPO abgesehen, weil die zu erwartende Strafe neben der wegen [andere Tat] zu erwartenden Strafe nicht ins Gewicht faellt.
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
 ```
 
-### Verfuegung Paragraf 154a StPO
+### Baustein B
 
 ```text
-Die Verfolgung wird gemaess Paragraf 154a Abs. 1 StPO auf [Tatteil/Gesetzesverletzung] beschraenkt; die uebrigen abtrennbaren Teile werden ausgeschieden.
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `11-einstellung-aus-opportunitaet-paragraf-153-und-153a` - Vorgelagerter Arbeitsschritt; dort die Akten-, Zustaendigkeits- oder Ermittlungsfrage klaeren, bevor Teileinstellung Paragraf 154 Und 154a bearbeitet wird.
-- **Danach**: `13-strafbefehlsantrag-paragraf-407` - Folgeschritt, sobald Teileinstellung Paragraf 154 Und 154a als staatsanwaltschaftlicher Arbeitsstand verwertbar ist.
+- **Davor**: `11-einstellung-aus-opportunitaet-paragraf-153-und-153a` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Teileinstellung Paragraf 154 und 154a trägt.
+- **Danach**: `13-strafbefehlsantrag-paragraf-407` - Folgeschritt im selben Plugin; nutze ihn, sobald Teileinstellung Paragraf 154 und 154a entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -34,23 +34,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör muss in Relation, Beratung und Urteil sichtbar abgesichert werden.
-- BGH VI ZR 599/16 (24.07.2018): Substantiierung ist am moeglichen Wissen der Partei und am konkreten Lebenssachverhalt zu messen.
-- BGH XII ZR 97/21 (19.10.2022): Streitgegenstand, Teilurteil und Entscheidungsreichweite müssen deckungsgleich bleiben.
-- BGH VIII ZR 346/09 (29.06.2011): Paragraf 286 ZPO verlangt eine widerspruchsfreie Gesamtwürdigung des Beweisergebnisses.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Besetzung, Kammerzuständigkeit und Instanzrolle klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Große Relation mit Klägerstation, Beklagtenstation und Beweisstation erstellen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-3. Hinweis- und Aufklärungsbedarf nach Paragraf 139 ZPO kammerfähig formulieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-4. Beweisbeschluss mit Beweisthema, Beweislast und Beweismittel absetzen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteil oder Beschluss mit Kammerberatung, Kosten, Streitwert und Rechtsmittelrisiko ausarbeiten.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Arbeitsschritt Urteil Großes Zivilurteil: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen.
+2. Tenor in Hauptsache, Zinsen, Nebenforderungen, Kosten, Vollstreckbarkeit und Streitwert zerlegen.
+3. Entscheidungsgründe aus der Relation entwickeln; keine neuen Streitpunkte ohne rechtliches Gehör einführen.
+4. Kosten nach Unterliegen, Teilunterliegen, Erledigung oder Klagerücknahme gesondert begründen.
+5. Rechtsmittel, Berufungssumme, Zulassung und Beschwer so kontrollieren, dass die Geschäftsstelle korrekt belehren kann.
 
 ## Typische Fallstricke
 
@@ -64,16 +59,16 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Die Kammer beabsichtigt, Beweis zu erheben über die Behauptung, dass [Beweisthema], durch Vernehmung der Zeugin [Name] beziehungsweise durch Einholung eines schriftlichen Sachverstaendigengutachtens.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Nach vorläufiger Beratung der Kammer spricht derzeit mehr dafür, dass [Rechtsfrage] entscheidungserheblich ist. Die Parteien erhalten Gelegenheit zur Stellungnahme binnen [Frist].
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `05-zeugenbeweis-und-parteivernehmung` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 06 Urteil Großes Zivilurteil bearbeitet wird.
-- **Danach**: `07-berufungsverfahren-paragraf-511-ff` - Nutze diesen Folgeschritt, sobald 06 Urteil Großes Zivilurteil als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `05-zeugenbeweis-und-parteivernehmung` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Urteil Großes Zivilurteil trägt.
+- **Danach**: `07-berufungsverfahren-paragraf-511-ff` - Folgeschritt im selben Plugin; nutze ihn, sobald Urteil Großes Zivilurteil entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -1,6 +1,6 @@
 # tierschutzrecht
 
-**128 Skills** · Stand `v374.0.0`
+**128 Skills** · Stand `v375.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/tierschutzrecht/README.md)

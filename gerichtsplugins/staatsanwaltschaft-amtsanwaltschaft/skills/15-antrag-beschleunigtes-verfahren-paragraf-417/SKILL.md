@@ -31,47 +31,43 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
 
-## Anker-Rechtsprechung
+## Normen & Rechtsprechung
 
-- Paragraf 417 StPO eroeffnet das beschleunigte Verfahren vor dem Strafrichter und dem Schoeffengericht, wenn die Sache wegen einfachen Sachverhalts oder klarer Beweislage zur sofortigen Verhandlung geeignet ist.
-- Paragraf 419 StPO begrenzt die Rechtsfolgen im beschleunigten Verfahren (insbesondere Freiheitsstrafe bis zu einem Jahr).
-- Bei ungeeigneter Sachlage ist der Uebergang ins Regelverfahren geboten; das beschleunigte Verfahren darf die Verteidigung nicht verkuerzen (st. Rspr., Aktenzeichen vor Verwendung verifizieren).
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
+- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
 
-## Pruefungsschema in Stufen
+## Prüf- und Arbeitslogik
 
-1. Eignung pruefen (Paragraf 417 StPO).
-   - Pruefe einfachen Sachverhalt oder klare Beweislage und die Eignung zur sofortigen Verhandlung.
-2. Rechtsfolgenrahmen pruefen (Paragraf 419 StPO).
-   - Pruefe, ob die zu erwartende Rechtsfolge im zulaessigen Rahmen bleibt.
-3. Verteidigung sichern.
-   - Pruefe die Bestellung eines Verteidigers bei zu erwartender Freiheitsstrafe (Paragraf 418 Abs. 4 StPO).
-4. Antragsform waehlen.
-   - Entscheide ueber muendlichen Antrag in der Hauptverhandlung oder schriftlichen Antrag.
-5. Anklageinhalt knapp fassen.
-   - Fasse den Tatvorwurf knapp, aber umgrenzend; markiere den Antrag als Vorschlag.
+1. Arbeitsschritt Antrag Beschleunigtes Verfahren Paragraf 417: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
+2. Einstellung nach Paragraf 170 Abs. 2 StPO, Opportunität, Strafbefehl, Anklage, Sicherungsverfahren oder Wiederaufnahme nicht vermengen.
+3. Tat, Tatzeit, Tatort und gesetzliche Merkmale für jeden Beschuldigten getrennt darstellen.
+4. Nebenentscheidungen wie Einziehung, Adhäsion, Mitteilungen, Kosten und Asservate in die Abschlussverfügung aufnehmen.
+5. Ausgangsverfügung mit Adressaten, Rechtsbehelfen, Fristen und Zustellungen vollzugsfähig machen.
 
 ## Typische Fallstricke
 
 - Eine streitige oder umfangreiche Sache wird in das beschleunigte Verfahren gezwungen.
-- Die Pflichtverteidigerbestellung nach Paragraf 418 Abs. 4 StPO wird uebersehen.
-- Die Rechtsfolgenbegrenzung des Paragraf 419 StPO wird ueberschritten.
+- Die Pflichtverteidigerbestellung nach Paragraf 418 Abs. 4 StPO wird übersehen.
+- Die Rechtsfolgenbegrenzung des Paragraf 419 StPO wird überschritten.
 - Die Verteidigung erhaelt keine ausreichende Vorbereitungszeit.
 
-## Antrags- bzw. Verfuegungs-Bausteine
+## Antrags- bzw. Verfügungs-Bausteine
 
-### Antrag beschleunigtes Verfahren
+### Baustein A
 
 ```text
-Es wird beantragt, im beschleunigten Verfahren gemaess Paragraf 417 StPO zu entscheiden. Der Sachverhalt ist einfach und die Beweislage klar: [kurze Darstellung]. Beweismittel: [Liste].
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
 ```
 
-### Vermerk Eignung
+### Baustein B
 
 ```text
-Die Sache ist zur sofortigen Verhandlung geeignet, weil [Gruende]. Die zu erwartende Rechtsfolge haelt sich im Rahmen des Paragraf 419 StPO.
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `14-anklageschrift-paragraf-200` - Vorgelagerter Arbeitsschritt; dort die Akten-, Zustaendigkeits- oder Ermittlungsfrage klaeren, bevor Antrag Beschleunigtes Verfahren Paragraf 417 bearbeitet wird.
-- **Danach**: `16-sicherungsverfahren-und-massregeln` - Folgeschritt, sobald Antrag Beschleunigtes Verfahren Paragraf 417 als staatsanwaltschaftlicher Arbeitsstand verwertbar ist.
+- **Davor**: `14-anklageschrift-paragraf-200` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Antrag Beschleunigtes Verfahren Paragraf 417 trägt.
+- **Danach**: `16-sicherungsverfahren-und-massregeln` - Folgeschritt im selben Plugin; nutze ihn, sobald Antrag Beschleunigtes Verfahren Paragraf 417 entscheidungs- oder verfügungsreif vorbereitet ist.

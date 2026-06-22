@@ -1,6 +1,6 @@
 # richter-landgericht-strafkammer
 
-**10 Skills** · Stand `v374.0.0`
+**10 Skills** · Stand `v375.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-landgericht-strafkammer/README.md)

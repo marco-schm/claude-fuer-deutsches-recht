@@ -3,7 +3,7 @@ name: 09-vergleich-und-erledigung
 description: "Prozessvergleich Paragraf 794 Abs. 1 Nr. 1 ZPO, Vergleich im Termin, schriftlicher Vergleich Paragraf 278 Abs. 6 ZPO, Erledigung in der Hauptsache, einseitige Erledigungserklaerung"
 ---
 
-# 09 Vergleich Und Erledigung
+# 09 Vergleich und Erledigung
 
 ## Zweck
 
@@ -34,46 +34,41 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör verpflichtet das Gericht, entscheidungserheblichen Vortrag in der Entscheidungsfindung zu berücksichtigen.
-- BGH VI ZR 599/16 (24.07.2018): Schluessiger Vortrag darf nicht durch überspannte Substantiierungsanforderungen abgeschnitten werden.
-- BGH VIII ZR 346/09 (29.06.2011): Die freie Beweiswürdigung nach Paragraf 286 ZPO verlangt eine tragfähige Überzeugungsbildung aus dem gesamten Prozessstoff.
-- BGH XII ZR 97/21 (19.10.2022): Tenor und Entscheidungsreichweite müssen dem Streitgegenstand entsprechen.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage als Alternative zu Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
 
 ## Prüfungsschema in Stufen
 
-1. Zuständigkeit nach GVG, Streitwert und Verfahrensart bestimmen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Antraege und Lebenssachverhalt auslegen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-3. Schluessigkeit, Erheblichkeit und Beweisbedarf trennen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Hinweis nach Paragraf 139 ZPO nur bei entscheidungserheblicher Unklarheit erteilen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteil, Beschluss oder Vergleichsvermerk mit Kosten- und Vollstreckbarkeitsfolge ausformulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Arbeitsschritt Vergleich und Erledigung: Anerkenntnis, Säumnis, Vergleich, Erledigung und Klagerücknahme als unterschiedliche Prozesslagen trennen.
+2. Zeitpunkt und Umfang bestimmen: vor oder nach Rechtshängigkeit, vollständig oder teilweise, einseitig oder übereinstimmend.
+3. Kostenpfad wählen: Paragraf 91a ZPO, Paragraf 269 Abs. 3 Satz 3 ZPO, Anerkenntnisprivileg oder materieller Kostenerstattungsanspruch.
+4. Tenor so formulieren, dass Hauptsache, Kosten und Vollstreckbarkeit nicht widersprüchlich werden.
+5. Bei Erledigung wegen Zahlung im Verzug die Möglichkeit der Feststellung materieller Rechtsverfolgungskosten ausdrücklich prüfen.
 
 ## Typische Fallstricke
 
-- Paragraf 495a ZPO wird genutzt, obwohl rechtliches Gehör oder Streitwertgrenze nicht sauber geprüft sind.
-- Kostenentscheidung wird ohne Erledigungs- oder Teilunterliegensquote formuliert.
-- Ein Anerkenntnis oder Versaeumnis wird mit streitigem Urteil vermischt.
-- Aktengeheimnis nach Paragraf 353b StGB und Amtsverschwiegenheit nach Paragraf 43 DRiG werden bei externen Arbeitsmitteln übersehen.
+- Erledigung vor Rechtshängigkeit wird wie Paragraf 91a ZPO behandelt, obwohl Paragraf 269 Abs. 3 Satz 3 ZPO oder materielle Kostenfeststellungsklage näher liegt.
+- Teilweise Erledigung wird im Tenor nicht von der fortbestehenden Hauptsache getrennt.
+- Verzugsschaden wegen Rechtsverfolgungskosten wird übersehen, obwohl der Beklagte bei Klageeinreichung in Verzug war.
+- Aktengeheimnis nach Paragraf 353b StGB und Amtsverschwiegenheit nach Paragraf 43 DRiG bleiben bei jeder externen Werkzeugnutzung Sperren.
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
 
 ### Baustein A
 
 ```text
-Die Parteien werden darauf hingewiesen, dass das Gericht den bisherigen Vortrag zu [Punkt] für entscheidungserheblich, aber noch nicht hinreichend konkret haelt. Ergaenzender Vortrag kann binnen [Frist] eingereicht werden.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Die Kostenentscheidung beruht auf Paragraf [Norm] ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus Paragraf [Norm] ZPO.
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `08-versaeumnisurteil-und-anerkenntnis` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 09 Vergleich Und Erledigung bearbeitet wird.
-- **Danach**: `10-entscheidungsvorschlag-zur-richterlichen-pruefung` - Nutze diesen Folgeschritt, sobald 09 Vergleich Und Erledigung als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `08-versaeumnisurteil-und-anerkenntnis` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Vergleich und Erledigung trägt.
+- **Danach**: `10-entscheidungsvorschlag-zur-richterlichen-pruefung` - Folgeschritt im selben Plugin; nutze ihn, sobald Vergleich und Erledigung entscheidungs- oder verfügungsreif vorbereitet ist.

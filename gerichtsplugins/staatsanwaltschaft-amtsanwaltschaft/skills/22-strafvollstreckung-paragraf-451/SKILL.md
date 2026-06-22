@@ -31,47 +31,43 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
 
-## Anker-Rechtsprechung
+## Normen & Rechtsprechung
 
-- Paragraf 451 StPO bestimmt die Staatsanwaltschaft zur Vollstreckungsbehoerde; sie vollstreckt auf Grundlage einer mit Rechtskraftvermerk versehenen Entscheidung.
-- Paragraf 449 StPO setzt die Vollstreckbarkeit die Rechtskraft des Urteils voraus.
-- Die Strafvollstreckungsordnung (StVollstrO) konkretisiert den Vollstreckungsgang; Aufschub und Unterbrechung folgen Paragrafen 455, 456 StPO (st. Rspr., Aktenzeichen vor Verwendung verifizieren).
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
+- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
 
-## Pruefungsschema in Stufen
+## Prüf- und Arbeitslogik
 
-1. Rechtskraft und Vollstreckbarkeit pruefen.
-   - Pruefe Rechtskraftvermerk und vollstreckbare Ausfertigung (Paragraf 451 StPO).
-2. Vollstreckungsart bestimmen.
-   - Bestimme Freiheitsstrafe, Geldstrafe, Ersatzfreiheitsstrafe oder Nebenfolgen und den Vollstreckungsweg.
-3. Ladung oder Einleitung verfuegen.
-   - Verfuege Ladung zum Strafantritt oder Zahlungsaufforderung und beachte die StVollstrO.
-4. Aufschub und Unterbrechung pruefen.
-   - Pruefe Vollstreckungsaufschub (Paragraf 456 StPO) und Vollstreckungshindernisse (Paragraf 455 StPO).
-5. Vollstreckungsverlauf dokumentieren.
-   - Halte Fristen, Zahlungen und Vollzugsmeldungen revisionssicher fest.
+1. Arbeitsschritt Strafvollstreckung Paragraf 451: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
+2. Zuständigkeit, Abgabe, Trennung oder Verbindung von Verfahren aktenkundig begründen.
+3. Ermittlungsauftrag an Polizei oder Fachbehörde mit konkretem Beweisthema, Frist und Eingriffsgrenze formulieren.
+4. Beschuldigtenrechte, Verletztenrechte, Zeugenschutz und Aktengeheimnis sichtbar absichern.
+5. Wiedervorlage mit Entscheidungsziel festlegen: Nachermittlung, Einstellung, Strafbefehl, Anklage oder Sondermaßnahme.
 
 ## Typische Fallstricke
 
 - Es wird vollstreckt, bevor die Rechtskraft eingetreten und vermerkt ist.
 - Die Umrechnung der Geldstrafe in eine Ersatzfreiheitsstrafe (Paragraf 43 StGB) wird fehlerhaft berechnet.
-- Ein Aufschubgrund nach Paragraf 456 StPO wird uebersehen.
+- Ein Aufschubgrund nach Paragraf 456 StPO wird übersehen.
 - Die Vollstreckung wird nicht lueckenlos dokumentiert.
 
-## Antrags- bzw. Verfuegungs-Bausteine
+## Antrags- bzw. Verfügungs-Bausteine
 
-### Ladung zum Strafantritt
+### Baustein A
 
 ```text
-Die gegen Sie verhaengte Freiheitsstrafe von [Mass] aus dem rechtskraeftigen Urteil des [Gericht] vom [Datum] ist zu vollstrecken. Sie werden aufgefordert, die Strafe am [Datum] in der Justizvollzugsanstalt [Ort] anzutreten (Paragrafen 449, 451 StPO).
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
 ```
 
-### Verfuegung Ersatzfreiheitsstrafe
+### Baustein B
 
 ```text
-Die Geldstrafe von [Zahl] Tagessaetzen ist uneinbringlich. An ihre Stelle tritt die Ersatzfreiheitsstrafe von [Zahl] Tagen (Paragraf 43 StGB).
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `21-rechtsmittel-der-staatsanwaltschaft` - Vorgelagerter Arbeitsschritt; dort die Akten-, Zustaendigkeits- oder Ermittlungsfrage klaeren, bevor Strafvollstreckung Paragraf 451 bearbeitet wird.
-- **Danach**: `23-klageerzwingung-und-beschwerdebescheid-paragraf-172` - Folgeschritt, sobald Strafvollstreckung Paragraf 451 als staatsanwaltschaftlicher Arbeitsstand verwertbar ist.
+- **Davor**: `21-rechtsmittel-der-staatsanwaltschaft` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Strafvollstreckung Paragraf 451 trägt.
+- **Danach**: `23-klageerzwingung-und-beschwerdebescheid-paragraf-172` - Folgeschritt im selben Plugin; nutze ihn, sobald Strafvollstreckung Paragraf 451 entscheidungs- oder verfügungsreif vorbereitet ist.

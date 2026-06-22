@@ -34,23 +34,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH XII ZB 601/15 (01.02.2017): Ein paritaetisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
-- BGH XII ZB 512/18 (27.11.2019): Wechselmodell setzt regelmaessig tragfähige Kommunikation, Kooperation und Kindeswohlvorteil voraus.
-- BGH XII ZB 234/13 (12.03.2014): Kindesunterhalt ist aus Mindestunterhalt, Einkommensgruppe und konkreter Leistungsfähigkeit herzuleiten.
-- BGH XII ZB 336/16 (11.07.2018): Externe Teilung im Versorgungsausgleich verlangt genaue Bewertung des auszugleichenden Anrechts.
+- BVerfG, Beschluss vom 15.12.1965 - 1 BvR 513/65, BVerfGE 19, 342: Untersuchungshaft steht unter strengem Verhältnismäßigkeits- und Beschleunigungsgebot.
+- Ständige Rechtsprechung des BVerfG zum Beschleunigungsgebot in Haftsachen: Verzögerungen müssen aktenkundig erklärt und durch konkrete Verfahrensförderung kompensiert werden; aktuelles Aktenzeichen vor Antragstellung verifizieren.
+- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15, BGHZ 214, 31: Ein paritätisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
+- BGH, Beschluss vom 27.11.2019 - XII ZB 512/18, frei nachweisbar über dejure/openJur: Wechselmodell setzt tragfähige Kommunikation, Kooperation und konkreten Kindeswohlvorteil voraus.
+- BGH, Beschluss vom 12.03.2014 - XII ZB 234/13, frei nachweisbar über dejure/openJur: Kindesunterhalt ist aus Bedarf, Einkommensgruppe und Leistungsfähigkeit nachvollziehbar herzuleiten.
 
 ## Prüfungsschema in Stufen
 
-1. Familiensache, Verfahrensart, Beteiligte und Zuständigkeit klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Amtsermittlung, Anhörung, Jugendamt oder Versorgungstraeger je nach Sache einbinden.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-3. Materielle Anspruchs- oder Kindeswohlprüfung stufenweise durchfuehren.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Eilbeduerftigkeit, Verbund oder Folgesache gesondert prüfen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Beschluss mit Tenor, Gründen, Rechtsmittel und Vollstreckungshinweis formulieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
+1. Arbeitsschritt Kindschaftssache Elterliche Sorge: Kindeswohl, Beteiligtenstellung, Anhörung des Kindes, Elternrechte und Jugendamtsbeteiligung zuerst prüfen.
+2. Sorge, Umgang, Aufenthaltsbestimmung und Schutzmaßnahmen getrennt behandeln.
+3. Eilbedürftigkeit, Verfahrensbeistand, Sachverständigengutachten und persönliche Anhörung konkret steuern.
+4. Kooperationsfähigkeit, Bindungen, Kontinuität und Kindeswille nur alters- und konfliktangemessen würdigen.
+5. Beschluss mit Umgangszeiten, Übergaben, Auflagen, Vollstreckungshinweis und Kosten fassen.
 
 ## Typische Fallstricke
 
@@ -64,16 +60,16 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Umgang des Kindes [Name] mit [Elternteil] wird wie folgt geregelt: [Regelung]. Im Uebrigen werden die Antraege zurückgewiesen.
+Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
 ```
 
 ### Baustein B
 
 ```text
-Im Wege der internen Teilung wird zu Lasten des Anrechts [Versorgungstraeger] zugunsten von [Beteiligte Person] ein Anrecht in Höhe von [Wert] bezogen auf den [Ehezeitende] übertragen.
+Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `03-versorgungsausgleich-vorbereiten` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 04 Kindschaftssache Elterliche Sorge bearbeitet wird.
-- **Danach**: `05-umgangsrecht-paragraf-1684-bgb` - Nutze diesen Folgeschritt, sobald 04 Kindschaftssache Elterliche Sorge als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `03-versorgungsausgleich-vorbereiten` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Kindschaftssache Elterliche Sorge trägt.
+- **Danach**: `05-umgangsrecht-paragraf-1684-bgb` - Folgeschritt im selben Plugin; nutze ihn, sobald Kindschaftssache Elterliche Sorge entscheidungs- oder verfügungsreif vorbereitet ist.

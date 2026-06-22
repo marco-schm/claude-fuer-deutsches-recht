@@ -3,7 +3,7 @@ name: 26-opferschutz-nebenklage-und-verletztenrechte
 description: "Opferschutzpflichten der Staatsanwaltschaft (Paragrafen 406d bis 406l StPO), Anschluss als Nebenklaeger (Paragrafen 395 bis 402 StPO), opferschutzrechtliche Belehrung, psychosoziale Prozessbegleitung (Paragraf 406g StPO), Akteneinsicht des Verletzten (Paragraf 406e StPO)"
 ---
 
-# 26 Opferschutz Nebenklage Und Verletztenrechte
+# 26 Opferschutz Nebenklage und Verletztenrechte
 
 ## Zweck
 
@@ -31,47 +31,43 @@ StPO, StGB, GVG, JGG, OEG, RiStBV, OrgStA, RVG
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
 
-## Anker-Rechtsprechung
+## Normen & Rechtsprechung
 
-- Paragraf 406d StPO regelt die Pflicht zur Unterrichtung des Verletzten ueber Verfahrensstand und wesentliche Entscheidungen.
-- Paragraf 406e StPO oeffnet dem Verletzten Akteneinsicht durch einen Rechtsanwalt, wenn ein berechtigtes Interesse dargelegt ist und schutzwuerdige Interessen des Beschuldigten nicht entgegenstehen.
-- Paragraf 406g StPO sichert dem Verletzten bei bestimmten Taten die psychosoziale Prozessbegleitung; die Beiordnung erfolgt durch das Gericht (st. Rspr., Aktenzeichen vor Verwendung verifizieren).
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
+- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
 
-## Pruefungsschema in Stufen
+## Prüf- und Arbeitslogik
 
-1. Verletzteneigenschaft und Anschlussbefugnis pruefen (Paragraf 395 StPO).
-   - Pruefe, ob der Anzeigeerstatter Verletzter im Sinne der Katalogtaten des Paragraf 395 Abs. 1 oder Abs. 3 StPO ist.
-2. Belehrungspflichten erfuellen (Paragraf 406i bis Paragraf 406k StPO).
-   - Belehre ueber Anschlussbefugnis, Akteneinsicht, psychosoziale Prozessbegleitung und Schutzmassnahmen.
-3. Akteneinsichtsantrag pruefen (Paragraf 406e StPO).
-   - Pruefe das berechtigte Interesse und die Interessen des Beschuldigten; entscheide ueber Akteneinsicht durch den Verletztenbeistand.
-4. Beiordnung pruefen (Paragraf 406g StPO, Paragraf 397a StPO).
-   - Pruefe Beiordnung eines Verletztenbeistands oder einer psychosozialen Prozessbegleitung und stelle Antrag bei Gericht.
-5. Schutzmassnahmen sichern (Paragraf 68 Abs. 2 StPO, Paragraf 247a StPO, Paragraf 58a StPO).
-   - Pruefe eingeschraenkte Personalienangabe, audiovisuelle Vernehmung und Ausschluss der Oeffentlichkeit (Paragraf 171b GVG).
+1. Arbeitsschritt Opferschutz Nebenklage und Verletztenrechte: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
+2. Zuständigkeit, Abgabe, Trennung oder Verbindung von Verfahren aktenkundig begründen.
+3. Ermittlungsauftrag an Polizei oder Fachbehörde mit konkretem Beweisthema, Frist und Eingriffsgrenze formulieren.
+4. Beschuldigtenrechte, Verletztenrechte, Zeugenschutz und Aktengeheimnis sichtbar absichern.
+5. Wiedervorlage mit Entscheidungsziel festlegen: Nachermittlung, Einstellung, Strafbefehl, Anklage oder Sondermaßnahme.
 
 ## Typische Fallstricke
 
 - Die Belehrung nach Paragrafen 406i bis 406k StPO unterbleibt oder erfolgt formularhaft ohne Bezug zur Tat.
 - Die Akteneinsicht wird ohne ausreichende Pruefung der Beschuldigteninteressen gewaehrt oder verweigert.
-- Die Beiordnung der psychosozialen Prozessbegleitung wird uebersehen, obwohl die Voraussetzungen vorliegen.
+- Die Beiordnung der psychosozialen Prozessbegleitung wird übersehen, obwohl die Voraussetzungen vorliegen.
 - Schutzmassnahmen in der Hauptverhandlung werden nicht rechtzeitig vorbereitet.
 
-## Antrags- bzw. Verfuegungs-Bausteine
+## Antrags- bzw. Verfügungs-Bausteine
 
-### Belehrungsbaustein Verletzte
+### Baustein A
 
 ```text
-Sie sind durch die angezeigte Tat verletzt. Sie haben das Recht, sich der erhobenen Anklage als Nebenklaeger anzuschliessen (Paragraf 395 StPO), Akteneinsicht durch einen Rechtsanwalt zu nehmen (Paragraf 406e StPO) und psychosoziale Prozessbegleitung zu beantragen (Paragraf 406g StPO). Sie werden ueber den Fortgang des Verfahrens unterrichtet (Paragraf 406d StPO).
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
 ```
 
-### Antrag auf Beiordnung Verletztenbeistand
+### Baustein B
 
 ```text
-Es wird beantragt, dem Verletzten [Name] gemaess Paragraf 397a Abs. 1 StPO Rechtsanwalt [Name] als Verletztenbeistand beizuordnen. Die Voraussetzungen liegen vor, weil [Begruendung der Katalogtat oder besonderen Schutzbeduerftigkeit].
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `25-adhaesionsverfahren-paragraf-403` - Vorgelagerter Arbeitsschritt; dort den vermoegensrechtlichen Adhaesionsantrag des Verletzten klaeren, bevor die opferschutzrechtliche Begleitung weiter ausgebaut wird.
-- **Danach**: `27-wiederaufnahme-zuungunsten-paragraf-362` - Folgeschritt, in dem nach rechtskraeftigem Verfahrensabschluss die Wiederaufnahme zuungunsten des Freigesprochenen geprueft wird.
+- **Davor**: `25-adhaesionsverfahren-paragraf-403` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Opferschutz Nebenklage und Verletztenrechte trägt.
+- **Danach**: `27-wiederaufnahme-zuungunsten-paragraf-362` - Folgeschritt im selben Plugin; nutze ihn, sobald Opferschutz Nebenklage und Verletztenrechte entscheidungs- oder verfügungsreif vorbereitet ist.

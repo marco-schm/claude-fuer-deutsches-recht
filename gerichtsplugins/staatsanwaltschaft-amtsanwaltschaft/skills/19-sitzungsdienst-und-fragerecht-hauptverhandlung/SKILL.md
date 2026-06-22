@@ -3,7 +3,7 @@ name: 19-sitzungsdienst-und-fragerecht-hauptverhandlung
 description: "Sitzungsvertretung der Staatsanwaltschaft (Paragraf 226 StPO), Fragerecht (Paragraf 240 StPO), Beweisantraege und Erklaerungen (Paragraf 257 StPO), Reaktion auf Antraege der Verteidigung, Vorhalt und Beweisaufnahme"
 ---
 
-# 19 Sitzungsdienst Und Fragerecht Hauptverhandlung
+# 19 Sitzungsdienst und Fragerecht Hauptverhandlung
 
 ## Zweck
 
@@ -31,24 +31,20 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
 
-## Anker-Rechtsprechung
+## Normen & Rechtsprechung
 
-- Paragraf 226 StPO verlangt die ununterbrochene Gegenwart der zur Urteilsfindung berufenen Personen und der Staatsanwaltschaft in der Hauptverhandlung.
-- Paragraf 240 StPO gewaehrt der Staatsanwaltschaft das Fragerecht an Angeklagte, Zeugen und Sachverstaendige.
-- Die Objektivitaetspflicht (Paragraf 160 Abs. 2 StPO) gilt auch in der Hauptverhandlung; die Sitzungsvertretung wirkt auf eine vollstaendige Wahrheitsermittlung hin (st. Rspr., Aktenzeichen vor Verwendung verifizieren).
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
+- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
 
-## Pruefungsschema in Stufen
+## Prüf- und Arbeitslogik
 
-1. Sitzung vorbereiten.
-   - Erschliesse Anklagevorwurf, Beweismittel und zu erwartende Verteidigungslinien aus der Akte.
-2. Beweisthemen und Fragen ordnen.
-   - Bereite zielgerichtete Fragen je Zeuge und Sachverstaendigen zu den offenen Beweisthemen vor.
-3. Auf Antraege reagieren.
-   - Bereite Stellungnahmen zu Beweisantraegen, Aussetzungs- und Verwertungsfragen vor (Paragraf 257 StPO).
-4. Beweisergebnis fortlaufend bewerten.
-   - Gleiche die Beweisaufnahme laufend mit dem Anklagevorwurf ab und erkenne Beweisluecken.
-5. Schlussantrag vorbereiten.
-   - Leite aus dem Beweisergebnis den Schlussantrag ab und verweise auf den Plaedoyer-Skill.
+1. Arbeitsschritt Sitzungsdienst und Fragerecht Hauptverhandlung: Sitzungsrolle, Beweisthema, Verfahrensstand und Ziel des staatsanwaltschaftlichen Antrags zuerst bestimmen.
+2. Fragerecht, Beweisanträge, Verständigung, Befangenheit und Rechtsmittel nur auf aktenkundige Tatsachen stützen.
+3. Bei Verteidigeranträgen sofort Zulässigkeit, Begründetheit, Ablehnungsgrund und Protokollierungsbedarf trennen.
+4. Schlussvortrag nach Tatnachweis, rechtlicher Würdigung, Strafzumessung und Nebenfolgen gliedern.
+5. Anträge klar, knapp und protokollfest formulieren; keine informellen Absprachen außerhalb der StPO dulden.
 
 ## Typische Fallstricke
 
@@ -57,21 +53,21 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 - Entlastende Beweisergebnisse werden nicht zur Kenntnis genommen.
 - Der Schlussantrag wird nicht aus dem tatsaechlichen Beweisergebnis abgeleitet.
 
-## Antrags- bzw. Verfuegungs-Bausteine
+## Antrags- bzw. Verfügungs-Bausteine
 
-### Erklaerung nach Paragraf 257 StPO
+### Baustein A
 
 ```text
-Die Staatsanwaltschaft erklaert zur soeben durchgefuehrten Beweisaufnahme: [Bewertung]. Es wird angeregt, [weitere Beweiserhebung / keine weitere Beweiserhebung].
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
 ```
 
-### Stellungnahme zum Beweisantrag
+### Baustein B
 
 ```text
-Dem Beweisantrag der Verteidigung vom [Datum] wird [zugestimmt / entgegengetreten], weil [Begruendung nach Paragraf 244 StPO].
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `18-jugendsache-und-diversion-paragraf-45-jgg` - Vorgelagerter Arbeitsschritt; dort die Akten-, Zustaendigkeits- oder Ermittlungsfrage klaeren, bevor Sitzungsdienst Und Fragerecht Hauptverhandlung bearbeitet wird.
-- **Danach**: `20-plaedoyer-und-schlussvortrag-paragraf-258` - Folgeschritt, sobald Sitzungsdienst Und Fragerecht Hauptverhandlung als staatsanwaltschaftlicher Arbeitsstand verwertbar ist.
+- **Davor**: `18-jugendsache-und-diversion-paragraf-45-jgg` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Sitzungsdienst und Fragerecht Hauptverhandlung trägt.
+- **Danach**: `20-plaedoyer-und-schlussvortrag-paragraf-258` - Folgeschritt im selben Plugin; nutze ihn, sobald Sitzungsdienst und Fragerecht Hauptverhandlung entscheidungs- oder verfügungsreif vorbereitet ist.

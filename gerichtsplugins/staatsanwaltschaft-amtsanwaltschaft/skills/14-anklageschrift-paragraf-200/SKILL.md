@@ -7,7 +7,7 @@ description: "Abfassung der Anklageschrift (Paragraf 200 StPO), Anklagesatz mit 
 
 ## Zweck
 
-Abfassung der Anklageschrift (Paragraf 200 StPO), Anklagesatz mit Umgrenzungs- und Informationsfunktion, wesentliches Ergebnis der Ermittlungen, Beweismittelverzeichnis, Antrag auf Eroeffnung
+Abfassung der Anklageschrift (Paragraf 200 StPO), Anklagesatz mit Umgrenzungs- und Informationsfunktion, wesentliches Ergebnis der Ermittlungen, Beweismittelverzeichnis, Antrag auf Eröffnung
 
 ## Rolle
 
@@ -31,24 +31,20 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
 
-## Anker-Rechtsprechung
+## Normen & Rechtsprechung
 
-- Paragraf 200 StPO verlangt die Bezeichnung des Angeschuldigten, der Tat (Zeit, Ort, gesetzliche Merkmale, anzuwendende Strafvorschriften) sowie der Beweismittel; der Anklagesatz hat Umgrenzungs- und Informationsfunktion.
-- Genuegt die Anklage ihrer Umgrenzungsfunktion nicht, ist sie unwirksam und das Verfahrenshindernis von Amts wegen zu beachten (st. Rspr., Aktenzeichen vor Verwendung verifizieren).
-- Das wesentliche Ergebnis der Ermittlungen (Paragraf 200 Abs. 2 StPO) entfaellt im beschleunigten und im amtsgerichtlichen Verfahren bei einfacher Sachlage.
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
+- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
 
-## Pruefungsschema in Stufen
+## Prüf- und Arbeitslogik
 
-1. Hinreichenden Tatverdacht abschliessend pruefen.
-   - Bestaetige die Verurteilungswahrscheinlichkeit als Anklagevoraussetzung.
-2. Anklagesatz formulieren.
-   - Bezeichne Angeschuldigten, Tat nach Zeit, Ort, gesetzlichen Merkmalen und Strafvorschriften so, dass die Tat unverwechselbar umgrenzt ist.
-3. Wesentliches Ermittlungsergebnis darstellen.
-   - Stelle Beweislage und rechtliche Wuerdigung gestrafft und neutral dar (Paragraf 200 Abs. 2 StPO).
-4. Beweismittel verzeichnen.
-   - Fuehre Zeugen, Sachverstaendige, Urkunden und Augenscheinsobjekte geordnet auf.
-5. Eroeffnungsantrag und Gericht bestimmen.
-   - Beantrage die Eroeffnung vor dem zustaendigen Gericht und benenne den Spruchkoerper.
+1. Arbeitsschritt Anklageschrift Paragraf 200: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
+2. Einstellung nach Paragraf 170 Abs. 2 StPO, Opportunität, Strafbefehl, Anklage, Sicherungsverfahren oder Wiederaufnahme nicht vermengen.
+3. Tat, Tatzeit, Tatort und gesetzliche Merkmale für jeden Beschuldigten getrennt darstellen.
+4. Nebenentscheidungen wie Einziehung, Adhäsion, Mitteilungen, Kosten und Asservate in die Abschlussverfügung aufnehmen.
+5. Ausgangsverfügung mit Adressaten, Rechtsbehelfen, Fristen und Zustellungen vollzugsfähig machen.
 
 ## Typische Fallstricke
 
@@ -57,21 +53,21 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 - Beweismittel werden unvollstaendig oder ohne Fundstelle bezeichnet.
 - Die anzuwendenden Strafvorschriften werden unvollstaendig zitiert.
 
-## Antrags- bzw. Verfuegungs-Bausteine
+## Antrags- bzw. Verfügungs-Bausteine
 
-### Anklagesatz
+### Baustein A
 
 ```text
-Der Angeschuldigte [Name], geboren am [Datum] in [Ort], wird angeklagt, am [Tatzeit] in [Tatort] [Tathandlung mit gesetzlichen Merkmalen] - Vergehen/Verbrechen strafbar nach [Paragrafen StGB]. Beweismittel: [Liste].
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
 ```
 
-### Eroeffnungsantrag
+### Baustein B
 
 ```text
-Es wird beantragt, das Hauptverfahren vor dem [Strafrichter/Schoeffengericht/der Strafkammer] des [Gericht] zu eroeffnen und die Anklage zur Hauptverhandlung zuzulassen.
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `13-strafbefehlsantrag-paragraf-407` - Vorgelagerter Arbeitsschritt; dort die Akten-, Zustaendigkeits- oder Ermittlungsfrage klaeren, bevor Anklageschrift Paragraf 200 bearbeitet wird.
-- **Danach**: `15-antrag-beschleunigtes-verfahren-paragraf-417` - Folgeschritt, sobald Anklageschrift Paragraf 200 als staatsanwaltschaftlicher Arbeitsstand verwertbar ist.
+- **Davor**: `13-strafbefehlsantrag-paragraf-407` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Anklageschrift Paragraf 200 trägt.
+- **Danach**: `15-antrag-beschleunigtes-verfahren-paragraf-417` - Folgeschritt im selben Plugin; nutze ihn, sobald Anklageschrift Paragraf 200 entscheidungs- oder verfügungsreif vorbereitet ist.

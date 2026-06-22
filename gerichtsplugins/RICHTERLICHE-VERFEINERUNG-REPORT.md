@@ -1,39 +1,34 @@
-# Richterliche Verfeinerung — Bericht v365.0.0
+# Richterliche Verfeinerung — Bericht v375.0.0
 
-Dieser Bericht dokumentiert die Aenderungen an den 13 Gerichts-Plugins im Loop zu v365.0.0, nennt je Plugin ein konkretes Nutzenversprechen und empfiehlt eine Reihenfolge zum Testen. Die inhaltliche Skill-Anreicherung (Anker-Rechtsprechung, Pruefungsschemata, Fallstricke, Tenor-Bausteine) war in v358 bis v364 vorbereitet; v365 ergaenzt Wertgrenzen-Korrektheit, generisches Maskulinum und Verifikation.
+Dieser Bericht dokumentiert den fokussierten v375-Lauf für die 15 Plugins im Ordner `gerichtsplugins/`. Bearbeitet wurden die fachlichen Prüfungsschemata, die Rechtsprechungsanker, typische Fallstricke, Tenor- und Beschlussbausteine sowie die internen Skill-Verweise. Die README-Warnblöcke zu Hochrisiko-Justizsystemen, Art. 22 DSGVO, Aktengeheimnis und Amtsverschwiegenheit wurden nicht verdoppelt. Die bestehenden Pflichtschritte wurden inhaltlich nicht fortgeschrieben, sondern als bestehender Standard erhalten.
 
-## Aenderungen je Plugin
+## Ergebnis
 
-| Plugin | Aenderung in v365 | Nutzenversprechen |
-|---|---|---|
-| `relationstechnik-zivilrecht` | Entgendert; 20-Stationen-Relation und Tenor-/Urteilsbausteine verifiziert | Spart dem Berichterstatter mehrere Stunden beim Aufbau einer grossen Relation samt Urteilsentwurf |
-| `richter-amtsgericht-zivil` | Wertgrenze 10.000 Euro (Paragraf 23 GVG 2026); entgendert | Spart pro Zivilsache rund 20 bis 40 Minuten bei Zustaendigkeit, Streitwert und Beweisbeschluss |
-| `richter-landgericht-zivilkammer` | Zustaendigkeit ab 10.001 Euro; entgendert | Spart Zeit beim Relationsaufbau und der Abgrenzung Kammer gegen Einzelrichter |
-| `richter-amtsgericht-straf` | Entgendert | Beschleunigt Eroeffnungspruefung, Beweiswuerdigung und Strafzumessung |
-| `richter-landgericht-strafkammer` | Entgendert | Strukturiert grosse Strafkammer, Maszregeln und Revisionspruefung |
-| `richter-arbeitsgericht` | Entgendert | Bereitet Gueteverhandlung, Kuendigungsschutz und Beschlussverfahren vor |
-| `richter-verwaltungsgericht` | Entgendert | Ordnet Klagearten und Eilrechtsschutz (80, 123 VwGO) |
-| `richter-finanzgericht` | Entgendert | Fuehrt durch AdV, Schaetzung und Revisionszulassung |
-| `richter-sozialgericht` | Entgendert | Unterstuetzt Amtsermittlung und einstweiligen Rechtsschutz |
-| `richter-familiengericht` | Entgendert | Deckt Scheidung, Versorgungsausgleich, Sorge, Umgang, Unterhalt, Gewaltschutz |
-| `richter-amtsgericht-insolvenz-restrukturierung` | Entgendert | Trennt InsO-Eroeffnung und StaRUG-Restrukturierung |
-| `richter-amtsgericht-handelsregister` | Entgendert | Beschleunigt Eintragungspruefung und Zwischenverfuegung |
-| `richter-bverfg-verfassungsbeschwerden` | Entgendert; Mitarbeitersicht verifiziert | Strukturiert Annahmevorpruefung und Grundrechtspruefung fuer das Votum |
+- Alle 310 `SKILL.md` in `gerichtsplugins/` haben nun konkretere Prüfungsschemata oder Prüf- und Arbeitslogiken.
+- Ungesicherte oder sachlich unpassende Aktenzeichen wurden nicht weiter als harte Leitentscheidung behauptet, sondern durch ständige Rechtsprechung mit Verifikationshinweis ersetzt.
+- Die Nachbar-Skill-Verweise zeigen wieder auf tatsächlich vorhandene Skill-Slugs.
+- Die neue Fassung arbeitet in den Markdown-Bodies mit echten Umlauten; Slugs und Frontmatter bleiben validator-kompatibel.
 
-## Empfohlene Reihenfolge zum Testen
+## Rechtsprechungs- und Korrekturliste je Plugin
 
-1. `relationstechnik-zivilrecht` — die methodische Klammer fuer alle zivilrechtlichen Rollen; hier zeigt sich der groesste Hebel (vollstaendige Relation und Urteilsentwurf).
-2. `richter-amtsgericht-zivil` und `richter-landgericht-zivilkammer` — die Relationstechnik in der konkreten Instanz, jetzt mit korrekter Wertgrenze 2026.
-3. `richter-familiengericht` — breit gefaecherte Materie (Scheidung bis Gewaltschutz), guter Stresstest.
-4. `richter-arbeitsgericht`, `richter-sozialgericht`, `richter-verwaltungsgericht`, `richter-finanzgericht` — die Fachgerichtsbarkeiten mit jeweils eigener Verfahrensordnung.
-5. `richter-amtsgericht-straf` und `richter-landgericht-strafkammer` — Strafverfahren von der Eroeffnung bis zur Revision.
-6. `richter-amtsgericht-insolvenz-restrukturierung` und `richter-amtsgericht-handelsregister` — die staerker formalisierten Register- und Insolvenzmaterien.
-7. `richter-bverfg-verfassungsbeschwerden` — die Sondersicht des wissenschaftlichen Mitarbeiters.
+| Plugin | Verifiziert, korrigiert oder als ständige Rechtsprechung markiert |
+|---|---|
+| `relationstechnik-zivilrecht` | Verifiziert und beibehalten: BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02; BGH, Urteil vom 24.07.2018 - VI ZR 599/16; BGH, Urteil vom 01.10.2019 - VI ZR 164/18; BGH, Urteil vom 18.04.2013 - III ZR 156/12. Korrigiert: die frühere Bezugnahme auf VIII ZR 346/09 für Paragraf 286 ZPO wurde durch VI ZR 164/18 ersetzt. |
+| `richter-amtsgericht-zivil` | Verifiziert und beibehalten: BVerfG 1 PBvU 1/02, BGH VI ZR 599/16, BGH VI ZR 164/18, BGH III ZR 156/12. Zusätzlich in den Erledigungsskills bereinigt: doppelte III-ZR-156/12-Anker wurden entfernt. |
+| `richter-landgericht-zivilkammer` | Verifiziert und beibehalten: BVerfG 1 PBvU 1/02, BGH VI ZR 599/16, BGH VI ZR 164/18, BGH III ZR 156/12. Die Beweis- und Relationsskills wurden auf Schlüssigkeit, Erheblichkeit, Beweislast und Paragraf 286 ZPO ausgerichtet. |
+| `richter-amtsgericht-straf` | Verifiziert und beibehalten: BGH, Urteil vom 30.07.1999 - 1 StR 618/98; BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11. Korrigiert: die ungesicherte GSSt-1/17-Linie wurde nicht mehr als konkrete Leitentscheidung geführt, sondern als ständige Rechtsprechung zu Paragraf 244 StPO markiert. Korrigiert: für Urteilsgründe wird nun BGH, Beschluss vom 30.05.2018 - 3 StR 486/17 genannt. |
+| `richter-landgericht-strafkammer` | Wie Amtsgericht Straf: BGH 1 StR 618/98 und BVerfG 2 BvR 2628/10 u.a. bleiben als harte Anker. Beweisantragsrecht wird als ständige Rechtsprechung mit Verifikationshinweis geführt; Paragraf-267-StPO-Anker wurde auf BGH 3 StR 486/17 umgestellt. |
+| `richter-amtsgericht-handelsregister` | Beibehalten: BGH, Beschluss vom 20.09.2011 - II ZB 17/10; BGH, Beschluss vom 17.12.2013 - II ZB 6/13; BGH, Beschluss vom 26.06.2018 - II ZB 12/16. Zusätzlich als ständige Rechtsprechung markiert: Trennung zwischen behebbarer Zwischenverfügung und unbehebbarem Zurückweisungsgrund nach Paragrafen 382 ff. FamFG. |
+| `richter-amtsgericht-insolvenz-restrukturierung` | Beibehalten: BGH, Beschluss vom 12.03.2015 - IX ZR 285/14; BGH, Beschluss vom 19.05.2016 - IX ZB 65/14; BGH, Beschluss vom 21.07.2011 - IX ZB 219/10. Sicherungsmaßnahmen, Eigenverwaltung, Planbestätigung und StaRUG wurden in den Schemata stärker nach Verfahrensphase getrennt. |
+| `richter-arbeitsgericht` | Beibehalten: BAG, Urteil vom 06.07.2006 - 2 AZR 442/05; BAG, Urteil vom 20.11.2014 - 2 AZR 755/13; BAG, Urteil vom 19.02.2015 - 8 AZR 1007/13; BAG, Urteil vom 19.11.2015 - 6 AZR 559/14. Die Schemata trennen nun Kündigungsschutz, Zahlungsklage, Kollektivrecht und einstweiligen Rechtsschutz deutlicher. |
+| `richter-verwaltungsgericht` | Korrigiert: BVerfG 2 BvR 2735/14 wurde nicht mehr als allgemeiner Art.-19-Abs.-4-GG-Anker verwendet, sondern durch ständige Rechtsprechung des BVerfG zu effektivem Rechtsschutz ersetzt. Korrigiert: BVerwG 6 C 6.15 wurde wegen unpassender Sachmaterie durch ständige Rechtsprechung zur Ermessenskontrolle nach Paragraf 114 VwGO ersetzt. |
+| `richter-finanzgericht` | Beibehalten: EuGH, Urteil vom 06.07.2006 - C-439/04 und C-440/04; EuGH, Urteil vom 21.06.2012 - C-80/11 und C-142/11; EuGH, Urteil vom 18.12.2014 - C-131/13, C-163/13 und C-164/13; BFH, Urteil vom 04.11.2021 - VI R 22/19. Die USt-Skills trennen nun Steuerbarkeit, Leistungsort, Vorsteuerabzug und Missbrauchslinie klarer. |
+| `richter-sozialgericht` | Beibehalten: BVerfG, Beschluss vom 06.12.2005 - 1 BvR 347/98; BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09 u.a.; BVerfG, Urteil vom 18.07.2012 - 1 BvL 10/10 und 1 BvL 2/11; BSG, Urteil vom 26.05.2020 - B 1 KR 32/18 R. Die Schemata trennen Leistungszweig, Amtsermittlung und einstweiligen Rechtsschutz. |
+| `richter-familiengericht` | Beibehalten: BGH, Beschluss vom 01.02.2017 - XII ZB 601/15; BGH, Beschluss vom 27.11.2019 - XII ZB 512/18; BGH, Beschluss vom 22.10.2014 - XII ZB 234/13; BGH, Beschluss vom 15.06.2016 - XII ZB 336/16. Die Schemata trennen Kindeswohl, Unterhalt, Versorgungsausgleich, Scheidung und Gewaltschutz. |
+| `richter-bverfg-verfassungsbeschwerden` | Beibehalten: BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51; BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56; BVerfG, Beschluss vom 24.02.1971 - 1 BvR 435/68; BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 u.a.; BVerfG, Beschluss vom 05.06.1973 - 1 BvR 536/72. Die Schemata trennen Annahme, Substantiierung, Rechtswegerschöpfung, Grundrechtsprüfung und Entscheidungsvorschlag. |
+| `staatsanwaltschaft-amtsanwaltschaft` | Beibehalten: BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07; BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10 u.a.; EuGH, Urteil vom 30.04.2024 - C-670/22; EuGH, Urteil vom 05.12.2023 - C-807/21. Die Abschluss-, Eingriffs-, Haft-, OWi- und Sitzungsdienstskills wurden funktional getrennt. |
+| `staatsanwaltschaft-praxis-einstieg` | Beibehalten und thematisch verteilt: BVerfG 1 BvR 370/07 und 1 BvR 595/07; BVerfG 2 BvR 1444/00; BGH, Beschluss vom 02.03.2022 - 5 StR 457/21; BVerfG, Beschluss vom 01.11.2023 - 2 BvR 1832/22; EuGH C-670/22. Bei nicht belastbar geprüften Detailfragen wird ständige Rechtsprechung mit Verifikationshinweis statt blindem Aktenzeichen verwendet. |
 
-## Zusammenspiel mit der Anwaltsperspektive
+## Qualitätsschwerpunkt v375
 
-Die Gerichts-Plugins bilden die richterliche Sicht ab. Das Gegenstueck aus Anwalts- und Selbstvertreter-Sicht auf dieselben Normen (Klage, Streitwert, Wertgrenzen Paragraf 23 GVG, Beweisrecht, Berufung Paragraf 511 ZPO, Prozesskostenhilfe Paragraf 114 ZPO) liefert das Plugin `selbstvertreter-amtsgericht`. Beide Perspektiven auf denselben Normbestand ergeben zusammen ein vollstaendiges Bild des Verfahrens.
-
-## Offene Empfehlung fuer den naechsten Loop
-
-Die in v358 bis v364 angereicherten Skill-Inhalte sind inhaltlich vorhanden. Ein kuenftiger Loop kann je Skill die Querverweise (Weiter mit) und die Copy-Paste-Textbausteine weiter vereinheitlichen und je Plugin eine zweite Testakte ergaenzen. Jede dort genannte Rechtsprechung ist vor produktiver Verwendung einzeln an amtlicher Quelle zu verifizieren.
+Der stärkste Eingriff lag nicht in neuen Warnhinweisen, sondern in der Binnenlogik der Skills. Die Prüfungsschemata beginnen jetzt mit einem konkret benannten Arbeitsschritt, ordnen den Fall nach Gerichtsbarkeit und Verfahrenslage und führen zu einer gerichtlichen oder staatsanwaltschaftlichen Verfügung, einem Beschluss, einer Relation, einem Votum oder einer Endentscheidung. Dadurch sind die Skills schneller auswählbar und weniger anfällig dafür, bei echten Akten in eine generische Checklistenlogik zurückzufallen.

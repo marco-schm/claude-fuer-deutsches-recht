@@ -3,11 +3,11 @@ name: 16-sicherungsverfahren-und-massregeln
 description: "Antrag im Sicherungsverfahren (Paragrafen 413 bis 416 StPO), Massregeln der Besserung und Sicherung (Paragrafen 61 ff. StGB), Unterbringung (Paragrafen 63 und 64 StGB), Schuldunfaehigkeit (Paragraf 20 StGB)"
 ---
 
-# 16 Sicherungsverfahren Und Massregeln
+# 16 Sicherungsverfahren und Maßregeln
 
 ## Zweck
 
-Antrag im Sicherungsverfahren (Paragrafen 413 bis 416 StPO), Massregeln der Besserung und Sicherung (Paragrafen 61 ff. StGB), Unterbringung (Paragrafen 63 und 64 StGB), Schuldunfaehigkeit (Paragraf 20 StGB)
+Antrag im Sicherungsverfahren (Paragrafen 413 bis 416 StPO), Maßregeln der Besserung und Sicherung (Paragrafen 61 ff. StGB), Unterbringung (Paragrafen 63 und 64 StGB), Schuldunfaehigkeit (Paragraf 20 StGB)
 
 ## Rolle
 
@@ -31,24 +31,20 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
 
-## Anker-Rechtsprechung
+## Normen & Rechtsprechung
 
-- Paragraf 413 StPO eroeffnet das Sicherungsverfahren, wenn wegen Schuldunfaehigkeit oder Verhandlungsunfaehigkeit kein Strafverfahren durchgefuehrt werden kann, aber Massregeln in Betracht kommen.
-- BVerfG zur Unterbringung nach Paragraf 63 StGB: Der Freiheitseingriff steht unter strengem Verhaeltnismaessigkeitsgebot; Gefaehrlichkeitsprognose und Symptomtat sind tragfaehig zu begruenden (Aktenzeichen vor Verwendung verifizieren).
-- Die Unterbringung in einer Entziehungsanstalt (Paragraf 64 StGB) setzt einen hinreichend konkreten Behandlungserfolg voraus (st. Rspr., Aktenzeichen vor Verwendung verifizieren).
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
+- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
 
-## Pruefungsschema in Stufen
+## Prüf- und Arbeitslogik
 
-1. Schuld- oder Verhandlungsfaehigkeit pruefen.
-   - Pruefe Anhaltspunkte fuer Paragrafen 20, 21 StGB oder Verhandlungsunfaehigkeit und das Erfordernis eines Gutachtens.
-2. Symptomtat und Anlasstat feststellen.
-   - Stelle die rechtswidrige Tat fest, die Anknuepfungspunkt der Massregel ist.
-3. Gefaehrlichkeitsprognose begruenden.
-   - Begruende die Wahrscheinlichkeit weiterer erheblicher rechtswidriger Taten gutachtengestuetzt.
-4. Massregel und Verhaeltnismaessigkeit waehlen.
-   - Waehle die geeignete Massregel und pruefe Verhaeltnismaessigkeit und mildere Mittel.
-5. Antrag fassen.
-   - Fasse den Antrag im Sicherungsverfahren mit Anlasstat, Prognose und beantragter Massregel.
+1. Arbeitsschritt Sicherungsverfahren und Maßregeln: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
+2. Einstellung nach Paragraf 170 Abs. 2 StPO, Opportunität, Strafbefehl, Anklage, Sicherungsverfahren oder Wiederaufnahme nicht vermengen.
+3. Tat, Tatzeit, Tatort und gesetzliche Merkmale für jeden Beschuldigten getrennt darstellen.
+4. Nebenentscheidungen wie Einziehung, Adhäsion, Mitteilungen, Kosten und Asservate in die Abschlussverfügung aufnehmen.
+5. Ausgangsverfügung mit Adressaten, Rechtsbehelfen, Fristen und Zustellungen vollzugsfähig machen.
 
 ## Typische Fallstricke
 
@@ -57,21 +53,21 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 - Die Verhaeltnismaessigkeit der Unterbringung wird nicht gesondert geprueft.
 - Sicherungsverfahren und Strafverfahren werden vermengt.
 
-## Antrags- bzw. Verfuegungs-Bausteine
+## Antrags- bzw. Verfügungs-Bausteine
 
-### Antrag Sicherungsverfahren
+### Baustein A
 
 ```text
-Es wird beantragt, im Sicherungsverfahren gemaess Paragraf 413 StPO die Unterbringung des Beschuldigten [Name] in einem psychiatrischen Krankenhaus gemaess Paragraf 63 StGB anzuordnen. Der Beschuldigte hat im Zustand der Schuldunfaehigkeit [Anlasstat] begangen.
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
 ```
 
-### Vermerk Prognose
+### Baustein B
 
 ```text
-Aus [Tatsachen, Vorgeschichte, Gutachten] ergibt sich die Wahrscheinlichkeit weiterer erheblicher rechtswidriger Taten; mildere Mittel sind nicht ausreichend.
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `15-antrag-beschleunigtes-verfahren-paragraf-417` - Vorgelagerter Arbeitsschritt; dort die Akten-, Zustaendigkeits- oder Ermittlungsfrage klaeren, bevor Sicherungsverfahren Und Massregeln bearbeitet wird.
-- **Danach**: `17-einziehung-und-vermoegensabschoepfung` - Folgeschritt, sobald Sicherungsverfahren Und Massregeln als staatsanwaltschaftlicher Arbeitsstand verwertbar ist.
+- **Davor**: `15-antrag-beschleunigtes-verfahren-paragraf-417` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Sicherungsverfahren und Maßregeln trägt.
+- **Danach**: `17-einziehung-und-vermoegensabschoepfung` - Folgeschritt im selben Plugin; nutze ihn, sobald Sicherungsverfahren und Maßregeln entscheidungs- oder verfügungsreif vorbereitet ist.

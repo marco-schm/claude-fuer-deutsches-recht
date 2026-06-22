@@ -1,3 +1,20 @@
+# v375.0.0 — Gerichtsplugins: Prüfungsschemata und Rechtsprechungsanker vertieft
+
+Fokussierter Qualitätslauf für die 15 Plugins im Sammelordner `gerichtsplugins/`.
+
+## Inhaltliche Vertiefung
+
+- Alle 310 gerichtlichen und staatsanwaltschaftlichen Skills im Sammelordner `gerichtsplugins/` haben konkretisierte Prüfungsschemata beziehungsweise Prüf- und Arbeitslogiken erhalten.
+- Ungesicherte oder unpassende Aktenzeichen wurden nicht weiter als harte Leitentscheidung geführt, sondern durch ständige Rechtsprechung mit Verifikationshinweis ersetzt.
+- Die Straf- und Verwaltungsgerichtsanker wurden bereinigt; die zivilprozessualen Erledigungs- und Beweisanker wurden konsolidiert.
+- Nachbar-Skill-Verweise zeigen wieder auf real vorhandene Skill-Slugs.
+
+## Versionierung
+
+- Repo-weiter Bump auf v375.0.0. Marketplace, Plugin-Manifeste und Übersichten wurden nachgezogen.
+
+---
+
 # v374.0.0 — Gerichts- und Staatsanwaltschafts-Plugins: prominente KI-VO- und Art. 22 DSGVO-Warnung
 
 In allen 15 READMEs des Sammelordners `gerichtsplugins/` wurde die Kritikalitaet des KI-Einsatzes prominent und fachlich praezise klargestellt.

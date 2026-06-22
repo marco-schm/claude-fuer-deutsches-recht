@@ -3,7 +3,7 @@ name: 11-einstellung-aus-opportunitaet-paragraf-153-und-153a
 description: "Einstellung wegen Geringfuegigkeit (Paragraf 153 StPO) und gegen Auflagen und Weisungen (Paragraf 153a StPO), Zustimmung des Gerichts, geringe Schuld, oeffentliches Interesse, Auflagenkatalog"
 ---
 
-# 11 Einstellung Aus Opportunitaet Paragraf 153 Und 153a
+# 11 Einstellung Aus Opportunitaet Paragraf 153 und 153a
 
 ## Zweck
 
@@ -31,24 +31,20 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
 
-## Anker-Rechtsprechung
+## Normen & Rechtsprechung
 
-- Paragraf 153 StPO erlaubt die Einstellung bei geringer Schuld und fehlendem oeffentlichen Verfolgungsinteresse, regelmaessig mit Zustimmung des Gerichts.
-- Paragraf 153a StPO ermoeglicht die Einstellung gegen Auflagen und Weisungen, wenn diese das oeffentliche Interesse beseitigen und die Schwere der Schuld nicht entgegensteht.
-- Auflagen nach Paragraf 153a StPO sind keine Strafe; die Unschuldsvermutung bleibt unberuehrt (st. Rspr., Aktenzeichen vor Verwendung verifizieren).
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
+- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
 
-## Pruefungsschema in Stufen
+## Prüf- und Arbeitslogik
 
-1. Schuld und oeffentliches Interesse pruefen.
-   - Bewerte Tatfolgen, Schuldumfang und ein etwaiges besonderes Verfolgungsinteresse.
-2. Einstellungsweg waehlen.
-   - Grenze die folgenlose Einstellung (Paragraf 153) von der Auflagenloesung (Paragraf 153a) ab.
-3. Auflagen bemessen.
-   - Bemesse Geldauflage, Wiedergutmachung oder gemeinnuetzige Leistung verhaeltnismaessig und schuldangemessen.
-4. Zustimmungen einholen.
-   - Sichere die erforderlichen Zustimmungen von Gericht und Beschuldigtem und setze die Erfuellungsfrist.
-5. Erledigung dokumentieren.
-   - Halte Auflagenerfuellung und endgueltige Einstellung revisionssicher fest.
+1. Arbeitsschritt Einstellung Aus Opportunitaet Paragraf 153 und 153a: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
+2. Einstellung nach Paragraf 170 Abs. 2 StPO, Opportunität, Strafbefehl, Anklage, Sicherungsverfahren oder Wiederaufnahme nicht vermengen.
+3. Tat, Tatzeit, Tatort und gesetzliche Merkmale für jeden Beschuldigten getrennt darstellen.
+4. Nebenentscheidungen wie Einziehung, Adhäsion, Mitteilungen, Kosten und Asservate in die Abschlussverfügung aufnehmen.
+5. Ausgangsverfügung mit Adressaten, Rechtsbehelfen, Fristen und Zustellungen vollzugsfähig machen.
 
 ## Typische Fallstricke
 
@@ -57,21 +53,21 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 - Die endgueltige Einstellung nach Auflagenerfuellung wird nicht aktenkundig gemacht.
 - Paragraf 153a StPO wird trotz entgegenstehender Schwere der Schuld angewandt.
 
-## Antrags- bzw. Verfuegungs-Bausteine
+## Antrags- bzw. Verfügungs-Bausteine
 
-### Verfuegung Paragraf 153a StPO
+### Baustein A
 
 ```text
-Mit Zustimmung des Gerichts und des Beschuldigten wird von der Erhebung der oeffentlichen Klage vorlaeufig abgesehen. Dem Beschuldigten wird auferlegt, binnen [Frist] [Auflage, z. B. Zahlung von [Betrag] Euro an [Empfaenger]] zu erbringen (Paragraf 153a Abs. 1 StPO).
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
 ```
 
-### Verfuegung Paragraf 153 StPO
+### Baustein B
 
 ```text
-Das Verfahren wird mit Zustimmung des Gerichts gemaess Paragraf 153 Abs. 1 StPO eingestellt, weil die Schuld des Taeters als gering anzusehen waere und kein oeffentliches Interesse an der Verfolgung besteht.
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `10-einstellung-mangels-tatverdacht-paragraf-170` - Vorgelagerter Arbeitsschritt; dort die Akten-, Zustaendigkeits- oder Ermittlungsfrage klaeren, bevor Einstellung Aus Opportunitaet Paragraf 153 Und 153a bearbeitet wird.
-- **Danach**: `12-teileinstellung-paragraf-154-und-154a` - Folgeschritt, sobald Einstellung Aus Opportunitaet Paragraf 153 Und 153a als staatsanwaltschaftlicher Arbeitsstand verwertbar ist.
+- **Davor**: `10-einstellung-mangels-tatverdacht-paragraf-170` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Einstellung Aus Opportunitaet Paragraf 153 und 153a trägt.
+- **Danach**: `12-teileinstellung-paragraf-154-und-154a` - Folgeschritt im selben Plugin; nutze ihn, sobald Einstellung Aus Opportunitaet Paragraf 153 und 153a entscheidungs- oder verfügungsreif vorbereitet ist.

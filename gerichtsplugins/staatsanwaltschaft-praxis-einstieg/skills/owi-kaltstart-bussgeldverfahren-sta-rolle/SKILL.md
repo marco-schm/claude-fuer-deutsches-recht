@@ -12,7 +12,7 @@ Wenn zu **Owi Kaltstart Bussgeldverfahren Sta Rolle** bereits Unterlagen, ein Or
 Starte dann mit einer knappen Rueckmeldung:
 
 ```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
+Ich habe aus der Akte vorläufig erkannt: [...]
 Unsicher sind noch: [...]
 Als naechsten Schritt schlage ich vor: [...]
 ```
@@ -62,11 +62,30 @@ Klärt zuerst die Rolle: Im Bußgeldverfahren gibt es keine Anklageschrift und k
 
 ## Normen & Rechtsprechung
 
-Konkret zu prüfen:
+- BVerfG, Beschluss vom 15.12.1965 - 1 BvR 513/65, BVerfGE 19, 342: Untersuchungshaft steht unter strengem Verhältnismäßigkeits- und Beschleunigungsgebot.
+- Ständige Rechtsprechung des BVerfG zum Beschleunigungsgebot in Haftsachen: Verzögerungen müssen aktenkundig erklärt und durch konkrete Verfahrensförderung kompensiert werden; aktuelles Aktenzeichen vor Antragstellung verifizieren.
+- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Datenschutzrechtliche Unternehmensgeldbußen folgen unionsrechtlichen Zurechnungsmaßstäben; eine identifizierte Leitungsperson ist nicht in jedem Fall Voraussetzung.
+- BVerfG, Beschluss vom 20.02.2001 - 2 BvR 1444/00, BVerfGE 103, 142: Gefahr im Verzug bei Durchsuchungen ist eng zu verstehen und aktenkundig zu begründen.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Digitale Ermittlungsmaßnahmen brauchen eine tragfähige gesetzliche Grundlage, Richtervorbehalt und Kernbereichsschutz.
 
-- Paragraf 152 Abs. 2 StPO (Legalitätsprinzip, Anfangsverdacht)
-- Paragraf 160 Abs. 1, 2 StPO (Erforschungspflicht, entlastende Umstände)
-- Nr. 3 RiStBV (Wächterin des Gesetzes)
-- Paragraf 168b StPO (Aufzeichnung)
-- Paragraf 169a StPO (Schlussvermerk)
-- Nr. 9-13 RiStBV (Aktenführung)
+## Prüf- und Arbeitslogik
+
+1. Arbeitsschritt OWiG-Kaltstart: Strafsache oder Ordnungswidrigkeit, Verwaltungsbehörde, Staatsanwaltschaft, Gericht und richtige Verfahrenssprache trennen: Tatbestand, Zuständigkeit der Verwaltungsbehörde, Einspruchslage und gerichtliche Rolle zuerst prüfen.
+2. Bußgeldbescheid, Einspruchsfrist, Aktenvorlage, Opportunität und Verfahrenshindernisse getrennt kontrollieren.
+3. Datenschutz-, Verkehrs- oder Wirtschafts-OWi nach Spezialgesetz und OWiG-Tatbestand subsumieren.
+4. Beweismaß, Betroffenenrechte und Unternehmensgeldbuße gesondert behandeln.
+5. Sitzungsantrag oder Stellungnahme mit Rechtsfolge, Nebenfolge und Kostenfolge formulieren.
+
+## Antrags- bzw. Verfügungs-Bausteine
+
+### Baustein A
+
+```text
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
+```
+
+### Baustein B
+
+```text
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
+```

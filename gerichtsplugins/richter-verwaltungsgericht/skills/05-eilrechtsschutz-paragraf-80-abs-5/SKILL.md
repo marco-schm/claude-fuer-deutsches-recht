@@ -34,23 +34,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 BvR 569/05 (12.05.2005): Effektiver Eilrechtsschutz verlangt eine Folgenabwaegung, wenn die Hauptsache nicht rechtzeitig geklärt werden kann.
-- BVerfG 2 BvR 2735/14 (15.12.2015): Art. 19 Abs. 4 GG verlangt wirksame gerichtliche Kontrolle belastender Hoheitsakte.
-- BVerwG 1 VR 1.11 (13.09.2011): Eilrechtsschutz muss Rechtmaessigkeitsprüfung und Interessenabwaegung nachvollziehbar verbinden.
-- BVerwG 6 C 6.15 (15.06.2016): Verwaltungsermessen ist gerichtlich auf Ermessensfehler und Verfahrensfehler zu kontrollieren.
+- BVerfG, Beschluss vom 12.05.2005 - 1 BvR 569/05, frei nachweisbar über bundesverfassungsgericht.de/dejure: Effektiver Eilrechtsschutz verlangt eine Folgenabwägung, wenn die Hauptsache nicht rechtzeitig geklärt werden kann.
+- Ständige Rechtsprechung des BVerfG zu Art. 19 Abs. 4 GG: Effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle, besonders bei grundrechtsintensiven Verwaltungsakten; ein konkretes Aktenzeichen wird vor produktiver Zitierung verifiziert.
+- BVerwG, Beschluss vom 13.09.2011 - 1 VR 1.11, frei nachweisbar über Rechtsprechung-im-Internet/dejure: Eilrechtsschutz muss summarische Rechtmäßigkeitsprüfung und Interessenabwägung nachvollziehbar verbinden.
+- Ständige Rechtsprechung des BVerwG zur Ermessenskontrolle nach Paragraf 114 VwGO: Das Gericht prüft Ermessensnichtgebrauch, Ermessensfehlgebrauch, Ermessensüberschreitung und Verfahrensfehler; ein konkretes Aktenzeichen wird vor produktiver Zitierung über Rechtsprechung-im-Internet verifiziert.
 
 ## Prüfungsschema in Stufen
 
-1. Verwaltungsrechtsweg, statthafte Klageart und Klagebefugnis prüfen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Vorverfahren, Frist und Beteiligtenfähigkeit klären.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-3. Rechtmaessigkeit des Verwaltungsakts oder Anspruch auf Verpflichtung stufenweise prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Amtsermittlung nach Paragraf 86 VwGO mit Beweisbedarf verbinden.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-5. Tenor nach Paragraf 113 VwGO oder Eilbeschluss nach Paragraf 80 oder Paragraf 123 VwGO formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Arbeitsschritt Eilrechtsschutz Paragraf 80 Abs 5: Statthaften Antrag, Antragsbefugnis, Rechtsschutzbedürfnis und Eilbedürftigkeit zuerst prüfen.
+2. Anordnungsanspruch oder Erfolgsaussichten der Hauptsache vom Anordnungsgrund beziehungsweise Aussetzungsinteresse trennen.
+3. Bei Paragraf 80 Abs. 5 VwGO gesetzliche Sofortvollziehbarkeit, behördliche Anordnung und Begründung nach Paragraf 80 Abs. 3 VwGO prüfen.
+4. Folgenabwägung nur einsetzen, wenn die Erfolgsaussichten offen bleiben; Grundrechtsgewicht ausdrücklich benennen.
+5. Beschluss mit Tenor zur aufschiebenden Wirkung oder einstweiligen Anordnung, Kosten und Streitwert fassen.
 
 ## Typische Fallstricke
 
@@ -64,16 +59,16 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Die aufschiebende Wirkung des Widerspruchs beziehungsweise der Klage gegen den Bescheid vom [Datum] wird wiederhergestellt, soweit [Regelungsteil] betroffen ist.
+Die aufschiebende Wirkung der Klage gegen den Bescheid vom [Datum] wird angeordnet, soweit [Regelungsteil]. Im Übrigen wird der Antrag abgelehnt.
 ```
 
 ### Baustein B
 
 ```text
-Der Beklagte wird verpflichtet, den Antrag der Klägerin vom [Datum] unter Beachtung der Rechtsauffassung des Gerichts neu zu bescheiden.
+Die Behörde wird um Vorlage der vollständigen Verwaltungsvorgänge und um Stellungnahme zu [Ermessensausübung/Anhörung/Zuständigkeit] binnen [Frist] gebeten.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `04-begruendetheit-verpflichtungsklage` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 05 Eilrechtsschutz Paragraf 80 Abs 5 bearbeitet wird.
-- **Danach**: `06-eilrechtsschutz-paragraf-123` - Nutze diesen Folgeschritt, sobald 05 Eilrechtsschutz Paragraf 80 Abs 5 als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `04-begruendetheit-verpflichtungsklage` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Eilrechtsschutz Paragraf 80 Abs 5 trägt.
+- **Danach**: `06-eilrechtsschutz-paragraf-123` - Folgeschritt im selben Plugin; nutze ihn, sobald Eilrechtsschutz Paragraf 80 Abs 5 entscheidungs- oder verfügungsreif vorbereitet ist.

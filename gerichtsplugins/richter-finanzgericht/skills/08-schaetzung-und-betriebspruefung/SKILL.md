@@ -3,7 +3,7 @@ name: 08-schaetzung-und-betriebspruefung
 description: "Schaetzung Paragraf 162 AO als Beweismittel: aeussere und innere Schaetzung, Zeitreihenvergleich, Geldverkehrsrechnung, Chi-Quadrat-Test; Verwertbarkeit aus Betriebsprüfung"
 ---
 
-# 08 Schaetzung Und Betriebsprüfung
+# 08 Schaetzung und Betriebsprüfung
 
 ## Zweck
 
@@ -34,23 +34,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- EuGH C-439/04 und C-440/04 (06.07.2006): Vorsteuerabzug kann versagt werden, wenn der Steuerpflichtige wusste oder hätte wissen müssen, dass er in Umsatzsteuerbetrug einbezogen war.
-- EuGH C-80/11 und C-142/11 (21.06.2012): Mahageben und David begrenzt überspannte Nachforschungspflichten redlicher Unternehmer.
-- EuGH C-131/13 und C-163/13 und C-164/13 (18.12.2014): Italmoda erfasst Steuerbetrugsfaelle auch grenzüberschreitend und bei unionsrechtlichen Steuerrechten.
-- BFH VI R 22/19 (04.11.2021): Doppelbesteuerungsabkommen begründen grundsaetzlich keine Steuerpflicht, sondern begrenzen nationale Besteuerung.
+- EuGH, Urteil vom 06.07.2006 - C-439/04 und C-440/04, Kittel und Recolta Recycling: Vorsteuerabzug kann versagt werden, wenn der Steuerpflichtige wusste oder hätte wissen müssen, dass er in Umsatzsteuerbetrug einbezogen war.
+- EuGH, Urteil vom 21.06.2012 - C-80/11 und C-142/11, Mahagében und Dávid: Redlichen Unternehmern dürfen keine überspannten Nachforschungspflichten auferlegt werden.
+- EuGH, Urteil vom 18.12.2014 - C-131/13, C-163/13 und C-164/13, Italmoda: Unionsrechtlich geprägte Steuerrechte können bei Beteiligung an Steuerbetrug versagt werden.
+- BFH, Urteil vom 04.11.2021 - VI R 22/19, BStBl. II 2022, 562: Doppelbesteuerungsabkommen begründen grundsätzlich keine Steuerpflicht, sondern begrenzen oder verteilen nationale Besteuerung.
 
 ## Prüfungsschema in Stufen
 
-1. Finanzrechtsweg, Klageart, Einspruchsvorverfahren und Frist prüfen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Bescheidart, Besteuerungsgrundlagen und Änderungsnorm bestimmen.
-   - Trenne Bescheidinhalt, Änderungsnorm, Feststellungslast und rechnerische Auswirkung, bevor der Tenor vorbereitet wird.
-3. Materielle Steuernorm mit Tatbestandsmerkmalen und Feststellungslast prüfen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Amtsermittlung nach Paragraf 76 FGO und Mitwirkung nach AO austarieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteil, AdV-Beschluss oder Gerichtsbescheid mit Kosten und Revision formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Arbeitsschritt Schaetzung und Betriebsprüfung: Steuerart, Streitjahr, Bescheidlage, Änderungsnorm und streitige Besteuerungsgrundlage zuerst festlegen.
+2. Tatbestandsmerkmale der materiellen Steuernorm mit Buchführung, Erklärung, Betriebsprüfung und Schätzung abgleichen.
+3. Feststellungslast, Mitwirkungspflichten, Auslandssachverhalte und Schätzungsbefugnis getrennt prüfen.
+4. DBA, Unionsrecht oder Missbrauchsnormen nur einziehen, wenn sie den nationalen Tatbestand tatsächlich begrenzen oder auslösen.
+5. Tenor mit Änderung des Bescheids, Neuberechnung durch das Finanzamt und Kostenentscheidung vorbereiten.
 
 ## Typische Fallstricke
 
@@ -64,16 +59,16 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Die Vollziehung des Bescheids vom [Datum] wird in Höhe von [Betrag] bis einen Monat nach Bekanntgabe der Entscheidung in der Hauptsache ausgesetzt.
+Die Vollziehung des Bescheids vom [Datum] wird in Höhe von [Betrag] bis einen Monat nach Bekanntgabe der Einspruchsentscheidung ausgesetzt.
 ```
 
 ### Baustein B
 
 ```text
-Der angefochtene Bescheid wird dahingehend geaendert, dass [Besteuerungsgrundlage] mit [Betrag] angesetzt wird. Im Uebrigen wird die Klage abgewiesen.
+Das Finanzamt wird aufgefordert, die Steuerakten, Betriebsprüfungsarbeitsakten und die Berechnung zu [Streitpunkt] vollständig vorzulegen.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `07-koerperschaft-und-gewerbesteuer` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 08 Schaetzung Und Betriebsprüfung bearbeitet wird.
-- **Danach**: `09-urteil-finanzgericht-und-revision` - Nutze diesen Folgeschritt, sobald 08 Schaetzung Und Betriebsprüfung als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `07-koerperschaft-und-gewerbesteuer` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Schaetzung und Betriebsprüfung trägt.
+- **Danach**: `09-urteil-finanzgericht-und-revision` - Folgeschritt im selben Plugin; nutze ihn, sobald Schaetzung und Betriebsprüfung entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -3,7 +3,7 @@ name: 03-beweisantraege-und-ablehnung
 description: "Beweisantraege Paragraf 244 StPO, Ablehnungsgründe, Wahrunterstellung, Hilfsbeweisantraege, Konnexitaet, Beweisaufnahme im Selbstleseverfahren Paragraf 249 Abs. 2"
 ---
 
-# 03 Beweisantraege Und Ablehnung
+# 03 Beweisantraege und Ablehnung
 
 ## Zweck
 
@@ -34,46 +34,41 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH 1 StR 618/98 (30.07.1999): Aussage-gegen-Aussage verlangt eine in sich geschlossene Glaubhaftigkeitsprüfung.
-- BVerfG 2 BvR 2628/10 und 2 BvR 2883/10 und 2 BvR 2155/11 (19.03.2013): Verständigung nach Paragraf 257c StPO braucht Offenlegung, Protokollierung und Belehrung.
-- BGH GSSt 1/17 (15.05.2018): Das Beweisantragsrecht darf nicht durch formelhafte Ablehnung entwertet werden.
-- BGH 3 StR 400/17 (18.07.2018): Urteilsgründe müssen die tragenden Tatsachen und Wertungen nachvollziehbar darstellen.
+- BGH, Urteil vom 30.07.1999 - 1 StR 618/98, BGHSt 45, 164: Aussage-gegen-Aussage-Fälle verlangen eine besonders sorgfältige Gesamtwürdigung von Aussageentstehung, Aussagekonstanz und Belastungsmotiven.
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen nach Paragraf 257c StPO brauchen Transparenz, Belehrung, Protokollierung und revisionsfähige Kontrolle.
+- Ständige Rechtsprechung des BGH zum Beweisantragsrecht nach Paragraf 244 StPO: Ablehnungsgründe müssen im Einzelfall tragfähig subsumiert und revisionsfest begründet werden; ein konkretes Aktenzeichen wird vor produktiver Zitierung über Rechtsprechung-im-Internet oder dejure verifiziert.
+- BGH, Beschluss vom 30.05.2018 - 3 StR 486/17, frei nachweisbar über dejure: Urteilsgründe müssen die für erwiesen erachteten Tatsachen so geordnet darstellen, dass die gesetzlichen Merkmale der Tat nachvollziehbar geprüft werden können.
 
 ## Prüfungsschema in Stufen
 
-1. Eröffnung, Besetzung, Schwurgerichts- oder Wirtschaftsstrafkammerbezug prüfen.
-   - Kontrolliere Besetzung, Verfahrensstand, Belehrungen, Protokollierung und alle revisionsanfälligen Förmlichkeiten am Aktenablauf.
-2. Haft- und Sicherungsfragen getrennt vom Schuldvorwurf bearbeiten.
-   - Prüfe Liquiditätsstatus, Gläubigerbetroffenheit, Eingriffsintensität und gesetzliche Anordnungsvoraussetzungen getrennt.
-3. Hauptverhandlungsplan mit Beweisthemen und Verfahrensrechten strukturieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-4. Beweiswürdigung, rechtliche Würdigung und Strafzumessung trennen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteilsgründe mit Revisionsrisiko, Protokollfragen und Rechtsmittelbelehrung endprüfen.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Arbeitsschritt Beweisantraege und Ablehnung: Beweisthema, Beweisart und bisheriges Ergebnis der Hauptverhandlung dem konkreten Tatbestandsmerkmal zuordnen.
+2. Beweisantrag, Beweisermittlungsantrag und bloße Beweisanregung unterscheiden; Ablehnungsgründe nach Paragraf 244 StPO einzeln subsumieren.
+3. Aussagepsychologische Risiken, Aussage-gegen-Aussage-Konstellation, Indizienkette und Sachverständigengutachten getrennt würdigen.
+4. Verständigungs- und Protokollpflichten nach Paragrafen 243, 257c und 273 StPO sichtbar halten.
+5. Die Beweiswürdigung erst nach Inbegriff der Hauptverhandlung bilden und Zweifelssatz nicht als Beweisregel missverstehen.
 
 ## Typische Fallstricke
 
-- Besetzungsrügen und Mitteilungen nach Paragraf 243 StPO werden zu spaet bedacht.
-- Verständigungsgespraeche werden nicht vollständig protokolliert.
-- Mordmerkmale oder Rücktrittsfragen werden erst in der Strafzumessung behandelt.
-- Beratungs- und Aktengeheimnis nach Paragraf 353b StGB und Paragraf 43 DRiG begrenzen jede Werkzeugnutzung.
+- Beweisantrag und Beweisermittlungsantrag werden verwechselt.
+- Aussage-gegen-Aussage wird ohne Aussageentstehung, Konstanzanalyse und Belastungsmotiv geprüft.
+- Ein Ablehnungsgrund wird formelhaft genannt, ohne das konkrete Beweisthema zu subsumieren.
+- Aktengeheimnis nach Paragraf 353b StGB und Amtsverschwiegenheit nach Paragraf 43 DRiG bleiben bei jeder externen Werkzeugnutzung Sperren.
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
 
 ### Baustein A
 
 ```text
-Die Kammer eroertert mit den Verfahrensbeteiligten, dass eine Verstaendigung nur im Rahmen des Paragraf 257c StPO in Betracht kommt. Inhalt, Verlauf und Ergebnis werden in die Sitzungsniederschrift aufgenommen.
+Es soll Beweis erhoben werden über [Beweisthema] durch Vernehmung des Zeugen [Name] und durch Verlesung der Urkunde [Bezeichnung], soweit die gesetzlichen Voraussetzungen vorliegen.
 ```
 
 ### Baustein B
 
 ```text
-Der Haftbefehl vom [Datum] bleibt aus den Gründen seines Erlasses aufrechterhalten. Der dringende Tatverdacht folgt aus [Beweismittel]; der Haftgrund ergibt sich aus [Haftgrund].
+Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus tatsächlichen Gründen für die Entscheidung ohne Bedeutung ist; die Kammer stützt dies auf [konkrete Erwägung].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `02-hauptverhandlung-grosse-strafkammer` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 03 Beweisantraege Und Ablehnung bearbeitet wird.
-- **Danach**: `04-beweiswuerdigung-strafkammer` - Nutze diesen Folgeschritt, sobald 03 Beweisantraege Und Ablehnung als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `02-hauptverhandlung-grosse-strafkammer` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Beweisantraege und Ablehnung trägt.
+- **Danach**: `04-beweiswuerdigung-strafkammer` - Folgeschritt im selben Plugin; nutze ihn, sobald Beweisantraege und Ablehnung entscheidungs- oder verfügungsreif vorbereitet ist.

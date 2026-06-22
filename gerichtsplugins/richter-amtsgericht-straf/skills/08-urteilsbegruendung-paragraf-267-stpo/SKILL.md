@@ -34,23 +34,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH 1 StR 618/98 (30.07.1999): In Aussage-gegen-Aussage-Konstellationen sind Aussageentstehung, Aussagekonstanz und Belastungsmotive besonders sorgfältig zu würdigen.
-- BVerfG 2 BvR 2628/10 und 2 BvR 2883/10 und 2 BvR 2155/11 (19.03.2013): Verständigungen müssen transparent, dokumentiert und revisionskontrollierbar bleiben.
-- BGH GSSt 1/17 (15.05.2018): Beweisantragsrecht und Aufklärungspflicht müssen so gehandhabt werden, dass die Wahrheitsfindung nicht formal entleert wird.
-- BGH 3 StR 400/17 (18.07.2018): Urteilsgründe müssen die für Schuldspruch und Rechtsfolgen tragenden Beweiserwaegungen erkennen lassen.
+- BGH, Urteil vom 30.07.1999 - 1 StR 618/98, BGHSt 45, 164: Aussage-gegen-Aussage-Fälle verlangen eine besonders sorgfältige Gesamtwürdigung von Aussageentstehung, Aussagekonstanz und Belastungsmotiven.
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen nach Paragraf 257c StPO brauchen Transparenz, Belehrung, Protokollierung und revisionsfähige Kontrolle.
+- Ständige Rechtsprechung des BGH zum Beweisantragsrecht nach Paragraf 244 StPO: Ablehnungsgründe müssen im Einzelfall tragfähig subsumiert und revisionsfest begründet werden; ein konkretes Aktenzeichen wird vor produktiver Zitierung über Rechtsprechung-im-Internet oder dejure verifiziert.
+- BGH, Beschluss vom 30.05.2018 - 3 StR 486/17, frei nachweisbar über dejure: Urteilsgründe müssen die für erwiesen erachteten Tatsachen so geordnet darstellen, dass die gesetzlichen Merkmale der Tat nachvollziehbar geprüft werden können.
 
 ## Prüfungsschema in Stufen
 
-1. Zuständigkeit, Besetzung und Eröffnungsreife prüfen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Anklagesatz in Tat, Tatzeit, Tatort, gesetzliche Merkmale und Beweismittel zerlegen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-3. Hauptverhandlung mit Belehrungen, Beweisantraegen und Protokollrisiken fuehren.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-4. Beweiswürdigung nach Paragraf 261 StPO ohne Vorfestlegung erarbeiten.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Tenor, Strafzumessung, Nebenentscheidungen und Rechtsmittelbelehrung revisionsfest formulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Arbeitsschritt Urteilsbegründung Paragraf 267 Stpo: Schuldspruch, Freispruch, Einstellung, Maßregel, Einziehung und Nebenfolgen getrennt prüfen.
+2. Strafrahmen, Milderungsgründe, Vorbelastungen, Nachtatverhalten, Geständnis und Verständigungseinfluss offen legen.
+3. Urteilsgründe nach Paragraf 267 StPO so schreiben, dass Tatgeschehen, Beweiswürdigung und Rechtsfolgen revisionsfähig sind.
+4. Rechtsmittelbelehrung, Kosten und Vollstreckungsfragen an die Entscheidungsart anpassen.
+5. Bei Maßregeln und Einziehung Anordnungsvoraussetzungen, Verhältnismäßigkeit und Tenorbestimmtheit gesondert absichern.
 
 ## Typische Fallstricke
 
@@ -64,16 +59,16 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Angeklagte wird wegen [Tat] zu einer Geldstrafe von [Zahl] Tagessaetzen zu je [Betrag] Euro verurteilt. Im Uebrigen wird er freigesprochen.
+Es soll Beweis erhoben werden über [Beweisthema] durch Vernehmung des Zeugen [Name] und durch Verlesung der Urkunde [Bezeichnung], soweit die gesetzlichen Voraussetzungen vorliegen.
 ```
 
 ### Baustein B
 
 ```text
-Der Beweisantrag vom [Datum] wird zurückgewiesen, weil [Ablehnungsgrund] nach Paragraf 244 StPO vorliegt. Die Kammer beziehungsweise das Gericht stuetzt dies auf folgende konkrete Umstaende: [Umstaende].
+Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus tatsächlichen Gründen für die Entscheidung ohne Bedeutung ist; die Kammer stützt dies auf [konkrete Erwägung].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `07-tenor-und-rechtsmittelbelehrung-straf` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 08 Urteilsbegründung Paragraf 267 Stpo bearbeitet wird.
-- **Danach**: `09-strafbefehl-und-beschleunigtes-verfahren` - Nutze diesen Folgeschritt, sobald 08 Urteilsbegründung Paragraf 267 Stpo als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `07-tenor-und-rechtsmittelbelehrung-straf` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Urteilsbegründung Paragraf 267 Stpo trägt.
+- **Danach**: `09-strafbefehl-und-beschleunigtes-verfahren` - Folgeschritt im selben Plugin; nutze ihn, sobald Urteilsbegründung Paragraf 267 Stpo entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -3,11 +3,11 @@ name: 18-jugendsache-und-diversion-paragraf-45-jgg
 description: "Jugendstaatsanwaltschaftliche Bearbeitung, Diversion (Paragraf 45 JGG), Absehen von der Verfolgung, erzieherische Massnahmen, Heranwachsende (Paragraf 105 JGG), Anklage zur Jugendkammer oder zum Jugendrichter"
 ---
 
-# 18 Jugendsache Und Diversion Paragraf 45 JGG
+# 18 Jugendsache und Diversion Paragraf 45 JGG
 
 ## Zweck
 
-Jugendstaatsanwaltschaftliche Bearbeitung, Diversion (Paragraf 45 JGG), Absehen von der Verfolgung, erzieherische Massnahmen, Heranwachsende (Paragraf 105 JGG), Anklage zur Jugendkammer oder zum Jugendrichter
+Jugendstaatsanwaltschaftliche Bearbeitung, Diversion (Paragraf 45 JGG), Absehen von der Verfolgung, erzieherische Maßnahmen, Heranwachsende (Paragraf 105 JGG), Anklage zur Jugendkammer oder zum Jugendrichter
 
 ## Rolle
 
@@ -31,24 +31,20 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
 
-## Anker-Rechtsprechung
+## Normen & Rechtsprechung
 
-- Paragraf 45 JGG eroeffnet der Jugendstaatsanwaltschaft das Absehen von der Verfolgung (Diversion) bei geringer Schuld und vorrangiger erzieherischer Erledigung.
-- Paragraf 105 JGG entscheidet ueber die Anwendung von Jugendstrafrecht auf Heranwachsende nach Reifegrad und Tatcharakter.
-- Der Erziehungsgedanke (Paragraf 2 JGG) ist leitend; die Diversion hat Vorrang vor foermlicher Sanktion (st. Rspr., Aktenzeichen vor Verwendung verifizieren).
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
+- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
 
-## Pruefungsschema in Stufen
+## Prüf- und Arbeitslogik
 
-1. Alter und anwendbares Recht klaeren.
-   - Bestimme Jugendlicher oder Heranwachsender und pruefe Paragraf 105 JGG fuer Heranwachsende.
-2. Schuldumfang und Erziehungsbedarf pruefen.
-   - Bewerte Tatschwere, Vorgeschichte und erzieherische Erledigungsmoeglichkeiten.
-3. Diversionsweg waehlen (Paragraf 45 JGG).
-   - Grenze die Stufen des Paragraf 45 JGG (Abs. 1, 2, 3) ab und pruefe Einbindung des Jugendrichters.
-4. Erzieherische Massnahme bestimmen.
-   - Bestimme geeignete erzieherische Massnahmen und beteilige die Jugendgerichtshilfe.
-5. Foermliche Anklage erwaegen.
-   - Pruefe, ob bei fehlender Diversionseignung Anklage zum Jugendrichter oder zur Jugendkammer geboten ist.
+1. Arbeitsschritt Jugendsache und Diversion Paragraf 45 JGG: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
+2. Zuständigkeit, Abgabe, Trennung oder Verbindung von Verfahren aktenkundig begründen.
+3. Ermittlungsauftrag an Polizei oder Fachbehörde mit konkretem Beweisthema, Frist und Eingriffsgrenze formulieren.
+4. Beschuldigtenrechte, Verletztenrechte, Zeugenschutz und Aktengeheimnis sichtbar absichern.
+5. Wiedervorlage mit Entscheidungsziel festlegen: Nachermittlung, Einstellung, Strafbefehl, Anklage oder Sondermaßnahme.
 
 ## Typische Fallstricke
 
@@ -57,21 +53,21 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 - Diversion wird trotz erheblicher Tatschwere gewaehlt oder umgekehrt vorschnell abgelehnt.
 - Der Erziehungsgedanke des Paragraf 2 JGG wird nicht beruecksichtigt.
 
-## Antrags- bzw. Verfuegungs-Bausteine
+## Antrags- bzw. Verfügungs-Bausteine
 
-### Verfuegung Diversion Paragraf 45 JGG
+### Baustein A
 
 ```text
-Von der Verfolgung wird gemaess Paragraf 45 Abs. [1/2/3] JGG abgesehen, weil eine erzieherische Massnahme bereits durchgefuehrt oder eingeleitet ist und eine foermliche Sanktion nicht erforderlich erscheint.
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
 ```
 
-### Vermerk Paragraf 105 JGG
+### Baustein B
 
 ```text
-Auf den Heranwachsenden ist Jugendstrafrecht anzuwenden, weil [Reifeverzoegerung / Tat als Jugendverfehlung]; massgeblich sind [Tatsachen].
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `17-einziehung-und-vermoegensabschoepfung` - Vorgelagerter Arbeitsschritt; dort die Akten-, Zustaendigkeits- oder Ermittlungsfrage klaeren, bevor Jugendsache Und Diversion Paragraf 45 JGG bearbeitet wird.
-- **Danach**: `19-sitzungsdienst-und-fragerecht-hauptverhandlung` - Folgeschritt, sobald Jugendsache Und Diversion Paragraf 45 JGG als staatsanwaltschaftlicher Arbeitsstand verwertbar ist.
+- **Davor**: `17-einziehung-und-vermoegensabschoepfung` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Jugendsache und Diversion Paragraf 45 JGG trägt.
+- **Danach**: `19-sitzungsdienst-und-fragerecht-hauptverhandlung` - Folgeschritt im selben Plugin; nutze ihn, sobald Jugendsache und Diversion Paragraf 45 JGG entscheidungs- oder verfügungsreif vorbereitet ist.

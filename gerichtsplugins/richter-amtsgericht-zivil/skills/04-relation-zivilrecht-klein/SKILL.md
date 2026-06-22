@@ -7,7 +7,7 @@ description: "Echte Relation: Klägerstation (Schluessigkeit der Anspruchsgrundl
 
 ## Zweck
 
-Echte Relation: Klägerstation (Schluessigkeit der Anspruchsgrundlage), Beklagtenstation (Erheblichkeit der Einwendungen), Beweisstation (beweisbedürftige Tatsachen + Beweislast), schriftliches Votum
+Echte Relation: Klägerstation (Schlüssigkeit der Anspruchsgrundlage), Beklagtenstation (Erheblichkeit der Einwendungen), Beweisstation (beweisbedürftige Tatsachen + Beweislast), schriftliches Votum
 
 ## Rolle
 
@@ -34,29 +34,24 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BVerfG 1 PBvU 1/02 (30.04.2003): Rechtliches Gehör verpflichtet das Gericht, entscheidungserheblichen Vortrag in der Entscheidungsfindung zu berücksichtigen.
-- BGH VI ZR 599/16 (24.07.2018): Schluessiger Vortrag darf nicht durch überspannte Substantiierungsanforderungen abgeschnitten werden.
-- BGH VIII ZR 346/09 (29.06.2011): Die freie Beweiswürdigung nach Paragraf 286 ZPO verlangt eine tragfähige Überzeugungsbildung aus dem gesamten Prozessstoff.
-- BGH XII ZR 97/21 (19.10.2022): Tenor und Entscheidungsreichweite müssen dem Streitgegenstand entsprechen.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 24.07.2018 - VI ZR 599/16, frei nachweisbar über dejure/openJur: Substantiierungsanforderungen dürfen nicht so überspannt werden, dass schlüssiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18, frei nachweisbar über dejure/openJur: Paragraf 286 ZPO verlangt persönliche Überzeugung mit praktisch brauchbarem Gewissheitsgrad, nicht mathematische Sicherheit.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Abs. 3 Satz 3 ZPO möglich.
 
 ## Prüfungsschema in Stufen
 
-1. Zuständigkeit nach GVG, Streitwert und Verfahrensart bestimmen.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Antraege und Lebenssachverhalt auslegen.
-   - Ordne jede Parteiangabe, jeden Antrag und jede streitige Tatsache dem konkreten Bearbeitungsziel dieses Aktenstücks zu.
-3. Schluessigkeit, Erheblichkeit und Beweisbedarf trennen.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Hinweis nach Paragraf 139 ZPO nur bei entscheidungserheblicher Unklarheit erteilen.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-5. Urteil, Beschluss oder Vergleichsvermerk mit Kosten- und Vollstreckbarkeitsfolge ausformulieren.
-   - Schreibe den Ausspruch vollständig aus, prüfe Nebenentscheidungen gesondert und markiere jede Stelle, die menschlich entschieden werden muss.
+1. Arbeitsschritt Relation Zivilrecht Klein: Streitgegenstand und Anträge fixieren, dann Klägerstation, Beklagtenstation und Beweisstation trennen.
+2. Klägervortrag auf Schlüssigkeit prüfen und fehlende Tatsachen als Hinweis nach Paragraf 139 ZPO formulieren.
+3. Beklagtenvortrag auf Erheblichkeit prüfen; Einwendungen, Einreden, Aufrechnung und Widerklage getrennt behandeln.
+4. Beweisbedürftige Tatsachen nur aufnehmen, wenn sie streitig und entscheidungserheblich sind.
+5. Das Votum mit Entscheidungsreife, Beweisbeschlussbedarf, Vergleichsansatz und Terminplan schließen.
 
 ## Typische Fallstricke
 
 - Paragraf 495a ZPO wird genutzt, obwohl rechtliches Gehör oder Streitwertgrenze nicht sauber geprüft sind.
 - Kostenentscheidung wird ohne Erledigungs- oder Teilunterliegensquote formuliert.
-- Ein Anerkenntnis oder Versaeumnis wird mit streitigem Urteil vermischt.
+- Ein Anerkenntnis oder Versäumnis wird mit streitigem Urteil vermischt.
 - Aktengeheimnis nach Paragraf 353b StGB und Amtsverschwiegenheit nach Paragraf 43 DRiG werden bei externen Arbeitsmitteln übersehen.
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
@@ -64,16 +59,16 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Die Parteien werden darauf hingewiesen, dass das Gericht den bisherigen Vortrag zu [Punkt] für entscheidungserheblich, aber noch nicht hinreichend konkret haelt. Ergaenzender Vortrag kann binnen [Frist] eingereicht werden.
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Die Kostenentscheidung beruht auf Paragraf [Norm] ZPO. Die Entscheidung über die vorläufige Vollstreckbarkeit folgt aus Paragraf [Norm] ZPO.
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `03-akte-erstdurchsicht` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 04 Relation Zivilrecht Klein bearbeitet wird.
-- **Danach**: `05-beweisaufnahme-kleine-zivilkammer` - Nutze diesen Folgeschritt, sobald 04 Relation Zivilrecht Klein als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `03-akte-erstdurchsicht` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Relation Zivilrecht Klein trägt.
+- **Danach**: `05-beweisaufnahme-kleine-zivilkammer` - Folgeschritt im selben Plugin; nutze ihn, sobald Relation Zivilrecht Klein entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -31,47 +31,43 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
 
-## Anker-Rechtsprechung
+## Normen & Rechtsprechung
 
-- Paragraf 407 StPO eroeffnet im Verfahren vor dem Strafrichter und dem Schoeffengericht die Ahndung durch schriftlichen Strafbefehl ohne Hauptverhandlung bei Vergehen.
-- Paragraf 407 Abs. 2 StPO begrenzt die zulaessigen Rechtsfolgen (insbesondere Geldstrafe, Fahrverbot, bei verteidigtem Beschuldigten Freiheitsstrafe bis zu einem Jahr auf Bewaehrung).
-- Der Strafbefehl steht einem rechtskraeftigen Urteil gleich, wenn kein Einspruch (Paragraf 410 StPO) eingelegt wird (st. Rspr., Aktenzeichen vor Verwendung verifizieren).
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
+- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
 
-## Pruefungsschema in Stufen
+## Prüf- und Arbeitslogik
 
-1. Strafbefehlsfaehigkeit pruefen.
-   - Pruefe Vergehen, amtsgerichtliche Zustaendigkeit und die Eignung der Sache fuer das schriftliche Verfahren.
-2. Hinreichenden Tatverdacht feststellen.
-   - Bewerte, ob die Aktenlage eine Verurteilung ohne Hauptverhandlung traegt.
-3. Tat und Beweismittel konkretisieren.
-   - Bezeichne Tat, Tatzeit, Tatort, gesetzliche Merkmale und Beweismittel wie in einer Anklage.
-4. Rechtsfolge bemessen (Paragraf 407 Abs. 2 StPO).
-   - Bestimme zulaessige und schuldangemessene Rechtsfolgen, insbesondere Tagessatzzahl und Tagessatzhoehe.
-5. Antrag fassen und Einspruchsfolgen bedenken.
-   - Fasse den Strafbefehlsantrag und antizipiere den Verfahrensgang bei Einspruch nach Paragraf 411 StPO.
+1. Arbeitsschritt Strafbefehlsantrag Paragraf 407: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
+2. Einstellung nach Paragraf 170 Abs. 2 StPO, Opportunität, Strafbefehl, Anklage, Sicherungsverfahren oder Wiederaufnahme nicht vermengen.
+3. Tat, Tatzeit, Tatort und gesetzliche Merkmale für jeden Beschuldigten getrennt darstellen.
+4. Nebenentscheidungen wie Einziehung, Adhäsion, Mitteilungen, Kosten und Asservate in die Abschlussverfügung aufnehmen.
+5. Ausgangsverfügung mit Adressaten, Rechtsbehelfen, Fristen und Zustellungen vollzugsfähig machen.
 
 ## Typische Fallstricke
 
 - Es werden Rechtsfolgen beantragt, die Paragraf 407 Abs. 2 StPO nicht zulaesst (z. B. Freiheitsstrafe ohne Bewaehrung).
 - Die Tat wird nicht hinreichend konkretisiert, sodass die Umgrenzungsfunktion verfehlt wird.
 - Die Tagessatzhoehe wird ohne Feststellungen zu den Einkommensverhaeltnissen bestimmt.
-- Eine fuer eine Hauptverhandlung ungeeignete, streitige Beweislage wird in den Strafbefehl gezwungen.
+- Eine für eine Hauptverhandlung ungeeignete, streitige Beweislage wird in den Strafbefehl gezwungen.
 
-## Antrags- bzw. Verfuegungs-Bausteine
+## Antrags- bzw. Verfügungs-Bausteine
 
-### Strafbefehlsantrag
+### Baustein A
 
 ```text
-Es wird beantragt, gegen [Name] wegen [Tat, Paragraf StGB] einen Strafbefehl zu erlassen und eine Geldstrafe von [Zahl] Tagessaetzen zu je [Betrag] Euro festzusetzen. Die Tat: Der Angeschuldigte hat am [Datum] in [Ort] [Tathandlung]. Beweismittel: [Liste].
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
 ```
 
-### Vermerk Rechtsfolgenwahl
+### Baustein B
 
 ```text
-Eine Geldstrafe von [Zahl] Tagessaetzen ist schuldangemessen (Paragraf 46 StGB); die Tagessatzhoehe von [Betrag] Euro folgt aus dem Nettoeinkommen von [Betrag] Euro (Paragraf 40 Abs. 2 StGB).
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `12-teileinstellung-paragraf-154-und-154a` - Vorgelagerter Arbeitsschritt; dort die Akten-, Zustaendigkeits- oder Ermittlungsfrage klaeren, bevor Strafbefehlsantrag Paragraf 407 bearbeitet wird.
-- **Danach**: `14-anklageschrift-paragraf-200` - Folgeschritt, sobald Strafbefehlsantrag Paragraf 407 als staatsanwaltschaftlicher Arbeitsstand verwertbar ist.
+- **Davor**: `12-teileinstellung-paragraf-154-und-154a` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Strafbefehlsantrag Paragraf 407 trägt.
+- **Danach**: `14-anklageschrift-paragraf-200` - Folgeschritt im selben Plugin; nutze ihn, sobald Strafbefehlsantrag Paragraf 407 entscheidungs- oder verfügungsreif vorbereitet ist.

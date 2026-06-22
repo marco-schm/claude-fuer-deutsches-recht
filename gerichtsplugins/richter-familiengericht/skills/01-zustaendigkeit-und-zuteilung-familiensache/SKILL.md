@@ -3,7 +3,7 @@ name: 01-zustaendigkeit-und-zuteilung-familiensache
 description: "Prüfung Zuständigkeit Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG, örtliche Zuständigkeit Paragrafen 122-124 FamFG, Geschaeftsverteilung; Verbund Paragraf 137 FamFG bei Scheidung; Verfahrenskostenhilfe Paragraf 76 FamFG"
 ---
 
-# 01 Zuständigkeit Und Zuteilung Familiensache
+# 01 Zuständigkeit und Zuteilung Familiensache
 
 ## Zweck
 
@@ -34,23 +34,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH XII ZB 601/15 (01.02.2017): Ein paritaetisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
-- BGH XII ZB 512/18 (27.11.2019): Wechselmodell setzt regelmaessig tragfähige Kommunikation, Kooperation und Kindeswohlvorteil voraus.
-- BGH XII ZB 234/13 (12.03.2014): Kindesunterhalt ist aus Mindestunterhalt, Einkommensgruppe und konkreter Leistungsfähigkeit herzuleiten.
-- BGH XII ZB 336/16 (11.07.2018): Externe Teilung im Versorgungsausgleich verlangt genaue Bewertung des auszugleichenden Anrechts.
+- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15, BGHZ 214, 31: Ein paritätisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
+- BGH, Beschluss vom 27.11.2019 - XII ZB 512/18, frei nachweisbar über dejure/openJur: Wechselmodell setzt tragfähige Kommunikation, Kooperation und konkreten Kindeswohlvorteil voraus.
+- BGH, Beschluss vom 12.03.2014 - XII ZB 234/13, frei nachweisbar über dejure/openJur: Kindesunterhalt ist aus Bedarf, Einkommensgruppe und Leistungsfähigkeit nachvollziehbar herzuleiten.
+- BGH, Beschluss vom 11.07.2018 - XII ZB 336/16, frei nachweisbar über dejure/openJur: Versorgungsausgleich verlangt genaue Bewertung des auszugleichenden Anrechts und der Teilungsform.
 
 ## Prüfungsschema in Stufen
 
-1. Familiensache, Verfahrensart, Beteiligte und Zuständigkeit klären.
-   - Benenne Gericht, Spruchkörper, funktionelle Zuständigkeit, Rechtsweg und die tragenden Normen unmittelbar am Akteninhalt.
-2. Amtsermittlung, Anhörung, Jugendamt oder Versorgungstraeger je nach Sache einbinden.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
-3. Materielle Anspruchs- oder Kindeswohlprüfung stufenweise durchfuehren.
-   - Arbeite die Tatbestandsmerkmale, Einwendungen, Beweislastfragen und offenen Rechtsfragen so aus, dass der nächste richterliche Schritt entscheidungsreif wird.
-4. Eilbeduerftigkeit, Verbund oder Folgesache gesondert prüfen.
-   - Lege zu diesem Prüfungspunkt die entscheidungserheblichen Tatsachen, die tragende Norm und den offenen Aufklärungsbedarf in vollständigen Sätzen dar.
-5. Beschluss mit Tenor, Gründen, Rechtsmittel und Vollstreckungshinweis formulieren.
-   - Formuliere nur aktengetragene Ermittlungs-, Hinweis- oder Beweisfragen und trenne Aufklärung von vorläufiger Bewertung.
+1. Arbeitsschritt Zuständigkeit und Zuteilung Familiensache: Familiensache, Verfahrensart, örtliche Zuständigkeit und Beteiligte zuerst bestimmen.
+2. Amtsverfahren, Antragsverfahren, Verbund und Folgesachen sauber trennen.
+3. Anhörungen, Jugendamt, Verfahrensbeistand, Sachverständige und Auskunftsanordnungen terminlich steuern.
+4. Vergleichs- und Einigungsoptionen prüfen, ohne Schutz- oder Kindeswohlfragen zu relativieren.
+5. Beschluss mit Tenor, Gründen, Kosten, Rechtsbehelfsbelehrung und Vollstreckungshinweis fassen.
 
 ## Typische Fallstricke
 
@@ -64,16 +59,16 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ### Baustein A
 
 ```text
-Der Umgang des Kindes [Name] mit [Elternteil] wird wie folgt geregelt: [Regelung]. Im Uebrigen werden die Antraege zurückgewiesen.
+Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
 ```
 
 ### Baustein B
 
 ```text
-Im Wege der internen Teilung wird zu Lasten des Anrechts [Versorgungstraeger] zugunsten von [Beteiligte Person] ein Anrecht in Höhe von [Wert] bezogen auf den [Ehezeitende] übertragen.
+Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `10-entscheidungsvorschlag-familienrichter` - Nutze diesen Vorgänger für die vorgelagerte Akten-, Zulässigkeits- oder Strukturfrage, bevor 01 Zuständigkeit Und Zuteilung Familiensache bearbeitet wird.
-- **Danach**: `02-ehesache-scheidung-paragraf-1565` - Nutze diesen Folgeschritt, sobald 01 Zuständigkeit Und Zuteilung Familiensache als gerichtlicher Arbeitsstand verwertbar ist.
+- **Davor**: `10-entscheidungsvorschlag-familienrichter` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Zuständigkeit und Zuteilung Familiensache trägt.
+- **Danach**: `02-ehesache-scheidung-paragraf-1565` - Folgeschritt im selben Plugin; nutze ihn, sobald Zuständigkeit und Zuteilung Familiensache entscheidungs- oder verfügungsreif vorbereitet ist.
