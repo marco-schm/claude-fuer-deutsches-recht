@@ -1,3 +1,15 @@
+# v380.0.0 — Werkstatt- und Schnellstart-Prompts in drei Qualitaetsschleifen geschaerft
+
+Drei Qualitaetsschleifen ueber alle 229 Plugins, anschliessend Sanity-Sweep mit Bug-Hunt und repo-weiter Versions-Bump.
+
+- Schleife 1 (Inhaltsdichte): Werkstatt- und Schnellstart-Dateien aller 229 Plugins gegen die Konvention geprueft. Jede Werkstatt-Datei haelt 150 bis 400 Zeilen, jede Schnellstart-Datei bleibt unter 7500 Zeichen, Stationen und Kurzweg-Schritte korrespondieren zu real existierenden Skill-Ordnern. Keine fehlenden oder erfundenen Stationen gefunden.
+- Schleife 2 (Aequivalenz): Kohaerenz zwischen Werkstatt und Schnellstart geprueft. Pflicht-Paragrafen, Anker-Familie, Rollenname und Antwortform decken sich; der Schnellstart spiegelt verkuerzt denselben Workflow.
+- Schleife 3 (Aktualitaet und Ton): In allen 458 Werkstatt- und Schnellstart-Dateien wurde die Doppelstern-Auszeichnung im Fliesstext in reine Worte gewandelt; Fettdruck in Tabellenzeilen blieb erhalten, unbalancierte Restmarker wurden bereinigt. Ton durchgaengig sachlich-juristisch, keine Emojis, keine Marketing-Sprache, keine Hilfsnamen.
+- Sanity-Sweep und Bug-Hunt: genau eine Werkstatt- und eine Schnellstart-Datei je Plugin, keine verbotenen Dateinamen, kein YAML-Frontmatter und kein Paragrafenzeichen in den Promptdateien, README-Direkt-loslegen-Block vorhanden, plugin.json- und Marketplace-Descriptions im Limit, keine Zahl-Komma-Zahl-Sequenzen. YAML- und Strukturvalidator laufen fehlerfrei.
+- Repo-weiter Bump auf v380.0.0.
+
+---
+
 # v377.0.0 — Gerichts-, Staatsanwaltschafts- und Familienrechtsprompts finalisiert
 
 - Gerichtsplugins, Staatsanwaltschaftsplugins und Relationstechnik um gerichtliche Arbeitsprodukte, Vorlagegrenzen, Relationspflichtfelder und konkrete Anschlussverfügungen geschärft.

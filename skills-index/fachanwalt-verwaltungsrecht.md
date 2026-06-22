@@ -1,6 +1,6 @@
 # fachanwalt-verwaltungsrecht
 
-**80 Skills** · Stand `v377.0.0`
+**80 Skills** · Stand `v380.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-verwaltungsrecht/README.md)

@@ -1,6 +1,6 @@
 # Coverage Gerichts- und Familienrechtsschärfung
 
-Stand: v377-Arbeitslauf. Gezählt werden vorhandene Skills; es wurden keine neuen Skill-Verzeichnisse angelegt.
+Stand: v380-Arbeitslauf (drei Qualitätsschleifen). Gezählt werden vorhandene Skills; es wurden keine neuen Skill-Verzeichnisse angelegt. In Schleife 3 wurde die Doppelstern-Auszeichnung im Fließtext aller Werkstatt- und Schnellstart-Prompts in reine Worte gewandelt; Schleife 1 und 2 bestätigten Inhaltsdichte und Äquivalenz als konventionskonform.
 
 | Plugin | Skills geprüft | Skills geschärft | Werkstatt-Datei | Schnellstart-Datei | Werkstatt-ZIP | Schnellstart-ZIP | Plugin-ZIP | Testakten-ZIP | Status |
 | --- | ---: | ---: | --- | --- | --- | --- | --- | --- | --- |

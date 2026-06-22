@@ -2,6 +2,8 @@
 
 Diese Übersicht dokumentiert die Konsolidierung auf genau einen großen Werkstatt-Prompt und genau einen kleinen Schnellstart-Prompt pro Plugin.
 
+Stand v380.0.0: Drei Qualitätsschleifen über alle 229 Plugins durchlaufen. Schleife 1 (Inhaltsdichte) und Schleife 2 (Äquivalenz Werkstatt/Schnellstart) wurden gegen die Konvention geprüft und als konform bestätigt; Schleife 3 (Ton) hat die Doppelstern-Auszeichnung im Fließtext aller 458 Promptdateien in reine Worte gewandelt, Tabellen-Fettdruck blieb erhalten. YAML- und Strukturvalidator laufen fehlerfrei.
+
 | Plugin | Werkstatt-Kandidaten vorher | Schnellstart-Kandidaten vorher | Gewählte Werkstatt-Datei | Gewählte Schnellstart-Datei | Quelle Werkstatt | Quelle Schnellstart | Gelöschte Reste | Schnellstart-Zeichen | Werkstatt-Zeilen | ZIP-Assets vorhanden |
 | --- | ---: | ---: | --- | --- | --- | --- | ---: | ---: | ---: | --- |
 | `agb-recht-pruefer` | 1 | 1 | `agb-recht-pruefer-werkstatt.md` | `agb-recht-pruefer-schnellstart.md` | unverändert | unverändert | 0 | 4605 | 192 | ja |
