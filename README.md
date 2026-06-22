@@ -24,9 +24,9 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 
 ### Klotzkettes Juristische Promptliste
 
-Viele Skills in diesem Repo sind im Kern strukturierte **Mega-Prompts** — also nicht primär Eingangs- oder Kaltstart-Skills einer größeren agentischen Tätigkeit, sondern eigenständig nutzbare, hochstrukturierte Prompt-Bausteine. Solche Skills funktionieren auch **außerhalb von Claude Code, Codex oder Perplexity Computer**: einfach die `SKILL.md` als Markdown herunterladen, in ChatGPT, Claude, Gemini, Perplexity, Mistral, Le Chat oder ein anderes Tool kopieren und nach Bedarf anpassen.
+Viele Skills in diesem Repo sind im Kern strukturierte **Werkstatt-Prompts** — also nicht primär Eingangs- oder Kaltstart-Skills einer größeren agentischen Tätigkeit, sondern eigenständig nutzbare, hochstrukturierte Prompt-Bausteine. Solche Skills funktionieren auch **außerhalb von Claude Code, Codex oder Perplexity Computer**: einfach die `SKILL.md` als Markdown herunterladen, in ChatGPT, Claude, Gemini, Perplexity, Mistral, Le Chat oder ein anderes Tool kopieren und nach Bedarf anpassen.
 
-Für den ganz schnellen Einsatz ohne Plugin-Installation gibt es zusätzlich pro Plugin einen **Unified Mini Prompt**: eine einzelne Markdown-Datei mit höchstens 7.500 Zeichen, die den Kern-Workflow des jeweiligen Plugins verdichtet. Das ist die Sparvariante für normale Chatbots; die vollen Plugin-ZIPs und Skill-Markdown-ZIPs bleiben fachlich tiefer.
+Für den Einsatz ohne Plugin-Installation gibt es zusätzlich pro Plugin zwei reine Markdown-Dateien: einen ausführlichen **Werkstatt-Prompt** und einen kompakten **Schnellstart-Prompt** mit höchstens 7.500 Zeichen. Beide stehen als echte Download-ZIPs im Release bereit; die Markdown-Dateien selbst bleiben im Repo als Browser-Ansicht nachvollziehbar.
 
 Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sortierte Liste: **[Klotzkettes Juristische Promptliste](./PROMPTLISTE.md)** — alle Angaben ohne Gewähr, mit großem Disclaimer auf der Seite. Workflow-Eingangs-Skills, generische Router und ausgesprochen historisch-exotische Inhalte (Preußisches Landrecht, Römisches Recht, Kanonisches Recht, Weltraumrecht) bleiben dort bewusst ausgespart.
 
@@ -46,14 +46,15 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | Paket | Download | Inhalt |
 | --- | --- | --- |
 | **Alle Plugins als MegaZIP** | [alle-plugins-megazip.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) | Alle installierbaren Plugin-ZIPs plus `marketplace.json` in einem Archiv. |
-| **Alle Skills als Markdown-ZIP** | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) | Reine `SKILL.md`-Dateien aller Plugins plus jeweiligem Unified Mini Prompt — echter Datei-Download für ChatGPT, Gemini, Mistral, Le Chat und andere Chatbots ohne Claude-Code-Installation. Pro Plugin gibt es zusätzlich ein eigenes `<plugin>-skills-markdown.zip` im Release. |
-| **Alle Unified Mini Prompts als ZIP** | [alle-unified-mini-prompts.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-unified-mini-prompts.zip) | Pro Plugin eine einzelne Markdown-Datei bis 7.500 Zeichen als Spar-Workflow für Chatbots, wenn keine Plugin-Installation möglich oder gewünscht ist. |
+| **Alle Skills als Markdown-ZIP** | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) | Reine `SKILL.md`-Dateien aller Plugins plus die plugin-lokalen Werkstatt- und Schnellstart-Prompts. Einzelne Skill-Markdown-Bundles liegen im Komplettpaket, nicht mehr als eigene Release-Assets. |
+| **Alle Werkstatt-Prompts als ZIP** | [alle-werkstatt-prompts.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-werkstatt-prompts.zip) | Pro Plugin ein ausführlicher, plugin-spezifischer Markdown-Prompt für Nutzer ohne Plugin-Installation. |
+| **Alle Schnellstart-Prompts als ZIP** | [alle-schnellstart-prompts.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-schnellstart-prompts.zip) | Pro Plugin ein kompakter Markdown-Prompt bis 7.500 Zeichen als Spar-Workflow für den schnellen Einsatz in Chatbots. |
 | **Alle Testakten als ZIP** | [alle-testakten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) | Alle Testaktenordner in Originalstruktur mit PDF, DOCX, XLSX, JPEG, EML, Markdown und jeweiligem Gesamt-PDF. |
 | **Alle Testakten als Einzel-PDF-ZIP** | [alle-testakten-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) | Jede Testakte mit jeder einzelnen Unterlage als separater, sauber gerenderter PDF im Originalordnerlayout. Pro Testakte gibt es zusätzlich ein eigenes `testakte-<name>-einzelpdfs.zip` im Release. |
-| **Alles komplett als ZIP** | [alles-komplettpaket.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) | Alle Plugin-ZIPs, alle Skill-Markdown-ZIPs, alle Unified-Mini-Prompts, alle Testakten-ZIPs (inklusive Einzel-PDF-ZIPs), Marketplace-Manifest und Übersichtsdateien in einem Archiv. |
+| **Alles komplett als ZIP** | [alles-komplettpaket.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) | Alle Plugin-ZIPs, alle Skill-Markdown-ZIPs, alle Werkstatt- und Schnellstart-Prompt-ZIPs, alle Testakten-ZIPs (inklusive Einzel-PDF-ZIPs), Marketplace-Manifest und Übersichtsdateien in einem Archiv. |
 | **SHA-256-Prüfsummen** | [checksums-sha256.txt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/checksums-sha256.txt) | Maschinenlesbare Prüfsummen für Release-Assets; die Release-Pipeline gleicht Größen und Hashes nach dem Upload gegen GitHub ab. |
-| **Klotzkettes Juristische Promptliste** | [PROMPTLISTE.md](./PROMPTLISTE.md) | Kuratierte Übersichtsseite aller praxistauglichen Skills als Mega-Prompts — sortiert nach Fachanwaltschaften, zum Kopieren in ChatGPT, Claude, Gemini, Perplexity oder beliebige andere Tools. Mit großem Disclaimer. |
-| **Alphabetischer Mega-Prompt-Index** | [testakten/megaprompts/README.md](./testakten/megaprompts/README.md) | Anschauungs- und Entwicklungsstand der großen Mega-Prompt-Markdowns. Diese Dateien werden nicht als installierbare Plugins und nicht als CoWork-Uploadmaterial ausgeliefert. Für den Ein-Datei-Einsatz bitte die Unified Mini Prompts verwenden. |
+| **Klotzkettes Juristische Promptliste** | [PROMPTLISTE.md](./PROMPTLISTE.md) | Kuratierte Übersichtsseite praxistauglicher Prompt-Bausteine — sortiert nach Fachanwaltschaften, zum Kopieren in ChatGPT, Claude, Gemini, Perplexity oder beliebige andere Tools. Mit großem Disclaimer. |
+| **Werkstatt- und Schnellstart-Coverage** | [docs/werkstatt-und-schnellstart-coverage.md](./docs/werkstatt-und-schnellstart-coverage.md) | Prüfliste, welches Plugin welche Werkstatt- und Schnellstart-Dateien sowie welche Release-ZIP-Assets besitzt. |
 
 ### Inhaltliche Cluster
 
@@ -79,11 +80,12 @@ Die vollständige Plugin-Liste findest du in [`.claude-plugin/marketplace.json`]
 /plugin install <plugin-name>@klotzkette-german-legal-skills
 ```
 
-> 💡 **Empfehlung: meistens reicht ein einzelnes Plugin — nicht der ganze Marketplace.** Die Sammel-Downloads (`alle-plugins-megazip.zip`, `alles-komplettpaket.zip`, `marketplace.json` mit `/plugin marketplace add`) ziehen die kompletten 229 Plugins, 25883 Skills und 212 Testakten auf einmal — das sind je nach Variante mehrere hundert MB. Wenn du weißt, welches Plugin du brauchst (z. B. `liquiditaetsplanung`, `relationstechnik-zivilrecht`, `arbeitsrecht-kuendigung`), lade nur dieses aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest):
+> 💡 **Empfehlung: meistens reicht ein einzelnes Plugin — nicht der ganze Marketplace.** Die Sammel-Downloads (`alle-plugins-megazip.zip`, `alles-komplettpaket.zip`, `marketplace.json` mit `/plugin marketplace add`) ziehen die kompletten 229 Plugins, 25913 Skills und 212 Testakten auf einmal — das sind je nach Variante mehrere hundert MB. Wenn du weißt, welches Plugin du brauchst (z. B. `liquiditaetsplanung`, `relationstechnik-zivilrecht`, `arbeitsrecht-kuendigung`), lade nur dieses aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest):
 >
 > - `<plugin>.zip` — installierbares Plugin für Claude Code / Claude Desktop / Cowork.
-> - `<plugin>-skills-markdown.zip` — reine `SKILL.md`-Dateien, lädt in jeden anderen Chatbot (ChatGPT, Gemini, Mistral, Le Chat, Perplexity).
-> - `unified-mini-prompts/<plugin>.md` — Ein-Datei-Sparversion (bis 7.500 Zeichen), wenn keine Plugin-Installation möglich ist.
+> - `alle-skills-markdown.zip` — reine `SKILL.md`-Dateien aller Plugins plus Werkstatt- und Schnellstart-Prompts.
+> - `<plugin>-werkstatt.zip` — ausführlicher Markdown-Prompt als Plugin-Werkstatt ohne Installation.
+> - `<plugin>-schnellstart.zip` — kompakter Markdown-Prompt bis 7.500 Zeichen, wenn es schnell gehen soll.
 >
 > Vorteil: viel kleinerer Download, schnellerer Start, kein Overhead durch ungenutzte Plugins.
 

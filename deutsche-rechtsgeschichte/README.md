@@ -10,8 +10,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | Inhalt | Download |
 | --- | --- |
 | **Dieses Plugin** (`deutsche-rechtsgeschichte`) | [`deutsche-rechtsgeschichte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/deutsche-rechtsgeschichte.zip) |
-| **Alle Skills als Markdown** | [`deutsche-rechtsgeschichte-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/deutsche-rechtsgeschichte-skills-markdown.zip) |
-| **Unified Mini Prompt** (Sparversion bis 7.500 Zeichen) | [`deutsche-rechtsgeschichte.md`](../unified-mini-prompts/deutsche-rechtsgeschichte.md) oder als Sammel-ZIP [`alle-unified-mini-prompts.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-unified-mini-prompts.zip) |
+| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 
 ### Demonstrations-Akten
 
@@ -21,6 +20,21 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | **Akte Wusterhagen: Mühlenstau, Chaussee und Aufopferung** (`preussisches-landrecht-wusterhagen-muehlenstau-aufopferung`) | [Gesamt-PDF lesen](../testakten/preussisches-landrecht-wusterhagen-muehlenstau-aufopferung/gesamt-pdf/preussisches-landrecht-wusterhagen-muehlenstau-aufopferung_gesamt.pdf) | [`testakte-preussisches-landrecht-wusterhagen-muehlenstau-aufopferung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-preussisches-landrecht-wusterhagen-muehlenstau-aufopferung.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
+
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Claude-Code-Plugin nutzen kann, bekommt hier zwei mundgerecht zugeschnittene Markdown-Prompts. Beide funktionieren in jedem Chatbot deiner Wahl als Instant-Personalisierung. Du klickst auf den Download, die Datei landet im Download-Ordner, dann ziehst du sie in ChatGPT, Gemini, Mistral, Le Chat oder ein anderes System. Fertig.
+
+| Prompt | Wofür | Direkt-Download |
+| --- | --- | --- |
+| **Deutsche Rechtsgeschichte-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`deutsche-rechtsgeschichte-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/deutsche-rechtsgeschichte-werkstatt.zip) |
+| **Deutsche Rechtsgeschichte-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`deutsche-rechtsgeschichte-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/deutsche-rechtsgeschichte-schnellstart.zip) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`deutsche-rechtsgeschichte-werkstatt.md`](./deutsche-rechtsgeschichte-werkstatt.md) (im Browser ansehen)
+- [`deutsche-rechtsgeschichte-schnellstart.md`](./deutsche-rechtsgeschichte-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 Rechtsgeschichte als Werkzeug, nicht als Museum: Quellen lesen, Epochen trennen, Kontinuitäten prüfen und Gegenwartsargumente sauber historisieren.
 
@@ -264,18 +278,3 @@ Automatisch generierte Komplett-Liste aller 205 Skills in diesem Plugin. Beschre
 | `zivilprozessgeschichte` | Deutsche Rechtsgeschichte: Zivilprozessgeschichte. Gemeines Prozessrecht, ZPO 1877, Eventualitaetsmaxime, Vereinfachungsnovelle 1977, ZPO-Reform 2002 und Kosten des Zivilprozesses im Deutsche Rechtsgeschichte. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
-
-<!-- BEGIN megaprompt-und-vorlagen (autogen) -->
-## Experimentell: dieses Plugin auch ohne Claude Code
-
-### Unified Mini Prompt und Mega-Prompt
-
-Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet. Die Einzeldatei liegt im Repo; als echter Datei-Download gibt es zusätzlich das Sammel-ZIP aller Mini-Prompts.
-
-- **Sparversion öffnen:** [`unified-mini-prompts/deutsche-rechtsgeschichte.md`](../unified-mini-prompts/deutsche-rechtsgeschichte.md)
-- **Alle Mini-Prompts als ZIP herunterladen:** [`alle-unified-mini-prompts.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-unified-mini-prompts.zip)
-- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/deutsche-rechtsgeschichte.md`](../testakten/megaprompts/deutsche-rechtsgeschichte.md) (35 KB)
-
-Der große Mega-Prompt wird nicht als installierbares Plugin und nicht als CoWork-Uploadmaterial ausgeliefert. Für echte Plugin-Nutzung bitte das Plugin-ZIP verwenden; für Ein-Datei-Nutzung den Unified Mini Prompt.
-
-<!-- END megaprompt-und-vorlagen (autogen) -->

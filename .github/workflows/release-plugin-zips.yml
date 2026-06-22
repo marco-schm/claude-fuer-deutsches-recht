@@ -34,7 +34,15 @@ jobs:
       - name: Gesamt-PDFs der Testakten validieren
         run: python3 scripts/validate-testakten-gesamt-pdf.py
 
-      - name: Unified Mini Prompts erzeugen
+      - name: Werkstatt- und Schnellstart-Prompts erzeugen
+        run: |
+          python3 scripts/generate-werkstatt-und-schnellstart-prompts.py
+          python3 scripts/inject-megaprompt-section.py
+          python3 scripts/inject-plugin-sofort-download-section.py
+          python3 scripts/inject-direkt-loslegen-section.py
+          python3 scripts/generate-werkstatt-und-schnellstart-coverage.py
+
+      - name: Schnellstart-Kompatibilitaetsdateien erzeugen
         run: python3 scripts/generate-unified-mini-prompts.py
 
       - name: Skill-Indizes neu erzeugen (SKILLS.md + skills-index, Stand = marketplace-Version)
@@ -102,27 +110,41 @@ jobs:
         run: |
           # Pro Testakte ein ZIP, in dem jede Unterlage als separate PDF vorliegt
           # (im Gegensatz zum Gesamt-PDF, das alle Stücke in ein Dokument fasst).
-          python3 scripts/build-testakten-einzelpdf-zips.py dist
-          ls -la dist/testakte-*-einzelpdfs.zip | head
+          mkdir -p dist/testakten-einzelpdfs
+          python3 scripts/build-testakten-einzelpdf-zips.py dist/testakten-einzelpdfs
+          cp dist/testakten-einzelpdfs/alle-testakten-einzelpdfs.zip dist/alle-testakten-einzelpdfs.zip
+          ls -la dist/testakten-einzelpdfs/testakte-*-einzelpdfs.zip | head
           ls -lh dist/alle-testakten-einzelpdfs.zip
 
       - name: Einzel-PDF-ZIPs validieren
-        run: python3 scripts/validate-testakten-einzelpdf-zips.py dist
+        run: python3 scripts/validate-testakten-einzelpdf-zips.py dist/testakten-einzelpdfs
 
       - name: Skill-Markdown-Bundles bauen (echte Downloads pro Plugin)
         run: |
-          # Pro Plugin ein ZIP mit allen SKILL.md + Unified Mini Prompt + Plugin-README,
-          # damit Nutzer die Markdown-Dateien wirklich herunterladen koennen
-          # (statt sie im Browser als text/plain angezeigt zu bekommen).
-          python3 scripts/build-skills-markdown-bundles.py dist
-          ls dist/*-skills-markdown.zip | wc -l
+          # Pro Plugin ein ZIP mit allen SKILL.md + Schnellstart-Prompt + Plugin-README.
+          # Die Einzel-ZIPs wandern ins Komplettpaket; als Release-Asset wird nur
+          # das Sammel-ZIP hochgeladen, damit die Asset-Zahl unter der GitHub-
+          # Grenze bleibt.
+          mkdir -p dist/skills-markdown
+          python3 scripts/build-skills-markdown-bundles.py dist/skills-markdown
+          cp dist/skills-markdown/alle-skills-markdown.zip dist/alle-skills-markdown.zip
+          ls dist/skills-markdown/*-skills-markdown.zip | wc -l
           ls -lh dist/alle-skills-markdown.zip
 
-      - name: Unified Mini Prompts buendeln
+      - name: Werkstatt- und Schnellstart-Prompt-Bundles bauen
+        run: |
+          # Diese ZIPs sind echte Release-Assets, damit README-Links wie
+          # releases/latest/download/<plugin>-werkstatt.zip direkt downloaden.
+          python3 scripts/build-werkstatt-und-schnellstart-bundles.py dist
+          ls dist/*-werkstatt.zip | wc -l
+          ls dist/*-schnellstart.zip | wc -l
+          ls -lh dist/alle-werkstatt-prompts.zip dist/alle-schnellstart-prompts.zip
+
+      - name: Schnellstart-Kompatibilitaetsdateien buendeln
         run: |
           # GitHub Releases erlauben maximal 1000 Assets. Deshalb werden die
-          # Mini-Prompts nicht als 215 Einzelassets hochgeladen, sondern als
-          # Sammel-ZIP und im Komplettpaket ausgeliefert. Die Einzel-Markdowns
+          # Kompatibilitaetsdateien nicht als Einzelassets hochgeladen, sondern
+          # als Sammel-ZIP und im Komplettpaket ausgeliefert. Die Einzel-Markdowns
           # bleiben im Repo unter unified-mini-prompts/<plugin>.md abrufbar.
           mkdir -p dist/unified-mini-prompts
           for mp in unified-mini-prompts/*.md; do
@@ -157,26 +179,44 @@ jobs:
           # alles-komplettpaket.zip enthaelt die Einzel-ZIPs, Sammel-ZIPs,
           # Marketplace und zentrale Uebersichten. Ein Download fuer alles,
           # ohne die installierbaren Plugin-ZIPs mit Rohordnern zu vermischen.
-          mkdir -p dist/komplettpaket/plugins dist/komplettpaket/testakten dist/komplettpaket/uebersichten dist/komplettpaket/skills-markdown dist/komplettpaket/unified-mini-prompts
+          mkdir -p dist/komplettpaket/plugins dist/komplettpaket/testakten dist/komplettpaket/uebersichten dist/komplettpaket/skills-markdown dist/komplettpaket/unified-mini-prompts dist/komplettpaket/werkstatt-prompts dist/komplettpaket/schnellstart-prompts
           cp dist/marketplace.json dist/komplettpaket/marketplace.json
           cp dist/alle-plugins-megazip.zip dist/komplettpaket/alle-plugins-megazip.zip
           cp dist/alle-testakten.zip dist/komplettpaket/alle-testakten.zip
           cp dist/alle-testakten-einzelpdfs.zip dist/komplettpaket/alle-testakten-einzelpdfs.zip
           cp dist/alle-skills-markdown.zip dist/komplettpaket/alle-skills-markdown.zip
           cp dist/alle-unified-mini-prompts.zip dist/komplettpaket/alle-unified-mini-prompts.zip
+          cp dist/alle-werkstatt-prompts.zip dist/komplettpaket/alle-werkstatt-prompts.zip
+          cp dist/alle-schnellstart-prompts.zip dist/komplettpaket/alle-schnellstart-prompts.zip
           for plugin in ${{ steps.plugins.outputs.names }}; do
             cp "dist/${plugin}.zip" "dist/komplettpaket/plugins/${plugin}.zip"
             cp "unified-mini-prompts/${plugin}.md" "dist/komplettpaket/unified-mini-prompts/${plugin}.md"
           done
-          for z in dist/*-skills-markdown.zip; do
+          for z in dist/skills-markdown/*-skills-markdown.zip; do
             [ -e "$z" ] || continue
             # alle-skills-markdown.zip nicht doppelt mitnehmen
             base="$(basename "$z")"
             if [ "$base" = "alle-skills-markdown.zip" ]; then continue; fi
             cp "$z" "dist/komplettpaket/skills-markdown/$base"
           done
+          for z in dist/*-werkstatt.zip; do
+            [ -e "$z" ] || continue
+            base="$(basename "$z")"
+            if [ "$base" = "alle-werkstatt-prompts.zip" ]; then continue; fi
+            cp "$z" "dist/komplettpaket/werkstatt-prompts/$base"
+          done
+          for z in dist/*-schnellstart.zip; do
+            [ -e "$z" ] || continue
+            base="$(basename "$z")"
+            if [ "$base" = "alle-schnellstart-prompts.zip" ]; then continue; fi
+            cp "$z" "dist/komplettpaket/schnellstart-prompts/$base"
+          done
           if [ -d testakten ]; then
             for z in dist/testakte-*.zip; do
+              [ -e "$z" ] || continue
+              cp "$z" "dist/komplettpaket/testakten/$(basename "$z")"
+            done
+            for z in dist/testakten-einzelpdfs/testakte-*-einzelpdfs.zip; do
               [ -e "$z" ] || continue
               cp "$z" "dist/komplettpaket/testakten/$(basename "$z")"
             done
@@ -196,8 +236,10 @@ jobs:
           test -s dist/alle-testakten-einzelpdfs.zip
           test -s dist/alle-skills-markdown.zip
           test -s dist/alle-unified-mini-prompts.zip
+          test -s dist/alle-werkstatt-prompts.zip
+          test -s dist/alle-schnellstart-prompts.zip
           test -s dist/alles-komplettpaket.zip
-          ls -lh dist/alle-plugins-megazip.zip dist/alle-testakten.zip dist/alle-testakten-einzelpdfs.zip dist/alle-skills-markdown.zip dist/alle-unified-mini-prompts.zip dist/alles-komplettpaket.zip
+          ls -lh dist/alle-plugins-megazip.zip dist/alle-testakten.zip dist/alle-testakten-einzelpdfs.zip dist/alle-skills-markdown.zip dist/alle-unified-mini-prompts.zip dist/alle-werkstatt-prompts.zip dist/alle-schnellstart-prompts.zip dist/alles-komplettpaket.zip
 
       - name: Checksums erzeugen
         run: |
@@ -304,6 +346,7 @@ jobs:
           name: plugin-zips
           path: |
             dist/*.zip
+            dist/**/*.zip
             dist/marketplace.json
             dist/checksums-sha256.txt
           retention-days: 30

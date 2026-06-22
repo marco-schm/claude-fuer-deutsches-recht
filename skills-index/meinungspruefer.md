@@ -9,16 +9,18 @@
 
 | Paket | Inhalt | Link |
 | --- | --- | --- |
-| **Unified Mini Prompt** | Eine einzelne Markdown-Datei bis 7.500 Zeichen: Sparversion des Plugin-Workflows fuer Chatbots ohne Plugin-Installation | [meinungspruefer.md](../unified-mini-prompts/meinungspruefer.md) |
-| **Markdown-ZIP** | Alle `SKILL.md`-Dateien plus Unified Mini Prompt als reine Markdown — echter Datei-Download fuer ChatGPT, Gemini, Mistral, Le Chat usw. | [meinungspruefer-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/meinungspruefer-skills-markdown.zip) |
+| **Werkstatt-ZIP** | Ausführlicher Markdown-Arbeitsmodus dieses Plugins als echter Datei-Download | [meinungspruefer-werkstatt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/meinungspruefer-werkstatt.zip) |
+| **Schnellstart-ZIP** | Kompakter Markdown-Prompt bis 7.500 Zeichen als echter Datei-Download | [meinungspruefer-schnellstart.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/meinungspruefer-schnellstart.zip) |
+| **Alle Skills als Markdown** | Sammel-ZIP mit allen `SKILL.md`-Dateien und Promptdateien | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin-ZIP** | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [meinungspruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/meinungspruefer.zip) |
 
 ## So benutzt man einen Skill
 
 Skills sind reine Markdown-Prompts und funktionieren in jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).
 
-- **Schnelltest mit einer Datei:** den Unified Mini Prompt oben oeffnen oder aus `alle-unified-mini-prompts.zip` herunterladen und als Markdown-Datei in den Chatbot ziehen.
-- **Volle Markdown-Tiefe:** das Markdown-ZIP oben herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
+- **Schnelltest mit einer Datei:** den Schnellstart-ZIP oben herunterladen, entpacken und als Markdown-Datei in den Chatbot ziehen.
+- **Volle Ein-Datei-Tiefe:** den Werkstatt-ZIP oben herunterladen, entpacken und als ausführlichen Arbeitsmodus verwenden.
+- **Volle Skill-Tiefe:** das Sammel-ZIP `alle-skills-markdown.zip` herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
 - **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
 - **`[Raw .md]`** zeigt den Rohtext. Manche Browser zeigen das als Text statt als Download — fuer echte Downloads das Markdown-ZIP oben nehmen.
 

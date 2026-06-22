@@ -10,8 +10,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | Inhalt | Download |
 | --- | --- |
 | **Dieses Plugin** (`einigungsvertrag-vermoegensrecht`) | [`einigungsvertrag-vermoegensrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einigungsvertrag-vermoegensrecht.zip) |
-| **Alle Skills als Markdown** | [`einigungsvertrag-vermoegensrecht-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einigungsvertrag-vermoegensrecht-skills-markdown.zip) |
-| **Unified Mini Prompt** (Sparversion bis 7.500 Zeichen) | [`einigungsvertrag-vermoegensrecht.md`](../unified-mini-prompts/einigungsvertrag-vermoegensrecht.md) oder als Sammel-ZIP [`alle-unified-mini-prompts.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-unified-mini-prompts.zip) |
+| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 
 ### Demonstrations-Akten
 
@@ -20,6 +19,21 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | **Einheitsvertragsakte Lindenau** (`einigungsvertrag-treuhand-mauergrundstueck-lindenau`) | [Gesamt-PDF lesen](../testakten/einigungsvertrag-treuhand-mauergrundstueck-lindenau/gesamt-pdf/einigungsvertrag-treuhand-mauergrundstueck-lindenau_gesamt.pdf) | [`testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
+
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Claude-Code-Plugin nutzen kann, bekommt hier zwei mundgerecht zugeschnittene Markdown-Prompts. Beide funktionieren in jedem Chatbot deiner Wahl als Instant-Personalisierung. Du klickst auf den Download, die Datei landet im Download-Ordner, dann ziehst du sie in ChatGPT, Gemini, Mistral, Le Chat oder ein anderes System. Fertig.
+
+| Prompt | Wofür | Direkt-Download |
+| --- | --- | --- |
+| **Einigungsvertrag und Vermögensrecht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`einigungsvertrag-vermoegensrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einigungsvertrag-vermoegensrecht-werkstatt.zip) |
+| **Einigungsvertrag und Vermögensrecht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`einigungsvertrag-vermoegensrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einigungsvertrag-vermoegensrecht-schnellstart.zip) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`einigungsvertrag-vermoegensrecht-werkstatt.md`](./einigungsvertrag-vermoegensrecht-werkstatt.md) (im Browser ansehen)
+- [`einigungsvertrag-vermoegensrecht-schnellstart.md`](./einigungsvertrag-vermoegensrecht-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 Dieses Plugin ordnet die langen Schatten der deutschen Einheit: Einigungsvertrag, Art. 21/22, Treuhand, Vermögensgesetz, Bodenreform, Mauergrundstücke, offene Vermögensfragen und heutige Register-/Restitutionsprobleme.
 
@@ -184,18 +198,3 @@ Automatisch generierte Komplett-Liste aller 123 Skills in diesem Plugin. Beschre
 | `wohnhaus-ddr-enteignung-widerspruch-pr` | Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Widerspruch prüfen im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
-
-<!-- BEGIN megaprompt-und-vorlagen (autogen) -->
-## Experimentell: dieses Plugin auch ohne Claude Code
-
-### Unified Mini Prompt und Mega-Prompt
-
-Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet. Die Einzeldatei liegt im Repo; als echter Datei-Download gibt es zusätzlich das Sammel-ZIP aller Mini-Prompts.
-
-- **Sparversion öffnen:** [`unified-mini-prompts/einigungsvertrag-vermoegensrecht.md`](../unified-mini-prompts/einigungsvertrag-vermoegensrecht.md)
-- **Alle Mini-Prompts als ZIP herunterladen:** [`alle-unified-mini-prompts.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-unified-mini-prompts.zip)
-- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/einigungsvertrag-vermoegensrecht.md`](../testakten/megaprompts/einigungsvertrag-vermoegensrecht.md) (24 KB)
-
-Der große Mega-Prompt wird nicht als installierbares Plugin und nicht als CoWork-Uploadmaterial ausgeliefert. Für echte Plugin-Nutzung bitte das Plugin-ZIP verwenden; für Ein-Datei-Nutzung den Unified Mini Prompt.
-
-<!-- END megaprompt-und-vorlagen (autogen) -->

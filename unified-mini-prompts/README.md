@@ -1,10 +1,10 @@
-# Unified Mini Prompts
+# Schnellstart-Kompatibilitätsdateien
 
-Ein kompakter Markdown-Prompt pro Plugin, jeweils auf maximal 7.500 Zeichen inkl. Leerzeichen begrenzt. Diese Dateien sind fuer Nutzerinnen und Nutzer gedacht, die kein Plugin installieren koennen oder einen schnellen Ein-Datei-Prompt in einem beliebigen Chatbot verwenden wollen.
+Ein kompakter Markdown-Prompt pro Plugin, jeweils auf maximal 7.500 Zeichen inkl. Leerzeichen begrenzt. Diese Dateien sind für Nutzer gedacht, die kein Plugin installieren können oder einen schnellen Ein-Datei-Prompt in einem beliebigen Chatbot verwenden wollen.
 
-Die vollstaendigen Plugin-ZIPs bleiben der bessere Weg fuer Claude Code / Claude CoWork. Die Mini-Prompts sind bewusst nur Sparvarianten: sie enthalten den Einstieg, den Arbeitsmodus und eine verdichtete Auswahl der wichtigsten Skill-Module.
+Die vollständigen Plugin-ZIPs bleiben der bessere Weg für Plugin-Oberflächen. Die Schnellstart-Prompts sind bewusst Sparvarianten: sie enthalten den Einstieg, den Arbeitsmodus und eine verdichtete Auswahl der wichtigsten Skill-Module.
 
-| Plugin | Mini Prompt |
+| Plugin | Schnellstart-Datei |
 | --- | --- |
 | `agb-recht-pruefer` | [`agb-recht-pruefer.md`](./agb-recht-pruefer.md) |
 | `aktenaufbereiter-strafrecht` | [`aktenaufbereiter-strafrecht.md`](./aktenaufbereiter-strafrecht.md) |

@@ -1,16 +1,19 @@
 #!/usr/bin/env python3
-"""Erzeugt pro Plugin einen kompakten Unified Mini Prompt.
+"""Erzeugt pro Plugin eine Schnellstart-Kompatibilitaetsdatei.
 
 Ziel:
 - eine einzelne Markdown-Datei pro Plugin,
 - maximal 7.500 Zeichen inkl. Leerzeichen,
-- direkt als Release-Asset herunterladbar,
+- ueber Sammel-ZIP und Komplettpaket herunterladbar,
 - nutzbar in ChatGPT, Claude, Gemini, Mistral, Le Chat usw.,
 - keine installierbare Plugin-Datei und kein Ersatz fuer die vollstaendigen
   Skills.
 
 Ausgabe:
     unified-mini-prompts/<plugin>.md
+
+Der Ordnername bleibt aus Kompatibilitaetsgruenden bestehen. Inhaltlich gewinnt
+die plugin-lokale Datei <sprechender-name>-schnellstart.md.
 """
 
 from __future__ import annotations
@@ -116,6 +119,27 @@ def marketplace() -> dict:
     return json.loads((REPO_ROOT / ".claude-plugin" / "marketplace.json").read_text(encoding="utf-8"))
 
 
+def prompt_stem(plugin_name: str) -> str:
+    if plugin_name == "liquiditaetsplanung":
+        return "liquiditaetsplaner"
+    if plugin_name == "staatsanwaltschaft-praxis-einstieg":
+        return "staatsanwaltschaft-einstieg"
+    if plugin_name.startswith("richter-"):
+        return plugin_name.removeprefix("richter-")
+    return plugin_name
+
+
+def local_schnellstart(plugin_name: str, plugin_dir: Path) -> Path | None:
+    stem = prompt_stem(plugin_name)
+    for candidate in [
+        plugin_dir / f"{stem}-schnellstart.md",
+        plugin_dir / f"{plugin_name}-schnellstart.md",
+    ]:
+        if candidate.is_file():
+            return candidate
+    return None
+
+
 def build_prompt(plugin: dict, plugin_dir: Path, max_modules: int, desc_len: int) -> str:
     name = plugin["name"]
     manifest = json.loads((plugin_dir / ".claude-plugin" / "plugin.json").read_text(encoding="utf-8"))
@@ -126,9 +150,9 @@ def build_prompt(plugin: dict, plugin_dir: Path, max_modules: int, desc_len: int
     selected = skills[:max_modules]
 
     lines: list[str] = [
-        f"# Unified Mini Prompt: {name}",
+        f"# Schnellstart-Prompt: {name}",
         "",
-        f"Du bist der kompakte Arbeitsmodus des Legal-AI-Plugins `{name}`. Nutze diesen Prompt, wenn das vollstaendige Plugin nicht installiert werden kann. Arbeite fallbezogen, quellenbewusst und ohne generische Fülltexte.",
+        f"Du bist der kompakte Arbeitsmodus des Legal-Plugins `{name}`. Nutze diesen Prompt, wenn das vollständige Plugin nicht installiert werden kann. Arbeite fallbezogen, quellenbewusst und ohne generische Fülltexte.",
         "",
         "## Zweck",
         "",
@@ -178,6 +202,12 @@ def build_prompt(plugin: dict, plugin_dir: Path, max_modules: int, desc_len: int
 
 
 def fit_prompt(plugin: dict, plugin_dir: Path) -> str:
+    local = local_schnellstart(plugin["name"], plugin_dir)
+    if local is not None:
+        text = local.read_text(encoding="utf-8")
+        if len(text) > MAX_CHARS:
+            raise SystemExit(f"{local}: Schnellstart-Prompt hat {len(text)} Zeichen und ueberschreitet {MAX_CHARS}")
+        return text
     for max_modules, desc_len in [(28, 180), (24, 160), (20, 145), (16, 135), (12, 130), (8, 120)]:
         text = build_prompt(plugin, plugin_dir, max_modules=max_modules, desc_len=desc_len)
         if len(text) <= SOFT_MAX:
@@ -191,13 +221,13 @@ def fit_prompt(plugin: dict, plugin_dir: Path) -> str:
 
 def write_readme(plugins: list[dict]) -> None:
     lines = [
-        "# Unified Mini Prompts",
+        "# Schnellstart-Kompatibilitätsdateien",
         "",
-        "Ein kompakter Markdown-Prompt pro Plugin, jeweils auf maximal 7.500 Zeichen inkl. Leerzeichen begrenzt. Diese Dateien sind fuer Nutzerinnen und Nutzer gedacht, die kein Plugin installieren koennen oder einen schnellen Ein-Datei-Prompt in einem beliebigen Chatbot verwenden wollen.",
+        "Ein kompakter Markdown-Prompt pro Plugin, jeweils auf maximal 7.500 Zeichen inkl. Leerzeichen begrenzt. Diese Dateien sind für Nutzer gedacht, die kein Plugin installieren können oder einen schnellen Ein-Datei-Prompt in einem beliebigen Chatbot verwenden wollen.",
         "",
-        "Die vollstaendigen Plugin-ZIPs bleiben der bessere Weg fuer Claude Code / Claude CoWork. Die Mini-Prompts sind bewusst nur Sparvarianten: sie enthalten den Einstieg, den Arbeitsmodus und eine verdichtete Auswahl der wichtigsten Skill-Module.",
+        "Die vollständigen Plugin-ZIPs bleiben der bessere Weg für Plugin-Oberflächen. Die Schnellstart-Prompts sind bewusst Sparvarianten: sie enthalten den Einstieg, den Arbeitsmodus und eine verdichtete Auswahl der wichtigsten Skill-Module.",
         "",
-        "| Plugin | Mini Prompt |",
+        "| Plugin | Schnellstart-Datei |",
         "| --- | --- |",
     ]
     for plugin in plugins:
@@ -235,7 +265,7 @@ def main() -> int:
 
     sizes = [len((OUT_DIR / f"{p['name']}.md").read_text(encoding="utf-8")) for p in plugins]
     print(
-        f"Unified Mini Prompts erstellt: {len(plugins)} | "
+        f"Schnellstart-Kompatibilitaetsdateien erstellt: {len(plugins)} | "
         f"max={max(sizes)} Zeichen | avg={sum(sizes)//len(sizes)} Zeichen"
     )
     return 0

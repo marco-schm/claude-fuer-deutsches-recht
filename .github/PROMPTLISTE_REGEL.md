@@ -4,7 +4,7 @@ Diese Regel richtet sich an alle, die in diesem Repository **neue Skills** anleg
 
 ## Prüfroutine bei jedem neuen oder veredelten Skill
 
-Prüfe nach Fertigstellung eines Skills, ob er sich als **eigenstaendiger Mega-Prompt** ausserhalb von Claude Code, Codex oder Perplexity Computer einsetzen lässt. Indizien dafuer:
+Prüfe nach Fertigstellung eines Skills, ob er sich als **eigenstaendiger Werkstatt-Prompt** ausserhalb von Claude Code, Codex oder Perplexity Computer einsetzen lässt. Indizien dafuer:
 
 - Der Skill enthaelt einen **substanziellen, inhaltlich tragenden Prompt-Korpus** — also nicht nur Router-Logik, Kaltstart-Anweisungen oder Verweise auf andere Skills.
 - Der Skill ist **fachlich spezifisch** (z. B. konkrete Klauselpruefung, konkrete Prüfroutine, konkretes Verfahrensschema), nicht generisch.
@@ -29,7 +29,7 @@ Kategorien orientieren sich an den 24 deutschen Fachanwaltschaften (BORA-Reihenf
 ## Wann eintragen
 
 - Bei **neu erstellten Plugins**: direkt mit dem Feature-Commit, der das Plugin einfuehrt.
-- Bei **neu hinzugefuegten Skills** in bestehenden Plugins: nur bei substanziellen Mega-Prompts (siehe oben) — die Plugin-Zeile selbst bleibt unveraendert, da die Promptliste auf Plugin-Ebene verlinkt.
+- Bei **neu hinzugefuegten Skills** in bestehenden Plugins: nur bei substanziellen Werkstatt-Prompts (siehe oben) — die Plugin-Zeile selbst bleibt unveraendert, da die Promptliste auf Plugin-Ebene verlinkt.
 - Bei **Versions-Bumps** (Minor und Major): einmal durchsehen und neu hinzugekommene Plugins nachpflegen.
 
 ## Wie eintragen

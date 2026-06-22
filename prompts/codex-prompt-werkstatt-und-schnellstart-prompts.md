@@ -60,8 +60,8 @@ Wer kein Claude-Code-Plugin nutzen kann, bekommt hier zwei mundgerecht zugeschni
 | **<Sprechender Name>-Schnellstart** | Kompakter Einstiegs-Prompt, hoechstens 7.500 Zeichen. Fuer den schnellen Wurf in einen Chat. | [`<plugin>-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/<plugin>-schnellstart.zip) |
 
 Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`<slug>-werkstatt.md`](./<slug>-werkstatt.md) (im Browser ansehen)
-- [`<slug>-schnellstart.md`](./<slug>-schnellstart.md) (im Browser ansehen)
+- `<slug>-werkstatt.md` (im Browser ansehen)
+- `<slug>-schnellstart.md` (im Browser ansehen)
 ```
 
 Der Block ist idempotent ueber HTML-Marker `<!-- BEGIN direkt-loslegen (autogen) -->` und `<!-- END direkt-loslegen (autogen) -->` gefuehrt. Er steht **vor** dem bestehenden `## Experimentell: dieses Plugin auch ohne Claude Code`-Block. Falls dieser experimentelle Block durch den neuen Block ueberfluessig wird, ersetzt du ihn; sonst laesst du ihn weiter unten stehen.

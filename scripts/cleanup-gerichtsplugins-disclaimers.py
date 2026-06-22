@@ -8,11 +8,11 @@ gehört in die Plugin-Dokumentation.
 
 Was entfernt wird:
 
-- MEGAPROMPT.md:
+- Werkstatt-Prompt:
   - Zeile: > **Vorsicht: ... Art. 22 DSGVO und KI-VO beachten.**
   - Sektion: ## Aktengeheimnis (...)
   - Sektion: ## KI-VO-Hinweis
-- MINIPROMPT.md:
+- Schnellstart-Prompt:
   - Sektion: ## Aktengeheimnis
   - Sektion: ## Art. 22 DSGVO und KI-VO
 - SKILL.md:
@@ -94,22 +94,22 @@ def main() -> int:
 
     changed_mega = changed_mini = changed_skill = 0
 
-    for mega in GERICHTSPLUGINS.glob("*/MEGAPROMPT.md"):
+    for mega in GERICHTSPLUGINS.glob("*/*-werkstatt.md"):
         if process_megaprompt(mega):
             changed_mega += 1
-            print(f"  mega: {mega.relative_to(ROOT)}")
+            print(f"  werkstatt: {mega.relative_to(ROOT)}")
 
-    for mini in GERICHTSPLUGINS.glob("*/MINIPROMPT.md"):
+    for mini in GERICHTSPLUGINS.glob("*/*-schnellstart.md"):
         if process_miniprompt(mini):
             changed_mini += 1
-            print(f"  mini: {mini.relative_to(ROOT)}")
+            print(f"  schnellstart: {mini.relative_to(ROOT)}")
 
     for skill in GERICHTSPLUGINS.glob("*/skills/*/SKILL.md"):
         if process_skill(skill):
             changed_skill += 1
 
-    print(f"\nMega-Prompts geändert: {changed_mega}")
-    print(f"Mini-Prompts geändert: {changed_mini}")
+    print(f"\nWerkstatt-Prompts geändert: {changed_mega}")
+    print(f"Schnellstart-Prompts geändert: {changed_mini}")
     print(f"Skills geändert: {changed_skill}")
     return 0
 

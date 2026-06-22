@@ -10,8 +10,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | Inhalt | Download |
 | --- | --- |
 | **Dieses Plugin** (`datenbankrecht`) | [`datenbankrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenbankrecht.zip) |
-| **Alle Skills als Markdown** | [`datenbankrecht-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenbankrecht-skills-markdown.zip) |
-| **Unified Mini Prompt** (Sparversion bis 7.500 Zeichen) | [`datenbankrecht.md`](../unified-mini-prompts/datenbankrecht.md) oder als Sammel-ZIP [`alle-unified-mini-prompts.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-unified-mini-prompts.zip) |
+| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 
 ### Demonstrations-Akten
 
@@ -20,6 +19,21 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | **Akte Datenspeicher Havel: Scraping, API, Immobilienportal und KI-Training** (`datenbankrecht-scraping-plattform-investitionsschutz`) | [Gesamt-PDF lesen](../testakten/datenbankrecht-scraping-plattform-investitionsschutz/gesamt-pdf/datenbankrecht-scraping-plattform-investitionsschutz_gesamt.pdf) | [`testakte-datenbankrecht-scraping-plattform-investitionsschutz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenbankrecht-scraping-plattform-investitionsschutz.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
+
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Claude-Code-Plugin nutzen kann, bekommt hier zwei mundgerecht zugeschnittene Markdown-Prompts. Beide funktionieren in jedem Chatbot deiner Wahl als Instant-Personalisierung. Du klickst auf den Download, die Datei landet im Download-Ordner, dann ziehst du sie in ChatGPT, Gemini, Mistral, Le Chat oder ein anderes System. Fertig.
+
+| Prompt | Wofür | Direkt-Download |
+| --- | --- | --- |
+| **Datenbankrecht und Datenbankherstellerrecht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`datenbankrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenbankrecht-werkstatt.zip) |
+| **Datenbankrecht und Datenbankherstellerrecht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`datenbankrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenbankrecht-schnellstart.zip) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`datenbankrecht-werkstatt.md`](./datenbankrecht-werkstatt.md) (im Browser ansehen)
+- [`datenbankrecht-schnellstart.md`](./datenbankrecht-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 Das Plugin macht das sui-generis-Datenbankrecht praktisch: Es fragt nicht nach schöner Gestaltung, sondern nach wesentlicher Investition, Entnahme, Weiterverwendung, wesentlichem Teil und systematischen Teilentnahmen.
 
@@ -181,18 +195,3 @@ Automatisch generierte Komplett-Liste aller 129 Skills in diesem Plugin. Beschre
 | `wissenschaftsdaten-forschungsdatenbank` | Datenbankrecht für Forschungsdatenbanken und Wissenschaftsdaten: § 60d UrhG (TDM-Schranke für wissenschaftliche Forschung), §§ 87a-87e UrhG für Forschungsdatenbanken, Open-Access-Pflichten nach BMBF-Richtlinien und DSM-RL Art. 3, Rechtsl... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
-
-<!-- BEGIN megaprompt-und-vorlagen (autogen) -->
-## Experimentell: dieses Plugin auch ohne Claude Code
-
-### Unified Mini Prompt und Mega-Prompt
-
-Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet. Die Einzeldatei liegt im Repo; als echter Datei-Download gibt es zusätzlich das Sammel-ZIP aller Mini-Prompts.
-
-- **Sparversion öffnen:** [`unified-mini-prompts/datenbankrecht.md`](../unified-mini-prompts/datenbankrecht.md)
-- **Alle Mini-Prompts als ZIP herunterladen:** [`alle-unified-mini-prompts.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-unified-mini-prompts.zip)
-- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/datenbankrecht.md`](../testakten/megaprompts/datenbankrecht.md) (47 KB)
-
-Der große Mega-Prompt wird nicht als installierbares Plugin und nicht als CoWork-Uploadmaterial ausgeliefert. Für echte Plugin-Nutzung bitte das Plugin-ZIP verwenden; für Ein-Datei-Nutzung den Unified Mini Prompt.
-
-<!-- END megaprompt-und-vorlagen (autogen) -->

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Fügt in jeden Megaprompt und Miniprompt der 15 Gerichts-Plugins
+Fügt in jeden Werkstatt- und Schnellstart-Prompt der 15 Gerichts-Plugins
 einen spezifischen Werkstatt-Header ein. Der Header ersetzt den bisherigen
 generischen "## Rolle"-Abschnitt durch:
 
@@ -21,6 +21,14 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 GERICHTSPLUGINS = ROOT / "gerichtsplugins"
+
+
+def prompt_stem(slug: str) -> str:
+    if slug == "staatsanwaltschaft-praxis-einstieg":
+        return "staatsanwaltschaft-einstieg"
+    if slug.startswith("richter-"):
+        return slug.removeprefix("richter-")
+    return slug
 
 
 # Jeder Eintrag: (spruchkoerper, eingang, arbeitsprodukte, werkstattlogik, eigenheiten)
@@ -709,7 +717,8 @@ def main() -> int:
     changed = 0
     for slug, profile in PROFILES.items():
         header = build_header(slug, profile)
-        for filename in (f"{slug}-megaprompt.md", f"{slug}-miniprompt.md"):
+        stem = prompt_stem(slug)
+        for filename in (f"{stem}-werkstatt.md", f"{stem}-schnellstart.md"):
             p = GERICHTSPLUGINS / slug / filename
             if not p.is_file():
                 print(f"  fehlt: {p}", file=sys.stderr)

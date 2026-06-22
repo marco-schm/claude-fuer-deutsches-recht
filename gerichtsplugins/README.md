@@ -52,7 +52,7 @@ Die richterliche Letztentscheidung muss zwingend bei einem Menschen liegen. **Ke
 
 ### Realismus-Hinweis
 
-Viele Gerichte werden Claude und Anthropic auf absehbare Zeit nicht produktiv einsetzen können — das wissen wir. Der Wert dieses Plugins liegt darin, dass **Megaprompt und Miniprompt portabel** sind: Sie funktionieren in jedem KI-Tool mit ausreichendem Kontextfenster und Datei-Upload (z.B. einem behoerdlich freigegebenen On-Premise-System). Wer im Gericht bereits eine zugelassene KI-Umgebung hat, kann den Megaprompt oder Miniprompt zusammen mit weiteren Instruktionen dort einsetzen, soweit das jeweilige Hausrecht und die Datenschutzfreigabe das erlauben.
+Viele Gerichte werden externe Cloud-Systeme auf absehbare Zeit nicht produktiv einsetzen können — das wissen wir. Der Wert dieser Plugins liegt darin, dass **Werkstatt-Prompt und Schnellstart-Prompt portabel** sind: Sie funktionieren in jedem freigegebenen Werkzeug mit ausreichendem Kontextfenster und Datei-Upload, etwa einem behördlich freigegebenen On-Premise-System. Wer im Gericht bereits eine zugelassene Umgebung hat, kann den Werkstatt- oder Schnellstart-Prompt zusammen mit weiteren Hausinstruktionen dort einsetzen, soweit das jeweilige Hausrecht und die Datenschutzfreigabe das erlauben.
 
 ### Verwendung auf eigene Gefahr
 
@@ -62,8 +62,8 @@ Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt s
 
 - `.claude-plugin/plugin.json` — Plugin-Manifest
 - `README.md` — Plugin-Beschreibung mit vollständigem Vorspruch
-- `<slug>-megaprompt.md` — vollständiger Arbeits-Prompt, portabel (Dateiname trägt den Plugin-Slug)
-- `<slug>-miniprompt.md` — Kompaktversion (Dateiname trägt den Plugin-Slug)
+- `<sprechender-name>-werkstatt.md` — vollständiger Arbeits-Prompt, portabel (Dateiname trägt den fachlichen Plugin-Begriff)
+- `<sprechender-name>-schnellstart.md` — Kompaktversion bis 7.500 Zeichen (Dateiname trägt den fachlichen Plugin-Begriff)
 - `skills/` — 10 (richterliche Plugins) oder 20 (Relationstechnik) Skills
 - `testakte/README.md` — fiktive Testakte aus Richtersicht
 

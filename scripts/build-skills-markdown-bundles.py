@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 """
-Baut pro Plugin ein ZIP-Bundle mit allen Skill-Markdown-Dateien (SKILL.md) und
-dem kompakten Unified Mini Prompt. Diese ZIPs werden als Release-Assets unter
-releases/latest/download/<plugin>-skills-markdown.zip veroeffentlicht, damit
-echte Datei-Downloads moeglich sind (statt browser-rendered Markdown auf
-GitHub).
+Baut pro Plugin ein ZIP-Bundle mit allen Skill-Markdown-Dateien (SKILL.md)
+sowie den plugin-lokalen Werkstatt- und Schnellstart-Prompts. Die einzelnen
+Plugin-Bundles werden im Komplettpaket mitgefuehrt; als Release-Asset liegt
+wegen der Asset-Grenze nur das Sammel-ZIP alle-skills-markdown.zip oben.
 
 Aufruf:
     python3 scripts/build-skills-markdown-bundles.py <output-dir>
@@ -44,17 +43,36 @@ def collect_skill_files(plugin_dir: Path) -> list[Path]:
     return sorted(skills_dir.glob("*/SKILL.md"))
 
 
-def collect_unified_mini_prompt(repo_root: Path, plugin_name: str) -> list[Path]:
-    """Unified Mini Prompt liegt in unified-mini-prompts/<plugin>.md — falls vorhanden."""
-    mini = repo_root / "unified-mini-prompts" / f"{plugin_name}.md"
-    return [mini] if mini.is_file() else []
+def prompt_stem(plugin_name: str) -> str:
+    if plugin_name == "liquiditaetsplanung":
+        return "liquiditaetsplaner"
+    if plugin_name == "staatsanwaltschaft-praxis-einstieg":
+        return "staatsanwaltschaft-einstieg"
+    if plugin_name.startswith("richter-"):
+        return plugin_name.removeprefix("richter-")
+    return plugin_name
+
+
+def collect_prompt_files(repo_root: Path, plugin_name: str, plugin_dir: Path) -> list[Path]:
+    """Schnellstart/Werkstatt und Legacy-Unified-Mini einsammeln, falls vorhanden."""
+    stem = prompt_stem(plugin_name)
+    candidates = [
+        plugin_dir / f"{stem}-schnellstart.md",
+        plugin_dir / f"{stem}-werkstatt.md",
+        repo_root / "unified-mini-prompts" / f"{plugin_name}.md",
+    ]
+    out: list[Path] = []
+    for path in candidates:
+        if path.is_file() and path not in out:
+            out.append(path)
+    return out
 
 
 def build_plugin_bundle(plugin: dict[str, str], repo_root: Path, out_dir: Path) -> tuple[Path, int]:
     plugin_name = plugin["name"]
     plugin_dir = resolve_plugin_dir(repo_root, plugin["source"])
     skills = collect_skill_files(plugin_dir)
-    mini_prompts = collect_unified_mini_prompt(repo_root, plugin_name)
+    prompt_files = collect_prompt_files(repo_root, plugin_name, plugin_dir)
 
     # Plugin-README als Index mitnehmen
     plugin_readme = plugin_dir / "README.md"
@@ -70,9 +88,8 @@ def build_plugin_bundle(plugin: dict[str, str], repo_root: Path, out_dir: Path) 
             rel = skill_md.relative_to(plugin_dir)
             zf.write(skill_md, arcname=f"{plugin_name}/{rel}")
             n_files += 1
-        for mini_md in mini_prompts:
-            # arcname: <plugin>/unified-mini-prompt.md
-            zf.write(mini_md, arcname=f"{plugin_name}/unified-mini-prompt.md")
+        for prompt_md in prompt_files:
+            zf.write(prompt_md, arcname=f"{plugin_name}/{prompt_md.name}")
             n_files += 1
     return bundle_path, n_files
 

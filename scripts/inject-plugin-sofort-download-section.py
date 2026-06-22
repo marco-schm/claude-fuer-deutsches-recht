@@ -18,6 +18,7 @@ from __future__ import annotations
 import json
 import re
 import sys
+from os.path import relpath
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -131,24 +132,16 @@ def build_section(plugin_name: str, akten_slugs: list[str], plugin_dir: Path | N
     )
     lines.append(
         f"| **Alle Skills als Markdown** | "
-        f"[`{plugin_name}-skills-markdown.zip`]({RELEASE_BASE}/{plugin_name}-skills-markdown.zip) |"
+        f"[`alle-skills-markdown.zip`]({RELEASE_BASE}/alle-skills-markdown.zip) |"
     )
-    lines.append(
-        f"| **Unified Mini Prompt** (Sparversion bis 7.500 Zeichen) | "
-        f"[`{plugin_name}.md`](../unified-mini-prompts/{plugin_name}.md) "
-        f"oder als Sammel-ZIP [`alle-unified-mini-prompts.zip`]({RELEASE_BASE}/alle-unified-mini-prompts.zip) |"
-    )
-    # Handgepflegter lokaler Mega-Prompt, sofern vorhanden
-    if plugin_dir is not None:
-        local_mega = plugin_dir / f"{plugin_name}-megaprompt.md"
-        if local_mega.is_file():
-            lines.append(
-                f"| **Werkstatt-Mega-Prompt** (handgepflegt, plugin-spezifisch) | "
-                f"[`{plugin_name}-megaprompt.md`](./{plugin_name}-megaprompt.md) |"
-            )
     lines.append("")
 
     if akten_slugs:
+        testakten_rel = "../testakten"
+        if plugin_dir is not None:
+            testakten_rel = Path(
+                relpath(TESTAKTEN_DIR, start=plugin_dir)
+            ).as_posix()
         lines.append("### Demonstrations-Akten")
         lines.append("")
         lines.append("| Akte | PDF lesen | Akten-ZIP |")
@@ -156,7 +149,7 @@ def build_section(plugin_name: str, akten_slugs: list[str], plugin_dir: Path | N
         for slug in akten_slugs:
             title = get_akte_title(slug)
             pdf_url = (
-                f"../testakten/{slug}/gesamt-pdf/{slug}_gesamt.pdf"
+                f"{testakten_rel}/{slug}/gesamt-pdf/{slug}_gesamt.pdf"
             )
             zip_url = f"{RELEASE_BASE}/testakte-{slug}.zip"
             lines.append(
@@ -171,6 +164,13 @@ def build_section(plugin_name: str, akten_slugs: list[str], plugin_dir: Path | N
 
     lines.append(MARKER_END)
     return "\n".join(lines)
+
+
+def plugin_source_dir(plugin: dict[str, object]) -> Path:
+    source = str(plugin.get("source") or f"./{plugin['name']}")
+    if source.startswith("./"):
+        source = source[2:]
+    return REPO_ROOT / source
 
 
 def inject_section(readme: Path, plugin_name: str, akten_slugs: list[str], plugin_dir: Path | None = None) -> str:
@@ -217,12 +217,13 @@ def main() -> int:
     marketplace = json.loads(
         (REPO_ROOT / ".claude-plugin" / "marketplace.json").read_text(encoding="utf-8")
     )
-    plugin_names = [p["name"] for p in marketplace["plugins"]]
+    plugins = marketplace["plugins"]
 
     counts = {"INSERTED": 0, "UPDATED": 0, "UNCHANGED": 0, "SKIPPED": 0}
 
-    for name in plugin_names:
-        plugin_dir = REPO_ROOT / name
+    for plugin in plugins:
+        name = plugin["name"]
+        plugin_dir = plugin_source_dir(plugin)
         readme = plugin_dir / "README.md"
         akten = sorted(mapping.get(name, []))
         status = inject_section(readme, name, akten, plugin_dir)
