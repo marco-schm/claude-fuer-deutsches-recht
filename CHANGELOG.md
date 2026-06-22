@@ -1,3 +1,23 @@
+# v374.0.0 — Gerichts- und Staatsanwaltschafts-Plugins: prominente KI-VO- und Art. 22 DSGVO-Warnung
+
+In allen 15 READMEs des Sammelordners `gerichtsplugins/` wurde die Kritikalitaet des KI-Einsatzes prominent und fachlich praezise klargestellt.
+
+## Prominenter Warnhinweis ganz oben
+
+- Jede der 15 READMEs erhaelt direkt unter dem Titel einen hervorgehobenen Hinweisblock, damit die Hochrisiko-Einordnung nicht erst weit unten sichtbar wird:
+  - Hochrisiko-KI nach Art. 6 Abs. 2 in Verbindung mit Anhang III Nr. 8 Buchstabe a KI-VO (Justiz) bei den Richter-Plugins.
+  - Bei den beiden Staatsanwaltschafts-Plugins zusaetzlich Anhang III Nr. 6 KI-VO (Strafverfolgung).
+  - Rueckausnahme Art. 6 Abs. 3 KI-VO nur bei rein vorbereitender Taetigkeit ohne Subsumtion, mit Registrierungspflicht nach Art. 49 Abs. 2 KI-VO.
+  - Art. 22 DSGVO: keine Entscheidung mit rechtlicher Wirkung ueber Menschen durch eine Maschine; die richterliche beziehungsweise staatsanwaltschaftliche Letztentscheidung liegt zwingend beim Menschen.
+- Im Plugin staatsanwaltschaft-praxis-einstieg fehlte im ausfuehrlichen Block bislang der Verweis auf Anhang III Nr. 6 KI-VO (Strafverfolgung); er wurde ergaenzt.
+- Der bestehende ausfuehrliche Block (Aktengeheimnis Paragraf 353b StGB, Paragraf 43 DRiG bzw. Paragraf 37 BeamtStG und Paragraf 67 BBG, Schatten-KI-Ablehnung, Revisionssicherheit) bleibt unveraendert erhalten und ist fachlich geprueft. Keine falsche Fundstelle Anhang III Nr. 4a vorhanden.
+
+## Versionierung
+
+- Repo-weiter Bump auf v374.0.0. Die hands-off-Plugins bleiben unberuehrt.
+
+---
+
 # v373.0.0 — Gerichts-Plugins: gerichtsbarkeitsspezifische Pflichtschritte statt generischer Vorlage
 
 Inhaltliche Tiefenverbesserung der 15 Plugins im Sammelordner `gerichtsplugins/`. Kern dieser Runde: die bis dahin in 13 Plugins wortgleiche, generische Pflichtschritte-Vorlage wurde durch einen echten, an die jeweilige Gerichtsbarkeit angepassten Arbeitsablauf ersetzt.
