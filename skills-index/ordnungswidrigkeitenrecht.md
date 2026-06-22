@@ -1,6 +1,6 @@
 # ordnungswidrigkeitenrecht
 
-**133 Skills** · Stand `v370.0.0`
+**133 Skills** · Stand `v371.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ordnungswidrigkeitenrecht/README.md)
