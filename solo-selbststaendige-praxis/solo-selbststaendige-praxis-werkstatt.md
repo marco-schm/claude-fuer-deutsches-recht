@@ -11,52 +11,52 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `solo-selbststaendige-praxis` zu e
 
 ## Werkstattlogik
 
-1. **Akteninventar**
+1. Akteninventar
    - Eingang: Welche Dateien, Parteien, Behörden, Gerichte, Verträge, Anträge, Fristen und Beträge sind vorhanden?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-2. **Rollenklärung**
+2. Rollenklärung
    - Eingang: Aus welcher Perspektive wird gearbeitet und welches Ergebnis soll am Ende stehen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-3. **Rechtsrahmen**
+3. Rechtsrahmen
    - Eingang: Welche Normen, Zuständigkeiten, Verfahren, Fristen und Beweislasten tragen den Fall?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-4. **Tatsachenmatrix**
+4. Tatsachenmatrix
    - Eingang: Welche Tatsachen sind belegt, streitig, nur behauptet oder noch offen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-5. **Prüfpfad**
+5. Prüfpfad
    - Eingang: Welche Tatbestandsmerkmale, Einwendungen, Ausnahmen und Anschlussfragen sind in richtiger Reihenfolge zu prüfen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-6. **Risikoampel**
+6. Risikoampel
    - Eingang: Welche Punkte sind sofort kritisch, welche sind heilbar, welche benötigen Live-Quelle oder Rückfrage?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-7. **Arbeitsprodukt**
+7. Arbeitsprodukt
    - Eingang: Welches konkrete Dokument wird geliefert: Memo, Schriftsatz, Tabelle, Checkliste, Klausel, Tenor, Antrag oder Antwortentwurf?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-8. **Gegenprüfung**
+8. Gegenprüfung
    - Eingang: Welche Gegenargumente, Beweisprobleme, Zuständigkeitsfragen und Fristfallen müssen vor Abgabe geprüft werden?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-9. **Quellenabgleich**
+9. Quellenabgleich
    - Eingang: Welche Normen und Entscheidungen werden vor Verwendung live aus amtlichen oder frei zugänglichen Quellen nachgezogen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-10. **Anschlussentscheidung**
+10. Anschlussentscheidung
    - Eingang: Was ist der nächste realistische Schritt: Rückfrage, Entwurf, Eskalation, Vergleich, Antrag, Fristnotiz oder Ablage?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
@@ -84,62 +84,62 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `solo-selbststaendige-praxis` zu e
 
 ## Prüfraster oder Indizienliste
 
-1. **Risikomemo Auftraggeber Risikoregister**
+1. Risikomemo Auftraggeber Risikoregister
    - Fachlicher Fokus: Solo-Selbstständige: erstellt ein Memo für Kunden, warum die Zusammenarbeit sauber selbstständig ist oder nicht; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-2. **Kundenvertrag B2b**
+2. Kundenvertrag B2b
    - Fachlicher Fokus: Solo-Selbstständige: prüft Haftung, Nutzungsrechte, Verzug, Kündigung, Change Requests und Geheimhaltung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-3. **Problem Sortieren Profimodus Schnelltriage**
+3. Problem Sortieren Profimodus Schnelltriage
    - Fachlicher Fokus: Solo-Selbstständige: trennt rechtliches Problem, Behördenproblem, Geldproblem und Organisationsproblem; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-4. **Subunternehmervertrag**
+4. Subunternehmervertrag
    - Fachlicher Fokus: Solo-Selbstständige: regelt Freelancer, Unterauftrag, AVV, Rechte, Haftung und Scheinselbstständigkeit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-5. **Profimodus Schnelltriage**
+5. Profimodus Schnelltriage
    - Fachlicher Fokus: Solo-Selbstständige: liefert Kurztriage für erfahrene Selbstständige mit Prioritäten und roten Linien; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-6. **Digital Nomad Risiko**
+6. Digital Nomad Risiko
    - Fachlicher Fokus: Solo-Selbstständige: prüft gewöhnlichen Aufenthalt, Betriebsstätte, Steuer und Sozialversicherung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-7. **Sozialrechtlicher Bescheid Widerspruch**
+7. Sozialrechtlicher Bescheid Widerspruch
    - Fachlicher Fokus: Solo-Selbstständige: macht aus Kasse/DRV/KSK-Bescheid eine verständliche Widerspruchsstrategie; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-8. **Kundenakten Datenschutz Solo Kundenupdate**
+8. Kundenakten Datenschutz Solo Kundenupdate
    - Fachlicher Fokus: Solo-Selbstständige: ordnet Speicherung, Löschung, Zugriff, Backup und Mandanten-/Kundendaten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-9. **Kalender Fristen und Reminder**
+9. Kalender Fristen und Reminder
    - Fachlicher Fokus: Solo-Selbstständige: richtet Fristen, Wiedervorlagen, Steuertermine und Kundenabnahmen ein; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-10. **Risikoregister**
+10. Risikoregister
    - Fachlicher Fokus: Solo-Selbstständige: baut ein lebendes Risikoregister mit Eintritt, Schaden, Gegenmaßnahme; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-11. **Barzahlung und Kassenrisiko**
+11. Barzahlung und Kassenrisiko
    - Fachlicher Fokus: Solo-Selbstständige: prüft Barzahlung, Quittung, Kassenpflicht und Geldwäsche-Bauchgefühl; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-12. **Fristenlog Kalender Reminder Deutsch**
+12. Fristenlog Kalender Reminder Deutsch
    - Fachlicher Fokus: Solo-Selbstständige: baut ein Fristenlog für ELSTER, Steuer, BG, KSK, DRV und Widerspruch; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
@@ -147,13 +147,13 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `solo-selbststaendige-praxis` zu e
 
 ## Antwortform
 
-- **Lagebild:** Wer will was von wem, seit wann, mit welcher Frist und welchem Risiko?
-- **Prüfung:** Normen, Tatbestandsmerkmale, Beweisfragen, Gegenargumente und Rechtsfolge in richtiger Reihenfolge.
-- **Empfehlung:** konkrete nächste Handlung, nicht nur abstrakte Rechtslage.
-- **Arbeitsprodukt:** gewünschtes Dokument vollständig ausformulieren; Tabellen nur dort einsetzen, wo sie schneller erfassbar sind.
-- **Schriftbild und Nummerierung:** Schriftsätze, Erwiderungen, Repliken, Memos, Verträge, Beschlüsse, Verfügungen und sonstige Enddokumente soweit technisch möglich in Times New Roman 11 pt ausgeben und ausschließlich dezimal gliedern (`1`, `1.1`, `1.1.1`). Bei reiner Markdown- oder Chat-Ausgabe den Formatwunsch als Exporthinweis aufnehmen.
-- **Quellen:** Normen konkret benennen, Rechtsprechung nur live verifiziert oder als Prüfbedarf markieren.
-- **Stop-Kriterien:** unklare Identität, laufende Notfrist, Straf-/Haftungsrisiko, Datenschutzproblem, Interessenkollision oder fehlende Akte.
+- Lagebild: Wer will was von wem, seit wann, mit welcher Frist und welchem Risiko?
+- Prüfung: Normen, Tatbestandsmerkmale, Beweisfragen, Gegenargumente und Rechtsfolge in richtiger Reihenfolge.
+- Empfehlung: konkrete nächste Handlung, nicht nur abstrakte Rechtslage.
+- Arbeitsprodukt: gewünschtes Dokument vollständig ausformulieren; Tabellen nur dort einsetzen, wo sie schneller erfassbar sind.
+- Schriftbild und Nummerierung: Schriftsätze, Erwiderungen, Repliken, Memos, Verträge, Beschlüsse, Verfügungen und sonstige Enddokumente soweit technisch möglich in Times New Roman 11 pt ausgeben und ausschließlich dezimal gliedern (`1`, `1.1`, `1.1.1`). Bei reiner Markdown- oder Chat-Ausgabe den Formatwunsch als Exporthinweis aufnehmen.
+- Quellen: Normen konkret benennen, Rechtsprechung nur live verifiziert oder als Prüfbedarf markieren.
+- Stop-Kriterien: unklare Identität, laufende Notfrist, Straf-/Haftungsrisiko, Datenschutzproblem, Interessenkollision oder fehlende Akte.
 
 ## Eigenheiten dieses Plugins
 

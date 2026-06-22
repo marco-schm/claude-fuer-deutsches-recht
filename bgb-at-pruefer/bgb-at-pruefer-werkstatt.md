@@ -11,52 +11,52 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `bgb-at-pruefer` zu einem tragfäh
 
 ## Werkstattlogik
 
-1. **Akteninventar**
+1. Akteninventar
    - Eingang: Welche Dateien, Parteien, Behörden, Gerichte, Verträge, Anträge, Fristen und Beträge sind vorhanden?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-2. **Rollenklärung**
+2. Rollenklärung
    - Eingang: Aus welcher Perspektive wird gearbeitet und welches Ergebnis soll am Ende stehen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-3. **Rechtsrahmen**
+3. Rechtsrahmen
    - Eingang: Welche Normen, Zuständigkeiten, Verfahren, Fristen und Beweislasten tragen den Fall?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-4. **Tatsachenmatrix**
+4. Tatsachenmatrix
    - Eingang: Welche Tatsachen sind belegt, streitig, nur behauptet oder noch offen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-5. **Prüfpfad**
+5. Prüfpfad
    - Eingang: Welche Tatbestandsmerkmale, Einwendungen, Ausnahmen und Anschlussfragen sind in richtiger Reihenfolge zu prüfen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-6. **Risikoampel**
+6. Risikoampel
    - Eingang: Welche Punkte sind sofort kritisch, welche sind heilbar, welche benötigen Live-Quelle oder Rückfrage?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-7. **Arbeitsprodukt**
+7. Arbeitsprodukt
    - Eingang: Welches konkrete Dokument wird geliefert: Memo, Schriftsatz, Tabelle, Checkliste, Klausel, Tenor, Antrag oder Antwortentwurf?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-8. **Gegenprüfung**
+8. Gegenprüfung
    - Eingang: Welche Gegenargumente, Beweisprobleme, Zuständigkeitsfragen und Fristfallen müssen vor Abgabe geprüft werden?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-9. **Quellenabgleich**
+9. Quellenabgleich
    - Eingang: Welche Normen und Entscheidungen werden vor Verwendung live aus amtlichen oder frei zugänglichen Quellen nachgezogen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-10. **Anschlussentscheidung**
+10. Anschlussentscheidung
    - Eingang: Was ist der nächste realistische Schritt: Rückfrage, Entwurf, Eskalation, Vergleich, Antrag, Fristnotiz oder Ablage?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
@@ -88,67 +88,67 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `bgb-at-pruefer` zu einem tragfäh
 
 ## Leitentscheidungen
 
-- LG Aachen, Urteil vom 27.05.2026, 10 O 306/25:** Rückforderung von Spieleinsatz aus Online-Glücksspiel. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
+- LG Aachen, Urteil vom 27.05.2026, 10 O 306/25: Rückforderung von Spieleinsatz aus Online-Glücksspiel. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
 - EuGH-Vorlage C-530/24 "Tipico"). Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
 
 ## Prüfraster oder Indizienliste
 
-1. **Stellvertretung Routing Paragraphen 164 181**
+1. Stellvertretung Routing Paragraphen 164 181
    - Fachlicher Fokus: Routing-Skill zur Stellvertretung nach ParagrafParagraf 164 bis 181 BGB: Vollmachtserteilung und -erlöschen, Offenkundigkeit des Handelns im fremden Namen, Duldungs- und Anscheinsvollmacht, Vertreter ohne Vertretungsmacht ParagrafParagraf 177 bis 179 BGB und Insichgeschäft Paragraf 181 BGB. Output: Prüfpfad und Verweis auf Teilski...
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-2. **Vertragsschluss Antrag Abgabe**
+2. Vertragsschluss Antrag Abgabe
    - Fachlicher Fokus: Klausurfall zum Vertragsschluss durch Antrag und Annahme nach ParagrafParagraf 145 bis 156 BGB: Bindungswirkung des Antrags, Erlöschungsgründe, Annahmefrist unter An- und Abwesenden, verspätete und abgeänderte Annahme sowie Zeitpunkt des Vertragsschlusses. Output: vollständiger Subsumtionspfad im BGB AT.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-3. **Vertragsschluss Antrag Annahme**
+3. Vertragsschluss Antrag Annahme
    - Fachlicher Fokus: Klausurfall zum Vertragsschluss durch Antrag und Annahme nach ParagrafParagraf 145 bis 156 BGB: Bindungswirkung des Antrags, Erlöschungsgründe, Annahmefrist unter An- und Abwesenden, verspätete und abgeänderte Annahme sowie Zeitpunkt des Vertragsschlusses. Output: vollständiger Subsumtionspfad.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-4. **Anfechtung Routing**
+4. Anfechtung Routing
    - Fachlicher Fokus: Routing-Skill für Anfechtung nach ParagrafParagraf 119 bis 124 und Paragraf 142 BGB: Prüfsituation in Klausur oder Mandat — Anfechtungsgrund bestimmen, Anfechtungserklärung und Gegner prüfen, Frist berechnen, Ausschlüsse und Folgen nach ParagrafParagraf 122 und 142 BGB darstellen.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-5. **Paragraphen CIC Vorvertragliche Ergaenzende**
+5. Paragraphen CIC Vorvertragliche Ergaenzende
    - Fachlicher Fokus: Klausurfall zur Fristenberechnung nach ParagrafParagraf 186 bis 193 BGB: Beginn einer Frist, Ereignisfrist und Kalenderfrist, Fristablauf am letzten Tag, Verlängerung bei Sonn- und Feiertagen nach Paragraf 193 BGB und Berechnung von Anfechtungs- und Verjährungsfristen im BGB AT.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-6. **Verfuegung Nichtberechtigter Paragraph 185**
+6. Verfuegung Nichtberechtigter Paragraph 185
    - Fachlicher Fokus: Prüft Verfügung eines Nichtberechtigten nach Paragraf 185 BGB: Einwilligung und nachträgliche Genehmigung des Berechtigten, Heilung durch spätere Berechtigung, Abgrenzung zum gutgläubigen Erwerb nach ParagrafParagraf 932 ff. BGB. Klausurfall mit Subsumtionsraster für Examen.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-7. **Fristen Berechnung Paragraphen 186 193**
+7. Fristen Berechnung Paragraphen 186 193
    - Fachlicher Fokus: Klausurfall zur Fristenberechnung nach ParagrafParagraf 186 bis 193 BGB: Beginn einer Frist, Ereignisfrist und Kalenderfrist, Fristablauf am letzten Tag, Verlängerung bei Sonn- und Feiertagen nach Paragraf 193 BGB und Berechnung von Anfechtungs- und Verjährungsfristen.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-8. **Ergaenzende Vertragsauslegung**
+8. Ergaenzende Vertragsauslegung
    - Fachlicher Fokus: Klausurfall zur ergänzenden Vertragsauslegung nach ParagrafParagraf 133 und 157 BGB: planwidrige Regelungslücke feststellen, hypothetischen Parteiwillen ermitteln, Abgrenzung zu dispositiven Gesetzesnormen und Grenze der Auslegung zur richterlichen Rechtsfortbildung.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-9. **Anfechtungsfrist Erklaerung Annahmefrist**
+9. Anfechtungsfrist Erklaerung Annahmefrist
    - Fachlicher Fokus: Prüft Anfechtungsfrist und Bestätigungstatbestand: Frist bei Irrtumsanfechtung nach Paragraf 121 BGB (unverzüglich) und bei arglistiger Täuschung nach Paragraf 124 BGB (ein Jahr), Fristbeginn, Bestätigung nach Paragraf 144 BGB als Ausschlussgrund im BGB AT.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-10. **CIC Vorvertragliche Pflichten Schnittstelle**
+10. CIC Vorvertragliche Pflichten Schnittstelle
    - Fachlicher Fokus: Klausurfall zu culpa in contrahendo nach ParagrafParagraf 280 Abs. 1 und 311 Abs. 2 BGB: Aufnahme von Vertragsverhandlungen, vorvertragliche Aufklärungs- und Schutzpflichten, Verschulden bei Vertragsschluss und Schadensersatz bei Abbruch oder Täuschung.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-11. **Bedingung Befristung Paragraphen 158 163**
+11. Bedingung Befristung Paragraphen 158 163
    - Fachlicher Fokus: Klausurfall zu Bedingung und Befristung nach ParagrafParagraf 158 bis 163 BGB: aufschiebende und auflösende Bedingung, Zeitbestimmung, Vereitelung des Bedingungseintritts nach Paragraf 162 BGB, Rückwirkung nach Paragraf 159 BGB und Zwischenverfügungen.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-12. **Annahmefrist Verspaetung Paragraphen 147 149**
+12. Annahmefrist Verspaetung Paragraphen 147 149
    - Fachlicher Fokus: Klausurfall zur Annahmefrist nach ParagrafParagraf 147 bis 149 BGB: Annahme unter Anwesenden sofort, unter Abwesenden in angemessener Frist, verspätete Annahme als neues Angebot und Rechtsfolgen des Verspätungsanzeigeverzichts nach Paragraf 149 BGB.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
@@ -156,13 +156,13 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `bgb-at-pruefer` zu einem tragfäh
 
 ## Antwortform
 
-- **Lagebild:** Wer will was von wem, seit wann, mit welcher Frist und welchem Risiko?
-- **Prüfung:** Normen, Tatbestandsmerkmale, Beweisfragen, Gegenargumente und Rechtsfolge in richtiger Reihenfolge.
-- **Empfehlung:** konkrete nächste Handlung, nicht nur abstrakte Rechtslage.
-- **Arbeitsprodukt:** gewünschtes Dokument vollständig ausformulieren; Tabellen nur dort einsetzen, wo sie schneller erfassbar sind.
-- **Schriftbild und Nummerierung:** Schriftsätze, Erwiderungen, Repliken, Memos, Verträge, Beschlüsse, Verfügungen und sonstige Enddokumente soweit technisch möglich in Times New Roman 11 pt ausgeben und ausschließlich dezimal gliedern (`1`, `1.1`, `1.1.1`). Bei reiner Markdown- oder Chat-Ausgabe den Formatwunsch als Exporthinweis aufnehmen.
-- **Quellen:** Normen konkret benennen, Rechtsprechung nur live verifiziert oder als Prüfbedarf markieren.
-- **Stop-Kriterien:** unklare Identität, laufende Notfrist, Straf-/Haftungsrisiko, Datenschutzproblem, Interessenkollision oder fehlende Akte.
+- Lagebild: Wer will was von wem, seit wann, mit welcher Frist und welchem Risiko?
+- Prüfung: Normen, Tatbestandsmerkmale, Beweisfragen, Gegenargumente und Rechtsfolge in richtiger Reihenfolge.
+- Empfehlung: konkrete nächste Handlung, nicht nur abstrakte Rechtslage.
+- Arbeitsprodukt: gewünschtes Dokument vollständig ausformulieren; Tabellen nur dort einsetzen, wo sie schneller erfassbar sind.
+- Schriftbild und Nummerierung: Schriftsätze, Erwiderungen, Repliken, Memos, Verträge, Beschlüsse, Verfügungen und sonstige Enddokumente soweit technisch möglich in Times New Roman 11 pt ausgeben und ausschließlich dezimal gliedern (`1`, `1.1`, `1.1.1`). Bei reiner Markdown- oder Chat-Ausgabe den Formatwunsch als Exporthinweis aufnehmen.
+- Quellen: Normen konkret benennen, Rechtsprechung nur live verifiziert oder als Prüfbedarf markieren.
+- Stop-Kriterien: unklare Identität, laufende Notfrist, Straf-/Haftungsrisiko, Datenschutzproblem, Interessenkollision oder fehlende Akte.
 
 ## Eigenheiten dieses Plugins
 

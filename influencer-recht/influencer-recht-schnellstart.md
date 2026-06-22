@@ -29,19 +29,19 @@ Pflichtnormen aus dem Plugin-Material:
 - Paragraf 823 BGB
 - Paragraf 5a UWG, ParagrafParagraf 138 und 826 BGB
 Leitentscheidungen nur nach Live-Prüfung verwenden:
-- BGH „Luisa-Maxime Huss"** (I ZR 90/20, 09.09.2021): Erhält die Influencerin für einen Beitrag eine Gegenleistung, ist der kommerzielle Zweck grundsätzlich klar kennzeichnungspflichtig
-- BGH „Leonie Hanne" und „Cathy Hummels"** (I ZR 125/20 und I ZR 126/20, 09.09.2021): Tap-Tags ohne Gegenleistung führen nicht automatisch zur Kennzeichnungspflicht; zu prüfen ist, ob der kommerzielle Zweck aus dem Umfeld des Accounts und dem
+- BGH „Luisa-Maxime Huss" (I ZR 90/20, 09.09.2021): Erhält die Influencerin für einen Beitrag eine Gegenleistung, ist der kommerzielle Zweck grundsätzlich klar kennzeichnungspflichtig
+- BGH „Leonie Hanne" und „Cathy Hummels" (I ZR 125/20 und I ZR 126/20, 09.09.2021): Tap-Tags ohne Gegenleistung führen nicht automatisch zur Kennzeichnungspflicht; zu prüfen ist, ob der kommerzielle Zweck aus dem Umfeld des Accounts und dem
 
 ## Kernmodule
 
-- **Kaltstart Triage:** Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext…
-- **Agenturvertrag Exklusivitaet Foto:** Influencer-Recht: Agenturvertrag für Creator – Exklusivitätsklauseln, Provisionssätze, Vertragslaufzeit, ordentliche und außerordentliche Kündigung im Influencer-Recht.
-- **Infl 010 Agenturvertrag Exklusivitaet Provision und Kuendigung:** Influencer-Recht: Agenturvertrag Exklusivität Provision und Kündigung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
-- **Produkthaftung Empfehlung und Haftungsrisiko:** Influencer-Recht: Produkthaftung bei Empfehlungen – ProdHaftG, Paragraf 823 BGB, Haftungsfreistellung, Freistellungsklauseln und Risikoabsicherung im Influencer-Recht.
-- **Infl 018 Finanzprodukte Krypto Affiliate und Bafin Risiko:** Influencer-Recht: Finanzprodukte Krypto Affiliate und BaFin-Risiko mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
-- **Infl 001 Kaltstart Creator Kooperation Plattform Steuer:** Influencer-Recht: Kaltstart Creator Kooperation Plattform Steuer mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
-- **Infl 033 Foto Shooting Vertrag Model Release Location:** Influencer-Recht: Foto-Shooting Vertrag Model Release Location mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
-- **Infl 040 Produkthaftung Empfehlung und Haftungsrisiko:** Influencer-Recht: Produkthaftung Empfehlung und Haftungsrisiko mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+- Kaltstart Triage: Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext…
+- Agenturvertrag Exklusivitaet Foto: Influencer-Recht: Agenturvertrag für Creator – Exklusivitätsklauseln, Provisionssätze, Vertragslaufzeit, ordentliche und außerordentliche Kündigung im Influencer-Recht.
+- Infl 010 Agenturvertrag Exklusivitaet Provision und Kuendigung: Influencer-Recht: Agenturvertrag Exklusivität Provision und Kündigung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+- Produkthaftung Empfehlung und Haftungsrisiko: Influencer-Recht: Produkthaftung bei Empfehlungen – ProdHaftG, Paragraf 823 BGB, Haftungsfreistellung, Freistellungsklauseln und Risikoabsicherung im Influencer-Recht.
+- Infl 018 Finanzprodukte Krypto Affiliate und Bafin Risiko: Influencer-Recht: Finanzprodukte Krypto Affiliate und BaFin-Risiko mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+- Infl 001 Kaltstart Creator Kooperation Plattform Steuer: Influencer-Recht: Kaltstart Creator Kooperation Plattform Steuer mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+- Infl 033 Foto Shooting Vertrag Model Release Location: Influencer-Recht: Foto-Shooting Vertrag Model Release Location mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+- Infl 040 Produkthaftung Empfehlung und Haftungsrisiko: Influencer-Recht: Produkthaftung Empfehlung und Haftungsrisiko mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 ## Antwortform
 

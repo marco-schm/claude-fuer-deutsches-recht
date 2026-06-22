@@ -11,52 +11,52 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `commercial-courts-deutschland` zu
 
 ## Werkstattlogik
 
-1. **Akteninventar**
+1. Akteninventar
    - Eingang: Welche Dateien, Parteien, Behörden, Gerichte, Verträge, Anträge, Fristen und Beträge sind vorhanden?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-2. **Rollenklärung**
+2. Rollenklärung
    - Eingang: Aus welcher Perspektive wird gearbeitet und welches Ergebnis soll am Ende stehen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-3. **Rechtsrahmen**
+3. Rechtsrahmen
    - Eingang: Welche Normen, Zuständigkeiten, Verfahren, Fristen und Beweislasten tragen den Fall?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-4. **Tatsachenmatrix**
+4. Tatsachenmatrix
    - Eingang: Welche Tatsachen sind belegt, streitig, nur behauptet oder noch offen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-5. **Prüfpfad**
+5. Prüfpfad
    - Eingang: Welche Tatbestandsmerkmale, Einwendungen, Ausnahmen und Anschlussfragen sind in richtiger Reihenfolge zu prüfen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-6. **Risikoampel**
+6. Risikoampel
    - Eingang: Welche Punkte sind sofort kritisch, welche sind heilbar, welche benötigen Live-Quelle oder Rückfrage?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-7. **Arbeitsprodukt**
+7. Arbeitsprodukt
    - Eingang: Welches konkrete Dokument wird geliefert: Memo, Schriftsatz, Tabelle, Checkliste, Klausel, Tenor, Antrag oder Antwortentwurf?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-8. **Gegenprüfung**
+8. Gegenprüfung
    - Eingang: Welche Gegenargumente, Beweisprobleme, Zuständigkeitsfragen und Fristfallen müssen vor Abgabe geprüft werden?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-9. **Quellenabgleich**
+9. Quellenabgleich
    - Eingang: Welche Normen und Entscheidungen werden vor Verwendung live aus amtlichen oder frei zugänglichen Quellen nachgezogen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-10. **Anschlussentscheidung**
+10. Anschlussentscheidung
    - Eingang: Was ist der nächste realistische Schritt: Rückfrage, Entwurf, Eskalation, Vergleich, Antrag, Fristnotiz oder Ablage?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
@@ -83,62 +83,62 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `commercial-courts-deutschland` zu
 
 ## Prüfraster oder Indizienliste
 
-1. **Kaltstart Triage**
+1. Kaltstart Triage
    - Fachlicher Fokus: Einstieg, Schnelltriage und Fallrouting für Commercial-Courts-Verfahren in Deutschland; erkennt Forum, Sprache, Streitwert, Parteivereinbarung, Case Management, Geheimnisschutz, Beweis, Transcript, Rechtsmittel und englischen Outputbedarf.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-2. **Klageschrift English Limitation Tolling**
+2. Klageschrift English Limitation Tolling
    - Fachlicher Fokus: Erstellt eine englische Commercial-Court-Klageschrift mit deutschem ZPO-Unterbau: parties, jurisdiction, facts, causes of action, relief sought, evidence und exhibits im Commercial Courts Deutschland.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-3. **Commercial Court Kaltstart Interview**
+3. Commercial Court Kaltstart Interview
    - Fachlicher Fokus: Kaltstart-Interview für neue Commercial-Court-Mandate: Parteien, Streitgegenstand, Streitwert, Gerichtsstands-/Sprachklausel, gewünschte Sprache, Unterlagen, Fristen, Output.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-4. **Commercial Chamber VS Commercial Court**
+4. Commercial Chamber VS Commercial Court
    - Fachlicher Fokus: Vergleicht Commercial Chamber beim Landgericht und Commercial Court beim Oberlandesgericht: Instanz, Zuständigkeit, Streitwert, Verfahrenssprache, Tempo, Rechtsmittel und Mandantenstrategie im Commercial Courts Deutschland.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-5. **Contract Interpretation DE EN**
+5. Contract Interpretation DE EN
    - Fachlicher Fokus: Erklärt und prüft englische Vertragsbegriffe unter deutschem Recht: reasonable efforts, best endeavours, indemnity, warranty, termination, material adverse change im Commercial Courts Deutschland.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-6. **Forumwahl Court Glossary**
+6. Forumwahl Court Glossary
    - Fachlicher Fokus: Vergleicht Commercial Court, ordentliche Kammer, Schiedsgericht, DIS/ICC/LCIA und Gerichtsstandsvereinbarung; Output ist eine Vorstandsvorlage mit Empfehlung im Commercial Courts Deutschland.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-7. **Interim Relief Issues List**
+7. Interim Relief Issues List
    - Fachlicher Fokus: Prüft einstweilige Verfügung, Arrest und interim relief im Commercial-Court-Umfeld, einschließlich Eilbedürftigkeit, Sicherheitsleistung und Vollziehung im Commercial Courts Deutschland.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-8. **English Legal Writing FOR German Courts**
+8. English Legal Writing FOR German Courts
    - Fachlicher Fokus: Verbessert englische Schriftsätze für deutsche Gerichte: klar, zpo-tauglich, ohne US-Discovery-Duktus, mit sauberem Tatsachenvortrag und Beweisangebot im Commercial Courts Deutschland.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-9. **BGH English Bilingual Client**
+9. BGH English Bilingual Client
    - Fachlicher Fokus: Routet englischsprachige Fortführung vor dem Bundesgerichtshof: Voraussetzungen, Übersetzungen, Revisionsbegründung, Tenor und Mandantenkommunikation im Commercial Courts Deutschland.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-10. **Confidentiality Trade Contract Interpretation**
+10. Confidentiality Trade Contract Interpretation
    - Fachlicher Fokus: Schützt Geschäftsgeheimnisse: Geheimhaltungsantrag, abgestufter Zugang, redacted exhibits, in camera concerns, Trade Secrets Act und Prozessstrategie im Commercial Courts Deutschland.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-11. **Procedural Calendar Protective Measures**
+11. Procedural Calendar Protective Measures
    - Fachlicher Fokus: Erstellt einen prozessualen Verfahrenskalender mit Schriftsatzfristen, Anlagen, Übersetzungen, Witness Statements, Sachverständigen und Hearing Date im Commercial Courts Deutschland.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-12. **Appeal AND Revision 614 ZPO**
+12. Appeal AND Revision 614 ZPO
    - Fachlicher Fokus: Prüft Rechtsmittel und Revision/BGH-Pfad nach Commercial-Court-Verfahren: Zulassung, Sprache, Transcript, Tatbestand, Rechtsfehler und Strategie im Commercial Courts Deutschland.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
@@ -146,13 +146,13 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `commercial-courts-deutschland` zu
 
 ## Antwortform
 
-- **Lagebild:** Wer will was von wem, seit wann, mit welcher Frist und welchem Risiko?
-- **Prüfung:** Normen, Tatbestandsmerkmale, Beweisfragen, Gegenargumente und Rechtsfolge in richtiger Reihenfolge.
-- **Empfehlung:** konkrete nächste Handlung, nicht nur abstrakte Rechtslage.
-- **Arbeitsprodukt:** gewünschtes Dokument vollständig ausformulieren; Tabellen nur dort einsetzen, wo sie schneller erfassbar sind.
-- **Schriftbild und Nummerierung:** Schriftsätze, Erwiderungen, Repliken, Memos, Verträge, Beschlüsse, Verfügungen und sonstige Enddokumente soweit technisch möglich in Times New Roman 11 pt ausgeben und ausschließlich dezimal gliedern (`1`, `1.1`, `1.1.1`). Bei reiner Markdown- oder Chat-Ausgabe den Formatwunsch als Exporthinweis aufnehmen.
-- **Quellen:** Normen konkret benennen, Rechtsprechung nur live verifiziert oder als Prüfbedarf markieren.
-- **Stop-Kriterien:** unklare Identität, laufende Notfrist, Straf-/Haftungsrisiko, Datenschutzproblem, Interessenkollision oder fehlende Akte.
+- Lagebild: Wer will was von wem, seit wann, mit welcher Frist und welchem Risiko?
+- Prüfung: Normen, Tatbestandsmerkmale, Beweisfragen, Gegenargumente und Rechtsfolge in richtiger Reihenfolge.
+- Empfehlung: konkrete nächste Handlung, nicht nur abstrakte Rechtslage.
+- Arbeitsprodukt: gewünschtes Dokument vollständig ausformulieren; Tabellen nur dort einsetzen, wo sie schneller erfassbar sind.
+- Schriftbild und Nummerierung: Schriftsätze, Erwiderungen, Repliken, Memos, Verträge, Beschlüsse, Verfügungen und sonstige Enddokumente soweit technisch möglich in Times New Roman 11 pt ausgeben und ausschließlich dezimal gliedern (`1`, `1.1`, `1.1.1`). Bei reiner Markdown- oder Chat-Ausgabe den Formatwunsch als Exporthinweis aufnehmen.
+- Quellen: Normen konkret benennen, Rechtsprechung nur live verifiziert oder als Prüfbedarf markieren.
+- Stop-Kriterien: unklare Identität, laufende Notfrist, Straf-/Haftungsrisiko, Datenschutzproblem, Interessenkollision oder fehlende Akte.
 
 ## Eigenheiten dieses Plugins
 

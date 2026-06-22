@@ -11,52 +11,52 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `bundeswehrrecht-wehrrecht` zu ein
 
 ## Werkstattlogik
 
-1. **Akteninventar**
+1. Akteninventar
    - Eingang: Welche Dateien, Parteien, Behörden, Gerichte, Verträge, Anträge, Fristen und Beträge sind vorhanden?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-2. **Rollenklärung**
+2. Rollenklärung
    - Eingang: Aus welcher Perspektive wird gearbeitet und welches Ergebnis soll am Ende stehen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-3. **Rechtsrahmen**
+3. Rechtsrahmen
    - Eingang: Welche Normen, Zuständigkeiten, Verfahren, Fristen und Beweislasten tragen den Fall?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-4. **Tatsachenmatrix**
+4. Tatsachenmatrix
    - Eingang: Welche Tatsachen sind belegt, streitig, nur behauptet oder noch offen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-5. **Prüfpfad**
+5. Prüfpfad
    - Eingang: Welche Tatbestandsmerkmale, Einwendungen, Ausnahmen und Anschlussfragen sind in richtiger Reihenfolge zu prüfen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-6. **Risikoampel**
+6. Risikoampel
    - Eingang: Welche Punkte sind sofort kritisch, welche sind heilbar, welche benötigen Live-Quelle oder Rückfrage?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-7. **Arbeitsprodukt**
+7. Arbeitsprodukt
    - Eingang: Welches konkrete Dokument wird geliefert: Memo, Schriftsatz, Tabelle, Checkliste, Klausel, Tenor, Antrag oder Antwortentwurf?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-8. **Gegenprüfung**
+8. Gegenprüfung
    - Eingang: Welche Gegenargumente, Beweisprobleme, Zuständigkeitsfragen und Fristfallen müssen vor Abgabe geprüft werden?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-9. **Quellenabgleich**
+9. Quellenabgleich
    - Eingang: Welche Normen und Entscheidungen werden vor Verwendung live aus amtlichen oder frei zugänglichen Quellen nachgezogen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-10. **Anschlussentscheidung**
+10. Anschlussentscheidung
    - Eingang: Was ist der nächste realistische Schritt: Rückfrage, Entwurf, Eskalation, Vergleich, Antrag, Fristnotiz oder Ablage?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
@@ -94,62 +94,62 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `bundeswehrrecht-wehrrecht` zu ein
 
 ## Prüfraster oder Indizienliste
 
-1. **Beschwerde Besoldung Zulagen Beurteilung**
+1. Beschwerde Besoldung Zulagen Beurteilung
    - Fachlicher Fokus: Beschwerde gegen Beurteilung und Laufbahnentscheidung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG i...
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-2. **Bundesverwaltungsgericht Wehrdienstsenate**
+2. Bundesverwaltungsgericht Wehrdienstsenate
    - Fachlicher Fokus: Bundesverwaltungsgericht Wehrdienstsenate: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswehr...
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-3. **Nebentaetigkeit Geschenkannahme Personalakte**
+3. Nebentaetigkeit Geschenkannahme Personalakte
    - Fachlicher Fokus: Nebentätigkeit Geschenkannahme Compliance: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswehr...
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-4. **Truppendienstgericht Zustaendigkeit Verfahren**
+4. Truppendienstgericht Zustaendigkeit Verfahren
    - Fachlicher Fokus: Truppendienstgericht Zuständigkeit Verfahren: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundesw...
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-5. **Wehrbeschwerdeordnung Beschwerde**
+5. Wehrbeschwerdeordnung Beschwerde
    - Fachlicher Fokus: Wehrbeschwerdeordnung Beschwerde Frist Form: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswe...
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-6. **Sexuelle Belaestigung Beschwerde Schutzpflicht**
+6. Sexuelle Belaestigung Beschwerde Schutzpflicht
    - Fachlicher Fokus: Sexuelle Belästigung Beschwerde Schutzpflicht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-7. **Akteneinsicht WBO WDO**
+7. Akteneinsicht WBO WDO
    - Fachlicher Fokus: Akteneinsicht WBO WDO: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-8. **Kaltstart Triage**
+8. Kaltstart Triage
    - Fachlicher Fokus: Einstieg, Schnelltriage und Fallrouting im Bundeswehrrecht und Wehrrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, erkennt stumme Uploads und schlägt passende Fachmodule aus diesem Plugin vor.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-9. **Akteneinsicht WBO Arbeitsrecht Zivile**
+9. Akteneinsicht WBO Arbeitsrecht Zivile
    - Fachlicher Fokus: Akteneinsicht WBO und WDO: prüft Einsichtsrechte, Umfang, Verweigerungsgründe und Rechtsbehelfe. Norm-/Quellenanker: ParagrafParagraf 4–5 WBO, ParagrafParagraf 18–21 WDO, Paragraf 17 SG im Bundeswehrrecht Wehrrecht.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-10. **Entlassung AUF Eigenen Antrag**
+10. Entlassung AUF Eigenen Antrag
    - Fachlicher Fokus: Entlassung auf eigenen Antrag: prüft Paragraf 46 SG, Antragsformalitäten, Widerruf, Versorgungsfolgen und Kostenrückforderung. Norm-/Quellenanker: Paragraf 46 SG, SVG, Paragraf 56 SG im Bundeswehrrecht Wehrrecht.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-11. **Weitere Beschwerde und Gerichtlicher Antrag Wehrdienstgericht**
+11. Weitere Beschwerde und Gerichtlicher Antrag Wehrdienstgericht
    - Fachlicher Fokus: Weitere Beschwerde und gerichtlicher Antrag TDG: prüft Paragraf 16 WBO, Paragraf 17 WBO, TDG-Verfahren und BVerwG-Berufung. Norm-/Quellenanker: ParagrafParagraf 16–22a WBO, TDG im Bundeswehrrecht Wehrrecht.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-12. **Beschwerde Sofortcheck Bwbes**
+12. Beschwerde Sofortcheck Bwbes
    - Fachlicher Fokus: Beschwerde-Fristen Sofortcheck WBO: prüft Fristbeginn, Berechnung, Form, Wiedereinsetzung und Vollzugsaussetzung. Norm-/Quellenanker: ParagrafParagraf 6–11 und 23a WBO im Bundeswehrrecht Wehrrecht.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
@@ -157,13 +157,13 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `bundeswehrrecht-wehrrecht` zu ein
 
 ## Antwortform
 
-- **Lagebild:** Wer will was von wem, seit wann, mit welcher Frist und welchem Risiko?
-- **Prüfung:** Normen, Tatbestandsmerkmale, Beweisfragen, Gegenargumente und Rechtsfolge in richtiger Reihenfolge.
-- **Empfehlung:** konkrete nächste Handlung, nicht nur abstrakte Rechtslage.
-- **Arbeitsprodukt:** gewünschtes Dokument vollständig ausformulieren; Tabellen nur dort einsetzen, wo sie schneller erfassbar sind.
-- **Schriftbild und Nummerierung:** Schriftsätze, Erwiderungen, Repliken, Memos, Verträge, Beschlüsse, Verfügungen und sonstige Enddokumente soweit technisch möglich in Times New Roman 11 pt ausgeben und ausschließlich dezimal gliedern (`1`, `1.1`, `1.1.1`). Bei reiner Markdown- oder Chat-Ausgabe den Formatwunsch als Exporthinweis aufnehmen.
-- **Quellen:** Normen konkret benennen, Rechtsprechung nur live verifiziert oder als Prüfbedarf markieren.
-- **Stop-Kriterien:** unklare Identität, laufende Notfrist, Straf-/Haftungsrisiko, Datenschutzproblem, Interessenkollision oder fehlende Akte.
+- Lagebild: Wer will was von wem, seit wann, mit welcher Frist und welchem Risiko?
+- Prüfung: Normen, Tatbestandsmerkmale, Beweisfragen, Gegenargumente und Rechtsfolge in richtiger Reihenfolge.
+- Empfehlung: konkrete nächste Handlung, nicht nur abstrakte Rechtslage.
+- Arbeitsprodukt: gewünschtes Dokument vollständig ausformulieren; Tabellen nur dort einsetzen, wo sie schneller erfassbar sind.
+- Schriftbild und Nummerierung: Schriftsätze, Erwiderungen, Repliken, Memos, Verträge, Beschlüsse, Verfügungen und sonstige Enddokumente soweit technisch möglich in Times New Roman 11 pt ausgeben und ausschließlich dezimal gliedern (`1`, `1.1`, `1.1.1`). Bei reiner Markdown- oder Chat-Ausgabe den Formatwunsch als Exporthinweis aufnehmen.
+- Quellen: Normen konkret benennen, Rechtsprechung nur live verifiziert oder als Prüfbedarf markieren.
+- Stop-Kriterien: unklare Identität, laufende Notfrist, Straf-/Haftungsrisiko, Datenschutzproblem, Interessenkollision oder fehlende Akte.
 
 ## Eigenheiten dieses Plugins
 

@@ -36,14 +36,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Anerbenrecht Risikoampel und Gegenargumente:** Anerbenrecht: Risikoampel, Gegenargumente und Verteidigungslinien: Anerbenrecht: Risikoampel, Gegenargumente und Verteidigungslinien.
-- **Erstpruefung und Mandatsziel:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
-- **Hoeferecht Fristen Form und Zustaendigkeit:** Hoeferecht: Fristen, Form, Zuständigkeit und Rechtsweg: Hoeferecht: Fristen, Form, Zuständigkeit und Rechtsweg.
-- **Compliance Compliance Dokumentation und Akte:** Compliance: Compliance-Dokumentation und Aktenvermerk: Compliance: Compliance-Dokumentation und Aktenvermerk.
-- **Laender Behoerden Gericht und Registerweg:** Länder: Behörden-, Gerichts- oder Registerweg: Länder: Behörden-, Gerichts- oder Registerweg.
-- **Fachanwalt Agrarrecht GAP Direktzahlungen Antrag:** Beratung zum Sammelantrag GAP-Direktzahlungen nach der GAP-Reform 2023. Konditionalitaet (GLOEZ-Standards) Oeko-Regelungen Junglandwirte-Praemie gekoppelte Stuetzung. Sanktionen bei Verstoessen Querprüfung HIT-Datenbank. Antragsfristen 15…
-- **Fachanwalt Agrarrecht Pachtvertrag Streitig:** Landpachtvertrags-Streitigkeiten LPachtVG. Pachtanzeige binnen 1 Monat. Aufhebungsantrag Paragraf 4 LPachtVG bei Unwirksamkeit. Pachtzins-Anpassung Paragraf 593 BGB. Verlaengerung Schriftform Paragraf 585a BGB. Vorpacht / Vorpfand-Recht. H…
-- **Einstieg Routing:** Einstieg, Triage und Routing für Fachanwalt Agrarrecht: ordnet Rolle (Landwirt, Verpächter/Pächter, Behörde), markiert Frist (Pachtjahr Kündigungsfristen), wählt Norm (BLG, LwAnpG, GAP-Förderung) und Zuständigkeit (Landwirtschaftsbehörden…
+- Anerbenrecht Risikoampel und Gegenargumente: Anerbenrecht: Risikoampel, Gegenargumente und Verteidigungslinien: Anerbenrecht: Risikoampel, Gegenargumente und Verteidigungslinien.
+- Erstpruefung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
+- Hoeferecht Fristen Form und Zustaendigkeit: Hoeferecht: Fristen, Form, Zuständigkeit und Rechtsweg: Hoeferecht: Fristen, Form, Zuständigkeit und Rechtsweg.
+- Compliance Compliance Dokumentation und Akte: Compliance: Compliance-Dokumentation und Aktenvermerk: Compliance: Compliance-Dokumentation und Aktenvermerk.
+- Laender Behoerden Gericht und Registerweg: Länder: Behörden-, Gerichts- oder Registerweg: Länder: Behörden-, Gerichts- oder Registerweg.
+- Fachanwalt Agrarrecht GAP Direktzahlungen Antrag: Beratung zum Sammelantrag GAP-Direktzahlungen nach der GAP-Reform 2023. Konditionalitaet (GLOEZ-Standards) Oeko-Regelungen Junglandwirte-Praemie gekoppelte Stuetzung. Sanktionen bei Verstoessen Querprüfung HIT-Datenbank. Antragsfristen 15…
+- Fachanwalt Agrarrecht Pachtvertrag Streitig: Landpachtvertrags-Streitigkeiten LPachtVG. Pachtanzeige binnen 1 Monat. Aufhebungsantrag Paragraf 4 LPachtVG bei Unwirksamkeit. Pachtzins-Anpassung Paragraf 593 BGB. Verlaengerung Schriftform Paragraf 585a BGB. Vorpacht / Vorpfand-Recht. H…
+- Einstieg Routing: Einstieg, Triage und Routing für Fachanwalt Agrarrecht: ordnet Rolle (Landwirt, Verpächter/Pächter, Behörde), markiert Frist (Pachtjahr Kündigungsfristen), wählt Norm (BLG, LwAnpG, GAP-Förderung) und Zuständigkeit (Landwirtschaftsbehörden…
 
 ## Antwortform
 

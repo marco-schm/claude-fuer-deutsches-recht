@@ -34,14 +34,14 @@ Pflichtnormen aus dem Plugin-Material:
 
 ## Kernmodule
 
-- **Mandatsverhaeltnis Hinweis:** Antwortmail muss klar machen dass noch kein Mandatsverhältnis besteht und keine Rechtsberatung erfolgt. Paragraf 43 BRAO Haftungsabgrenzung Erstanfrage. Prüfraster: Beantwortung der Anfrage = keine Rechtsberatung kein Mandatsverhältnis kei…
-- **Start Chronologie Fristen:** Einstieg, Schnelltriage und Fallrouting im Mandantenanfragen Assistent-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. B…
-- **Einstieg Routing:** Einstieg, Triage und Routing für Mandantenanfragen-Assistent: ordnet Rolle (Mandant, Anwalt, Sekretariat), markiert Frist (Unverzügliche Antwort), wählt Norm (BRAO Paragraf 43 Sachlichkeit, BORA) und Zuständigkeit (zuständige Stelle), leit…
-- **MA Erstvermerk Mandantenakte:** Erstvermerk für die Mandantenakte: Pflichtangaben (Mandant, Sachverhalt, Eilbedarf, Ziel, Honorar, naechster Schritt), interne Hinweise (Konflikte, sensible Punkte). Format und Aufbewahrung in der Akte im Mandantenanfragen Assistent.
-- **Manda Mandatsablehnung Rechtsschutz:** Spezialfall Mandatsablehnung und COI-Kommunikation: berufsrechtliche Hinweise Paragraf 43a BRAO, Schweigepflicht, Ablehnungsschreiben ohne offene Konflikte. Prüfraster für Risk-and-Compliance im Mandantenanfragen Assistent.
-- **Anschluss Routing:** Anschluss-Routing für Mandantenanfragen-Assistent: wählt den nächsten Spezial-Skill nach Engpass (Unverzügliche Antwort, Mandantenmail, Kanzleiprofil, Honorarinfo), dokumentiert Router-Entscheidung mit Begründung.
-- **Manda Erstgespraechsleitfaden Checkliste:** Checkliste Erstgespraechsleitfaden: Sachverhaltserhebung, Ziel des Mandanten, vorhandene Unterlagen, Erfolgsaussicht offen erläutern, Honorar. Mustertext Folgeschreiben Mandant im Mandantenanfragen Assistent.
-- **E Mail Erstantwort und Terminrouting:** E-Mail-Erstantwort, Terminrouting und Mandatsannahmehinweis: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Mandantenanfragen Assistent.
+- Mandatsverhaeltnis Hinweis: Antwortmail muss klar machen dass noch kein Mandatsverhältnis besteht und keine Rechtsberatung erfolgt. Paragraf 43 BRAO Haftungsabgrenzung Erstanfrage. Prüfraster: Beantwortung der Anfrage = keine Rechtsberatung kein Mandatsverhältnis kei…
+- Start Chronologie Fristen: Einstieg, Schnelltriage und Fallrouting im Mandantenanfragen Assistent-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. B…
+- Einstieg Routing: Einstieg, Triage und Routing für Mandantenanfragen-Assistent: ordnet Rolle (Mandant, Anwalt, Sekretariat), markiert Frist (Unverzügliche Antwort), wählt Norm (BRAO Paragraf 43 Sachlichkeit, BORA) und Zuständigkeit (zuständige Stelle), leit…
+- MA Erstvermerk Mandantenakte: Erstvermerk für die Mandantenakte: Pflichtangaben (Mandant, Sachverhalt, Eilbedarf, Ziel, Honorar, naechster Schritt), interne Hinweise (Konflikte, sensible Punkte). Format und Aufbewahrung in der Akte im Mandantenanfragen Assistent.
+- Manda Mandatsablehnung Rechtsschutz: Spezialfall Mandatsablehnung und COI-Kommunikation: berufsrechtliche Hinweise Paragraf 43a BRAO, Schweigepflicht, Ablehnungsschreiben ohne offene Konflikte. Prüfraster für Risk-and-Compliance im Mandantenanfragen Assistent.
+- Anschluss Routing: Anschluss-Routing für Mandantenanfragen-Assistent: wählt den nächsten Spezial-Skill nach Engpass (Unverzügliche Antwort, Mandantenmail, Kanzleiprofil, Honorarinfo), dokumentiert Router-Entscheidung mit Begründung.
+- Manda Erstgespraechsleitfaden Checkliste: Checkliste Erstgespraechsleitfaden: Sachverhaltserhebung, Ziel des Mandanten, vorhandene Unterlagen, Erfolgsaussicht offen erläutern, Honorar. Mustertext Folgeschreiben Mandant im Mandantenanfragen Assistent.
+- E Mail Erstantwort und Terminrouting: E-Mail-Erstantwort, Terminrouting und Mandatsannahmehinweis: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Mandantenanfragen Assistent.
 
 ## Antwortform
 

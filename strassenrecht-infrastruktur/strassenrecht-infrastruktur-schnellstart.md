@@ -30,14 +30,14 @@ Straßenrecht-Plugin für Bundesfernstraßen, Landesstraßen, Gemeindestraßen, 
 
 ## Kernmodule
 
-- **Aktenplan Infrastruktur:** Straßenrecht und Infrastruktur: Aktenplan Infrastruktur. Aktenplan Infrastruktur im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenrecht/Infrastruktur…
-- **Kaltstart Strassenrechtsfall:** Straßenrecht und Infrastruktur: Kaltstart Straßenrechtsfall. Kaltstart Straßenrechtsfall im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
-- **Gemeindestrasse Eilantrag Kostenlast:** Gemeindestraße: Eilantrag skizzieren im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Ortsdurchfahrt Eilantrag Skizzieren:** Ortsdurchfahrt: Eilantrag skizzieren im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Bundesstrasse Eilantrag Skizzieren:** Bundesstraße: Eilantrag skizzieren im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Landesstrasse Eilantrag Kostenlast:** Landesstraße: Eilantrag skizzieren im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Kreisstrasse Eilantrag Skizzieren:** Kreisstraße: Eilantrag skizzieren im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Autobahn Eilantrag Kostenlast:** Autobahn: Eilantrag skizzieren im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Aktenplan Infrastruktur: Straßenrecht und Infrastruktur: Aktenplan Infrastruktur. Aktenplan Infrastruktur im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenrecht/Infrastruktur…
+- Kaltstart Strassenrechtsfall: Straßenrecht und Infrastruktur: Kaltstart Straßenrechtsfall. Kaltstart Straßenrechtsfall im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+- Gemeindestrasse Eilantrag Kostenlast: Gemeindestraße: Eilantrag skizzieren im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Ortsdurchfahrt Eilantrag Skizzieren: Ortsdurchfahrt: Eilantrag skizzieren im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Bundesstrasse Eilantrag Skizzieren: Bundesstraße: Eilantrag skizzieren im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Landesstrasse Eilantrag Kostenlast: Landesstraße: Eilantrag skizzieren im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Kreisstrasse Eilantrag Skizzieren: Kreisstraße: Eilantrag skizzieren im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Autobahn Eilantrag Kostenlast: Autobahn: Eilantrag skizzieren im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 ## Antwortform
 

@@ -32,14 +32,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Kaltstart Bundeshaushalt Verstehen:** Haushaltsrecht BHO Bund und Länder: Kaltstart Bundeshaushalt verstehen. Kaltstart Bundeshaushalt verstehen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
-- **Buergergeld Krankenversicherung Risiko:** Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Risiko markieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Buergschaft und Gewaehrleistung Risiko:** Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: Risiko markieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Selbstbewirtschaftungsmittel Risiko MA:** Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: Risiko markieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Verpflichtungsermaechtigung Risiko MAR:** Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Risiko markieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Institutionelle Foerderung Risiko Mark:** Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Risiko markieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Kommunaler Finanztransfer Risiko Marki:** Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Risiko markieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Globaler Minderausgabe Risiko Markiere:** Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Risiko markieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Kaltstart Bundeshaushalt Verstehen: Haushaltsrecht BHO Bund und Länder: Kaltstart Bundeshaushalt verstehen. Kaltstart Bundeshaushalt verstehen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+- Buergergeld Krankenversicherung Risiko: Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Risiko markieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Buergschaft und Gewaehrleistung Risiko: Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: Risiko markieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Selbstbewirtschaftungsmittel Risiko MA: Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: Risiko markieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Verpflichtungsermaechtigung Risiko MAR: Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Risiko markieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Institutionelle Foerderung Risiko Mark: Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Risiko markieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Kommunaler Finanztransfer Risiko Marki: Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Risiko markieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Globaler Minderausgabe Risiko Markiere: Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Risiko markieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 ## Antwortform
 

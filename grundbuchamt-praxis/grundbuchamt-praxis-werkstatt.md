@@ -11,52 +11,52 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `grundbuchamt-praxis` zu einem tra
 
 ## Werkstattlogik
 
-1. **Akteninventar**
+1. Akteninventar
    - Eingang: Welche Dateien, Parteien, Behörden, Gerichte, Verträge, Anträge, Fristen und Beträge sind vorhanden?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-2. **Rollenklärung**
+2. Rollenklärung
    - Eingang: Aus welcher Perspektive wird gearbeitet und welches Ergebnis soll am Ende stehen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-3. **Rechtsrahmen**
+3. Rechtsrahmen
    - Eingang: Welche Normen, Zuständigkeiten, Verfahren, Fristen und Beweislasten tragen den Fall?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-4. **Tatsachenmatrix**
+4. Tatsachenmatrix
    - Eingang: Welche Tatsachen sind belegt, streitig, nur behauptet oder noch offen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-5. **Prüfpfad**
+5. Prüfpfad
    - Eingang: Welche Tatbestandsmerkmale, Einwendungen, Ausnahmen und Anschlussfragen sind in richtiger Reihenfolge zu prüfen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-6. **Risikoampel**
+6. Risikoampel
    - Eingang: Welche Punkte sind sofort kritisch, welche sind heilbar, welche benötigen Live-Quelle oder Rückfrage?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-7. **Arbeitsprodukt**
+7. Arbeitsprodukt
    - Eingang: Welches konkrete Dokument wird geliefert: Memo, Schriftsatz, Tabelle, Checkliste, Klausel, Tenor, Antrag oder Antwortentwurf?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-8. **Gegenprüfung**
+8. Gegenprüfung
    - Eingang: Welche Gegenargumente, Beweisprobleme, Zuständigkeitsfragen und Fristfallen müssen vor Abgabe geprüft werden?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-9. **Quellenabgleich**
+9. Quellenabgleich
    - Eingang: Welche Normen und Entscheidungen werden vor Verwendung live aus amtlichen oder frei zugänglichen Quellen nachgezogen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-10. **Anschlussentscheidung**
+10. Anschlussentscheidung
    - Eingang: Was ist der nächste realistische Schritt: Rückfrage, Entwurf, Eskalation, Vergleich, Antrag, Fristnotiz oder Ablage?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
@@ -83,62 +83,62 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `grundbuchamt-praxis` zu einem tra
 
 ## Prüfraster oder Indizienliste
 
-1. **Grundbuchamt Nichtigkeitsrisiko Kaufvertrags**
+1. Grundbuchamt Nichtigkeitsrisiko Kaufvertrags
    - Fachlicher Fokus: Prüft, ob ein möglicher Form-, Genehmigungs-, Vertretungs- oder Verbotsgesetzmangel den Grundbuchvollzug blockiert und wie Zwischenverfügung, Nachgenehmigung oder Rückabwicklung vorbereitet werden im Grundbuchamt Praxis.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-2. **Kaltstart Routing**
+2. Kaltstart Routing
    - Fachlicher Fokus: Führt durch Eigentum, Belastungen, Vollzugsziel, Grundbuchbezirk, Urkundentyp, Nachweise, Rang, Fristdruck und Kommunikationsweg mit dem Grundbuchamt.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-3. **GBO Antrag GBR Egbr Genehmigungen**
+3. GBO Antrag GBR Egbr Genehmigungen
    - Fachlicher Fokus: Prüft GBO-Mechanik aus Antrag, Bewilligung, Eintragungsfähigkeit, Eintragungsreife und Vollzugshindernis im Grundbuchamt Praxis.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-4. **Auflassungsvormerkung Kaufvertrag**
+4. Auflassungsvormerkung Kaufvertrag
    - Fachlicher Fokus: Prüft Vormerkungszweck, Rang, Löschung, Sicherung gegen Zwischenverfügungen und Käufer-/Bankenschutz im Grundbuchamt Praxis.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-5. **Grundbuchamt Amtswiderspruch und Richtigstellung**
+5. Grundbuchamt Amtswiderspruch und Richtigstellung
    - Fachlicher Fokus: Prüft offensichtliche Unrichtigkeit, Amtswiderspruch, Amtslöschung, Berichtigung und Rechtsschutz im Grundbuchamt Praxis.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-6. **Beschwerde Grundbuchsache**
+6. Beschwerde Grundbuchsache
    - Fachlicher Fokus: Prüft Statthaftigkeit, Beschwer, Frist, Abhilfe, Nichtabhilfe und OLG-Vorlage in Grundbuchsachen im Grundbuchamt Praxis.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-7. **Grundbuch Vollzugslog Amtswiderspruch**
+7. Grundbuch Vollzugslog Amtswiderspruch
    - Fachlicher Fokus: Erstellt Fristen-, Rang- und Nachweisliste mit Verantwortlichen, Stand und nächstem Schritt im Grundbuchamt Praxis.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-8. **Zwischenverfuegung Paragraph 18 GBO**
+8. Zwischenverfuegung Paragraph 18 GBO
    - Fachlicher Fokus: Analysiert beanstandete Hindernisse, Behebbarkeit, Rangwahrung, Frist und Antwortstrategie im Grundbuchamt Praxis.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-9. **Nacherbenvermerk und Verfuegungsbeschraenkung**
+9. Nacherbenvermerk und Verfuegungsbeschraenkung
    - Fachlicher Fokus: Prüft Vermerk, Zustimmung, Befreiung, Löschung und Erwerberrisiko im Grundbuchamt Praxis.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-10. **WEG Teilungsgrundbuch Zwischenverfuegung**
+10. WEG Teilungsgrundbuch Zwischenverfuegung
    - Fachlicher Fokus: Prüft Teilungserklärung, Aufteilungsplan, Abgeschlossenheit, Sonder-/Gemeinschaftseigentum, Sondernutzungsrechte und Grundbuchblätter im Grundbuchamt Praxis.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-11. **Kaufvertrags Check Grundbuch**
+11. Kaufvertrags Check Grundbuch
    - Fachlicher Fokus: Prüft Belastungen, Fälligkeit, Löschung, Vormerkung, Finanzierung, Besitzübergang und Risiken aus Abteilung II im Grundbuchamt Praxis.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-12. **Familiengerichtliche Genehmigung Grundbuch**
+12. Familiengerichtliche Genehmigung Grundbuch
    - Fachlicher Fokus: Prüft Minderjährige, betreute Personen, Genehmigungsbedürftigkeit, Rechtskraft und Nachweisform im Grundbuchamt Praxis.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
@@ -146,13 +146,13 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `grundbuchamt-praxis` zu einem tra
 
 ## Antwortform
 
-- **Lagebild:** Wer will was von wem, seit wann, mit welcher Frist und welchem Risiko?
-- **Prüfung:** Normen, Tatbestandsmerkmale, Beweisfragen, Gegenargumente und Rechtsfolge in richtiger Reihenfolge.
-- **Empfehlung:** konkrete nächste Handlung, nicht nur abstrakte Rechtslage.
-- **Arbeitsprodukt:** gewünschtes Dokument vollständig ausformulieren; Tabellen nur dort einsetzen, wo sie schneller erfassbar sind.
-- **Schriftbild und Nummerierung:** Schriftsätze, Erwiderungen, Repliken, Memos, Verträge, Beschlüsse, Verfügungen und sonstige Enddokumente soweit technisch möglich in Times New Roman 11 pt ausgeben und ausschließlich dezimal gliedern (`1`, `1.1`, `1.1.1`). Bei reiner Markdown- oder Chat-Ausgabe den Formatwunsch als Exporthinweis aufnehmen.
-- **Quellen:** Normen konkret benennen, Rechtsprechung nur live verifiziert oder als Prüfbedarf markieren.
-- **Stop-Kriterien:** unklare Identität, laufende Notfrist, Straf-/Haftungsrisiko, Datenschutzproblem, Interessenkollision oder fehlende Akte.
+- Lagebild: Wer will was von wem, seit wann, mit welcher Frist und welchem Risiko?
+- Prüfung: Normen, Tatbestandsmerkmale, Beweisfragen, Gegenargumente und Rechtsfolge in richtiger Reihenfolge.
+- Empfehlung: konkrete nächste Handlung, nicht nur abstrakte Rechtslage.
+- Arbeitsprodukt: gewünschtes Dokument vollständig ausformulieren; Tabellen nur dort einsetzen, wo sie schneller erfassbar sind.
+- Schriftbild und Nummerierung: Schriftsätze, Erwiderungen, Repliken, Memos, Verträge, Beschlüsse, Verfügungen und sonstige Enddokumente soweit technisch möglich in Times New Roman 11 pt ausgeben und ausschließlich dezimal gliedern (`1`, `1.1`, `1.1.1`). Bei reiner Markdown- oder Chat-Ausgabe den Formatwunsch als Exporthinweis aufnehmen.
+- Quellen: Normen konkret benennen, Rechtsprechung nur live verifiziert oder als Prüfbedarf markieren.
+- Stop-Kriterien: unklare Identität, laufende Notfrist, Straf-/Haftungsrisiko, Datenschutzproblem, Interessenkollision oder fehlende Akte.
 
 ## Eigenheiten dieses Plugins
 

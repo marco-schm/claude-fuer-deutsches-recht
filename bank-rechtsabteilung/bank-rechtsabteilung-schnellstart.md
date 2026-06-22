@@ -31,19 +31,19 @@ Pflichtnormen aus dem Plugin-Material:
 - Paragraf 774 BGB, Kundenbelastung, Sicherheitenverwertung, Mitbürgen, Freigabepflichten, Inso
 - Paragraf 305 bis 310 BGB
 Leitentscheidungen nur nach Live-Prüfung verwenden:
-- BGH XI ZR 56/93** (19.01.1999) zur Sittenwidrigkeit bei "krasser Vermögensueberforderung"
+- BGH XI ZR 56/93 (19.01.1999) zur Sittenwidrigkeit bei "krasser Vermögensueberforderung"
 - EuGH, Urteil vom 07.12.2023 - C-634/21; DSGVO Art
 
 ## Kernmodule
 
-- **Rechtsabteilung Ewpg Tokenisierung und Registerrisiko:** Rechtsabteilungs-Fachmodul für eWpG-Tokenisierung und Registerrisiko: Tokenisierte Wertpapiere werden auf Registerführung, Verwahrung, Vertrieb und Prospekt-/MiCAR-Schnittstelle geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und sc…
-- **Kaltstart Triage:** Agb Bankrecht Klauselkontrolle, Anwaltliche Rechnungen Review, App Fraud Social Engineering Bank, Aufsichtsrat Vorlage Bank: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten bel…
-- **Bankrechtsabteilung Kaltstart Routing:** Kaltstart-Routing für neue Inhouse-Anfragen in einer Bank: Sachgebiet erkennen, Eilbedarf markieren, BaFin-, Vorstand-, Kredit-, Vertrieb-, AGB-, Datenschutz- oder Prozesspfad wählen und genau die nächsten Unterlagen anfordern.
-- **Bankaufsichtsrecht KWG Marisk Triage:** Bankaufsichtsrechtliche Ersttriage nach KWG und MaRisk: Geschäftsorganisation, Risikomanagement, Compliance, Revision, Risikocontrolling, Leitungsbefassung und Dokumentationsbedarf für interne Vermerke prüfen.
-- **Forbearance NPE Risikoklassifizierung:** Forbearance, NPE und Risikoklassifizierung juristisch begleiten: Zugeständnisse, Ausfallnähe, Melde- und Dokumentationsfolgen, Kreditakte und Kommunikation mit Risk sauber halten im Bank-Rechtsabteilung.
-- **Kundenbeschwerde Ombudsmann Bafin:** Kundenbeschwerden, Ombudsmann, BaFin-Beschwerde und Eskalation: Sachverhalt, Anspruch, Kulanz, Reputationsrisiko, Fristen, Ton und interne Learnings für Banken steuern im Bank-Rechtsabteilung.
-- **Rechtsabteilung Psd2 Strong Customer Authentication Fall:** Rechtsabteilungs-Fachmodul für PSD2-Strong-Customer-Authentication-Fall: Haftung bei nicht autorisierten Zahlungsvorgängen wird mit Beweislast, Authentifizierungslog und Kulanzstrategie geprüft. Mit Normen, Rechtsprechungsanker, Belegmatri…
-- **Avalrahmenlinie Kautionsaval Praxis:** Avalrahmen und Kautionsaval in der Bankpraxis prüfen: Kreditgeschäft, Avalprovision, Limit, Sicherheiten, Abrufrisiko, Text der Garantie/Bürgschaft, Paragraf 1 KWG, ParagrafParagraf 765 ff. BGB, ParagrafParagraf 349 und 350 HGB und Regress…
+- Rechtsabteilung Ewpg Tokenisierung und Registerrisiko: Rechtsabteilungs-Fachmodul für eWpG-Tokenisierung und Registerrisiko: Tokenisierte Wertpapiere werden auf Registerführung, Verwahrung, Vertrieb und Prospekt-/MiCAR-Schnittstelle geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und sc…
+- Kaltstart Triage: Agb Bankrecht Klauselkontrolle, Anwaltliche Rechnungen Review, App Fraud Social Engineering Bank, Aufsichtsrat Vorlage Bank: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten bel…
+- Bankrechtsabteilung Kaltstart Routing: Kaltstart-Routing für neue Inhouse-Anfragen in einer Bank: Sachgebiet erkennen, Eilbedarf markieren, BaFin-, Vorstand-, Kredit-, Vertrieb-, AGB-, Datenschutz- oder Prozesspfad wählen und genau die nächsten Unterlagen anfordern.
+- Bankaufsichtsrecht KWG Marisk Triage: Bankaufsichtsrechtliche Ersttriage nach KWG und MaRisk: Geschäftsorganisation, Risikomanagement, Compliance, Revision, Risikocontrolling, Leitungsbefassung und Dokumentationsbedarf für interne Vermerke prüfen.
+- Forbearance NPE Risikoklassifizierung: Forbearance, NPE und Risikoklassifizierung juristisch begleiten: Zugeständnisse, Ausfallnähe, Melde- und Dokumentationsfolgen, Kreditakte und Kommunikation mit Risk sauber halten im Bank-Rechtsabteilung.
+- Kundenbeschwerde Ombudsmann Bafin: Kundenbeschwerden, Ombudsmann, BaFin-Beschwerde und Eskalation: Sachverhalt, Anspruch, Kulanz, Reputationsrisiko, Fristen, Ton und interne Learnings für Banken steuern im Bank-Rechtsabteilung.
+- Rechtsabteilung Psd2 Strong Customer Authentication Fall: Rechtsabteilungs-Fachmodul für PSD2-Strong-Customer-Authentication-Fall: Haftung bei nicht autorisierten Zahlungsvorgängen wird mit Beweislast, Authentifizierungslog und Kulanzstrategie geprüft. Mit Normen, Rechtsprechungsanker, Belegmatri…
+- Avalrahmenlinie Kautionsaval Praxis: Avalrahmen und Kautionsaval in der Bankpraxis prüfen: Kreditgeschäft, Avalprovision, Limit, Sicherheiten, Abrufrisiko, Text der Garantie/Bürgschaft, Paragraf 1 KWG, ParagrafParagraf 765 ff. BGB, ParagrafParagraf 349 und 350 HGB und Regress…
 
 ## Antwortform
 

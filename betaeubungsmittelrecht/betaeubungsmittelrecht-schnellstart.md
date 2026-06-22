@@ -30,14 +30,14 @@ Betäubungsmittelrecht-Plugin für BtMG, BtMVV, KCanG/MedCanG-Schnittstellen, St
 
 ## Kernmodule
 
-- **Kaltstart Fall:** Betäubungsmittelrecht: Kaltstart BtM-Fall. Kaltstart BtM-Fall im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
-- **Medizinalcannabis Akteneinsicht Vorber:** Medizinalcannabis: Akteneinsicht vorbereiten im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Amphetamin Akteneinsicht Vorbereiten:** Amphetamin: Akteneinsicht vorbereiten im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Cannabis Akteneinsicht Vorbereiten:** Cannabis: Akteneinsicht vorbereiten im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Fentanyl Akteneinsicht Vorbereiten:** Fentanyl: Akteneinsicht vorbereiten im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Medizinalcannabis Compliance Bauen Akteneinsicht Vorber:** Medizinalcannabis: Compliance bauen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Methadon Akteneinsicht Vorbereiten:** Methadon: Akteneinsicht vorbereiten im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Heroin Akteneinsicht Vorbereiten:** Heroin: Akteneinsicht vorbereiten im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Kaltstart Fall: Betäubungsmittelrecht: Kaltstart BtM-Fall. Kaltstart BtM-Fall im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+- Medizinalcannabis Akteneinsicht Vorber: Medizinalcannabis: Akteneinsicht vorbereiten im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Amphetamin Akteneinsicht Vorbereiten: Amphetamin: Akteneinsicht vorbereiten im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Cannabis Akteneinsicht Vorbereiten: Cannabis: Akteneinsicht vorbereiten im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Fentanyl Akteneinsicht Vorbereiten: Fentanyl: Akteneinsicht vorbereiten im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Medizinalcannabis Compliance Bauen Akteneinsicht Vorber: Medizinalcannabis: Compliance bauen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Methadon Akteneinsicht Vorbereiten: Methadon: Akteneinsicht vorbereiten im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Heroin Akteneinsicht Vorbereiten: Heroin: Akteneinsicht vorbereiten im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 ## Antwortform
 

@@ -32,14 +32,14 @@ Pflichtnormen aus dem Plugin-Material:
 
 ## Kernmodule
 
-- **Kaltstart Interview:** Kaltstart-Interview für den Kanzlei-Builder-Hub: Kanzleiprofil, Rechtsgebiete, gewuenschte Plugins. Normen: technisch/intern. Prüfraster: Rechtsgebietsabdeckung, Mandantenstruktur, Technikvoraussetzungen. Output: Kanzlei-Profil-Konfigurati…
-- **Einstieg Routing:** Einstieg, Triage und Routing für Kanzlei-Builder-Hub (Plugins/Skills): ordnet Rolle (Kanzleiinhaber, IT-Verantwortlicher, Mitarbeiter), markiert Frist (keine harten Fristen), wählt Norm (BRAO Paragraf 43e KI-Einsatz, DSGVO, KI-VO) und Zust…
-- **Khub Leistungsmatrix Mandanten Checkliste:** Checkliste Leistungsmatrix Mandanten: Standardleistungen, Premium, Pauschale, Stundenhonorar, Erfolgskomponenten. Prüfraster Honorarvereinbarung pro Mandantensegment im Kanzlei Builder Hub.
-- **Workflow Kaltstart und Routing:** Kaltstart und Routing im Plugin kanzlei-builder-hub: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
-- **Fristen Risikoampel Mandantenkommunikation:** Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Kanzlei Builder Hub.
-- **Workflow Redteam Qualitygate:** Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Kanzlei Builder Hub.
-- **Review Risikoampel und Gegenargumente:** Review: Risikoampel, Gegenargumente und Verteidigungslinien.
-- **Community Leistungsmatrix Fristennotiz:** Community: Fristen, Form, Zuständigkeit und Rechtsweg.
+- Kaltstart Interview: Kaltstart-Interview für den Kanzlei-Builder-Hub: Kanzleiprofil, Rechtsgebiete, gewuenschte Plugins. Normen: technisch/intern. Prüfraster: Rechtsgebietsabdeckung, Mandantenstruktur, Technikvoraussetzungen. Output: Kanzlei-Profil-Konfigurati…
+- Einstieg Routing: Einstieg, Triage und Routing für Kanzlei-Builder-Hub (Plugins/Skills): ordnet Rolle (Kanzleiinhaber, IT-Verantwortlicher, Mitarbeiter), markiert Frist (keine harten Fristen), wählt Norm (BRAO Paragraf 43e KI-Einsatz, DSGVO, KI-VO) und Zust…
+- Khub Leistungsmatrix Mandanten Checkliste: Checkliste Leistungsmatrix Mandanten: Standardleistungen, Premium, Pauschale, Stundenhonorar, Erfolgskomponenten. Prüfraster Honorarvereinbarung pro Mandantensegment im Kanzlei Builder Hub.
+- Workflow Kaltstart und Routing: Kaltstart und Routing im Plugin kanzlei-builder-hub: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+- Fristen Risikoampel Mandantenkommunikation: Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Kanzlei Builder Hub.
+- Workflow Redteam Qualitygate: Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Kanzlei Builder Hub.
+- Review Risikoampel und Gegenargumente: Review: Risikoampel, Gegenargumente und Verteidigungslinien.
+- Community Leistungsmatrix Fristennotiz: Community: Fristen, Form, Zuständigkeit und Rechtsweg.
 
 ## Antwortform
 

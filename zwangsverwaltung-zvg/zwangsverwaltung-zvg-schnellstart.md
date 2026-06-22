@@ -35,14 +35,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Zwangsverwaltung Erstpruefung und Mandatsziel:** Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel.
-- **Aktenanlage Objektcockpit:** Aktenanlage und Objektcockpit für den Zwangsverwalter nach ParagrafParagraf 146 ff. ZVG. Anwendungsfall Zwangsverwaltungsauftrag geht ein und Objekt muss komplett erfasst werden. Normen ParagrafParagraf 146 152 ZVG Bestellung Paragraf 154…
-- **Einstieg Routing:** Einstieg, Triage und Routing für Zwangsverwaltung ZVG: ordnet Rolle (Gläubiger, Schuldner Eigentümer, Zwangsverwalter), markiert Frist (Beschwerde gegen Anordnung), wählt Norm (ZVG ParagrafParagraf 146 ff., BGB ParagrafParagraf 1135 ff. Pf…
-- **Start Chronologie Fristen:** Einstieg, Schnelltriage und Fallrouting im Zwangsverwaltung ZVG-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Doku…
-- **Anschluss Routing:** Anschluss-Routing für Zwangsverwaltung ZVG: wählt den nächsten Spezial-Skill nach Engpass (Beschwerde gegen Anordnung, Anordnungsbeschluss, Verwalterbericht, Mietsachen-Akte), dokumentiert Router-Entscheidung mit Begründung.
-- **Workflow Kaltstart und Routing:** Kaltstart und Routing im Plugin zwangsverwaltung-zvg: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
-- **Workflow Fristen und Risikoampel:** Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Zwangsverwaltung Zvg.
-- **Mieten Risikoampel und Gegenargumente:** Mieten: Risikoampel, Gegenargumente und Verteidigungslinien.
+- Zwangsverwaltung Erstpruefung und Mandatsziel: Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel.
+- Aktenanlage Objektcockpit: Aktenanlage und Objektcockpit für den Zwangsverwalter nach ParagrafParagraf 146 ff. ZVG. Anwendungsfall Zwangsverwaltungsauftrag geht ein und Objekt muss komplett erfasst werden. Normen ParagrafParagraf 146 152 ZVG Bestellung Paragraf 154…
+- Einstieg Routing: Einstieg, Triage und Routing für Zwangsverwaltung ZVG: ordnet Rolle (Gläubiger, Schuldner Eigentümer, Zwangsverwalter), markiert Frist (Beschwerde gegen Anordnung), wählt Norm (ZVG ParagrafParagraf 146 ff., BGB ParagrafParagraf 1135 ff. Pf…
+- Start Chronologie Fristen: Einstieg, Schnelltriage und Fallrouting im Zwangsverwaltung ZVG-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Doku…
+- Anschluss Routing: Anschluss-Routing für Zwangsverwaltung ZVG: wählt den nächsten Spezial-Skill nach Engpass (Beschwerde gegen Anordnung, Anordnungsbeschluss, Verwalterbericht, Mietsachen-Akte), dokumentiert Router-Entscheidung mit Begründung.
+- Workflow Kaltstart und Routing: Kaltstart und Routing im Plugin zwangsverwaltung-zvg: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+- Workflow Fristen und Risikoampel: Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Zwangsverwaltung Zvg.
+- Mieten Risikoampel und Gegenargumente: Mieten: Risikoampel, Gegenargumente und Verteidigungslinien.
 
 ## Antwortform
 

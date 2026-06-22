@@ -30,14 +30,14 @@ Lobbyregister-Bundestag-Superplugin mit 50 geführten Skills für Registrierungs
 
 ## Kernmodule
 
-- **Kaltstart Triage:** Einstieg, Schnelltriage und Fallrouting im Lobbyregister Bundestag-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei D…
-- **Intake Mandat Lobbyregister:** Erfasst Ausgangslage, Organisation, Kontaktplaene, Auftraggeber, Fristen und Portalstatus vor jeder Lobbyregister-Prüfung. Nutzt LobbyRG ParagrafParagraf 1 bis 5 und Bundestags-Handbuch. Output Intake-Protokoll und Dokumentenliste im Lobby…
-- **Freiwillige Registrierung Fremdmandat:** Berät zu freiwilliger Eintragung nach Paragraf 2 Abs. 5 LobbyRG: Rechte, volle Pflichten, Aktualisierung, Verhaltenskodex und Bußgeldrisiko bei falschen Angaben. Output Entscheidungsvermerk im Lobbyregister Bundestag.
-- **Fristen und Quartalsmonitor:** Baut Fristenkalender für unverzuegliche Updates, Quartalsfrist für Stellungnahmen, sechs Monate Finanzdaten, jaehrliche Bestätigung und Nachholfristen. Output Fristenbuch im Lobbyregister Bundestag.
-- **Anonymisierung Schutzantrag Auftraggeber:** Prüft Beschraenkung der Veröffentlichung bei schutzwürdigen Interessen nach Paragraf 4 Abs. 6 LobbyRG und Altfall-Anonymisierung. Output Schutzantrag-Skizze im Lobbyregister Bundestag.
-- **Dokumentationsakte Revisionsspur Drehtuer:** Baut Aktenstruktur für Belege, Freigaben, Portal-Screenshots, Kontaktlogs, Kostenmethodik, RfS-Kommunikation und Jahresupdates. Output Aktenplan im Lobbyregister Bundestag.
-- **Nicht Aktualisiert Risiko:** Prüft Kennzeichnung nicht aktualisiert, Nachholfristen, Übertragung in fruehere Interessenvertreter und Reputationsfolgen. Output Rettungsplan im Lobbyregister Bundestag.
-- **Fremdmandat Agenturfall:** Spezialfür Public-Affairs-Agenturen, Kanzleien, Beratungen und Dienstleister mit mehreren Mandanten. Output Mandanten-Trennblatt im Lobbyregister Bundestag.
+- Kaltstart Triage: Einstieg, Schnelltriage und Fallrouting im Lobbyregister Bundestag-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei D…
+- Intake Mandat Lobbyregister: Erfasst Ausgangslage, Organisation, Kontaktplaene, Auftraggeber, Fristen und Portalstatus vor jeder Lobbyregister-Prüfung. Nutzt LobbyRG ParagrafParagraf 1 bis 5 und Bundestags-Handbuch. Output Intake-Protokoll und Dokumentenliste im Lobby…
+- Freiwillige Registrierung Fremdmandat: Berät zu freiwilliger Eintragung nach Paragraf 2 Abs. 5 LobbyRG: Rechte, volle Pflichten, Aktualisierung, Verhaltenskodex und Bußgeldrisiko bei falschen Angaben. Output Entscheidungsvermerk im Lobbyregister Bundestag.
+- Fristen und Quartalsmonitor: Baut Fristenkalender für unverzuegliche Updates, Quartalsfrist für Stellungnahmen, sechs Monate Finanzdaten, jaehrliche Bestätigung und Nachholfristen. Output Fristenbuch im Lobbyregister Bundestag.
+- Anonymisierung Schutzantrag Auftraggeber: Prüft Beschraenkung der Veröffentlichung bei schutzwürdigen Interessen nach Paragraf 4 Abs. 6 LobbyRG und Altfall-Anonymisierung. Output Schutzantrag-Skizze im Lobbyregister Bundestag.
+- Dokumentationsakte Revisionsspur Drehtuer: Baut Aktenstruktur für Belege, Freigaben, Portal-Screenshots, Kontaktlogs, Kostenmethodik, RfS-Kommunikation und Jahresupdates. Output Aktenplan im Lobbyregister Bundestag.
+- Nicht Aktualisiert Risiko: Prüft Kennzeichnung nicht aktualisiert, Nachholfristen, Übertragung in fruehere Interessenvertreter und Reputationsfolgen. Output Rettungsplan im Lobbyregister Bundestag.
+- Fremdmandat Agenturfall: Spezialfür Public-Affairs-Agenturen, Kanzleien, Beratungen und Dienstleister mit mehreren Mandanten. Output Mandanten-Trennblatt im Lobbyregister Bundestag.
 
 ## Antwortform
 

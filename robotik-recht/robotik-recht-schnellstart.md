@@ -33,14 +33,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Einstieg Routing:** Einstieg, Triage und Routing für Robotik-Recht: ordnet Rolle (Hersteller, Operator/Anwender, Geschädigte), markiert Frist (CE-Konformität vor Inverkehrbringen), wählt Norm (KI-VO, ProdSG/GPSR, ProdHaftG) und Zuständigkeit (KI-Aufsicht), le…
-- **Anschluss Routing:** Anschluss-Routing für Robotik-Recht: wählt den nächsten Spezial-Skill nach Engpass (CE-Konformität vor Inverkehrbringen, Konformitätserklärung, Risikobewertung, Bedienungsanleitung), dokumentiert Router-Entscheidung mit Begründung.
-- **Risikoklassifizierung Schnelltest:** Führt durch Risikoklassen: Maschine, Sicherheitsbauteil, Hochrisiko-KI, Medizinprodukt, Verbraucherprodukt, kritische Infrastruktur, Beschäftigtendaten.
-- **Provider QMS und Risikomanagement:** Prüft Anbieterpflichten für Hochrisiko-KI: QMS, Risikomanagement, Daten, Dokumentation, Logging, Transparenz und Human Oversight.
-- **Vertrags Lieferkettenintake:** Erfasst Lieferkette, RaaS-Vertrag, Wartung, Softwarelizenz, Cloud, Datenrechte, FOSS, Indemnity, Versicherung und Regressfenster.
-- **Produktakte GAP Analyse:** Führt Gap-Analyse der Produktakte durch: fehlende Nachweise, falsche Annahmen, ungeklärte Rollen, nicht belegte Standards.
-- **Risikobeurteilung EN ISO 12100:** Prüft Risikobeurteilung nach Stand der Technik: Grenzen, Gefährdungen, Risikominderung, Validierung und Restgefahren.
-- **KI VO Artikel 6 Hochrisiko Robotik:** Prüft Hochrisiko-KI nach Art. 6 KI-VO bei Sicherheitskomponente, Produktregime oder Anhang-III-Einsatz.
+- Einstieg Routing: Einstieg, Triage und Routing für Robotik-Recht: ordnet Rolle (Hersteller, Operator/Anwender, Geschädigte), markiert Frist (CE-Konformität vor Inverkehrbringen), wählt Norm (KI-VO, ProdSG/GPSR, ProdHaftG) und Zuständigkeit (KI-Aufsicht), le…
+- Anschluss Routing: Anschluss-Routing für Robotik-Recht: wählt den nächsten Spezial-Skill nach Engpass (CE-Konformität vor Inverkehrbringen, Konformitätserklärung, Risikobewertung, Bedienungsanleitung), dokumentiert Router-Entscheidung mit Begründung.
+- Risikoklassifizierung Schnelltest: Führt durch Risikoklassen: Maschine, Sicherheitsbauteil, Hochrisiko-KI, Medizinprodukt, Verbraucherprodukt, kritische Infrastruktur, Beschäftigtendaten.
+- Provider QMS und Risikomanagement: Prüft Anbieterpflichten für Hochrisiko-KI: QMS, Risikomanagement, Daten, Dokumentation, Logging, Transparenz und Human Oversight.
+- Vertrags Lieferkettenintake: Erfasst Lieferkette, RaaS-Vertrag, Wartung, Softwarelizenz, Cloud, Datenrechte, FOSS, Indemnity, Versicherung und Regressfenster.
+- Produktakte GAP Analyse: Führt Gap-Analyse der Produktakte durch: fehlende Nachweise, falsche Annahmen, ungeklärte Rollen, nicht belegte Standards.
+- Risikobeurteilung EN ISO 12100: Prüft Risikobeurteilung nach Stand der Technik: Grenzen, Gefährdungen, Risikominderung, Validierung und Restgefahren.
+- KI VO Artikel 6 Hochrisiko Robotik: Prüft Hochrisiko-KI nach Art. 6 KI-VO bei Sicherheitskomponente, Produktregime oder Anhang-III-Einsatz.
 
 ## Antwortform
 

@@ -11,52 +11,52 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `bautraegervertrag-pruefer` zu ein
 
 ## Werkstattlogik
 
-1. **Akteninventar**
+1. Akteninventar
    - Eingang: Welche Dateien, Parteien, Behörden, Gerichte, Verträge, Anträge, Fristen und Beträge sind vorhanden?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-2. **Rollenklärung**
+2. Rollenklärung
    - Eingang: Aus welcher Perspektive wird gearbeitet und welches Ergebnis soll am Ende stehen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-3. **Rechtsrahmen**
+3. Rechtsrahmen
    - Eingang: Welche Normen, Zuständigkeiten, Verfahren, Fristen und Beweislasten tragen den Fall?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-4. **Tatsachenmatrix**
+4. Tatsachenmatrix
    - Eingang: Welche Tatsachen sind belegt, streitig, nur behauptet oder noch offen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-5. **Prüfpfad**
+5. Prüfpfad
    - Eingang: Welche Tatbestandsmerkmale, Einwendungen, Ausnahmen und Anschlussfragen sind in richtiger Reihenfolge zu prüfen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-6. **Risikoampel**
+6. Risikoampel
    - Eingang: Welche Punkte sind sofort kritisch, welche sind heilbar, welche benötigen Live-Quelle oder Rückfrage?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-7. **Arbeitsprodukt**
+7. Arbeitsprodukt
    - Eingang: Welches konkrete Dokument wird geliefert: Memo, Schriftsatz, Tabelle, Checkliste, Klausel, Tenor, Antrag oder Antwortentwurf?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-8. **Gegenprüfung**
+8. Gegenprüfung
    - Eingang: Welche Gegenargumente, Beweisprobleme, Zuständigkeitsfragen und Fristfallen müssen vor Abgabe geprüft werden?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-9. **Quellenabgleich**
+9. Quellenabgleich
    - Eingang: Welche Normen und Entscheidungen werden vor Verwendung live aus amtlichen oder frei zugänglichen Quellen nachgezogen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-10. **Anschlussentscheidung**
+10. Anschlussentscheidung
    - Eingang: Was ist der nächste realistische Schritt: Rückfrage, Entwurf, Eskalation, Vergleich, Antrag, Fristnotiz oder Ablage?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
@@ -92,62 +92,62 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `bautraegervertrag-pruefer` zu ein
 
 ## Prüfraster oder Indizienliste
 
-1. **Workflow ONE Shot Verbraucherpruefung**
+1. Workflow ONE Shot Verbraucherpruefung
    - Fachlicher Fokus: One-Shot-Workflow für die verbraucherseitige Prüfung eines deutschen Bauträgervertrags: startet aus Vertrag oder Aktenordner, bildet Fall-Fingerabdruck, prüft MaBV, Paragraf 650u/Paragraf 650v BGB, Paragraf 650m Abs. 2 BGB, AGB, Bausoll, Abnahme, WEG, Insolvenzpfad und erzeugt drei fertige Dokumente.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-2. **Verbraucherbauvertrag 650i 650u Widerruf und Unterlagen**
+2. Verbraucherbauvertrag 650i 650u Widerruf und Unterlagen
    - Fachlicher Fokus: Trennt Verbraucherbauvertrag nach Paragraf 650i BGB vom Bauträgervertrag nach Paragraf 650u BGB: Paragraf 650l-Widerruf, Paragraf 650k Abs. 2/3 BGB, Paragraf 650n BGB, ParagrafParagraf 312 ff. BGB, Einzelgewerkvergabe und Paragraf 650f Abs. 6 BGB.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-3. **Bauzeit Verzug Vertragsstrafe und Hoehere Gewalt**
+3. Bauzeit Verzug Vertragsstrafe und Hoehere Gewalt
    - Fachlicher Fokus: Bauzeit- und Verzugsprüfung beim Bauträgervertrag: verbindlicher Termin, Bezugsfertigkeit, vollständige Fertigstellung, bauablaufbezogene Darlegung, Pandemie/Lieferketten/Wetter, Paragraf 313 BGB, Vertragsstrafe und Schadensersatz.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-4. **Beurkundung Verbraucherfrist Notar und Bezugsurkunden**
+4. Beurkundung Verbraucherfrist Notar und Bezugsurkunden
    - Fachlicher Fokus: Beurkundungs- und Notarprüfung beim Bauträgervertrag: Paragraf 311b BGB, Paragraf 17 BeurkG, Paragraf 13a BeurkG, Zwei-Wochen-Frist, Bezugsurkunden, Baubeschreibung, Pläne, Reservierung, Vorausleistung und notarielle Amtspflichten.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-5. **Fall Fingerabdruck und Schnelltriage**
+5. Fall Fingerabdruck und Schnelltriage
    - Fachlicher Fokus: Fall-Fingerabdruck für Bauträgerakten: extrahiert Urkunde, Verkäufer, Verbraucherrolle, Einheit, Kaufpreis, Raten, Sicherheiten, Baubeschreibung, Teilungserklärung, Technik, Baufortschritt, Abnahme- und Streitstand vor jeder Ampel.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-6. **Prozessstrategie Zahlung Feststellung und Vorschuss**
+6. Prozessstrategie Zahlung Feststellung und Vorschuss
    - Fachlicher Fokus: Entwickelt Prozessstrategie im Bauträgerstreit: Feststellung nicht fälliger Raten, Vorschuss nach Paragraf 637 BGB, Klage/Widerklage, Zahlung unter Vorbehalt, Beweislast, Sachverständige, Zinsen und Vergleich.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-7. **Verzugsschadenspositionen Berechnung und Zinsen**
+7. Verzugsschadenspositionen Berechnung und Zinsen
    - Fachlicher Fokus: Berechnet Verzugsschäden beim verspäteten Bauträgerprojekt: Ersatzwohnung, Umzug, Lager, Bereitstellungszinsen, doppelte Miete, Hotel, Nutzungsausfall, Vertragsstrafe, Paragraf 287 BGB/ZPO, Paragraf 291 BGB, Paragraf 289 BGB und Paragraf 308 ZPO.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-8. **Notarhaftung Belehrung und Streitverkuendung**
+8. Notarhaftung Belehrung und Streitverkuendung
    - Fachlicher Fokus: Prüft notarielle Amtspflichten im Bauträgervertrag: Paragraf 17 BeurkG, Paragraf 14 BNotO, Paragraf 19 BNotO, MaBV-/AGB-Klauselkontrolle, Preisanpassung, Paragraf 650m-Sicherheit, Niedrig-Grundstücksanteil, Bezugsurkunden und Streitverkündung.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-9. **Quellenhygiene Rechtsprechungsanker und Bughunt**
+9. Quellenhygiene Rechtsprechungsanker und Bughunt
    - Fachlicher Fokus: Quellen- und Bug-Hunt-Skill für Bauträgervertragsprüfungen: verifiziert Normenstand, BGH-/OLG-Rechtsprechung, MaBV, AGB, Paragraf 650u/Paragraf 650v BGB, Paragraf 650m Abs. 2 BGB, Abnahme, Schlussrate und verhindert BeckRS-/juris-Blindzitate.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-10. **Eigentumssicherung Vormerkung Lastenfreistellung und Insolvenz**
+10. Eigentumssicherung Vormerkung Lastenfreistellung und Insolvenz
    - Fachlicher Fokus: Eigentumssicherung beim Bauträgervertrag: Auflassungsvormerkung, Rang, Lastenfreistellung, Globalgrundschuld, Pfandfreigabe, Finanzierungsvollmacht, Paragraf 103/Paragraf 106 InsO, Paragraf 7 MaBV und Schutz vor Zahlung ohne Eigentumspfad.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-11. **Abnahme Gemeinschaftseigentum Schlussrate und Maengelrechte**
+11. Abnahme Gemeinschaftseigentum Schlussrate und Maengelrechte
    - Fachlicher Fokus: Abnahmeprüfung im Bauträgervertrag: Sondereigentum, Gemeinschaftseigentum, Vertreter-/Sachverständigenabnahme, Erstverwalter, Paragraf 640 BGB, Paragraf 634a BGB, Paragraf 3 Abs. 2 MaBV, Schlussrate, Verjährungsbeginn und Nachzügler.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-12. **Baugruppen GBR Beurkundung Mopeg und Mabv Abgrenzung**
+12. Baugruppen GBR Beurkundung Mopeg und Mabv Abgrenzung
    - Fachlicher Fokus: Prüft Baugruppen-GbR als Alternative zum Bauträgervertrag: Paragraf 311b BGB, ParagrafParagraf 705 ff. BGB nach MoPeG, WEG-Teilung, Beurkundungspflicht, Heilung, Bruchteilseigentum, Haftung, Nachschüsse und fehlende MaBV-Sicherung.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
@@ -155,13 +155,13 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `bautraegervertrag-pruefer` zu ein
 
 ## Antwortform
 
-- **Lagebild:** Wer will was von wem, seit wann, mit welcher Frist und welchem Risiko?
-- **Prüfung:** Normen, Tatbestandsmerkmale, Beweisfragen, Gegenargumente und Rechtsfolge in richtiger Reihenfolge.
-- **Empfehlung:** konkrete nächste Handlung, nicht nur abstrakte Rechtslage.
-- **Arbeitsprodukt:** gewünschtes Dokument vollständig ausformulieren; Tabellen nur dort einsetzen, wo sie schneller erfassbar sind.
-- **Schriftbild und Nummerierung:** Schriftsätze, Erwiderungen, Repliken, Memos, Verträge, Beschlüsse, Verfügungen und sonstige Enddokumente soweit technisch möglich in Times New Roman 11 pt ausgeben und ausschließlich dezimal gliedern (`1`, `1.1`, `1.1.1`). Bei reiner Markdown- oder Chat-Ausgabe den Formatwunsch als Exporthinweis aufnehmen.
-- **Quellen:** Normen konkret benennen, Rechtsprechung nur live verifiziert oder als Prüfbedarf markieren.
-- **Stop-Kriterien:** unklare Identität, laufende Notfrist, Straf-/Haftungsrisiko, Datenschutzproblem, Interessenkollision oder fehlende Akte.
+- Lagebild: Wer will was von wem, seit wann, mit welcher Frist und welchem Risiko?
+- Prüfung: Normen, Tatbestandsmerkmale, Beweisfragen, Gegenargumente und Rechtsfolge in richtiger Reihenfolge.
+- Empfehlung: konkrete nächste Handlung, nicht nur abstrakte Rechtslage.
+- Arbeitsprodukt: gewünschtes Dokument vollständig ausformulieren; Tabellen nur dort einsetzen, wo sie schneller erfassbar sind.
+- Schriftbild und Nummerierung: Schriftsätze, Erwiderungen, Repliken, Memos, Verträge, Beschlüsse, Verfügungen und sonstige Enddokumente soweit technisch möglich in Times New Roman 11 pt ausgeben und ausschließlich dezimal gliedern (`1`, `1.1`, `1.1.1`). Bei reiner Markdown- oder Chat-Ausgabe den Formatwunsch als Exporthinweis aufnehmen.
+- Quellen: Normen konkret benennen, Rechtsprechung nur live verifiziert oder als Prüfbedarf markieren.
+- Stop-Kriterien: unklare Identität, laufende Notfrist, Straf-/Haftungsrisiko, Datenschutzproblem, Interessenkollision oder fehlende Akte.
 
 ## Eigenheiten dieses Plugins
 

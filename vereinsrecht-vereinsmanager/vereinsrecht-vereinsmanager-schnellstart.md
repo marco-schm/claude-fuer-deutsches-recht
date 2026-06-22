@@ -33,14 +33,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Kaltstart Triage:** Einstieg und Routing für Gründung, Satzung, Vorstand, Mitgliederversammlung, Register, Gemeinnützigkeit, Finanzen, Haftung, Konflikte und Auflösung.
-- **Ruecklagen Mittelverwendung Rundbrief:** Erklärt zeitnahe Mittelverwendung, freie Rücklage, Projektrücklage, Vermögensbindung und Nachweis im Vereinsrecht Vereinsmanager.
-- **Registergericht Rueckfrage:** Beantwortet Zwischenverfügung oder Rückfrage des Vereinsregisters mit Anlagen und Korrekturpfad im Vereinsrecht Vereinsmanager.
-- **Gemeinnuetzigkeit Antrag:** Bereitet Satzungsprüfung, Feststellung nach AO, Finanzamt-Kommunikation und Zuwendungsbestätigungen vor im Vereinsrecht Vereinsmanager.
-- **Konflikt im Verein:** Moderiert Streit: Vorstand vs. Mitglieder, Akteneinsicht, Sonderversammlung, Abwahl, Ausschluss und Vergleich im Vereinsrecht Vereinsmanager.
-- **Verein ALS Zweckbetrieb Anfechtung Beschluss:** Routet Minijob, Übungsleiter, Ehrenamtspauschale, Arbeitsvertrag, Sozialversicherung und Lohnsteuer im Vereinsrecht Vereinsmanager.
-- **Sonderversammlung Minderheit:** Prüft Minderheitenverlangen, Einberufung durch Mitglieder, Tagesordnung und gerichtliche Hilfe im Vereinsrecht Vereinsmanager.
-- **Mitgliederversammlung Einberufung:** Erstellt Einladung, Fristcheck, Tagesordnung, Beschlussgegenstände und Versandnachweis im Vereinsrecht Vereinsmanager.
+- Kaltstart Triage: Einstieg und Routing für Gründung, Satzung, Vorstand, Mitgliederversammlung, Register, Gemeinnützigkeit, Finanzen, Haftung, Konflikte und Auflösung.
+- Ruecklagen Mittelverwendung Rundbrief: Erklärt zeitnahe Mittelverwendung, freie Rücklage, Projektrücklage, Vermögensbindung und Nachweis im Vereinsrecht Vereinsmanager.
+- Registergericht Rueckfrage: Beantwortet Zwischenverfügung oder Rückfrage des Vereinsregisters mit Anlagen und Korrekturpfad im Vereinsrecht Vereinsmanager.
+- Gemeinnuetzigkeit Antrag: Bereitet Satzungsprüfung, Feststellung nach AO, Finanzamt-Kommunikation und Zuwendungsbestätigungen vor im Vereinsrecht Vereinsmanager.
+- Konflikt im Verein: Moderiert Streit: Vorstand vs. Mitglieder, Akteneinsicht, Sonderversammlung, Abwahl, Ausschluss und Vergleich im Vereinsrecht Vereinsmanager.
+- Verein ALS Zweckbetrieb Anfechtung Beschluss: Routet Minijob, Übungsleiter, Ehrenamtspauschale, Arbeitsvertrag, Sozialversicherung und Lohnsteuer im Vereinsrecht Vereinsmanager.
+- Sonderversammlung Minderheit: Prüft Minderheitenverlangen, Einberufung durch Mitglieder, Tagesordnung und gerichtliche Hilfe im Vereinsrecht Vereinsmanager.
+- Mitgliederversammlung Einberufung: Erstellt Einladung, Fristcheck, Tagesordnung, Beschlussgegenstände und Versandnachweis im Vereinsrecht Vereinsmanager.
 
 ## Antwortform
 

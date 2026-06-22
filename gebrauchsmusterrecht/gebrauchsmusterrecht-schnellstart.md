@@ -32,14 +32,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Kaltstart Triage:** Einstieg, Schnelltriage und Fallrouting im Gebrauchsmusterrecht: klärt technische Lehre, Offenbarung, Anmeldung, Abzweigung, Recherche, Registerstand, Verletzung, Löschung und passende Fachmodule.
-- **Lizenzvertrag Gebrauchsmuster:** Gebrauchsmusterlizenz prüfen oder entwerfen: Schutzrecht, Know-how, Territory, Field of Use, Royalty, Audit, Rechtsbestand, Kündigung und Nichtigkeitsrisiko im Gebrauchsmusterrecht.
-- **Einstweilige Verfuegung FTO Schutzbereich:** Einstweilige Verfügung aus Gebrauchsmuster vorbereiten oder abwehren: Dringlichkeit, Rechtsbestand, Recherche, Verletzung, Glaubhaftmachung und Vollziehung im Gebrauchsmusterrecht.
-- **Registerstand Aufrechterhaltung Lizenzvertrag:** Registerstand, Fälligkeiten und Aufrechterhaltung prüfen: DPMAregister, Laufzeit, Gebühren, Umschreibung, Löschung, Fristen und Portfolioüberwachung im Gebrauchsmusterrecht.
-- **Mandantenmemo Gebrauchsmusterstrategie:** Mandantenmemo zur Gebrauchsmusterstrategie: Schnellschutz, Rechtsbestandsrisiko, Kosten, Fristen, Patentbezug, Durchsetzung und nächste Schritte im Gebrauchsmusterrecht.
-- **Klageantraege Verletzung:** Klageanträge bei Gebrauchsmusterverletzung bauen: Unterlassung, Auskunft, Rechnungslegung, Vernichtung, Rückruf und Schadensersatzfeststellung im Gebrauchsmusterrecht.
-- **Gebrauchsmuster Kaltstart Interview:** Geführtes Kaltstart-Interview für Gebrauchsmuster: Erfindung, Unterlagen, Veröffentlichung, Patentfamilie, Stand der Technik, Gegner, Budget und gewünschter Output.
-- **Beschwerde Bpatg Besichtigung Beschlagnahme:** Beschwerde zum Bundespatentgericht im Gebrauchsmusterrecht prüfen: Beschwerdegegenstand, Fristen, Begründung, neue Belege und Kostenrisiko im Gebrauchsmusterrecht.
+- Kaltstart Triage: Einstieg, Schnelltriage und Fallrouting im Gebrauchsmusterrecht: klärt technische Lehre, Offenbarung, Anmeldung, Abzweigung, Recherche, Registerstand, Verletzung, Löschung und passende Fachmodule.
+- Lizenzvertrag Gebrauchsmuster: Gebrauchsmusterlizenz prüfen oder entwerfen: Schutzrecht, Know-how, Territory, Field of Use, Royalty, Audit, Rechtsbestand, Kündigung und Nichtigkeitsrisiko im Gebrauchsmusterrecht.
+- Einstweilige Verfuegung FTO Schutzbereich: Einstweilige Verfügung aus Gebrauchsmuster vorbereiten oder abwehren: Dringlichkeit, Rechtsbestand, Recherche, Verletzung, Glaubhaftmachung und Vollziehung im Gebrauchsmusterrecht.
+- Registerstand Aufrechterhaltung Lizenzvertrag: Registerstand, Fälligkeiten und Aufrechterhaltung prüfen: DPMAregister, Laufzeit, Gebühren, Umschreibung, Löschung, Fristen und Portfolioüberwachung im Gebrauchsmusterrecht.
+- Mandantenmemo Gebrauchsmusterstrategie: Mandantenmemo zur Gebrauchsmusterstrategie: Schnellschutz, Rechtsbestandsrisiko, Kosten, Fristen, Patentbezug, Durchsetzung und nächste Schritte im Gebrauchsmusterrecht.
+- Klageantraege Verletzung: Klageanträge bei Gebrauchsmusterverletzung bauen: Unterlassung, Auskunft, Rechnungslegung, Vernichtung, Rückruf und Schadensersatzfeststellung im Gebrauchsmusterrecht.
+- Gebrauchsmuster Kaltstart Interview: Geführtes Kaltstart-Interview für Gebrauchsmuster: Erfindung, Unterlagen, Veröffentlichung, Patentfamilie, Stand der Technik, Gegner, Budget und gewünschter Output.
+- Beschwerde Bpatg Besichtigung Beschlagnahme: Beschwerde zum Bundespatentgericht im Gebrauchsmusterrecht prüfen: Beschwerdegegenstand, Fristen, Begründung, neue Belege und Kostenrisiko im Gebrauchsmusterrecht.
 
 ## Antwortform
 

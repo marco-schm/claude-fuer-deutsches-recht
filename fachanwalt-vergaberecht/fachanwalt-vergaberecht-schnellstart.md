@@ -31,19 +31,19 @@ Pflichtnormen aus dem Plugin-Material:
 - Paragraf 280 und 311 BGB
 - Paragraf 43a BRAO
 Leitentscheidungen nur nach Live-Prüfung verwenden:
-- EuGH 11.06.2009, C-300/07 (Hans & Christophorus Oymanns)**: Begriff des oeffentlichen Auftraggebers nach RL 2004/18; Krankenkassen als Einrichtungen oeffentlichen Rechts
-- EuGH 19.12.2018, C-216/17 (Coopservice)**: Ausschreibungspflicht Rahmenvereinbarungen; Volumenbegrenzungen zwingend
+- EuGH 11.06.2009, C-300/07 (Hans & Christophorus Oymanns): Begriff des oeffentlichen Auftraggebers nach RL 2004/18; Krankenkassen als Einrichtungen oeffentlichen Rechts
+- EuGH 19.12.2018, C-216/17 (Coopservice): Ausschreibungspflicht Rahmenvereinbarungen; Volumenbegrenzungen zwingend
 
 ## Kernmodule
 
-- **Fachanwalt Vergaberecht DE Facto Vergabe Klage:** De-facto-Vergabe ohne Ausschreibung angreifen: Bieter stellt fest dass öffentlicher Auftraggeber Auftrag direkt vergeben hat. Normen: Paragraf 135 GWB (Unwirksamkeit), ParagrafParagraf 160 ff. GWB (Nachprüfungsantrag VK), Paragraf 132 GWB…
-- **Fachanwalt Vergaberecht Nachpruefungsantrag VK:** Nachprüfungsantrag bei der Vergabekammer nach ParagrafParagraf 160 ff. GWB stellen: Bieter ist unzulässig ausgeschlossen worden oder Zuschlag soll verhindert werden. Normen: Paragraf 160 Abs. 1 GWB (Nachprüfungsantrag), Paragraf 160 Abs. 2…
-- **Fachanwalt Vergaberecht OLG Sofortige Beschwerde:** Sofortige Beschwerde gegen VK-Entscheidung beim OLG-Vergabesenat erstellen: Bieter oder Auftraggeber will VK-Beschluss angreifen oder verteidigen. Normen: ParagrafParagraf 171-184 GWB (Beschwerde), Paragraf 172 GWB (Frist zwei Wochen ab Zu…
-- **Konzvgv Risikoampel und Gegenargumente:** Konzvgv: Risikoampel, Gegenargumente und Verteidigungslinien: Konzvgv: Risikoampel, Gegenargumente und Verteidigungslinien.
-- **Architektenrecht Compliance Dokumentation und Akte:** Architektenrecht: Compliance-Dokumentation und Aktenvermerk: Architektenrecht: Compliance-Dokumentation und Aktenvermerk.
-- **Erstpruefung und Mandatsziel:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
-- **Vergabe Behoerden Gericht und Registerweg:** Vergabe: Behörden-, Gerichts- oder Registerweg: Vergabe: Behörden-, Gerichts- oder Registerweg.
-- **Einstieg Routing:** Einstieg, Triage und Routing für Fachanwalt Vergaberecht: ordnet Rolle (Bieter, Öffentlicher Auftraggeber, Vergabekammer), markiert Frist (Paragraf 160 III GWB Rüge unverzüglich (10 Tage)), wählt Norm (GWB ParagrafParagraf 97 ff., VgV, VOB…
+- Fachanwalt Vergaberecht DE Facto Vergabe Klage: De-facto-Vergabe ohne Ausschreibung angreifen: Bieter stellt fest dass öffentlicher Auftraggeber Auftrag direkt vergeben hat. Normen: Paragraf 135 GWB (Unwirksamkeit), ParagrafParagraf 160 ff. GWB (Nachprüfungsantrag VK), Paragraf 132 GWB…
+- Fachanwalt Vergaberecht Nachpruefungsantrag VK: Nachprüfungsantrag bei der Vergabekammer nach ParagrafParagraf 160 ff. GWB stellen: Bieter ist unzulässig ausgeschlossen worden oder Zuschlag soll verhindert werden. Normen: Paragraf 160 Abs. 1 GWB (Nachprüfungsantrag), Paragraf 160 Abs. 2…
+- Fachanwalt Vergaberecht OLG Sofortige Beschwerde: Sofortige Beschwerde gegen VK-Entscheidung beim OLG-Vergabesenat erstellen: Bieter oder Auftraggeber will VK-Beschluss angreifen oder verteidigen. Normen: ParagrafParagraf 171-184 GWB (Beschwerde), Paragraf 172 GWB (Frist zwei Wochen ab Zu…
+- Konzvgv Risikoampel und Gegenargumente: Konzvgv: Risikoampel, Gegenargumente und Verteidigungslinien: Konzvgv: Risikoampel, Gegenargumente und Verteidigungslinien.
+- Architektenrecht Compliance Dokumentation und Akte: Architektenrecht: Compliance-Dokumentation und Aktenvermerk: Architektenrecht: Compliance-Dokumentation und Aktenvermerk.
+- Erstpruefung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
+- Vergabe Behoerden Gericht und Registerweg: Vergabe: Behörden-, Gerichts- oder Registerweg: Vergabe: Behörden-, Gerichts- oder Registerweg.
+- Einstieg Routing: Einstieg, Triage und Routing für Fachanwalt Vergaberecht: ordnet Rolle (Bieter, Öffentlicher Auftraggeber, Vergabekammer), markiert Frist (Paragraf 160 III GWB Rüge unverzüglich (10 Tage)), wählt Norm (GWB ParagrafParagraf 97 ff., VgV, VOB…
 
 ## Antwortform
 

@@ -30,14 +30,14 @@ Praxisplugin für Aufsichtsräte in AG und SE: Überwachung, Informationsrechte,
 
 ## Kernmodule
 
-- **Mandatsannahme Interessenkonflikt MAR:** AG/SE-Aufsichtsrat Praxis: Mandatsannahme Und Interessenkonflikt; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis.
-- **SE Risikomanagement Beteiligungsvereinbarung:** AG/SE-Aufsichtsrat Praxis: Risikomanagement Und Compliance; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis.
-- **Jahresabschluss Checkliste:** AG/SE-Aufsichtsrat Praxis: Jahresabschluss Checkliste; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis.
-- **Risikoampel Vorlage:** AG/SE-Aufsichtsrat Praxis: Risikoampel Vorlage; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis.
-- **Exkulpationsakte:** AG/SE-Aufsichtsrat Praxis: Exkulpationsakte; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis.
-- **Vorstandsvertrag Managerhaftung Regress:** AG/SE-Aufsichtsrat Praxis: Vorstandsvertrag; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis.
-- **Kaltstart Routing:** AG/SE-Aufsichtsrat Praxis: Allgemein Kaltstart. Liefert Norm-Pinpoints, Prüfachsen, Red Flags, Varianten und konkrete Output-Bausteine zum Slug-Thema im Aufsichtsrat Ag Se Praxis.
-- **Europaeische Gruppe Exkulpationsakte:** AG/SE-Aufsichtsrat Praxis: Europaeische Gruppe; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis.
+- Mandatsannahme Interessenkonflikt MAR: AG/SE-Aufsichtsrat Praxis: Mandatsannahme Und Interessenkonflikt; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis.
+- SE Risikomanagement Beteiligungsvereinbarung: AG/SE-Aufsichtsrat Praxis: Risikomanagement Und Compliance; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis.
+- Jahresabschluss Checkliste: AG/SE-Aufsichtsrat Praxis: Jahresabschluss Checkliste; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis.
+- Risikoampel Vorlage: AG/SE-Aufsichtsrat Praxis: Risikoampel Vorlage; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis.
+- Exkulpationsakte: AG/SE-Aufsichtsrat Praxis: Exkulpationsakte; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis.
+- Vorstandsvertrag Managerhaftung Regress: AG/SE-Aufsichtsrat Praxis: Vorstandsvertrag; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis.
+- Kaltstart Routing: AG/SE-Aufsichtsrat Praxis: Allgemein Kaltstart. Liefert Norm-Pinpoints, Prüfachsen, Red Flags, Varianten und konkrete Output-Bausteine zum Slug-Thema im Aufsichtsrat Ag Se Praxis.
+- Europaeische Gruppe Exkulpationsakte: AG/SE-Aufsichtsrat Praxis: Europaeische Gruppe; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis.
 
 ## Antwortform
 

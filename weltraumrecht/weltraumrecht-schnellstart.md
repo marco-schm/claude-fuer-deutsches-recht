@@ -30,14 +30,14 @@ Großes Plugin für deutsches, europäisches und internationales Weltraumrecht: 
 
 ## Kernmodule
 
-- **Kaltstart Triage:** Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext…
-- **Space 056 Raumfahrtvertrag Launch Provider Launch Services:** Weltraumrecht: Raumfahrtvertrag mit Startdienstleister Launch Services Agreement mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
-- **Space 023 Astronauten Vertrag Haftung Versicherung Fuersorge:** Weltraumrecht: Astronautenausbildung Vertrag Haftung Versicherung und Fürsorge mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
-- **Space 006 Mondvertrag Ressourcen Governance Politik Akzeptanz:** Weltraumrecht: Mondvertrag Ressourcen Governance und politische Akzeptanz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
-- **Space 037 ESA Vertrag Programmbeitraege Industrie Rueckfluss:** Weltraumrecht: ESA-Vertrag Programmbeiträge und industrielle Rückflüsse mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
-- **Space 001 Kaltstart Weltraummandat Quellenkarte Risiko:** Weltraumrecht: Kaltstart Weltraummandat Quellenkarte und Risikocockpit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
-- **Space 057 Nutzlastvertrag Payload Integration und Schnittstellen:** Weltraumrecht: Nutzlastvertrag Payload Integration und Schnittstellen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
-- **Space 096 Post Mission Aktenabschluss und Lessons Learned:** Weltraumrecht: Post-Mission Aktenabschluss und Lessons Learned mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+- Kaltstart Triage: Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext…
+- Space 056 Raumfahrtvertrag Launch Provider Launch Services: Weltraumrecht: Raumfahrtvertrag mit Startdienstleister Launch Services Agreement mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+- Space 023 Astronauten Vertrag Haftung Versicherung Fuersorge: Weltraumrecht: Astronautenausbildung Vertrag Haftung Versicherung und Fürsorge mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+- Space 006 Mondvertrag Ressourcen Governance Politik Akzeptanz: Weltraumrecht: Mondvertrag Ressourcen Governance und politische Akzeptanz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+- Space 037 ESA Vertrag Programmbeitraege Industrie Rueckfluss: Weltraumrecht: ESA-Vertrag Programmbeiträge und industrielle Rückflüsse mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+- Space 001 Kaltstart Weltraummandat Quellenkarte Risiko: Weltraumrecht: Kaltstart Weltraummandat Quellenkarte und Risikocockpit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+- Space 057 Nutzlastvertrag Payload Integration und Schnittstellen: Weltraumrecht: Nutzlastvertrag Payload Integration und Schnittstellen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+- Space 096 Post Mission Aktenabschluss und Lessons Learned: Weltraumrecht: Post-Mission Aktenabschluss und Lessons Learned mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 ## Antwortform
 

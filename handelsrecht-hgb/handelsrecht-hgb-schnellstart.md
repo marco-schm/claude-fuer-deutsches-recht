@@ -35,14 +35,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Kaltstart Triage:** Einstieg, Schnelltriage und Skill-Routing für HGB-Fälle: Kaufmann, Register, Firma, Vertretung, Handelsgeschäft, OHG/KG, Handelskauf und Handelsbücher.
-- **Frachtvertrag Paragraphen Speditionsvertrag:** Prüft Frachtvertrag, Frachtbrief, Haftung, Verlust/Beschädigung, Lieferfrist und Haftungsgrenzen im Handelsrecht Hgb.
-- **Handelskauf Fristenampel HGB:** Macht Fristenampel für Rüge, Lieferung, Fixgeschäft, Annahmeverzug, Verjährung und Beweise im Handelsrecht Hgb.
-- **Registerbeanstandung und Beschwerde:** Prüft Zwischenverfügung, Beanstandung, Nachbesserung und Beschwerde gegen Registergericht im Handelsrecht Hgb.
-- **Register Gutachten Klage:** Erstellt Registeranmeldungsskizze, Gutachten, Klagebaustein, Rügebrief, Protokoll oder Mandantenbrief.
-- **Registerakte Handelsstreit:** Sortiert Registerauszüge, Gesellschafterlisten, Vollmachten, Notarentwürfe und Beanstandungen im Handelsrecht Hgb.
-- **Workflow HGB Erstpruefung:** Prüft in fünf Schritten, ob ein HGB-Fall vorliegt und welche Sonderregeln das BGB überlagern im Handelsrecht Hgb.
-- **Workflow Verhandlung Handelsstreit:** Macht Verhandlungsplan bei Liefer-, Register-, Handelsvertreter- oder Gesellschafterstreit im Handelsrecht Hgb.
+- Kaltstart Triage: Einstieg, Schnelltriage und Skill-Routing für HGB-Fälle: Kaufmann, Register, Firma, Vertretung, Handelsgeschäft, OHG/KG, Handelskauf und Handelsbücher.
+- Frachtvertrag Paragraphen Speditionsvertrag: Prüft Frachtvertrag, Frachtbrief, Haftung, Verlust/Beschädigung, Lieferfrist und Haftungsgrenzen im Handelsrecht Hgb.
+- Handelskauf Fristenampel HGB: Macht Fristenampel für Rüge, Lieferung, Fixgeschäft, Annahmeverzug, Verjährung und Beweise im Handelsrecht Hgb.
+- Registerbeanstandung und Beschwerde: Prüft Zwischenverfügung, Beanstandung, Nachbesserung und Beschwerde gegen Registergericht im Handelsrecht Hgb.
+- Register Gutachten Klage: Erstellt Registeranmeldungsskizze, Gutachten, Klagebaustein, Rügebrief, Protokoll oder Mandantenbrief.
+- Registerakte Handelsstreit: Sortiert Registerauszüge, Gesellschafterlisten, Vollmachten, Notarentwürfe und Beanstandungen im Handelsrecht Hgb.
+- Workflow HGB Erstpruefung: Prüft in fünf Schritten, ob ein HGB-Fall vorliegt und welche Sonderregeln das BGB überlagern im Handelsrecht Hgb.
+- Workflow Verhandlung Handelsstreit: Macht Verhandlungsplan bei Liefer-, Register-, Handelsvertreter- oder Gesellschafterstreit im Handelsrecht Hgb.
 
 ## Antwortform
 

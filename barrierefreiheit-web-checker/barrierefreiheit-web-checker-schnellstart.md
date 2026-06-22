@@ -31,14 +31,14 @@ Pflichtnormen aus dem Plugin-Material:
 
 ## Kernmodule
 
-- **Wcag Risikoampel und Gegenargumente:** Wcag: Risikoampel, Gegenargumente und Verteidigungslinien.
-- **Pdfs Compliance Dokumentation und Akte:** Pdfs: Compliance-Dokumentation und Aktenvermerk.
-- **Schulung Fristennotiz und Naechster Schritt:** Schulung: Fristennotiz und nächster Schritt.
-- **Einstieg Routing:** Einstieg, Triage und Routing für Barrierefreiheit Web BFSG/WCAG: ordnet Rolle (Betreiber Website/App, Aufsichtsbehörde, Nutzer mit Behinderung), markiert Frist (Gilt ab 28.06.2025), wählt Norm (BFSG, BFSG-Verordnung, WCAG 2.1 AA) und Zustä…
-- **Start Chronologie Fristen:** Kaltstart, Scope und Fallrouting für digitale Barrierefreiheit. Fragt Website App Webshop öffentliche Stelle BFSG BITV EN 301 549 WCAG Zielgruppe Audit-Tiefe und Output ab, schlägt passende Skills vor und startet mit Prüfplan im Barrierefr…
-- **Anschluss Routing:** Anschluss-Routing für Barrierefreiheit Web BFSG/WCAG: wählt den nächsten Spezial-Skill nach Engpass (Gilt ab 28.06.2025, Konformitätserklärung, Auditbericht, Screenshots), dokumentiert Router-Entscheidung mit Begründung.
-- **Workflow Kaltstart und Routing:** Kaltstart und Routing im Plugin barrierefreiheit-web-checker: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
-- **Workflow Fristen und Risikoampel:** Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Barrierefreiheit Web Checker.
+- Wcag Risikoampel und Gegenargumente: Wcag: Risikoampel, Gegenargumente und Verteidigungslinien.
+- Pdfs Compliance Dokumentation und Akte: Pdfs: Compliance-Dokumentation und Aktenvermerk.
+- Schulung Fristennotiz und Naechster Schritt: Schulung: Fristennotiz und nächster Schritt.
+- Einstieg Routing: Einstieg, Triage und Routing für Barrierefreiheit Web BFSG/WCAG: ordnet Rolle (Betreiber Website/App, Aufsichtsbehörde, Nutzer mit Behinderung), markiert Frist (Gilt ab 28.06.2025), wählt Norm (BFSG, BFSG-Verordnung, WCAG 2.1 AA) und Zustä…
+- Start Chronologie Fristen: Kaltstart, Scope und Fallrouting für digitale Barrierefreiheit. Fragt Website App Webshop öffentliche Stelle BFSG BITV EN 301 549 WCAG Zielgruppe Audit-Tiefe und Output ab, schlägt passende Skills vor und startet mit Prüfplan im Barrierefr…
+- Anschluss Routing: Anschluss-Routing für Barrierefreiheit Web BFSG/WCAG: wählt den nächsten Spezial-Skill nach Engpass (Gilt ab 28.06.2025, Konformitätserklärung, Auditbericht, Screenshots), dokumentiert Router-Entscheidung mit Begründung.
+- Workflow Kaltstart und Routing: Kaltstart und Routing im Plugin barrierefreiheit-web-checker: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+- Workflow Fristen und Risikoampel: Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Barrierefreiheit Web Checker.
 
 ## Antwortform
 

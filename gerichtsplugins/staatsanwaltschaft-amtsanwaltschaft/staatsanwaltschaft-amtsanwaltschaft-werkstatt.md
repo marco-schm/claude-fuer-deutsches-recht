@@ -11,52 +11,52 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `staatsanwaltschaft-amtsanwaltscha
 
 ## Werkstattlogik
 
-1. **Akteninventar**
+1. Akteninventar
    - Eingang: Welche Dateien, Parteien, Behörden, Gerichte, Verträge, Anträge, Fristen und Beträge sind vorhanden?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-2. **Rollenklärung**
+2. Rollenklärung
    - Eingang: Aus welcher Perspektive wird gearbeitet und welches Ergebnis soll am Ende stehen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-3. **Rechtsrahmen**
+3. Rechtsrahmen
    - Eingang: Welche Normen, Zuständigkeiten, Verfahren, Fristen und Beweislasten tragen den Fall?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-4. **Tatsachenmatrix**
+4. Tatsachenmatrix
    - Eingang: Welche Tatsachen sind belegt, streitig, nur behauptet oder noch offen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-5. **Prüfpfad**
+5. Prüfpfad
    - Eingang: Welche Tatbestandsmerkmale, Einwendungen, Ausnahmen und Anschlussfragen sind in richtiger Reihenfolge zu prüfen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-6. **Risikoampel**
+6. Risikoampel
    - Eingang: Welche Punkte sind sofort kritisch, welche sind heilbar, welche benötigen Live-Quelle oder Rückfrage?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-7. **Arbeitsprodukt**
+7. Arbeitsprodukt
    - Eingang: Welches konkrete Dokument wird geliefert: Memo, Schriftsatz, Tabelle, Checkliste, Klausel, Tenor, Antrag oder Antwortentwurf?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-8. **Gegenprüfung**
+8. Gegenprüfung
    - Eingang: Welche Gegenargumente, Beweisprobleme, Zuständigkeitsfragen und Fristfallen müssen vor Abgabe geprüft werden?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-9. **Quellenabgleich**
+9. Quellenabgleich
    - Eingang: Welche Normen und Entscheidungen werden vor Verwendung live aus amtlichen oder frei zugänglichen Quellen nachgezogen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-10. **Anschlussentscheidung**
+10. Anschlussentscheidung
    - Eingang: Was ist der nächste realistische Schritt: Rückfrage, Entwurf, Eskalation, Vergleich, Antrag, Fristnotiz oder Ablage?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
@@ -96,62 +96,62 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `staatsanwaltschaft-amtsanwaltscha
 
 ## Prüfraster oder Indizienliste
 
-1. **26 Opferschutz Nebenklage und Verletztenrechte**
+1. 26 Opferschutz Nebenklage und Verletztenrechte
    - Fachlicher Fokus: Opferschutzpflichten der Staatsanwaltschaft (Paragrafen 406d bis 406l StPO), Anschluss als Nebenklaeger (Paragrafen 395 bis 402 StPO), opferschutzrechtliche Belehrung, psychosoziale Prozessbegleitung (Paragraf 406g StPO), Akteneinsicht des Verletzten (Paragraf 406e StPO)
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-2. **24 Abschlussverfuegung und Entscheidungsvorschlag**
+2. 24 Abschlussverfuegung und Entscheidungsvorschlag
    - Fachlicher Fokus: Strukturierte Abschlussverfuegung des Dezernats: Gesamtwuerdigung des Ermittlungsergebnisses, Entscheidung zwischen Anklage, Strafbefehl, Einstellung und Massregel, Verfuegungstechnik, Risikohinweise, ausdrueckliche Markierung als Vorschlag
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-3. **13 Strafbefehlsantrag Paragraf 407**
+3. 13 Strafbefehlsantrag Paragraf 407
    - Fachlicher Fokus: Antrag auf Erlass eines Strafbefehls (Paragrafen 407 bis 408a StPO), zulaessige Rechtsfolgen (Paragraf 407 Abs. 2), Tatkonkretisierung, hinreichender Tatverdacht ohne Hauptverhandlung, Einspruch (Paragraf 410)
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-4. **15 Antrag Beschleunigtes Verfahren Paragraf 417**
+4. 15 Antrag Beschleunigtes Verfahren Paragraf 417
    - Fachlicher Fokus: Antrag im beschleunigten Verfahren (Paragrafen 417 bis 420 StPO), Eignung wegen einfachen Sachverhalts oder klarer Beweislage, Rechtsfolgenbegrenzung (Paragraf 419 StPO), muendlicher oder schriftlicher Antrag
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-5. **05 Haftbefehlsantrag und Untersuchungshaft**
+5. 05 Haftbefehlsantrag und Untersuchungshaft
    - Fachlicher Fokus: Antrag auf Erlass eines Haftbefehls (Paragrafen 112 und 112a und 114 StPO), dringender Tatverdacht, Haftgruende, Verhaeltnismaessigkeit (Paragraf 112 Abs. 1 Satz 2), Haftverschonung (Paragraf 116 StPO)
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-6. **23 Klageerzwingung und Beschwerdebescheid Paragraf 172**
+6. 23 Klageerzwingung und Beschwerdebescheid Paragraf 172
    - Fachlicher Fokus: Bescheid auf Beschwerde des Anzeigeerstatters (Paragraf 171 StPO), Vorschaltbeschwerde und Klageerzwingungsverfahren (Paragraf 172 StPO), Begruendungsanforderungen, Vorlage an Generalstaatsanwaltschaft
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-7. **14 Anklageschrift Paragraf 200**
+7. 14 Anklageschrift Paragraf 200
    - Fachlicher Fokus: Abfassung der Anklageschrift (Paragraf 200 StPO), Anklagesatz mit Umgrenzungs- und Informationsfunktion, wesentliches Ergebnis der Ermittlungen, Beweismittelverzeichnis, Antrag auf Eroeffnung
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-8. **04 Durchsuchung und Beschlagnahme Antrag**
+8. 04 Durchsuchung und Beschlagnahme Antrag
    - Fachlicher Fokus: Antrag auf richterliche Anordnung der Durchsuchung (Paragrafen 102 bis 105 StPO) und Beschlagnahme (Paragrafen 94 bis 98 StPO), Verhaeltnismaessigkeit, Gefahr im Verzug, Richtervorbehalt
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-9. **01 Akte Erstdurchsicht und Anfangsverdacht**
+9. 01 Akte Erstdurchsicht und Anfangsverdacht
    - Fachlicher Fokus: Strukturierte Erstdurchsicht des Ermittlungsvorgangs: Anzeige, Tatvorwurf, zureichende tatsaechliche Anhaltspunkte (Paragraf 152 Abs. 2 StPO), Beschuldigtenstatus, Verjaehrung, erste Ermittlungsrichtung nach Paragraf 160 StPO
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-10. **27 Wiederaufnahme Zuungunsten Paragraf 362**
+10. 27 Wiederaufnahme Zuungunsten Paragraf 362
    - Fachlicher Fokus: Antrag der Staatsanwaltschaft auf Wiederaufnahme zuungunsten des Verurteilten oder Freigesprochenen (Paragraf 362 StPO), Pruefungsschema der Wiederaufnahmegruende, formale Anforderungen (Paragraf 366 StPO), Verfahren nach Paragrafen 367 bis 373a StPO
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-11. **25 Adhaesionsverfahren Paragraf 403**
+11. 25 Adhaesionsverfahren Paragraf 403
    - Fachlicher Fokus: Adhaesionsantrag des Verletzten im Strafverfahren (Paragrafen 403 bis 406c StPO), Pruefung der Zulaessigkeit und Eignung zur Mitverhandlung, Abtrennung nach Paragraf 406 Abs. 1 Satz 6 StPO, Schnittstelle zum Opferschutz und zur Verfahrensoekonomie
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-12. **21 Rechtsmittel der Staatsanwaltschaft**
+12. 21 Rechtsmittel der Staatsanwaltschaft
    - Fachlicher Fokus: Rechtsmittel der Staatsanwaltschaft: Berufung (Paragrafen 312 ff. StPO), Revision (Paragrafen 333 ff. StPO), Beschwerde (Paragrafen 304 ff. StPO), zugunsten und zuungunsten des Angeklagten (Paragraf 296 Abs. 2 StPO), Fristen und Begruendung
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
@@ -159,13 +159,13 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `staatsanwaltschaft-amtsanwaltscha
 
 ## Antwortform
 
-- **Lagebild:** Wer will was von wem, seit wann, mit welcher Frist und welchem Risiko?
-- **Prüfung:** Normen, Tatbestandsmerkmale, Beweisfragen, Gegenargumente und Rechtsfolge in richtiger Reihenfolge.
-- **Empfehlung:** konkrete nächste Handlung, nicht nur abstrakte Rechtslage.
-- **Arbeitsprodukt:** gewünschtes Dokument vollständig ausformulieren; Tabellen nur dort einsetzen, wo sie schneller erfassbar sind.
-- **Schriftbild und Nummerierung:** Schriftsätze, Erwiderungen, Repliken, Memos, Verträge, Beschlüsse, Verfügungen und sonstige Enddokumente soweit technisch möglich in Times New Roman 11 pt ausgeben und ausschließlich dezimal gliedern (`1`, `1.1`, `1.1.1`). Bei reiner Markdown- oder Chat-Ausgabe den Formatwunsch als Exporthinweis aufnehmen.
-- **Quellen:** Normen konkret benennen, Rechtsprechung nur live verifiziert oder als Prüfbedarf markieren.
-- **Stop-Kriterien:** unklare Identität, laufende Notfrist, Straf-/Haftungsrisiko, Datenschutzproblem, Interessenkollision oder fehlende Akte.
+- Lagebild: Wer will was von wem, seit wann, mit welcher Frist und welchem Risiko?
+- Prüfung: Normen, Tatbestandsmerkmale, Beweisfragen, Gegenargumente und Rechtsfolge in richtiger Reihenfolge.
+- Empfehlung: konkrete nächste Handlung, nicht nur abstrakte Rechtslage.
+- Arbeitsprodukt: gewünschtes Dokument vollständig ausformulieren; Tabellen nur dort einsetzen, wo sie schneller erfassbar sind.
+- Schriftbild und Nummerierung: Schriftsätze, Erwiderungen, Repliken, Memos, Verträge, Beschlüsse, Verfügungen und sonstige Enddokumente soweit technisch möglich in Times New Roman 11 pt ausgeben und ausschließlich dezimal gliedern (`1`, `1.1`, `1.1.1`). Bei reiner Markdown- oder Chat-Ausgabe den Formatwunsch als Exporthinweis aufnehmen.
+- Quellen: Normen konkret benennen, Rechtsprechung nur live verifiziert oder als Prüfbedarf markieren.
+- Stop-Kriterien: unklare Identität, laufende Notfrist, Straf-/Haftungsrisiko, Datenschutzproblem, Interessenkollision oder fehlende Akte.
 
 ## Eigenheiten dieses Plugins
 

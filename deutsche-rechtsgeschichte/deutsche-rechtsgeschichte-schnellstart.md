@@ -33,14 +33,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Reichskammergericht und Reichshofrat:** Deutsche Rechtsgeschichte: Reichskammergericht (1495-1806) und Reichshofrat (1497-1806). Aufbau, Zuständigkeit, Rezeption des gelehrten Rechts, Konkurrenz beider Gerichte und Bedeutung als Vorlaeufer moderner Obergerichte im Deutsche Recht…
-- **Einigungsvertrag und Rechtsueberleitung:** Deutsche Rechtsgeschichte: Einigungsvertrag 1990 und Rechtsueberleitung. Hauptvertrag BGBl. II 1990 (Nr. 885), Weitergeltung DDR-Rechts, Ueberleitungsregeln und erste BVerfG-Entscheidungen zur Wiedervereinigung im Deutsche Rechtsgeschichte.
-- **Sozialgerichtsbarkeit Geschichte:** Deutsche Rechtsgeschichte: Geschichte der Sozialgerichtsbarkeit. Entstehung der Sozialversicherung 1883-1889, Spruchkoerper der Sozialversicherung, Sozialgerichtsgesetz 1953 und Bundessozialgericht seit 1954 im Deutsche Rechtsgeschichte.
-- **Verwaltungsakte Historisch Lesen:** Deutsche Rechtsgeschichte: Historische Verwaltungsakte lesen. Formular-Kanzleisprache des 18./19. Jh., Unterschied zu heutigen Verwaltungsakten, Quellenkritik bei historischen Behördendokumenten im Deutsche Rechtsgeschichte.
-- **Arbeitsgerichtsbarkeit:** Deutsche Rechtsgeschichte: Geschichte der Arbeitsgerichtsbarkeit. Gewerbegerichte des Kaiserreichs, Arbeitsgerichtsgesetz 1926, NS-Gleichschaltung, ArbGG 1953 und Bundesarbeitsgericht seit 1954 im Deutsche Rechtsgeschichte.
-- **Schuldrecht Vertragsfreiheit:** Deutsche Rechtsgeschichte: Schuldrecht und Vertragsfreiheit. BGB-Schuldrecht 1900, Vertragsfreiheit und ihre Schranken, Schuldrechtsreform 2002 und europaeische Ueberformung des Vertragsrechts im Deutsche Rechtsgeschichte.
-- **Verfassungsgerichtsbarkeit Geschichte:** Deutsche Rechtsgeschichte: Geschichte der Verfassungsgerichtsbarkeit. Staatsgerichtshof der WRV, Entstehung des BVerfG 1951, Normenkontrolle und Grundrechtsbeschwerde als deutsche Innovationen im Deutsche Rechtsgeschichte.
-- **Aktenanalyse Historische Fallakte:** Deutsche Rechtsgeschichte: Aktenanalyse einer historischen Fallakte. Aufbau historischer Gerichtsakten, Lese- und Auswertungstechnik, Quellennachweis und Einbau in heutige Argumentation im Deutsche Rechtsgeschichte.
+- Reichskammergericht und Reichshofrat: Deutsche Rechtsgeschichte: Reichskammergericht (1495-1806) und Reichshofrat (1497-1806). Aufbau, Zuständigkeit, Rezeption des gelehrten Rechts, Konkurrenz beider Gerichte und Bedeutung als Vorlaeufer moderner Obergerichte im Deutsche Recht…
+- Einigungsvertrag und Rechtsueberleitung: Deutsche Rechtsgeschichte: Einigungsvertrag 1990 und Rechtsueberleitung. Hauptvertrag BGBl. II 1990 (Nr. 885), Weitergeltung DDR-Rechts, Ueberleitungsregeln und erste BVerfG-Entscheidungen zur Wiedervereinigung im Deutsche Rechtsgeschichte.
+- Sozialgerichtsbarkeit Geschichte: Deutsche Rechtsgeschichte: Geschichte der Sozialgerichtsbarkeit. Entstehung der Sozialversicherung 1883-1889, Spruchkoerper der Sozialversicherung, Sozialgerichtsgesetz 1953 und Bundessozialgericht seit 1954 im Deutsche Rechtsgeschichte.
+- Verwaltungsakte Historisch Lesen: Deutsche Rechtsgeschichte: Historische Verwaltungsakte lesen. Formular-Kanzleisprache des 18./19. Jh., Unterschied zu heutigen Verwaltungsakten, Quellenkritik bei historischen Behördendokumenten im Deutsche Rechtsgeschichte.
+- Arbeitsgerichtsbarkeit: Deutsche Rechtsgeschichte: Geschichte der Arbeitsgerichtsbarkeit. Gewerbegerichte des Kaiserreichs, Arbeitsgerichtsgesetz 1926, NS-Gleichschaltung, ArbGG 1953 und Bundesarbeitsgericht seit 1954 im Deutsche Rechtsgeschichte.
+- Schuldrecht Vertragsfreiheit: Deutsche Rechtsgeschichte: Schuldrecht und Vertragsfreiheit. BGB-Schuldrecht 1900, Vertragsfreiheit und ihre Schranken, Schuldrechtsreform 2002 und europaeische Ueberformung des Vertragsrechts im Deutsche Rechtsgeschichte.
+- Verfassungsgerichtsbarkeit Geschichte: Deutsche Rechtsgeschichte: Geschichte der Verfassungsgerichtsbarkeit. Staatsgerichtshof der WRV, Entstehung des BVerfG 1951, Normenkontrolle und Grundrechtsbeschwerde als deutsche Innovationen im Deutsche Rechtsgeschichte.
+- Aktenanalyse Historische Fallakte: Deutsche Rechtsgeschichte: Aktenanalyse einer historischen Fallakte. Aufbau historischer Gerichtsakten, Lese- und Auswertungstechnik, Quellennachweis und Einbau in heutige Argumentation im Deutsche Rechtsgeschichte.
 
 ## Antwortform
 

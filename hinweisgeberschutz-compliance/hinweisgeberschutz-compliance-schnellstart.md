@@ -30,14 +30,14 @@ Hinweisgeberschutzgesetz in der Praxis: interne/externe Meldestelle, NDA-Konflik
 
 ## Kernmodule
 
-- **Arbeitsgericht Klage Arbeitsschutz Audit:** Bereitet arbeitsgerichtliche Klage wegen Repressalie vor im Hinweisgeberschutz Compliance.
-- **Beschwerde Management:** Grenzt Hinweis, Beschwerde, Grievance und HR-Konflikt ab im Hinweisgeberschutz Compliance.
-- **Arbeitsvertrag Klauseln Settlement:** Prüft Arbeitsvertragsklauseln gegen Hinweisgeberrechte im Hinweisgeberschutz Compliance.
-- **Loeschfristen:** Steuert Löschung und Archivierung von HinSchG-Akten im Hinweisgeberschutz Compliance.
-- **Eingangsfrist 7 Tage:** Steuert Eingangsbestätigung und Fristen sauber im Hinweisgeberschutz Compliance.
-- **Datenschutz Dsgvo Meldeakte:** Baut Datenschutzkonzept für die Meldeakte im Hinweisgeberschutz Compliance.
-- **Fristenkalender:** Erzeugt Fristenkalender für Hinweisfälle im Hinweisgeberschutz Compliance.
-- **Risikomatrix Rueckmeldung Monate Schulung:** Erstellt Risikomatrix für Hinweise im Hinweisgeberschutz Compliance.
+- Arbeitsgericht Klage Arbeitsschutz Audit: Bereitet arbeitsgerichtliche Klage wegen Repressalie vor im Hinweisgeberschutz Compliance.
+- Beschwerde Management: Grenzt Hinweis, Beschwerde, Grievance und HR-Konflikt ab im Hinweisgeberschutz Compliance.
+- Arbeitsvertrag Klauseln Settlement: Prüft Arbeitsvertragsklauseln gegen Hinweisgeberrechte im Hinweisgeberschutz Compliance.
+- Loeschfristen: Steuert Löschung und Archivierung von HinSchG-Akten im Hinweisgeberschutz Compliance.
+- Eingangsfrist 7 Tage: Steuert Eingangsbestätigung und Fristen sauber im Hinweisgeberschutz Compliance.
+- Datenschutz Dsgvo Meldeakte: Baut Datenschutzkonzept für die Meldeakte im Hinweisgeberschutz Compliance.
+- Fristenkalender: Erzeugt Fristenkalender für Hinweisfälle im Hinweisgeberschutz Compliance.
+- Risikomatrix Rueckmeldung Monate Schulung: Erstellt Risikomatrix für Hinweise im Hinweisgeberschutz Compliance.
 
 ## Antwortform
 

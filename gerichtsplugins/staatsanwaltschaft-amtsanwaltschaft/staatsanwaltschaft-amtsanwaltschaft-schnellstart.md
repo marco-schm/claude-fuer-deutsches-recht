@@ -36,14 +36,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **26 Opferschutz Nebenklage und Verletztenrechte:** Opferschutzpflichten der Staatsanwaltschaft (Paragrafen 406d bis 406l StPO), Anschluss als Nebenklaeger (Paragrafen 395 bis 402 StPO), opferschutzrechtliche Belehrung, psychosoziale Prozessbegleitung (Paragraf 406g StPO), Akteneinsicht des…
-- **24 Abschlussverfuegung und Entscheidungsvorschlag:** Strukturierte Abschlussverfuegung des Dezernats: Gesamtwuerdigung des Ermittlungsergebnisses, Entscheidung zwischen Anklage, Strafbefehl, Einstellung und Massregel, Verfuegungstechnik, Risikohinweise, ausdrueckliche Markierung als Vorschlag
-- **13 Strafbefehlsantrag Paragraf 407:** Antrag auf Erlass eines Strafbefehls (Paragrafen 407 bis 408a StPO), zulaessige Rechtsfolgen (Paragraf 407 Abs. 2), Tatkonkretisierung, hinreichender Tatverdacht ohne Hauptverhandlung, Einspruch (Paragraf 410)
-- **15 Antrag Beschleunigtes Verfahren Paragraf 417:** Antrag im beschleunigten Verfahren (Paragrafen 417 bis 420 StPO), Eignung wegen einfachen Sachverhalts oder klarer Beweislage, Rechtsfolgenbegrenzung (Paragraf 419 StPO), muendlicher oder schriftlicher Antrag
-- **05 Haftbefehlsantrag und Untersuchungshaft:** Antrag auf Erlass eines Haftbefehls (Paragrafen 112 und 112a und 114 StPO), dringender Tatverdacht, Haftgruende, Verhaeltnismaessigkeit (Paragraf 112 Abs. 1 Satz 2), Haftverschonung (Paragraf 116 StPO)
-- **23 Klageerzwingung und Beschwerdebescheid Paragraf 172:** Bescheid auf Beschwerde des Anzeigeerstatters (Paragraf 171 StPO), Vorschaltbeschwerde und Klageerzwingungsverfahren (Paragraf 172 StPO), Begruendungsanforderungen, Vorlage an Generalstaatsanwaltschaft
-- **14 Anklageschrift Paragraf 200:** Abfassung der Anklageschrift (Paragraf 200 StPO), Anklagesatz mit Umgrenzungs- und Informationsfunktion, wesentliches Ergebnis der Ermittlungen, Beweismittelverzeichnis, Antrag auf Eroeffnung
-- **04 Durchsuchung und Beschlagnahme Antrag:** Antrag auf richterliche Anordnung der Durchsuchung (Paragrafen 102 bis 105 StPO) und Beschlagnahme (Paragrafen 94 bis 98 StPO), Verhaeltnismaessigkeit, Gefahr im Verzug, Richtervorbehalt
+- 26 Opferschutz Nebenklage und Verletztenrechte: Opferschutzpflichten der Staatsanwaltschaft (Paragrafen 406d bis 406l StPO), Anschluss als Nebenklaeger (Paragrafen 395 bis 402 StPO), opferschutzrechtliche Belehrung, psychosoziale Prozessbegleitung (Paragraf 406g StPO), Akteneinsicht des…
+- 24 Abschlussverfuegung und Entscheidungsvorschlag: Strukturierte Abschlussverfuegung des Dezernats: Gesamtwuerdigung des Ermittlungsergebnisses, Entscheidung zwischen Anklage, Strafbefehl, Einstellung und Massregel, Verfuegungstechnik, Risikohinweise, ausdrueckliche Markierung als Vorschlag
+- 13 Strafbefehlsantrag Paragraf 407: Antrag auf Erlass eines Strafbefehls (Paragrafen 407 bis 408a StPO), zulaessige Rechtsfolgen (Paragraf 407 Abs. 2), Tatkonkretisierung, hinreichender Tatverdacht ohne Hauptverhandlung, Einspruch (Paragraf 410)
+- 15 Antrag Beschleunigtes Verfahren Paragraf 417: Antrag im beschleunigten Verfahren (Paragrafen 417 bis 420 StPO), Eignung wegen einfachen Sachverhalts oder klarer Beweislage, Rechtsfolgenbegrenzung (Paragraf 419 StPO), muendlicher oder schriftlicher Antrag
+- 05 Haftbefehlsantrag und Untersuchungshaft: Antrag auf Erlass eines Haftbefehls (Paragrafen 112 und 112a und 114 StPO), dringender Tatverdacht, Haftgruende, Verhaeltnismaessigkeit (Paragraf 112 Abs. 1 Satz 2), Haftverschonung (Paragraf 116 StPO)
+- 23 Klageerzwingung und Beschwerdebescheid Paragraf 172: Bescheid auf Beschwerde des Anzeigeerstatters (Paragraf 171 StPO), Vorschaltbeschwerde und Klageerzwingungsverfahren (Paragraf 172 StPO), Begruendungsanforderungen, Vorlage an Generalstaatsanwaltschaft
+- 14 Anklageschrift Paragraf 200: Abfassung der Anklageschrift (Paragraf 200 StPO), Anklagesatz mit Umgrenzungs- und Informationsfunktion, wesentliches Ergebnis der Ermittlungen, Beweismittelverzeichnis, Antrag auf Eroeffnung
+- 04 Durchsuchung und Beschlagnahme Antrag: Antrag auf richterliche Anordnung der Durchsuchung (Paragrafen 102 bis 105 StPO) und Beschlagnahme (Paragrafen 94 bis 98 StPO), Verhaeltnismaessigkeit, Gefahr im Verzug, Richtervorbehalt
 
 ## Antwortform
 

@@ -11,52 +11,52 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `denkmalschutzrecht` zu einem trag
 
 ## Werkstattlogik
 
-1. **Akteninventar**
+1. Akteninventar
    - Eingang: Welche Dateien, Parteien, Behörden, Gerichte, Verträge, Anträge, Fristen und Beträge sind vorhanden?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-2. **Rollenklärung**
+2. Rollenklärung
    - Eingang: Aus welcher Perspektive wird gearbeitet und welches Ergebnis soll am Ende stehen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-3. **Rechtsrahmen**
+3. Rechtsrahmen
    - Eingang: Welche Normen, Zuständigkeiten, Verfahren, Fristen und Beweislasten tragen den Fall?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-4. **Tatsachenmatrix**
+4. Tatsachenmatrix
    - Eingang: Welche Tatsachen sind belegt, streitig, nur behauptet oder noch offen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-5. **Prüfpfad**
+5. Prüfpfad
    - Eingang: Welche Tatbestandsmerkmale, Einwendungen, Ausnahmen und Anschlussfragen sind in richtiger Reihenfolge zu prüfen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-6. **Risikoampel**
+6. Risikoampel
    - Eingang: Welche Punkte sind sofort kritisch, welche sind heilbar, welche benötigen Live-Quelle oder Rückfrage?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-7. **Arbeitsprodukt**
+7. Arbeitsprodukt
    - Eingang: Welches konkrete Dokument wird geliefert: Memo, Schriftsatz, Tabelle, Checkliste, Klausel, Tenor, Antrag oder Antwortentwurf?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-8. **Gegenprüfung**
+8. Gegenprüfung
    - Eingang: Welche Gegenargumente, Beweisprobleme, Zuständigkeitsfragen und Fristfallen müssen vor Abgabe geprüft werden?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-9. **Quellenabgleich**
+9. Quellenabgleich
    - Eingang: Welche Normen und Entscheidungen werden vor Verwendung live aus amtlichen oder frei zugänglichen Quellen nachgezogen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-10. **Anschlussentscheidung**
+10. Anschlussentscheidung
    - Eingang: Was ist der nächste realistische Schritt: Rückfrage, Entwurf, Eskalation, Vergleich, Antrag, Fristnotiz oder Ablage?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
@@ -88,69 +88,69 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `denkmalschutzrecht` zu einem trag
 
 ## Leitentscheidungen
 
-- BVerfG, Beschluss vom 02.03.1999, 1 BvL 7/91, BVerfGE 100 Seite 226** — Rheinland-Pfalz-Beschluss zum DSchPflG. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
+- BVerfG, Beschluss vom 02.03.1999, 1 BvL 7/91, BVerfGE 100 Seite 226 — Rheinland-Pfalz-Beschluss zum DSchPflG. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
 - BVerfGE 100 Seite 226 (vom 02.03.1999), der die Grundlinie zur Inhaltsbestimmung und Zumutbarkeitsgrenze zog. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
-- BVerfG, Beschluss vom 02.03.1999, 1 BvL 7/91, BVerfGE 100 Seite 226** — Rheinland-Pfalz-Beschluss: Erhaltungspflichten am Baudenkmal sind Inhaltsbestimmung; wird die Belastung unzumutbar, muss. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
+- BVerfG, Beschluss vom 02.03.1999, 1 BvL 7/91, BVerfGE 100 Seite 226 — Rheinland-Pfalz-Beschluss: Erhaltungspflichten am Baudenkmal sind Inhaltsbestimmung; wird die Belastung unzumutbar, muss. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
 - BVerfGE 100 Seite 226 (Rheinland-Pfalz-Beschluss vom 02.03.1999) — vor Verwendung in der BVerfG-Entscheidungsdatenbank verifizieren. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
 
 ## Prüfraster oder Indizienliste
 
-1. **Widerspruch und Klagewege**
+1. Widerspruch und Klagewege
    - Fachlicher Fokus: Rechtsschutz im Denkmalschutzrecht: Widerspruchsverfahren nach Paragrafen 68 ff. VwGO (soweit landesrechtlich vorgesehen), Anfechtungsklage nach Paragraf 42 VwGO gegen Eintragung, Erlaubnisversagung, Untersagung und Beseitigungsanordnung, Verpflichtungsklage auf Erteilung der Erlaubnis, Eilrechtsschutz nach Paragraf 80 Abs. 5 VwGO oder Paragraf 123 VwGO sowie klare Aussteuerung denkmalrechtlicher Bußgeldbescheide in…
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-2. **Einstieg Routing**
+2. Einstieg Routing
    - Fachlicher Fokus: Einstiegsskill für das Denkmalschutzrecht-Plugin. Sortiert das Mandat, klärt Belegenheit des Objekts und damit das anwendbare Landesgesetz, ermittelt Rolle (Eigentümer, Erwerber, Behörde, Nachbar, Förderantragsteller), Fristen und gewünschtes Arbeitsprodukt. Routet anschließend in die passenden Querschnitts- und Landesskills.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-3. **Kaltstart Triage**
+3. Kaltstart Triage
    - Fachlicher Fokus: Schnelltriage für ein neues denkmalschutzrechtliches Mandat. Erhebt in einer Sitzung Objektdaten, Schutzstatus, Mandantenrolle, konkrete Maßnahme, drohende Fristen und Eilrisiken. Liefert eine erste Risikoampel und benennt die unverzichtbaren Sofortmaßnahmen (Akteneinsicht, Bauanzeige aussetzen, vorläufige Sicherung).
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-4. **Erstgespraech Mandatsannahme**
+4. Erstgespraech Mandatsannahme
    - Fachlicher Fokus: Strukturiert das erste Mandantengespräch im Denkmalschutzrecht. Erhebt die Mandatsgrundlage (Vollmacht, Konfliktcheck, Honorarvereinbarung), das Objekt mit Belegenheit und Schutzstatus, die anstehende Maßnahme und das Mandatsziel. Liefert einen Mandatsannahmevermerk in vollständiger Sprache.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-5. **Unesco Welterbe und Icomos**
+5. Unesco Welterbe und Icomos
    - Fachlicher Fokus: Welterbestätten in Deutschland: völkerrechtlicher Rahmen der UNESCO-Welterbekonvention von 1972, ICOMOS-Begutachtung, Pufferzonen, Managementpläne und die mittelbare Wirkung auf das deutsche Landesrecht. Skill ordnet, was die Welterbe-Eigenschaft für ein konkretes Mandat rechtlich tatsächlich bedeutet (Hinweisfunktion, Bauplanung, behördliche Begründungspflicht) und was sie nicht bedeutet (kein eigenständiger Schutz…
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-6. **Verfahrensgrundsaetze Vwvfg**
+6. Verfahrensgrundsaetze Vwvfg
    - Fachlicher Fokus: Verwaltungsverfahrensrecht im Denkmalschutz: Anhörung nach Paragraf 28 VwVfG, schriftlicher Verwaltungsakt mit Begründung und Rechtsbehelfsbelehrung nach Paragrafen 35 37 und 39 VwVfG, Bekanntgabe nach Paragraf 41 VwVfG, Rücknahme rechtswidriger und Widerruf rechtmäßiger Verwaltungsakte nach Paragrafen 48/49 VwVfG. Skill zeigt, wie die Landes-VwVfG inhaltsgleich greifen und welche Verfahrensfehler im Denkmalrecht ty…
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-7. **Rechtsprechungsanker Denkmalrecht**
+7. Rechtsprechungsanker Denkmalrecht
    - Fachlicher Fokus: Kuratierte Sammlung der zentralen Leitentscheidungen im deutschen Denkmalschutzrecht: Bundesverfassungsgericht zum Verhaeltnis von Art. 14 GG und Erhaltungspflichten, Bundesverwaltungsgericht zur konstitutiven Eintragung und zum Erlaubnisermessen, ausgewaehlte Oberverwaltungsgerichts-Linien zur Zumutbarkeit und zum Umgebungsschutz. Skill nennt Gericht, Datum und Aktenzeichen mit ausdruecklichem Live-Verifikations-Hi…
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-8. **Quellen Livecheck**
+8. Quellen Livecheck
    - Fachlicher Fokus: Quellenhygiene-Skill für das Denkmalschutzrecht-Plugin. Liefert die kuratierte Suchadressen-Liste für die sechzehn Landesgesetzes-Datenbanken, das Bundesrecht (gesetze-im-internet.de), die Verwaltungsgerichtsbarkeit (BVerwG, OVG-Pakete) und die Welterbe-Quellen (UNESCO, ICOMOS). Verhindert Halluzinationen, indem Paragrafen, Aktenzeichen und Fundstellen vor Verwendung zwingend live verifiziert werden.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-9. **Denkmalschutz Saarland Spezial Voelklinger Huette Welterbe**
+9. Denkmalschutz Saarland Spezial Voelklinger Huette Welterbe
    - Fachlicher Fokus: Saarlaendische Besonderheit: Voelklinger Huette seit 1994 UNESCO-Welterbe als bedeutendstes Industrie-Welterbe der Eisen- und Stahlproduktion. Skill ordnet die Schutzkonzeption (vollumfaengliche Erhaltung der industriellen Anlagen), die Foerderprogramme des Bundes (BKM) und des Landes sowie die Mandatslagen bei Investitionen in das Welterbe-Areal und in der direkten Umgebung.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-10. **Eintragungsverfahren Allgemein**
+10. Eintragungsverfahren Allgemein
    - Fachlicher Fokus: Verfahren zur Eintragung eines Objekts in die Denkmalliste. Skill ordnet die typischen Verfahrensschritte (Anhörung, sachverständige Stellungnahme, Eintragungsverfügung, Bekanntgabe), erläutert konstitutive und nachrichtliche Eintragung und liefert eine Verteidigungslinie für die Eigentümerin gegen eine drohende Eintragung sowie eine Antragslinie für eine begehrte Eintragung.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-11. **Brandenburg Spezial Schloesser Gutsanlagen Restitution**
+11. Brandenburg Spezial Schloesser Gutsanlagen Restitution
    - Fachlicher Fokus: Brandenburgische Besonderheit: Hoher Bestand an Schloessern und Gutsanlagen, oft mit komplexer Eigentumsgeschichte nach Bodenreform 1945-1949 und Mauerfall 1990. Skill ordnet die typische Mandatslage zwischen Restitutionsfragen nach Vermoegensgesetz, denkmalrechtlicher Erhaltungspflicht und Foerderzusagen der Brandenburgischen Schloesser-Programme.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-12. **Erlaubnis Pflichtige Massnahmen**
+12. Erlaubnis Pflichtige Massnahmen
    - Fachlicher Fokus: Erlaubnisvorbehalt für Maßnahmen an Denkmalen: Veränderung, Beseitigung, Verbringung, Umsetzung, Wiederherstellung. Skill erläutert das Antrags- und Erteilungsverfahren, das Verhältnis zur Baugenehmigung (oft kombinierte Erlaubnis), Versagungsgründe und das Ermessen der Behörde, das nach Art. 14 GG eigentumsfreundlich auszuüben ist.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
@@ -158,13 +158,13 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `denkmalschutzrecht` zu einem trag
 
 ## Antwortform
 
-- **Lagebild:** Wer will was von wem, seit wann, mit welcher Frist und welchem Risiko?
-- **Prüfung:** Normen, Tatbestandsmerkmale, Beweisfragen, Gegenargumente und Rechtsfolge in richtiger Reihenfolge.
-- **Empfehlung:** konkrete nächste Handlung, nicht nur abstrakte Rechtslage.
-- **Arbeitsprodukt:** gewünschtes Dokument vollständig ausformulieren; Tabellen nur dort einsetzen, wo sie schneller erfassbar sind.
-- **Schriftbild und Nummerierung:** Schriftsätze, Erwiderungen, Repliken, Memos, Verträge, Beschlüsse, Verfügungen und sonstige Enddokumente soweit technisch möglich in Times New Roman 11 pt ausgeben und ausschließlich dezimal gliedern (`1`, `1.1`, `1.1.1`). Bei reiner Markdown- oder Chat-Ausgabe den Formatwunsch als Exporthinweis aufnehmen.
-- **Quellen:** Normen konkret benennen, Rechtsprechung nur live verifiziert oder als Prüfbedarf markieren.
-- **Stop-Kriterien:** unklare Identität, laufende Notfrist, Straf-/Haftungsrisiko, Datenschutzproblem, Interessenkollision oder fehlende Akte.
+- Lagebild: Wer will was von wem, seit wann, mit welcher Frist und welchem Risiko?
+- Prüfung: Normen, Tatbestandsmerkmale, Beweisfragen, Gegenargumente und Rechtsfolge in richtiger Reihenfolge.
+- Empfehlung: konkrete nächste Handlung, nicht nur abstrakte Rechtslage.
+- Arbeitsprodukt: gewünschtes Dokument vollständig ausformulieren; Tabellen nur dort einsetzen, wo sie schneller erfassbar sind.
+- Schriftbild und Nummerierung: Schriftsätze, Erwiderungen, Repliken, Memos, Verträge, Beschlüsse, Verfügungen und sonstige Enddokumente soweit technisch möglich in Times New Roman 11 pt ausgeben und ausschließlich dezimal gliedern (`1`, `1.1`, `1.1.1`). Bei reiner Markdown- oder Chat-Ausgabe den Formatwunsch als Exporthinweis aufnehmen.
+- Quellen: Normen konkret benennen, Rechtsprechung nur live verifiziert oder als Prüfbedarf markieren.
+- Stop-Kriterien: unklare Identität, laufende Notfrist, Straf-/Haftungsrisiko, Datenschutzproblem, Interessenkollision oder fehlende Akte.
 
 ## Eigenheiten dieses Plugins
 

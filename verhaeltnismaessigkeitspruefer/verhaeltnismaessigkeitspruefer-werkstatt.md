@@ -11,52 +11,52 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `verhaeltnismaessigkeitspruefer` z
 
 ## Werkstattlogik
 
-1. **Akteninventar**
+1. Akteninventar
    - Eingang: Welche Dateien, Parteien, Behörden, Gerichte, Verträge, Anträge, Fristen und Beträge sind vorhanden?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-2. **Rollenklärung**
+2. Rollenklärung
    - Eingang: Aus welcher Perspektive wird gearbeitet und welches Ergebnis soll am Ende stehen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-3. **Rechtsrahmen**
+3. Rechtsrahmen
    - Eingang: Welche Normen, Zuständigkeiten, Verfahren, Fristen und Beweislasten tragen den Fall?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-4. **Tatsachenmatrix**
+4. Tatsachenmatrix
    - Eingang: Welche Tatsachen sind belegt, streitig, nur behauptet oder noch offen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-5. **Prüfpfad**
+5. Prüfpfad
    - Eingang: Welche Tatbestandsmerkmale, Einwendungen, Ausnahmen und Anschlussfragen sind in richtiger Reihenfolge zu prüfen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-6. **Risikoampel**
+6. Risikoampel
    - Eingang: Welche Punkte sind sofort kritisch, welche sind heilbar, welche benötigen Live-Quelle oder Rückfrage?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-7. **Arbeitsprodukt**
+7. Arbeitsprodukt
    - Eingang: Welches konkrete Dokument wird geliefert: Memo, Schriftsatz, Tabelle, Checkliste, Klausel, Tenor, Antrag oder Antwortentwurf?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-8. **Gegenprüfung**
+8. Gegenprüfung
    - Eingang: Welche Gegenargumente, Beweisprobleme, Zuständigkeitsfragen und Fristfallen müssen vor Abgabe geprüft werden?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-9. **Quellenabgleich**
+9. Quellenabgleich
    - Eingang: Welche Normen und Entscheidungen werden vor Verwendung live aus amtlichen oder frei zugänglichen Quellen nachgezogen?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
    - Anschluss: benenne den nächsten Skill-Gedanken oder die nächste praktische Handlung.
-10. **Anschlussentscheidung**
+10. Anschlussentscheidung
    - Eingang: Was ist der nächste realistische Schritt: Rückfrage, Entwurf, Eskalation, Vergleich, Antrag, Fristnotiz oder Ablage?
    - Prüfung: arbeite nur mit Tatsachen, die aus Akte, Nutzerangabe oder klar markierter Annahme stammen.
    - Arbeitsprodukt: formuliere in ganzen Sätzen, nicht als Stichwortgerüst.
@@ -96,62 +96,62 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `verhaeltnismaessigkeitspruefer` z
 
 ## Prüfraster oder Indizienliste
 
-1. **Drittwirkung Stadionverbot Bundesverfassungsgericht**
+1. Drittwirkung Stadionverbot Bundesverfassungsgericht
    - Fachlicher Fokus: Stadionverbot-Entscheidung BVerfGE 148 267 als seltenes Beispiel einer eingriffsaehnlichen Drittwirkung. Wo Private faktisch oeffentliche Funktionen wahrnehmen und einen monopolartigen Zugang gewaehren strahlen Grundrechte besonders stark in die Vertragsfreiheit ein. Verhältnismäßigkeit wird zum Prüfungsmassstab fuer Hausrechtsausuebung Plattformausschluesse und vergleichbare Konstellationen mit oeffentlicher Funkti…
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-2. **Verhaeltnismaessigkeit Einstieg**
+2. Verhaeltnismaessigkeit Einstieg
    - Fachlicher Fokus: Einstieg in den Verhältnismäßigkeitspruefer mit Plugin-Karte, Methodik-UEberblick und Empfehlungen welcher Skill bei welchem Fall zu starten ist. Erklaert die vier Stufen kurz und verweist auf vertiefende Skills.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-3. **Polizeirecht Eingriff Pruefen**
+3. Polizeirecht Eingriff Pruefen
    - Fachlicher Fokus: Polizeirechtlicher Eingriff durch die vier Stufen der Verhältnismäßigkeit prüfen mit Standardmuster Polizeiverfuegung. Mit Gefahrenprognose Stoererhaftung Anscheinsstoerer und Hinweisen zur Einschaetzungspraerogative der Polizeibehoerde.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-4. **Ascii Pruefungsschema**
+4. Ascii Pruefungsschema
    - Fachlicher Fokus: ASCII-Prüfungsschema fuer die vierstufige Verhältnismäßigkeitspruefung mit Box-Drawing fuer Sequenzen Abzweige und Ampelstatus. Mit Vorlage fuer Schriftsatzanlage Klausurausarbeitung und Mandatsmemo.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-5. **Griechenland Stedikastiriou Analogikotita**
+5. Griechenland Stedikastiriou Analogikotita
    - Fachlicher Fokus: Griechische Verhältnismäßigkeitsdogmatik nach Art 25 I 4 Verfassung 1975 idF 2001 mit der archi tis analogikotitas als Drei-Stufen-Test Katallilotita Anagkaiotita Stenh ennoia analogikotitas. Mit Symvoulio tis Epikrateias als Staatsrat und Areios Pagos als oberstem Zivil- und Strafgericht sowie Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und auf die seit 2001 explizite Kodifizierung der Verhä…
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-6. **Drittwirkung Praxischeck Zivilrecht**
+6. Drittwirkung Praxischeck Zivilrecht
    - Fachlicher Fokus: Praktischer Prüfkatalog fuer Drittwirkung im Zivilrecht. Behandelt die wichtigsten Einbruchstellen Paragraph 138 BGB Paragraph 242 BGB Paragraph 826 BGB Paragraph 307 BGB sowie die Leitlinien aus Buergschaft Handelsvertreter Chefarztkuendigung und Plattformausschluss. Zeigt wie Verhältnismäßigkeit ueber die mittelbare Drittwirkung in AGB-Kontrolle Vertragsfreiheit und Kuendigung wirkt und wo die Drittwirkung trotz D…
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-7. **Oesterreich Vfgh Verhaeltnismaessigkeit**
+7. Oesterreich Vfgh Verhaeltnismaessigkeit
    - Fachlicher Fokus: Oesterreichische Verhältnismäßigkeitsdogmatik des Verfassungsgerichtshofs mit dem Drei-Stufen-Test Geeignetheit Erforderlichkeit Adaequanz nach Art 7 B-VG Gleichheit und EMRK-Pendants. Mit Gesetzesvorbehalt nach EMRK und Charta Wesensgehalt-Funktionsschutz Prüfung von einfachen Bundesgesetzen und Landesgesetzen ueber Art 140 B-VG und Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und auf die sta…
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-8. **Schutzpflichtdimension Grundrechte**
+8. Schutzpflichtdimension Grundrechte
    - Fachlicher Fokus: Schutzpflichtdimension der Grundrechte als zweite Saeule neben der Abwehrfunktion. Behandelt insbesondere die Schutzpflicht aus Art. 3 Abs. 3 Satz 2 GG bei Behinderung wie sie im Triage-Beschluss des BVerfG vom 16.12.2021 anerkannt wurde. Verhältnismäßigkeit wirkt hier als Untermassverbot. Erklaert wann der Staat aktiv handeln muss und wie die Schutzpflicht ueber die Drittwirkung in Konstellationen zwischen Privaten…
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-9. **Daenemark Proportionalitetsprincip**
+9. Daenemark Proportionalitetsprincip
    - Fachlicher Fokus: Daenische Verhältnismäßigkeitsdogmatik mit Proportionalitetsprincip im Forvaltningsret und im Politilov 2004 als Eignung Noedvendighed Proportionalitet i snaever forstand. Mit Hoejesteret als Verfassungsgericht ohne formelle Normenkontrolltradition Inkorporationsgesetz EMRK von 1992 und Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und zur dominanten Rolle des EMRK-Maßstabs in Eingriffsfaellen.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-10. **Egmr Emrk Verhaeltnismaessigkeit**
+10. Egmr Emrk Verhaeltnismaessigkeit
    - Fachlicher Fokus: Verhältnismäßigkeitspruefung des Europaeischen Gerichtshofs fuer Menschenrechte nach Art 8 bis 11 EMRK und Art 1 ZP 1 mit den drei Stufen prescribed by law legitimate aim necessary in a democratic society. Mit margin of appreciation pressing social need least restrictive means und fair balance sowie Hinweisen zur Wechselwirkung mit deutscher BVerfG-Dogmatik und zur Rezeption in Goerguelue Caroline und Sahin.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-11. **Eugh Cjeu Verhaeltnismaessigkeit**
+11. Eugh Cjeu Verhaeltnismaessigkeit
    - Fachlicher Fokus: Verhältnismäßigkeitspruefung des Gerichtshofs der Europaeischen Union nach Art 52 I GRCh und allgemeinem Grundsatz mit Stufen Gesetzesvorbehalt Wesensgehalt legitimer Zweck Geeignetheit Erforderlichkeit Angemessenheit. Mit Digital Rights Ireland Schrems II La Quadrature du Net Tele2 Sverige sowie Hinweisen zur Rezeption deutscher Methodik und zum Verhältnis Charta-Schranken zur EMRK.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-12. **Schnellpruefung Fuenfminuten Express**
+12. Schnellpruefung Fuenfminuten Express
    - Fachlicher Fokus: Express-Verhältnismäßigkeitspruefung in fuenf Minuten: 12-Punkte-Checkliste mit Sofort-Ergebnis fuer Klausur, Schriftsatz oder Mandantenmeeting. Schnelltriage fuer Schutzbereich, Schranke, Zitiergebot, vier Stufen, Wesensgehalt; mit Entscheidungsbaum, Express-Tabelle und Fallstrick-Liste.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
@@ -159,13 +159,13 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `verhaeltnismaessigkeitspruefer` z
 
 ## Antwortform
 
-- **Lagebild:** Wer will was von wem, seit wann, mit welcher Frist und welchem Risiko?
-- **Prüfung:** Normen, Tatbestandsmerkmale, Beweisfragen, Gegenargumente und Rechtsfolge in richtiger Reihenfolge.
-- **Empfehlung:** konkrete nächste Handlung, nicht nur abstrakte Rechtslage.
-- **Arbeitsprodukt:** gewünschtes Dokument vollständig ausformulieren; Tabellen nur dort einsetzen, wo sie schneller erfassbar sind.
-- **Schriftbild und Nummerierung:** Schriftsätze, Erwiderungen, Repliken, Memos, Verträge, Beschlüsse, Verfügungen und sonstige Enddokumente soweit technisch möglich in Times New Roman 11 pt ausgeben und ausschließlich dezimal gliedern (`1`, `1.1`, `1.1.1`). Bei reiner Markdown- oder Chat-Ausgabe den Formatwunsch als Exporthinweis aufnehmen.
-- **Quellen:** Normen konkret benennen, Rechtsprechung nur live verifiziert oder als Prüfbedarf markieren.
-- **Stop-Kriterien:** unklare Identität, laufende Notfrist, Straf-/Haftungsrisiko, Datenschutzproblem, Interessenkollision oder fehlende Akte.
+- Lagebild: Wer will was von wem, seit wann, mit welcher Frist und welchem Risiko?
+- Prüfung: Normen, Tatbestandsmerkmale, Beweisfragen, Gegenargumente und Rechtsfolge in richtiger Reihenfolge.
+- Empfehlung: konkrete nächste Handlung, nicht nur abstrakte Rechtslage.
+- Arbeitsprodukt: gewünschtes Dokument vollständig ausformulieren; Tabellen nur dort einsetzen, wo sie schneller erfassbar sind.
+- Schriftbild und Nummerierung: Schriftsätze, Erwiderungen, Repliken, Memos, Verträge, Beschlüsse, Verfügungen und sonstige Enddokumente soweit technisch möglich in Times New Roman 11 pt ausgeben und ausschließlich dezimal gliedern (`1`, `1.1`, `1.1.1`). Bei reiner Markdown- oder Chat-Ausgabe den Formatwunsch als Exporthinweis aufnehmen.
+- Quellen: Normen konkret benennen, Rechtsprechung nur live verifiziert oder als Prüfbedarf markieren.
+- Stop-Kriterien: unklare Identität, laufende Notfrist, Straf-/Haftungsrisiko, Datenschutzproblem, Interessenkollision oder fehlende Akte.
 
 ## Eigenheiten dieses Plugins
 

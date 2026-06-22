@@ -32,14 +32,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Fristkalender Partei:** Erstellt Fristenkalender für Versammlungen, Wahlvorschläge, Rechenschaft, Spendenmeldungen, Satzungsfristen.
-- **Parteienrecht Parteiausschluss Parteigericht:** Prüft Parteiausschluss, schwerer Schaden, Anhörung, Vorstandsantrag, Schiedsgericht und Verhältnismäßigkeit.
-- **Parteigericht Antrag:** Erstellt Antrag an Parteischiedsgericht: Rubrum, Anträge, Sachverhalt, Satzung, Beweise, Eilbedürftigkeit.
-- **Kommunalmandat und Ehrenamt:** Routet kommunale Mandatspflichten, Entschädigung, Transparenz und Trennung von Partei/Fraktion/Gemeinde.
-- **Parteienrecht Mandatstraegerbeitraege Spenden:** Prüft satzungsrechtliche Mandatsträgerbeiträge, Abgrenzung Spende/Beitrag und Abgeordnetenrecht.
-- **Parteigericht Aufbau:** Prüft Schiedsgerichtsordnung, Besetzung, Unabhängigkeit, Zuständigkeit und Verfahrensgrundsätze.
-- **Parteigericht Effektiver Parteigruendung:** Prüft, ob der Vorrang parteiinterner Schiedsgerichtsbarkeit noch effektiven Rechtsschutz bietet oder staatlicher Eilrechtsschutz parallel vorbereitet werden muss im Parteienrecht.
-- **Parteigericht Effektiver Rechtsschutz:** Prüft, ob der Vorrang parteiinterner Schiedsgerichtsbarkeit noch effektiven Rechtsschutz bietet oder staatlicher Eilrechtsschutz parallel vorbereitet werden muss.
+- Fristkalender Partei: Erstellt Fristenkalender für Versammlungen, Wahlvorschläge, Rechenschaft, Spendenmeldungen, Satzungsfristen.
+- Parteienrecht Parteiausschluss Parteigericht: Prüft Parteiausschluss, schwerer Schaden, Anhörung, Vorstandsantrag, Schiedsgericht und Verhältnismäßigkeit.
+- Parteigericht Antrag: Erstellt Antrag an Parteischiedsgericht: Rubrum, Anträge, Sachverhalt, Satzung, Beweise, Eilbedürftigkeit.
+- Kommunalmandat und Ehrenamt: Routet kommunale Mandatspflichten, Entschädigung, Transparenz und Trennung von Partei/Fraktion/Gemeinde.
+- Parteienrecht Mandatstraegerbeitraege Spenden: Prüft satzungsrechtliche Mandatsträgerbeiträge, Abgrenzung Spende/Beitrag und Abgeordnetenrecht.
+- Parteigericht Aufbau: Prüft Schiedsgerichtsordnung, Besetzung, Unabhängigkeit, Zuständigkeit und Verfahrensgrundsätze.
+- Parteigericht Effektiver Parteigruendung: Prüft, ob der Vorrang parteiinterner Schiedsgerichtsbarkeit noch effektiven Rechtsschutz bietet oder staatlicher Eilrechtsschutz parallel vorbereitet werden muss im Parteienrecht.
+- Parteigericht Effektiver Rechtsschutz: Prüft, ob der Vorrang parteiinterner Schiedsgerichtsbarkeit noch effektiven Rechtsschutz bietet oder staatlicher Eilrechtsschutz parallel vorbereitet werden muss.
 
 ## Antwortform
 

@@ -30,14 +30,14 @@ Rechtstheorie- und Rechtsphilosophie-Plugin für juristische Praxis: Rechtsbegri
 
 ## Kernmodule
 
-- **Kaltstart Triage:** Einstieg und Fallrouting für rechtstheoretische und rechtsphilosophische Fragen: Rechtsbegriff, Methode, Abwaegung, Demokratie, Moral, Sprache, Machtkritik und Outputwahl.
-- **Systemdenken Kohaerenz Widerspruch:** Prüft, wann System, Kohärenz und Widerspruchsfreiheit gute Argumente sind und wann sie Rechtsfortbildung tarnen.
-- **Demokratie Gesetzgeber Gericht:** Prüft demokratische Legitimation und Gewaltenteilung bei Auslegung, Rechtsfortbildung und richterlicher Korrektur alter Normen.
-- **Besitz Rechtsrealismus und Praktische Beduerfnisse:** Prüft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streitvermeidung, Friedensfunktion, Beweislast, gerichtliche Handhabbarkeit und die Notwendigkeit, praktische Beduerfnisse konkret statt intuitiv zu benennen: Prüft Besitzschutz re…
-- **Technokratie Industriegesellschaft und Grundrechte:** Prüft Technik-, Industrie- und Infrastrukturargumente: Regulierung, Sachzwang, Expertenwissen, Risiko, Grundrechte, demokratische Kontrolle und die Grenze technokratischer Rechtsbegruendung: Prüft Technik-, Industrie- und Infrastrukturargu…
-- **Wissensproblem Dezentrale Information und Recht:** Prüft das Wissensproblem im Recht: dezentrale Information, lokale Praxis, Preissignale, Verwaltungskapazitaet, Gesetzgebung, Gerichte und die Grenze zentraler Planung ohne Anti-Gestaltungsdogma: Prüft das Wissensproblem im Recht: dezentral…
-- **Besitz Rechtsrealismus Praktische:** Prüft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streitvermeidung, Friedensfunktion, Beweislast, gerichtliche Handhabbarkeit und die Notwendigkeit, praktische Beduerfnisse konkret statt intuitiv zu benennen.
-- **Kelsen Stufenbau Kompetenz und Grundnorm:** Ordnet Normen im Stufenbau: Verfassung, Gesetz, Verordnung, Satzung, Verwaltungsakt, Vertrag, Urteil, Unionsrecht und Voelkerrecht; klaert Kompetenzketten und bricht falsche Autoritaetsbehauptungen auf.
+- Kaltstart Triage: Einstieg und Fallrouting für rechtstheoretische und rechtsphilosophische Fragen: Rechtsbegriff, Methode, Abwaegung, Demokratie, Moral, Sprache, Machtkritik und Outputwahl.
+- Systemdenken Kohaerenz Widerspruch: Prüft, wann System, Kohärenz und Widerspruchsfreiheit gute Argumente sind und wann sie Rechtsfortbildung tarnen.
+- Demokratie Gesetzgeber Gericht: Prüft demokratische Legitimation und Gewaltenteilung bei Auslegung, Rechtsfortbildung und richterlicher Korrektur alter Normen.
+- Besitz Rechtsrealismus und Praktische Beduerfnisse: Prüft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streitvermeidung, Friedensfunktion, Beweislast, gerichtliche Handhabbarkeit und die Notwendigkeit, praktische Beduerfnisse konkret statt intuitiv zu benennen: Prüft Besitzschutz re…
+- Technokratie Industriegesellschaft und Grundrechte: Prüft Technik-, Industrie- und Infrastrukturargumente: Regulierung, Sachzwang, Expertenwissen, Risiko, Grundrechte, demokratische Kontrolle und die Grenze technokratischer Rechtsbegruendung: Prüft Technik-, Industrie- und Infrastrukturargu…
+- Wissensproblem Dezentrale Information und Recht: Prüft das Wissensproblem im Recht: dezentrale Information, lokale Praxis, Preissignale, Verwaltungskapazitaet, Gesetzgebung, Gerichte und die Grenze zentraler Planung ohne Anti-Gestaltungsdogma: Prüft das Wissensproblem im Recht: dezentral…
+- Besitz Rechtsrealismus Praktische: Prüft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streitvermeidung, Friedensfunktion, Beweislast, gerichtliche Handhabbarkeit und die Notwendigkeit, praktische Beduerfnisse konkret statt intuitiv zu benennen.
+- Kelsen Stufenbau Kompetenz und Grundnorm: Ordnet Normen im Stufenbau: Verfassung, Gesetz, Verordnung, Satzung, Verwaltungsakt, Vertrag, Urteil, Unionsrecht und Voelkerrecht; klaert Kompetenzketten und bricht falsche Autoritaetsbehauptungen auf.
 
 ## Antwortform
 

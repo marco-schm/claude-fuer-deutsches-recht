@@ -36,14 +36,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **01 Eroeffnungsantrag Pruefen Insolvenz:** Prüfung des Eröffnungsantrags Paragrafen 13-15 InsO, Zulässigkeit, Insolvenzgrund (Paragrafen 17-19 InsO), Verfahrenskostendeckung, Anhörung des Schuldners
-- **07 Insolvenzplan Bestaetigen:** Insolvenzplanverfahren Paragrafen 217 ff. InsO: Vorprüfung Paragraf 231, Anhörung, Erlaeuterungs- und Abstimmungstermin Paragrafen 235-238, gerichtliche Bestätigung Paragraf 248, Minderheitenschutz Paragraf 251
-- **10 Starug Planbestaetigung und Folgen:** Planabstimmung Paragrafen 17 ff. StaRUG, gruppeninternes Mehrheitserfordernis, gruppenübergreifender Cramdown Paragraf 26 StaRUG, gerichtliche Planbestätigung Paragrafen 60 ff., Wirkungen Paragraf 67
-- **02 Sicherungsmassnahmen VOR Eroeffnung:** Sicherungsmaßnahmen Paragraf 21 InsO: vorläufiger Insolvenzverwalter (stark oder schwach), Verfügungsbeschraenkungen, Vollstreckungsverbote, Postsperre, Globalsicherheiten
-- **09 Starug Stabilisierungsanordnung:** Stabilisierungsanordnung Paragrafen 49 ff. StaRUG (Vollstreckungs- und Verwertungssperre), Voraussetzungen, Dauer (drei Monate, Verlaengerung), Schutzbereich, Folgenanordnung
-- **08 Starug Restrukturierungssache Anzeigen:** Anzeige Restrukturierungssache Paragrafen 31 ff. StaRUG, Restrukturierungsbeauftragter Paragraf 73 StaRUG, Restrukturierungsforum, öffentliche oder nicht-öffentliche Sache
-- **05 Restschuldbefreiung und Schlusstermin:** Schlusstermin Paragraf 197 InsO, Schlussverteilung, Restschuldbefreiungsverfahren Paragrafen 286 ff. InsO, Versagungsgründe Paragraf 290, Obliegenheiten Paragraf 295
-- **03 Eroeffnungsbeschluss und Verwalterbestellung:** Eröffnungsbeschluss Paragraf 27 InsO, Bestellung Insolvenzverwalter, Bestimmung Berichts-, Prüfungs- und Schlusstermin, Veröffentlichung, Registereintragung
+- 01 Eroeffnungsantrag Pruefen Insolvenz: Prüfung des Eröffnungsantrags Paragrafen 13-15 InsO, Zulässigkeit, Insolvenzgrund (Paragrafen 17-19 InsO), Verfahrenskostendeckung, Anhörung des Schuldners
+- 07 Insolvenzplan Bestaetigen: Insolvenzplanverfahren Paragrafen 217 ff. InsO: Vorprüfung Paragraf 231, Anhörung, Erlaeuterungs- und Abstimmungstermin Paragrafen 235-238, gerichtliche Bestätigung Paragraf 248, Minderheitenschutz Paragraf 251
+- 10 Starug Planbestaetigung und Folgen: Planabstimmung Paragrafen 17 ff. StaRUG, gruppeninternes Mehrheitserfordernis, gruppenübergreifender Cramdown Paragraf 26 StaRUG, gerichtliche Planbestätigung Paragrafen 60 ff., Wirkungen Paragraf 67
+- 02 Sicherungsmassnahmen VOR Eroeffnung: Sicherungsmaßnahmen Paragraf 21 InsO: vorläufiger Insolvenzverwalter (stark oder schwach), Verfügungsbeschraenkungen, Vollstreckungsverbote, Postsperre, Globalsicherheiten
+- 09 Starug Stabilisierungsanordnung: Stabilisierungsanordnung Paragrafen 49 ff. StaRUG (Vollstreckungs- und Verwertungssperre), Voraussetzungen, Dauer (drei Monate, Verlaengerung), Schutzbereich, Folgenanordnung
+- 08 Starug Restrukturierungssache Anzeigen: Anzeige Restrukturierungssache Paragrafen 31 ff. StaRUG, Restrukturierungsbeauftragter Paragraf 73 StaRUG, Restrukturierungsforum, öffentliche oder nicht-öffentliche Sache
+- 05 Restschuldbefreiung und Schlusstermin: Schlusstermin Paragraf 197 InsO, Schlussverteilung, Restschuldbefreiungsverfahren Paragrafen 286 ff. InsO, Versagungsgründe Paragraf 290, Obliegenheiten Paragraf 295
+- 03 Eroeffnungsbeschluss und Verwalterbestellung: Eröffnungsbeschluss Paragraf 27 InsO, Bestellung Insolvenzverwalter, Bestimmung Berichts-, Prüfungs- und Schlusstermin, Veröffentlichung, Registereintragung
 
 ## Antwortform
 

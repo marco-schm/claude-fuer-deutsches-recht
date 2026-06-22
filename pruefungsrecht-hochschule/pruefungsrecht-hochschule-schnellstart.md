@@ -30,14 +30,14 @@ Hochschulprüfungsrecht: Prüfungsordnung, Bewertungsspielraum, Akteneinsicht, K
 
 ## Kernmodule
 
-- **Akteneinsicht Vollstaendig:** Prüft Umfang der Akteneinsicht, Bewertungsvermerke, Musterlösung, Protokolle und Kopien im Prüfungsrecht Hochschule.
-- **Fristverlaengerung Pruefungsleistung:** Prüft Verlängerungsantrag, Krankheit, Betreuungsausfall, Nachweise und Ermessen im Prüfungsrecht Hochschule.
-- **Notenbekanntgabe und Friststart:** Prüft Bekanntgabe der Note, Rechtsbehelfsfrist, Portalstatus und Zustellung im Prüfungsrecht Hochschule.
-- **Widerspruch und Remonstration:** Baut Widerspruch, Remonstration oder Gegenvorstellung im Prüfungsrecht Hochschule.
-- **Abgabe Frist Fristverlaengerung:** Prüft Abgabe, Frist, Upload und Zugang im Prüfungsrecht Hochschule.
-- **Akteneinsicht Pruefungsakte:** Prüft Akteneinsicht in Prüfungsakte und Bewertungsunterlagen im Prüfungsrecht Hochschule.
-- **Kaltstart Triage:** Startet Hochschulprüfungsrecht für Klausur, Hausarbeit, Abschlussarbeit, Drittversuch, Täuschung, Krankheit und Rechtsschutz.
-- **Korrekturfrist und Verzoegerung:** Prüft überlange Korrektur, Folgeschäden, vorläufige Zulassung und Eilrechtsschutz im Prüfungsrecht Hochschule.
+- Akteneinsicht Vollstaendig: Prüft Umfang der Akteneinsicht, Bewertungsvermerke, Musterlösung, Protokolle und Kopien im Prüfungsrecht Hochschule.
+- Fristverlaengerung Pruefungsleistung: Prüft Verlängerungsantrag, Krankheit, Betreuungsausfall, Nachweise und Ermessen im Prüfungsrecht Hochschule.
+- Notenbekanntgabe und Friststart: Prüft Bekanntgabe der Note, Rechtsbehelfsfrist, Portalstatus und Zustellung im Prüfungsrecht Hochschule.
+- Widerspruch und Remonstration: Baut Widerspruch, Remonstration oder Gegenvorstellung im Prüfungsrecht Hochschule.
+- Abgabe Frist Fristverlaengerung: Prüft Abgabe, Frist, Upload und Zugang im Prüfungsrecht Hochschule.
+- Akteneinsicht Pruefungsakte: Prüft Akteneinsicht in Prüfungsakte und Bewertungsunterlagen im Prüfungsrecht Hochschule.
+- Kaltstart Triage: Startet Hochschulprüfungsrecht für Klausur, Hausarbeit, Abschlussarbeit, Drittversuch, Täuschung, Krankheit und Rechtsschutz.
+- Korrekturfrist und Verzoegerung: Prüft überlange Korrektur, Folgeschäden, vorläufige Zulassung und Eilrechtsschutz im Prüfungsrecht Hochschule.
 
 ## Antwortform
 

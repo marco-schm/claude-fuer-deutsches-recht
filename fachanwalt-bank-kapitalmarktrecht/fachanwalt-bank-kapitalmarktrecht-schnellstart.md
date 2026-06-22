@@ -36,14 +36,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Bausparvertrag Zinsanpassung BGH XI ZR 78 22:** Bausparvertrag Zinsanpassung BGH Xi Zr 78 22: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt.
-- **Bankrecht Buergschaft Aval Garantie Routing:** Mandat zu Bürgschaft, Aval oder Bankgarantie im Bankrecht routen: Bürge, Bank, Begünstigter oder Kunde: ParagrafParagraf 765 ff. BGB, ParagrafParagraf 349 und 350 HGB, erstes Anford...
-- **Kapitalmarktrecht Fristen Form und Zustaendigkeit:** Kapitalmarktrecht: Fristen, Form, Zuständigkeit und Rechtsweg: Kapitalmarktrecht: Fristen, Form, Zuständigkeit und Rechtsweg.
-- **Schnittstellen Compliance Dokumentation und Akte:** Schnittstellen: Compliance-Dokumentation und Aktenvermerk: Schnittstellen: Compliance-Dokumentation und Aktenvermerk.
-- **Erstpruefung und Mandatsziel:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
-- **Praemiensparvertrag Zinsanpassung BGH XI ZR 234 20:** Praemiensparvertrag variable Verzinsung mit BGH XI ZR 234/20 und Bundesbank-Referenzzins WX4260.
-- **Fehlerhaft Fristennotiz und Naechster Schritt:** Fehlerhaft: Fristennotiz und nächster Schritt: Fehlerhaft: Fristennotiz und nächster Schritt.
-- **Mifid Behoerden Gericht und Registerweg:** Mifid: Behörden-, Gerichts- oder Registerweg: Mifid: Behörden-, Gerichts- oder Registerweg.
+- Bausparvertrag Zinsanpassung BGH XI ZR 78 22: Bausparvertrag Zinsanpassung BGH Xi Zr 78 22: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt.
+- Bankrecht Buergschaft Aval Garantie Routing: Mandat zu Bürgschaft, Aval oder Bankgarantie im Bankrecht routen: Bürge, Bank, Begünstigter oder Kunde: ParagrafParagraf 765 ff. BGB, ParagrafParagraf 349 und 350 HGB, erstes Anford...
+- Kapitalmarktrecht Fristen Form und Zustaendigkeit: Kapitalmarktrecht: Fristen, Form, Zuständigkeit und Rechtsweg: Kapitalmarktrecht: Fristen, Form, Zuständigkeit und Rechtsweg.
+- Schnittstellen Compliance Dokumentation und Akte: Schnittstellen: Compliance-Dokumentation und Aktenvermerk: Schnittstellen: Compliance-Dokumentation und Aktenvermerk.
+- Erstpruefung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
+- Praemiensparvertrag Zinsanpassung BGH XI ZR 234 20: Praemiensparvertrag variable Verzinsung mit BGH XI ZR 234/20 und Bundesbank-Referenzzins WX4260.
+- Fehlerhaft Fristennotiz und Naechster Schritt: Fehlerhaft: Fristennotiz und nächster Schritt: Fehlerhaft: Fristennotiz und nächster Schritt.
+- Mifid Behoerden Gericht und Registerweg: Mifid: Behörden-, Gerichts- oder Registerweg: Mifid: Behörden-, Gerichts- oder Registerweg.
 
 ## Antwortform
 

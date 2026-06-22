@@ -36,14 +36,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Einstieg Routing:** Einstieg, Triage und Routing für Strafzumessung: ordnet Rolle (Angeklagter, Verteidiger, Staatsanwaltschaft), markiert Frist (Revision 1 Woche/1 Monat Paragraf 341 StPO), wählt Norm (Paragraf 46 StGB, ParagrafParagraf 47-50 StGB Strafmilde…
-- **Orientierung Triage Paragraph Stgb Besonders:** Einstieg und Triage. Ordnet das Mandat (Strafverteidiger, Staatsanwaltschaft, Beistand) nach Verfahrensstadium (Strafbefehl, Anklage, Hauptverhandlung, Urteil, Berufung, nachtraegliche Gesamtstrafe), erkennt Eilfristen, schlaegt passende F…
-- **Anschluss Routing:** Anschluss-Routing für Strafzumessung: wählt den nächsten Spezial-Skill nach Engpass (Revision 1 Woche/1 Monat Paragraf 341 StPO, Anklageschrift, Urteilsentwurf, Vorverurteilungen BZR), dokumentiert Router-Entscheidung mit Begründung.
-- **Spezial Grossen Risikoampel und Gegenargumente:** Grossen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
-- **Workflow Kaltstart und Routing:** Kaltstart und Routing im Plugin strafzumessung: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
-- **Workflow Fristen und Risikoampel:** Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Strafzumessung.
-- **Grossen Risikoampel und Gegenargumente:** Grossen: Risikoampel, Gegenargumente und Verteidigungslinien im Strafzumessung.
-- **Freiheitsstrafe Compliance Dokumentation und Akte:** Freiheitsstrafe: Compliance-Dokumentation und Aktenvermerk im Strafzumessung.
+- Einstieg Routing: Einstieg, Triage und Routing für Strafzumessung: ordnet Rolle (Angeklagter, Verteidiger, Staatsanwaltschaft), markiert Frist (Revision 1 Woche/1 Monat Paragraf 341 StPO), wählt Norm (Paragraf 46 StGB, ParagrafParagraf 47-50 StGB Strafmilde…
+- Orientierung Triage Paragraph Stgb Besonders: Einstieg und Triage. Ordnet das Mandat (Strafverteidiger, Staatsanwaltschaft, Beistand) nach Verfahrensstadium (Strafbefehl, Anklage, Hauptverhandlung, Urteil, Berufung, nachtraegliche Gesamtstrafe), erkennt Eilfristen, schlaegt passende F…
+- Anschluss Routing: Anschluss-Routing für Strafzumessung: wählt den nächsten Spezial-Skill nach Engpass (Revision 1 Woche/1 Monat Paragraf 341 StPO, Anklageschrift, Urteilsentwurf, Vorverurteilungen BZR), dokumentiert Router-Entscheidung mit Begründung.
+- Spezial Grossen Risikoampel und Gegenargumente: Grossen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+- Workflow Kaltstart und Routing: Kaltstart und Routing im Plugin strafzumessung: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+- Workflow Fristen und Risikoampel: Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Strafzumessung.
+- Grossen Risikoampel und Gegenargumente: Grossen: Risikoampel, Gegenargumente und Verteidigungslinien im Strafzumessung.
+- Freiheitsstrafe Compliance Dokumentation und Akte: Freiheitsstrafe: Compliance-Dokumentation und Aktenvermerk im Strafzumessung.
 
 ## Antwortform
 

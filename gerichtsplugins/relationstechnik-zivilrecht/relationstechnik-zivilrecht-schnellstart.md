@@ -36,14 +36,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **16 Tenor Formulieren:** Tenor formulieren: Hauptsache (Verurteilung zur Zahlung, Herausgabe, Unterlassung, Feststellung), Nebenforderungen (Zinsen Paragraf 288 BGB), Kostenentscheidung, vorläufige Vollstreckbarkeit
-- **01 Akte Erstdurchsicht Zivil:** Strukturierte Erstdurchsicht der Zivilakte: Parteien identifizieren, Antrag isolieren, Lebenssachverhalt extrahieren, beigefuegte Unterlagen ordnen
-- **04 Klage Antrag Auslegen:** Klageantrag auslegen Paragraf 133 BGB analog, Bestimmtheit Paragraf 253 Abs. 2 Nr. 2 ZPO, Haupt- und Hilfsantraege, Stufenklage Paragraf 254
-- **20 Urteilsentwurf Finalisieren:** Urteilsentwurf finalisieren: Rubrum, Tenor, Tatbestand, Entscheidungsgründe, Nebenentscheidungen, Rechtsmittelbelehrung; Schlussredaktion (Konsistenz Aktenzeichen Beteiligte Zitierweise), zur richterlichen Endprüfung markiert
-- **19 Nebenentscheidungen Kosten Vorlaeufige Vollstreckbarkeit:** Nebenentscheidungen: Kosten Paragrafen 91 ff. ZPO, Baumbach'sche Formel bei subjektiver Klagehaeufung, vorläufige Vollstreckbarkeit Paragrafen 708-711 ZPO mit Vollstreckungsschutz Paragraf 712, Streitwert
-- **10 Erheblichkeit Pruefen:** Erheblichkeitsprüfung (Beklagtenstation): sind Einwendungen und Einreden rechtlich erheblich? Schluessigkeit + Erheblichkeit = Erfolgsaussicht der Klage bei unstreitigem Sachverhalt
-- **05 Anspruchsgrundlagen Identifizieren:** Anspruchsgrundlagen aufstellen: vertraglich, vertragsaehnlich, dinglich, deliktisch, bereicherungsrechtlich; Anspruchssystem nach Larenz/Wolf
-- **13 Beweislastverteilung Pruefen:** Beweislastverteilung nach allgemeinen Regeln (Rosenberg-Formel) und Sondernormen (Paragraf 280 Abs. 1 S. 2 BGB, Paragraf 286 ZPO, Paragrafen 363 und 477 BGB), Beweisvereitelung, sekundaere Darlegungslast
+- 16 Tenor Formulieren: Tenor formulieren: Hauptsache (Verurteilung zur Zahlung, Herausgabe, Unterlassung, Feststellung), Nebenforderungen (Zinsen Paragraf 288 BGB), Kostenentscheidung, vorläufige Vollstreckbarkeit
+- 01 Akte Erstdurchsicht Zivil: Strukturierte Erstdurchsicht der Zivilakte: Parteien identifizieren, Antrag isolieren, Lebenssachverhalt extrahieren, beigefuegte Unterlagen ordnen
+- 04 Klage Antrag Auslegen: Klageantrag auslegen Paragraf 133 BGB analog, Bestimmtheit Paragraf 253 Abs. 2 Nr. 2 ZPO, Haupt- und Hilfsantraege, Stufenklage Paragraf 254
+- 20 Urteilsentwurf Finalisieren: Urteilsentwurf finalisieren: Rubrum, Tenor, Tatbestand, Entscheidungsgründe, Nebenentscheidungen, Rechtsmittelbelehrung; Schlussredaktion (Konsistenz Aktenzeichen Beteiligte Zitierweise), zur richterlichen Endprüfung markiert
+- 19 Nebenentscheidungen Kosten Vorlaeufige Vollstreckbarkeit: Nebenentscheidungen: Kosten Paragrafen 91 ff. ZPO, Baumbach'sche Formel bei subjektiver Klagehaeufung, vorläufige Vollstreckbarkeit Paragrafen 708-711 ZPO mit Vollstreckungsschutz Paragraf 712, Streitwert
+- 10 Erheblichkeit Pruefen: Erheblichkeitsprüfung (Beklagtenstation): sind Einwendungen und Einreden rechtlich erheblich? Schluessigkeit + Erheblichkeit = Erfolgsaussicht der Klage bei unstreitigem Sachverhalt
+- 05 Anspruchsgrundlagen Identifizieren: Anspruchsgrundlagen aufstellen: vertraglich, vertragsaehnlich, dinglich, deliktisch, bereicherungsrechtlich; Anspruchssystem nach Larenz/Wolf
+- 13 Beweislastverteilung Pruefen: Beweislastverteilung nach allgemeinen Regeln (Rosenberg-Formel) und Sondernormen (Paragraf 280 Abs. 1 S. 2 BGB, Paragraf 286 ZPO, Paragrafen 363 und 477 BGB), Beweisvereitelung, sekundaere Darlegungslast
 
 ## Antwortform
 

@@ -36,14 +36,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Fachanwalt Versicherungsrecht Berufsunfaehigkeit Klage:** Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung. Anwendungsfall BU-Versicherung hat Leistungsantrag abgelehnt oder Verweisung auf andere Tätigkeit ausgesprochen. Normen ParagrafParagraf 172 ff. VVG BU-Versicherung Paragraf 1…
-- **Fachanwalt Versicherungsrecht Deckungsklage:** Deckungsklage gegen Versicherer auf Versicherungsleistung nach erfolgloser außergerichtlicher Phase. Anwendungsfall Versicherer verweigert Leistung endgueltig und Klage soll erhoben werden. Normen Paragraf 1 VVG Versicherungsanspruch Parag…
-- **Krankenversicherung Risikoampel und Gegenargumente:** Krankenversicherung: Risikoampel, Gegenargumente und Verteidigungslinien: Krankenversicherung: Risikoampel, Gegenargumente und Verteidigungslinien.
-- **Berufsunfaehigkeit Fristen Form und Zustaendigkeit:** Berufsunfaehigkeit: Fristen, Form, Zuständigkeit und Rechtsweg: Berufsunfaehigkeit: Fristen, Form, Zuständigkeit und Rechtsweg.
-- **Deckungsklage Mehrparteien Konflikt und Interessen:** Deckungsklage: Mehrparteienkonflikt und Interessenmatrix: Deckungsklage: Mehrparteienkonflikt und Interessenmatrix.
-- **Erstpruefung und Mandatsziel:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
-- **Kanzlei Compliance Dokumentation und Akte:** Kanzlei: Compliance-Dokumentation und Aktenvermerk: Kanzlei: Compliance-Dokumentation und Aktenvermerk.
-- **Lebens Behoerden Gericht und Registerweg:** Lebens: Behörden-, Gerichts- oder Registerweg: Lebens: Behörden-, Gerichts- oder Registerweg.
+- Fachanwalt Versicherungsrecht Berufsunfaehigkeit Klage: Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung. Anwendungsfall BU-Versicherung hat Leistungsantrag abgelehnt oder Verweisung auf andere Tätigkeit ausgesprochen. Normen ParagrafParagraf 172 ff. VVG BU-Versicherung Paragraf 1…
+- Fachanwalt Versicherungsrecht Deckungsklage: Deckungsklage gegen Versicherer auf Versicherungsleistung nach erfolgloser außergerichtlicher Phase. Anwendungsfall Versicherer verweigert Leistung endgueltig und Klage soll erhoben werden. Normen Paragraf 1 VVG Versicherungsanspruch Parag…
+- Krankenversicherung Risikoampel und Gegenargumente: Krankenversicherung: Risikoampel, Gegenargumente und Verteidigungslinien: Krankenversicherung: Risikoampel, Gegenargumente und Verteidigungslinien.
+- Berufsunfaehigkeit Fristen Form und Zustaendigkeit: Berufsunfaehigkeit: Fristen, Form, Zuständigkeit und Rechtsweg: Berufsunfaehigkeit: Fristen, Form, Zuständigkeit und Rechtsweg.
+- Deckungsklage Mehrparteien Konflikt und Interessen: Deckungsklage: Mehrparteienkonflikt und Interessenmatrix: Deckungsklage: Mehrparteienkonflikt und Interessenmatrix.
+- Erstpruefung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
+- Kanzlei Compliance Dokumentation und Akte: Kanzlei: Compliance-Dokumentation und Aktenvermerk: Kanzlei: Compliance-Dokumentation und Aktenvermerk.
+- Lebens Behoerden Gericht und Registerweg: Lebens: Behörden-, Gerichts- oder Registerweg: Lebens: Behörden-, Gerichts- oder Registerweg.
 
 ## Antwortform
 

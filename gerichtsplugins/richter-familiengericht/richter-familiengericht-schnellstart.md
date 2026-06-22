@@ -36,14 +36,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **10 Entscheidungsvorschlag Familienrichter:** Strukturierter Entscheidungsvorschlag für den Familienrichter: Tenor-Skizze (Scheidungsausspruch, Folgesachen, Sorge/Umgang/Unterhalt), Kindeswohlerwaegungen, Risikohinweise (insbesondere bei Eilanordnungen), ausdrücklich zur richterlichen…
-- **09 Beschluss Familiensache Paragraf 38 Famfg:** Beschluss in Familiensache Paragraf 38 FamFG: Tenor, Sachverhalt (knapp), Gründe, Nebenentscheidungen FamGKG-Wert und Verteilung Paragrafen 80 ff. FamFG, Rechtsmittelbelehrung Beschwerde Paragrafen 58 ff. FamFG, Rechtsbeschwerde Paragraf 70
-- **07 Ehegattenunterhalt Trennung und Nachehe:** Trennungsunterhalt Paragraf 1361 BGB und nachehelicher Unterhalt Paragrafen 1569 ff. BGB: Anspruchsgrundlagen (Betreuungs-, Alters-, Krankheits-, Aufstockungsunterhalt), Befristung und Begrenzung Paragraf 1578b, Verwirkung Paragraf 1579
-- **04 Kindschaftssache Elterliche Sorge:** Sorgerechtsverfahren Paragrafen 1626 ff. BGB i.V.m. Paragrafen 151 ff. FamFG: Kindeswohlprüfung (Bindungs-, Foerder-, Kontinuitaetsprinzip, Kindeswille), Anhörung des Kindes Paragraf 159 FamFG, Verfahrensbeistand Paragraf 158, Eilanordnung…
-- **02 Ehesache Scheidung Paragraf 1565:** Scheidungsverfahren Paragrafen 1564 ff. BGB i.V.m. Paragrafen 121 ff. FamFG: Trennungsjahr Paragraf 1566, Zerruettung Paragraf 1565, Versorgungsausgleich Paragraf 1587, Folgesachen Paragraf 137 FamFG (Unterhalt, Sorgerecht, Zugewinn, Hausr…
-- **01 Zustaendigkeit und Zuteilung Familiensache:** Prüfung Zuständigkeit Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG, örtliche Zuständigkeit Paragrafen 122-124 FamFG, Geschaeftsverteilung; Verbund Paragraf 137 FamFG bei Scheidung; Verfahrenskostenhilfe Paragraf 76 FamFG
-- **08 Gewaltschutz und Eilanordnung:** Gewaltschutzverfahren GewSchG: Schutzanordnungen Paragraf 1 (Abstand, Naehe, Kontakt), Wohnungszuweisung Paragraf 2, Eilbeschluss Paragraf 214 FamFG, sofortige Wirksamkeit Paragraf 209 FamFG, Strafbewehrung Paragraf 4 GewSchG
-- **03 Versorgungsausgleich Vorbereiten:** Versorgungsausgleich nach VersAusglG: Auskuenfte der Versorgungstraeger einholen, Ehezeit feststellen Paragraf 3 VersAusglG, Anrechte ausgleichen Paragrafen 9-17 VersAusglG, Geringfuegigkeit Paragraf 18, Beschlussentwurf
+- 10 Entscheidungsvorschlag Familienrichter: Strukturierter Entscheidungsvorschlag für den Familienrichter: Tenor-Skizze (Scheidungsausspruch, Folgesachen, Sorge/Umgang/Unterhalt), Kindeswohlerwaegungen, Risikohinweise (insbesondere bei Eilanordnungen), ausdrücklich zur richterlichen…
+- 09 Beschluss Familiensache Paragraf 38 Famfg: Beschluss in Familiensache Paragraf 38 FamFG: Tenor, Sachverhalt (knapp), Gründe, Nebenentscheidungen FamGKG-Wert und Verteilung Paragrafen 80 ff. FamFG, Rechtsmittelbelehrung Beschwerde Paragrafen 58 ff. FamFG, Rechtsbeschwerde Paragraf 70
+- 07 Ehegattenunterhalt Trennung und Nachehe: Trennungsunterhalt Paragraf 1361 BGB und nachehelicher Unterhalt Paragrafen 1569 ff. BGB: Anspruchsgrundlagen (Betreuungs-, Alters-, Krankheits-, Aufstockungsunterhalt), Befristung und Begrenzung Paragraf 1578b, Verwirkung Paragraf 1579
+- 04 Kindschaftssache Elterliche Sorge: Sorgerechtsverfahren Paragrafen 1626 ff. BGB i.V.m. Paragrafen 151 ff. FamFG: Kindeswohlprüfung (Bindungs-, Foerder-, Kontinuitaetsprinzip, Kindeswille), Anhörung des Kindes Paragraf 159 FamFG, Verfahrensbeistand Paragraf 158, Eilanordnung…
+- 02 Ehesache Scheidung Paragraf 1565: Scheidungsverfahren Paragrafen 1564 ff. BGB i.V.m. Paragrafen 121 ff. FamFG: Trennungsjahr Paragraf 1566, Zerruettung Paragraf 1565, Versorgungsausgleich Paragraf 1587, Folgesachen Paragraf 137 FamFG (Unterhalt, Sorgerecht, Zugewinn, Hausr…
+- 01 Zustaendigkeit und Zuteilung Familiensache: Prüfung Zuständigkeit Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG, örtliche Zuständigkeit Paragrafen 122-124 FamFG, Geschaeftsverteilung; Verbund Paragraf 137 FamFG bei Scheidung; Verfahrenskostenhilfe Paragraf 76 FamFG
+- 08 Gewaltschutz und Eilanordnung: Gewaltschutzverfahren GewSchG: Schutzanordnungen Paragraf 1 (Abstand, Naehe, Kontakt), Wohnungszuweisung Paragraf 2, Eilbeschluss Paragraf 214 FamFG, sofortige Wirksamkeit Paragraf 209 FamFG, Strafbewehrung Paragraf 4 GewSchG
+- 03 Versorgungsausgleich Vorbereiten: Versorgungsausgleich nach VersAusglG: Auskuenfte der Versorgungstraeger einholen, Ehezeit feststellen Paragraf 3 VersAusglG, Anrechte ausgleichen Paragrafen 9-17 VersAusglG, Geringfuegigkeit Paragraf 18, Beschlussentwurf
 
 ## Antwortform
 

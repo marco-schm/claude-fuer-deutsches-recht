@@ -36,14 +36,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **10 Entscheidungsvorschlag Verwaltungsgericht:** Strukturierter Entscheidungsvorschlag: Tenor, Prüfungsschema Zulässigkeit Begründetheit, Argumentation der Behoerde gegenübergestellt dem Klägervortrag, Risikohinweise, ausdrücklich zur richterlichen Prüfung markiert
-- **01 Zulaessigkeit Verwaltungsklage:** Zulässigkeit der Klage: Verwaltungsrechtsweg Paragraf 40 VwGO, Klagearten Paragrafen 42 113 (Anfechtung Verpflichtung Feststellung), Klagebefugnis, Vorverfahren Paragraf 68, Frist Paragraf 74
-- **04 Begruendetheit Verpflichtungsklage:** Verpflichtungsklage Paragraf 113 Abs. 5 VwGO: Anspruch auf Erlass des begehrten VA, Bescheidungsurteil, Spruchreife, Beurteilungszeitpunkt
-- **03 Begruendetheit Anfechtungsklage:** Begründetheit Paragraf 113 Abs. 1 VwGO: Rechtmaessigkeit des Verwaltungsakts (Rechtsgrundlage, formelle und materielle Rechtmaessigkeit), subjektives Recht des Klägers
-- **07 Beweisaufnahme Verwaltungsgericht:** Beweisaufnahme Paragraf 96 VwGO i.V.m. ZPO: Sachverständigenbeweis, Zeugen, Augenschein, Urkunden, Beweiswürdigung Paragraf 108 VwGO
-- **09 Rechtsmittel Vwgo:** Berufung Paragrafen 124 ff. VwGO (Zulassung durch OVG/VGH), Revision Paragraf 132 VwGO (Zulassung durch BVerwG), Nichtzulassungsbeschwerde, Beschwerde Paragraf 146 VwGO
-- **08 Urteilsentwurf Paragraf 117 Vwgo:** Urteilsentwurf Paragraf 117 VwGO: Tenor, Tatbestand (Sachverhalt), Entscheidungsgründe (Zulässigkeit, Begründetheit), Nebenentscheidungen Paragraf 154 VwGO, Streitwert
-- **02 Amtsermittlung und Sachverhaltsfeststellung:** Amtsermittlungsgrundsatz Paragraf 86 VwGO, Ladung der Behoerde zur Vorlage der Akten Paragraf 99 VwGO, Sachverhaltsaufklärung, Beteiligtenvernehmung
+- 10 Entscheidungsvorschlag Verwaltungsgericht: Strukturierter Entscheidungsvorschlag: Tenor, Prüfungsschema Zulässigkeit Begründetheit, Argumentation der Behoerde gegenübergestellt dem Klägervortrag, Risikohinweise, ausdrücklich zur richterlichen Prüfung markiert
+- 01 Zulaessigkeit Verwaltungsklage: Zulässigkeit der Klage: Verwaltungsrechtsweg Paragraf 40 VwGO, Klagearten Paragrafen 42 113 (Anfechtung Verpflichtung Feststellung), Klagebefugnis, Vorverfahren Paragraf 68, Frist Paragraf 74
+- 04 Begruendetheit Verpflichtungsklage: Verpflichtungsklage Paragraf 113 Abs. 5 VwGO: Anspruch auf Erlass des begehrten VA, Bescheidungsurteil, Spruchreife, Beurteilungszeitpunkt
+- 03 Begruendetheit Anfechtungsklage: Begründetheit Paragraf 113 Abs. 1 VwGO: Rechtmaessigkeit des Verwaltungsakts (Rechtsgrundlage, formelle und materielle Rechtmaessigkeit), subjektives Recht des Klägers
+- 07 Beweisaufnahme Verwaltungsgericht: Beweisaufnahme Paragraf 96 VwGO i.V.m. ZPO: Sachverständigenbeweis, Zeugen, Augenschein, Urkunden, Beweiswürdigung Paragraf 108 VwGO
+- 09 Rechtsmittel Vwgo: Berufung Paragrafen 124 ff. VwGO (Zulassung durch OVG/VGH), Revision Paragraf 132 VwGO (Zulassung durch BVerwG), Nichtzulassungsbeschwerde, Beschwerde Paragraf 146 VwGO
+- 08 Urteilsentwurf Paragraf 117 Vwgo: Urteilsentwurf Paragraf 117 VwGO: Tenor, Tatbestand (Sachverhalt), Entscheidungsgründe (Zulässigkeit, Begründetheit), Nebenentscheidungen Paragraf 154 VwGO, Streitwert
+- 02 Amtsermittlung und Sachverhaltsfeststellung: Amtsermittlungsgrundsatz Paragraf 86 VwGO, Ladung der Behoerde zur Vorlage der Akten Paragraf 99 VwGO, Sachverhaltsaufklärung, Beteiligtenvernehmung
 
 ## Antwortform
 

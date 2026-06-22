@@ -34,14 +34,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Kaltstart Triage:** Allgemeiner Kaltstart im Versammlungsrecht: Land und Ort, Art der Versammlung, Frist, Behörde, Risiko und Ziel klären, dann passende Fachmodule und nächsten Output auswählen.
-- **Frist Stunden Kosten Haftung:** Berechnet die versammlungsrechtliche 48-Stunden-Frist bis zur Bekanntgabe oder Einladung und markiert Landesabweichungen im Versammlungsrecht.
-- **Widerspruch Klage Eilrechtsschutz:** Routet Widerspruch, Anfechtungsklage, Paragraf 80 Abs: 5 VwGO und Paragraf 123 VwGO bei versammlungsrechtlichen Bescheiden.
-- **Muster Eilantrag:** Erstellt ein Grundgerüst für verwaltungsgerichtlichen Eilrechtsschutz im Versammlungsrecht im Versammlungsrecht.
-- **Eingangsbestaetigung Aktenzeichen Falscher:** Sichert Nachweis von Anzeige, Eingang, Aktenzeichen und behördlicher Zuständigkeit im Versammlungsrecht.
-- **Nachbereitung Aktenvermerk Notfallkarte:** Erstellt Nachbereitung nach Durchführung, Auflagenproblemen, Polizeikontakt, Presse und möglichem Folgeverfahren im Versammlungsrecht.
-- **Muster Anzeige Eilantrag:** Erstellt eine präzise Anzeige für Kundgebung, Mahnwache, Demonstrationszug, Fahrradaufzug oder Dauerversammlung im Versammlungsrecht.
-- **Anzeige Unter Freiem Himmel:** Führt durch die Anzeige einer öffentlichen Versammlung unter freiem Himmel oder eines Aufzugs, ohne sie fälschlich als Genehmigungsantrag zu behandeln im Versammlungsrecht.
+- Kaltstart Triage: Allgemeiner Kaltstart im Versammlungsrecht: Land und Ort, Art der Versammlung, Frist, Behörde, Risiko und Ziel klären, dann passende Fachmodule und nächsten Output auswählen.
+- Frist Stunden Kosten Haftung: Berechnet die versammlungsrechtliche 48-Stunden-Frist bis zur Bekanntgabe oder Einladung und markiert Landesabweichungen im Versammlungsrecht.
+- Widerspruch Klage Eilrechtsschutz: Routet Widerspruch, Anfechtungsklage, Paragraf 80 Abs: 5 VwGO und Paragraf 123 VwGO bei versammlungsrechtlichen Bescheiden.
+- Muster Eilantrag: Erstellt ein Grundgerüst für verwaltungsgerichtlichen Eilrechtsschutz im Versammlungsrecht im Versammlungsrecht.
+- Eingangsbestaetigung Aktenzeichen Falscher: Sichert Nachweis von Anzeige, Eingang, Aktenzeichen und behördlicher Zuständigkeit im Versammlungsrecht.
+- Nachbereitung Aktenvermerk Notfallkarte: Erstellt Nachbereitung nach Durchführung, Auflagenproblemen, Polizeikontakt, Presse und möglichem Folgeverfahren im Versammlungsrecht.
+- Muster Anzeige Eilantrag: Erstellt eine präzise Anzeige für Kundgebung, Mahnwache, Demonstrationszug, Fahrradaufzug oder Dauerversammlung im Versammlungsrecht.
+- Anzeige Unter Freiem Himmel: Führt durch die Anzeige einer öffentlichen Versammlung unter freiem Himmel oder eines Aufzugs, ohne sie fälschlich als Genehmigungsantrag zu behandeln im Versammlungsrecht.
 
 ## Antwortform
 

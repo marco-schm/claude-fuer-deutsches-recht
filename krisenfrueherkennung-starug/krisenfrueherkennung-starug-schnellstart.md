@@ -31,19 +31,19 @@ Pflichtnormen aus dem Plugin-Material:
 - Paragraf 18 InsO
 - Paragraf 1 StaRUG
 Leitentscheidungen nur nach Live-Prüfung verwenden:
-- BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen Geschäftsführers für Neugläubigerschäden, solange die durch ihn geschaffene Gefährdungslage fortwirkt
+- BGH II ZR 206/22 vom 23.07.2024 — Fortwirkende Haftung des ausgeschiedenen Geschäftsführers für Neugläubigerschäden, solange die durch ihn geschaffene Gefährdungslage fortwirkt
 - BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22]
 
 ## Kernmodule
 
-- **Zahlungsunfaehigkeit Compliance Dokumentation und Akte:** Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk.
-- **Monats Risikoampel und Gegenargumente:** Monats: Risikoampel, Gegenargumente und Verteidigungslinien.
-- **Starug Fristen Form und Zustaendigkeit:** StaRUG: Fristen, Form, Zuständigkeit und Rechtsweg.
-- **Krisenstadien Fristennotiz Starug GF Haftung:** Krisenstadien: Fristennotiz und nächster Schritt.
-- **Insolvenzantragspflicht Paragraph 15a Inso und Drei Wochen Frist:** Insolvenzantragspflicht nach Paragraf 15a InsO und Drei-Wochen-Frist: GF prüft ob Insolvenzantrag gestellt werden muss. Normen: Paragraf 15a InsO (Antragspflicht), Paragraf 15a Abs. 4 InsO (Strafbarkeit), Paragraf 18 InsO (drohende ZU als…
-- **Einstieg Routing:** Einstieg, Triage und Routing für Krisenfrüherkennung StaRUG: ordnet Rolle (Geschäftsführung, Aufsichtsrat, Berater (WP, RA)), markiert Frist (Frühzeitige Indikatoren), wählt Norm (StaRUG Paragraf 1 Krisenfrüherkennung, Paragraf 18 InsO dro…
-- **Krisenstadien Stakeholder Strategie Ergebnis Liquiditaet:** IDW-S-6-Krisenstadien diagnostizieren und Handlungskorridore bestimmen: Berater oder GF will Krisenstadium und passende Maßnahmen ermitteln. Normen: IDW S 6 (Sanierungsstandard: Stakeholder-, Strategie-, Produkt-, Ertrags-, Liquiditaetskri…
-- **Start Chronologie Fristen:** Einstieg, Schnelltriage und Fallrouting im Krisenfrueherkennung Starug-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. B…
+- Zahlungsunfaehigkeit Compliance Dokumentation und Akte: Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk.
+- Monats Risikoampel und Gegenargumente: Monats: Risikoampel, Gegenargumente und Verteidigungslinien.
+- Starug Fristen Form und Zustaendigkeit: StaRUG: Fristen, Form, Zuständigkeit und Rechtsweg.
+- Krisenstadien Fristennotiz Starug GF Haftung: Krisenstadien: Fristennotiz und nächster Schritt.
+- Insolvenzantragspflicht Paragraph 15a Inso und Drei Wochen Frist: Insolvenzantragspflicht nach Paragraf 15a InsO und Drei-Wochen-Frist: GF prüft ob Insolvenzantrag gestellt werden muss. Normen: Paragraf 15a InsO (Antragspflicht), Paragraf 15a Abs. 4 InsO (Strafbarkeit), Paragraf 18 InsO (drohende ZU als…
+- Einstieg Routing: Einstieg, Triage und Routing für Krisenfrüherkennung StaRUG: ordnet Rolle (Geschäftsführung, Aufsichtsrat, Berater (WP, RA)), markiert Frist (Frühzeitige Indikatoren), wählt Norm (StaRUG Paragraf 1 Krisenfrüherkennung, Paragraf 18 InsO dro…
+- Krisenstadien Stakeholder Strategie Ergebnis Liquiditaet: IDW-S-6-Krisenstadien diagnostizieren und Handlungskorridore bestimmen: Berater oder GF will Krisenstadium und passende Maßnahmen ermitteln. Normen: IDW S 6 (Sanierungsstandard: Stakeholder-, Strategie-, Produkt-, Ertrags-, Liquiditaetskri…
+- Start Chronologie Fristen: Einstieg, Schnelltriage und Fallrouting im Krisenfrueherkennung Starug-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. B…
 
 ## Antwortform
 

@@ -36,14 +36,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Baugenehmigung Nachbarklage Paragraf 58 Vwgo Bverwg 4 C 1 19:** Baugenehmigung Nachbarklage Paragraf 58 VwGO BVerwG 4 C 1 19: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt.
-- **Verjaehrungsbeginn Werkvertrag BGH VII ZR 301 13:** Verjaehrungsbeginn Werkvertrag BGH Vii Zr 301 13: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt.
-- **FA BAU Architekten Quellen Frist Next:** Rechtsquellen: Quellenprüfung; Fristennotiz und nächster Schritt: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert
-- **Schnittstellen Compliance Dokumentation und Akte:** Schnittstellen: Compliance-Dokumentation und Aktenvermerk: Schnittstellen: Compliance-Dokumentation und Aktenvermerk.
-- **Mandat Mandantenkommunikation Entscheidungsvorlage:** Mandat: Mandantenkommunikation und Entscheidungsvorlage: Mandat: Mandantenkommunikation und Entscheidungsvorlage.
-- **Triage Beweislast und Darlegungslast:** Triage: Beweislast, Darlegungslast und Substantiierung: Triage: Beweislast, Darlegungslast und Substantiierung.
-- **Bautraegervertrag MEV Verstoss BGH VII ZR 25 20:** Bautraegervertrag MaBV-Verstoss mit BGH VII ZR 25/20; Prüfraster Vorleistungsverbot Erstattungsanspruch.
-- **Einstieg Routing:** Einstieg, Triage und Routing für Fachanwalt Bau- und Architektenrecht: ordnet Rolle (Bauherr, Bauunternehmer, Architekt), markiert Frist (Verjährung 5 Jahre Paragraf 634a BGB), wählt Norm (BGB ParagrafParagraf 631 ff., 650a ff. Bauvertrag…
+- Baugenehmigung Nachbarklage Paragraf 58 Vwgo Bverwg 4 C 1 19: Baugenehmigung Nachbarklage Paragraf 58 VwGO BVerwG 4 C 1 19: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt.
+- Verjaehrungsbeginn Werkvertrag BGH VII ZR 301 13: Verjaehrungsbeginn Werkvertrag BGH Vii Zr 301 13: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt.
+- FA BAU Architekten Quellen Frist Next: Rechtsquellen: Quellenprüfung; Fristennotiz und nächster Schritt: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert
+- Schnittstellen Compliance Dokumentation und Akte: Schnittstellen: Compliance-Dokumentation und Aktenvermerk: Schnittstellen: Compliance-Dokumentation und Aktenvermerk.
+- Mandat Mandantenkommunikation Entscheidungsvorlage: Mandat: Mandantenkommunikation und Entscheidungsvorlage: Mandat: Mandantenkommunikation und Entscheidungsvorlage.
+- Triage Beweislast und Darlegungslast: Triage: Beweislast, Darlegungslast und Substantiierung: Triage: Beweislast, Darlegungslast und Substantiierung.
+- Bautraegervertrag MEV Verstoss BGH VII ZR 25 20: Bautraegervertrag MaBV-Verstoss mit BGH VII ZR 25/20; Prüfraster Vorleistungsverbot Erstattungsanspruch.
+- Einstieg Routing: Einstieg, Triage und Routing für Fachanwalt Bau- und Architektenrecht: ordnet Rolle (Bauherr, Bauunternehmer, Architekt), markiert Frist (Verjährung 5 Jahre Paragraf 634a BGB), wählt Norm (BGB ParagrafParagraf 631 ff., 650a ff. Bauvertrag…
 
 ## Antwortform
 

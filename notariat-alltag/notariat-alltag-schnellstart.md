@@ -34,14 +34,14 @@ Pflichtnormen aus dem Plugin-Material:
 
 ## Kernmodule
 
-- **Kaltstart Triage:** Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext…
-- **061 Sorgerechtsgenehmigung Familiengerichtliche Genehmi:** Notariat im Alltag: Sorgerechtsgenehmigung – familiengerichtliche Genehmigung für Minderjährige. Genehmigungspflichten nach ParagrafParagraf 1643 und 1821 ff. BGB n.F., Antrag beim Familiengericht, Genehmigungsinhalt und Vollzugskoordinati…
-- **029 Familiengesellschaft Poolvertrag und Minderjaehrige:** Notariat im Alltag: Familiengesellschaft, Poolvertrag und Minderjährige. Gestaltung von Familien-GmbH und GbR, Poolverträge zur Sicherung von Gesellschaftermehrheiten, Beteiligung Minderjähriger und familiengerichtliche Genehmigung im Nota…
-- **015 Schenkungsvertrag Niessbrauch Wohnrecht Rueckforder:** Notariat im Alltag: Schenkungsvertrag – Nießbrauch, Wohnrecht, Rückforderung und Pflegeklausel. Formzwang bei Schenkungsversprechen, dingliche Absicherung des Schenkers, steuerliche Aspekte und typische Klauselbausteine im Notariat.
-- **039 Fristenkalender Vollzugsmonitor Wiedervorlage Eskal:** Notariat im Alltag: Fristenkalender, Vollzugsmonitor, Wiedervorlage und Eskalation. Systematisches Fristenmanagement im Notariat, Wiedervorlagepflichten und Eskalationsregeln bei drohenden Vollzugsblockaden im Notariat.
-- **Ehevertrag Scheidungsfolgenvereinbarung:** Notariat im Alltag: Ehevertrag, Scheidungsfolgenvereinbarung, Versorgungsausgleich und Belehrung. Formzwang Paragraf 1410 BGB, Kernbereichslehre des BGH, Sittenwidrigkeit und Belehrungspflichten des Notars im Notariat.
-- **Zwischenverfuegung Registergericht:** Notariat im Alltag: Zwischenverfügung Registergericht – Antwortstrategie und Frist. Typische Beanstandungen bei HR- und Grundbuchanmeldungen, Nachreichungsstrategien, Fristverlängerung und Beschwerde im Notariat.
-- **Bautraegervertrag Mabv Familiengesellschaft:** Notariat im Alltag: Bauträgervertrag – MaBV, Ratenplan und Abnahmefallen. Pflichtinhalt nach MaBV, Sicherungsanforderungen, Ratenplan-Voraussetzungen, Abnahme und typische Risiken für Erwerber im Notariat.
+- Kaltstart Triage: Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext…
+- 061 Sorgerechtsgenehmigung Familiengerichtliche Genehmi: Notariat im Alltag: Sorgerechtsgenehmigung – familiengerichtliche Genehmigung für Minderjährige. Genehmigungspflichten nach ParagrafParagraf 1643 und 1821 ff. BGB n.F., Antrag beim Familiengericht, Genehmigungsinhalt und Vollzugskoordinati…
+- 029 Familiengesellschaft Poolvertrag und Minderjaehrige: Notariat im Alltag: Familiengesellschaft, Poolvertrag und Minderjährige. Gestaltung von Familien-GmbH und GbR, Poolverträge zur Sicherung von Gesellschaftermehrheiten, Beteiligung Minderjähriger und familiengerichtliche Genehmigung im Nota…
+- 015 Schenkungsvertrag Niessbrauch Wohnrecht Rueckforder: Notariat im Alltag: Schenkungsvertrag – Nießbrauch, Wohnrecht, Rückforderung und Pflegeklausel. Formzwang bei Schenkungsversprechen, dingliche Absicherung des Schenkers, steuerliche Aspekte und typische Klauselbausteine im Notariat.
+- 039 Fristenkalender Vollzugsmonitor Wiedervorlage Eskal: Notariat im Alltag: Fristenkalender, Vollzugsmonitor, Wiedervorlage und Eskalation. Systematisches Fristenmanagement im Notariat, Wiedervorlagepflichten und Eskalationsregeln bei drohenden Vollzugsblockaden im Notariat.
+- Ehevertrag Scheidungsfolgenvereinbarung: Notariat im Alltag: Ehevertrag, Scheidungsfolgenvereinbarung, Versorgungsausgleich und Belehrung. Formzwang Paragraf 1410 BGB, Kernbereichslehre des BGH, Sittenwidrigkeit und Belehrungspflichten des Notars im Notariat.
+- Zwischenverfuegung Registergericht: Notariat im Alltag: Zwischenverfügung Registergericht – Antwortstrategie und Frist. Typische Beanstandungen bei HR- und Grundbuchanmeldungen, Nachreichungsstrategien, Fristverlängerung und Beschwerde im Notariat.
+- Bautraegervertrag Mabv Familiengesellschaft: Notariat im Alltag: Bauträgervertrag – MaBV, Ratenplan und Abnahmefallen. Pflichtinhalt nach MaBV, Sicherungsanforderungen, Ratenplan-Voraussetzungen, Abnahme und typische Risiken für Erwerber im Notariat.
 
 ## Antwortform
 

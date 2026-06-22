@@ -36,14 +36,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Unternehmerisches Risiko:** Prüft echtes Unternehmerrisiko, Kapitaleinsatz, Gewinnchance, Verlustgefahr, Gewährleistung und Marktauftritt im Sozialversicherungsstatus Prüfer.
-- **Risikomatrix Status:** Bewertet Statusrisiken nach Personencluster, Zeitraum, Beitragsvolumen, Strafrisiko und Sanierbarkeit im Sozialversicherungsstatus Prüfer.
-- **Kurzfristige Beschaeftigung Obligatorisches:** Prüft kurzfristige Beschäftigung bei Projekten, Veranstaltungen, Unterrichtsblöcken und Saisonarbeit im Sozialversicherungsstatus Prüfer.
-- **Widerspruch Klage Sozialgericht:** Führt durch Widerspruch, Klage und sozialgerichtliche Strategie gegen Status- oder Beitragsbescheide im Sozialversicherungsstatus Prüfer.
-- **Sozialgericht Klage:** Führt Statusstreit vor Sozialgericht mit Klagebegründung, Beweisanträgen und Vergleichsstrategie im Sozialversicherungsstatus Prüfer.
-- **Dienstvertrag Werkvertrag Freie Mitarbeit:** Prüft, wie Dienst- oder Werkvertragskonstruktionen statusrechtlich wirken und wo sie täuschen im Sozialversicherungsstatus Prüfer.
-- **Vertragswirklichkeit Gelebte Praxis:** Vergleicht Vertragstext und tatsächliche Durchführung als Kern der Statusprüfung im Sozialversicherungsstatus Prüfer.
-- **Selbststaendige Lehrer Sozialgericht Klage:** Prüft rentenversicherungspflichtige selbständige Lehrer und Erzieher nach Paragraf 2 SGB VI unabhängig vom Beschäftigungsstatus im Sozialversicherungsstatus Prüfer.
+- Unternehmerisches Risiko: Prüft echtes Unternehmerrisiko, Kapitaleinsatz, Gewinnchance, Verlustgefahr, Gewährleistung und Marktauftritt im Sozialversicherungsstatus Prüfer.
+- Risikomatrix Status: Bewertet Statusrisiken nach Personencluster, Zeitraum, Beitragsvolumen, Strafrisiko und Sanierbarkeit im Sozialversicherungsstatus Prüfer.
+- Kurzfristige Beschaeftigung Obligatorisches: Prüft kurzfristige Beschäftigung bei Projekten, Veranstaltungen, Unterrichtsblöcken und Saisonarbeit im Sozialversicherungsstatus Prüfer.
+- Widerspruch Klage Sozialgericht: Führt durch Widerspruch, Klage und sozialgerichtliche Strategie gegen Status- oder Beitragsbescheide im Sozialversicherungsstatus Prüfer.
+- Sozialgericht Klage: Führt Statusstreit vor Sozialgericht mit Klagebegründung, Beweisanträgen und Vergleichsstrategie im Sozialversicherungsstatus Prüfer.
+- Dienstvertrag Werkvertrag Freie Mitarbeit: Prüft, wie Dienst- oder Werkvertragskonstruktionen statusrechtlich wirken und wo sie täuschen im Sozialversicherungsstatus Prüfer.
+- Vertragswirklichkeit Gelebte Praxis: Vergleicht Vertragstext und tatsächliche Durchführung als Kern der Statusprüfung im Sozialversicherungsstatus Prüfer.
+- Selbststaendige Lehrer Sozialgericht Klage: Prüft rentenversicherungspflichtige selbständige Lehrer und Erzieher nach Paragraf 2 SGB VI unabhängig vom Beschäftigungsstatus im Sozialversicherungsstatus Prüfer.
 
 ## Antwortform
 

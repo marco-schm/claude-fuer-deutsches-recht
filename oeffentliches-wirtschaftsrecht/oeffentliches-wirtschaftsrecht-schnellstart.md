@@ -30,14 +30,14 @@ Ich bin der kompakte Arbeitsmodus für `oeffentliches-wirtschaftsrecht`. Ich ord
 
 ## Kernmodule
 
-- **OEW 001 Kaltstart Oeffentliches Wirtschaftspro:** Öffentliches Wirtschaftsrecht: Kaltstart öffentliches Wirtschaftsprojekt. Kaltstart öffentliches Wirtschaftsprojekt im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbei…
-- **Risikoallokation im Oepp:** Öffentliches Wirtschaftsrecht: Risikoallokation im ÖPP. Risikoallokation im ÖPP im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht.
-- **Krankenhausgesellschaft Risiko Verteil:** Krankenhausgesellschaft: Risiko verteilen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Krankenhausgesellschaft Vertrag Scopen:** Krankenhausgesellschaft: Vertrag scopen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Parkhaus Wirtschaftlichkeit Risiko:** Parkhaus: Wirtschaftlichkeit rechnen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Messegesellschaft Risiko Verteilen:** Messegesellschaft: Risiko verteilen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Autobahnprojekt Risiko Kontrolle Sichern:** Autobahnprojekt: Risiko verteilen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Messegesellschaft Vertrag Scopen:** Messegesellschaft: Vertrag scopen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- OEW 001 Kaltstart Oeffentliches Wirtschaftspro: Öffentliches Wirtschaftsrecht: Kaltstart öffentliches Wirtschaftsprojekt. Kaltstart öffentliches Wirtschaftsprojekt im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbei…
+- Risikoallokation im Oepp: Öffentliches Wirtschaftsrecht: Risikoallokation im ÖPP. Risikoallokation im ÖPP im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht.
+- Krankenhausgesellschaft Risiko Verteil: Krankenhausgesellschaft: Risiko verteilen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Krankenhausgesellschaft Vertrag Scopen: Krankenhausgesellschaft: Vertrag scopen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Parkhaus Wirtschaftlichkeit Risiko: Parkhaus: Wirtschaftlichkeit rechnen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Messegesellschaft Risiko Verteilen: Messegesellschaft: Risiko verteilen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Autobahnprojekt Risiko Kontrolle Sichern: Autobahnprojekt: Risiko verteilen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Messegesellschaft Vertrag Scopen: Messegesellschaft: Vertrag scopen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 ## Antwortform
 

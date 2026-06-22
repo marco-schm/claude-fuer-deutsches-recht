@@ -30,14 +30,14 @@ Praxisplugin für Erbbaurecht und Erbbaugrundbuch: Erbbaurechtsvertrag, Erbbauzi
 
 ## Kernmodule
 
-- **Ablauf Laufzeitende Erbbaurecht Aktenstruktur:** Prüft die letzten zehn Jahre eines Erbbaurechts: Verlängerung, Neubestellung, Entschädigung, Rückbau, Finanzierungsauslauf, Mieter-/Betreiberkommunikation und Verhandlungsstrategie im Erbbaurecht Praxis.
-- **Verkauf SPA Erbbaurechtsvertrag Pflichtinhalt:** Entwirft SPA-Klauseln zu Zustimmung, Zinsrückstand, Heimfallrisiko, Belastungen, Garantien und Closing im Erbbaurecht Praxis.
-- **Erbbaurecht Aktenstruktur:** Sortiert Vertrag, Grundbuch, Zins, Zustimmung, Bau, Bank, Kommunikation und Streit chronologisch im Erbbaurecht Praxis.
-- **Erbbaurecht Schieds und Gerichtsstand:** Prüft Schiedsklausel, Gerichtsstand, Beweisverfahren, Gutachterklausel und Vergleichsmechanik im Erbbaurecht Praxis.
-- **Rueckbau am Schieds Gerichtsstand:** Ordnet Rückbaupflicht, Entschädigung, Zustandserfassung, Sicherheiten und Konfliktstrategie im Erbbaurecht Praxis.
-- **Erbbaurecht Vorlage Zustimmungsantrag:** Entwirft Antrag an Grundstückseigentümer für Veräußerung, Belastung oder bauliche Änderung im Erbbaurecht Praxis.
-- **Erbbau Beschwerde Erbbaugrundbuch Lesen:** Prüft Zwischenverfügung, Rangproblem, Zustimmung, Nachweise und Beschwerde im Erbbaurecht Praxis.
-- **Erbbaurechtsvertrag Pflichtinhalt:** Prüft Grundstück, Bauwerk, Laufzeit, Nutzung, Erbbauzins, Heimfall, Zustimmung, Versicherung, Instandhaltung und Entschädigung im Erbbaurecht Praxis.
+- Ablauf Laufzeitende Erbbaurecht Aktenstruktur: Prüft die letzten zehn Jahre eines Erbbaurechts: Verlängerung, Neubestellung, Entschädigung, Rückbau, Finanzierungsauslauf, Mieter-/Betreiberkommunikation und Verhandlungsstrategie im Erbbaurecht Praxis.
+- Verkauf SPA Erbbaurechtsvertrag Pflichtinhalt: Entwirft SPA-Klauseln zu Zustimmung, Zinsrückstand, Heimfallrisiko, Belastungen, Garantien und Closing im Erbbaurecht Praxis.
+- Erbbaurecht Aktenstruktur: Sortiert Vertrag, Grundbuch, Zins, Zustimmung, Bau, Bank, Kommunikation und Streit chronologisch im Erbbaurecht Praxis.
+- Erbbaurecht Schieds und Gerichtsstand: Prüft Schiedsklausel, Gerichtsstand, Beweisverfahren, Gutachterklausel und Vergleichsmechanik im Erbbaurecht Praxis.
+- Rueckbau am Schieds Gerichtsstand: Ordnet Rückbaupflicht, Entschädigung, Zustandserfassung, Sicherheiten und Konfliktstrategie im Erbbaurecht Praxis.
+- Erbbaurecht Vorlage Zustimmungsantrag: Entwirft Antrag an Grundstückseigentümer für Veräußerung, Belastung oder bauliche Änderung im Erbbaurecht Praxis.
+- Erbbau Beschwerde Erbbaugrundbuch Lesen: Prüft Zwischenverfügung, Rangproblem, Zustimmung, Nachweise und Beschwerde im Erbbaurecht Praxis.
+- Erbbaurechtsvertrag Pflichtinhalt: Prüft Grundstück, Bauwerk, Laufzeit, Nutzung, Erbbauzins, Heimfall, Zustimmung, Versicherung, Instandhaltung und Entschädigung im Erbbaurecht Praxis.
 
 ## Antwortform
 

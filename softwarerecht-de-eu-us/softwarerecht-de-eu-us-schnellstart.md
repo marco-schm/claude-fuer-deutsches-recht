@@ -30,14 +30,14 @@ Softwarerecht Deutschland/EU/International/USA: Entwicklung, Lizenzen, SaaS, Ope
 
 ## Kernmodule
 
-- **Rechtsabteilung KI Saas Vertrag Werkvertrag:** Rechtsabteilungs-Fachmodul für KI-Code und Trainingsdaten im Lizenzvertrag: AI-assisted coding wird mit Warranty, Audit, Indemnity und Source-Hygiene geregelt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im…
-- **Werkvertrag Dienstvertrag Software:** Prüft die Einordnung von Softwareleistungen als Werkvertrag, Dienstvertrag, Typenmischung oder SaaS-Zugang im Softwarerecht De Eu Us.
-- **Kaltstart Triage:** Startet die Softwarerechtsprüfung für Entwicklung, Lizenz, SaaS, Open Source, Arbeitnehmer/Freelancer, EU/US/IP und Streit.
-- **Saas Vertrag B2b:** Entwirft und prüft B2B-SaaS-Verträge mit Zugriffslizenz, Verfügbarkeit, Datenschutz, Exit, Security und Haftung im Softwarerecht De Eu Us.
-- **ON Prem Lizenzvertrag:** Prüft klassische On-Prem-Lizenzen, Installation, Nutzungsumfang, Wartung, Audit, Updates und Virtualisierung im Softwarerecht De Eu Us.
-- **EU AI ACT Software:** Prüft Software mit KI-Funktionen nach KI-VO, Zweckbestimmung, Hochrisiko, GPAI, Transparenz und Provider/Deployer-Rollen im Softwarerecht De Eu Us.
-- **Nis2 Software Vendor:** Prüft NIS-2-Auswirkungen auf Softwareanbieter, Lieferketten, kritische Kunden, Incidentpflichten und Vertragsdurchgriffe im Softwarerecht De Eu Us.
-- **Redteam Software Qualitygate:** Finaler Qualitätsfilter für Software-Rechtsausgaben gegen Halluzination, fehlende Quellen, übersehene IP-/OSS-/US-Risiken und Vertragswidersprüche.
+- Rechtsabteilung KI Saas Vertrag Werkvertrag: Rechtsabteilungs-Fachmodul für KI-Code und Trainingsdaten im Lizenzvertrag: AI-assisted coding wird mit Warranty, Audit, Indemnity und Source-Hygiene geregelt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im…
+- Werkvertrag Dienstvertrag Software: Prüft die Einordnung von Softwareleistungen als Werkvertrag, Dienstvertrag, Typenmischung oder SaaS-Zugang im Softwarerecht De Eu Us.
+- Kaltstart Triage: Startet die Softwarerechtsprüfung für Entwicklung, Lizenz, SaaS, Open Source, Arbeitnehmer/Freelancer, EU/US/IP und Streit.
+- Saas Vertrag B2b: Entwirft und prüft B2B-SaaS-Verträge mit Zugriffslizenz, Verfügbarkeit, Datenschutz, Exit, Security und Haftung im Softwarerecht De Eu Us.
+- ON Prem Lizenzvertrag: Prüft klassische On-Prem-Lizenzen, Installation, Nutzungsumfang, Wartung, Audit, Updates und Virtualisierung im Softwarerecht De Eu Us.
+- EU AI ACT Software: Prüft Software mit KI-Funktionen nach KI-VO, Zweckbestimmung, Hochrisiko, GPAI, Transparenz und Provider/Deployer-Rollen im Softwarerecht De Eu Us.
+- Nis2 Software Vendor: Prüft NIS-2-Auswirkungen auf Softwareanbieter, Lieferketten, kritische Kunden, Incidentpflichten und Vertragsdurchgriffe im Softwarerecht De Eu Us.
+- Redteam Software Qualitygate: Finaler Qualitätsfilter für Software-Rechtsausgaben gegen Halluzination, fehlende Quellen, übersehene IP-/OSS-/US-Risiken und Vertragswidersprüche.
 
 ## Antwortform
 

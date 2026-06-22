@@ -36,14 +36,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **09 Urteil Sozialgericht:** Urteil Paragrafen 132 ff. SGG: Tenor (Aufhebung, Verurteilung zur Leistung, Bescheidung), Tatbestand, Entscheidungsgründe, Nebenentscheidungen Paragrafen 193 ff. SGG (Kosten), Berufung an LSG, Revision an BSG
-- **10 Entscheidungsvorschlag Sozialgericht:** Strukturierter Entscheidungsvorschlag: Tenor-Skizze, sozialrechtliche Anspruchsprüfung, medizinische Beweiswürdigung, soziale Faktoren, Risikohinweise, ausdrücklich zur richterlichen Prüfung markiert
-- **01 Zulaessigkeit Sozialklage:** Zulässigkeit Paragrafen 51 ff. SGG: Rechtsweg, Klagearten (Anfechtung Leistung Untaetigkeit Feststellung), Vorverfahren Paragraf 78, Klagefrist Paragraf 87, Klagebefugnis
-- **02 Amtsermittlung Sozialgericht:** Amtsermittlungsgrundsatz Paragraf 103 SGG: Beweisaufnahme von Amts wegen, Sachverständigengutachten Paragraf 109 SGG (Anhörung eines bestimmten Arztes), Beiziehung medizinischer Unterlagen
-- **04 Krankenversicherung Pruefung:** Krankenversicherung SGB V: Versicherungspflicht Paragraf 5, Leistungsanspruch Paragraf 27 (Krankenbehandlung), Hilfsmittel Paragraf 33, Krankengeld Paragraf 44, ambulante und stationaere Behandlung
-- **07 Buergergeld und SGB II:** Buergergeld SGB II: Anspruchsberechtigung Paragraf 7 SGB II, Bedarfsgemeinschaft, Regelbedarf Paragraf 20, Kosten der Unterkunft Paragraf 22, Sanktionen Paragraf 31 ff. (jetzt Leistungsminderungen)
-- **03 Eilrechtsschutz Paragraf 86b:** Einstweiliger Rechtsschutz Paragraf 86b SGG: Anordnung der aufschiebenden Wirkung Abs. 1, einstweilige Anordnung Abs. 2 (Anordnungsanspruch und -grund), Existenzsicherung in Eilfaellen
-- **06 Unfallversicherung Pruefung:** Gesetzliche Unfallversicherung SGB VII: Arbeitsunfall Paragraf 8, Berufskrankheit Paragraf 9, Versicherte Paragraf 2, Heilbehandlung Paragraf 27, Verletztenrente Paragraf 56
+- 09 Urteil Sozialgericht: Urteil Paragrafen 132 ff. SGG: Tenor (Aufhebung, Verurteilung zur Leistung, Bescheidung), Tatbestand, Entscheidungsgründe, Nebenentscheidungen Paragrafen 193 ff. SGG (Kosten), Berufung an LSG, Revision an BSG
+- 10 Entscheidungsvorschlag Sozialgericht: Strukturierter Entscheidungsvorschlag: Tenor-Skizze, sozialrechtliche Anspruchsprüfung, medizinische Beweiswürdigung, soziale Faktoren, Risikohinweise, ausdrücklich zur richterlichen Prüfung markiert
+- 01 Zulaessigkeit Sozialklage: Zulässigkeit Paragrafen 51 ff. SGG: Rechtsweg, Klagearten (Anfechtung Leistung Untaetigkeit Feststellung), Vorverfahren Paragraf 78, Klagefrist Paragraf 87, Klagebefugnis
+- 02 Amtsermittlung Sozialgericht: Amtsermittlungsgrundsatz Paragraf 103 SGG: Beweisaufnahme von Amts wegen, Sachverständigengutachten Paragraf 109 SGG (Anhörung eines bestimmten Arztes), Beiziehung medizinischer Unterlagen
+- 04 Krankenversicherung Pruefung: Krankenversicherung SGB V: Versicherungspflicht Paragraf 5, Leistungsanspruch Paragraf 27 (Krankenbehandlung), Hilfsmittel Paragraf 33, Krankengeld Paragraf 44, ambulante und stationaere Behandlung
+- 07 Buergergeld und SGB II: Buergergeld SGB II: Anspruchsberechtigung Paragraf 7 SGB II, Bedarfsgemeinschaft, Regelbedarf Paragraf 20, Kosten der Unterkunft Paragraf 22, Sanktionen Paragraf 31 ff. (jetzt Leistungsminderungen)
+- 03 Eilrechtsschutz Paragraf 86b: Einstweiliger Rechtsschutz Paragraf 86b SGG: Anordnung der aufschiebenden Wirkung Abs. 1, einstweilige Anordnung Abs. 2 (Anordnungsanspruch und -grund), Existenzsicherung in Eilfaellen
+- 06 Unfallversicherung Pruefung: Gesetzliche Unfallversicherung SGB VII: Arbeitsunfall Paragraf 8, Berufskrankheit Paragraf 9, Versicherte Paragraf 2, Heilbehandlung Paragraf 27, Verletztenrente Paragraf 56
 
 ## Antwortform
 

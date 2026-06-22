@@ -30,14 +30,14 @@ Private-Equity-Praxis-Plugin für deutsche Kanzleien, Investoren, Fonds, Family 
 
 ## Kernmodule
 
-- **Kaltstart Deal und Investor Routing:** Führt in 60 Sekunden durch Rolle, Deal-Phase, Ticketgröße, Fonds-/Direktinvestment, Fristen, Unterlagen und gewünschten Output.
-- **Insolvenzrisiko für PE Sponsor:** Prüft Sponsor-Haftung, faktische Geschäftsführung, Cash Pool, Sanierungspflichten, Anfechtung und Rangrücktritt im Private Equity Praxis.
-- **ESG Sfdr und Lieferketten im PE Mandat:** Prüft ESG-Klassifizierung, SFDR-Kommunikation, CSRD-Daten, LkSG/CSDDD-Schnittstellen und Portfolio-Pflichten im Private Equity Praxis.
-- **Kanzlei Projektsteuerung für PE Mandate:** Plant Staffing, Budget, Workstreams, Review-Gates, Datenraum, Call Notes, Issues List und Partnerfreigabe im Private Equity Praxis.
-- **Rechtsabteilung Management Participation Sweet Equity:** Rechtsabteilungs-Fachmodul für Management Participation Sweet Equity: Sweet Equity wird steuerlich, arbeitsrechtlich und vesting-seitig in eine Risikoampel übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsopt…
-- **Anfaenger Modus PE Begriffe Ohne Gesichtsverlust:** Erklärt Private Equity, Sponsor, Fund, GP/LP, Carry, Waterfall, Leverage, Multiple, IRR, Co-Invest und Exit anhand eines konkreten Mandats im Private Equity Praxis.
-- **Investorprofil LP GP Family Office:** Baut aus Anlegerstatus, Ticketgröße, Risikoappetit, Haltedauer, ESG-Vorgaben und regulatorischem Profil ein Investmentprofil im Private Equity Praxis.
-- **Schuldschein Transfer:** Prüft Abtretung, Vertragsübernahme, Zustimmung, Notice, Sicherheiten, Vertraulichkeit und Register-/Zahlstellenlogik im Private Equity Praxis.
+- Kaltstart Deal und Investor Routing: Führt in 60 Sekunden durch Rolle, Deal-Phase, Ticketgröße, Fonds-/Direktinvestment, Fristen, Unterlagen und gewünschten Output.
+- Insolvenzrisiko für PE Sponsor: Prüft Sponsor-Haftung, faktische Geschäftsführung, Cash Pool, Sanierungspflichten, Anfechtung und Rangrücktritt im Private Equity Praxis.
+- ESG Sfdr und Lieferketten im PE Mandat: Prüft ESG-Klassifizierung, SFDR-Kommunikation, CSRD-Daten, LkSG/CSDDD-Schnittstellen und Portfolio-Pflichten im Private Equity Praxis.
+- Kanzlei Projektsteuerung für PE Mandate: Plant Staffing, Budget, Workstreams, Review-Gates, Datenraum, Call Notes, Issues List und Partnerfreigabe im Private Equity Praxis.
+- Rechtsabteilung Management Participation Sweet Equity: Rechtsabteilungs-Fachmodul für Management Participation Sweet Equity: Sweet Equity wird steuerlich, arbeitsrechtlich und vesting-seitig in eine Risikoampel übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsopt…
+- Anfaenger Modus PE Begriffe Ohne Gesichtsverlust: Erklärt Private Equity, Sponsor, Fund, GP/LP, Carry, Waterfall, Leverage, Multiple, IRR, Co-Invest und Exit anhand eines konkreten Mandats im Private Equity Praxis.
+- Investorprofil LP GP Family Office: Baut aus Anlegerstatus, Ticketgröße, Risikoappetit, Haltedauer, ESG-Vorgaben und regulatorischem Profil ein Investmentprofil im Private Equity Praxis.
+- Schuldschein Transfer: Prüft Abtretung, Vertragsübernahme, Zustimmung, Notice, Sicherheiten, Vertraulichkeit und Register-/Zahlstellenlogik im Private Equity Praxis.
 
 ## Antwortform
 

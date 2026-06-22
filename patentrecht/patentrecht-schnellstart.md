@@ -33,14 +33,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Kaltstart Triage:** Einstieg, Schnelltriage und Fallrouting im Patentrecht-Plugin. Erkennt Patentanmeldung, Erfindungsmeldung, Recherche, FTO, Abmahnung, Lizenz, Einspruch, Nichtigkeit, Register- und Fristenfragen; schlägt passende Fachmodule aus diesem Plugi…
-- **Einstieg Routing:** Einstieg, Triage und Routing für Patentrecht (Verfahren, Verletzung): ordnet Rolle (Patentinhaber, Verletzer, Lizenznehmer), markiert Frist (Einspruch EPA 9 Monate), wählt Norm (PatG, IntPatÜG, EPÜ, UPCA, ArbnErfG) und Zuständigkeit (DPMA)…
-- **Rechtsabteilung UPC Eilverfahren und Deutsche Parallelstrategie:** Rechtsabteilungs-Fachmodul für UPC-Eilverfahren und deutsche Parallelstrategie: PI-Antrag, Schutzschrift, Bifurcation und Forumstrategie werden abgewogen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Paten…
-- **Kaltstart Interview:** Kaltstart-Interview für Patentrechtsmandate. Erstellt ein kurzes Profil zu Mandant, Technik, Ziel, Territorien, Fristen, Dokumentenlage, Risiko und gewünschtem Output; speichert keine Geheimnisse, sondern strukturiert die nächsten Skills.
-- **Patentprozess Einstweilige Verfuegung:** Plant einstweiligen Rechtsschutz in Patentverletzungssachen vor deutschen Gerichten und UPC: Dringlichkeit, Schutzrechtsbestand, Verletzungsnachweis, Schutzschrift, Sicherheitsleistung und Vollziehung im Patentrecht.
-- **Patentportfolio und Technikstrategie:** Unterstützt Patentportfolio- und Technikstrategie: Schutzzaun, Roadmap, Wettbewerbsmonitoring, defensive Veröffentlichungen, Anmeldepriorisierung, Länderstrategie und Budgetsteuerung im Patentrecht.
-- **UPC Widerruf und Widerklage Revocation:** Plant isolierte Widerrufsklage und Widerklage auf Nichtigerklärung vor dem UPC, inklusive zentraler Kammer, Verletzungsverfahren, Hilfsanträgen und Koordination mit EPA-Einspruch im Patentrecht.
-- **EPO Epue Einspruch Beschwerde Beschraenkung:** Vertieft EPA/EPO-Verfahren: Einspruch, Beschwerde, zentrale Beschränkung, Hilfsanträge, Verfahrenssprache, mündliche Verhandlung und Übergang zu UPC/nationaler Durchsetzung im Patentrecht.
+- Kaltstart Triage: Einstieg, Schnelltriage und Fallrouting im Patentrecht-Plugin. Erkennt Patentanmeldung, Erfindungsmeldung, Recherche, FTO, Abmahnung, Lizenz, Einspruch, Nichtigkeit, Register- und Fristenfragen; schlägt passende Fachmodule aus diesem Plugi…
+- Einstieg Routing: Einstieg, Triage und Routing für Patentrecht (Verfahren, Verletzung): ordnet Rolle (Patentinhaber, Verletzer, Lizenznehmer), markiert Frist (Einspruch EPA 9 Monate), wählt Norm (PatG, IntPatÜG, EPÜ, UPCA, ArbnErfG) und Zuständigkeit (DPMA)…
+- Rechtsabteilung UPC Eilverfahren und Deutsche Parallelstrategie: Rechtsabteilungs-Fachmodul für UPC-Eilverfahren und deutsche Parallelstrategie: PI-Antrag, Schutzschrift, Bifurcation und Forumstrategie werden abgewogen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Paten…
+- Kaltstart Interview: Kaltstart-Interview für Patentrechtsmandate. Erstellt ein kurzes Profil zu Mandant, Technik, Ziel, Territorien, Fristen, Dokumentenlage, Risiko und gewünschtem Output; speichert keine Geheimnisse, sondern strukturiert die nächsten Skills.
+- Patentprozess Einstweilige Verfuegung: Plant einstweiligen Rechtsschutz in Patentverletzungssachen vor deutschen Gerichten und UPC: Dringlichkeit, Schutzrechtsbestand, Verletzungsnachweis, Schutzschrift, Sicherheitsleistung und Vollziehung im Patentrecht.
+- Patentportfolio und Technikstrategie: Unterstützt Patentportfolio- und Technikstrategie: Schutzzaun, Roadmap, Wettbewerbsmonitoring, defensive Veröffentlichungen, Anmeldepriorisierung, Länderstrategie und Budgetsteuerung im Patentrecht.
+- UPC Widerruf und Widerklage Revocation: Plant isolierte Widerrufsklage und Widerklage auf Nichtigerklärung vor dem UPC, inklusive zentraler Kammer, Verletzungsverfahren, Hilfsanträgen und Koordination mit EPA-Einspruch im Patentrecht.
+- EPO Epue Einspruch Beschwerde Beschraenkung: Vertieft EPA/EPO-Verfahren: Einspruch, Beschwerde, zentrale Beschränkung, Hilfsanträge, Verfahrenssprache, mündliche Verhandlung und Übergang zu UPC/nationaler Durchsetzung im Patentrecht.
 
 ## Antwortform
 

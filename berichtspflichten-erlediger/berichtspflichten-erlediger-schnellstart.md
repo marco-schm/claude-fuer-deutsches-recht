@@ -30,14 +30,14 @@ Berichtspflichten-Erlediger für mittelständische Unternehmen: amtliche Statist
 
 ## Kernmodule
 
-- **Berichtspflichten Register und Fristenboard:** Zentrales Fristen- und Zuständigkeitsboard für wiederkehrende Unternehmensmeldungen: Statistik, Steuer, Sozialversicherung, Umwelt, Produkt, Lieferkette und Aufsicht im Berichtspflichten.
-- **Kaltstart Routing:** Einstieg für mittelständische Betriebe: Berichtspflichten, Statistikmeldungen, Portale, Fristen, Zuständigkeiten, Datenquellen und Vermeidungs-/Vereinfachungsoptionen schnell sortieren.
-- **Maschinen CE Konformitaetsakte:** Maschinen/Anlagen: CE, Konformitätserklärung, technische Dokumentation, Risikobeurteilung und Marktüberwachung im Berichtspflichten.
-- **Bundesbank AWV Z4 Z5:** Außenwirtschaftsmeldungen an die Bundesbank: Z4/Z5/Z10, Zahlungs- und Forderungsbestände, Schwellen, Fristen und Meldebefreiungen im Berichtspflichten.
-- **Umsatzsteuer Voranmeldung Elster:** USt-Voranmeldung als Berichtspflicht: Frist, Dauerfristverlängerung, Beleglogik, innergemeinschaftliche Lieferungen und Korrektur im Berichtspflichten.
-- **Transparenzregister GWG UBO:** Transparenzregister: wirtschaftlich Berechtigte, Meldefiktion, Änderungen, Unstimmigkeitsmeldung, Bußgeldrisiko und Konzernfälle im Berichtspflichten.
-- **Behoerdenkommunikation:** Saubere Behördenkommunikation bei Berichtspflichten: Rückfrage, Fristverlängerung, Korrektur, Nichtzuständigkeit und Nachweis im Berichtspflichten.
-- **Emissionshandel Tehg Dehst:** EU-Emissionshandel: Monitoringkonzept, jährlicher Emissionsbericht, Verifizierung, Abgabe von Zertifikaten und DEHSt-Fristen im Berichtspflichten.
+- Berichtspflichten Register und Fristenboard: Zentrales Fristen- und Zuständigkeitsboard für wiederkehrende Unternehmensmeldungen: Statistik, Steuer, Sozialversicherung, Umwelt, Produkt, Lieferkette und Aufsicht im Berichtspflichten.
+- Kaltstart Routing: Einstieg für mittelständische Betriebe: Berichtspflichten, Statistikmeldungen, Portale, Fristen, Zuständigkeiten, Datenquellen und Vermeidungs-/Vereinfachungsoptionen schnell sortieren.
+- Maschinen CE Konformitaetsakte: Maschinen/Anlagen: CE, Konformitätserklärung, technische Dokumentation, Risikobeurteilung und Marktüberwachung im Berichtspflichten.
+- Bundesbank AWV Z4 Z5: Außenwirtschaftsmeldungen an die Bundesbank: Z4/Z5/Z10, Zahlungs- und Forderungsbestände, Schwellen, Fristen und Meldebefreiungen im Berichtspflichten.
+- Umsatzsteuer Voranmeldung Elster: USt-Voranmeldung als Berichtspflicht: Frist, Dauerfristverlängerung, Beleglogik, innergemeinschaftliche Lieferungen und Korrektur im Berichtspflichten.
+- Transparenzregister GWG UBO: Transparenzregister: wirtschaftlich Berechtigte, Meldefiktion, Änderungen, Unstimmigkeitsmeldung, Bußgeldrisiko und Konzernfälle im Berichtspflichten.
+- Behoerdenkommunikation: Saubere Behördenkommunikation bei Berichtspflichten: Rückfrage, Fristverlängerung, Korrektur, Nichtzuständigkeit und Nachweis im Berichtspflichten.
+- Emissionshandel Tehg Dehst: EU-Emissionshandel: Monitoringkonzept, jährlicher Emissionsbericht, Verifizierung, Abgabe von Zertifikaten und DEHSt-Fristen im Berichtspflichten.
 
 ## Antwortform
 

@@ -30,14 +30,14 @@ US Bankruptcy Code Title 11: Chapters 7/9/11/12/13/15, Automatic Stay, Claims, D
 
 ## Kernmodule
 
-- **Kaltstart Triage:** Kaltstart für Title 11: Chapter-Wahl, debtor/creditor role, automatic stay, claims, assets, financing, plan route and US-counsel package.
-- **Redteam Bankruptcy Qualitygate:** Prüft jede Bankruptcy-Ausgabe auf falsches Chapter, Stay-Verstoß, Fristenfehler, Local-Rule-Lücke and US-counsel need.
-- **Adversary Proceedings:** Prüft when adversary proceeding is required: dischargeability, lien validity, turnover, avoidance, injunctions and complaints im US Bankruptcy Code.
-- **Voluntary Petition Voting Tabulation:** Organisiert voluntary filing, petition package, schedules, statements, certificates, filing authority and first-day timeline im US Bankruptcy Code.
-- **German Insolvency Healthcare Bankruptcy:** Erklaert US Bankruptcy für deutsche Juristen: stay, estate, DIP, trustee, plan, 363 sale, claims and discharge im Vergleich im US Bankruptcy Code.
-- **Small Business Case:** Prüft small business debtor rules outside Subchapter V, reporting duties, disclosure statement simplification and deadlines im US Bankruptcy Code.
-- **Avoidance Litigation:** Organisiert estate avoidance litigation: target selection, demand letters, complaints, defenses, settlement and collection im US Bankruptcy Code.
-- **Adequate Protection:** Prüft adequate protection for secured creditors: payments, replacement liens, reporting, insurance and collateral value im US Bankruptcy Code.
+- Kaltstart Triage: Kaltstart für Title 11: Chapter-Wahl, debtor/creditor role, automatic stay, claims, assets, financing, plan route and US-counsel package.
+- Redteam Bankruptcy Qualitygate: Prüft jede Bankruptcy-Ausgabe auf falsches Chapter, Stay-Verstoß, Fristenfehler, Local-Rule-Lücke and US-counsel need.
+- Adversary Proceedings: Prüft when adversary proceeding is required: dischargeability, lien validity, turnover, avoidance, injunctions and complaints im US Bankruptcy Code.
+- Voluntary Petition Voting Tabulation: Organisiert voluntary filing, petition package, schedules, statements, certificates, filing authority and first-day timeline im US Bankruptcy Code.
+- German Insolvency Healthcare Bankruptcy: Erklaert US Bankruptcy für deutsche Juristen: stay, estate, DIP, trustee, plan, 363 sale, claims and discharge im Vergleich im US Bankruptcy Code.
+- Small Business Case: Prüft small business debtor rules outside Subchapter V, reporting duties, disclosure statement simplification and deadlines im US Bankruptcy Code.
+- Avoidance Litigation: Organisiert estate avoidance litigation: target selection, demand letters, complaints, defenses, settlement and collection im US Bankruptcy Code.
+- Adequate Protection: Prüft adequate protection for secured creditors: payments, replacement liens, reporting, insurance and collateral value im US Bankruptcy Code.
 
 ## Antwortform
 

@@ -31,19 +31,19 @@ Pflichtnormen aus dem Plugin-Material:
 - Paragraf 39 AO
 - Paragraf 108 InsO
 Leitentscheidungen nur nach Live-Prüfung verwenden:
-- BGH-Anker:** Die Entscheidungen vom 28.05.2014 - VIII ZR 179/13 und VIII ZR 241/13 betreffen die Wirksamkeit von Restwertgarantien im Verbraucherleasing
+- BGH-Anker: Die Entscheidungen vom 28.05.2014 - VIII ZR 179/13 und VIII ZR 241/13 betreffen die Wirksamkeit von Restwertgarantien im Verbraucherleasing
 - BGH, Urteil vom 28.05.2014 - VIII ZR 179/13 und VIII ZR 241/13 (Restwertgarantie; Mehrerlösfragen gesondert live prüfen): https://www
 
 ## Kernmodule
 
-- **Kaltstart Triage:** Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext…
-- **Schieds oder Gerichtsstand Leasing:** Streitbeilegung im Leasingrecht: Schiedsverfahren vs. staatliche Gerichte, Gerichtsstandsklausel, Verbraucherrecht, Mediation und internationale Schiedsgerichte im Leasingrecht.
-- **Leasingvertrag Redline für Leasingnehmer:** Leasingvertrag-Redline aus Leasingnehmersicht: Problematische Klauseln identifizieren, Gegenentwürfe formulieren, Verhandlungsstrategie und Risikoabsicherung im Leasingrecht.
-- **Lease 005 Fahrzeugleasing KM Vertrag Restwert Rueckgabe:** Leasingrecht: Fahrzeugleasing Kilometervertrag Restwertvertrag Rückgabe mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
-- **Lease 001 Kaltstart Leasingakte Vertrag Objekt Zahlungsstrom:** Leasingrecht: Kaltstart Leasingakte Vertrag Objekt Zahlungsstrom mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
-- **Leasingvertrag Redline Leasingnehmer:** Leasingvertrag-Redline aus Anbietersicht: Kernklauseln, Risikoverteilung, AGB-Gestaltung, Wirksamkeitssicherung und typische LN-Änderungswünsche im Leasingrecht.
-- **Gerichtliche Durchsetzung Leasingraten:** Gerichtliche Durchsetzung von Leasingraten: Klage, Beweisführung, einstweiliger Rechtsschutz, vollstreckungsfähiger Titel und Prozessstrategie im Leasingrecht.
-- **Qualitaetsgate Leasingakte Lessons:** Qualitätsgate Leasingakte: Vollständigkeitsprüfung, Dokumentationsstandards, regulatorische Anforderungen, Aktenführung und interne Kontrolle im Leasingrecht.
+- Kaltstart Triage: Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext…
+- Schieds oder Gerichtsstand Leasing: Streitbeilegung im Leasingrecht: Schiedsverfahren vs. staatliche Gerichte, Gerichtsstandsklausel, Verbraucherrecht, Mediation und internationale Schiedsgerichte im Leasingrecht.
+- Leasingvertrag Redline für Leasingnehmer: Leasingvertrag-Redline aus Leasingnehmersicht: Problematische Klauseln identifizieren, Gegenentwürfe formulieren, Verhandlungsstrategie und Risikoabsicherung im Leasingrecht.
+- Lease 005 Fahrzeugleasing KM Vertrag Restwert Rueckgabe: Leasingrecht: Fahrzeugleasing Kilometervertrag Restwertvertrag Rückgabe mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+- Lease 001 Kaltstart Leasingakte Vertrag Objekt Zahlungsstrom: Leasingrecht: Kaltstart Leasingakte Vertrag Objekt Zahlungsstrom mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+- Leasingvertrag Redline Leasingnehmer: Leasingvertrag-Redline aus Anbietersicht: Kernklauseln, Risikoverteilung, AGB-Gestaltung, Wirksamkeitssicherung und typische LN-Änderungswünsche im Leasingrecht.
+- Gerichtliche Durchsetzung Leasingraten: Gerichtliche Durchsetzung von Leasingraten: Klage, Beweisführung, einstweiliger Rechtsschutz, vollstreckungsfähiger Titel und Prozessstrategie im Leasingrecht.
+- Qualitaetsgate Leasingakte Lessons: Qualitätsgate Leasingakte: Vollständigkeitsprüfung, Dokumentationsstandards, regulatorische Anforderungen, Aktenführung und interne Kontrolle im Leasingrecht.
 
 ## Antwortform
 

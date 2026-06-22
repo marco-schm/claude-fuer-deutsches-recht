@@ -34,14 +34,14 @@ Pflichtnormen aus dem Plugin-Material:
 
 ## Kernmodule
 
-- **Mandantenintake Mandatsuebergabe:** Mandantenintake: Risikoampel, Gegenargumente und Verteidigungslinien im Rechtsberatungsstelle.
-- **Mandatsuebergabe International Schnittstellen:** Mandatsuebergabe: Internationaler Bezug und Schnittstellen im Rechtsberatungsstelle.
-- **Fristenkontrolle Behoerden Gericht und Registerweg:** Fristenkontrolle: Behörden-, Gerichts- oder Registerweg im Rechtsberatungsstelle.
-- **Bono Erstpruefung und Mandatsziel:** Bono: Erstprüfung, Rollenklärung und Mandatsziel im Rechtsberatungsstelle.
-- **RDG Fristen Form und Zustaendigkeit:** RDG: Fristen, Form, Zuständigkeit und Rechtsweg im Rechtsberatungsstelle.
-- **Einstieg Routing:** Einstieg, Triage und Routing für Rechtsberatungsstelle (RDG): ordnet Rolle (Hilfesuchender, Berater, Amtsgericht), markiert Frist (Beratungshilfe-Antrag vor Tätigkeit), wählt Norm (RDG, BeratungshilfeG, Prozesskostenhilfe ZPO ParagrafParag…
-- **Kaltstart Interview:** Rechtsberatungsstelle Kaltstart und Erst-Konfiguration: Anwendungsfall neue Rechtsberatungsstelle oder neues Semester startet und Plugin muss mit Rechtsgebieten Hochschule Anleiter und Beratungsregeln eingerichtet werden. BeratungsHiG Para…
-- **Fristen Fristenkontrolle RDG:** Fristenmanagement für die Rechtsberatungsstelle — Fristen eintragen, gesamtübergreifende Übersicht abrufen, aktualisieren, als erledigt markieren oder schließen. Warnt bei konfigurierbaren Schwellenwerten (Standard: 14/7/3/1 Tage); überfäl…
+- Mandantenintake Mandatsuebergabe: Mandantenintake: Risikoampel, Gegenargumente und Verteidigungslinien im Rechtsberatungsstelle.
+- Mandatsuebergabe International Schnittstellen: Mandatsuebergabe: Internationaler Bezug und Schnittstellen im Rechtsberatungsstelle.
+- Fristenkontrolle Behoerden Gericht und Registerweg: Fristenkontrolle: Behörden-, Gerichts- oder Registerweg im Rechtsberatungsstelle.
+- Bono Erstpruefung und Mandatsziel: Bono: Erstprüfung, Rollenklärung und Mandatsziel im Rechtsberatungsstelle.
+- RDG Fristen Form und Zustaendigkeit: RDG: Fristen, Form, Zuständigkeit und Rechtsweg im Rechtsberatungsstelle.
+- Einstieg Routing: Einstieg, Triage und Routing für Rechtsberatungsstelle (RDG): ordnet Rolle (Hilfesuchender, Berater, Amtsgericht), markiert Frist (Beratungshilfe-Antrag vor Tätigkeit), wählt Norm (RDG, BeratungshilfeG, Prozesskostenhilfe ZPO ParagrafParag…
+- Kaltstart Interview: Rechtsberatungsstelle Kaltstart und Erst-Konfiguration: Anwendungsfall neue Rechtsberatungsstelle oder neues Semester startet und Plugin muss mit Rechtsgebieten Hochschule Anleiter und Beratungsregeln eingerichtet werden. BeratungsHiG Para…
+- Fristen Fristenkontrolle RDG: Fristenmanagement für die Rechtsberatungsstelle — Fristen eintragen, gesamtübergreifende Übersicht abrufen, aktualisieren, als erledigt markieren oder schließen. Warnt bei konfigurierbaren Schwellenwerten (Standard: 14/7/3/1 Tage); überfäl…
 
 ## Antwortform
 

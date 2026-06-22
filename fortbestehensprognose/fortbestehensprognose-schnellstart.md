@@ -31,19 +31,19 @@ Pflichtnormen aus dem Plugin-Material:
 - Paragraf 43a BRAO
 - Paragraf 17 / Paragraf 19 InsO
 Leitentscheidungen nur nach Live-Prüfung verwenden:
-- BGH IX ZR 285/14 vom 26.01.2017** — Steuerberater-Hinweispflicht bei Krisensignalen; bei verfehlter Fortbestehensprognose haftet Berater
+- BGH IX ZR 285/14 vom 26.01.2017 — Steuerberater-Hinweispflicht bei Krisensignalen; bei verfehlter Fortbestehensprognose haftet Berater
 - BGH&Datum=26.01.2017&Aktenzeichen=IX+ZR+285/14]
 
 ## Kernmodule
 
-- **Fortbestehensprognose Erstpruefung und Mandatsziel:** Fortbestehensprognose: Erstprüfung, Rollenklärung und Mandatsziel im Fortbestehensprognose.
-- **Sanierungsbausteine Compliance Dokumentation und Akte:** Sanierungsbausteine: Compliance-Dokumentation und Aktenvermerk im Fortbestehensprognose.
-- **Geschaeftsfuehrer Fristen Form und Zustaendigkeit:** Geschäftsführer: Fristen, Form, Zuständigkeit und Rechtsweg im Fortbestehensprognose.
-- **Annahmen Behoerden Gericht und Registerweg:** Annahmen: Behörden-, Gerichts- oder Registerweg im Fortbestehensprognose.
-- **Negativer Fristennotiz Ausloesendes Ereignis:** Negativer: Fristennotiz und nächster Schritt im Fortbestehensprognose.
-- **Einstieg Routing:** Einstieg, Triage und Routing für Fortbestehensprognose StaRUG/InsO: ordnet Rolle (Geschäftsführung, Wirtschaftsprüfer, Insolvenzverwalter), markiert Frist (Antragsfrist 3 Wochen Paragraf 15a InsO), wählt Norm (Paragraf 18 InsO drohende Zah…
-- **Kaltstart Interview:** Kaltstart-Interview für das Fortbestehensprognose-Plugin. Stellt fest wer das Plugin nutzt (Geschäftsführer / Vorstand / Gesellschafter mit Eigenverantwortung / Finanzleiter mit Mandat) wer der Anwaltliche und steuerliche Ansprechpartner i…
-- **Start Chronologie Fristen:** Einstieg, Schnelltriage und Fallrouting im Fortbestehensprognose-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dok…
+- Fortbestehensprognose Erstpruefung und Mandatsziel: Fortbestehensprognose: Erstprüfung, Rollenklärung und Mandatsziel im Fortbestehensprognose.
+- Sanierungsbausteine Compliance Dokumentation und Akte: Sanierungsbausteine: Compliance-Dokumentation und Aktenvermerk im Fortbestehensprognose.
+- Geschaeftsfuehrer Fristen Form und Zustaendigkeit: Geschäftsführer: Fristen, Form, Zuständigkeit und Rechtsweg im Fortbestehensprognose.
+- Annahmen Behoerden Gericht und Registerweg: Annahmen: Behörden-, Gerichts- oder Registerweg im Fortbestehensprognose.
+- Negativer Fristennotiz Ausloesendes Ereignis: Negativer: Fristennotiz und nächster Schritt im Fortbestehensprognose.
+- Einstieg Routing: Einstieg, Triage und Routing für Fortbestehensprognose StaRUG/InsO: ordnet Rolle (Geschäftsführung, Wirtschaftsprüfer, Insolvenzverwalter), markiert Frist (Antragsfrist 3 Wochen Paragraf 15a InsO), wählt Norm (Paragraf 18 InsO drohende Zah…
+- Kaltstart Interview: Kaltstart-Interview für das Fortbestehensprognose-Plugin. Stellt fest wer das Plugin nutzt (Geschäftsführer / Vorstand / Gesellschafter mit Eigenverantwortung / Finanzleiter mit Mandat) wer der Anwaltliche und steuerliche Ansprechpartner i…
+- Start Chronologie Fristen: Einstieg, Schnelltriage und Fallrouting im Fortbestehensprognose-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dok…
 
 ## Antwortform
 

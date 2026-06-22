@@ -36,14 +36,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Kaltstart Triage:** Einstieg, Schnelltriage und Skill-Routing für BGB-BT-Fälle: Anspruchsziel, Vertragstyp, gesetzliches Schuldverhältnis, Störung, Beweise, Fristen und Output.
-- **Dienstvertrag und Behandlungsvertrag:** Prüft Dienstvertrag ParagrafParagraf 611 ff. BGB und Behandlungsvertrag ParagrafParagraf 630a ff. BGB: Aufklärung, Dokumentation und Arzthaftung.
-- **Delikt Vertrag Dienstvertrag:** Prüft das Verhältnis von vertraglicher und deliktischer Haftung: Konkurrenz, Anspruchskumulation und Verjährungsunterschiede im BGB BT.
-- **Delikt Vertrag Konkurrenz:** Prüft das Verhältnis von vertraglicher und deliktischer Haftung: Konkurrenz, Anspruchskumulation und Verjährungsunterschiede.
-- **BT Vertragsentwurf Modellvertrag:** Erstellt und prüft Vertragsentwürfe im Schuldrecht BT: Kaufvertrag, Mietvertrag, Werkvertrag, Auftrag und AGB-Schnittstelle.
-- **Workflow Fristen Ruecktritt Kuendigung:** Prüft Fristen, Erklärungen und Zugang bei Rücktritt, Kündigung, Minderung, Nacherfüllungsverlangen und Verjährung im BGB BT.
-- **Werkvertrag Maengelrechte Deliktsrecht:** Werkvertrag-Mängelrechte ParagrafParagraf 633-638 BGB: Nacherfüllung, Selbstvornahme, Minderung, Schadensersatz im BGB BT.
-- **Kaufvertrag Grundschema Paragraph 433:** Kaufvertrag Paragraf 433 BGB: Primär- und Sekundäransprüche, Übergabe, Eigentumsverschaffung, AGB und Verbraucherschutz.
+- Kaltstart Triage: Einstieg, Schnelltriage und Skill-Routing für BGB-BT-Fälle: Anspruchsziel, Vertragstyp, gesetzliches Schuldverhältnis, Störung, Beweise, Fristen und Output.
+- Dienstvertrag und Behandlungsvertrag: Prüft Dienstvertrag ParagrafParagraf 611 ff. BGB und Behandlungsvertrag ParagrafParagraf 630a ff. BGB: Aufklärung, Dokumentation und Arzthaftung.
+- Delikt Vertrag Dienstvertrag: Prüft das Verhältnis von vertraglicher und deliktischer Haftung: Konkurrenz, Anspruchskumulation und Verjährungsunterschiede im BGB BT.
+- Delikt Vertrag Konkurrenz: Prüft das Verhältnis von vertraglicher und deliktischer Haftung: Konkurrenz, Anspruchskumulation und Verjährungsunterschiede.
+- BT Vertragsentwurf Modellvertrag: Erstellt und prüft Vertragsentwürfe im Schuldrecht BT: Kaufvertrag, Mietvertrag, Werkvertrag, Auftrag und AGB-Schnittstelle.
+- Workflow Fristen Ruecktritt Kuendigung: Prüft Fristen, Erklärungen und Zugang bei Rücktritt, Kündigung, Minderung, Nacherfüllungsverlangen und Verjährung im BGB BT.
+- Werkvertrag Maengelrechte Deliktsrecht: Werkvertrag-Mängelrechte ParagrafParagraf 633-638 BGB: Nacherfüllung, Selbstvornahme, Minderung, Schadensersatz im BGB BT.
+- Kaufvertrag Grundschema Paragraph 433: Kaufvertrag Paragraf 433 BGB: Primär- und Sekundäransprüche, Übergabe, Eigentumsverschaffung, AGB und Verbraucherschutz.
 
 ## Antwortform
 

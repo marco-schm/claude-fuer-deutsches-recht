@@ -33,14 +33,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Einstieg Routing:** Einstieg, Triage und Routing für Verlagsredaktion: ordnet Rolle (Verlag, Autor, Redakteur), markiert Frist (Gegendarstellungsanspruch unverzüglich), wählt Norm (UrhG, VerlagsG, Presserechte Länder) und Zuständigkeit (Presserat), leitet zum…
-- **Mahnung AN Honorar Vertrag:** Mahnung an Autor bei Rueckforderung von Vorschuss oder ueberzahltem Honorar: Stufenmodell, Nachfrist gemaess BGB Paragraf 286 und Paragraf 323, Verjährungspruefung, Mustertexte und gerichtliche Geltendmachung im Verlagsredaktion.
-- **Honorarvertrag Templates und Abweichungen:** Honorarvertragstemplates für juristische Werke: Standardvertrag Aufsatz, Buch, Kommentar, Herausgeberwerk. Abweichungspruefung gegen UrhG Paragraf 32 angemessene Verguetung im Verlagsredaktion.
-- **Eingangskorb Triage Entscheidungsmonitor:** Sortiert einen Verlags-Eingangskorb aus Mails, Manuskripten, Fahnen, Bildern, Tabellen und Notizen nach Frist, Risiko, Projekt und naechster Aktion im Verlagsredaktion.
-- **Kaltstart Triage:** Cooler Einstieg für das Verlagsredaktion-Plugin: stummer Upload, Morgenlage, Eingangskorb, Fristen, Rechteampel, Manuskriptstatus und Routing zu den Verlagsdesk-Skills.
-- **Workflow Kaltstart und Routing:** Kaltstart und Routing im Plugin verlagsredaktion: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
-- **Honorar Vertrag Royalties Triage:** Triage für Autorenvertrag, Honorar, Tantiemen, Pauschale, Nebenrechte, Abrechnung, Nutzungsarten und Eskalation an Justiziariat im Verlagsredaktion.
-- **Workflow Fristen und Risikoampel:** Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Verlagsredaktion.
+- Einstieg Routing: Einstieg, Triage und Routing für Verlagsredaktion: ordnet Rolle (Verlag, Autor, Redakteur), markiert Frist (Gegendarstellungsanspruch unverzüglich), wählt Norm (UrhG, VerlagsG, Presserechte Länder) und Zuständigkeit (Presserat), leitet zum…
+- Mahnung AN Honorar Vertrag: Mahnung an Autor bei Rueckforderung von Vorschuss oder ueberzahltem Honorar: Stufenmodell, Nachfrist gemaess BGB Paragraf 286 und Paragraf 323, Verjährungspruefung, Mustertexte und gerichtliche Geltendmachung im Verlagsredaktion.
+- Honorarvertrag Templates und Abweichungen: Honorarvertragstemplates für juristische Werke: Standardvertrag Aufsatz, Buch, Kommentar, Herausgeberwerk. Abweichungspruefung gegen UrhG Paragraf 32 angemessene Verguetung im Verlagsredaktion.
+- Eingangskorb Triage Entscheidungsmonitor: Sortiert einen Verlags-Eingangskorb aus Mails, Manuskripten, Fahnen, Bildern, Tabellen und Notizen nach Frist, Risiko, Projekt und naechster Aktion im Verlagsredaktion.
+- Kaltstart Triage: Cooler Einstieg für das Verlagsredaktion-Plugin: stummer Upload, Morgenlage, Eingangskorb, Fristen, Rechteampel, Manuskriptstatus und Routing zu den Verlagsdesk-Skills.
+- Workflow Kaltstart und Routing: Kaltstart und Routing im Plugin verlagsredaktion: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+- Honorar Vertrag Royalties Triage: Triage für Autorenvertrag, Honorar, Tantiemen, Pauschale, Nebenrechte, Abrechnung, Nutzungsarten und Eskalation an Justiziariat im Verlagsredaktion.
+- Workflow Fristen und Risikoampel: Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Verlagsredaktion.
 
 ## Antwortform
 

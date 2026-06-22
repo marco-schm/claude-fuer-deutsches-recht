@@ -30,14 +30,14 @@ US Copyright Act für deutsche Verlage und Rechteinhaber: Title 17, Registrierun
 
 ## Kernmodule
 
-- **Kaltstart Triage:** Kaltstart und Routing für deutsche Verlage: Werkklasse, Rechtekette, Antragstyp, Gebühren, Deposit, Versand, Monitoring und Aktenvermerk in einer belastbaren US-Registrierungsakte.
-- **Best Edition Kopienzahl:** Best Edition und Kopienzahl für veröffentlichte Verlagswerke: USA-Erstveröffentlichung, foreign first edition, physische Bücher, Serien und Mandatory-Deposit-Schnittstelle sauber trennen im Us Copyright Registrierung Verlag.
-- **Gruw Unpublished Works:** Group Registration of Unpublished Works (GRUW): bis zu zehn unveröffentlichte Werke, gleiche Autorenschaft, Online-Antrag, separate Dateien und keine Sammel-PDF-Falle im Us Copyright Registrierung Verlag.
-- **Authorschaft Work Backlist Rights Best:** Autorenschaft, Work made for hire und Rechtekette: deutsche Verlagsverträge in US-Antragslogik übersetzen, ohne Arbeitnehmer-/Auftragswerkfragen blind zu behaupten im Us Copyright Registrierung Verlag.
-- **Deposit VS Advertising Promotional AI:** Mandatory Deposit (Paragraf 407) und Registrierung (Paragraf 408) auseinanderhalten: Pflichtabgabe, formale Registrierung, Shipping Slip, Fristen und Verlagspraxis im Us Copyright Registrierung Verlag.
-- **Verlags Batchplan Serien und Backlist:** Batchplan für Backlist, Reihen, Neuauflagen und Serien: Priorisierung nach US-Risiko, Marktwert, Rechtekette, Kosten, Deposit-Logistik und Litigation Readiness im Us Copyright Registrierung Verlag.
-- **Gebuehren Paygov Deposit Account:** Gebühren- und Zahlungsworkflow: Fee Schedule live prüfen, Pay.gov, Kreditkarte/ACH, Deposit Account, Special Handling und Kostenstellen sauber dokumentieren im Us Copyright Registrierung Verlag.
-- **Standard VS Single VS Gruppenregistrierung:** Antragstyp sauber wählen: Standard Application, Single-author-Option, Gruppenregistrierung oder separater Antrag pro Werk; keine unzulässige Sammelanmeldung im Us Copyright Registrierung Verlag.
+- Kaltstart Triage: Kaltstart und Routing für deutsche Verlage: Werkklasse, Rechtekette, Antragstyp, Gebühren, Deposit, Versand, Monitoring und Aktenvermerk in einer belastbaren US-Registrierungsakte.
+- Best Edition Kopienzahl: Best Edition und Kopienzahl für veröffentlichte Verlagswerke: USA-Erstveröffentlichung, foreign first edition, physische Bücher, Serien und Mandatory-Deposit-Schnittstelle sauber trennen im Us Copyright Registrierung Verlag.
+- Gruw Unpublished Works: Group Registration of Unpublished Works (GRUW): bis zu zehn unveröffentlichte Werke, gleiche Autorenschaft, Online-Antrag, separate Dateien und keine Sammel-PDF-Falle im Us Copyright Registrierung Verlag.
+- Authorschaft Work Backlist Rights Best: Autorenschaft, Work made for hire und Rechtekette: deutsche Verlagsverträge in US-Antragslogik übersetzen, ohne Arbeitnehmer-/Auftragswerkfragen blind zu behaupten im Us Copyright Registrierung Verlag.
+- Deposit VS Advertising Promotional AI: Mandatory Deposit (Paragraf 407) und Registrierung (Paragraf 408) auseinanderhalten: Pflichtabgabe, formale Registrierung, Shipping Slip, Fristen und Verlagspraxis im Us Copyright Registrierung Verlag.
+- Verlags Batchplan Serien und Backlist: Batchplan für Backlist, Reihen, Neuauflagen und Serien: Priorisierung nach US-Risiko, Marktwert, Rechtekette, Kosten, Deposit-Logistik und Litigation Readiness im Us Copyright Registrierung Verlag.
+- Gebuehren Paygov Deposit Account: Gebühren- und Zahlungsworkflow: Fee Schedule live prüfen, Pay.gov, Kreditkarte/ACH, Deposit Account, Special Handling und Kostenstellen sauber dokumentieren im Us Copyright Registrierung Verlag.
+- Standard VS Single VS Gruppenregistrierung: Antragstyp sauber wählen: Standard Application, Single-author-Option, Gruppenregistrierung oder separater Antrag pro Werk; keine unzulässige Sammelanmeldung im Us Copyright Registrierung Verlag.
 
 ## Antwortform
 

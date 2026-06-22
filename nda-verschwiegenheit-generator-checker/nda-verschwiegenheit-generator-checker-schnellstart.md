@@ -31,14 +31,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Zulaessige Offenlegung Gesetz Behoerde Gericht:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Zulaessige Offenlegung Gesetz Behörde Gericht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Gene…
-- **Catch ALL Klausel Arbeitsvertrag:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Catch All Klausel Arbeitsvertrag; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker.
-- **Vertragsstrafe Hamburger Haftungsbegrenzung:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Vertragsstrafe Hamburger Brauch; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker.
-- **Anwaltliche Mandatsgeheimnisse:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Anwaltliche Mandatsgeheimnisse; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker.
-- **Laufzeit Nachwirkungsfrist Oeffentliche Hand:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Laufzeit Und Nachwirkungsfrist; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker.
-- **Gerichtsstand Schiedsgericht:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Gerichtsstand Schiedsgericht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker.
-- **Risikoampel für Empfaenger:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Risikoampel Fuer Empfaenger; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker.
-- **Risikoampel für Offenleger:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Risikoampel Fuer Offenleger; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker.
+- Zulaessige Offenlegung Gesetz Behoerde Gericht: NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Zulaessige Offenlegung Gesetz Behörde Gericht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Gene…
+- Catch ALL Klausel Arbeitsvertrag: NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Catch All Klausel Arbeitsvertrag; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker.
+- Vertragsstrafe Hamburger Haftungsbegrenzung: NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Vertragsstrafe Hamburger Brauch; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker.
+- Anwaltliche Mandatsgeheimnisse: NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Anwaltliche Mandatsgeheimnisse; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker.
+- Laufzeit Nachwirkungsfrist Oeffentliche Hand: NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Laufzeit Und Nachwirkungsfrist; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker.
+- Gerichtsstand Schiedsgericht: NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Gerichtsstand Schiedsgericht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker.
+- Risikoampel für Empfaenger: NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Risikoampel Fuer Empfaenger; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker.
+- Risikoampel für Offenleger: NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Risikoampel Fuer Offenleger; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker.
 
 ## Antwortform
 

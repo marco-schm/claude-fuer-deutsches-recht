@@ -32,14 +32,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Risikomemo Auftraggeber Risikoregister:** Solo-Selbstständige: erstellt ein Memo für Kunden, warum die Zusammenarbeit sauber selbstständig ist oder nicht; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige…
-- **Kundenvertrag B2b:** Solo-Selbstständige: prüft Haftung, Nutzungsrechte, Verzug, Kündigung, Change Requests und Geheimhaltung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis.
-- **Problem Sortieren Profimodus Schnelltriage:** Solo-Selbstständige: trennt rechtliches Problem, Behördenproblem, Geldproblem und Organisationsproblem; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis.
-- **Subunternehmervertrag:** Solo-Selbstständige: regelt Freelancer, Unterauftrag, AVV, Rechte, Haftung und Scheinselbstständigkeit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis.
-- **Profimodus Schnelltriage:** Solo-Selbstständige: liefert Kurztriage für erfahrene Selbstständige mit Prioritäten und roten Linien; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis.
-- **Digital Nomad Risiko:** Solo-Selbstständige: prüft gewöhnlichen Aufenthalt, Betriebsstätte, Steuer und Sozialversicherung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis.
-- **Sozialrechtlicher Bescheid Widerspruch:** Solo-Selbstständige: macht aus Kasse/DRV/KSK-Bescheid eine verständliche Widerspruchsstrategie; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis.
-- **Kundenakten Datenschutz Solo Kundenupdate:** Solo-Selbstständige: ordnet Speicherung, Löschung, Zugriff, Backup und Mandanten-/Kundendaten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis.
+- Risikomemo Auftraggeber Risikoregister: Solo-Selbstständige: erstellt ein Memo für Kunden, warum die Zusammenarbeit sauber selbstständig ist oder nicht; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige…
+- Kundenvertrag B2b: Solo-Selbstständige: prüft Haftung, Nutzungsrechte, Verzug, Kündigung, Change Requests und Geheimhaltung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis.
+- Problem Sortieren Profimodus Schnelltriage: Solo-Selbstständige: trennt rechtliches Problem, Behördenproblem, Geldproblem und Organisationsproblem; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis.
+- Subunternehmervertrag: Solo-Selbstständige: regelt Freelancer, Unterauftrag, AVV, Rechte, Haftung und Scheinselbstständigkeit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis.
+- Profimodus Schnelltriage: Solo-Selbstständige: liefert Kurztriage für erfahrene Selbstständige mit Prioritäten und roten Linien; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis.
+- Digital Nomad Risiko: Solo-Selbstständige: prüft gewöhnlichen Aufenthalt, Betriebsstätte, Steuer und Sozialversicherung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis.
+- Sozialrechtlicher Bescheid Widerspruch: Solo-Selbstständige: macht aus Kasse/DRV/KSK-Bescheid eine verständliche Widerspruchsstrategie; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis.
+- Kundenakten Datenschutz Solo Kundenupdate: Solo-Selbstständige: ordnet Speicherung, Löschung, Zugriff, Backup und Mandanten-/Kundendaten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis.
 
 ## Antwortform
 

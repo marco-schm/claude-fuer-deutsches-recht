@@ -33,14 +33,14 @@ Pflichtnormen aus dem Plugin-Material:
 
 ## Kernmodule
 
-- **Subsumtionslehre Risikoampel und Gegenargumente:** Subsumtionslehre: Risikoampel, Gegenargumente und Verteidigungslinien im Jurastudium.
-- **Pruefungsgespraech Fristen Form und Zustaendigkeit:** Prüfungsgespraech: Fristen, Form, Zuständigkeit und Rechtsweg im Jurastudium.
-- **Lernstrategien Livecheck Sonderfall:** Lernstrategien: Compliance-Dokumentation und Aktenvermerk im Jurastudium.
-- **Studium Erstpruefung und Mandatsziel:** Studium: Erstprüfung, Rollenklärung und Mandatsziel im Jurastudium.
-- **Kaltstart Interview:** Jurastudium-Einstieg und Lernprofil-Aufnahme: Anwendungsfall Student startet erstmals Jurastudium-Skill und muss Lernprofil Semester Bundesland Prüfungsziel und Lernstil konfigurieren. 1. StEx und 2. StEx, JAG Bundesland-Varianten, Methode…
-- **Lernstrategien Loesungsschemata Methodenlehre:** Lernstrategien für Jurastudium und Examensvorbereitung entwickeln: Anwendungsfall Student sucht effektive Lernmethoden für Examensvorbereitung und will Zeit und Energie optimal einsetzen. Examensvorbereitung 1. und 2. Staatsexamen, Methode…
-- **Einstieg Routing:** Einstieg, Triage und Routing für Jurastudium (Klausur, AG, Examen): ordnet Rolle (Studentenr, Repetitor, Korrektor), markiert Frist (Klausurzeit), wählt Norm (BGB, StGB, GG, ZPO/StPO/VwGO) und Zuständigkeit (Universität), leitet zum passen…
-- **Spezial Pruefungsgespraech Fristen Form und Zustaendigkeit:** Pruefungsgespraech: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin jurastudium; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+- Subsumtionslehre Risikoampel und Gegenargumente: Subsumtionslehre: Risikoampel, Gegenargumente und Verteidigungslinien im Jurastudium.
+- Pruefungsgespraech Fristen Form und Zustaendigkeit: Prüfungsgespraech: Fristen, Form, Zuständigkeit und Rechtsweg im Jurastudium.
+- Lernstrategien Livecheck Sonderfall: Lernstrategien: Compliance-Dokumentation und Aktenvermerk im Jurastudium.
+- Studium Erstpruefung und Mandatsziel: Studium: Erstprüfung, Rollenklärung und Mandatsziel im Jurastudium.
+- Kaltstart Interview: Jurastudium-Einstieg und Lernprofil-Aufnahme: Anwendungsfall Student startet erstmals Jurastudium-Skill und muss Lernprofil Semester Bundesland Prüfungsziel und Lernstil konfigurieren. 1. StEx und 2. StEx, JAG Bundesland-Varianten, Methode…
+- Lernstrategien Loesungsschemata Methodenlehre: Lernstrategien für Jurastudium und Examensvorbereitung entwickeln: Anwendungsfall Student sucht effektive Lernmethoden für Examensvorbereitung und will Zeit und Energie optimal einsetzen. Examensvorbereitung 1. und 2. Staatsexamen, Methode…
+- Einstieg Routing: Einstieg, Triage und Routing für Jurastudium (Klausur, AG, Examen): ordnet Rolle (Studentenr, Repetitor, Korrektor), markiert Frist (Klausurzeit), wählt Norm (BGB, StGB, GG, ZPO/StPO/VwGO) und Zuständigkeit (Universität), leitet zum passen…
+- Spezial Pruefungsgespraech Fristen Form und Zustaendigkeit: Pruefungsgespraech: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin jurastudium; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 ## Antwortform
 

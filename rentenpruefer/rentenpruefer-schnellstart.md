@@ -31,14 +31,14 @@ Pflichtnormen aus dem Plugin-Material:
 
 ## Kernmodule
 
-- **Kaltstart Triage:** Einstieg, Kaltstart und Fallrouting im Rentenprüfer: klärt gesetzliche Rente, Versorgungswerk, Ausland, Nachversicherung, Fristen, Unterlagen und Wunsch-Output und schlägt passende Fachmodule vor.
-- **Rentenbescheid Widerspruch Rentencheck Fuenf:** Rentenbescheid prüfen und Widerspruch vorbereiten: Berechnung, Zeiten, Abschläge, Kranken-/Pflegeversicherung, Rechtsbehelfsfrist und Begründung im Rentenpruefer.
-- **Versorgungswerk Rentenantrag:** Rentenantrag beim Versorgungswerk: Satzung, Altersrente, Berufsunfähigkeitsrente, Hinterbliebenenversorgung, Beiträge und Nachweise im Rentenpruefer.
-- **Rentenantrag Startdatum Auswanderung Rente:** Rentenantrag, Fristen und Startdatum: Antragstellung, Rückwirkung, fehlende Unterlagen, Online-/Papierweg und Zuständigkeitsfragen im Rentenpruefer.
-- **Widerspruch Sozialgericht Klage:** Widerspruch und Sozialgerichtsklage in Rentensachen: Frist, Form, Begründung, Akteneinsicht, Gutachten, Eilrechtsschutz und PKH im Rentenpruefer.
-- **Aktenstruktur und Dokumentenintake:** Sammelt und ordnet Rentenunterlagen: Renteninformation, Rentenauskunft, Versicherungsverlauf, Arbeits- und Ausbildungsnachweise, Auslandsbelege, Übersetzungen und Versorgungswerksmaterial.
-- **Versorgungswerk DRV Widerspruch Sozialgericht:** Parallelität von Versorgungswerk und DRV: Befreiungslücken, frühere Beschäftigungen, Nachversicherung, Doppelversicherung und Koordination mehrerer Ansprüche im Rentenpruefer.
-- **Auslandszeiten Ohne Abkommen Beweisstrategie:** Auslandszeiten ohne Sozialversicherungsabkommen: Beweisführung, ausländische Renten, deutsche Wartezeiten, Übersetzungen und realistische Grenzen im Rentenpruefer.
+- Kaltstart Triage: Einstieg, Kaltstart und Fallrouting im Rentenprüfer: klärt gesetzliche Rente, Versorgungswerk, Ausland, Nachversicherung, Fristen, Unterlagen und Wunsch-Output und schlägt passende Fachmodule vor.
+- Rentenbescheid Widerspruch Rentencheck Fuenf: Rentenbescheid prüfen und Widerspruch vorbereiten: Berechnung, Zeiten, Abschläge, Kranken-/Pflegeversicherung, Rechtsbehelfsfrist und Begründung im Rentenpruefer.
+- Versorgungswerk Rentenantrag: Rentenantrag beim Versorgungswerk: Satzung, Altersrente, Berufsunfähigkeitsrente, Hinterbliebenenversorgung, Beiträge und Nachweise im Rentenpruefer.
+- Rentenantrag Startdatum Auswanderung Rente: Rentenantrag, Fristen und Startdatum: Antragstellung, Rückwirkung, fehlende Unterlagen, Online-/Papierweg und Zuständigkeitsfragen im Rentenpruefer.
+- Widerspruch Sozialgericht Klage: Widerspruch und Sozialgerichtsklage in Rentensachen: Frist, Form, Begründung, Akteneinsicht, Gutachten, Eilrechtsschutz und PKH im Rentenpruefer.
+- Aktenstruktur und Dokumentenintake: Sammelt und ordnet Rentenunterlagen: Renteninformation, Rentenauskunft, Versicherungsverlauf, Arbeits- und Ausbildungsnachweise, Auslandsbelege, Übersetzungen und Versorgungswerksmaterial.
+- Versorgungswerk DRV Widerspruch Sozialgericht: Parallelität von Versorgungswerk und DRV: Befreiungslücken, frühere Beschäftigungen, Nachversicherung, Doppelversicherung und Koordination mehrerer Ansprüche im Rentenpruefer.
+- Auslandszeiten Ohne Abkommen Beweisstrategie: Auslandszeiten ohne Sozialversicherungsabkommen: Beweisführung, ausländische Renten, deutsche Wartezeiten, Übersetzungen und realistische Grenzen im Rentenpruefer.
 
 ## Antwortform
 

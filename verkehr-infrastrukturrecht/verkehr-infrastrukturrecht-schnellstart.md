@@ -36,14 +36,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Einstieg Routing:** Einstieg, Triage und Routing für Verkehr-Infrastrukturrecht: ordnet Rolle (Träger Planungshoheit, Behörde, Betroffene Anwohner), markiert Frist (Klagefrist Planfeststellung), wählt Norm (FStrG, AEG, PBefG, BFStrG, VwVfG) und Zuständigkeit…
-- **Workflow Kaltstart und Routing:** Kaltstart und Routing im Plugin verkehr-infrastrukturrecht: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
-- **Verkehr Infrastruktur Fristen Risiko Mandant:** Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Verkehr Infrastrukturrecht.
-- **Workflow Redteam Qualitygate:** Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Verkehr Infrastrukturrecht.
-- **Strassenbahn Risikoampel und Gegenargumente:** Strassenbahn: Risikoampel, Gegenargumente und Verteidigungslinien.
-- **Verkehrsplanung Verfahren Vertragsmodell:** Verkehrsplanung: Fristen, Form, Zuständigkeit und Rechtsweg.
-- **Ladeinfrastruktur Behoerden Gericht und Registerweg:** Ladeinfrastruktur: Behörden-, Gerichts- oder Registerweg.
-- **Verkehrs Erstpruefung und Mandatsziel:** Verkehrs: Erstprüfung, Rollenklärung und Mandatsziel.
+- Einstieg Routing: Einstieg, Triage und Routing für Verkehr-Infrastrukturrecht: ordnet Rolle (Träger Planungshoheit, Behörde, Betroffene Anwohner), markiert Frist (Klagefrist Planfeststellung), wählt Norm (FStrG, AEG, PBefG, BFStrG, VwVfG) und Zuständigkeit…
+- Workflow Kaltstart und Routing: Kaltstart und Routing im Plugin verkehr-infrastrukturrecht: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+- Verkehr Infrastruktur Fristen Risiko Mandant: Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Verkehr Infrastrukturrecht.
+- Workflow Redteam Qualitygate: Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Verkehr Infrastrukturrecht.
+- Strassenbahn Risikoampel und Gegenargumente: Strassenbahn: Risikoampel, Gegenargumente und Verteidigungslinien.
+- Verkehrsplanung Verfahren Vertragsmodell: Verkehrsplanung: Fristen, Form, Zuständigkeit und Rechtsweg.
+- Ladeinfrastruktur Behoerden Gericht und Registerweg: Ladeinfrastruktur: Behörden-, Gerichts- oder Registerweg.
+- Verkehrs Erstpruefung und Mandatsziel: Verkehrs: Erstprüfung, Rollenklärung und Mandatsziel.
 
 ## Antwortform
 

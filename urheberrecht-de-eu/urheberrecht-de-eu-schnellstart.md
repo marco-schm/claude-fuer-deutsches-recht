@@ -32,14 +32,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Kaltstart Triage:** Kaltstart für deutsches und EU-Urheberrecht: sortiert Werk, Rechte, Nutzung, KI, Software, Musik, Schranken, Fristen, Beweise und passende Anschluss-Skills.
-- **Vertragsgenerator Musik Release:** Erzeugt und prüft Vertragsbausteine für Songrelease, Label, Verlag, Producer, Feature, Remix, Split, Sync und Plattformvertrieb im Urheberrecht De Eu.
-- **Verjaehrung Fristen:** Prüft Verjährung, Dringlichkeit, Plattform-Deadlines, Auskunftsfristen und Reaktionsfristen bei Urheberrechtsfällen im Urheberrecht De Eu.
-- **Urhebervertragsrecht Verguetung:** Prüft Urhebervertragsrecht, angemessene Vergütung, weitere Beteiligung, Transparenzpflichten und Buyout-Risiken im Urheberrecht De Eu.
-- **Einstweilige Verfuegung Urheber:** Prüft Eilrechtsschutz, Dringlichkeit, Glaubhaftmachung, Verfügungsanspruch, Antrag und Vollziehung im Urheberrecht De Eu.
-- **Gerichtlicher Schriftsatz:** Baut Anspruchsbegründung, Klage, Schutzschrift, Erwiderung oder Antrag auf eV mit Beweisangeboten im Urheberrecht De Eu.
-- **Kanzlei Workflow Urheber:** Organisiert Mandat, Dokumente, Beweise, Fristen, Rechtekette, Gegnerkommunikation und Outputformat im Urheberrechtsfall.
-- **KI Vertragsklauseln Urhebervertragsrecht:** Entwirft und prüft Klauseln zu KI-Nutzung, Training, Output, Promptlogs, Opt-out, Kennzeichnung und Haftung im Urheberrecht De Eu.
+- Kaltstart Triage: Kaltstart für deutsches und EU-Urheberrecht: sortiert Werk, Rechte, Nutzung, KI, Software, Musik, Schranken, Fristen, Beweise und passende Anschluss-Skills.
+- Vertragsgenerator Musik Release: Erzeugt und prüft Vertragsbausteine für Songrelease, Label, Verlag, Producer, Feature, Remix, Split, Sync und Plattformvertrieb im Urheberrecht De Eu.
+- Verjaehrung Fristen: Prüft Verjährung, Dringlichkeit, Plattform-Deadlines, Auskunftsfristen und Reaktionsfristen bei Urheberrechtsfällen im Urheberrecht De Eu.
+- Urhebervertragsrecht Verguetung: Prüft Urhebervertragsrecht, angemessene Vergütung, weitere Beteiligung, Transparenzpflichten und Buyout-Risiken im Urheberrecht De Eu.
+- Einstweilige Verfuegung Urheber: Prüft Eilrechtsschutz, Dringlichkeit, Glaubhaftmachung, Verfügungsanspruch, Antrag und Vollziehung im Urheberrecht De Eu.
+- Gerichtlicher Schriftsatz: Baut Anspruchsbegründung, Klage, Schutzschrift, Erwiderung oder Antrag auf eV mit Beweisangeboten im Urheberrecht De Eu.
+- Kanzlei Workflow Urheber: Organisiert Mandat, Dokumente, Beweise, Fristen, Rechtekette, Gegnerkommunikation und Outputformat im Urheberrechtsfall.
+- KI Vertragsklauseln Urhebervertragsrecht: Entwirft und prüft Klauseln zu KI-Nutzung, Training, Output, Promptlogs, Opt-out, Kennzeichnung und Haftung im Urheberrecht De Eu.
 
 ## Antwortform
 

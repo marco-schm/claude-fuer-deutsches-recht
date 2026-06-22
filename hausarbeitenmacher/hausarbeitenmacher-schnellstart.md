@@ -34,14 +34,14 @@ Pflichtnormen aus dem Plugin-Material:
 
 ## Kernmodule
 
-- **Fuehrt Risikoampel und Gegenargumente:** Fuehrt: Risikoampel, Gegenargumente und Verteidigungslinien im Hausarbeitenmacher.
-- **Didaktisches Erstpruefung und Mandatsziel:** Didaktisches: Erstprüfung, Rollenklärung und Mandatsziel im Hausarbeitenmacher.
-- **Hausarbeiten Fristen Form und Zustaendigkeit:** Hausarbeiten: Fristen, Form, Zuständigkeit und Rechtsweg im Hausarbeitenmacher.
-- **Sokratisch Behoerden Gericht und Registerweg:** Sokratisch: Behörden-, Gerichts- oder Registerweg im Hausarbeitenmacher.
-- **Fachgebiet Routing Zivil Oeffentlich Straf:** Student weiss nicht in welches Fachgebiet die Hausarbeit faellt: Zivilrecht öffentliches Recht Strafrecht oder Mix. Routing-Skill klaert Fachgebiet anhand Indikatoren. Normen allgemein BGB HGB VwGO StGB je nach Gebiet. Prüfraster Fachgebie…
-- **Professor Erkennen und Strategie:** Student fragt sich ob er der Lehrmeinung des Professors folgen soll oder eigenständig argumentieren. Fangfrage zu Beginn wer die Hausarbeit bewertet. Kurze Recherche zur Lehrmeinung. Normen Wissenschaftsfreiheit Art. 5 GG. Prüfraster Lehrm…
-- **Einstieg Routing:** Einstieg, Triage und Routing für Jura-Hausarbeiten: ordnet Rolle (Studentenr, Korrektor), markiert Frist (Hausarbeits-Abgabefrist), wählt Norm (BGB AT/BT, StGB AT/BT, GG, ZPO/StPO/VwGO) und Zuständigkeit (Universitäre Prüfungsämter), leite…
-- **Hausarbeit Workflow Start:** Student beginnt Hausarbeit und braucht vollständige Begleitung von Anfang bis Abgabe. Master-Prüfungslinie: Fangfrage Lehrkraft Aufgabenstellung Routing Methode Fachgebiet Subsumtion Endkontrolle. Normen je nach… im Hausarbeitenmacher.
+- Fuehrt Risikoampel und Gegenargumente: Fuehrt: Risikoampel, Gegenargumente und Verteidigungslinien im Hausarbeitenmacher.
+- Didaktisches Erstpruefung und Mandatsziel: Didaktisches: Erstprüfung, Rollenklärung und Mandatsziel im Hausarbeitenmacher.
+- Hausarbeiten Fristen Form und Zustaendigkeit: Hausarbeiten: Fristen, Form, Zuständigkeit und Rechtsweg im Hausarbeitenmacher.
+- Sokratisch Behoerden Gericht und Registerweg: Sokratisch: Behörden-, Gerichts- oder Registerweg im Hausarbeitenmacher.
+- Fachgebiet Routing Zivil Oeffentlich Straf: Student weiss nicht in welches Fachgebiet die Hausarbeit faellt: Zivilrecht öffentliches Recht Strafrecht oder Mix. Routing-Skill klaert Fachgebiet anhand Indikatoren. Normen allgemein BGB HGB VwGO StGB je nach Gebiet. Prüfraster Fachgebie…
+- Professor Erkennen und Strategie: Student fragt sich ob er der Lehrmeinung des Professors folgen soll oder eigenständig argumentieren. Fangfrage zu Beginn wer die Hausarbeit bewertet. Kurze Recherche zur Lehrmeinung. Normen Wissenschaftsfreiheit Art. 5 GG. Prüfraster Lehrm…
+- Einstieg Routing: Einstieg, Triage und Routing für Jura-Hausarbeiten: ordnet Rolle (Studentenr, Korrektor), markiert Frist (Hausarbeits-Abgabefrist), wählt Norm (BGB AT/BT, StGB AT/BT, GG, ZPO/StPO/VwGO) und Zuständigkeit (Universitäre Prüfungsämter), leite…
+- Hausarbeit Workflow Start: Student beginnt Hausarbeit und braucht vollständige Begleitung von Anfang bis Abgabe. Master-Prüfungslinie: Fangfrage Lehrkraft Aufgabenstellung Routing Methode Fachgebiet Subsumtion Endkontrolle. Normen je nach… im Hausarbeitenmacher.
 
 ## Antwortform
 

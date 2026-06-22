@@ -36,14 +36,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **01 Zulaessigkeit Finanzgerichtsklage:** Zulässigkeit der Klage Paragrafen 40-65 FGO: Klagearten (Anfechtung Verpflichtung Feststellung Untaetigkeit), Vorverfahren Einspruch nach Paragraf 347 AO, Klagefrist Paragraf 47 FGO, Klagebefugnis Paragraf 40 Abs. 2
-- **10 Entscheidungsvorschlag Finanzgericht:** Strukturierter Entscheidungsvorschlag: Tenor, Prüfungsschema Zulässigkeit Begründetheit, materielle Prüfung der Steuerart, Beweiswürdigung, Risikohinweise, ausdrücklich zur richterlichen Prüfung markiert
-- **09 Urteil Finanzgericht und Revision:** Urteil Paragraf 105 FGO: Tatbestand, Entscheidungsgründe, Tenor; Revision Paragraf 115 FGO an BFH (grundsaetzliche Bedeutung, Fortbildung des Rechts, Divergenz), Nichtzulassungsbeschwerde
-- **02 Amtsermittlung Finanzgericht:** Amtsermittlungsgrundsatz Paragraf 76 FGO, Heranziehung der Akten Paragraf 71, Beweismittel, Schaetzungsbefugnis Paragraf 162 AO, Mitwirkungspflicht des Klägers
-- **07 Koerperschaft und Gewerbesteuer:** Körperschaftsteuer: Subjektsteuerpflicht Paragraf 1 KStG, Einkommensermittlung Paragraf 8 KStG i.V.m. EStG, verdeckte Gewinnausschuettung Paragraf 8 Abs. 3; Gewerbesteuer Paragrafen 2 und 7-9 GewStG
-- **06 UST Pruefungsschema:** Umsatzsteuer: Steuerbarkeit Paragraf 1 UStG, Steuerpflicht und Steuerbefreiung Paragraf 4, Bemessungsgrundlage Paragraf 10, Vorsteuerabzug Paragraf 15, Rechnungsanforderungen Paragraf 14
-- **05 EST Pruefungsschema:** Einkommensteuer-Prüfung: Einkunftsart, Einkunftsermittlung (Paragrafen 4 und 5 EStG oder Paragraf 11 EStG), Sonderausgaben, außergewoehnliche Belastungen, Tarif Paragraf 32a EStG
-- **08 Schaetzung und Betriebspruefung:** Schaetzung Paragraf 162 AO als Beweismittel: aeussere und innere Schaetzung, Zeitreihenvergleich, Geldverkehrsrechnung, Chi-Quadrat-Test; Verwertbarkeit aus Betriebsprüfung
+- 01 Zulaessigkeit Finanzgerichtsklage: Zulässigkeit der Klage Paragrafen 40-65 FGO: Klagearten (Anfechtung Verpflichtung Feststellung Untaetigkeit), Vorverfahren Einspruch nach Paragraf 347 AO, Klagefrist Paragraf 47 FGO, Klagebefugnis Paragraf 40 Abs. 2
+- 10 Entscheidungsvorschlag Finanzgericht: Strukturierter Entscheidungsvorschlag: Tenor, Prüfungsschema Zulässigkeit Begründetheit, materielle Prüfung der Steuerart, Beweiswürdigung, Risikohinweise, ausdrücklich zur richterlichen Prüfung markiert
+- 09 Urteil Finanzgericht und Revision: Urteil Paragraf 105 FGO: Tatbestand, Entscheidungsgründe, Tenor; Revision Paragraf 115 FGO an BFH (grundsaetzliche Bedeutung, Fortbildung des Rechts, Divergenz), Nichtzulassungsbeschwerde
+- 02 Amtsermittlung Finanzgericht: Amtsermittlungsgrundsatz Paragraf 76 FGO, Heranziehung der Akten Paragraf 71, Beweismittel, Schaetzungsbefugnis Paragraf 162 AO, Mitwirkungspflicht des Klägers
+- 07 Koerperschaft und Gewerbesteuer: Körperschaftsteuer: Subjektsteuerpflicht Paragraf 1 KStG, Einkommensermittlung Paragraf 8 KStG i.V.m. EStG, verdeckte Gewinnausschuettung Paragraf 8 Abs. 3; Gewerbesteuer Paragrafen 2 und 7-9 GewStG
+- 06 UST Pruefungsschema: Umsatzsteuer: Steuerbarkeit Paragraf 1 UStG, Steuerpflicht und Steuerbefreiung Paragraf 4, Bemessungsgrundlage Paragraf 10, Vorsteuerabzug Paragraf 15, Rechnungsanforderungen Paragraf 14
+- 05 EST Pruefungsschema: Einkommensteuer-Prüfung: Einkunftsart, Einkunftsermittlung (Paragrafen 4 und 5 EStG oder Paragraf 11 EStG), Sonderausgaben, außergewoehnliche Belastungen, Tarif Paragraf 32a EStG
+- 08 Schaetzung und Betriebspruefung: Schaetzung Paragraf 162 AO als Beweismittel: aeussere und innere Schaetzung, Zeitreihenvergleich, Geldverkehrsrechnung, Chi-Quadrat-Test; Verwertbarkeit aus Betriebsprüfung
 
 ## Antwortform
 

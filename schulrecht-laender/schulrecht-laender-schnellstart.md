@@ -30,14 +30,14 @@ Schulrecht der Länder: Schulpflicht, Aufnahme, Inklusion, Noten, Versetzung, Or
 
 ## Kernmodule
 
-- **Beschwerde Gegen Lehrkraft:** Prüft Beschwerden gegen Lehrkräfte, Dienstaufsicht, pädagogische Bewertung und Deeskalation im Schulrecht Länder.
-- **Schulische Ordnungsakte Beweisarchiv:** Baut eine belastbare Akten- und Beweismatrix für schulische Eskalationsfälle im Schulrecht Länder.
-- **Schulvertrag Privatschule Bussgeld:** Prüft privatschulische Aufnahme, Kündigung, Hausordnung und Vertragsrechte im Schulrecht Länder.
-- **Schulaufsicht Akteneinsicht Eltern:** Prüft Akteneinsicht, Schulaufsichtsbeschwerde und Informationsrechte im Schulrecht Länder.
-- **Schulaufsichtsbeschwerde:** Erstellt Schulaufsichtsbeschwerde und Dienstaufsichtsbeschwerde im Schulrecht Länder.
-- **Akteneinsicht Schulakte Attest:** Prüft Einsicht in Schülerakte und Unterlagen im Schulrecht Länder.
-- **Widerspruch und Eilrechtsschutz Schule:** Baut Widerspruch und Eilantrag im Schulrecht im Schulrecht Länder.
-- **Schulhund Allergie Schulische Ordnungsakte:** Prüft Schulhundkonzept, Allergien, Angst, Aufsicht, Versicherung und Elternrechte im Schulrecht Länder.
+- Beschwerde Gegen Lehrkraft: Prüft Beschwerden gegen Lehrkräfte, Dienstaufsicht, pädagogische Bewertung und Deeskalation im Schulrecht Länder.
+- Schulische Ordnungsakte Beweisarchiv: Baut eine belastbare Akten- und Beweismatrix für schulische Eskalationsfälle im Schulrecht Länder.
+- Schulvertrag Privatschule Bussgeld: Prüft privatschulische Aufnahme, Kündigung, Hausordnung und Vertragsrechte im Schulrecht Länder.
+- Schulaufsicht Akteneinsicht Eltern: Prüft Akteneinsicht, Schulaufsichtsbeschwerde und Informationsrechte im Schulrecht Länder.
+- Schulaufsichtsbeschwerde: Erstellt Schulaufsichtsbeschwerde und Dienstaufsichtsbeschwerde im Schulrecht Länder.
+- Akteneinsicht Schulakte Attest: Prüft Einsicht in Schülerakte und Unterlagen im Schulrecht Länder.
+- Widerspruch und Eilrechtsschutz Schule: Baut Widerspruch und Eilantrag im Schulrecht im Schulrecht Länder.
+- Schulhund Allergie Schulische Ordnungsakte: Prüft Schulhundkonzept, Allergien, Angst, Aufsicht, Versicherung und Elternrechte im Schulrecht Länder.
 
 ## Antwortform
 

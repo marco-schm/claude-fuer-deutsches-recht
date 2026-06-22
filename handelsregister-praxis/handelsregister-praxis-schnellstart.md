@@ -30,14 +30,14 @@ Praxisplugin für den Umgang mit dem Handelsregister: Anmeldung, Registergericht
 
 ## Kernmodule
 
-- **Rechtsabteilung Kapitalerhoehung und Zwischenverfuegung:** Rechtsabteilungs-Fachmodul für Kapitalerhöhung und Zwischenverfügung: Zwischenverfügungen werden in heilbare Punkte, Streitpunkte und Beschwerde sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Hande…
-- **Kaltstart Routing:** Führt durch das erste Registerproblem: Wer meldet was an, welche Gesellschaft, welches Registerblatt, welches Ziel, welcher Fristdruck, welche Urkunden, welche Entscheidungsperson und welches Eskalationsniveau.
-- **Beanstandung Zwischenverfuegung:** Analysiert Registerbeanstandungen, trennt behebbare Formmängel von Rechtsstreit, formuliert Nachreichung, Bitte um Fristverlängerung oder Beschwerdevorbereitung im Handelsregister Praxis.
-- **Rechtsprechung Register Frist Vollzugslog:** Legt fest, wie Entscheidungen in Registersachen nur mit Gericht, Datum, Aktenzeichen und freiem Fundlink ausgegeben werden im Handelsregister Praxis.
-- **Famfg Beschwerde Registersache:** Prüft Statthaftigkeit, Beschwer, Frist, Form, Abhilfe, Nichtabhilfe und Beschwerdebegründung gegen Registerentscheidungen im Handelsregister Praxis.
-- **Gesellschafterlistenstreit Eilstrategie Gmbh:** Ordnet Anspruch, einstweilige Verfügung, Registersperre, materiellen Streit und Kommunikation mit Registergericht/Notar im Handelsregister Praxis.
-- **KI Registerakte Nachlass:** Zwingt zu Belegpfad, Registerauszug, Aktenzeichen, Normenanker und klarer Kennzeichnung nicht verifizierter Annahmen im Handelsregister Praxis.
-- **Registerakte Schnellscan Registerauszug Lesen:** Erstellt eine Vollzugskarte aus Satzung, Beschluss, Anmeldung, Liste, Notarvermerk, Gerichtsschreiben und Fristenlog im Handelsregister Praxis.
+- Rechtsabteilung Kapitalerhoehung und Zwischenverfuegung: Rechtsabteilungs-Fachmodul für Kapitalerhöhung und Zwischenverfügung: Zwischenverfügungen werden in heilbare Punkte, Streitpunkte und Beschwerde sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Hande…
+- Kaltstart Routing: Führt durch das erste Registerproblem: Wer meldet was an, welche Gesellschaft, welches Registerblatt, welches Ziel, welcher Fristdruck, welche Urkunden, welche Entscheidungsperson und welches Eskalationsniveau.
+- Beanstandung Zwischenverfuegung: Analysiert Registerbeanstandungen, trennt behebbare Formmängel von Rechtsstreit, formuliert Nachreichung, Bitte um Fristverlängerung oder Beschwerdevorbereitung im Handelsregister Praxis.
+- Rechtsprechung Register Frist Vollzugslog: Legt fest, wie Entscheidungen in Registersachen nur mit Gericht, Datum, Aktenzeichen und freiem Fundlink ausgegeben werden im Handelsregister Praxis.
+- Famfg Beschwerde Registersache: Prüft Statthaftigkeit, Beschwer, Frist, Form, Abhilfe, Nichtabhilfe und Beschwerdebegründung gegen Registerentscheidungen im Handelsregister Praxis.
+- Gesellschafterlistenstreit Eilstrategie Gmbh: Ordnet Anspruch, einstweilige Verfügung, Registersperre, materiellen Streit und Kommunikation mit Registergericht/Notar im Handelsregister Praxis.
+- KI Registerakte Nachlass: Zwingt zu Belegpfad, Registerauszug, Aktenzeichen, Normenanker und klarer Kennzeichnung nicht verifizierter Annahmen im Handelsregister Praxis.
+- Registerakte Schnellscan Registerauszug Lesen: Erstellt eine Vollzugskarte aus Satzung, Beschluss, Anmeldung, Liste, Notarvermerk, Gerichtsschreiben und Fristenlog im Handelsregister Praxis.
 
 ## Antwortform
 

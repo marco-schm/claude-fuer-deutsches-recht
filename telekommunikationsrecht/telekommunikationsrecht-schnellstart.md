@@ -30,14 +30,14 @@ Großes Telekommunikationsrecht-Plugin für TKG, Bundesnetzagentur, Internetansc
 
 ## Kernmodule
 
-- **Kaltstart Routing:** Allgemeiner Einstieg ins Telekommunikationsrecht: Anschluss, Internet, Mobilfunk, Anbieterwechsel, BNetzA-Bescheid, Frequenz, Nummerierung, Marktmacht, Datenschutz und Sicherheitsvorfall sortieren.
-- **Output Beschwerde Antrag Klage:** Formate im Telekommunikationsrecht: BNetzA-Beschwerde, Verbraucher-Schlichtung, verwaltungsrechtlicher Antrag, Widerspruch/Anfechtung, zivilrechtliche Klage und Stellungnahme.
-- **Behoerdenkommunikation Kooperationsstrategie:** Kommunikationsstrategie gegenüber der Bundesnetzagentur: kooperativ, präzise, aktenfest, geheimnisschonend und entscheidungsorientiert im Telekommunikationsrecht.
-- **Zivilklage TK Abhoerschnittstellen:** Zivilrechtliche TK-Klagen: Entgeltforderungen, Rückzahlung, Schadensersatz, SLA, AGB, Minderung und Verbraucher-/Businessstreit im Telekommunikationsrecht.
-- **Umzug Vertragsanpassung:** Umzug bei TK-Vertrag: Fortführung, Sonderkündigung, Leistungsfähigkeit am neuen Standort, Glasfaser-/Kabelanschluss und Kosten im Telekommunikationsrecht.
-- **Beschwerde TK Beweisplan:** Dashboard für Massenbeschwerden: Anbieterwechsel, Störung, Rufnummer, Werbeanruf, Rechnung, Missbrauch und Fristen im Telekommunikationsrecht.
-- **Mindestvertragslaufzeit TK Umzug:** TK-Verträge: Mindestlaufzeit, automatische Verlängerung, monatliche Kündbarkeit, Kündigungsbutton/Onlinekündigung, AGB und Nachweis im Telekommunikationsrecht.
-- **Redteam Regulierungsrisiko:** Red-Team für TK-Projekte: Marktmacht, Zugangs-/Entgeltregulierung, Wegerecht, Sicherheit, Datenschutz, BNetzA, Kartellrecht und politische Sichtbarkeit.
+- Kaltstart Routing: Allgemeiner Einstieg ins Telekommunikationsrecht: Anschluss, Internet, Mobilfunk, Anbieterwechsel, BNetzA-Bescheid, Frequenz, Nummerierung, Marktmacht, Datenschutz und Sicherheitsvorfall sortieren.
+- Output Beschwerde Antrag Klage: Formate im Telekommunikationsrecht: BNetzA-Beschwerde, Verbraucher-Schlichtung, verwaltungsrechtlicher Antrag, Widerspruch/Anfechtung, zivilrechtliche Klage und Stellungnahme.
+- Behoerdenkommunikation Kooperationsstrategie: Kommunikationsstrategie gegenüber der Bundesnetzagentur: kooperativ, präzise, aktenfest, geheimnisschonend und entscheidungsorientiert im Telekommunikationsrecht.
+- Zivilklage TK Abhoerschnittstellen: Zivilrechtliche TK-Klagen: Entgeltforderungen, Rückzahlung, Schadensersatz, SLA, AGB, Minderung und Verbraucher-/Businessstreit im Telekommunikationsrecht.
+- Umzug Vertragsanpassung: Umzug bei TK-Vertrag: Fortführung, Sonderkündigung, Leistungsfähigkeit am neuen Standort, Glasfaser-/Kabelanschluss und Kosten im Telekommunikationsrecht.
+- Beschwerde TK Beweisplan: Dashboard für Massenbeschwerden: Anbieterwechsel, Störung, Rufnummer, Werbeanruf, Rechnung, Missbrauch und Fristen im Telekommunikationsrecht.
+- Mindestvertragslaufzeit TK Umzug: TK-Verträge: Mindestlaufzeit, automatische Verlängerung, monatliche Kündbarkeit, Kündigungsbutton/Onlinekündigung, AGB und Nachweis im Telekommunikationsrecht.
+- Redteam Regulierungsrisiko: Red-Team für TK-Projekte: Marktmacht, Zugangs-/Entgeltregulierung, Wegerecht, Sicherheit, Datenschutz, BNetzA, Kartellrecht und politische Sichtbarkeit.
 
 ## Antwortform
 

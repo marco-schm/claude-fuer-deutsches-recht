@@ -36,14 +36,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **04 Subsidiaritaet und Frist:** Materielle Subsidiaritaet (zumutbare anderweitige Abhilfe, prozessuale Obliegenheiten), Beschwerdefrist Paragraf 93 BVerfGG (ein Monat bei Entscheidungen, ein Jahr bei Gesetzen), Wiedereinsetzung Paragraf 93 Abs. 2
-- **06 Fachgerichtliche Entscheidung Pruefen:** Prüfungsmaßstab gegenüber Fachgerichten: spezifisches Verfassungsrecht, Verletzung verfassungsrechtlicher Massstaebe, willkuerliche Auslegung, Heck'sche Formel, Sphaerentheorie
-- **08 Votum Wissenschaftlicher Mitarbeiter:** Strukturiertes Votum: Sachverhalt verkuerzt, Prüfungspunkte Zulässigkeit (Frist Substantiierung Rechtsweg Subsidiaritaet), Prüfungspunkte Begründetheit (Schutzbereich Eingriff Rechtfertigung), Entscheidungsvorschlag (Annahme, Nichtannahme…
-- **10 Entscheidungsvorschlag Kammer Bverfg:** Strukturierter Entscheidungsvorschlag für die Kammer: Annahme oder Nichtannahme, ggf. Vorlage an den Senat, ggf. einstweilige Anordnung Paragraf 32 BVerfGG, Risikohinweise, ausdrücklich zur kammerinternen Prüfung markiert
-- **03 Rechtswegerschoepfung Paragraf 90 ABS 2:** Rechtswegerschoepfung Paragraf 90 Abs. 2 BVerfGG: vollständige Erschoepfung des fachgerichtlichen Instanzenzugs, Nichtzulassungsbeschwerde, Anhörungsrüge, Ausnahmen (allgemeine Bedeutung)
-- **01 Annahme Pruefung Paragraf 93a:** Annahmevoraussetzungen Paragraf 93a Abs. 2 BVerfGG: grundsaetzliche verfassungsrechtliche Bedeutung lit. a, Durchsetzung der Grundrechte lit. b, schwerer Nachteil; Verhaeltnis von Annahmeprüfung und Begründetheit
-- **05 Grundrechtsdogmatik Pruefen:** Prüfungsschema Freiheitsgrundrechte: Schutzbereich, Eingriff, verfassungsrechtliche Rechtfertigung (Schranken, Schranken-Schranken, Verhältnismäßigkeit); Gleichheitsgrundrechte Art. 3 GG (neue Formel)
-- **02 Substantiierungs Pruefung Paragraf 92:** Substantiierungspflicht Paragraf 92 BVerfGG: konkrete Bezeichnung des verletzten Rechts, Sachverhaltsdarstellung, Auseinandersetzung mit angegriffenen Entscheidungen, Beifuegung der Entscheidungen
+- 04 Subsidiaritaet und Frist: Materielle Subsidiaritaet (zumutbare anderweitige Abhilfe, prozessuale Obliegenheiten), Beschwerdefrist Paragraf 93 BVerfGG (ein Monat bei Entscheidungen, ein Jahr bei Gesetzen), Wiedereinsetzung Paragraf 93 Abs. 2
+- 06 Fachgerichtliche Entscheidung Pruefen: Prüfungsmaßstab gegenüber Fachgerichten: spezifisches Verfassungsrecht, Verletzung verfassungsrechtlicher Massstaebe, willkuerliche Auslegung, Heck'sche Formel, Sphaerentheorie
+- 08 Votum Wissenschaftlicher Mitarbeiter: Strukturiertes Votum: Sachverhalt verkuerzt, Prüfungspunkte Zulässigkeit (Frist Substantiierung Rechtsweg Subsidiaritaet), Prüfungspunkte Begründetheit (Schutzbereich Eingriff Rechtfertigung), Entscheidungsvorschlag (Annahme, Nichtannahme…
+- 10 Entscheidungsvorschlag Kammer Bverfg: Strukturierter Entscheidungsvorschlag für die Kammer: Annahme oder Nichtannahme, ggf. Vorlage an den Senat, ggf. einstweilige Anordnung Paragraf 32 BVerfGG, Risikohinweise, ausdrücklich zur kammerinternen Prüfung markiert
+- 03 Rechtswegerschoepfung Paragraf 90 ABS 2: Rechtswegerschoepfung Paragraf 90 Abs. 2 BVerfGG: vollständige Erschoepfung des fachgerichtlichen Instanzenzugs, Nichtzulassungsbeschwerde, Anhörungsrüge, Ausnahmen (allgemeine Bedeutung)
+- 01 Annahme Pruefung Paragraf 93a: Annahmevoraussetzungen Paragraf 93a Abs. 2 BVerfGG: grundsaetzliche verfassungsrechtliche Bedeutung lit. a, Durchsetzung der Grundrechte lit. b, schwerer Nachteil; Verhaeltnis von Annahmeprüfung und Begründetheit
+- 05 Grundrechtsdogmatik Pruefen: Prüfungsschema Freiheitsgrundrechte: Schutzbereich, Eingriff, verfassungsrechtliche Rechtfertigung (Schranken, Schranken-Schranken, Verhältnismäßigkeit); Gleichheitsgrundrechte Art. 3 GG (neue Formel)
+- 02 Substantiierungs Pruefung Paragraf 92: Substantiierungspflicht Paragraf 92 BVerfGG: konkrete Bezeichnung des verletzten Rechts, Sachverhaltsdarstellung, Auseinandersetzung mit angegriffenen Entscheidungen, Beifuegung der Entscheidungen
 
 ## Antwortform
 

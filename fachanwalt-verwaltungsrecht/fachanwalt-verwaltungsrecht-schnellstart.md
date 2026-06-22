@@ -36,14 +36,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Fachanwalt Verwaltungsrecht Anfechtungsklage:** Anfechtungsklage nach Paragraf 42 Abs. 1 VwGO gegen Verwaltungsakt formulieren: Mandant hat Widerspruchsbescheid erhalten oder Vorverfahren entfaellt. Normen: Paragraf 42 Abs. 1 VwGO (Statthaftigkeit), Paragraf 42 Abs. 2 VwGO (Klagebefugni…
-- **Fachanwalt Verwaltungsrecht Widerspruchsschrift:** Widerspruchsschrift nach ParagrafParagraf 68 ff. VwGO gegen belastenden Verwaltungsakt formulieren: Mandant hat Bescheid erhalten und will innerhalb der Frist Widerspruch einlegen. Normen: Paragraf 68 VwGO (Vorverfahren), Paragraf 70 Abs…
-- **Klagefrist Paragraf 58 Vwgo Bverwg 4 C 1 19:** Klagefrist Paragraf 58 VwGO BVerwG 4 C 1 19: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt.
-- **Widerspruch Paragraf 68 Vwgo:** Widerspruch Paragraf 68 VwGO: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen.
-- **Verpflichtungsklage Behoerden Gericht und Registerweg:** Verpflichtungsklage: Behörden-, Gerichts- oder Registerweg: Verpflichtungsklage: Behörden-, Gerichts- oder Registerweg.
-- **Erstpruefung und Mandatsziel:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
-- **Vwgo Fristen Form und Zustaendigkeit:** VwGO: Fristen, Form, Zuständigkeit und Rechtsweg: VwGO: Fristen, Form, Zuständigkeit und Rechtsweg.
-- **Einstieg Routing:** Einstieg, Triage und Routing für Fachanwalt Verwaltungsrecht: ordnet Rolle (Bürger/Antragsteller, Behörde, Verwaltungsgericht), markiert Frist (Paragraf 74 VwGO Klagefrist 1 Mon.), wählt Norm (VwGO, VwVfG, AO (steuerlich)) und Zuständigkei…
+- Fachanwalt Verwaltungsrecht Anfechtungsklage: Anfechtungsklage nach Paragraf 42 Abs. 1 VwGO gegen Verwaltungsakt formulieren: Mandant hat Widerspruchsbescheid erhalten oder Vorverfahren entfaellt. Normen: Paragraf 42 Abs. 1 VwGO (Statthaftigkeit), Paragraf 42 Abs. 2 VwGO (Klagebefugni…
+- Fachanwalt Verwaltungsrecht Widerspruchsschrift: Widerspruchsschrift nach ParagrafParagraf 68 ff. VwGO gegen belastenden Verwaltungsakt formulieren: Mandant hat Bescheid erhalten und will innerhalb der Frist Widerspruch einlegen. Normen: Paragraf 68 VwGO (Vorverfahren), Paragraf 70 Abs…
+- Klagefrist Paragraf 58 Vwgo Bverwg 4 C 1 19: Klagefrist Paragraf 58 VwGO BVerwG 4 C 1 19: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt.
+- Widerspruch Paragraf 68 Vwgo: Widerspruch Paragraf 68 VwGO: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen.
+- Verpflichtungsklage Behoerden Gericht und Registerweg: Verpflichtungsklage: Behörden-, Gerichts- oder Registerweg: Verpflichtungsklage: Behörden-, Gerichts- oder Registerweg.
+- Erstpruefung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
+- Vwgo Fristen Form und Zustaendigkeit: VwGO: Fristen, Form, Zuständigkeit und Rechtsweg: VwGO: Fristen, Form, Zuständigkeit und Rechtsweg.
+- Einstieg Routing: Einstieg, Triage und Routing für Fachanwalt Verwaltungsrecht: ordnet Rolle (Bürger/Antragsteller, Behörde, Verwaltungsgericht), markiert Frist (Paragraf 74 VwGO Klagefrist 1 Mon.), wählt Norm (VwGO, VwVfG, AO (steuerlich)) und Zuständigkei…
 
 ## Antwortform
 

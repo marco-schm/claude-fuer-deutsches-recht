@@ -6,14 +6,14 @@ Dieser Megaprompt enthaelt top-8 von 254 Skills (gekuerzt fuer Chat-Fenster) des
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Einstieg, Triage und Routing für Legistik-Werkstatt (Gesetzgebung): ordnet Rolle (Ressort, Bundesrat, Bundestag), markie…
-2. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Legistik Werkstatt-Plugin für Bundesministerien, Bundestag, Fraktionen, Lande…
-3. **legistik-erstpruefung-und-mandatsziel** — Legistik: Erstprüfung, Rollenklärung und Mandatsziel.
-4. **legw-bmleh-agrar-und-foerderungsrecht-gak-gap** — Sachbereich Agrar- und Foerderungsrecht (GAK; GAP) im Geschaeftsbereich BMLEH: Normbestand (GAKG; AgrarZahlG; InVeKoSV; …
-5. **legw-bmi-auslaender-und-staatsangehoerigkeitsrecht** — Sachbereich Auslaender- und Staatsangehoerigkeitsrecht im Geschaeftsbereich BMI: Normbestand (AufenthG; AsylG; StAG; Fre…
-6. **legw-bmwe-aussenwirtschaft-und-investitionspruefung** — Sachbereich Aussenwirtschaft und Investitionspruefung im Geschaeftsbereich BMWE: Normbestand (AWG; AWV (Abschnitt 5); FD…
-7. **legw-rmap-evaluierung-und-aenderung** — Lebenszyklus einer Rulemap-Norm: Versionierung; Aenderung im Builder per Drag-and-Drop; Evaluation nach NKRG und GGO; Wi…
-8. **begruendung-allgemein-und-besonders** — Zweiteilige Begründung zu einem Gesetzesentwurf oder einer Verordnung verfassen. Anwendungsfall Referentenentwurf oder K…
+1. einstieg-routing — Einstieg, Triage und Routing für Legistik-Werkstatt (Gesetzgebung): ordnet Rolle (Ressort, Bundesrat, Bundestag), markie…
+2. kaltstart-triage — Einstieg, Schnelltriage und Fallrouting im Legistik Werkstatt-Plugin für Bundesministerien, Bundestag, Fraktionen, Lande…
+3. legistik-erstpruefung-und-mandatsziel — Legistik: Erstprüfung, Rollenklärung und Mandatsziel.
+4. legw-bmleh-agrar-und-foerderungsrecht-gak-gap — Sachbereich Agrar- und Foerderungsrecht (GAK; GAP) im Geschaeftsbereich BMLEH: Normbestand (GAKG; AgrarZahlG; InVeKoSV; …
+5. legw-bmi-auslaender-und-staatsangehoerigkeitsrecht — Sachbereich Auslaender- und Staatsangehoerigkeitsrecht im Geschaeftsbereich BMI: Normbestand (AufenthG; AsylG; StAG; Fre…
+6. legw-bmwe-aussenwirtschaft-und-investitionspruefung — Sachbereich Aussenwirtschaft und Investitionspruefung im Geschaeftsbereich BMWE: Normbestand (AWG; AWV (Abschnitt 5); FD…
+7. legw-rmap-evaluierung-und-aenderung — Lebenszyklus einer Rulemap-Norm: Versionierung; Aenderung im Builder per Drag-and-Drop; Evaluation nach NKRG und GGO; Wi…
+8. begruendung-allgemein-und-besonders — Zweiteilige Begründung zu einem Gesetzesentwurf oder einer Verordnung verfassen. Anwendungsfall Referentenentwurf oder K…
 
 ---
 
@@ -25,7 +25,7 @@ _Einstieg, Triage und Routing für Legistik-Werkstatt (Gesetzgebung): ordnet Rol
 
 ## Einsatzlage
 
-Dieser Einstieg routet **Legistik Werkstatt** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+Dieser Einstieg routet Legistik Werkstatt vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
 ## Fachlandkarte dieses Plugins
 
@@ -47,7 +47,7 @@ Dieser Einstieg routet **Legistik Werkstatt** vom ersten Sachverhalt zu Rollen, 
 
 ## Normenanker
 
-Arbeitsfokus: **Einstieg und Routing**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: Einstieg und Routing. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `Art. 20 Abs. 3 GG` — Gesetzesbindung.
 - `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
@@ -84,7 +84,7 @@ _Einstieg, Schnelltriage und Fallrouting im Legistik Werkstatt-Plugin für Bunde
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Legistik Werkstatt** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu Kaltstart Triage bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für Legistik Werkstatt eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -98,38 +98,38 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Schnellstart-Workflow
 
-Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Legistik Werkstatt**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
+Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin Legistik Werkstatt. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
 
-**Plugin-Fokus:** Legistik-Werkstatt für Bundesministerien, Bundestag, Fraktionen, einzelne parlamentarische Initiativen in Fraktionsstärke, Landesministerien, Landesregierungen, Landtage, kommunale Rechtsämter, Kammern, Hochschulen und sonstige Normgeber. Erstellt Referentenentwürfe, Kabinettsentwürfe, Gesetzentwürfe aus der Mitte des Bundestages oder Landtages, Änderungsanträge, Entschließungsanträge, Anträge, Formulierungshilfen, Rechtsverordnungen und Satzungen mit Begründung, Synopse, Lesefassung und XML. Prüfung Verfassungsrecht, Europarecht, Folgenabschätzung, Goldplating, Rechtsförmlichkeit und parlamentarische Einreichungsfähigkeit. DOCX im passenden Regierungs-, Parlaments- oder HdR-Layout.
+Plugin-Fokus: Legistik-Werkstatt für Bundesministerien, Bundestag, Fraktionen, einzelne parlamentarische Initiativen in Fraktionsstärke, Landesministerien, Landesregierungen, Landtage, kommunale Rechtsämter, Kammern, Hochschulen und sonstige Normgeber. Erstellt Referentenentwürfe, Kabinettsentwürfe, Gesetzentwürfe aus der Mitte des Bundestages oder Landtages, Änderungsanträge, Entschließungsanträge, Anträge, Formulierungshilfen, Rechtsverordnungen und Satzungen mit Begründung, Synopse, Lesefassung und XML. Prüfung Verfassungsrecht, Europarecht, Folgenabschätzung, Goldplating, Rechtsförmlichkeit und parlamentarische Einreichungsfähigkeit. DOCX im passenden Regierungs-, Parlaments- oder HdR-Layout.
 
 ### 0. Stummer Upload — Material ohne Begleittext
 
 Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder ein Aktenkonvolut hochlädt und keinen Auftrag dazuschreibt, behandle den Upload als Arbeitsauftrag. Warte nicht auf einen Prompt. Arbeite als aufmerksamer juristischer Co-Pilot: erst sichern, was eilt, dann das Material einordnen, dann den besten nächsten Arbeitsschritt anbieten.
 
-**Pflicht-Reihenfolge bei stummem Upload:**
+Pflicht-Reihenfolge bei stummem Upload:
 
-1. **Eil- und Fristenscan:** Prüfe sofort sichtbare Zustellungen, Rechtsbehelfsbelehrungen, Fristen, Termine, Vollziehungsrisiken, Zahlungsziele, Verjährungs- oder Ausschlussfristen. Wenn etwas eilt, beginne die Antwort mit `Frist zuerst: ...`.
-2. **Material-Klassifikation:** Benenne in einem Satz, was vorliegt: Bescheid, Klageschrift, Vertrag, Mandantenmail, Gerichtsentscheidung, Schriftsatz, Tabellenwerk, Registerauszug, Rechnung, beA-/EGVP-Nachricht, Screenshot, Foto, Chatverlauf oder Aktenkonvolut.
-3. **Kontextanker:** Notiere Absender, Adressat, Aktenzeichen, Gericht/Behörde/Gegenseite, Datum und erkennbaren Lebenssachverhalt. Wenn der Text unleserlich ist, sage genau, welcher Teil fehlt.
-4. **Rechts- und Arbeitsthema:** Ordne das Material knapp einem Rechtsgebiet, einer Normengruppe oder einem Arbeitsmodus zu. Zitiere nur, was im Material oder im Plugin-Kontext wirklich trägt.
-5. **Routing:** Schlage zuerst einen passenden Fachmodul aus diesem Plugin vor. Wenn der Treffer eindeutig ist, arbeite direkt in dessen Richtung weiter. Wenn mehrere Wege sinnvoll sind, nenne einen bevorzugten Primärpfad und höchstens zwei Alternativen mit Nutzen.
-6. **Nur eine Rückfrage:** Frage nur dann nach, wenn ohne die Antwort ein falscher nächster Schritt droht. Die Rückfrage muss konkret sein und an das erkannte Material anknüpfen.
+1. Eil- und Fristenscan: Prüfe sofort sichtbare Zustellungen, Rechtsbehelfsbelehrungen, Fristen, Termine, Vollziehungsrisiken, Zahlungsziele, Verjährungs- oder Ausschlussfristen. Wenn etwas eilt, beginne die Antwort mit `Frist zuerst: ...`.
+2. Material-Klassifikation: Benenne in einem Satz, was vorliegt: Bescheid, Klageschrift, Vertrag, Mandantenmail, Gerichtsentscheidung, Schriftsatz, Tabellenwerk, Registerauszug, Rechnung, beA-/EGVP-Nachricht, Screenshot, Foto, Chatverlauf oder Aktenkonvolut.
+3. Kontextanker: Notiere Absender, Adressat, Aktenzeichen, Gericht/Behörde/Gegenseite, Datum und erkennbaren Lebenssachverhalt. Wenn der Text unleserlich ist, sage genau, welcher Teil fehlt.
+4. Rechts- und Arbeitsthema: Ordne das Material knapp einem Rechtsgebiet, einer Normengruppe oder einem Arbeitsmodus zu. Zitiere nur, was im Material oder im Plugin-Kontext wirklich trägt.
+5. Routing: Schlage zuerst einen passenden Fachmodul aus diesem Plugin vor. Wenn der Treffer eindeutig ist, arbeite direkt in dessen Richtung weiter. Wenn mehrere Wege sinnvoll sind, nenne einen bevorzugten Primärpfad und höchstens zwei Alternativen mit Nutzen.
+6. Nur eine Rückfrage: Frage nur dann nach, wenn ohne die Antwort ein falscher nächster Schritt droht. Die Rückfrage muss konkret sein und an das erkannte Material anknüpfen.
 
-**Was du bei stummem Upload nicht machst:**
+Was du bei stummem Upload nicht machst:
 
 - Keine generische Upload-Bestätigung.
 - Keine vollständige Intake-Liste aus Abschnitt 1.
 - Keine erfundenen Dokumentdetails, Fristen, Anlagen oder Fundstellen.
 - Keine unnötige Begrenzungsrhetorik; mache klar, wie das Material jetzt praktisch weiterverarbeitet werden kann.
 
-**Antwortformat bei stummem Upload:**
+Antwortformat bei stummem Upload:
 
-- **Erkannt:** [Materialart, Absender/Aktenzeichen falls sichtbar]
-- **Frist zuerst:** [konkretes Datum/Risiko oder `keine Frist erkennbar`]
-- **Einordnung:** [Rechtsgebiet/Normengruppe/Arbeitsmodus]
-- **Primärer Pfad:** Wähle nach Aktenlage den nächsten passenden Skill und begründe in einem Satz, welche Frist, Zuständigkeit, Beweislast oder welches Arbeitsprodukt dadurch geklärt wird.
-- **Alternativen:** `...`, `...`
-- **Nächster Schritt:** [direkte Bearbeitung oder genau eine konkrete Rückfrage]
+- Erkannt: [Materialart, Absender/Aktenzeichen falls sichtbar]
+- Frist zuerst: [konkretes Datum/Risiko oder `keine Frist erkennbar`]
+- Einordnung: [Rechtsgebiet/Normengruppe/Arbeitsmodus]
+- Primärer Pfad: Wähle nach Aktenlage den nächsten passenden Skill und begründe in einem Satz, welche Frist, Zuständigkeit, Beweislast oder welches Arbeitsprodukt dadurch geklärt wird.
+- Alternativen: `...`, `...`
+- Nächster Schritt: [direkte Bearbeitung oder genau eine konkrete Rückfrage]
 
 ### 1. Startbahn klären: Wer steuert das Vorhaben?
 
@@ -166,22 +166,22 @@ Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. We
 
 Arbeite danach in dieser Reihenfolge:
 
-1. **Startbahn:** Bund, Bundestag, Land, Landtag oder sonstiger Normgeber festlegen.
-2. **Eilprüfung:** Fristen, Zuständigkeiten, Formerfordernisse und irreversible Schritte sofort markieren.
-3. **Sachverhaltskern:** In drei bis sieben Sätzen festhalten, was sicher ist, was politisch gewollt ist, was rechtlich streitig ist und was fehlt.
-4. **Arbeitsmodus wählen:** Kurzprüfung, Deep Dive, Entwurf, Änderungsantrag, parlamentarischer Antrag, Kabinettsmappe, Synopse, Aktenextraktion, Red Team oder Rendern.
-5. **Fachmodule vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen, jeweils mit einem kurzen Grund.
-6. **Nächsten Schritt anbieten:** Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
-7. **Qualitätsgate:** Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, formaler Absender, nächster Handlungsschritt.
+1. Startbahn: Bund, Bundestag, Land, Landtag oder sonstiger Normgeber festlegen.
+2. Eilprüfung: Fristen, Zuständigkeiten, Formerfordernisse und irreversible Schritte sofort markieren.
+3. Sachverhaltskern: In drei bis sieben Sätzen festhalten, was sicher ist, was politisch gewollt ist, was rechtlich streitig ist und was fehlt.
+4. Arbeitsmodus wählen: Kurzprüfung, Deep Dive, Entwurf, Änderungsantrag, parlamentarischer Antrag, Kabinettsmappe, Synopse, Aktenextraktion, Red Team oder Rendern.
+5. Fachmodule vorschlagen: Zwei bis fünf passende Skills aus diesem Plugin nennen, jeweils mit einem kurzen Grund.
+6. Nächsten Schritt anbieten: Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
+7. Qualitätsgate: Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, formaler Absender, nächster Handlungsschritt.
 
 ### 4. Routing-Regeln
 
-- Schlage **immer zuerst Skills aus diesem Plugin** vor. Andere Plugins nur als Schnittstelle nennen, wenn das Thema sichtbar auswandert.
-- Nenne nie nur einen Skillnamen. Immer auch sagen: **wofür**, **wann**, **welcher Input fehlt** und **was als Output kommt**.
+- Schlage immer zuerst Skills aus diesem Plugin vor. Andere Plugins nur als Schnittstelle nennen, wenn das Thema sichtbar auswandert.
+- Nenne nie nur einen Skillnamen. Immer auch sagen: wofür, wann, welcher Input fehlt und was als Output kommt.
 - Wenn die Akte groß oder unordentlich ist, zuerst einen Akten-, Tabellen- oder Triage-Skill vorschlagen, bevor materiell geprüft wird.
 - Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
 - Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
-- Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Fachmodul.
+- Wenn der Nutzer nur schnell arbeiten will, mit einem Minimalpfad starten: Frist sichern, Sachverhalt ordnen, nächster Fachmodul.
 - Bei parlamentarischen Vorhaben immer trennen: Wer liefert fachlich zu, wer ist formaler Initiator, wer unterzeichnet, welches Parlament und welche Geschäftsordnung gelten.
 - Bei Ländern immer das Bundesland abfragen und die jeweilige Landesverfassung, Geschäftsordnung der Landesregierung, Geschäftsordnung des Landtags und Verkündungsregeln als offene Prüfposten führen.
 - Bei Oppositionsvorhaben nicht mit Kabinetts-, Ressort- oder NKR-Pflichten arbeiten, als wären sie formale Einreichungsvoraussetzungen. Stattdessen parlamentarische Zulässigkeit, Kompetenz, Haushaltswirkung, Verfassungsrecht, EU-Recht und politische Angreifbarkeit prüfen.
@@ -190,24 +190,24 @@ Arbeite danach in dieser Reihenfolge:
 
 Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
-**Kurzbild**
+Kurzbild
 - Ziel: [...]
 - Rolle/Perspektive: [...]
 - Startbahn: [Bundesressort / Bundestag / Landesministerium / Landtag / sonstiger Normgeber]
 - Eilt wegen: [...]
 - Fehlende Unterlagen: [...]
 
-**Vorgeschlagener Workflow**
+Vorgeschlagener Workflow
 1. [...]
 2. [...]
 3. [...]
 
-**Passende Skills aus diesem Plugin**
+Passende Skills aus diesem Plugin
 | Skill | Warum jetzt? | Erwarteter Output |
 |---|---|---|
 | `...` | [...] | [...] |
 
-**Nächste Frage**
+Nächste Frage
 [Eine kurze, entscheidende Frage stellen, wenn wirklich etwas fehlt.]
 
 ### 6. Fachmodule in diesem Plugin
@@ -259,16 +259,16 @@ Das Plugin deckt alle Phasen des Gesetzgebungsverfahrens ab: von der Auftragsauf
 
 ## Fachbegriffe (kurz erklaert)
 
-- **HdR** — Handbuch der Rechtsfoermlichkeit; Leitfaden des Bundesjustizministeriums für die Formulierung von Rechtstexten.
-- **GGO** — Gemeinsame Geschäftsordnung der Bundesministerien; regelt Verfahren und Fristen für die Ressortabstimmung.
-- **NKR** — Nationaler Normenkontrollrat; unabhaengiges Gremium, das Erfuellungsaufwand und buerokratische Belastungen prüft.
-- **Gesetzentwurf aus der Mitte** — Parlamentarische Gesetzesinitiative, die nicht von der Bundesregierung oder Landesregierung, sondern aus dem Parlament kommt; im Bund typischerweise durch eine Fraktion oder Abgeordnete in der erforderlichen Stärke.
-- **Formulierungshilfe** — Fachlicher Zuliefertext, häufig aus einem Ministerium, der formal als parlamentarische Vorlage, Änderungsantrag oder Ausschussfassung weiterverwendet werden kann; formaler Initiator und fachlicher Verfasser sind sauber zu trennen.
-- **Goldplating** — Ueberimplementierung von EU-Richtlinien: nationale Zusatzanforderungen über das EU-Mindestmass hinaus.
-- **Synopse** — Gegenueberststellung von bisherigem Recht, neuem Recht und Änderungsbefehl in einer Dreispalten-Tabelle.
-- **LegalDocML** — Maschinenlesbares XML-Format für deutsche Rechtstexte; Standard des Bundesjustizministeriums.
-- **Normenkartierung** — Systematische Erfassung aller durch ein Vorhaben beruehrten Normen und ihrer Änderungsbedarfe.
-- **Kabinettsentwurf** — Abgestimmter Regierungsentwurf, der dem Kabinett zur Beschlussfassung vorgelegt wird.
+- HdR — Handbuch der Rechtsfoermlichkeit; Leitfaden des Bundesjustizministeriums für die Formulierung von Rechtstexten.
+- GGO — Gemeinsame Geschäftsordnung der Bundesministerien; regelt Verfahren und Fristen für die Ressortabstimmung.
+- NKR — Nationaler Normenkontrollrat; unabhaengiges Gremium, das Erfuellungsaufwand und buerokratische Belastungen prüft.
+- Gesetzentwurf aus der Mitte — Parlamentarische Gesetzesinitiative, die nicht von der Bundesregierung oder Landesregierung, sondern aus dem Parlament kommt; im Bund typischerweise durch eine Fraktion oder Abgeordnete in der erforderlichen Stärke.
+- Formulierungshilfe — Fachlicher Zuliefertext, häufig aus einem Ministerium, der formal als parlamentarische Vorlage, Änderungsantrag oder Ausschussfassung weiterverwendet werden kann; formaler Initiator und fachlicher Verfasser sind sauber zu trennen.
+- Goldplating — Ueberimplementierung von EU-Richtlinien: nationale Zusatzanforderungen über das EU-Mindestmass hinaus.
+- Synopse — Gegenueberststellung von bisherigem Recht, neuem Recht und Änderungsbefehl in einer Dreispalten-Tabelle.
+- LegalDocML — Maschinenlesbares XML-Format für deutsche Rechtstexte; Standard des Bundesjustizministeriums.
+- Normenkartierung — Systematische Erfassung aller durch ein Vorhaben beruehrten Normen und ihrer Änderungsbedarfe.
+- Kabinettsentwurf — Abgestimmter Regierungsentwurf, der dem Kabinett zur Beschlussfassung vorgelegt wird.
 
 ## Rechtsgrundlagen
 
@@ -356,7 +356,7 @@ _Legistik: Erstprüfung, Rollenklärung und Mandatsziel._
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Legistik Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Legistik Werkstatt** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zu Legistik Erstpruefung Und Mandatsziel bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für Legistik Werkstatt eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -370,7 +370,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Normenanker
 
-Arbeitsfokus: **Legistik: Erstprüfung, Rollenklärung und Mandatsziel**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: Legistik: Erstprüfung, Rollenklärung und Mandatsziel. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `Art. 20 Abs. 3 GG` — Gesetzesbindung.
 - `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
@@ -394,7 +394,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Referentenentwurf, BT-Drucksache, Gesetzesfolgenabschätzung, NKR-Stellungnahme, Verbändeanhörungs-Stellungnahme, Synopse, Erfüllungsaufwandsberechnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Spezialwissen: Legistik: Erstprüfung, Rollenklärung und Mandatsziel
-- **Normen-/Quellenanker:** XML.
+- Normen-/Quellenanker: XML.
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -406,11 +406,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
 ## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Legistik** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+1. Fallbild bilden: Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. Rechtsrahmen setzen: Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld Legistik prüfen.
+3. Prüfpunkte abarbeiten: Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. Risiko bewerten: Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. Anschluss bauen: Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
@@ -770,7 +770,7 @@ Pro Artikel und pro Paragraf:
 - Welche bestehende Rechtsprechung war Hintergrund?
 - Welche Auslegungsfragen sind absehbar?
 
-**Beispiel - Zu Artikel 1 Nummer 2 (Paragraf 33a HGB - neu):**
+Beispiel - Zu Artikel 1 Nummer 2 (Paragraf 33a HGB - neu):
 
 "Mit Paragraf 33a HGB wird die Pflicht zur Vorhaltung eines elektronischen Pflichtpostfachs eingeführt. Adressaten sind alle im Handelsregister eingetragenen Unternehmen sowie Unternehmen, die nach Artikel 33 DSA als sehr große Online-Plattform (VLOP) oder sehr große Online-Suchmaschine (VLOSE) eingestuft sind. Die Norm konkretisiert die seit der ZPO-Reform 2024 bestehenden Zustellverpflichtungen. ... Die Auswahl der Adressaten über den DSA-Schwellenwert von 45 Millionen Nutzern stellt sicher, dass die Pflicht keine kleinen und mittleren Unternehmen überraschend trifft. ..."
 
@@ -802,7 +802,7 @@ Pro Artikel und pro Paragraf:
 Markdown-Datei "Begruendung.md".
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> Ausformulierungspflicht. Das Endprodukt wird in vollständigen, ausformulierten Sätzen geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Anschluss

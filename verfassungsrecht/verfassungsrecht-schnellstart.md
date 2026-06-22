@@ -36,14 +36,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Bverfg Eilantrag Paragraf 32 Doppelhypothese:** Einstweilige Anordnung vor dem Bundesverfassungsgericht nach Paragraf 32 BVerfGG: Doppelhypothese, Folgenabwägung, Hauptsacheoffenheit, irreversible Nachteile, Tenorierung und Anlagenpaket für Verfassungsbeschwerde, Organstreit oder Normen…
-- **Verfassungsbeschwerde Subsidiaritaet Substantiierung:** Verfassungsbeschwerde auf Zulässigkeit härten: Rechtswegerschöpfung, Subsidiarität, fachgerichtliche Grundrechtsrüge, Paragraf 23 Abs. 1 BVerfGG, Paragraf 92 BVerfGG, Paragraf 93 BVerfGG und Annahmerisiko nach Paragraf 93a BVerfGG.
-- **Bundesverfassungsgericht Quellenkarte Check:** BVerfG-Quellenkarte für tragende verfassungsrechtliche Aussagen: amtliche Entscheidung, Aktenzeichen, Entscheidungsform, Datum, Randnummer, Tenorbindung nach Paragraf 31 BVerfGG und Übertragbarkeit auf den konkreten Fall.
-- **Gleichheit Existenzminimum Triage Asylblg:** Art. 3 GG, Menschenwürde, Existenzminimum und Schutzpflichten: Triage, Behinderung, AsylbLG-Grundleistungen, Sozialstaatsprinzip und Begründungslast des Gesetzgebers nach aktueller BVerfG-Rechtsprechung.
-- **Spezial Bundesverfassungsgericht Livequellen Check:** Livequellen-Check für BVerfG-Zitate: entscheidet, ob Entscheidung, Pressemitteilung, Leitsatz, Randnummer und Tenor wirklich die konkrete verfassungsrechtliche Aussage tragen.
-- **Verfassungsbeschwerde Mandantenentscheidung:** Verfassungsbeschwerde: Mandantenkommunikation und Entscheidungsvorlage im Verfassungsrecht.
-- **Spezialkanzlei Risikoampel und Gegenargumente:** Spezialkanzlei: Risikoampel, Gegenargumente und Verteidigungslinien im Verfassungsrecht.
-- **Verfassung Abstrakte Bund:** Verfassungsrecht: Erstprüfung, Rollenklärung und Mandatsziel im Verfassungsrecht.
+- Bverfg Eilantrag Paragraf 32 Doppelhypothese: Einstweilige Anordnung vor dem Bundesverfassungsgericht nach Paragraf 32 BVerfGG: Doppelhypothese, Folgenabwägung, Hauptsacheoffenheit, irreversible Nachteile, Tenorierung und Anlagenpaket für Verfassungsbeschwerde, Organstreit oder Normen…
+- Verfassungsbeschwerde Subsidiaritaet Substantiierung: Verfassungsbeschwerde auf Zulässigkeit härten: Rechtswegerschöpfung, Subsidiarität, fachgerichtliche Grundrechtsrüge, Paragraf 23 Abs. 1 BVerfGG, Paragraf 92 BVerfGG, Paragraf 93 BVerfGG und Annahmerisiko nach Paragraf 93a BVerfGG.
+- Bundesverfassungsgericht Quellenkarte Check: BVerfG-Quellenkarte für tragende verfassungsrechtliche Aussagen: amtliche Entscheidung, Aktenzeichen, Entscheidungsform, Datum, Randnummer, Tenorbindung nach Paragraf 31 BVerfGG und Übertragbarkeit auf den konkreten Fall.
+- Gleichheit Existenzminimum Triage Asylblg: Art. 3 GG, Menschenwürde, Existenzminimum und Schutzpflichten: Triage, Behinderung, AsylbLG-Grundleistungen, Sozialstaatsprinzip und Begründungslast des Gesetzgebers nach aktueller BVerfG-Rechtsprechung.
+- Spezial Bundesverfassungsgericht Livequellen Check: Livequellen-Check für BVerfG-Zitate: entscheidet, ob Entscheidung, Pressemitteilung, Leitsatz, Randnummer und Tenor wirklich die konkrete verfassungsrechtliche Aussage tragen.
+- Verfassungsbeschwerde Mandantenentscheidung: Verfassungsbeschwerde: Mandantenkommunikation und Entscheidungsvorlage im Verfassungsrecht.
+- Spezialkanzlei Risikoampel und Gegenargumente: Spezialkanzlei: Risikoampel, Gegenargumente und Verteidigungslinien im Verfassungsrecht.
+- Verfassung Abstrakte Bund: Verfassungsrecht: Erstprüfung, Rollenklärung und Mandatsziel im Verfassungsrecht.
 
 ## Antwortform
 

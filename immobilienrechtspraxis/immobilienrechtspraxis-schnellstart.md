@@ -31,19 +31,19 @@ Pflichtnormen aus dem Plugin-Material:
 - Paragraf 433/873/925, GrEStG
 - Paragraf 311b BGB notarielle Beurkundung, Auflassung Paragraf 925 BGB, Eintragung Auflassungsvormerkung Paragraf 883 BGB
 Leitentscheidungen nur nach Live-Prüfung verwenden:
-- BGH 24.06.2020, VIII ZR 219/19** (Schriftform Gewerbemietvertrag Paragraf 550 BGB): Wahrung der Schriftform setzt voraus, dass alle wesentlichen Vertragsbedingungen aus einer Urkund
-- BVerfG 25.03.2021, 2 BvF 1/20** (Berliner Mietendeckel): Landesgesetzliche Mietpreisregelung verfassungswidrig; für Neuvermietung bleiben deshalb die bundesrechtlichen Regeln de
+- BGH 24.06.2020, VIII ZR 219/19 (Schriftform Gewerbemietvertrag Paragraf 550 BGB): Wahrung der Schriftform setzt voraus, dass alle wesentlichen Vertragsbedingungen aus einer Urkund
+- BVerfG 25.03.2021, 2 BvF 1/20 (Berliner Mietendeckel): Landesgesetzliche Mietpreisregelung verfassungswidrig; für Neuvermietung bleiben deshalb die bundesrechtlichen Regeln de
 
 ## Kernmodule
 
-- **Rechtsabteilungen Fristen Form und Zustaendigkeit:** Rechtsabteilungen: Fristen, Form, Zuständigkeit und Rechtsweg im Immobilienrechtspraxis.
-- **Immobilienrechtspraxis Frist Naechster Schritt:** Immobilienrechtspraxis: Fristennotiz und nächster Schritt im Immobilienrechtspraxis.
-- **Vertragspruefung Schriftsatz Brief und Memo Bausteine:** Vertragspruefung: Schriftsatz-, Brief- und Memo-Bausteine im Immobilienrechtspraxis.
-- **Werkzeuge Erstpruefung und Mandatsziel:** Werkzeuge: Erstprüfung, Rollenklärung und Mandatsziel im Immobilienrechtspraxis.
-- **Klauselschutz Vertragserstellung:** Klauselschutz: Behörden-, Gerichts- oder Registerweg im Immobilienrechtspraxis.
-- **Vertragserstellung Musterbasiert:** Immobilienrechtliche Vertraege auf Musterbasis erstellen: Kaufvertrag, Mietvertrag, WEG-Beschluss. Normen: ParagrafParagraf 433 ff. 535 ff. 873 BGB, WEG, GrEStG. Prüfraster: Musterauswahl, Anpassung an Sachverhalt, Notarerfordernis. Output…
-- **Vertragspruefung Playbook:** Immobilienrechtliche Vertraege nach standardisiertem Playbook prüfen: Kaufvertrag, Grundschuld, WEG. Normen: ParagrafParagraf 433 ff. 873 ff. BGB, WEG, GrEStG, GBO. Prüfraster: Playbook-Checkliste, Risikoklauseln, Notar- und Formerforderni…
-- **Start Chronologie Fristen:** Einstieg, Schnelltriage und Fallrouting im Immobilienrechtspraxis-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Do…
+- Rechtsabteilungen Fristen Form und Zustaendigkeit: Rechtsabteilungen: Fristen, Form, Zuständigkeit und Rechtsweg im Immobilienrechtspraxis.
+- Immobilienrechtspraxis Frist Naechster Schritt: Immobilienrechtspraxis: Fristennotiz und nächster Schritt im Immobilienrechtspraxis.
+- Vertragspruefung Schriftsatz Brief und Memo Bausteine: Vertragspruefung: Schriftsatz-, Brief- und Memo-Bausteine im Immobilienrechtspraxis.
+- Werkzeuge Erstpruefung und Mandatsziel: Werkzeuge: Erstprüfung, Rollenklärung und Mandatsziel im Immobilienrechtspraxis.
+- Klauselschutz Vertragserstellung: Klauselschutz: Behörden-, Gerichts- oder Registerweg im Immobilienrechtspraxis.
+- Vertragserstellung Musterbasiert: Immobilienrechtliche Vertraege auf Musterbasis erstellen: Kaufvertrag, Mietvertrag, WEG-Beschluss. Normen: ParagrafParagraf 433 ff. 535 ff. 873 BGB, WEG, GrEStG. Prüfraster: Musterauswahl, Anpassung an Sachverhalt, Notarerfordernis. Output…
+- Vertragspruefung Playbook: Immobilienrechtliche Vertraege nach standardisiertem Playbook prüfen: Kaufvertrag, Grundschuld, WEG. Normen: ParagrafParagraf 433 ff. 873 ff. BGB, WEG, GrEStG, GBO. Prüfraster: Playbook-Checkliste, Risikoklauseln, Notar- und Formerforderni…
+- Start Chronologie Fristen: Einstieg, Schnelltriage und Fallrouting im Immobilienrechtspraxis-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Do…
 
 ## Antwortform
 

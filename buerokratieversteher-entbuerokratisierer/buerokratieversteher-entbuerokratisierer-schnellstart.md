@@ -32,14 +32,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Frist Sofortcheck Nachbar Bauverfahren:** Fristen-Sofortcheck bei Bescheiden: Zugangsfiktion, Monatsfrist, Rechtsbehelfsbelehrung, fehlerhafte Belehrung, Sofortmassnahmen vor Fristablauf, Berechnung nach VwVfG und ZPO im Bürokratie-Entbürokratisierung.
-- **Behoerde oder Gericht Erkennen:** Ordnet Absender ein: Kommune, Landkreis, Landesbehörde, Bundesbehörde, Jobcenter, Jugendamt, Familiengericht, Polizei, Staatsanwaltschaft, Amtsgericht im Bürokratie-Entbürokratisierung.
-- **Widerspruch Einfach Wohngeld Wohnung:** Erstellt fristwahrenden Widerspruch gegen Verwaltungsakte, wenn Widerspruch statthaft ist, mit knapper Begründung oder Begründungsnachreichung im Bürokratie-Entbürokratisierung.
-- **Eilantrag Notfall:** Erkennt Notlagen, in denen Widerspruch/Klage nicht reicht: Existenz, Wohnung, Schule, Aufenthalt, Gesundheit, Kinderschutz, Vollziehung im Bürokratie-Entbürokratisierung.
-- **Klage Verwaltungsgericht Einfach:** Erklärt den Weg zur Anfechtungs- oder Verpflichtungsklage, wenn kein Widerspruch möglich ist oder ein Widerspruchsbescheid vorliegt im Bürokratie-Entbürokratisierung.
-- **Kaltstart Triage:** Einstieg und Routing für alle Behörden-, Gerichts-, Antrags-, Bescheid- und Vorladungssituationen; erklärt laienverständlich, sprachsensibel und vorsichtig.
-- **Aktenzeichen und Vorgangsnummer:** Findet und erklärt Aktenzeichen, Geschäftszeichen, Kundennummer, BG-Nummer, Kassenzeichen und Zahlungsreferenz im Bürokratie-Entbürokratisierung.
-- **TOD Erbe Vorlage Originale Aktenzeichen:** Erklärt Sterbefall, Erbschein, Nachlassgericht, Renten-/Kassen-/Steuerstellen und vorsichtige Erklärungen im Bürokratie-Entbürokratisierung.
+- Frist Sofortcheck Nachbar Bauverfahren: Fristen-Sofortcheck bei Bescheiden: Zugangsfiktion, Monatsfrist, Rechtsbehelfsbelehrung, fehlerhafte Belehrung, Sofortmassnahmen vor Fristablauf, Berechnung nach VwVfG und ZPO im Bürokratie-Entbürokratisierung.
+- Behoerde oder Gericht Erkennen: Ordnet Absender ein: Kommune, Landkreis, Landesbehörde, Bundesbehörde, Jobcenter, Jugendamt, Familiengericht, Polizei, Staatsanwaltschaft, Amtsgericht im Bürokratie-Entbürokratisierung.
+- Widerspruch Einfach Wohngeld Wohnung: Erstellt fristwahrenden Widerspruch gegen Verwaltungsakte, wenn Widerspruch statthaft ist, mit knapper Begründung oder Begründungsnachreichung im Bürokratie-Entbürokratisierung.
+- Eilantrag Notfall: Erkennt Notlagen, in denen Widerspruch/Klage nicht reicht: Existenz, Wohnung, Schule, Aufenthalt, Gesundheit, Kinderschutz, Vollziehung im Bürokratie-Entbürokratisierung.
+- Klage Verwaltungsgericht Einfach: Erklärt den Weg zur Anfechtungs- oder Verpflichtungsklage, wenn kein Widerspruch möglich ist oder ein Widerspruchsbescheid vorliegt im Bürokratie-Entbürokratisierung.
+- Kaltstart Triage: Einstieg und Routing für alle Behörden-, Gerichts-, Antrags-, Bescheid- und Vorladungssituationen; erklärt laienverständlich, sprachsensibel und vorsichtig.
+- Aktenzeichen und Vorgangsnummer: Findet und erklärt Aktenzeichen, Geschäftszeichen, Kundennummer, BG-Nummer, Kassenzeichen und Zahlungsreferenz im Bürokratie-Entbürokratisierung.
+- TOD Erbe Vorlage Originale Aktenzeichen: Erklärt Sterbefall, Erbschein, Nachlassgericht, Renten-/Kassen-/Steuerstellen und vorsichtige Erklärungen im Bürokratie-Entbürokratisierung.
 
 ## Antwortform
 

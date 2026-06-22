@@ -33,14 +33,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Umweltrecht Erstpruefung und Mandatsziel:** Umweltrecht: Erstprüfung, Rollenklärung und Mandatsziel im Umweltrecht.
-- **Klimaklagen Mehrparteien Konflikt und Interessen:** Klimaklagen: Mehrparteienkonflikt und Interessenmatrix im Umweltrecht.
-- **Diligence Greenwashing Beweislast Klimaklagen:** Diligence: Compliance-Dokumentation und Aktenvermerk im Umweltrecht.
-- **Stoerfall Fristennotiz und Naechster Schritt:** Stoerfall: Fristennotiz und nächster Schritt im Umweltrecht.
-- **Start Chronologie Fristen:** Einstieg, Schnelltriage und Fallrouting im Umweltrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Uplo…
-- **Einstieg Routing:** Einstieg, Triage und Routing für Umweltrecht: ordnet Rolle (Vorhabenträger, Behörde, Umweltverband), markiert Frist (Klagefrist UVPG), wählt Norm (BImSchG, BNatSchG, WHG, BBodSchG, UVPG) und Zuständigkeit (Umweltbehörden Länder), leitet zu…
-- **Anschluss Routing:** Anschluss-Routing für Umweltrecht: wählt den nächsten Spezial-Skill nach Engpass (Klagefrist UVPG, UVP-Bericht, Genehmigungsbescheid, Stellungnahmen Umweltverbände), dokumentiert Router-Entscheidung mit Begründung.
-- **Workflow Kaltstart und Routing:** Kaltstart und Routing im Plugin umweltrecht: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+- Umweltrecht Erstpruefung und Mandatsziel: Umweltrecht: Erstprüfung, Rollenklärung und Mandatsziel im Umweltrecht.
+- Klimaklagen Mehrparteien Konflikt und Interessen: Klimaklagen: Mehrparteienkonflikt und Interessenmatrix im Umweltrecht.
+- Diligence Greenwashing Beweislast Klimaklagen: Diligence: Compliance-Dokumentation und Aktenvermerk im Umweltrecht.
+- Stoerfall Fristennotiz und Naechster Schritt: Stoerfall: Fristennotiz und nächster Schritt im Umweltrecht.
+- Start Chronologie Fristen: Einstieg, Schnelltriage und Fallrouting im Umweltrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Uplo…
+- Einstieg Routing: Einstieg, Triage und Routing für Umweltrecht: ordnet Rolle (Vorhabenträger, Behörde, Umweltverband), markiert Frist (Klagefrist UVPG), wählt Norm (BImSchG, BNatSchG, WHG, BBodSchG, UVPG) und Zuständigkeit (Umweltbehörden Länder), leitet zu…
+- Anschluss Routing: Anschluss-Routing für Umweltrecht: wählt den nächsten Spezial-Skill nach Engpass (Klagefrist UVPG, UVP-Bericht, Genehmigungsbescheid, Stellungnahmen Umweltverbände), dokumentiert Router-Entscheidung mit Begründung.
+- Workflow Kaltstart und Routing: Kaltstart und Routing im Plugin umweltrecht: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
 
 ## Antwortform
 

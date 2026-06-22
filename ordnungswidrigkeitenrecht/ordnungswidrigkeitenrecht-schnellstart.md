@@ -32,14 +32,14 @@ Pflichtnormen aus dem Plugin-Material:
 
 ## Kernmodule
 
-- **Einspruch Fristgerecht:** Ordnungswidrigkeitenrecht: Einspruch fristgerecht einlegen. Einspruch fristgerecht einlegen im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht.
-- **Amtsgericht Hauptverhandlung:** Ordnungswidrigkeitenrecht: Amtsgericht Hauptverhandlung. Amtsgericht Hauptverhandlung im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht.
-- **Akteneinsicht Beantragen:** Ordnungswidrigkeitenrecht: Akteneinsicht beantragen. Akteneinsicht beantragen im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht.
-- **Rechtsbeschwerde Pruefen:** Ordnungswidrigkeitenrecht: Rechtsbeschwerde prüfen. Rechtsbeschwerde prüfen im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht.
-- **Kaltstart Bussgeldverfahren:** Ordnungswidrigkeitenrecht: Kaltstart Bußgeldverfahren. Kaltstart Bußgeldverfahren im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
-- **Datenschutzbussgeld Gerichtstermin VOR:** Datenschutzbußgeld: Gerichtstermin vorbereiten im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Lebensmittelrecht Gerichtstermin:** Lebensmittelrecht: Gerichtstermin vorbereiten im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Aussenwirtschaft Gerichtstermin:** Außenwirtschaft: Gerichtstermin vorbereiten im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Einspruch Fristgerecht: Ordnungswidrigkeitenrecht: Einspruch fristgerecht einlegen. Einspruch fristgerecht einlegen im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht.
+- Amtsgericht Hauptverhandlung: Ordnungswidrigkeitenrecht: Amtsgericht Hauptverhandlung. Amtsgericht Hauptverhandlung im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht.
+- Akteneinsicht Beantragen: Ordnungswidrigkeitenrecht: Akteneinsicht beantragen. Akteneinsicht beantragen im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht.
+- Rechtsbeschwerde Pruefen: Ordnungswidrigkeitenrecht: Rechtsbeschwerde prüfen. Rechtsbeschwerde prüfen im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht.
+- Kaltstart Bussgeldverfahren: Ordnungswidrigkeitenrecht: Kaltstart Bußgeldverfahren. Kaltstart Bußgeldverfahren im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+- Datenschutzbussgeld Gerichtstermin VOR: Datenschutzbußgeld: Gerichtstermin vorbereiten im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Lebensmittelrecht Gerichtstermin: Lebensmittelrecht: Gerichtstermin vorbereiten im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Aussenwirtschaft Gerichtstermin: Außenwirtschaft: Gerichtstermin vorbereiten im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 ## Antwortform
 

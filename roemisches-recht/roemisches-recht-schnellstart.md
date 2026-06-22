@@ -31,14 +31,14 @@ Pflichtnormen aus dem Plugin-Material:
 
 ## Kernmodule
 
-- **Versicherung und Risiko im Roemischen Recht:** Versicherung und Risikoverteilung im roemischen Recht. Skill behandelt das Fehlen einer eigenstaendigen Versicherungslehre und die funktionalen Ersatzinstrumente fenus nauticum lex Rhodia receptum nautarum gemeinsame Gefahrtragung. Liefert…
-- **Mandatum Qualificatum Testamentum Calatis:** Mandatum qualificatum: qualifizierte Auftragserteilung als Buergschaftsersatz. Skill behandelt die juristische Konstruktion das Verhältnis zur mandatum pecuniae credendae und die Folgen bei Nichterfuellung. Liefert Quellenmatrix im Römisch…
-- **Seeunglueck Versicherung und Risiko:** Seeunglueck Versicherung und Risiko im roemischen Seerecht. Skill behandelt die Risikoverteilung bei Seetransporten lex Rhodia fenus nauticum receptum nautarum und die Frage was bei Untergang oder Verlust geschuldet ist. Liefert Prüfraster.
-- **Mandatum Pecuniae Credendae Bankvertrag:** Mandatum pecuniae credendae: Kreditbuergschaftsvertrag im roemischen Recht als Vorlaeufer der Bankkredit-Garantie. Skill behandelt die Konstruktion das Verhältnis zur Buergschaft und zum Auftrag. Liefert Quellenmatrix im Römisches Recht.
-- **Codicilli und Nachtragliche Erbverfuegungen:** Codicilli: nachtraegliche letztwillige Verfuegungen im roemischen Recht. Skill behandelt die ad-hoc-Form ihre Bindung an ein bestehendes Testament und die Bedeutung für Legate und Fideikommisse. Liefert Quellenmatrix im Römisches Recht.
-- **Vertragstypen Konsens Real Verbal Litteral:** Römisches Recht: Vertragstypen nach Entstehungsmodus. Konsensualverträge, Realverträge, Verbalverträge/Stipulation und Litteralkontrakte; mit Kauf, mutuum, Zinsstipulation, Darlehen und moderner Rezeptionswarnung im Römisches Recht.
-- **Mandatum Pecuniae Credendae:** Mandatum pecuniae credendae: Kreditbuergschaftsvertrag im roemischen Recht als Vorlaeufer der Bankkredit-Garantie. Skill behandelt die Konstruktion das Verhältnis zur Buergschaft und zum Auftrag. Liefert Quellenmatrix.
-- **Kaltstart Institutionensystem:** Römisches Recht: Systemüberblick nach Gaius Inst. 1.8 (personae, res, actiones), Corpus Iuris Civilis (Institutiones, Digesta, Kodex, Novellae) - Einstieg in Quellen, Epochen und Methodik.
+- Versicherung und Risiko im Roemischen Recht: Versicherung und Risikoverteilung im roemischen Recht. Skill behandelt das Fehlen einer eigenstaendigen Versicherungslehre und die funktionalen Ersatzinstrumente fenus nauticum lex Rhodia receptum nautarum gemeinsame Gefahrtragung. Liefert…
+- Mandatum Qualificatum Testamentum Calatis: Mandatum qualificatum: qualifizierte Auftragserteilung als Buergschaftsersatz. Skill behandelt die juristische Konstruktion das Verhältnis zur mandatum pecuniae credendae und die Folgen bei Nichterfuellung. Liefert Quellenmatrix im Römisch…
+- Seeunglueck Versicherung und Risiko: Seeunglueck Versicherung und Risiko im roemischen Seerecht. Skill behandelt die Risikoverteilung bei Seetransporten lex Rhodia fenus nauticum receptum nautarum und die Frage was bei Untergang oder Verlust geschuldet ist. Liefert Prüfraster.
+- Mandatum Pecuniae Credendae Bankvertrag: Mandatum pecuniae credendae: Kreditbuergschaftsvertrag im roemischen Recht als Vorlaeufer der Bankkredit-Garantie. Skill behandelt die Konstruktion das Verhältnis zur Buergschaft und zum Auftrag. Liefert Quellenmatrix im Römisches Recht.
+- Codicilli und Nachtragliche Erbverfuegungen: Codicilli: nachtraegliche letztwillige Verfuegungen im roemischen Recht. Skill behandelt die ad-hoc-Form ihre Bindung an ein bestehendes Testament und die Bedeutung für Legate und Fideikommisse. Liefert Quellenmatrix im Römisches Recht.
+- Vertragstypen Konsens Real Verbal Litteral: Römisches Recht: Vertragstypen nach Entstehungsmodus. Konsensualverträge, Realverträge, Verbalverträge/Stipulation und Litteralkontrakte; mit Kauf, mutuum, Zinsstipulation, Darlehen und moderner Rezeptionswarnung im Römisches Recht.
+- Mandatum Pecuniae Credendae: Mandatum pecuniae credendae: Kreditbuergschaftsvertrag im roemischen Recht als Vorlaeufer der Bankkredit-Garantie. Skill behandelt die Konstruktion das Verhältnis zur Buergschaft und zum Auftrag. Liefert Quellenmatrix.
+- Kaltstart Institutionensystem: Römisches Recht: Systemüberblick nach Gaius Inst. 1.8 (personae, res, actiones), Corpus Iuris Civilis (Institutiones, Digesta, Kodex, Novellae) - Einstieg in Quellen, Epochen und Methodik.
 
 ## Antwortform
 

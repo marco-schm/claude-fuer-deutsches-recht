@@ -36,14 +36,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Behoerdenstrategie:** Entwickelt die Behördenstrategie für Self-Reporting an BaFin, StA, DOJ/SEC – Zeitpunkt, Inhalt, Kooperationsanreize und Risikoabwägung im Internal Investigations Praxis.
-- **Kaltstart Triage:** Einstieg für Internal Investigations: Anlass, Auftrag, Scope, Sofortmassnahmen, Interviews, Datenschutz, Privilege-Risiko und Bericht.
-- **INV 012 Behoerdenstrategie:** Plant Selbstanzeige, Kooperation, Nichtkooperation, Stellungnahme, Akteneinsicht und Parallelverfahren.
-- **Reporting Behoerdenstrategie:** Strukturiert den Abschlussbericht einer Internal Investigation – Aufbau, Privilegierung, Adressaten, Versionen und Verwertbarkeit im Internal Investigations Praxis.
-- **INV 002 Honeypot Risiko:** Prueft, ob die Investigation ungewollt einen fertigen Beweisordner fuer Strafverfolger, Behoerden oder Gegner erzeugt.
-- **Monitor Privilege:** Strukturiert das Reporting an einen externen Compliance-Monitor nach DPA/NPA oder Behördenanordnung – Anforderungen, Konfliktmanagement, Exit-Strategie im Internal Investigations Praxis.
-- **Settlement Narrative:** Entwickelt das Settlement-Narrativ für Behörden und Öffentlichkeit – DPA/NPA-Formulierungen, Faktenbasis, Schuldanerkenntnis-Grenzen, Präzedenzwirkung im Internal Investigations Praxis.
-- **Insurance Press:** Koordiniert die Versicherungsmeldung bei Internal Investigations – D&O, Crime-Versicherung, Cyber-Versicherung, Meldepflichten und Deckungsstrategien im Internal Investigations Praxis.
+- Behoerdenstrategie: Entwickelt die Behördenstrategie für Self-Reporting an BaFin, StA, DOJ/SEC – Zeitpunkt, Inhalt, Kooperationsanreize und Risikoabwägung im Internal Investigations Praxis.
+- Kaltstart Triage: Einstieg für Internal Investigations: Anlass, Auftrag, Scope, Sofortmassnahmen, Interviews, Datenschutz, Privilege-Risiko und Bericht.
+- INV 012 Behoerdenstrategie: Plant Selbstanzeige, Kooperation, Nichtkooperation, Stellungnahme, Akteneinsicht und Parallelverfahren.
+- Reporting Behoerdenstrategie: Strukturiert den Abschlussbericht einer Internal Investigation – Aufbau, Privilegierung, Adressaten, Versionen und Verwertbarkeit im Internal Investigations Praxis.
+- INV 002 Honeypot Risiko: Prueft, ob die Investigation ungewollt einen fertigen Beweisordner fuer Strafverfolger, Behoerden oder Gegner erzeugt.
+- Monitor Privilege: Strukturiert das Reporting an einen externen Compliance-Monitor nach DPA/NPA oder Behördenanordnung – Anforderungen, Konfliktmanagement, Exit-Strategie im Internal Investigations Praxis.
+- Settlement Narrative: Entwickelt das Settlement-Narrativ für Behörden und Öffentlichkeit – DPA/NPA-Formulierungen, Faktenbasis, Schuldanerkenntnis-Grenzen, Präzedenzwirkung im Internal Investigations Praxis.
+- Insurance Press: Koordiniert die Versicherungsmeldung bei Internal Investigations – D&O, Crime-Versicherung, Cyber-Versicherung, Meldepflichten und Deckungsstrategien im Internal Investigations Praxis.
 
 ## Antwortform
 

@@ -32,14 +32,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Einwohnerantrag Petition Haushalt:** Kommunalrecht der Länder: Einwohnerantrag und Petition. Einwohnerantrag und Petition im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht.
-- **Kaltstart Kommunalrechtsfall:** Kommunalrecht der Länder: Kaltstart Kommunalrechtsfall. Kaltstart Kommunalrechtsfall im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
-- **Kommunalaufsicht Aufsichtsbeschwerde S:** der Länder: Kommunalaufsicht: Aufsichtsbeschwerde schreiben im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Strassenreinigung Aufsichtsbeschwerde:** der Länder: Straßenreinigung: Aufsichtsbeschwerde schreiben im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Kommunalabgabe Aufsichtsbeschwerde SCH:** der Länder: Kommunalabgabe: Aufsichtsbeschwerde schreiben im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Buergermeister Aufsichtsbeschwerde SCH:** der Länder: Bürgermeister: Aufsichtsbeschwerde schreiben im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Ortschaftsrat Aufsichtsbeschwerde Schr:** der Länder: Ortschaftsrat: Aufsichtsbeschwerde schreiben im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
-- **Kita Satzung Aufsichtsbeschwerde Schre:** der Länder: Kita-Satzung: Aufsichtsbeschwerde schreiben im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Einwohnerantrag Petition Haushalt: Kommunalrecht der Länder: Einwohnerantrag und Petition. Einwohnerantrag und Petition im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht.
+- Kaltstart Kommunalrechtsfall: Kommunalrecht der Länder: Kaltstart Kommunalrechtsfall. Kaltstart Kommunalrechtsfall im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+- Kommunalaufsicht Aufsichtsbeschwerde S: der Länder: Kommunalaufsicht: Aufsichtsbeschwerde schreiben im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Strassenreinigung Aufsichtsbeschwerde: der Länder: Straßenreinigung: Aufsichtsbeschwerde schreiben im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Kommunalabgabe Aufsichtsbeschwerde SCH: der Länder: Kommunalabgabe: Aufsichtsbeschwerde schreiben im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Buergermeister Aufsichtsbeschwerde SCH: der Länder: Bürgermeister: Aufsichtsbeschwerde schreiben im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Ortschaftsrat Aufsichtsbeschwerde Schr: der Länder: Ortschaftsrat: Aufsichtsbeschwerde schreiben im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
+- Kita Satzung Aufsichtsbeschwerde Schre: der Länder: Kita-Satzung: Aufsichtsbeschwerde schreiben im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 ## Antwortform
 

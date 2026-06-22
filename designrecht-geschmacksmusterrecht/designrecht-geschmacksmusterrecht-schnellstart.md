@@ -30,14 +30,14 @@ Eigenständiges Plugin für deutsches und europäisches Designrecht: DesignG, EU
 
 ## Kernmodule
 
-- **Offenbarung Neuheitsschonfrist Registerstand:** Offenbarung, Neuheitsschonfrist und Priorität prüfen: Messe, Instagram, Lookbook, Online-Shop, Presse, Prototyp, Pariser Verbandsübereinkunft und spätere Nachanmeldung im Designrecht Geschmacksmusterrecht.
-- **Kaltstart Triage:** Einstieg, Schnelltriage und Fallrouting im Designrecht/Geschmacksmusterrecht: klärt Produkt, Wiedergaben, Offenbarung, Fristen, Register, Verletzung, Nichtigkeit, DPMA/EUIPO/WIPO und passende Fachmodule.
-- **Einstweilige Verfuegung Designrecht:** Einstweilige Verfügung im Designrecht vorbereiten oder abwehren: Dringlichkeit, Registerlage, Verletzungsbilder, Nichtigkeitsrisiko, Schutzschrift und Vollziehung im Designrecht Geschmacksmusterrecht.
-- **Designlizenz Vertrag Reparaturklausel:** Designlizenzvertrag prüfen oder entwerfen: Territory, Produkte, Exklusivität, Qualitätskontrolle, Unterlizenz, Royalty, Audit, Laufzeit, Kündigung und Insolvenz im Designrecht Geschmacksmusterrecht.
-- **Kaltstart Interview:** Geführtes Kaltstart-Interview für Designmandate: Designer, Unternehmen, Produkt, Ansichten, Veröffentlichungen, Prioritäten, Länder, Fristen, Budget, Gegner, Register und gewünschte Durchsetzung.
-- **Mandantenmemo Designstrategie Marketplace:** Mandantenmemo zur Designstrategie erstellen: kurze Executive Summary, Schutzoptionen, Kosten, Zeitplan, Risiken, nächste Schritte und Entscheidungsfragen im Designrecht Geschmacksmusterrecht.
-- **Designverletzung Klageantraege Dpma:** Klageanträge im Designrecht bauen: Unterlassung, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Schadensersatzfeststellung, Anlagen und Bestimmtheit im Designrecht Geschmacksmusterrecht.
-- **Nationale Widerklage Neuheit Eigenart:** Nichtigkeit als Einwand oder Widerklage im Verletzungsverfahren prüfen: Zuständigkeit, Timing, Registerwirkung, Aussetzung und Beweislast im Designrecht Geschmacksmusterrecht.
+- Offenbarung Neuheitsschonfrist Registerstand: Offenbarung, Neuheitsschonfrist und Priorität prüfen: Messe, Instagram, Lookbook, Online-Shop, Presse, Prototyp, Pariser Verbandsübereinkunft und spätere Nachanmeldung im Designrecht Geschmacksmusterrecht.
+- Kaltstart Triage: Einstieg, Schnelltriage und Fallrouting im Designrecht/Geschmacksmusterrecht: klärt Produkt, Wiedergaben, Offenbarung, Fristen, Register, Verletzung, Nichtigkeit, DPMA/EUIPO/WIPO und passende Fachmodule.
+- Einstweilige Verfuegung Designrecht: Einstweilige Verfügung im Designrecht vorbereiten oder abwehren: Dringlichkeit, Registerlage, Verletzungsbilder, Nichtigkeitsrisiko, Schutzschrift und Vollziehung im Designrecht Geschmacksmusterrecht.
+- Designlizenz Vertrag Reparaturklausel: Designlizenzvertrag prüfen oder entwerfen: Territory, Produkte, Exklusivität, Qualitätskontrolle, Unterlizenz, Royalty, Audit, Laufzeit, Kündigung und Insolvenz im Designrecht Geschmacksmusterrecht.
+- Kaltstart Interview: Geführtes Kaltstart-Interview für Designmandate: Designer, Unternehmen, Produkt, Ansichten, Veröffentlichungen, Prioritäten, Länder, Fristen, Budget, Gegner, Register und gewünschte Durchsetzung.
+- Mandantenmemo Designstrategie Marketplace: Mandantenmemo zur Designstrategie erstellen: kurze Executive Summary, Schutzoptionen, Kosten, Zeitplan, Risiken, nächste Schritte und Entscheidungsfragen im Designrecht Geschmacksmusterrecht.
+- Designverletzung Klageantraege Dpma: Klageanträge im Designrecht bauen: Unterlassung, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Schadensersatzfeststellung, Anlagen und Bestimmtheit im Designrecht Geschmacksmusterrecht.
+- Nationale Widerklage Neuheit Eigenart: Nichtigkeit als Einwand oder Widerklage im Verletzungsverfahren prüfen: Zuständigkeit, Timing, Registerwirkung, Aussetzung und Beweislast im Designrecht Geschmacksmusterrecht.
 
 ## Antwortform
 

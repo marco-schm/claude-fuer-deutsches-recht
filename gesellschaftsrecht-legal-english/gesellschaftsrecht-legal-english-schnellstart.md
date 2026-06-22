@@ -34,14 +34,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Einstieg Routing:** Einstieg, Triage und Routing für Gesellschaftsrecht in legal English: ordnet Rolle (Shareholders, Board of Directors, Investors), markiert Frist (UK confirmation statement annual), wählt Norm (UK Companies Act 2006, Delaware GCL, MBCA (US)…
-- **Gesellschafterliste Compliance Dokumentation und Akte:** Gesellschafterliste: Compliance-Dokumentation und Aktenvermerk im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbrems…
-- **Corporate Behoerden Gericht und Registerweg:** Corporate: Behörden-, Gerichts- oder Registerweg im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt n…
-- **Workflow Kaltstart und Routing:** Kaltstart und Routing im Plugin gesellschaftsrecht-legal-english: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
-- **Kaltstart Triage:** Einstieg für das Gesellschaftsrecht-Legal-English-Plugin: erkennt Begriffsschock, Deal-Kontext, Erfahrungslevel, Dokumenttyp und routet zu den passenden Corporate-English-Skills.
-- **Workflow Fristen und Risikoampel:** Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Gesellschaftsrecht Legal English.
-- **Chronologie Fristen:** Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Gesellschaftsrecht Legal English.
-- **Workflow Unterlagen Lueckenliste:** Unterlagen- und Lückenliste im Plugin gesellschaftsrecht-legal-english: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen.
+- Einstieg Routing: Einstieg, Triage und Routing für Gesellschaftsrecht in legal English: ordnet Rolle (Shareholders, Board of Directors, Investors), markiert Frist (UK confirmation statement annual), wählt Norm (UK Companies Act 2006, Delaware GCL, MBCA (US)…
+- Gesellschafterliste Compliance Dokumentation und Akte: Gesellschafterliste: Compliance-Dokumentation und Aktenvermerk im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbrems…
+- Corporate Behoerden Gericht und Registerweg: Corporate: Behörden-, Gerichts- oder Registerweg im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt n…
+- Workflow Kaltstart und Routing: Kaltstart und Routing im Plugin gesellschaftsrecht-legal-english: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+- Kaltstart Triage: Einstieg für das Gesellschaftsrecht-Legal-English-Plugin: erkennt Begriffsschock, Deal-Kontext, Erfahrungslevel, Dokumenttyp und routet zu den passenden Corporate-English-Skills.
+- Workflow Fristen und Risikoampel: Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Gesellschaftsrecht Legal English.
+- Chronologie Fristen: Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Gesellschaftsrecht Legal English.
+- Workflow Unterlagen Lueckenliste: Unterlagen- und Lückenliste im Plugin gesellschaftsrecht-legal-english: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen.
 
 ## Antwortform
 

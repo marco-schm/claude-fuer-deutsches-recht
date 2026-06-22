@@ -35,14 +35,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Gerichtsverfassung Patrimonialgerichte:** Gerichtsverfassung im ALR — Patrimonialgerichte und Staedte. Skill behandelt das System der drei Instanzen Patrimonialgerichte (privatadelige Gerichtsbarkeit) Stadtgerichte und das Oberlandesgericht / Obertribunal. Liefert Quellenmatrix: p…
-- **Gerichtsverfassung:** Gerichtsverfassung im ALR — Patrimonialgerichte und Staedte. Skill behandelt das System der drei Instanzen Patrimonialgerichte (privatadelige Gerichtsbarkeit) Stadtgerichte und das Oberlandesgericht / Obertribunal. Liefert Quellenmatrix.
-- **Vertragsschluss Konsens und Form:** Vertragsschluss im ALR — Konsens und Form. Skill behandelt das Konsensmodell des ALR Formerfordernisse (mancipatio analog stipulatio analog Schriftform) und die Fortwirkung in BGB ParagrafParagraf 145 ff. Liefert Prüfraster.
-- **Vertragsaufhebung Ruecktritt:** Vertragsaufhebung Ruecktritt und Wandlung im ALR. Skill behandelt die Aufhebungsgruende einvernehmlich gesetzlich (Wegfall der Geschäftsgrundlage Untergang) und die Ruecktrittstradition. Liefert Quellenmatrix.
-- **Aufwendungsersatz im Vertrag:** Aufwendungsersatz im Vertrag nach ALR. Skill behandelt typische Aufwendungsersatzlagen Auftrag (mandatum) Verwahrung (depositum) Vormundschaft (tutela) sowie das Verhältnis zur GoA. Liefert Prüfraster.
-- **Vertragsstrafe Konventionalstrafe:** Vertragsstrafe und Konventionalstrafe im ALR. Skill behandelt ALR I 5 zur Vereinbarung Wirkung Anrechnung auf Schadensersatz und Verhältnis zu ParagrafParagraf 339-345 BGB. Liefert Prüfraster.
-- **Aktenvermerk für Gericht oder Gutachten:** PrALR: Aktenvermerk, Gutachtenbaustein oder Schriftsatzpassage zu PrALR-Fortwirkung erstellen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung.
-- **Kaltstart Triage:** PrALR: Kaltstart, Quellenlage, Textzeugenvergleich, Fachmodul-Routing und erste verwertbare rechtsgeschichtliche Ausgabe.
+- Gerichtsverfassung Patrimonialgerichte: Gerichtsverfassung im ALR — Patrimonialgerichte und Staedte. Skill behandelt das System der drei Instanzen Patrimonialgerichte (privatadelige Gerichtsbarkeit) Stadtgerichte und das Oberlandesgericht / Obertribunal. Liefert Quellenmatrix: p…
+- Gerichtsverfassung: Gerichtsverfassung im ALR — Patrimonialgerichte und Staedte. Skill behandelt das System der drei Instanzen Patrimonialgerichte (privatadelige Gerichtsbarkeit) Stadtgerichte und das Oberlandesgericht / Obertribunal. Liefert Quellenmatrix.
+- Vertragsschluss Konsens und Form: Vertragsschluss im ALR — Konsens und Form. Skill behandelt das Konsensmodell des ALR Formerfordernisse (mancipatio analog stipulatio analog Schriftform) und die Fortwirkung in BGB ParagrafParagraf 145 ff. Liefert Prüfraster.
+- Vertragsaufhebung Ruecktritt: Vertragsaufhebung Ruecktritt und Wandlung im ALR. Skill behandelt die Aufhebungsgruende einvernehmlich gesetzlich (Wegfall der Geschäftsgrundlage Untergang) und die Ruecktrittstradition. Liefert Quellenmatrix.
+- Aufwendungsersatz im Vertrag: Aufwendungsersatz im Vertrag nach ALR. Skill behandelt typische Aufwendungsersatzlagen Auftrag (mandatum) Verwahrung (depositum) Vormundschaft (tutela) sowie das Verhältnis zur GoA. Liefert Prüfraster.
+- Vertragsstrafe Konventionalstrafe: Vertragsstrafe und Konventionalstrafe im ALR. Skill behandelt ALR I 5 zur Vereinbarung Wirkung Anrechnung auf Schadensersatz und Verhältnis zu ParagrafParagraf 339-345 BGB. Liefert Prüfraster.
+- Aktenvermerk für Gericht oder Gutachten: PrALR: Aktenvermerk, Gutachtenbaustein oder Schriftsatzpassage zu PrALR-Fortwirkung erstellen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung.
+- Kaltstart Triage: PrALR: Kaltstart, Quellenlage, Textzeugenvergleich, Fachmodul-Routing und erste verwertbare rechtsgeschichtliche Ausgabe.
 
 ## Antwortform
 

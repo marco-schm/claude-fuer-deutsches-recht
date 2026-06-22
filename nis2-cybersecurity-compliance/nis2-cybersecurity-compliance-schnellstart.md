@@ -30,14 +30,14 @@ NIS-2, BSIG 2025, BSI, IT-Grundschutz, Cloud, Incident Response und technische S
 
 ## Kernmodule
 
-- **Mandantenakten Kanzlei:** Prüft Cybersecurity für Kanzlei- und Mandatsakten im Nis2 Cybersecurity Compliance.
-- **Vorstand Ciso Kaltstart:** Führt Vorstand und CISO durch den ersten strukturierten Cyber-Compliance-Kaltstart.
-- **Kaltstart Triage:** Startet die IT-Sicherheits- und NIS-2-Prüfung für Geschäftsführung, Vorstand, CISO, Rechtsabteilung und externe Berater.
-- **Dora Art16 Finanzunternehmen Simplified Framework:** DORA-Artikel-16-Fachmodul für Cyber- und Compliance-Teams: prüft, ob ein Finanzunternehmen den vereinfachten IKT-Risikomanagementrahmen nutzen kann, und baut Governance-, Asset-, IAM-, BCP-, Drittparteien- und Nachweisplan im Nis2 Cybersec…
-- **Risk Register Cyber:** Erzeugt ein Cyber-Risikoregister für Leitung, Audit und Aufsicht im Nis2 Cybersecurity Compliance.
-- **Datenschutzfolgenabschaetzung Security:** Erstellt DSFA für Security-Systeme mit hohem Risiko im Nis2 Cybersecurity Compliance.
-- **VPN Ausland Reisen:** Prüft Reisen, Auslandszugriffe und Hochrisikoländer im Nis2 Cybersecurity Compliance.
-- **Backup Ransomware Banking Dual Besonders:** Prüft Backup-Strategie gegen Ransomware im Nis2 Cybersecurity Compliance.
+- Mandantenakten Kanzlei: Prüft Cybersecurity für Kanzlei- und Mandatsakten im Nis2 Cybersecurity Compliance.
+- Vorstand Ciso Kaltstart: Führt Vorstand und CISO durch den ersten strukturierten Cyber-Compliance-Kaltstart.
+- Kaltstart Triage: Startet die IT-Sicherheits- und NIS-2-Prüfung für Geschäftsführung, Vorstand, CISO, Rechtsabteilung und externe Berater.
+- Dora Art16 Finanzunternehmen Simplified Framework: DORA-Artikel-16-Fachmodul für Cyber- und Compliance-Teams: prüft, ob ein Finanzunternehmen den vereinfachten IKT-Risikomanagementrahmen nutzen kann, und baut Governance-, Asset-, IAM-, BCP-, Drittparteien- und Nachweisplan im Nis2 Cybersec…
+- Risk Register Cyber: Erzeugt ein Cyber-Risikoregister für Leitung, Audit und Aufsicht im Nis2 Cybersecurity Compliance.
+- Datenschutzfolgenabschaetzung Security: Erstellt DSFA für Security-Systeme mit hohem Risiko im Nis2 Cybersecurity Compliance.
+- VPN Ausland Reisen: Prüft Reisen, Auslandszugriffe und Hochrisikoländer im Nis2 Cybersecurity Compliance.
+- Backup Ransomware Banking Dual Besonders: Prüft Backup-Strategie gegen Ransomware im Nis2 Cybersecurity Compliance.
 
 ## Antwortform
 

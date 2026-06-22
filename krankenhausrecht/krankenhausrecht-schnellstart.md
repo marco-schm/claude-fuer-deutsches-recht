@@ -36,14 +36,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Patientenbeschwerde und Risikomanagement:** Patientenbeschwerde und Risikomanagement: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln…
-- **Output Vorstandsvorlage Behoerdenbrief Klage:** Output Vorstandsvorlage Behördenbrief Klage: Fachlicher Fokus: Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance.
-- **Kaltstart Triage:** Einstieg, Schnelltriage und Fallrouting im Krankenhausrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, erkennt stumme Uploads und schlägt passende Fachmodule aus diesem Plugin vor.
-- **Triage Notaufnahme Vergaberecht Krankenhaus:** Triage in der Notaufnahme: Manchester-/ESI-System, Wartezeit, Überlastung, Sekundaer-Triage Intensiv, ex-post Triage rechtlich, Dokumentationspflicht und Haftung im Krankenhausrecht.
-- **Kaltstart Krankenhausrecht:** Kaltstart Krankenhausrecht: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad.
-- **Klinikakten und Bescheide Sortieren:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Klinikakten und Bescheide sortieren im Krankenhausrecht.
-- **Haftpflichtfall Krankenhaus Gutachtenstrategie:** Haftpflichtfall Krankenhaus: Behandlungsfehler- oder Aufklaerungsfehler-Vorwurf, Sicherung der Akte, Gutachtenstrategie, BGB-Beweislast (Paragraf 630h), Versicherung, Schiedsstellen der Aerztekammer im Krankenhausrecht.
-- **Patientenrechte Behandlungsvertrag Aufklaerung:** Patientenrechte und Behandlungsvertrag (ParagrafParagraf 630a-630h BGB): Aufklaerungs- und Dokumentationspflichten, Einwilligung, Patientenakte, Beweislast bei Behandlungsfehler, Schadensersatz im Krankenhausrecht.
+- Patientenbeschwerde und Risikomanagement: Patientenbeschwerde und Risikomanagement: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln…
+- Output Vorstandsvorlage Behoerdenbrief Klage: Output Vorstandsvorlage Behördenbrief Klage: Fachlicher Fokus: Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance.
+- Kaltstart Triage: Einstieg, Schnelltriage und Fallrouting im Krankenhausrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, erkennt stumme Uploads und schlägt passende Fachmodule aus diesem Plugin vor.
+- Triage Notaufnahme Vergaberecht Krankenhaus: Triage in der Notaufnahme: Manchester-/ESI-System, Wartezeit, Überlastung, Sekundaer-Triage Intensiv, ex-post Triage rechtlich, Dokumentationspflicht und Haftung im Krankenhausrecht.
+- Kaltstart Krankenhausrecht: Kaltstart Krankenhausrecht: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad.
+- Klinikakten und Bescheide Sortieren: zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Klinikakten und Bescheide sortieren im Krankenhausrecht.
+- Haftpflichtfall Krankenhaus Gutachtenstrategie: Haftpflichtfall Krankenhaus: Behandlungsfehler- oder Aufklaerungsfehler-Vorwurf, Sicherung der Akte, Gutachtenstrategie, BGB-Beweislast (Paragraf 630h), Versicherung, Schiedsstellen der Aerztekammer im Krankenhausrecht.
+- Patientenrechte Behandlungsvertrag Aufklaerung: Patientenrechte und Behandlungsvertrag (ParagrafParagraf 630a-630h BGB): Aufklaerungs- und Dokumentationspflichten, Einwilligung, Patientenakte, Beweislast bei Behandlungsfehler, Schadensersatz im Krankenhausrecht.
 
 ## Antwortform
 

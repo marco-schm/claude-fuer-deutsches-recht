@@ -30,14 +30,14 @@ Hochschulrecht der Länder: Hochschulgesetze, Satzungen, Gremien, Zulassung, Exm
 
 ## Kernmodule
 
-- **Hochschularchiv und Aktenordnung:** Prüft Archivierung, Aktenordnung, Prüfungsakten, Forschungsdaten und Löschfristen im Hochschulrecht Länder.
-- **Wisszeitvg und Befristung:** Prüft Wissenschaftszeitvertragsrecht im Hochschulkontext im Hochschulrecht Länder.
-- **Kaltstart Triage:** Startet Hochschulrecht für Universitäten, Hochschulen, Studenten, Lehrer, Kanzler, Präsidien und Rechtsabteilungen.
-- **Duale Hochschule Praxispartner:** Prüft Praxispartner, Studienvertrag, Exmatrikulation, Akkreditierung und Status im Hochschulrecht Länder.
-- **Senatswahl Statusgruppen:** Prüft Senatswahl, Gruppenparität, Wahlordnung, Anfechtung und Mandatsverteilung im Hochschulrecht Länder.
-- **Juniorprofessur Verlaengerung:** Prüft Verlängerung, Evaluation, Mutterschutz/Elternzeit und Befristungsgrenzen im Hochschulrecht Länder.
-- **Drittmittel Overhead und IP:** Prüft Drittmittelvertrag, Overhead, Rechte, Publikation und Haushaltsbindung im Hochschulrecht Länder.
-- **Plagiat GWP Praesidium Rektorat Private:** Prüft Plagiatsvorwürfe, Promotionsfolgen, Akteneinsicht und Verfahrensrechte im Hochschulrecht Länder.
+- Hochschularchiv und Aktenordnung: Prüft Archivierung, Aktenordnung, Prüfungsakten, Forschungsdaten und Löschfristen im Hochschulrecht Länder.
+- Wisszeitvg und Befristung: Prüft Wissenschaftszeitvertragsrecht im Hochschulkontext im Hochschulrecht Länder.
+- Kaltstart Triage: Startet Hochschulrecht für Universitäten, Hochschulen, Studenten, Lehrer, Kanzler, Präsidien und Rechtsabteilungen.
+- Duale Hochschule Praxispartner: Prüft Praxispartner, Studienvertrag, Exmatrikulation, Akkreditierung und Status im Hochschulrecht Länder.
+- Senatswahl Statusgruppen: Prüft Senatswahl, Gruppenparität, Wahlordnung, Anfechtung und Mandatsverteilung im Hochschulrecht Länder.
+- Juniorprofessur Verlaengerung: Prüft Verlängerung, Evaluation, Mutterschutz/Elternzeit und Befristungsgrenzen im Hochschulrecht Länder.
+- Drittmittel Overhead und IP: Prüft Drittmittelvertrag, Overhead, Rechte, Publikation und Haushaltsbindung im Hochschulrecht Länder.
+- Plagiat GWP Praesidium Rektorat Private: Prüft Plagiatsvorwürfe, Promotionsfolgen, Akteneinsicht und Verfahrensrechte im Hochschulrecht Länder.
 
 ## Antwortform
 

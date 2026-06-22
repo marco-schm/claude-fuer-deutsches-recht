@@ -30,14 +30,14 @@ Praxisplugin Fashion Law/Moderecht für Modeunternehmen, Designer, Händler und 
 
 ## Kernmodule
 
-- **Kaltstart Triage:** Einstieg, Schnelltriage und Fallrouting im Fashion-Law/Moderecht-Plugin: klärt Kollektion, Marke, Design, Lieferkette, Label, Produktsicherheit, Nachhaltigkeit, Vertrieb, Plattformen, Influencer und passende Fachmodule.
-- **Mandantenmemo Strategie Manufacturing:** Mandantenmemo für Fashion-Law-Strategie erstellen: kurze Lage, Optionen, Risiken, Kosten, Timeline, Verantwortliche und nächste Entscheidungen im Fashion Law Moderecht.
-- **Kaltstart Interview:** Geführtes Kaltstart-Interview für Fashion-Law-Mandate: Brand, Saison, Produktgruppe, IP, Supplier, Retail, Online, Influencer, Nachhaltigkeit und gewünschter Output.
-- **Size FIT Retouren und Dark Patterns:** Size/Fit, Retouren und Dark Patterns im Fashion E-Commerce prüfen: Größentabellen, virtuelle Passformberatung, Widerruf, Retourenkommunikation, irreführende Knappheit, Checkout-Friktion und Verbraucherbeschwerden im Fashion Law Moderecht.
-- **Produktsicherheit Gpsr Reach Chemikalien:** Produktsicherheit nach GPSR für Modeartikel prüfen: verantwortlicher Wirtschaftsakteur, Warnhinweise, Rückverfolgbarkeit, Online-Angebot, Kinderprodukte und Safety Gate im Fashion Law Moderecht.
-- **Lizenz Collaboration MA Brand:** Collaboration, Capsule Collection und Co-Branding vertraglich gestalten: Markenlizenz, Designrechte, Freigaben, Revenue Share, Ausstieg und Kommunikationsrechte im Fashion Law Moderecht.
-- **Plattformsales DSA Pricing Sales:** Plattformverkauf und DSA für Fashion prüfen: Händlerdaten, Notice-and-Action, Counterfeit-Meldung, Ranking, Sperrung, Beschwerde und Wiederholungstäter im Fashion Law Moderecht.
-- **Green Claims Nachhaltigkeit:** Green Claims und Nachhaltigkeitskommunikation für Mode prüfen: recycelt, klimaneutral, vegan, fair, langlebig, Reparatur, Belege und UWG-Risiko im Fashion Law Moderecht.
+- Kaltstart Triage: Einstieg, Schnelltriage und Fallrouting im Fashion-Law/Moderecht-Plugin: klärt Kollektion, Marke, Design, Lieferkette, Label, Produktsicherheit, Nachhaltigkeit, Vertrieb, Plattformen, Influencer und passende Fachmodule.
+- Mandantenmemo Strategie Manufacturing: Mandantenmemo für Fashion-Law-Strategie erstellen: kurze Lage, Optionen, Risiken, Kosten, Timeline, Verantwortliche und nächste Entscheidungen im Fashion Law Moderecht.
+- Kaltstart Interview: Geführtes Kaltstart-Interview für Fashion-Law-Mandate: Brand, Saison, Produktgruppe, IP, Supplier, Retail, Online, Influencer, Nachhaltigkeit und gewünschter Output.
+- Size FIT Retouren und Dark Patterns: Size/Fit, Retouren und Dark Patterns im Fashion E-Commerce prüfen: Größentabellen, virtuelle Passformberatung, Widerruf, Retourenkommunikation, irreführende Knappheit, Checkout-Friktion und Verbraucherbeschwerden im Fashion Law Moderecht.
+- Produktsicherheit Gpsr Reach Chemikalien: Produktsicherheit nach GPSR für Modeartikel prüfen: verantwortlicher Wirtschaftsakteur, Warnhinweise, Rückverfolgbarkeit, Online-Angebot, Kinderprodukte und Safety Gate im Fashion Law Moderecht.
+- Lizenz Collaboration MA Brand: Collaboration, Capsule Collection und Co-Branding vertraglich gestalten: Markenlizenz, Designrechte, Freigaben, Revenue Share, Ausstieg und Kommunikationsrechte im Fashion Law Moderecht.
+- Plattformsales DSA Pricing Sales: Plattformverkauf und DSA für Fashion prüfen: Händlerdaten, Notice-and-Action, Counterfeit-Meldung, Ranking, Sperrung, Beschwerde und Wiederholungstäter im Fashion Law Moderecht.
+- Green Claims Nachhaltigkeit: Green Claims und Nachhaltigkeitskommunikation für Mode prüfen: recycelt, klimaneutral, vegan, fair, langlebig, Reparatur, Belege und UWG-Risiko im Fashion Law Moderecht.
 
 ## Antwortform
 

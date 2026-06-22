@@ -36,14 +36,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Formerfordernisse Erstpruefung und Mandatsziel:** Formerfordernisse: Erstprüfung, Rollenklärung und Mandatsziel.
-- **Zugang Risikoampel und Gegenargumente:** Zugang: Risikoampel, Gegenargumente und Verteidigungslinien.
-- **Schriftform Fristen Form und Zustaendigkeit:** Schriftform: Fristen, Form, Zuständigkeit und Rechtsweg.
-- **Verifikation Compliance Dokumentation und Akte:** Verifikation: Compliance-Dokumentation und Aktenvermerk.
-- **Checklisten Schriftsatz Brief und Memo Bausteine:** Checklisten: Schriftsatz-, Brief- und Memo-Bausteine.
-- **Arbeitsrecht Befristung Schriftform Checker:** Arbeitgeber oder Arbeitnehmer fragt, ob Befristung, Kündigung oder Aufhebungsvertrag wegen Formverstoß unwirksam ist. Prüft Paragraf 14 Abs. 4 TzBfG, Paragraf 623 BGB, Paragraf 126 BGB, qES bei Befristung, direkte elektronische Form, Parag…
-- **Verteidigungsstrategie BEI Formangriff:** Mandant wird von Vertragspartner mit Formmangel-Einwand konfrontiert und Anwalt muss Verteidigung aufbauen. Verteidigung Formverstoß ParagrafParagraf 125 242 BGB. Prüfraster: Heilungsmöglichkeiten nach Vollzug (Paragraf 311b BGB) Nachholun…
-- **Form Checker für Vertrag oder Willenserklaerung:** Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschrieben wurde sie eingehalten und was passiert wenn nicht? Form-Checker BGB. Prüfraster: gesetzliche vs. gewillkuerte Form Formhierarchie Nichtigkeitsfolge Paragra…
+- Formerfordernisse Erstpruefung und Mandatsziel: Formerfordernisse: Erstprüfung, Rollenklärung und Mandatsziel.
+- Zugang Risikoampel und Gegenargumente: Zugang: Risikoampel, Gegenargumente und Verteidigungslinien.
+- Schriftform Fristen Form und Zustaendigkeit: Schriftform: Fristen, Form, Zuständigkeit und Rechtsweg.
+- Verifikation Compliance Dokumentation und Akte: Verifikation: Compliance-Dokumentation und Aktenvermerk.
+- Checklisten Schriftsatz Brief und Memo Bausteine: Checklisten: Schriftsatz-, Brief- und Memo-Bausteine.
+- Arbeitsrecht Befristung Schriftform Checker: Arbeitgeber oder Arbeitnehmer fragt, ob Befristung, Kündigung oder Aufhebungsvertrag wegen Formverstoß unwirksam ist. Prüft Paragraf 14 Abs. 4 TzBfG, Paragraf 623 BGB, Paragraf 126 BGB, qES bei Befristung, direkte elektronische Form, Parag…
+- Verteidigungsstrategie BEI Formangriff: Mandant wird von Vertragspartner mit Formmangel-Einwand konfrontiert und Anwalt muss Verteidigung aufbauen. Verteidigung Formverstoß ParagrafParagraf 125 242 BGB. Prüfraster: Heilungsmöglichkeiten nach Vollzug (Paragraf 311b BGB) Nachholun…
+- Form Checker für Vertrag oder Willenserklaerung: Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschrieben wurde sie eingehalten und was passiert wenn nicht? Form-Checker BGB. Prüfraster: gesetzliche vs. gewillkuerte Form Formhierarchie Nichtigkeitsfolge Paragra…
 
 ## Antwortform
 

@@ -32,14 +32,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Gesellschafterversammlungsstrategie:** Gesellschaftsrechtliche Treuepflicht: Gesellschafterversammlungsstrategie; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht.
-- **Gerichtstauglicher Antrag:** Gesellschaftsrechtliche Treuepflicht: Gerichtstauglicher Antrag; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht.
-- **Klageentwurf Stimmbindungsvertrag:** Gesellschaftsrechtliche Treuepflicht: Klageentwurf Bausteine; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht.
-- **Stimmbindungsvertrag:** Gesellschaftsrechtliche Treuepflicht: Stimmbindungsvertrag; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht.
-- **Ausschlussklage Austritt Kuendigung Bank:** Gesellschaftsrechtliche Treuepflicht: Ausschlussklage; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht.
-- **Kaltstart Routing:** Gesellschaftsrechtliche Treuepflicht: Allgemein Kaltstart. Liefert Norm-Pinpoints, Prüfachsen, Red Flags, Varianten und konkrete Output-Bausteine zum Slug-Thema im Gesellschaftsrechtliche Treuepflicht.
-- **Treuepflicht Memo:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht Memo; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
-- **Treuepflicht Drag TAG Liquidation Preference:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht Drag Tag Liquidation Preference; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht.
+- Gesellschafterversammlungsstrategie: Gesellschaftsrechtliche Treuepflicht: Gesellschafterversammlungsstrategie; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht.
+- Gerichtstauglicher Antrag: Gesellschaftsrechtliche Treuepflicht: Gerichtstauglicher Antrag; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht.
+- Klageentwurf Stimmbindungsvertrag: Gesellschaftsrechtliche Treuepflicht: Klageentwurf Bausteine; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht.
+- Stimmbindungsvertrag: Gesellschaftsrechtliche Treuepflicht: Stimmbindungsvertrag; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht.
+- Ausschlussklage Austritt Kuendigung Bank: Gesellschaftsrechtliche Treuepflicht: Ausschlussklage; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht.
+- Kaltstart Routing: Gesellschaftsrechtliche Treuepflicht: Allgemein Kaltstart. Liefert Norm-Pinpoints, Prüfachsen, Red Flags, Varianten und konkrete Output-Bausteine zum Slug-Thema im Gesellschaftsrechtliche Treuepflicht.
+- Treuepflicht Memo: Gesellschaftsrechtliche Treuepflicht: Treuepflicht Memo; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+- Treuepflicht Drag TAG Liquidation Preference: Gesellschaftsrechtliche Treuepflicht: Treuepflicht Drag Tag Liquidation Preference; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht.
 
 ## Antwortform
 

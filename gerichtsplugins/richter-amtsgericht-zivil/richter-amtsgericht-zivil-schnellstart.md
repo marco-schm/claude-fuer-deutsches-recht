@@ -36,14 +36,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **06 Tenor und Kostenentscheidung:** Tenor formulieren (Hauptsache, Nebenforderungen, Zinsen, Kosten Paragraf 91 ZPO, vorläufige Vollstreckbarkeit Paragrafen 708-711 ZPO), Beschwer berechnen
-- **03 Akte Erstdurchsicht:** Strukturierte Erstdurchsicht: Parteien, Antrag, Lebenssachverhalt, Anspruchsgrundlagen sammeln, Beweismittel listen, Streitstand isolieren
-- **02 Streitwert und Gerichtskosten:** Streitwertbestimmung Paragrafen 3-9 ZPO, GKG-Anlage 1 (KV 1210 und 1211 und 1220), vorläufige Streitwertfestsetzung, GKG-Vorschuss
-- **10 Entscheidungsvorschlag zur Richterlichen Pruefung:** Strukturierter Entscheidungsvorschlag für den Richter: Tenor-Vorschlag, tragende Gründe in Stichpunkten, Risikohinweise (Beweisrisiko, Verjaehrung, Streitwert), ausdrücklich als Vorschlag zur richterlichen Prüfung markiert
-- **01 Eingangspruefung Zustaendigkeit:** Prüfung Zuständigkeit (Paragraf 23 GVG sachlich, Paragrafen 12 ff. ZPO örtlich), Klagezustellung, Pflichtangaben Paragraf 253 ZPO, Anordnung des schriftlichen Vorverfahrens oder fruehen ersten Termins
-- **07 Urteilsentwurf Paragraf 313:** Urteilsentwurf nach Paragraf 313 ZPO: Rubrum, Tenor, Tatbestand (gestraffter Vortrag), Entscheidungsgründe (Begründetheit, Hauptpunkt, Beweiswürdigung), Nebenentscheidungen, Rechtsmittelbelehrung
-- **04 Relation Zivilrecht Klein:** Echte Relation: Klägerstation (Schluessigkeit der Anspruchsgrundlage), Beklagtenstation (Erheblichkeit der Einwendungen), Beweisstation (beweisbedürftige Tatsachen + Beweislast), schriftliches Votum
-- **09 Vergleich und Erledigung:** Prozessvergleich Paragraf 794 Abs. 1 Nr. 1 ZPO, Vergleich im Termin, schriftlicher Vergleich Paragraf 278 Abs. 6 ZPO, Erledigung in der Hauptsache, einseitige Erledigungserklaerung
+- 06 Tenor und Kostenentscheidung: Tenor formulieren (Hauptsache, Nebenforderungen, Zinsen, Kosten Paragraf 91 ZPO, vorläufige Vollstreckbarkeit Paragrafen 708-711 ZPO), Beschwer berechnen
+- 03 Akte Erstdurchsicht: Strukturierte Erstdurchsicht: Parteien, Antrag, Lebenssachverhalt, Anspruchsgrundlagen sammeln, Beweismittel listen, Streitstand isolieren
+- 02 Streitwert und Gerichtskosten: Streitwertbestimmung Paragrafen 3-9 ZPO, GKG-Anlage 1 (KV 1210 und 1211 und 1220), vorläufige Streitwertfestsetzung, GKG-Vorschuss
+- 10 Entscheidungsvorschlag zur Richterlichen Pruefung: Strukturierter Entscheidungsvorschlag für den Richter: Tenor-Vorschlag, tragende Gründe in Stichpunkten, Risikohinweise (Beweisrisiko, Verjaehrung, Streitwert), ausdrücklich als Vorschlag zur richterlichen Prüfung markiert
+- 01 Eingangspruefung Zustaendigkeit: Prüfung Zuständigkeit (Paragraf 23 GVG sachlich, Paragrafen 12 ff. ZPO örtlich), Klagezustellung, Pflichtangaben Paragraf 253 ZPO, Anordnung des schriftlichen Vorverfahrens oder fruehen ersten Termins
+- 07 Urteilsentwurf Paragraf 313: Urteilsentwurf nach Paragraf 313 ZPO: Rubrum, Tenor, Tatbestand (gestraffter Vortrag), Entscheidungsgründe (Begründetheit, Hauptpunkt, Beweiswürdigung), Nebenentscheidungen, Rechtsmittelbelehrung
+- 04 Relation Zivilrecht Klein: Echte Relation: Klägerstation (Schluessigkeit der Anspruchsgrundlage), Beklagtenstation (Erheblichkeit der Einwendungen), Beweisstation (beweisbedürftige Tatsachen + Beweislast), schriftliches Votum
+- 09 Vergleich und Erledigung: Prozessvergleich Paragraf 794 Abs. 1 Nr. 1 ZPO, Vergleich im Termin, schriftlicher Vergleich Paragraf 278 Abs. 6 ZPO, Erledigung in der Hauptsache, einseitige Erledigungserklaerung
 
 ## Antwortform
 

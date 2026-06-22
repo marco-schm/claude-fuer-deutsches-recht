@@ -36,14 +36,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **VR Einfuehrung Vertragstypen BGB:** Vertragsrecht einfuehrend: BGB-Vertragstypen Kauf, Werkvertrag, Dienstvertrag, Mietvertrag, Pacht, Darlehen, Geschäftsbesorgung, Auftrag. Pro Typ Pflichten, Vergueng, Maengelrecht, Kuendigung. Entscheidungstabelle im Vertragsrecht.
-- **Vert Vertragsschluss Vertragspruefung:** Bauleiter Vertragsschluss ParagrafParagraf 145 ff. BGB: Angebot, Annahme, Auslegung, Stellvertretung, kaufmaennisches Bestaetigungsschreiben. Prüfraster für typische Streitfaelle im Vertragsrecht.
-- **Vert Rahmenvertrag Einzelabrufe Spezial:** Spezialfall Rahmenvertrag und Einzelabrufe: Wechselwirkung, Battle of Forms, Hierarchie der Dokumente. Prüfraster für Einkauf und Vertrieb im Vertragsrecht.
-- **Vertriebsvertraege Fristen Form und Zustaendigkeit:** Vertriebsvertraege: Fristen, Form, Zuständigkeit und Rechtsweg im Vertragsrecht.
-- **Rahmenvertrag Beweislast Vertragsrecht Vert:** Rahmenvertrag: Beweislast, Darlegungslast und Substantiierung im Vertragsrecht.
-- **Vertragsrecht Erstpruefung und Mandatsziel:** Vertragsrecht: Erstprüfung, Rollenklärung und Mandatsziel im Vertragsrecht.
-- **Business Compliance Dokumentation und Akte:** Business: Compliance-Dokumentation und Aktenvermerk im Vertragsrecht.
-- **Renewal Review Routing:** Renewal: Schriftsatz-, Brief- und Memo-Bausteine im Vertragsrecht.
+- VR Einfuehrung Vertragstypen BGB: Vertragsrecht einfuehrend: BGB-Vertragstypen Kauf, Werkvertrag, Dienstvertrag, Mietvertrag, Pacht, Darlehen, Geschäftsbesorgung, Auftrag. Pro Typ Pflichten, Vergueng, Maengelrecht, Kuendigung. Entscheidungstabelle im Vertragsrecht.
+- Vert Vertragsschluss Vertragspruefung: Bauleiter Vertragsschluss ParagrafParagraf 145 ff. BGB: Angebot, Annahme, Auslegung, Stellvertretung, kaufmaennisches Bestaetigungsschreiben. Prüfraster für typische Streitfaelle im Vertragsrecht.
+- Vert Rahmenvertrag Einzelabrufe Spezial: Spezialfall Rahmenvertrag und Einzelabrufe: Wechselwirkung, Battle of Forms, Hierarchie der Dokumente. Prüfraster für Einkauf und Vertrieb im Vertragsrecht.
+- Vertriebsvertraege Fristen Form und Zustaendigkeit: Vertriebsvertraege: Fristen, Form, Zuständigkeit und Rechtsweg im Vertragsrecht.
+- Rahmenvertrag Beweislast Vertragsrecht Vert: Rahmenvertrag: Beweislast, Darlegungslast und Substantiierung im Vertragsrecht.
+- Vertragsrecht Erstpruefung und Mandatsziel: Vertragsrecht: Erstprüfung, Rollenklärung und Mandatsziel im Vertragsrecht.
+- Business Compliance Dokumentation und Akte: Business: Compliance-Dokumentation und Aktenvermerk im Vertragsrecht.
+- Renewal Review Routing: Renewal: Schriftsatz-, Brief- und Memo-Bausteine im Vertragsrecht.
 
 ## Antwortform
 

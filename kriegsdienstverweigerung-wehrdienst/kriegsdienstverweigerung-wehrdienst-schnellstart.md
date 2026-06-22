@@ -34,14 +34,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Kaltstart Triage:** Kaltstart für Kriegsdienstverweigerung aus Gewissensgründen: Status, Verfahrenslage, Gewissenskern, Antragspfad, Fristen, Rechtsschutz und passende Fachmodule auswählen.
-- **Fristenkalender KDV:** Erstellt Fristenkalender für Antrag, Nachreichung, Anhörung, Widerspruch, Paragraf 75 und Paragraf 13 im Kriegsdienstverweigerung Wehrdienst.
-- **Widerspruch Sonderlagen Ablehnungsbescheid:** Prüft normale und verkürzte Widerspruchsfristen, insbesondere Paragraf 11 KDVG im Kriegsdienstverweigerung Wehrdienst.
-- **Checkliste Nach Antrag:** Ordnet Eingangsnachweis, Aktenlog, Sachstand und Fristen nach Antragstellung im Kriegsdienstverweigerung Wehrdienst.
-- **Widerspruch Kdvg 9:** Erstellt Widerspruch gegen Ablehnung oder verfahrensrelevante Entscheidung im Kriegsdienstverweigerung Wehrdienst.
-- **Minderjaehrige Antragstellung Muendliche:** Prüft Antrag sechs Monate vor 18 oder vor 17 unter Sondervoraussetzungen im Kriegsdienstverweigerung Wehrdienst.
-- **Personenkennziffer und Grundakte:** Erklärt Registrierung, PK, Grundakte und Zuleitung im BAPersBw-Verfahren im Kriegsdienstverweigerung Wehrdienst.
-- **Akte für Gericht Aufbauen:** Ordnet Tatsachen, Gewissen, Belege und Verfahrensfehler gerichtsfest im Kriegsdienstverweigerung Wehrdienst.
+- Kaltstart Triage: Kaltstart für Kriegsdienstverweigerung aus Gewissensgründen: Status, Verfahrenslage, Gewissenskern, Antragspfad, Fristen, Rechtsschutz und passende Fachmodule auswählen.
+- Fristenkalender KDV: Erstellt Fristenkalender für Antrag, Nachreichung, Anhörung, Widerspruch, Paragraf 75 und Paragraf 13 im Kriegsdienstverweigerung Wehrdienst.
+- Widerspruch Sonderlagen Ablehnungsbescheid: Prüft normale und verkürzte Widerspruchsfristen, insbesondere Paragraf 11 KDVG im Kriegsdienstverweigerung Wehrdienst.
+- Checkliste Nach Antrag: Ordnet Eingangsnachweis, Aktenlog, Sachstand und Fristen nach Antragstellung im Kriegsdienstverweigerung Wehrdienst.
+- Widerspruch Kdvg 9: Erstellt Widerspruch gegen Ablehnung oder verfahrensrelevante Entscheidung im Kriegsdienstverweigerung Wehrdienst.
+- Minderjaehrige Antragstellung Muendliche: Prüft Antrag sechs Monate vor 18 oder vor 17 unter Sondervoraussetzungen im Kriegsdienstverweigerung Wehrdienst.
+- Personenkennziffer und Grundakte: Erklärt Registrierung, PK, Grundakte und Zuleitung im BAPersBw-Verfahren im Kriegsdienstverweigerung Wehrdienst.
+- Akte für Gericht Aufbauen: Ordnet Tatsachen, Gewissen, Belege und Verfahrensfehler gerichtsfest im Kriegsdienstverweigerung Wehrdienst.
 
 ## Antwortform
 

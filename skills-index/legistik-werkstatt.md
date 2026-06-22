@@ -1,6 +1,6 @@
 # legistik-werkstatt
 
-**254 Skills** · Stand `v377.0.0`
+254 Skills · Stand `v377.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/legistik-werkstatt/README.md)
@@ -18,11 +18,11 @@
 
 Skills sind reine Markdown-Prompts und funktionieren in jedem geeigneten Chat-System.
 
-- **Schnelltest mit einer Datei:** den Schnellstart-ZIP oben herunterladen, entpacken und als Markdown-Datei in den Chatbot ziehen.
-- **Volle Ein-Datei-Tiefe:** den Werkstatt-ZIP oben herunterladen, entpacken und als ausführlichen Arbeitsmodus verwenden.
-- **Volle Skill-Tiefe:** das Sammel-ZIP `alle-skills-markdown.zip` herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
-- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
-- **`[Raw .md]`** zeigt den Rohtext. Manche Browser zeigen das als Text statt als Download — fuer echte Downloads das Markdown-ZIP oben nehmen.
+- Schnelltest mit einer Datei: den Schnellstart-ZIP oben herunterladen, entpacken und als Markdown-Datei in den Chatbot ziehen.
+- Volle Ein-Datei-Tiefe: den Werkstatt-ZIP oben herunterladen, entpacken und als ausführlichen Arbeitsmodus verwenden.
+- Volle Skill-Tiefe: das Sammel-ZIP `alle-skills-markdown.zip` herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
+- Im Browser lesen: in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
+- `[Raw .md]` zeigt den Rohtext. Manche Browser zeigen das als Text statt als Download — fuer echte Downloads das Markdown-ZIP oben nehmen.
 
 ## Skills in diesem Plugin
 

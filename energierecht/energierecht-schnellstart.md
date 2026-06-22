@@ -35,14 +35,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Netze Risikoampel und Gegenargumente:** Netze: Risikoampel, Gegenargumente und Verteidigungslinien im Energierecht.
-- **Energierecht Erstpruefung und Mandatsziel:** Energierecht: Erstprüfung, Rollenklärung und Mandatsziel im Energierecht.
-- **Versorger Fristen Form und Zustaendigkeit:** Versorger: Fristen, Form, Zuständigkeit und Rechtsweg im Energierecht.
-- **Routing Internationaler Bezug und Schnittstellen:** Routing: Internationaler Bezug und Schnittstellen im Energierecht.
-- **Livecheck Fristennotiz Versorger:** Livecheck: Fristennotiz und nächster Schritt im Energierecht.
-- **Einstieg Routing:** Einstieg, Triage und Routing für Energierecht (EnWG, EEG): ordnet Rolle (Erzeuger, Netzbetreiber, BNetzA), markiert Frist (Beschwerde BNetzA-Beschluss 1 Monat Paragraf 75 EnWG), wählt Norm (EnWG, EEG, KWKG) und Zuständigkeit (BNetzA), leit…
-- **Ladeinfrastruktur Spezial Vertragskette:** Spezialfall Ladeinfrastruktur: Vertragskette Standortgeber, CPO, eMSP, Roaming-Hub. Rechte aus AFIR (Alternative Fuels Infrastructure Regulation), Anforderungen an Bezahlsysteme, Preis-Transparenz, ad-hoc-Laden. Mustertexte und typische Ko…
-- **PPA Cppa Vertragsspezialitaeten:** PPA und Corporate PPA Vertragsspezialitaeten: Pay as produced / baseload / sleeved, Marktwertanpassung, Negativpreis-Klausel, Curtailment, Bilanzkreis, Herkunftsnachweise. Risikoverteilung Stromabnehmer und Erzeuger. Mustertexte für 10-Jah…
+- Netze Risikoampel und Gegenargumente: Netze: Risikoampel, Gegenargumente und Verteidigungslinien im Energierecht.
+- Energierecht Erstpruefung und Mandatsziel: Energierecht: Erstprüfung, Rollenklärung und Mandatsziel im Energierecht.
+- Versorger Fristen Form und Zustaendigkeit: Versorger: Fristen, Form, Zuständigkeit und Rechtsweg im Energierecht.
+- Routing Internationaler Bezug und Schnittstellen: Routing: Internationaler Bezug und Schnittstellen im Energierecht.
+- Livecheck Fristennotiz Versorger: Livecheck: Fristennotiz und nächster Schritt im Energierecht.
+- Einstieg Routing: Einstieg, Triage und Routing für Energierecht (EnWG, EEG): ordnet Rolle (Erzeuger, Netzbetreiber, BNetzA), markiert Frist (Beschwerde BNetzA-Beschluss 1 Monat Paragraf 75 EnWG), wählt Norm (EnWG, EEG, KWKG) und Zuständigkeit (BNetzA), leit…
+- Ladeinfrastruktur Spezial Vertragskette: Spezialfall Ladeinfrastruktur: Vertragskette Standortgeber, CPO, eMSP, Roaming-Hub. Rechte aus AFIR (Alternative Fuels Infrastructure Regulation), Anforderungen an Bezahlsysteme, Preis-Transparenz, ad-hoc-Laden. Mustertexte und typische Ko…
+- PPA Cppa Vertragsspezialitaeten: PPA und Corporate PPA Vertragsspezialitaeten: Pay as produced / baseload / sleeved, Marktwertanpassung, Negativpreis-Klausel, Curtailment, Bilanzkreis, Herkunftsnachweise. Risikoverteilung Stromabnehmer und Erzeuger. Mustertexte für 10-Jah…
 
 ## Antwortform
 

@@ -36,14 +36,14 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Bruessel Risikoampel und Gegenargumente:** Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien: Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien.
-- **Wirtschaftsrecht Fristen Form und Zustaendigkeit:** Wirtschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg: Wirtschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg.
-- **Schiedsverfahren Behoerden Gericht und Registerweg:** Schiedsverfahren: Behörden-, Gerichts- oder Registerweg: Schiedsverfahren: Behörden-, Gerichts- oder Registerweg.
-- **Erstpruefung und Mandatsziel:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
-- **Lksg Compliance Dokumentation und Akte:** Lksg: Compliance-Dokumentation und Aktenvermerk: Lksg: Compliance-Dokumentation und Aktenvermerk.
-- **Embargo Fristennotiz und Naechster Schritt:** Embargo: Fristennotiz und nächster Schritt: Embargo: Fristennotiz und nächster Schritt.
-- **Einstieg Routing:** Einstieg, Triage und Routing für Fachanwalt Internationales Wirtschaftsrecht: ordnet Rolle (Internationale Vertragspartner, Schiedsrichter), markiert Frist (Schiedsklage-Fristen je Regelwerk), wählt Norm (Rom I/II VO, CISG, ICC Incoterms)…
-- **Anschluss Routing:** Anschluss-Routing für Fachanwalt Internationales Wirtschaftsrecht: wählt den nächsten Spezial-Skill nach Engpass (Schiedsklage-Fristen je Regelwerk, Internationaler Vertrag, Schiedsklage, Choice-of-law-Klausel), dokumentiert Router-Entsche…
+- Bruessel Risikoampel und Gegenargumente: Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien: Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien.
+- Wirtschaftsrecht Fristen Form und Zustaendigkeit: Wirtschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg: Wirtschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg.
+- Schiedsverfahren Behoerden Gericht und Registerweg: Schiedsverfahren: Behörden-, Gerichts- oder Registerweg: Schiedsverfahren: Behörden-, Gerichts- oder Registerweg.
+- Erstpruefung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
+- Lksg Compliance Dokumentation und Akte: Lksg: Compliance-Dokumentation und Aktenvermerk: Lksg: Compliance-Dokumentation und Aktenvermerk.
+- Embargo Fristennotiz und Naechster Schritt: Embargo: Fristennotiz und nächster Schritt: Embargo: Fristennotiz und nächster Schritt.
+- Einstieg Routing: Einstieg, Triage und Routing für Fachanwalt Internationales Wirtschaftsrecht: ordnet Rolle (Internationale Vertragspartner, Schiedsrichter), markiert Frist (Schiedsklage-Fristen je Regelwerk), wählt Norm (Rom I/II VO, CISG, ICC Incoterms)…
+- Anschluss Routing: Anschluss-Routing für Fachanwalt Internationales Wirtschaftsrecht: wählt den nächsten Spezial-Skill nach Engpass (Schiedsklage-Fristen je Regelwerk, Internationaler Vertrag, Schiedsklage, Choice-of-law-Klausel), dokumentiert Router-Entsche…
 
 ## Antwortform
 

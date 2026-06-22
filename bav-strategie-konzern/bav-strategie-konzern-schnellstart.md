@@ -34,14 +34,14 @@ Pflichtnormen aus dem Plugin-Material:
 
 ## Kernmodule
 
-- **Einstieg Routing:** Einstieg, Triage und Routing für Betriebliche Altersversorgung im Konzern: ordnet Rolle (Arbeitgeber/Konzern, Arbeitnehmer, Betriebsrat), markiert Frist (Anpassungsprüfung alle 3 Jahre Paragraf 16 BetrAVG), wählt Norm (BetrAVG, Paragraf 1…
-- **Anschluss Routing:** Anschluss-Routing für Betriebliche Altersversorgung im Konzern: wählt den nächsten Spezial-Skill nach Engpass (Anpassungsprüfung alle 3 Jahre Paragraf 16 BetrAVG, Versorgungsordnung, Pensionsfonds-Vereinbarung, Gutachten Pensionsverpflicht…
-- **BAV Konzern Design Workflow:** Konzern-für Design eines bAV-Programms: Anforderungen sammeln (HR, CFO, BR, Steuer), Optionen modellieren (Direktversicherung gegen Pensionskasse gegen Pensionsfonds), KPIs definieren (Teilnahmequote, Kosten, Bilanzwirkung). Mustertext für…
-- **Workflow Kaltstart und Routing:** Kaltstart und Routing im Plugin bav-strategie-konzern: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
-- **Workflow Mandantenkommunikation:** Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Bav Strategie Konzern.
-- **Workflow Chronologie und Belegmatrix:** Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Bav Strategie Konzern.
-- **Fristen Risikoampel Mandantenkommunikation:** Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Bav Strategie Konzern.
-- **Workflow Redteam Qualitygate:** Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Bav Strategie Konzern.
+- Einstieg Routing: Einstieg, Triage und Routing für Betriebliche Altersversorgung im Konzern: ordnet Rolle (Arbeitgeber/Konzern, Arbeitnehmer, Betriebsrat), markiert Frist (Anpassungsprüfung alle 3 Jahre Paragraf 16 BetrAVG), wählt Norm (BetrAVG, Paragraf 1…
+- Anschluss Routing: Anschluss-Routing für Betriebliche Altersversorgung im Konzern: wählt den nächsten Spezial-Skill nach Engpass (Anpassungsprüfung alle 3 Jahre Paragraf 16 BetrAVG, Versorgungsordnung, Pensionsfonds-Vereinbarung, Gutachten Pensionsverpflicht…
+- BAV Konzern Design Workflow: Konzern-für Design eines bAV-Programms: Anforderungen sammeln (HR, CFO, BR, Steuer), Optionen modellieren (Direktversicherung gegen Pensionskasse gegen Pensionsfonds), KPIs definieren (Teilnahmequote, Kosten, Bilanzwirkung). Mustertext für…
+- Workflow Kaltstart und Routing: Kaltstart und Routing im Plugin bav-strategie-konzern: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+- Workflow Mandantenkommunikation: Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Bav Strategie Konzern.
+- Workflow Chronologie und Belegmatrix: Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Bav Strategie Konzern.
+- Fristen Risikoampel Mandantenkommunikation: Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Bav Strategie Konzern.
+- Workflow Redteam Qualitygate: Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Bav Strategie Konzern.
 
 ## Antwortform
 
