@@ -1,5 +1,23 @@
 # JVEG-Kostenprüfer
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`jveg-kostenpruefer-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/jveg-kostenpruefer-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`jveg-kostenpruefer-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/jveg-kostenpruefer-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`jveg-kostenpruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/jveg-kostenpruefer.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-jveg-zeugin-berger-lg-tuebingen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-jveg-zeugin-berger-lg-tuebingen.zip) (Akte JVEG Zeugenentschädigung – Dr. Sophia Berger / LG Tübingen); [`testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip) (Akte LG Regensburg — Sieglinger gegen Burgwald Energietechnik GmbH) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`jveg-kostenpruefer-werkstatt.md`](./jveg-kostenpruefer-werkstatt.md) (im Browser ansehen)
+- [`jveg-kostenpruefer-schnellstart.md`](./jveg-kostenpruefer-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -22,25 +40,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Akte LG Regensburg — Sieglinger gegen Burgwald Energietechnik GmbH** (`sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger`) | [Gesamt-PDF lesen](../testakten/sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger/gesamt-pdf/sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger_gesamt.pdf) | [`testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **JVEG-Kostenprüfer-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`jveg-kostenpruefer-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/jveg-kostenpruefer-werkstatt.zip) |
-| **JVEG-Kostenprüfer-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`jveg-kostenpruefer-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/jveg-kostenpruefer-schnellstart.zip) |
-| **JVEG-Kostenprüfer-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`jveg-kostenpruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/jveg-kostenpruefer.zip) |
-| **JVEG-Kostenprüfer-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-jveg-zeugin-berger-lg-tuebingen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-jveg-zeugin-berger-lg-tuebingen.zip) (Akte JVEG Zeugenentschädigung – Dr. Sophia Berger / LG Tübingen); [`testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip) (Akte LG Regensburg — Sieglinger gegen Burgwald Energietechnik GmbH) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`jveg-kostenpruefer-werkstatt.md`](./jveg-kostenpruefer-werkstatt.md) (im Browser ansehen)
-- [`jveg-kostenpruefer-schnellstart.md`](./jveg-kostenpruefer-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Freistehendes Cowork-Plugin zur Prüfung von Kosten, Vorschüssen, Entschädigungen und Vergütungen nach dem Justizvergütungs- und -entschädigungsgesetz. Es ist auf echte Aktenarbeit zugeschnitten: Unterlagen strippen, Anspruchsart erkennen, JVEG-Positionen rechnen, Belege prüfen, Gerichtsschreiben angreifen oder bestätigen und am Ende ein belastbares Schreiben samt Rechenprotokoll erzeugen.
 
 Die Beispielakte enthält den Fall der Zeugin Sophia Berger vor dem Landgericht Tübingen, Az. 7 O 118/23, mit Vorschussantrag, Gerichtsschreiben, anwaltlichem Schriftsatz und Word-Abschrift.

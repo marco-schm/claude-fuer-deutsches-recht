@@ -1,5 +1,23 @@
 # Handelsrecht HGB
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`handelsrecht-hgb-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/handelsrecht-hgb-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`handelsrecht-hgb-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/handelsrecht-hgb-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`handelsrecht-hgb.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/handelsrecht-hgb.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-handelsrecht-hgb-kommanditgesellschaft-egbr-statuswechsel-altona.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-handelsrecht-hgb-kommanditgesellschaft-egbr-statuswechsel-altona.zip) (Handelsrecht HGB — Elbwerft Solar: eGbR, OHG-Statuswechsel, KG und Handelskauf); [`testakte-handelsvertreterrecht-provisionsausgleich-nordstern-medtech.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-handelsvertreterrecht-provisionsausgleich-nordstern-medtech.zip) (Akte Nordstern MedTech Vertrieb - Provision, Buchauszug und Ausgleich) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`handelsrecht-hgb-werkstatt.md`](./handelsrecht-hgb-werkstatt.md) (im Browser ansehen)
+- [`handelsrecht-hgb-schnellstart.md`](./handelsrecht-hgb-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -22,25 +40,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Akte Nordstern MedTech Vertrieb - Provision, Buchauszug und Ausgleich** (`handelsvertreterrecht-provisionsausgleich-nordstern-medtech`) | [Gesamt-PDF lesen](../testakten/handelsvertreterrecht-provisionsausgleich-nordstern-medtech/gesamt-pdf/handelsvertreterrecht-provisionsausgleich-nordstern-medtech_gesamt.pdf) | [`testakte-handelsvertreterrecht-provisionsausgleich-nordstern-medtech.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-handelsvertreterrecht-provisionsausgleich-nordstern-medtech.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Handelsrecht HGB-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`handelsrecht-hgb-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/handelsrecht-hgb-werkstatt.zip) |
-| **Handelsrecht HGB-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`handelsrecht-hgb-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/handelsrecht-hgb-schnellstart.zip) |
-| **Handelsrecht HGB-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`handelsrecht-hgb.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/handelsrecht-hgb.zip) |
-| **Handelsrecht HGB-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-handelsrecht-hgb-kommanditgesellschaft-egbr-statuswechsel-altona.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-handelsrecht-hgb-kommanditgesellschaft-egbr-statuswechsel-altona.zip) (Handelsrecht HGB — Elbwerft Solar: eGbR, OHG-Statuswechsel, KG und Handelskauf); [`testakte-handelsvertreterrecht-provisionsausgleich-nordstern-medtech.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-handelsvertreterrecht-provisionsausgleich-nordstern-medtech.zip) (Akte Nordstern MedTech Vertrieb - Provision, Buchauszug und Ausgleich) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`handelsrecht-hgb-werkstatt.md`](./handelsrecht-hgb-werkstatt.md) (im Browser ansehen)
-- [`handelsrecht-hgb-schnellstart.md`](./handelsrecht-hgb-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Reines HGB-Plugin für Handelsrecht: Kaufmann, Handelsregister, Firma, Prokura, Handlungsvollmacht, Handelsgeschäfte, Handelskauf, Handelsvertreter, Makler, Kommission, Fracht, Spedition, Lager, Handelsbücher sowie OHG/KG einschließlich MoPeG-Statuswechsel von GbR zu OHG.
 
 Das Plugin ist bewusst **kein** Gesellschaftsrechts-Fachanwaltsplugin, sondern ein schneller HGB-Arbeitsbegleiter: Es erklärt Einsteigern den Handelsrechtsmechanismus und liefert Profis sofort Register-, Vertrags-, Prozess- und Beweisoutputs.

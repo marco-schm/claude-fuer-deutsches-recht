@@ -1,5 +1,23 @@
 # Fachanwalt Medizinrecht
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`fachanwalt-medizinrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-medizinrecht-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`fachanwalt-medizinrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-medizinrecht-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`fachanwalt-medizinrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-medizinrecht.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum.zip) (Geburtsschaden Helene Meinhardt — Evangelisches Klinikum Bad Salzdetfurth); [`testakte-mandatsbeziehung-kanzlei-rechtsabteilung-nordstern-biotech.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-mandatsbeziehung-kanzlei-rechtsabteilung-nordstern-biotech.zip) (Mandatsbeziehung Nordstern BioTherapeutics — Kanzlei Falkenried); [`testakte-robotikrecht-roboterflotte-vellbruck-muenchen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-robotikrecht-roboterflotte-vellbruck-muenchen.zip) (Akte Vellbruck Robotics GmbH — Roboterflotte AtlasCare / LumaMove / Werkbank C7) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`fachanwalt-medizinrecht-werkstatt.md`](./fachanwalt-medizinrecht-werkstatt.md) (im Browser ansehen)
+- [`fachanwalt-medizinrecht-schnellstart.md`](./fachanwalt-medizinrecht-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -23,25 +41,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Akte Vellbruck Robotics GmbH — Roboterflotte AtlasCare / LumaMove / Werkbank C7** (`robotikrecht-roboterflotte-vellbruck-muenchen`) | [Gesamt-PDF lesen](../testakten/robotikrecht-roboterflotte-vellbruck-muenchen/gesamt-pdf/robotikrecht-roboterflotte-vellbruck-muenchen_gesamt.pdf) | [`testakte-robotikrecht-roboterflotte-vellbruck-muenchen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-robotikrecht-roboterflotte-vellbruck-muenchen.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Fachanwalt Medizinrecht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`fachanwalt-medizinrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-medizinrecht-werkstatt.zip) |
-| **Fachanwalt Medizinrecht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`fachanwalt-medizinrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-medizinrecht-schnellstart.zip) |
-| **Fachanwalt Medizinrecht-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`fachanwalt-medizinrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-medizinrecht.zip) |
-| **Fachanwalt Medizinrecht-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum.zip) (Geburtsschaden Helene Meinhardt — Evangelisches Klinikum Bad Salzdetfurth); [`testakte-mandatsbeziehung-kanzlei-rechtsabteilung-nordstern-biotech.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-mandatsbeziehung-kanzlei-rechtsabteilung-nordstern-biotech.zip) (Mandatsbeziehung Nordstern BioTherapeutics — Kanzlei Falkenried); [`testakte-robotikrecht-roboterflotte-vellbruck-muenchen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-robotikrecht-roboterflotte-vellbruck-muenchen.zip) (Akte Vellbruck Robotics GmbH — Roboterflotte AtlasCare / LumaMove / Werkbank C7) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`fachanwalt-medizinrecht-werkstatt.md`](./fachanwalt-medizinrecht-werkstatt.md) (im Browser ansehen)
-- [`fachanwalt-medizinrecht-schnellstart.md`](./fachanwalt-medizinrecht-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 ## Anwalts-Dashboard für den Schnelleinstieg
 
 Der Skill `einstieg-routing` ist das Anwalts-Dashboard zu diesem Plugin:

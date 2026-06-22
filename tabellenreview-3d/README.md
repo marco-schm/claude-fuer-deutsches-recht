@@ -1,5 +1,23 @@
 # Tabellenreview 3D
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`tabellenreview-3d-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/tabellenreview-3d-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`tabellenreview-3d-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/tabellenreview-3d-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`tabellenreview-3d.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/tabellenreview-3d.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-tabellenreview-finanzplanung-fortbestehensprognose-paragrafix-fortsetzung-vellbruck.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-tabellenreview-finanzplanung-fortbestehensprognose-paragrafix-fortsetzung-vellbruck.zip) (Tabellenreview Paragrafix GmbH — Fortbestehensprognose v23, IDW S 11) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`tabellenreview-3d-werkstatt.md`](./tabellenreview-3d-werkstatt.md) (im Browser ansehen)
+- [`tabellenreview-3d-schnellstart.md`](./tabellenreview-3d-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -21,25 +39,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Tabellenreview Paragrafix GmbH — Fortbestehensprognose v23, IDW S 11** (`tabellenreview-finanzplanung-fortbestehensprognose-paragrafix-fortsetzung-vellbruck`) | [Gesamt-PDF lesen](../testakten/tabellenreview-finanzplanung-fortbestehensprognose-paragrafix-fortsetzung-vellbruck/gesamt-pdf/tabellenreview-finanzplanung-fortbestehensprognose-paragrafix-fortsetzung-vellbruck_gesamt.pdf) | [`testakte-tabellenreview-finanzplanung-fortbestehensprognose-paragrafix-fortsetzung-vellbruck.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-tabellenreview-finanzplanung-fortbestehensprognose-paragrafix-fortsetzung-vellbruck.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Tabellenreview 3D-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`tabellenreview-3d-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/tabellenreview-3d-werkstatt.zip) |
-| **Tabellenreview 3D-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`tabellenreview-3d-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/tabellenreview-3d-schnellstart.zip) |
-| **Tabellenreview 3D-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`tabellenreview-3d.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/tabellenreview-3d.zip) |
-| **Tabellenreview 3D-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-tabellenreview-finanzplanung-fortbestehensprognose-paragrafix-fortsetzung-vellbruck.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-tabellenreview-finanzplanung-fortbestehensprognose-paragrafix-fortsetzung-vellbruck.zip) (Tabellenreview Paragrafix GmbH — Fortbestehensprognose v23, IDW S 11) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`tabellenreview-3d-werkstatt.md`](./tabellenreview-3d-werkstatt.md) (im Browser ansehen)
-- [`tabellenreview-3d-schnellstart.md`](./tabellenreview-3d-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 3D-Tabellenreview als Würfel: Spaltenprompts pro Datenpunkt x Zeilenprompts pro Dokument x Arbeitsblatt-Perspektiven (Recht / Steuer / Wirtschaft) gestapelt. Massenprüfung Vertragsstapel M&A-DD Immobilien Vendor-Onboarding mit Excel-Mehrblatt Kreuzblatt-Konsistenz Audit-Trail Belegkette.
 
 ## Installation in Claude Code

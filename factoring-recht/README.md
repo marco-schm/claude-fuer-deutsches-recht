@@ -1,5 +1,23 @@
 # Factoring-Recht
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`factoring-recht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/factoring-recht-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`factoring-recht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/factoring-recht-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`factoring-recht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/factoring-recht.zip) |
+| Testakte(n) als ZIP | ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`factoring-recht-werkstatt.md`](./factoring-recht-werkstatt.md) (im Browser ansehen)
+- [`factoring-recht-schnellstart.md`](./factoring-recht-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -17,25 +35,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Factoring-Recht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`factoring-recht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/factoring-recht-werkstatt.zip) |
-| **Factoring-Recht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`factoring-recht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/factoring-recht-schnellstart.zip) |
-| **Factoring-Recht-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`factoring-recht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/factoring-recht.zip) |
-| **Factoring-Recht-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`factoring-recht-werkstatt.md`](./factoring-recht-werkstatt.md) (im Browser ansehen)
-- [`factoring-recht-schnellstart.md`](./factoring-recht-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Super-Plugin für Factoring, Forderungskauf, Aufsichtsrecht, Vertragsgestaltung, Debitorenkommunikation, Insolvenz- und Sanierungsfragen.
 
 ## Wofür dieses Plugin da ist

@@ -1,5 +1,23 @@
 # Schulrecht der Bundesländer
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`schulrecht-laender-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schulrecht-laender-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`schulrecht-laender-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schulrecht-laender-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`schulrecht-laender.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schulrecht-laender.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit.zip) (Schulleitung Gymnasium am Maschsee-Nord Hannover - Konkurrentenstreit); [`testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip) (Akte Lindenhof-Gymnasium - Inklusion, Ordnungsmaßnahme und Schulwechsel) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`schulrecht-laender-werkstatt.md`](./schulrecht-laender-werkstatt.md) (im Browser ansehen)
+- [`schulrecht-laender-schnellstart.md`](./schulrecht-laender-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -22,25 +40,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Akte Lindenhof-Gymnasium - Inklusion, Ordnungsmaßnahme und Schulwechsel** (`schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof`) | [Gesamt-PDF lesen](../testakten/schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof/gesamt-pdf/schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof_gesamt.pdf) | [`testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Schulrecht der Bundesländer-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`schulrecht-laender-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schulrecht-laender-werkstatt.zip) |
-| **Schulrecht der Bundesländer-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`schulrecht-laender-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schulrecht-laender-schnellstart.zip) |
-| **Schulrecht der Bundesländer-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`schulrecht-laender.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schulrecht-laender.zip) |
-| **Schulrecht der Bundesländer-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit.zip) (Schulleitung Gymnasium am Maschsee-Nord Hannover - Konkurrentenstreit); [`testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip) (Akte Lindenhof-Gymnasium - Inklusion, Ordnungsmaßnahme und Schulwechsel) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`schulrecht-laender-werkstatt.md`](./schulrecht-laender-werkstatt.md) (im Browser ansehen)
-- [`schulrecht-laender-schnellstart.md`](./schulrecht-laender-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Dieses Plugin ist der landesrechtliche Schulrechts-Kompass für Eltern, Schüler, Schulen, Schulträger, Behörden und Anwälte. Es beginnt immer mit Bundesland, Schulart, Entscheidung und Frist und führt dann in einen brauchbaren nächsten Schritt.
 
 ## Wofür dieses Plugin da ist

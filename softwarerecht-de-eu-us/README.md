@@ -1,5 +1,23 @@
 # Softwarerecht Deutschland/EU/International/USA
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`softwarerecht-de-eu-us-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/softwarerecht-de-eu-us-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`softwarerecht-de-eu-us-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/softwarerecht-de-eu-us-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`softwarerecht-de-eu-us.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/softwarerecht-de-eu-us.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit.zip) (Akte Lahnwerke Maschinenbau AG - Slack, AirTags und IT-Sicherheitslage); [`testakte-softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen.zip) (Codeforst / Sonnenklee - RouteLuchs) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`softwarerecht-de-eu-us-werkstatt.md`](./softwarerecht-de-eu-us-werkstatt.md) (im Browser ansehen)
+- [`softwarerecht-de-eu-us-schnellstart.md`](./softwarerecht-de-eu-us-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -22,25 +40,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Codeforst / Sonnenklee - RouteLuchs** (`softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen`) | [Gesamt-PDF lesen](../testakten/softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen/gesamt-pdf/softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen_gesamt.pdf) | [`testakte-softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Softwarerecht Deutschland/EU/International/USA-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`softwarerecht-de-eu-us-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/softwarerecht-de-eu-us-werkstatt.zip) |
-| **Softwarerecht Deutschland/EU/International/USA-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`softwarerecht-de-eu-us-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/softwarerecht-de-eu-us-schnellstart.zip) |
-| **Softwarerecht Deutschland/EU/International/USA-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`softwarerecht-de-eu-us.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/softwarerecht-de-eu-us.zip) |
-| **Softwarerecht Deutschland/EU/International/USA-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit.zip) (Akte Lahnwerke Maschinenbau AG - Slack, AirTags und IT-Sicherheitslage); [`testakte-softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen.zip) (Codeforst / Sonnenklee - RouteLuchs) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`softwarerecht-de-eu-us-werkstatt.md`](./softwarerecht-de-eu-us-werkstatt.md) (im Browser ansehen)
-- [`softwarerecht-de-eu-us-schnellstart.md`](./softwarerecht-de-eu-us-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Großes Praxis-Plugin für Softwarerecht: Entwicklung, Rechtekette, Arbeitnehmer- und Freelancer-Code, § 69b UrhG, US work made for hire, SaaS, On-Prem-Lizenzen, Open Source, SBOM, Datenschutz, Cybersecurity, Data Act, Cyber Resilience Act, AI-Code, Softwarepatente, Trade Secrets, Exportkontrolle, M&A und Litigation.
 
 ## Wofür dieses Plugin da ist

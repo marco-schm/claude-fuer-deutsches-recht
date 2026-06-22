@@ -1,5 +1,23 @@
 # Fachanwalt Sozialrecht
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`fachanwalt-sozialrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-sozialrecht-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`fachanwalt-sozialrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-sozialrecht-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`fachanwalt-sozialrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-sozialrecht.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei.zip) (Hafenpolizei - Dienstunfall, Burnout und Wiedereingliederung); [`testakte-krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel.zip) (Akte Lichtenberg: Hilfsmittel, Krankengeld, PKV-Tarifwechsel und Beihilfechaos); [`testakte-longcovid-erwerbsminderung-feldermann-leipzig.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-longcovid-erwerbsminderung-feldermann-leipzig.zip) (Long-Covid + Erwerbsminderungsrente + GdB + SGB-II – Feldermann, Leipzig); [`testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip) (Akte Lindenhof-Gymnasium - Inklusion, Ordnungsmaßnahme und Schulwechsel); [`testakte-sozialrecht-rollstuhl-tannenberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-rollstuhl-tannenberg.zip) (Familie Tannenberg - vier Sozialrechtsverfahren parallel); [`testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip) (Klingenhain Musikschule / DRV-Statusprüfung) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`fachanwalt-sozialrecht-werkstatt.md`](./fachanwalt-sozialrecht-werkstatt.md) (im Browser ansehen)
+- [`fachanwalt-sozialrecht-schnellstart.md`](./fachanwalt-sozialrecht-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -26,25 +44,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Klingenhain Musikschule / DRV-Statusprüfung** (`statusfeststellung-drv-musikschule-gf-freelancer-klingenhain`) | [Gesamt-PDF lesen](../testakten/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain/gesamt-pdf/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain_gesamt.pdf) | [`testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Fachanwalt Sozialrecht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`fachanwalt-sozialrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-sozialrecht-werkstatt.zip) |
-| **Fachanwalt Sozialrecht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`fachanwalt-sozialrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-sozialrecht-schnellstart.zip) |
-| **Fachanwalt Sozialrecht-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`fachanwalt-sozialrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-sozialrecht.zip) |
-| **Fachanwalt Sozialrecht-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei.zip) (Hafenpolizei - Dienstunfall, Burnout und Wiedereingliederung); [`testakte-krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel.zip) (Akte Lichtenberg: Hilfsmittel, Krankengeld, PKV-Tarifwechsel und Beihilfechaos); [`testakte-longcovid-erwerbsminderung-feldermann-leipzig.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-longcovid-erwerbsminderung-feldermann-leipzig.zip) (Long-Covid + Erwerbsminderungsrente + GdB + SGB-II – Feldermann, Leipzig); [`testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip) (Akte Lindenhof-Gymnasium - Inklusion, Ordnungsmaßnahme und Schulwechsel); [`testakte-sozialrecht-rollstuhl-tannenberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-rollstuhl-tannenberg.zip) (Familie Tannenberg - vier Sozialrechtsverfahren parallel); [`testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip) (Klingenhain Musikschule / DRV-Statusprüfung) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`fachanwalt-sozialrecht-werkstatt.md`](./fachanwalt-sozialrecht-werkstatt.md) (im Browser ansehen)
-- [`fachanwalt-sozialrecht-schnellstart.md`](./fachanwalt-sozialrecht-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Vollumfaengliches Plugin für Fachanwaltschaft Sozialrecht inkl. Kanzleioperative. Fachanwalt für Sozialrecht nach FAO § 11. Widerspruch, Klage, Eilantrag, SGB-II-Bescheid, Erwerbsminderungsrente, GdB-Schwerbehinderung, Pflegegrad, Hilfsmittel, Eingliederungshilfe. Kanzleioperative: Bescheidanalyse, Akteneinsicht, PKH, Fristenbuch, Mandanten-Intake, Mandantenbrief Leichte Sprache.
 
 ## Installation in Claude Code

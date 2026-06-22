@@ -1,5 +1,23 @@
 # Krankenkassenrecht und Krankenversicherung
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`krankenkassenrecht-krankenversicherung-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krankenkassenrecht-krankenversicherung-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`krankenkassenrecht-krankenversicherung-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krankenkassenrecht-krankenversicherung-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`krankenkassenrecht-krankenversicherung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krankenkassenrecht-krankenversicherung.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel.zip) (Akte Lichtenberg: Hilfsmittel, Krankengeld, PKV-Tarifwechsel und Beihilfechaos) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`krankenkassenrecht-krankenversicherung-werkstatt.md`](./krankenkassenrecht-krankenversicherung-werkstatt.md) (im Browser ansehen)
+- [`krankenkassenrecht-krankenversicherung-schnellstart.md`](./krankenkassenrecht-krankenversicherung-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -21,25 +39,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Akte Lichtenberg: Hilfsmittel, Krankengeld, PKV-Tarifwechsel und Beihilfechaos** (`krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel`) | [Gesamt-PDF lesen](../testakten/krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel/gesamt-pdf/krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel_gesamt.pdf) | [`testakte-krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Krankenkassenrecht und Krankenversicherung-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`krankenkassenrecht-krankenversicherung-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krankenkassenrecht-krankenversicherung-werkstatt.zip) |
-| **Krankenkassenrecht und Krankenversicherung-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`krankenkassenrecht-krankenversicherung-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krankenkassenrecht-krankenversicherung-schnellstart.zip) |
-| **Krankenkassenrecht und Krankenversicherung-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`krankenkassenrecht-krankenversicherung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krankenkassenrecht-krankenversicherung.zip) |
-| **Krankenkassenrecht und Krankenversicherung-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel.zip) (Akte Lichtenberg: Hilfsmittel, Krankengeld, PKV-Tarifwechsel und Beihilfechaos) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`krankenkassenrecht-krankenversicherung-werkstatt.md`](./krankenkassenrecht-krankenversicherung-werkstatt.md) (im Browser ansehen)
-- [`krankenkassenrecht-krankenversicherung-schnellstart.md`](./krankenkassenrecht-krankenversicherung-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Dieses Plugin erklärt Krankenversicherung so, dass Betroffene, Arbeitgeber, Kanzleien und Leistungsabteilungen die Akte sortieren können: Wer muss zahlen, welche Unterlagen fehlen, welche Frist läuft und welcher Rechtsweg ist richtig?
 
 ## Arbeitsweise

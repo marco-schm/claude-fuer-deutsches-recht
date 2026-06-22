@@ -7,12 +7,12 @@ Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzba
 
 Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
 
-| Datei | Wofür | Direkt-Download |
+| Was | Format | Direkt-Download |
 | --- | --- | --- |
-| **Fachanwalt Miet- und Wohnungseigentumsrecht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`fachanwalt-miet-wohnungseigentumsrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-miet-wohnungseigentumsrecht-werkstatt.zip) |
-| **Fachanwalt Miet- und Wohnungseigentumsrecht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`fachanwalt-miet-wohnungseigentumsrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-miet-wohnungseigentumsrecht-schnellstart.zip) |
-| **Fachanwalt Miet- und Wohnungseigentumsrecht-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`fachanwalt-miet-wohnungseigentumsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-miet-wohnungseigentumsrecht.zip) |
-| **Fachanwalt Miet- und Wohnungseigentumsrecht-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt.zip) (Eigenbedarf + WEG-Konflikt – Straßburger / Köln-Südstadt) |
+| Grosser Prompt (Werkstatt) | ZIP | [`fachanwalt-miet-wohnungseigentumsrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-miet-wohnungseigentumsrecht-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`fachanwalt-miet-wohnungseigentumsrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-miet-wohnungseigentumsrecht-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`fachanwalt-miet-wohnungseigentumsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-miet-wohnungseigentumsrecht.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt.zip) (Eigenbedarf + WEG-Konflikt – Straßburger / Köln-Südstadt) |
 
 Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`fachanwalt-miet-wohnungseigentumsrecht-werkstatt.md`](./fachanwalt-miet-wohnungseigentumsrecht-werkstatt.md) (im Browser ansehen)

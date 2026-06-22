@@ -1,5 +1,23 @@
 # Berufsrecht Wirtschaftsprüfer
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`berufsrecht-wirtschaftspruefer-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-wirtschaftspruefer-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`berufsrecht-wirtschaftspruefer-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-wirtschaftspruefer-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`berufsrecht-wirtschaftspruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-wirtschaftspruefer.zip) |
+| Testakte(n) als ZIP | ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`berufsrecht-wirtschaftspruefer-werkstatt.md`](./berufsrecht-wirtschaftspruefer-werkstatt.md) (im Browser ansehen)
+- [`berufsrecht-wirtschaftspruefer-schnellstart.md`](./berufsrecht-wirtschaftspruefer-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -17,25 +35,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Berufsrecht Wirtschaftsprüfer-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`berufsrecht-wirtschaftspruefer-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-wirtschaftspruefer-werkstatt.zip) |
-| **Berufsrecht Wirtschaftsprüfer-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`berufsrecht-wirtschaftspruefer-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-wirtschaftspruefer-schnellstart.zip) |
-| **Berufsrecht Wirtschaftsprüfer-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`berufsrecht-wirtschaftspruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-wirtschaftspruefer.zip) |
-| **Berufsrecht Wirtschaftsprüfer-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`berufsrecht-wirtschaftspruefer-werkstatt.md`](./berufsrecht-wirtschaftspruefer-werkstatt.md) (im Browser ansehen)
-- [`berufsrecht-wirtschaftspruefer-schnellstart.md`](./berufsrecht-wirtschaftspruefer-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Plugin für Wirtschaftsprüferrecht: WPO, Berufssatzung, WPK, APAS, Unabhängigkeit, Qualitätskontrolle, Abschlussprüfung, Bestätigungsvermerk, PIE, Berufsaufsicht und berufsgerichtliche Risiken.
 
 ## Worum es geht

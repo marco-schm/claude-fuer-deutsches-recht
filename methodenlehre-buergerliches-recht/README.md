@@ -1,5 +1,23 @@
 # Methodenlehre bürgerliches Recht
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`methodenlehre-buergerliches-recht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/methodenlehre-buergerliches-recht-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`methodenlehre-buergerliches-recht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/methodenlehre-buergerliches-recht-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`methodenlehre-buergerliches-recht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/methodenlehre-buergerliches-recht.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt.zip) (BGB BT — Holzofen, Lieferkette, Bürgschaft, GoA und Brandschaden); [`testakte-bgb-bt-smart-kuehlschrank-digital-repair-koeln.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-bt-smart-kuehlschrank-digital-repair-koeln.zip) (BGB BT — Smart-Kühlschrank, digitale Elemente und Reparaturblockade); [`testakte-methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim.zip) (Methodenlehre im Bürgerlichen Recht — Fall Tannenmoor/Radarwarner (Meckenheim)); [`testakte-preussisches-landrecht-wusterhagen-muehlenstau-aufopferung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-preussisches-landrecht-wusterhagen-muehlenstau-aufopferung.zip) (Akte Wusterhagen: Mühlenstau, Chaussee und Aufopferung) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`methodenlehre-buergerliches-recht-werkstatt.md`](./methodenlehre-buergerliches-recht-werkstatt.md) (im Browser ansehen)
+- [`methodenlehre-buergerliches-recht-schnellstart.md`](./methodenlehre-buergerliches-recht-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -24,25 +42,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Akte Wusterhagen: Mühlenstau, Chaussee und Aufopferung** (`preussisches-landrecht-wusterhagen-muehlenstau-aufopferung`) | [Gesamt-PDF lesen](../testakten/preussisches-landrecht-wusterhagen-muehlenstau-aufopferung/gesamt-pdf/preussisches-landrecht-wusterhagen-muehlenstau-aufopferung_gesamt.pdf) | [`testakte-preussisches-landrecht-wusterhagen-muehlenstau-aufopferung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-preussisches-landrecht-wusterhagen-muehlenstau-aufopferung.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Methodenlehre bürgerliches Recht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`methodenlehre-buergerliches-recht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/methodenlehre-buergerliches-recht-werkstatt.zip) |
-| **Methodenlehre bürgerliches Recht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`methodenlehre-buergerliches-recht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/methodenlehre-buergerliches-recht-schnellstart.zip) |
-| **Methodenlehre bürgerliches Recht-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`methodenlehre-buergerliches-recht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/methodenlehre-buergerliches-recht.zip) |
-| **Methodenlehre bürgerliches Recht-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt.zip) (BGB BT — Holzofen, Lieferkette, Bürgschaft, GoA und Brandschaden); [`testakte-bgb-bt-smart-kuehlschrank-digital-repair-koeln.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-bt-smart-kuehlschrank-digital-repair-koeln.zip) (BGB BT — Smart-Kühlschrank, digitale Elemente und Reparaturblockade); [`testakte-methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim.zip) (Methodenlehre im Bürgerlichen Recht — Fall Tannenmoor/Radarwarner (Meckenheim)); [`testakte-preussisches-landrecht-wusterhagen-muehlenstau-aufopferung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-preussisches-landrecht-wusterhagen-muehlenstau-aufopferung.zip) (Akte Wusterhagen: Mühlenstau, Chaussee und Aufopferung) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`methodenlehre-buergerliches-recht-werkstatt.md`](./methodenlehre-buergerliches-recht-werkstatt.md) (im Browser ansehen)
-- [`methodenlehre-buergerliches-recht-schnellstart.md`](./methodenlehre-buergerliches-recht-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Deutsche juristische Methodenlehre und Falllösung aus anwaltlicher Perspektive. Gutachtenstil mit Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut Systematik Historie Telos ohne starre Rangfolge — pragmatische Gewichtung wie in der BGH-Praxis. Generalklauseln und Rechtsfortbildung als reale Werkzeuge. Anwaltliche Strategie statt richterliche Selbstbindung.
 
 Für konkrete Prüfungen im BGB Allgemeiner Teil kann `bgb-at-pruefer` hinzugeladen werden; dieses Plugin bleibt die methodische Grundierung, der BGB-AT-Prüfer übernimmt dann Vertragsschluss, Zugang, Anfechtung, Stellvertretung, Geschäftsfähigkeit, Form, Fristen und Verjährung.

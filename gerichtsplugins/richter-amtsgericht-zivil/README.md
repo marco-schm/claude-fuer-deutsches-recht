@@ -7,16 +7,16 @@ Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzba
 
 Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
 
-| Datei | Wofür | Direkt-Download |
+| Was | Format | Direkt-Download |
 | --- | --- | --- |
-| **Richter Amtsgericht Zivilsachen-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`richter-amtsgericht-zivil-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-zivil-werkstatt.zip) |
-| **Richter Amtsgericht Zivilsachen-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`richter-amtsgericht-zivil-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-zivil-schnellstart.zip) |
-| **Richter Amtsgericht Zivilsachen-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`richter-amtsgericht-zivil.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-zivil.zip) |
-| **Richter Amtsgericht Zivilsachen-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`richter-amtsgericht-zivil-testakte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-zivil-testakte.zip) |
+| Grosser Prompt (Werkstatt) | ZIP | [`richter-amtsgericht-zivil-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-zivil-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`richter-amtsgericht-zivil-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-zivil-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`richter-amtsgericht-zivil.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-zivil.zip) |
+| Testakte(n) als ZIP | ZIP | [`richter-amtsgericht-zivil-testakte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-zivil-testakte.zip) |
 
 Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`amtsgericht-zivil-werkstatt.md`](./amtsgericht-zivil-werkstatt.md) (im Browser ansehen)
-- [`amtsgericht-zivil-schnellstart.md`](./amtsgericht-zivil-schnellstart.md) (im Browser ansehen)
+- [`richter-amtsgericht-zivil-werkstatt.md`](./richter-amtsgericht-zivil-werkstatt.md) (im Browser ansehen)
+- [`richter-amtsgericht-zivil-schnellstart.md`](./richter-amtsgericht-zivil-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->

@@ -1,5 +1,23 @@
 # Weltraumrecht
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`weltraumrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/weltraumrecht-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`weltraumrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/weltraumrecht-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`weltraumrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/weltraumrecht.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-weltraumrecht-satellitenschwarm-startplatz-kueste.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-weltraumrecht-satellitenschwarm-startplatz-kueste.zip) (Akte Nordlicht-Orbit: Satellitenschwarm, Küstenstartplatz und Absturzrisiko) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`weltraumrecht-werkstatt.md`](./weltraumrecht-werkstatt.md) (im Browser ansehen)
+- [`weltraumrecht-schnellstart.md`](./weltraumrecht-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -21,25 +39,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Akte Nordlicht-Orbit: Satellitenschwarm, Küstenstartplatz und Absturzrisiko** (`weltraumrecht-satellitenschwarm-startplatz-kueste`) | [Gesamt-PDF lesen](../testakten/weltraumrecht-satellitenschwarm-startplatz-kueste/gesamt-pdf/weltraumrecht-satellitenschwarm-startplatz-kueste_gesamt.pdf) | [`testakte-weltraumrecht-satellitenschwarm-startplatz-kueste.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-weltraumrecht-satellitenschwarm-startplatz-kueste.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Weltraumrecht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`weltraumrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/weltraumrecht-werkstatt.zip) |
-| **Weltraumrecht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`weltraumrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/weltraumrecht-schnellstart.zip) |
-| **Weltraumrecht-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`weltraumrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/weltraumrecht.zip) |
-| **Weltraumrecht-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-weltraumrecht-satellitenschwarm-startplatz-kueste.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-weltraumrecht-satellitenschwarm-startplatz-kueste.zip) (Akte Nordlicht-Orbit: Satellitenschwarm, Küstenstartplatz und Absturzrisiko) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`weltraumrecht-werkstatt.md`](./weltraumrecht-werkstatt.md) (im Browser ansehen)
-- [`weltraumrecht-schnellstart.md`](./weltraumrecht-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Das Plugin behandelt Raumfahrt nicht als Science-Fiction, sondern als haftungs-, genehmigungs-, sicherheits-, versicherungs-, frequenz- und völkerrechtlich hochverdichtete Praxis.
 
 ## Arbeitsweise

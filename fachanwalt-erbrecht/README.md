@@ -1,5 +1,23 @@
 # Fachanwalt Erbrecht
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`fachanwalt-erbrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-erbrecht-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`fachanwalt-erbrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-erbrecht-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`fachanwalt-erbrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-erbrecht.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip) (Erbstreit Edelmann — Multisig, Pflichtteil, Patchworkfamilie) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`fachanwalt-erbrecht-werkstatt.md`](./fachanwalt-erbrecht-werkstatt.md) (im Browser ansehen)
+- [`fachanwalt-erbrecht-schnellstart.md`](./fachanwalt-erbrecht-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -21,25 +39,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Erbstreit Edelmann — Multisig, Pflichtteil, Patchworkfamilie** (`erbstreit-krypto-multisig-edelmann-stuttgart`) | [Gesamt-PDF lesen](../testakten/erbstreit-krypto-multisig-edelmann-stuttgart/gesamt-pdf/erbstreit-krypto-multisig-edelmann-stuttgart_gesamt.pdf) | [`testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Fachanwalt Erbrecht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`fachanwalt-erbrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-erbrecht-werkstatt.zip) |
-| **Fachanwalt Erbrecht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`fachanwalt-erbrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-erbrecht-schnellstart.zip) |
-| **Fachanwalt Erbrecht-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`fachanwalt-erbrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-erbrecht.zip) |
-| **Fachanwalt Erbrecht-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip) (Erbstreit Edelmann — Multisig, Pflichtteil, Patchworkfamilie) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`fachanwalt-erbrecht-werkstatt.md`](./fachanwalt-erbrecht-werkstatt.md) (im Browser ansehen)
-- [`fachanwalt-erbrecht-schnellstart.md`](./fachanwalt-erbrecht-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 ## Anwalts-Dashboard für den Schnelleinstieg
 
 Der Skill `einstieg-routing` ist das Anwalts-Dashboard zu diesem Plugin:

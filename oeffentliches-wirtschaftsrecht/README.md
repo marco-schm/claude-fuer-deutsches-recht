@@ -1,5 +1,23 @@
 # Öffentliches Wirtschaftsrecht
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`oeffentliches-wirtschaftsrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/oeffentliches-wirtschaftsrecht-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`oeffentliches-wirtschaftsrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/oeffentliches-wirtschaftsrecht-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`oeffentliches-wirtschaftsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/oeffentliches-wirtschaftsrecht.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt.zip) (ÖPP-Akte Schulcampus Havelstadt) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`oeffentliches-wirtschaftsrecht-werkstatt.md`](./oeffentliches-wirtschaftsrecht-werkstatt.md) (im Browser ansehen)
+- [`oeffentliches-wirtschaftsrecht-schnellstart.md`](./oeffentliches-wirtschaftsrecht-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -21,25 +39,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **ÖPP-Akte Schulcampus Havelstadt** (`oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt`) | [Gesamt-PDF lesen](../testakten/oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt/gesamt-pdf/oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt_gesamt.pdf) | [`testakte-oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Öffentliches Wirtschaftsrecht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`oeffentliches-wirtschaftsrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/oeffentliches-wirtschaftsrecht-werkstatt.zip) |
-| **Öffentliches Wirtschaftsrecht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`oeffentliches-wirtschaftsrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/oeffentliches-wirtschaftsrecht-schnellstart.zip) |
-| **Öffentliches Wirtschaftsrecht-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`oeffentliches-wirtschaftsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/oeffentliches-wirtschaftsrecht.zip) |
-| **Öffentliches Wirtschaftsrecht-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt.zip) (ÖPP-Akte Schulcampus Havelstadt) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`oeffentliches-wirtschaftsrecht-werkstatt.md`](./oeffentliches-wirtschaftsrecht-werkstatt.md) (im Browser ansehen)
-- [`oeffentliches-wirtschaftsrecht-schnellstart.md`](./oeffentliches-wirtschaftsrecht-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Dieses Plugin prüft, wann Staat, Kommune und Private wirtschaftlich zusammenarbeiten dürfen: Organisationsform, Vergabe, Beihilfe, ÖPP, kommunale Wirtschaft, Daseinsvorsorge, Privatisierung und Kontrolle.
 
 ## Start

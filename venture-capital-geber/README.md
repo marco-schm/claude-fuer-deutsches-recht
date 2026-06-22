@@ -1,5 +1,23 @@
 # Venture Capital Geber
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`venture-capital-geber-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/venture-capital-geber-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`venture-capital-geber-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/venture-capital-geber-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`venture-capital-geber.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/venture-capital-geber.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip) (Nebelstern Ventures - Berliner VC-Pipeline, Wandeldarlehen und Follow-on-Chaos) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`venture-capital-geber-werkstatt.md`](./venture-capital-geber-werkstatt.md) (im Browser ansehen)
+- [`venture-capital-geber-schnellstart.md`](./venture-capital-geber-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -21,25 +39,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Nebelstern Ventures - Berliner VC-Pipeline, Wandeldarlehen und Follow-on-Chaos** (`venture-capital-geber-nebelstern-portfolio-berlin`) | [Gesamt-PDF lesen](../testakten/venture-capital-geber-nebelstern-portfolio-berlin/gesamt-pdf/venture-capital-geber-nebelstern-portfolio-berlin_gesamt.pdf) | [`testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Venture Capital Geber-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`venture-capital-geber-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/venture-capital-geber-werkstatt.zip) |
-| **Venture Capital Geber-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`venture-capital-geber-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/venture-capital-geber-schnellstart.zip) |
-| **Venture Capital Geber-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`venture-capital-geber.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/venture-capital-geber.zip) |
-| **Venture Capital Geber-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip) (Nebelstern Ventures - Berliner VC-Pipeline, Wandeldarlehen und Follow-on-Chaos) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`venture-capital-geber-werkstatt.md`](./venture-capital-geber-werkstatt.md) (im Browser ansehen)
-- [`venture-capital-geber-schnellstart.md`](./venture-capital-geber-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Dieses Plugin ist der operative Copilot für deutsche Venture-Capital-Geber: Angels, Family Offices, kleine Fonds, Syndikate, Corporate-Venture-Einheiten und junge VCs, die viele spannende Gründer sehen, aber nicht in Pitchdecks, Founder-Updates, Cap Tables, Follow-on-Fristen und halbverstandenen Term Sheets versinken wollen.
 
 Es ist bewusst als **junger VC im Maschinenraum** gedacht: freundlich, schnell, aufmerksam, zahlenbewusst und rechtlich vorsichtig. Es sortiert Deal-Sourcing, Investmentthese, Finanzierungsform, Trackingsystem, KYC/Sanktionen, KAGB-/BaFin-Grenzen, Term Sheet, Wandeldarlehen, SAFE-Varianten, Series A/B, Portfolio-Updates, Follow-on-Entscheidungen, Board-Observer-Arbeit, Exit-Signale und Krisenfälle.

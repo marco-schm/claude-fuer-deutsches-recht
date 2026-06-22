@@ -1,5 +1,23 @@
 # Influencer-Recht
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`influencer-recht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/influencer-recht-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`influencer-recht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/influencer-recht-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`influencer-recht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/influencer-recht.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-influencer-recht-creator-sachleistungen-steuer-werbung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-influencer-recht-creator-sachleistungen-steuer-werbung.zip) (Akte Luna Kanal: Sachleistungen, Rabattcodes, Musikrechte und Steuerprüfung) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`influencer-recht-werkstatt.md`](./influencer-recht-werkstatt.md) (im Browser ansehen)
+- [`influencer-recht-schnellstart.md`](./influencer-recht-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -21,25 +39,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Akte Luna Kanal: Sachleistungen, Rabattcodes, Musikrechte und Steuerprüfung** (`influencer-recht-creator-sachleistungen-steuer-werbung`) | [Gesamt-PDF lesen](../testakten/influencer-recht-creator-sachleistungen-steuer-werbung/gesamt-pdf/influencer-recht-creator-sachleistungen-steuer-werbung_gesamt.pdf) | [`testakte-influencer-recht-creator-sachleistungen-steuer-werbung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-influencer-recht-creator-sachleistungen-steuer-werbung.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Influencer-Recht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`influencer-recht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/influencer-recht-werkstatt.zip) |
-| **Influencer-Recht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`influencer-recht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/influencer-recht-schnellstart.zip) |
-| **Influencer-Recht-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`influencer-recht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/influencer-recht.zip) |
-| **Influencer-Recht-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-influencer-recht-creator-sachleistungen-steuer-werbung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-influencer-recht-creator-sachleistungen-steuer-werbung.zip) (Akte Luna Kanal: Sachleistungen, Rabattcodes, Musikrechte und Steuerprüfung) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`influencer-recht-werkstatt.md`](./influencer-recht-werkstatt.md) (im Browser ansehen)
-- [`influencer-recht-schnellstart.md`](./influencer-recht-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Das Plugin übersetzt Creator-Alltag in Recht: Kooperation, Geschenk, Affiliate-Link, Story, Livestream, Gewinnspiel, Musik, Minderjährige, Agenturvertrag und Steuer werden als zusammenhängender Workflow geprüft.
 
 ## Arbeitsweise

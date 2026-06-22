@@ -1,5 +1,23 @@
 # Plugin: Gewerblicher Rechtsschutz
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`gewerblicher-rechtsschutz-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gewerblicher-rechtsschutz-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`gewerblicher-rechtsschutz-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gewerblicher-rechtsschutz-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`gewerblicher-rechtsschutz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gewerblicher-rechtsschutz.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-designrecht-geschmacksmuster-lichtbogen-stuhl-copycat.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-designrecht-geschmacksmuster-lichtbogen-stuhl-copycat.zip) (Lichtbogen-Stuhl L-27: Designschutz, Vorveröffentlichung und Copycat-Marktstart); [`testakte-gebrauchsmusterrecht-schnellverschluss-sensorhalter.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gebrauchsmusterrecht-schnellverschluss-sensorhalter.zip) (Schnellverschluss S-14: Sensorhalter, Gebrauchsmusterabzweigung und Messeoffenbarung); [`testakte-patent-verletzung-implantat-titan-vellbruck-stuttgart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-patent-verletzung-implantat-titan-vellbruck-stuttgart.zip) (Patentstreit Vellbruck Medizintechnik ./. TitanOrtho / Bochstaedt — Hüftimplantat Titan EP 3 218 922 B1); [`testakte-patentrecht-erfindungsakten-ravenstein-moll.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-patentrecht-erfindungsakten-ravenstein-moll.zip) (Patentrecht — Erfindungsakten Ravenstein & Moll); [`testakte-softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen.zip) (Codeforst / Sonnenklee - RouteLuchs) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`gewerblicher-rechtsschutz-werkstatt.md`](./gewerblicher-rechtsschutz-werkstatt.md) (im Browser ansehen)
+- [`gewerblicher-rechtsschutz-schnellstart.md`](./gewerblicher-rechtsschutz-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -25,25 +43,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Codeforst / Sonnenklee - RouteLuchs** (`softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen`) | [Gesamt-PDF lesen](../testakten/softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen/gesamt-pdf/softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen_gesamt.pdf) | [`testakte-softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Plugin: Gewerblicher Rechtsschutz-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`gewerblicher-rechtsschutz-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gewerblicher-rechtsschutz-werkstatt.zip) |
-| **Plugin: Gewerblicher Rechtsschutz-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`gewerblicher-rechtsschutz-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gewerblicher-rechtsschutz-schnellstart.zip) |
-| **Plugin: Gewerblicher Rechtsschutz-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`gewerblicher-rechtsschutz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gewerblicher-rechtsschutz.zip) |
-| **Plugin: Gewerblicher Rechtsschutz-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-designrecht-geschmacksmuster-lichtbogen-stuhl-copycat.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-designrecht-geschmacksmuster-lichtbogen-stuhl-copycat.zip) (Lichtbogen-Stuhl L-27: Designschutz, Vorveröffentlichung und Copycat-Marktstart); [`testakte-gebrauchsmusterrecht-schnellverschluss-sensorhalter.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gebrauchsmusterrecht-schnellverschluss-sensorhalter.zip) (Schnellverschluss S-14: Sensorhalter, Gebrauchsmusterabzweigung und Messeoffenbarung); [`testakte-patent-verletzung-implantat-titan-vellbruck-stuttgart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-patent-verletzung-implantat-titan-vellbruck-stuttgart.zip) (Patentstreit Vellbruck Medizintechnik ./. TitanOrtho / Bochstaedt — Hüftimplantat Titan EP 3 218 922 B1); [`testakte-patentrecht-erfindungsakten-ravenstein-moll.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-patentrecht-erfindungsakten-ravenstein-moll.zip) (Patentrecht — Erfindungsakten Ravenstein & Moll); [`testakte-softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen.zip) (Codeforst / Sonnenklee - RouteLuchs) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`gewerblicher-rechtsschutz-werkstatt.md`](./gewerblicher-rechtsschutz-werkstatt.md) (im Browser ansehen)
-- [`gewerblicher-rechtsschutz-schnellstart.md`](./gewerblicher-rechtsschutz-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Gewerblicher Rechtsschutz und Urheberrecht für die deutsche und europäische Rechtspraxis: Markenrecht (MarkenG, UMV), Designrecht (DesignG, GGV), Patentrecht (PatG, GebrMG, EPÜ), Urheberrecht (UrhG), Wettbewerbsrecht (UWG), Geschäftsgeheimnisschutz (GeschGehG) sowie Open-Source-Compliance. Das Plugin erstellt und triagiert Abmahnungen, führt Marken- und FTO-Recherchen durch, überprüft IP-Klauseln in Verträgen, verwaltet Schutzrechtsfristen und prüft Open-Source-Lizenzen auf Pflichten und Kompatibilität. Grundlage ist ein Kanzleiprofil, das beim Erststart durch ein Interview befüllt wird – das Plugin lernt Ihre Durchsetzungsstrategie, Ihr Portfolio und Ihre Genehmigungsmatrix, nicht eine generische Vorlage.
 
 **Jedes Ergebnis ist ein Entwurf zur anwaltlichen Prüfung – zitiert, gekennzeichnet und gesperrt – keine Rechtsauskunft.** Das Plugin übernimmt die Arbeit: Dokumente lesen, Prüfschema anwenden, Probleme identifizieren, Memo entworten. Ein Anwalt prüft, verifiziert und entscheidet. Zitate sind nach Quelle gekennzeichnet. Privilegierungsvermerke werden konservativ gesetzt, damit keine Mandatsgeheimnisverletzung riskiert wird. Folgenreiche Handlungen – Abmahnungen versenden, Anmeldungen einreichen – sind durch explizite Freigabe gesperrt.

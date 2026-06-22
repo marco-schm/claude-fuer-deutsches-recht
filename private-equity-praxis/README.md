@@ -1,5 +1,23 @@
 # Private Equity Praxis
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`private-equity-praxis-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/private-equity-praxis-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`private-equity-praxis-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/private-equity-praxis-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`private-equity-praxis.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/private-equity-praxis.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-private-equity-buyout-schuldschein-npl-heidelberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-private-equity-buyout-schuldschein-npl-heidelberg.zip) (Projekt Nachtfalter — Private Equity Buyout, Schuldschein und NPL-Portfolio); [`testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip) (Nebelstern Ventures - Berliner VC-Pipeline, Wandeldarlehen und Follow-on-Chaos) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`private-equity-praxis-werkstatt.md`](./private-equity-praxis-werkstatt.md) (im Browser ansehen)
+- [`private-equity-praxis-schnellstart.md`](./private-equity-praxis-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -22,25 +40,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Nebelstern Ventures - Berliner VC-Pipeline, Wandeldarlehen und Follow-on-Chaos** (`venture-capital-geber-nebelstern-portfolio-berlin`) | [Gesamt-PDF lesen](../testakten/venture-capital-geber-nebelstern-portfolio-berlin/gesamt-pdf/venture-capital-geber-nebelstern-portfolio-berlin_gesamt.pdf) | [`testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Private Equity Praxis-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`private-equity-praxis-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/private-equity-praxis-werkstatt.zip) |
-| **Private Equity Praxis-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`private-equity-praxis-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/private-equity-praxis-schnellstart.zip) |
-| **Private Equity Praxis-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`private-equity-praxis.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/private-equity-praxis.zip) |
-| **Private Equity Praxis-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-private-equity-buyout-schuldschein-npl-heidelberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-private-equity-buyout-schuldschein-npl-heidelberg.zip) (Projekt Nachtfalter — Private Equity Buyout, Schuldschein und NPL-Portfolio); [`testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip) (Nebelstern Ventures - Berliner VC-Pipeline, Wandeldarlehen und Follow-on-Chaos) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`private-equity-praxis-werkstatt.md`](./private-equity-praxis-werkstatt.md) (im Browser ansehen)
-- [`private-equity-praxis-schnellstart.md`](./private-equity-praxis-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Dieses Plugin ist ein Praxis-Cockpit für deutsche Anwälte, Kanzleiteams, Investoren, Family Offices, Beteiligungsgesellschaften, Rechtsabteilungen und Gründer, die Private Equity, Private Credit oder Distressed-Investments in Deutschland sauber strukturieren, prüfen oder erklären müssen.
 
 Es ist ausdrücklich anfängerfreundlich, aber nicht weichgespült: Der Einstieg sortiert Rolle, Deal-Phase, Fonds-/Direktinvestment, regulatorische Schwellen, Fristen, Unterlagen, Zahlenmodell und gewünschten Output. Danach routet das Plugin in konkrete Spezial-Skills für Fondsaufsicht, KAGB/AIF/ELTIF, Due Diligence, SPA, Management Participation, Finanzierung, Schuldschein, LMA-Facility, NPL-Kauf, Portfolio-Management, Exit und Krise.

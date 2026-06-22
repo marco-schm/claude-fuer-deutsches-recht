@@ -1,5 +1,23 @@
 # markenrecht-fashion-luxus
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`markenrecht-fashion-luxus-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/markenrecht-fashion-luxus-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`markenrecht-fashion-luxus-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/markenrecht-fashion-luxus-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`markenrecht-fashion-luxus.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/markenrecht-fashion-luxus.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-designrecht-geschmacksmuster-lichtbogen-stuhl-copycat.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-designrecht-geschmacksmuster-lichtbogen-stuhl-copycat.zip) (Lichtbogen-Stuhl L-27: Designschutz, Vorveröffentlichung und Copycat-Marktstart); [`testakte-fashion-law-moderecht-nachtfalter-kollektion-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fashion-law-moderecht-nachtfalter-kollektion-2026.zip) (Nachtfalter Studio: Capsule Collection, Lieferkette, Influencer und Plattformkopien); [`testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip) (Markenrecht – klôtzzkètté S.A. ./. Brezelmann Discount KG & Donauzon Marketplace GmbH) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`markenrecht-fashion-luxus-werkstatt.md`](./markenrecht-fashion-luxus-werkstatt.md) (im Browser ansehen)
+- [`markenrecht-fashion-luxus-schnellstart.md`](./markenrecht-fashion-luxus-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -23,25 +41,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Markenrecht – klôtzzkètté S.A. ./. Brezelmann Discount KG & Donauzon Marketplace GmbH** (`markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon`) | [Gesamt-PDF lesen](../testakten/markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon/gesamt-pdf/markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon_gesamt.pdf) | [`testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **markenrecht-fashion-luxus-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`markenrecht-fashion-luxus-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/markenrecht-fashion-luxus-werkstatt.zip) |
-| **markenrecht-fashion-luxus-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`markenrecht-fashion-luxus-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/markenrecht-fashion-luxus-schnellstart.zip) |
-| **markenrecht-fashion-luxus-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`markenrecht-fashion-luxus.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/markenrecht-fashion-luxus.zip) |
-| **markenrecht-fashion-luxus-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-designrecht-geschmacksmuster-lichtbogen-stuhl-copycat.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-designrecht-geschmacksmuster-lichtbogen-stuhl-copycat.zip) (Lichtbogen-Stuhl L-27: Designschutz, Vorveröffentlichung und Copycat-Marktstart); [`testakte-fashion-law-moderecht-nachtfalter-kollektion-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fashion-law-moderecht-nachtfalter-kollektion-2026.zip) (Nachtfalter Studio: Capsule Collection, Lieferkette, Influencer und Plattformkopien); [`testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip) (Markenrecht – klôtzzkètté S.A. ./. Brezelmann Discount KG & Donauzon Marketplace GmbH) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`markenrecht-fashion-luxus-werkstatt.md`](./markenrecht-fashion-luxus-werkstatt.md) (im Browser ansehen)
-- [`markenrecht-fashion-luxus-schnellstart.md`](./markenrecht-fashion-luxus-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 **Version:** 3.2.1
 **Mandantin:** klôtzzkètté SA, Paris/Mailand — Haute-Couture-Label, Geschäftsführerin Comtesse Beatrice de Klotzzkettie
 **US-Tochter:** klôtzzkètté Inc., 712 Fifth Avenue, New York, NY 10019

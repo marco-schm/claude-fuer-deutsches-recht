@@ -1,5 +1,23 @@
 # Vereinsrecht und Vereinsmanager
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`vereinsrecht-vereinsmanager-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/vereinsrecht-vereinsmanager-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`vereinsrecht-vereinsmanager-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/vereinsrecht-vereinsmanager-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`vereinsrecht-vereinsmanager.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/vereinsrecht-vereinsmanager.zip) |
+| Testakte(n) als ZIP | ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`vereinsrecht-vereinsmanager-werkstatt.md`](./vereinsrecht-vereinsmanager-werkstatt.md) (im Browser ansehen)
+- [`vereinsrecht-vereinsmanager-schnellstart.md`](./vereinsrecht-vereinsmanager-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -17,25 +35,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Vereinsrecht und Vereinsmanager-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`vereinsrecht-vereinsmanager-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/vereinsrecht-vereinsmanager-werkstatt.zip) |
-| **Vereinsrecht und Vereinsmanager-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`vereinsrecht-vereinsmanager-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/vereinsrecht-vereinsmanager-schnellstart.zip) |
-| **Vereinsrecht und Vereinsmanager-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`vereinsrecht-vereinsmanager.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/vereinsrecht-vereinsmanager.zip) |
-| **Vereinsrecht und Vereinsmanager-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`vereinsrecht-vereinsmanager-werkstatt.md`](./vereinsrecht-vereinsmanager-werkstatt.md) (im Browser ansehen)
-- [`vereinsrecht-vereinsmanager-schnellstart.md`](./vereinsrecht-vereinsmanager-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Arbeitsplugin für Vereinsvorstände, Schriftführer, Kassenwarte, Gründergruppen und Mitglieder: vom Kegelclub bis zum großen gemeinnützigen Träger, vom nicht eingetragenen Verein bis zum e. V. und zum seltenen wirtschaftlichen Verein.
 
 ## Arbeitsidee

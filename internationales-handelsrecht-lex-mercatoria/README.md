@@ -1,5 +1,23 @@
 # Internationales Handelsrecht und Lex Mercatoria
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`internationales-handelsrecht-lex-mercatoria-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/internationales-handelsrecht-lex-mercatoria-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`internationales-handelsrecht-lex-mercatoria-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/internationales-handelsrecht-lex-mercatoria-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`internationales-handelsrecht-lex-mercatoria.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/internationales-handelsrecht-lex-mercatoria.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-festlandchina-wirtschaftsverkehr-fabrik-import-investition.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-festlandchina-wirtschaftsverkehr-fabrik-import-investition.zip) (China-Wirtschaftsakte Morgenstern); [`testakte-internationales-handelsrecht-cisg-incoterms-schiedsfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-internationales-handelsrecht-cisg-incoterms-schiedsfall.zip) (Internationaler Handelsfall Nordhafen) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`internationales-handelsrecht-lex-mercatoria-werkstatt.md`](./internationales-handelsrecht-lex-mercatoria-werkstatt.md) (im Browser ansehen)
+- [`internationales-handelsrecht-lex-mercatoria-schnellstart.md`](./internationales-handelsrecht-lex-mercatoria-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -22,25 +40,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Internationaler Handelsfall Nordhafen** (`internationales-handelsrecht-cisg-incoterms-schiedsfall`) | [Gesamt-PDF lesen](../testakten/internationales-handelsrecht-cisg-incoterms-schiedsfall/gesamt-pdf/internationales-handelsrecht-cisg-incoterms-schiedsfall_gesamt.pdf) | [`testakte-internationales-handelsrecht-cisg-incoterms-schiedsfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-internationales-handelsrecht-cisg-incoterms-schiedsfall.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Internationales Handelsrecht und Lex Mercatoria-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`internationales-handelsrecht-lex-mercatoria-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/internationales-handelsrecht-lex-mercatoria-werkstatt.zip) |
-| **Internationales Handelsrecht und Lex Mercatoria-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`internationales-handelsrecht-lex-mercatoria-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/internationales-handelsrecht-lex-mercatoria-schnellstart.zip) |
-| **Internationales Handelsrecht und Lex Mercatoria-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`internationales-handelsrecht-lex-mercatoria.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/internationales-handelsrecht-lex-mercatoria.zip) |
-| **Internationales Handelsrecht und Lex Mercatoria-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-festlandchina-wirtschaftsverkehr-fabrik-import-investition.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-festlandchina-wirtschaftsverkehr-fabrik-import-investition.zip) (China-Wirtschaftsakte Morgenstern); [`testakte-internationales-handelsrecht-cisg-incoterms-schiedsfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-internationales-handelsrecht-cisg-incoterms-schiedsfall.zip) (Internationaler Handelsfall Nordhafen) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`internationales-handelsrecht-lex-mercatoria-werkstatt.md`](./internationales-handelsrecht-lex-mercatoria-werkstatt.md) (im Browser ansehen)
-- [`internationales-handelsrecht-lex-mercatoria-schnellstart.md`](./internationales-handelsrecht-lex-mercatoria-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Internationaler Handel als Vertrags- und Risikomaschine: anwendbares Recht, Lieferbedingungen, Zahlung, Transport, Sanktionen und Streitbeilegung von Anfang an zusammen denken.
 
 Dieses Plugin führt durch **Internationales Handelsrecht und Lex Mercatoria** und erzeugt je nach Bedarf Memos, Quellenmatrizen, Vertrags-/Klauselbausteine, Risiko-Dashboards, Unterrichtsbausteine oder Entscheidungsvermerke. Der allgemeine Skill startet schnell und schlägt anschließend die passenden Spezialskills vor.

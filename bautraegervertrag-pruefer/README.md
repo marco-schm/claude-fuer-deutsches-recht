@@ -1,5 +1,23 @@
 # Bauträgervertrag-Prüfer
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`bautraegervertrag-pruefer-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bautraegervertrag-pruefer-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`bautraegervertrag-pruefer-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bautraegervertrag-pruefer-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`bautraegervertrag-pruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bautraegervertrag-pruefer.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung.zip) (Bauträgervertrag Birkenpfuhl — Verbraucherprüfung Quendel / Übelacker-Strohmeyer) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`bautraegervertrag-pruefer-werkstatt.md`](./bautraegervertrag-pruefer-werkstatt.md) (im Browser ansehen)
+- [`bautraegervertrag-pruefer-schnellstart.md`](./bautraegervertrag-pruefer-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -21,25 +39,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Bauträgervertrag Birkenpfuhl — Verbraucherprüfung Quendel / Übelacker-Strohmeyer** (`bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung`) | [Gesamt-PDF lesen](../testakten/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung/gesamt-pdf/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung_gesamt.pdf) | [`testakte-bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Bauträgervertrag-Prüfer-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`bautraegervertrag-pruefer-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bautraegervertrag-pruefer-werkstatt.zip) |
-| **Bauträgervertrag-Prüfer-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`bautraegervertrag-pruefer-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bautraegervertrag-pruefer-schnellstart.zip) |
-| **Bauträgervertrag-Prüfer-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`bautraegervertrag-pruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bautraegervertrag-pruefer.zip) |
-| **Bauträgervertrag-Prüfer-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung.zip) (Bauträgervertrag Birkenpfuhl — Verbraucherprüfung Quendel / Übelacker-Strohmeyer) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`bautraegervertrag-pruefer-werkstatt.md`](./bautraegervertrag-pruefer-werkstatt.md) (im Browser ansehen)
-- [`bautraegervertrag-pruefer-schnellstart.md`](./bautraegervertrag-pruefer-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Eigenes Plugin für die verbraucherseitige Prüfung deutscher Bauträgerverträge über Wohnungen, Häuser, Tiefgaragenstellplätze und Sondernutzungsrechte. Das Plugin arbeitet aus Sicht der Käuferin oder des Käufers: Es soll einen Notarentwurf, eine beurkundete Urkunde oder eine chaotische Mandatsakte so auswerten, dass MaBV-Zahlungen, Sicherheiten, AGB-Klauseln, Baubeschreibung, Abnahme, Teilungserklärung, Eigentumssicherung und Verhandlungsstrategie nicht nebeneinander liegen bleiben, sondern in ein belastbares Mandatsprodukt münden.
 
 Der Kern ist aus dem langen Bauträgervertrag-Prüfer-Skill übernommen und fachlich verdichtet. Der ursprüngliche One-Shot-Gedanke bleibt erhalten: Wenn ein Vertrag oder Aktenordner vorliegt, startet die Prüfung aus dem Dokument heraus, bildet zuerst einen Fall-Fingerabdruck und stellt nur solche Rückfragen, ohne die die Bewertung objektiv falsch würde. Daneben sind die Arbeitsabschnitte als eigene Skills vorhanden, damit Claude Code/Cowork gezielt den passenden Teil laden kann.

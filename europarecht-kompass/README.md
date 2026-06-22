@@ -1,5 +1,23 @@
 # Europarecht-Kompass für deutsche Juristen
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`europarecht-kompass-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/europarecht-kompass-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`europarecht-kompass-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/europarecht-kompass-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`europarecht-kompass.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/europarecht-kompass.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-europarecht-kompass-beihilfe-richtlinie.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-europarecht-kompass-beihilfe-richtlinie.zip) (Europarecht-Kompass – Beihilfe, Richtlinie und Vorlagefrage) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`europarecht-kompass-werkstatt.md`](./europarecht-kompass-werkstatt.md) (im Browser ansehen)
+- [`europarecht-kompass-schnellstart.md`](./europarecht-kompass-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -21,25 +39,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Europarecht-Kompass – Beihilfe, Richtlinie und Vorlagefrage** (`europarecht-kompass-beihilfe-richtlinie`) | [Gesamt-PDF lesen](../testakten/europarecht-kompass-beihilfe-richtlinie/gesamt-pdf/europarecht-kompass-beihilfe-richtlinie_gesamt.pdf) | [`testakte-europarecht-kompass-beihilfe-richtlinie.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-europarecht-kompass-beihilfe-richtlinie.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Europarecht-Kompass für deutsche Juristen-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`europarecht-kompass-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/europarecht-kompass-werkstatt.zip) |
-| **Europarecht-Kompass für deutsche Juristen-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`europarecht-kompass-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/europarecht-kompass-schnellstart.zip) |
-| **Europarecht-Kompass für deutsche Juristen-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`europarecht-kompass.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/europarecht-kompass.zip) |
-| **Europarecht-Kompass für deutsche Juristen-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-europarecht-kompass-beihilfe-richtlinie.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-europarecht-kompass-beihilfe-richtlinie.zip) (Europarecht-Kompass – Beihilfe, Richtlinie und Vorlagefrage) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`europarecht-kompass-werkstatt.md`](./europarecht-kompass-werkstatt.md) (im Browser ansehen)
-- [`europarecht-kompass-schnellstart.md`](./europarecht-kompass-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Großes, freistehendes Plugin für deutsche Juristen, die Europarecht nicht als deutsches Verwaltungsrecht mit Brüsseler Briefkopf missverstehen wollen. Es erklärt Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Beschlüsse, Soft Law, Charta, Grundfreiheiten, Beihilfen, Wettbewerbsrecht, Vorlageverfahren und Durchsetzung aus der Eigenlogik des Unionsrechts.
 
 Dieses Plugin ist **vollständig freistehend**. Es benötigt keine anderen Plugins, keine externen Agenten und keine Kanzleisoftware. Wenn keine Datenbank, kein DMS, kein Übersetzungstool, keine Rechercheplattform oder kein Behördenzugang angeschlossen ist, arbeitet es mit manuellen Uploads oder einem ausdrücklich markierten Simulationsmodus.

@@ -1,5 +1,23 @@
 # Römisch-katholisches Kirchenrecht CIC und Katechismus
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`roemisch-katholisches-kirchenrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisch-katholisches-kirchenrecht-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`roemisch-katholisches-kirchenrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisch-katholisches-kirchenrecht-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`roemisch-katholisches-kirchenrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisch-katholisches-kirchenrecht.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente.zip) (Kirchenrechtliche Arbeitsakte: Sancta Caecilia, Kirchenaustritt, Sakramente und Ordinariatskommunikation) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`roemisch-katholisches-kirchenrecht-werkstatt.md`](./roemisch-katholisches-kirchenrecht-werkstatt.md) (im Browser ansehen)
+- [`roemisch-katholisches-kirchenrecht-schnellstart.md`](./roemisch-katholisches-kirchenrecht-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -21,25 +39,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Kirchenrechtliche Arbeitsakte: Sancta Caecilia, Kirchenaustritt, Sakramente und Ordinariatskommunikation** (`kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente`) | [Gesamt-PDF lesen](../testakten/kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente/gesamt-pdf/kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente_gesamt.pdf) | [`testakte-kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Römisch-katholisches Kirchenrecht CIC und Katechismus-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`roemisch-katholisches-kirchenrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisch-katholisches-kirchenrecht-werkstatt.zip) |
-| **Römisch-katholisches Kirchenrecht CIC und Katechismus-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`roemisch-katholisches-kirchenrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisch-katholisches-kirchenrecht-schnellstart.zip) |
-| **Römisch-katholisches Kirchenrecht CIC und Katechismus-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`roemisch-katholisches-kirchenrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisch-katholisches-kirchenrecht.zip) |
-| **Römisch-katholisches Kirchenrecht CIC und Katechismus-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente.zip) (Kirchenrechtliche Arbeitsakte: Sancta Caecilia, Kirchenaustritt, Sakramente und Ordinariatskommunikation) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`roemisch-katholisches-kirchenrecht-werkstatt.md`](./roemisch-katholisches-kirchenrecht-werkstatt.md) (im Browser ansehen)
-- [`roemisch-katholisches-kirchenrecht-schnellstart.md`](./roemisch-katholisches-kirchenrecht-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Dieses Plugin ist ein großes, ausdrücklich **papsttreues, lehramtsorientiertes und katholisches** Arbeitswerkzeug für Fragen des römisch-katholischen Kirchenrechts und der katholischen Lehre. Es denkt vom **Codex Iuris Canonici**, vom **Katechismus der Katholischen Kirche**, vom Dienst des Papstes und der Gemeinschaft mit der Kirche her.
 
 Es soll nicht relativieren oder bloß soziologisch kommentieren, sondern klären: Was ist rechtlich im Raum? Was ist lehrmäßig gebunden? Was ist pastoral klug? Welche Stelle ist zuständig? Welche Sprache braucht die Person vor uns? Und wie dokumentiert man das so, dass es in Pfarrei, Ordinariat, Tribunal oder Kurie brauchbar bleibt?

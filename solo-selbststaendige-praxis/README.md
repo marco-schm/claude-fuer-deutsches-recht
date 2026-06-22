@@ -1,5 +1,23 @@
 # Solo-Selbstständige Praxis
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`solo-selbststaendige-praxis-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/solo-selbststaendige-praxis-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`solo-selbststaendige-praxis-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/solo-selbststaendige-praxis-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`solo-selbststaendige-praxis.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/solo-selbststaendige-praxis.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip) (Luise Falkenberg - Solo-Selbstständigkeit Designstudio Falkensee 2026) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`solo-selbststaendige-praxis-werkstatt.md`](./solo-selbststaendige-praxis-werkstatt.md) (im Browser ansehen)
+- [`solo-selbststaendige-praxis-schnellstart.md`](./solo-selbststaendige-praxis-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -21,25 +39,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Luise Falkenberg - Solo-Selbstständigkeit Designstudio Falkensee 2026** (`solo-selbststaendige-designstudio-luise-falkensee-2026`) | [Gesamt-PDF lesen](../testakten/solo-selbststaendige-designstudio-luise-falkensee-2026/gesamt-pdf/solo-selbststaendige-designstudio-luise-falkensee-2026_gesamt.pdf) | [`testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Solo-Selbstständige Praxis-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`solo-selbststaendige-praxis-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/solo-selbststaendige-praxis-werkstatt.zip) |
-| **Solo-Selbstständige Praxis-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`solo-selbststaendige-praxis-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/solo-selbststaendige-praxis-schnellstart.zip) |
-| **Solo-Selbstständige Praxis-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`solo-selbststaendige-praxis.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/solo-selbststaendige-praxis.zip) |
-| **Solo-Selbstständige Praxis-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip) (Luise Falkenberg - Solo-Selbstständigkeit Designstudio Falkensee 2026) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`solo-selbststaendige-praxis-werkstatt.md`](./solo-selbststaendige-praxis-werkstatt.md) (im Browser ansehen)
-- [`solo-selbststaendige-praxis-schnellstart.md`](./solo-selbststaendige-praxis-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Ein Alltags-Cockpit für Menschen, die alleine selbstständig arbeiten und trotzdem mit Finanzamt, Kunden, Krankenkasse, DRV, KSK, Datenschutz, Verträgen, Rechnungen, Mahnungen und dem eigenen Kontostand klarkommen müssen.
 
 Das Plugin ist bewusst praktisch: Es fragt zuerst, ob die Person Anfängerin/Anfänger ist, ob es Haupt- oder Nebenerwerb ist, ob Gewerbe oder Freiberuf in Betracht kommt, ob gerade eine Frist läuft und ob ein Dokument vorliegt. Danach erzeugt es keine Wolke aus Ratschlägen, sondern ein konkretes Ergebnis: Mail, Checkliste, Rechnungstext, Vertragsbaustein, Statusmatrix, Fristenlog oder Entscheidungsmemo.

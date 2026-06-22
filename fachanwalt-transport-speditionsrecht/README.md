@@ -1,5 +1,23 @@
 # Fachanwalt Transport Speditionsrecht
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`fachanwalt-transport-speditionsrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-transport-speditionsrecht-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`fachanwalt-transport-speditionsrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-transport-speditionsrecht-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`fachanwalt-transport-speditionsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-transport-speditionsrecht.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt.zip) (CMR-Transportschaden Pharma Kühlkette / Schwarmstedt Logistik GmbH — Kühlkettenbruch, Art. 29 CMR, Versicherungsstreit, Embargo) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`fachanwalt-transport-speditionsrecht-werkstatt.md`](./fachanwalt-transport-speditionsrecht-werkstatt.md) (im Browser ansehen)
+- [`fachanwalt-transport-speditionsrecht-schnellstart.md`](./fachanwalt-transport-speditionsrecht-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -21,25 +39,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **CMR-Transportschaden Pharma Kühlkette / Schwarmstedt Logistik GmbH — Kühlkettenbruch, Art. 29 CMR, Versicherungsstreit, Embargo** (`cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt`) | [Gesamt-PDF lesen](../testakten/cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt/gesamt-pdf/cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt_gesamt.pdf) | [`testakte-cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Fachanwalt Transport Speditionsrecht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`fachanwalt-transport-speditionsrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-transport-speditionsrecht-werkstatt.zip) |
-| **Fachanwalt Transport Speditionsrecht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`fachanwalt-transport-speditionsrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-transport-speditionsrecht-schnellstart.zip) |
-| **Fachanwalt Transport Speditionsrecht-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`fachanwalt-transport-speditionsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-transport-speditionsrecht.zip) |
-| **Fachanwalt Transport Speditionsrecht-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt.zip) (CMR-Transportschaden Pharma Kühlkette / Schwarmstedt Logistik GmbH — Kühlkettenbruch, Art. 29 CMR, Versicherungsstreit, Embargo) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`fachanwalt-transport-speditionsrecht-werkstatt.md`](./fachanwalt-transport-speditionsrecht-werkstatt.md) (im Browser ansehen)
-- [`fachanwalt-transport-speditionsrecht-schnellstart.md`](./fachanwalt-transport-speditionsrecht-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Plugin Fachanwalt für Transport- und Speditionsrecht. Orientierung HGB §§ 407 ff. Frachtvertrag §§ 425 ff. Haftung §§ 453 ff. Speditionsvertrag CMR COTIF Montrealer Übereinkommen Haager Visby Regeln ADSp.
 
 ## Installation in Claude Code

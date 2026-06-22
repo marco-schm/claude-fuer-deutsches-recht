@@ -1,5 +1,23 @@
 # selbstvertreter-sozialgericht
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`selbstvertreter-sozialgericht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/selbstvertreter-sozialgericht-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`selbstvertreter-sozialgericht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/selbstvertreter-sozialgericht-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`selbstvertreter-sozialgericht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/selbstvertreter-sozialgericht.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-selbstvertreter-sozialgericht-heizkosten-eilantrag.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-selbstvertreter-sozialgericht-heizkosten-eilantrag.zip) (Akte Selbstvertreter Sozialgericht — Heizkosten und Eilantrag) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`selbstvertreter-sozialgericht-werkstatt.md`](./selbstvertreter-sozialgericht-werkstatt.md) (im Browser ansehen)
+- [`selbstvertreter-sozialgericht-schnellstart.md`](./selbstvertreter-sozialgericht-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -21,25 +39,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Akte Selbstvertreter Sozialgericht — Heizkosten und Eilantrag** (`selbstvertreter-sozialgericht-heizkosten-eilantrag`) | [Gesamt-PDF lesen](../testakten/selbstvertreter-sozialgericht-heizkosten-eilantrag/gesamt-pdf/selbstvertreter-sozialgericht-heizkosten-eilantrag_gesamt.pdf) | [`testakte-selbstvertreter-sozialgericht-heizkosten-eilantrag.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-selbstvertreter-sozialgericht-heizkosten-eilantrag.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **selbstvertreter-sozialgericht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`selbstvertreter-sozialgericht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/selbstvertreter-sozialgericht-werkstatt.zip) |
-| **selbstvertreter-sozialgericht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`selbstvertreter-sozialgericht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/selbstvertreter-sozialgericht-schnellstart.zip) |
-| **selbstvertreter-sozialgericht-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`selbstvertreter-sozialgericht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/selbstvertreter-sozialgericht.zip) |
-| **selbstvertreter-sozialgericht-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-selbstvertreter-sozialgericht-heizkosten-eilantrag.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-selbstvertreter-sozialgericht-heizkosten-eilantrag.zip) (Akte Selbstvertreter Sozialgericht — Heizkosten und Eilantrag) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`selbstvertreter-sozialgericht-werkstatt.md`](./selbstvertreter-sozialgericht-werkstatt.md) (im Browser ansehen)
-- [`selbstvertreter-sozialgericht-schnellstart.md`](./selbstvertreter-sozialgericht-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 ## Für wen ist das?
 
 Sie sind versichert oder beziehen Sozialleistungen. Sie haben einen Bescheid bekommen und sind nicht einverstanden. Sie haben keinen Anwalt oder können sich keinen leisten. Dieses Plugin hilft Ihnen Schritt für Schritt.

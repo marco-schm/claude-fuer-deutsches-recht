@@ -1,5 +1,23 @@
 # Fachanwalt Vergaberecht
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`fachanwalt-vergaberecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-vergaberecht-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`fachanwalt-vergaberecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-vergaberecht-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`fachanwalt-vergaberecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-vergaberecht.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung.zip) (IT-SIG-2-Vergabe Landeshauptstadt Schwerin – Nachprüfungsverfahren VK) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`fachanwalt-vergaberecht-werkstatt.md`](./fachanwalt-vergaberecht-werkstatt.md) (im Browser ansehen)
+- [`fachanwalt-vergaberecht-schnellstart.md`](./fachanwalt-vergaberecht-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -21,25 +39,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **IT-SIG-2-Vergabe Landeshauptstadt Schwerin – Nachprüfungsverfahren VK** (`it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung`) | [Gesamt-PDF lesen](../testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/gesamt-pdf/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung_gesamt.pdf) | [`testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Fachanwalt Vergaberecht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`fachanwalt-vergaberecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-vergaberecht-werkstatt.zip) |
-| **Fachanwalt Vergaberecht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`fachanwalt-vergaberecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-vergaberecht-schnellstart.zip) |
-| **Fachanwalt Vergaberecht-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`fachanwalt-vergaberecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-vergaberecht.zip) |
-| **Fachanwalt Vergaberecht-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung.zip) (IT-SIG-2-Vergabe Landeshauptstadt Schwerin – Nachprüfungsverfahren VK) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`fachanwalt-vergaberecht-werkstatt.md`](./fachanwalt-vergaberecht-werkstatt.md) (im Browser ansehen)
-- [`fachanwalt-vergaberecht-schnellstart.md`](./fachanwalt-vergaberecht-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Plugin Fachanwalt für Vergaberecht. Orientierung GWB §§ 97 ff. VgV UVgO SektVO KonzVgV VOB-A EU-Vergabe-RL Nachprüfungsverfahren Vergabekammer OLG-Vergabesenat. Es führt nicht nur zur abstrakten Rechtsprüfung, sondern auch zu vorgerichtlicher Abhilfe, Rüge, Nachprüfungsantrag, Sachverhaltsvortrag vor der Vergabekammer, Akteneinsicht, Zurückversetzung, Neuwertung, Änderung der Vergabeunterlagen, Vergleich und sofortiger Beschwerde. Schnittstellen fachanwalt-bau-architektenrecht.
 
 ## Installation in Claude Code

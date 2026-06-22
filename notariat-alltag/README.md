@@ -1,5 +1,23 @@
 # Notariat im Alltag
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`notariat-alltag-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/notariat-alltag-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`notariat-alltag-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/notariat-alltag-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`notariat-alltag.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/notariat-alltag.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-notariat-alltag-waldwinkel-gmbh-immobilien-erbfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-notariat-alltag-waldwinkel-gmbh-immobilien-erbfall.zip) (Akte Waldwinkel: GmbH-Anteile, Hofgrundstück, Erbfolge und drei Registerrückfragen) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`notariat-alltag-werkstatt.md`](./notariat-alltag-werkstatt.md) (im Browser ansehen)
+- [`notariat-alltag-schnellstart.md`](./notariat-alltag-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -21,25 +39,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Akte Waldwinkel: GmbH-Anteile, Hofgrundstück, Erbfolge und drei Registerrückfragen** (`notariat-alltag-waldwinkel-gmbh-immobilien-erbfall`) | [Gesamt-PDF lesen](../testakten/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall/gesamt-pdf/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall_gesamt.pdf) | [`testakte-notariat-alltag-waldwinkel-gmbh-immobilien-erbfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-notariat-alltag-waldwinkel-gmbh-immobilien-erbfall.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Notariat im Alltag-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`notariat-alltag-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/notariat-alltag-werkstatt.zip) |
-| **Notariat im Alltag-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`notariat-alltag-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/notariat-alltag-schnellstart.zip) |
-| **Notariat im Alltag-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`notariat-alltag.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/notariat-alltag.zip) |
-| **Notariat im Alltag-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-notariat-alltag-waldwinkel-gmbh-immobilien-erbfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-notariat-alltag-waldwinkel-gmbh-immobilien-erbfall.zip) (Akte Waldwinkel: GmbH-Anteile, Hofgrundstück, Erbfolge und drei Registerrückfragen) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`notariat-alltag-werkstatt.md`](./notariat-alltag-werkstatt.md) (im Browser ansehen)
-- [`notariat-alltag-schnellstart.md`](./notariat-alltag-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Dieses Plugin ist die Werkbank für das wuselige Notariat: Es sortiert Vorgänge, macht Vollzugsschritte sichtbar, trennt Beurkundung, Beglaubigung, Register- und Grundbuchvollzug und hilft, aus unvollständigen Unterlagen belastbare To-do-Listen zu bauen.
 
 ## Arbeitsweise

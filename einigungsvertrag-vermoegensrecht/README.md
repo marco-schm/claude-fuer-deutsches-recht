@@ -1,5 +1,23 @@
 # Einigungsvertrag und Vermögensrecht
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`einigungsvertrag-vermoegensrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einigungsvertrag-vermoegensrecht-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`einigungsvertrag-vermoegensrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einigungsvertrag-vermoegensrecht-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`einigungsvertrag-vermoegensrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einigungsvertrag-vermoegensrecht.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau.zip) (Einheitsvertragsakte Lindenau) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`einigungsvertrag-vermoegensrecht-werkstatt.md`](./einigungsvertrag-vermoegensrecht-werkstatt.md) (im Browser ansehen)
+- [`einigungsvertrag-vermoegensrecht-schnellstart.md`](./einigungsvertrag-vermoegensrecht-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -21,25 +39,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Einheitsvertragsakte Lindenau** (`einigungsvertrag-treuhand-mauergrundstueck-lindenau`) | [Gesamt-PDF lesen](../testakten/einigungsvertrag-treuhand-mauergrundstueck-lindenau/gesamt-pdf/einigungsvertrag-treuhand-mauergrundstueck-lindenau_gesamt.pdf) | [`testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Einigungsvertrag und Vermögensrecht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`einigungsvertrag-vermoegensrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einigungsvertrag-vermoegensrecht-werkstatt.zip) |
-| **Einigungsvertrag und Vermögensrecht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`einigungsvertrag-vermoegensrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einigungsvertrag-vermoegensrecht-schnellstart.zip) |
-| **Einigungsvertrag und Vermögensrecht-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`einigungsvertrag-vermoegensrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einigungsvertrag-vermoegensrecht.zip) |
-| **Einigungsvertrag und Vermögensrecht-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau.zip) (Einheitsvertragsakte Lindenau) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`einigungsvertrag-vermoegensrecht-werkstatt.md`](./einigungsvertrag-vermoegensrecht-werkstatt.md) (im Browser ansehen)
-- [`einigungsvertrag-vermoegensrecht-schnellstart.md`](./einigungsvertrag-vermoegensrecht-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Dieses Plugin ordnet die langen Schatten der deutschen Einheit: Einigungsvertrag, Art. 21/22, Treuhand, Vermögensgesetz, Bodenreform, Mauergrundstücke, offene Vermögensfragen und heutige Register-/Restitutionsprobleme.
 
 ## Start

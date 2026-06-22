@@ -1,5 +1,23 @@
 # Römisches Recht
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`roemisches-recht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisches-recht-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`roemisches-recht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisches-recht-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`roemisches-recht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisches-recht.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-roemisches-recht-kauf-besitz-erbschaft-pergamentfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-roemisches-recht-kauf-besitz-erbschaft-pergamentfall.zip) (Römischrechtliche Fallakte Aventinus) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`roemisches-recht-werkstatt.md`](./roemisches-recht-werkstatt.md) (im Browser ansehen)
+- [`roemisches-recht-schnellstart.md`](./roemisches-recht-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -21,25 +39,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Römischrechtliche Fallakte Aventinus** (`roemisches-recht-kauf-besitz-erbschaft-pergamentfall`) | [Gesamt-PDF lesen](../testakten/roemisches-recht-kauf-besitz-erbschaft-pergamentfall/gesamt-pdf/roemisches-recht-kauf-besitz-erbschaft-pergamentfall_gesamt.pdf) | [`testakte-roemisches-recht-kauf-besitz-erbschaft-pergamentfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-roemisches-recht-kauf-besitz-erbschaft-pergamentfall.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Römisches Recht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`roemisches-recht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisches-recht-werkstatt.zip) |
-| **Römisches Recht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`roemisches-recht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisches-recht-schnellstart.zip) |
-| **Römisches Recht-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`roemisches-recht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisches-recht.zip) |
-| **Römisches Recht-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-roemisches-recht-kauf-besitz-erbschaft-pergamentfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-roemisches-recht-kauf-besitz-erbschaft-pergamentfall.zip) (Römischrechtliche Fallakte Aventinus) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`roemisches-recht-werkstatt.md`](./roemisches-recht-werkstatt.md) (im Browser ansehen)
-- [`roemisches-recht-schnellstart.md`](./roemisches-recht-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Römisches Recht als begriffliche Werkstatt: Zwölftafelgesetz, klassische Institute, justinianische Kompilation und byzantinische Fortbildung verstehen, Falltypen trennen und moderne Dogmatik nicht vorschnell hineindeuten. Der Grundton ist praktisch: Nicht zuerst ein abstraktes Gesetzbuch suchen, sondern fragen, welche **actio**, **exceptio**, Formel oder prätorische Schutztechnik den Fall trägt.
 
 Dieses Plugin führt durch **Römisches Recht** von der archaischen Zwölftafeltradition über Klassik und Justinian bis zum byzantinischen Recht. Es erzeugt je nach Bedarf Memos, Quellenmatrizen, Synopsen, Vertrags-/Klauselbausteine, Risiko-Dashboards, Unterrichtsbausteine oder Entscheidungsvermerke. Der allgemeine Skill startet schnell und schlägt anschließend die passenden Spezialskills vor.

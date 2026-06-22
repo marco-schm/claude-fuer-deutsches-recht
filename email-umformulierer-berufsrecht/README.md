@@ -1,5 +1,23 @@
 # E-Mail-Umformulierer (Berufsrechtskonform)
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`email-umformulierer-berufsrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/email-umformulierer-berufsrecht-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`email-umformulierer-berufsrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/email-umformulierer-berufsrecht-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`email-umformulierer-berufsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/email-umformulierer-berufsrecht.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-eskalations-emails-mandantenstreit-aufhauser-kanzlei-rosenmuehle.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-eskalations-emails-mandantenstreit-aufhauser-kanzlei-rosenmuehle.zip) (Eskalations-E-Mails Mandantenstreit — Erbengemeinschaft Aufhauser-Trenkler vs. Kanzlei Rosenmühle & Partner) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`email-umformulierer-berufsrecht-werkstatt.md`](./email-umformulierer-berufsrecht-werkstatt.md) (im Browser ansehen)
+- [`email-umformulierer-berufsrecht-schnellstart.md`](./email-umformulierer-berufsrecht-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -21,25 +39,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Eskalations-E-Mails Mandantenstreit — Erbengemeinschaft Aufhauser-Trenkler vs. Kanzlei Rosenmühle & Partner** (`eskalations-emails-mandantenstreit-aufhauser-kanzlei-rosenmuehle`) | [Gesamt-PDF lesen](../testakten/eskalations-emails-mandantenstreit-aufhauser-kanzlei-rosenmuehle/gesamt-pdf/eskalations-emails-mandantenstreit-aufhauser-kanzlei-rosenmuehle_gesamt.pdf) | [`testakte-eskalations-emails-mandantenstreit-aufhauser-kanzlei-rosenmuehle.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-eskalations-emails-mandantenstreit-aufhauser-kanzlei-rosenmuehle.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **E-Mail-Umformulierer (Berufsrechtskonform)-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`email-umformulierer-berufsrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/email-umformulierer-berufsrecht-werkstatt.zip) |
-| **E-Mail-Umformulierer (Berufsrechtskonform)-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`email-umformulierer-berufsrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/email-umformulierer-berufsrecht-schnellstart.zip) |
-| **E-Mail-Umformulierer (Berufsrechtskonform)-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`email-umformulierer-berufsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/email-umformulierer-berufsrecht.zip) |
-| **E-Mail-Umformulierer (Berufsrechtskonform)-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-eskalations-emails-mandantenstreit-aufhauser-kanzlei-rosenmuehle.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-eskalations-emails-mandantenstreit-aufhauser-kanzlei-rosenmuehle.zip) (Eskalations-E-Mails Mandantenstreit — Erbengemeinschaft Aufhauser-Trenkler vs. Kanzlei Rosenmühle & Partner) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`email-umformulierer-berufsrecht-werkstatt.md`](./email-umformulierer-berufsrecht-werkstatt.md) (im Browser ansehen)
-- [`email-umformulierer-berufsrecht-schnellstart.md`](./email-umformulierer-berufsrecht-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Formuliert unfreundliche, emotionale oder unsachliche E-Mails in höfliche, sachliche und berufsrechtskonform formulierte Texte um. Der Fokus liegt auf dem anwaltlichen Berufsrecht (BRAO/BORA), mit spezialisierten Modi für Steuerberater (StBerG/BOStB), Notare (BNotO) und allgemeine berufliche Korrespondenz.
 
 ## Enthaltene Skills

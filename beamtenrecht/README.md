@@ -1,5 +1,23 @@
 # Beamtenrecht
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`beamtenrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/beamtenrecht-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`beamtenrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/beamtenrecht-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`beamtenrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/beamtenrecht.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung.zip) (Auslandseinsatz Mexiko - Wasserbau, Laufbahn und Besoldung); [`testakte-beamtenrecht-befoerderungskaskade-landesamt-weserbruecke.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-befoerderungskaskade-landesamt-weserbruecke.zip) (Landesamt Weserbrücke - Beförderungskaskade und Wunschkandidat); [`testakte-beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei.zip) (Hafenpolizei - Dienstunfall, Burnout und Wiedereingliederung); [`testakte-beamtenrecht-richterlaufbahn-besoldung-mondsee.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-richterlaufbahn-besoldung-mondsee.zip) (Dr. Ottilie Mondsee und die verschwundene R-Besoldung); [`testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit.zip) (Schulleitung Gymnasium am Maschsee-Nord Hannover - Konkurrentenstreit); [`testakte-hochschulrecht-berufung-senat-drittmittel-campus-rheinbogen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-hochschulrecht-berufung-senat-drittmittel-campus-rheinbogen.zip) (Akte Campus Rheinbogen - Berufung, Senat und Drittmittel); [`testakte-krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel.zip) (Akte Lichtenberg: Hilfsmittel, Krankengeld, PKV-Tarifwechsel und Beihilfechaos) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`beamtenrecht-werkstatt.md`](./beamtenrecht-werkstatt.md) (im Browser ansehen)
+- [`beamtenrecht-schnellstart.md`](./beamtenrecht-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -27,25 +45,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Akte Lichtenberg: Hilfsmittel, Krankengeld, PKV-Tarifwechsel und Beihilfechaos** (`krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel`) | [Gesamt-PDF lesen](../testakten/krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel/gesamt-pdf/krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel_gesamt.pdf) | [`testakte-krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Beamtenrecht-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`beamtenrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/beamtenrecht-werkstatt.zip) |
-| **Beamtenrecht-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`beamtenrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/beamtenrecht-schnellstart.zip) |
-| **Beamtenrecht-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`beamtenrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/beamtenrecht.zip) |
-| **Beamtenrecht-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung.zip) (Auslandseinsatz Mexiko - Wasserbau, Laufbahn und Besoldung); [`testakte-beamtenrecht-befoerderungskaskade-landesamt-weserbruecke.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-befoerderungskaskade-landesamt-weserbruecke.zip) (Landesamt Weserbrücke - Beförderungskaskade und Wunschkandidat); [`testakte-beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei.zip) (Hafenpolizei - Dienstunfall, Burnout und Wiedereingliederung); [`testakte-beamtenrecht-richterlaufbahn-besoldung-mondsee.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-richterlaufbahn-besoldung-mondsee.zip) (Dr. Ottilie Mondsee und die verschwundene R-Besoldung); [`testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit.zip) (Schulleitung Gymnasium am Maschsee-Nord Hannover - Konkurrentenstreit); [`testakte-hochschulrecht-berufung-senat-drittmittel-campus-rheinbogen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-hochschulrecht-berufung-senat-drittmittel-campus-rheinbogen.zip) (Akte Campus Rheinbogen - Berufung, Senat und Drittmittel); [`testakte-krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel.zip) (Akte Lichtenberg: Hilfsmittel, Krankengeld, PKV-Tarifwechsel und Beihilfechaos) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`beamtenrecht-werkstatt.md`](./beamtenrecht-werkstatt.md) (im Browser ansehen)
-- [`beamtenrecht-schnellstart.md`](./beamtenrecht-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Beamtenrecht für Bund, Länder und Richterdienst: Status, Laufbahn, Besoldung, Versorgung, Konkurrentenstreit, Disziplinarrecht, Dienstunfähigkeit, Richterlaufbahn, Landesrecht und verständliche Mandatsführung.
 
 ## Wofür dieses Plugin da ist

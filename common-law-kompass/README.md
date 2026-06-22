@@ -1,5 +1,23 @@
 # Common-Law-Kompass für deutsche Wirtschaftsjuristen
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`common-law-kompass-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/common-law-kompass-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`common-law-kompass-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/common-law-kompass-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`common-law-kompass.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/common-law-kompass.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-common-law-kompass-crossborder-contract.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-common-law-kompass-crossborder-contract.zip) (Akte Common-Law-Kompass: Crossborder Supply & License Agreement) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`common-law-kompass-werkstatt.md`](./common-law-kompass-werkstatt.md) (im Browser ansehen)
+- [`common-law-kompass-schnellstart.md`](./common-law-kompass-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -21,25 +39,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Akte Common-Law-Kompass: Crossborder Supply & License Agreement** (`common-law-kompass-crossborder-contract`) | [Gesamt-PDF lesen](../testakten/common-law-kompass-crossborder-contract/gesamt-pdf/common-law-kompass-crossborder-contract_gesamt.pdf) | [`testakte-common-law-kompass-crossborder-contract.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-common-law-kompass-crossborder-contract.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Common-Law-Kompass für deutsche Wirtschaftsjuristen-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`common-law-kompass-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/common-law-kompass-werkstatt.zip) |
-| **Common-Law-Kompass für deutsche Wirtschaftsjuristen-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`common-law-kompass-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/common-law-kompass-schnellstart.zip) |
-| **Common-Law-Kompass für deutsche Wirtschaftsjuristen-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`common-law-kompass.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/common-law-kompass.zip) |
-| **Common-Law-Kompass für deutsche Wirtschaftsjuristen-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-common-law-kompass-crossborder-contract.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-common-law-kompass-crossborder-contract.zip) (Akte Common-Law-Kompass: Crossborder Supply & License Agreement) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`common-law-kompass-werkstatt.md`](./common-law-kompass-werkstatt.md) (im Browser ansehen)
-- [`common-law-kompass-schnellstart.md`](./common-law-kompass-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Großes, freistehendes Plugin für deutsche Anwälte im Wirtschaftsrecht, die mit Common Law, English Law, US Law, internationalen Verträgen, bilingualen Fassungen und gemischtem Business-English arbeiten. Es verhindert, dass deutsche Rechtsbegriffe gedankenlos übersetzt werden, und markiert typische False Friends wie Bürgschaft, Garantie, Gewährleistung, Rücktritt, Vertretung, Consideration, representations, warranties, covenants, indemnity, damages, equity oder discovery.
 
 Dieses Plugin ist **vollständig freistehend**. Es benötigt keine anderen Plugins, keine externen Agenten und keine Kanzleisoftware. Wenn keine Datenbank, kein DMS, kein Übersetzungstool, keine Rechercheplattform oder kein Behördenzugang angeschlossen ist, arbeitet es mit manuellen Uploads oder einem ausdrücklich markierten Simulationsmodus.

@@ -1,5 +1,23 @@
 # Fachanwalt Gewerblicher Rechtsschutz
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Grosser Prompt (Werkstatt) | ZIP | [`fachanwalt-gewerblicher-rechtsschutz-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-gewerblicher-rechtsschutz-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`fachanwalt-gewerblicher-rechtsschutz-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-gewerblicher-rechtsschutz-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`fachanwalt-gewerblicher-rechtsschutz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-gewerblicher-rechtsschutz.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein.zip) (Markenstreit 3D-Marke Rosenbluete — Leichtenstein Gartenkultur vs. FlowerWorld AG u. a.); [`testakte-patentrecht-erfindungsakten-ravenstein-moll.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-patentrecht-erfindungsakten-ravenstein-moll.zip) (Patentrecht — Erfindungsakten Ravenstein & Moll) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`fachanwalt-gewerblicher-rechtsschutz-werkstatt.md`](./fachanwalt-gewerblicher-rechtsschutz-werkstatt.md) (im Browser ansehen)
+- [`fachanwalt-gewerblicher-rechtsschutz-schnellstart.md`](./fachanwalt-gewerblicher-rechtsschutz-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -22,25 +40,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Patentrecht — Erfindungsakten Ravenstein & Moll** (`patentrecht-erfindungsakten-ravenstein-moll`) | [Gesamt-PDF lesen](../testakten/patentrecht-erfindungsakten-ravenstein-moll/gesamt-pdf/patentrecht-erfindungsakten-ravenstein-moll_gesamt.pdf) | [`testakte-patentrecht-erfindungsakten-ravenstein-moll.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-patentrecht-erfindungsakten-ravenstein-moll.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Fachanwalt Gewerblicher Rechtsschutz-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`fachanwalt-gewerblicher-rechtsschutz-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-gewerblicher-rechtsschutz-werkstatt.zip) |
-| **Fachanwalt Gewerblicher Rechtsschutz-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`fachanwalt-gewerblicher-rechtsschutz-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-gewerblicher-rechtsschutz-schnellstart.zip) |
-| **Fachanwalt Gewerblicher Rechtsschutz-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`fachanwalt-gewerblicher-rechtsschutz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-gewerblicher-rechtsschutz.zip) |
-| **Fachanwalt Gewerblicher Rechtsschutz-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein.zip) (Markenstreit 3D-Marke Rosenbluete — Leichtenstein Gartenkultur vs. FlowerWorld AG u. a.); [`testakte-patentrecht-erfindungsakten-ravenstein-moll.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-patentrecht-erfindungsakten-ravenstein-moll.zip) (Patentrecht — Erfindungsakten Ravenstein & Moll) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`fachanwalt-gewerblicher-rechtsschutz-werkstatt.md`](./fachanwalt-gewerblicher-rechtsschutz-werkstatt.md) (im Browser ansehen)
-- [`fachanwalt-gewerblicher-rechtsschutz-schnellstart.md`](./fachanwalt-gewerblicher-rechtsschutz-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG, DesignG, UWG, PatG/GebrMG, UrhG-Bezüge. Markenanmeldung DPMA und EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfügung, Verletzungsklage, lizenzanaloger Schadensersatz.
 
 ## Installation in Claude Code

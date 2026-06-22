@@ -7,12 +7,12 @@ Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzba
 
 Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
 
-| Datei | Wofür | Direkt-Download |
+| Was | Format | Direkt-Download |
 | --- | --- | --- |
-| **Forderungsmanagement — Klagewerkstatt-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`forderungsmanagement-klagewerkstatt-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/forderungsmanagement-klagewerkstatt-werkstatt.zip) |
-| **Forderungsmanagement — Klagewerkstatt-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`forderungsmanagement-klagewerkstatt-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/forderungsmanagement-klagewerkstatt-schnellstart.zip) |
-| **Forderungsmanagement — Klagewerkstatt-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`forderungsmanagement-klagewerkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/forderungsmanagement-klagewerkstatt.zip) |
-| **Forderungsmanagement — Klagewerkstatt-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-inkasso-zahlungsklage-modefuchs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-zahlungsklage-modefuchs.zip) (Akte Inkasso-Zahlungsklage ModeFuchs) |
+| Grosser Prompt (Werkstatt) | ZIP | [`forderungsmanagement-klagewerkstatt-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/forderungsmanagement-klagewerkstatt-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`forderungsmanagement-klagewerkstatt-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/forderungsmanagement-klagewerkstatt-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`forderungsmanagement-klagewerkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/forderungsmanagement-klagewerkstatt.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-inkasso-zahlungsklage-modefuchs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-zahlungsklage-modefuchs.zip) (Akte Inkasso-Zahlungsklage ModeFuchs) |
 
 Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`forderungsmanagement-klagewerkstatt-werkstatt.md`](./forderungsmanagement-klagewerkstatt-werkstatt.md) (im Browser ansehen)
