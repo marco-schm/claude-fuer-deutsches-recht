@@ -31,7 +31,8 @@ Strukturierter Entscheidungsvorschlag für den Richter: Tenor-Vorschlag, tragend
 
 ## Rolle
 
-Amtsrichter in Zivilsachen (Streitwert bis 10.000 Euro, sonstige Zuständigkeiten nach Paragraf 23 GVG)
+
+Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis 5000 Euro Streitwert, Mietsachen über Wohnraum ohne Wertgrenze, weitere Spezialzuweisungen). Schriftliches Vorverfahren, Güteverhandlung, Beweisaufnahme, Urteil.
 
 ## Rechtsrahmen
 
@@ -49,13 +50,6 @@ ZPO, BGB, GVG, RPflG, GKG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -117,7 +111,8 @@ Prüfung Zuständigkeit (Paragraf 23 GVG sachlich, Paragrafen 12 ff. ZPO örtlic
 
 ## Rolle
 
-Amtsrichter in Zivilsachen (Streitwert bis 10.000 Euro, sonstige Zuständigkeiten nach Paragraf 23 GVG)
+
+Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis 5000 Euro Streitwert, Mietsachen über Wohnraum ohne Wertgrenze, weitere Spezialzuweisungen). Schriftliches Vorverfahren, Güteverhandlung, Beweisaufnahme, Urteil.
 
 ## Rechtsrahmen
 
@@ -135,13 +130,6 @@ ZPO, BGB, GVG, RPflG, GKG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -203,7 +191,8 @@ Echte Relation: Klägerstation (Schluessigkeit der Anspruchsgrundlage), Beklagte
 
 ## Rolle
 
-Amtsrichter in Zivilsachen (Streitwert bis 10.000 Euro, sonstige Zuständigkeiten nach Paragraf 23 GVG)
+
+Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis 5000 Euro Streitwert, Mietsachen über Wohnraum ohne Wertgrenze, weitere Spezialzuweisungen). Schriftliches Vorverfahren, Güteverhandlung, Beweisaufnahme, Urteil.
 
 ## Rechtsrahmen
 
@@ -221,13 +210,6 @@ ZPO, BGB, GVG, RPflG, GKG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -289,7 +271,8 @@ Urteilsentwurf nach Paragraf 313 ZPO: Rubrum, Tenor, Tatbestand (gestraffter Vor
 
 ## Rolle
 
-Amtsrichter in Zivilsachen (Streitwert bis 10.000 Euro, sonstige Zuständigkeiten nach Paragraf 23 GVG)
+
+Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis 5000 Euro Streitwert, Mietsachen über Wohnraum ohne Wertgrenze, weitere Spezialzuweisungen). Schriftliches Vorverfahren, Güteverhandlung, Beweisaufnahme, Urteil.
 
 ## Rechtsrahmen
 
@@ -307,13 +290,6 @@ ZPO, BGB, GVG, RPflG, GKG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -375,7 +351,8 @@ Prozessvergleich Paragraf 794 Abs. 1 Nr. 1 ZPO, Vergleich im Termin, schriftlich
 
 ## Rolle
 
-Amtsrichter in Zivilsachen (Streitwert bis 10.000 Euro, sonstige Zuständigkeiten nach Paragraf 23 GVG)
+
+Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis 5000 Euro Streitwert, Mietsachen über Wohnraum ohne Wertgrenze, weitere Spezialzuweisungen). Schriftliches Vorverfahren, Güteverhandlung, Beweisaufnahme, Urteil.
 
 ## Rechtsrahmen
 
@@ -393,13 +370,6 @@ ZPO, BGB, GVG, RPflG, GKG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -461,7 +431,8 @@ Beweisbeschluss formulieren (Paragrafen 358-360 ZPO), Zeugenladung, Sachverstän
 
 ## Rolle
 
-Amtsrichter in Zivilsachen (Streitwert bis 10.000 Euro, sonstige Zuständigkeiten nach Paragraf 23 GVG)
+
+Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis 5000 Euro Streitwert, Mietsachen über Wohnraum ohne Wertgrenze, weitere Spezialzuweisungen). Schriftliches Vorverfahren, Güteverhandlung, Beweisaufnahme, Urteil.
 
 ## Rechtsrahmen
 
@@ -479,13 +450,6 @@ ZPO, BGB, GVG, RPflG, GKG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -547,7 +511,8 @@ Tenor formulieren (Hauptsache, Nebenforderungen, Zinsen, Kosten Paragraf 91 ZPO,
 
 ## Rolle
 
-Amtsrichter in Zivilsachen (Streitwert bis 10.000 Euro, sonstige Zuständigkeiten nach Paragraf 23 GVG)
+
+Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis 5000 Euro Streitwert, Mietsachen über Wohnraum ohne Wertgrenze, weitere Spezialzuweisungen). Schriftliches Vorverfahren, Güteverhandlung, Beweisaufnahme, Urteil.
 
 ## Rechtsrahmen
 
@@ -565,13 +530,6 @@ ZPO, BGB, GVG, RPflG, GKG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -633,7 +591,8 @@ Versaeumnisurteil Paragrafen 330-347 ZPO, Anerkenntnisurteil Paragraf 307 ZPO, V
 
 ## Rolle
 
-Amtsrichter in Zivilsachen (Streitwert bis 10.000 Euro, sonstige Zuständigkeiten nach Paragraf 23 GVG)
+
+Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis 5000 Euro Streitwert, Mietsachen über Wohnraum ohne Wertgrenze, weitere Spezialzuweisungen). Schriftliches Vorverfahren, Güteverhandlung, Beweisaufnahme, Urteil.
 
 ## Rechtsrahmen
 
@@ -651,13 +610,6 @@ ZPO, BGB, GVG, RPflG, GKG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -719,7 +671,8 @@ Strukturierte Erstdurchsicht: Parteien, Antrag, Lebenssachverhalt, Anspruchsgrun
 
 ## Rolle
 
-Amtsrichter in Zivilsachen (Streitwert bis 10.000 Euro, sonstige Zuständigkeiten nach Paragraf 23 GVG)
+
+Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis 5000 Euro Streitwert, Mietsachen über Wohnraum ohne Wertgrenze, weitere Spezialzuweisungen). Schriftliches Vorverfahren, Güteverhandlung, Beweisaufnahme, Urteil.
 
 ## Rechtsrahmen
 
@@ -737,13 +690,6 @@ ZPO, BGB, GVG, RPflG, GKG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -805,7 +751,8 @@ Streitwertbestimmung Paragrafen 3-9 ZPO, GKG-Anlage 1 (KV 1210 und 1211 und 1220
 
 ## Rolle
 
-Amtsrichter in Zivilsachen (Streitwert bis 10.000 Euro, sonstige Zuständigkeiten nach Paragraf 23 GVG)
+
+Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis 5000 Euro Streitwert, Mietsachen über Wohnraum ohne Wertgrenze, weitere Spezialzuweisungen). Schriftliches Vorverfahren, Güteverhandlung, Beweisaufnahme, Urteil.
 
 ## Rechtsrahmen
 
@@ -823,13 +770,6 @@ ZPO, BGB, GVG, RPflG, GKG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 

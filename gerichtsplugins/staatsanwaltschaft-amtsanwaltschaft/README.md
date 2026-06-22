@@ -13,8 +13,8 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 ## Inhalt
 
 - **28 Skills** (siehe `skills/`)
-- **Megaprompt** (`MEGAPROMPT.md`)
-- **Miniprompt** (`MINIPROMPT.md`)
+- **Megaprompt** (`staatsanwaltschaft-amtsanwaltschaft-megaprompt.md`)
+- **Miniprompt** (`staatsanwaltschaft-amtsanwaltschaft-miniprompt.md`)
 - **Testakten** (`testakte/README.md`) — aus staatsanwaltschaftlicher Sicht
 
 ## Skill-Liste

@@ -13,8 +13,8 @@ ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
 ## Inhalt
 
 - **20 Skills** (siehe `skills/`)
-- **Megaprompt** (`MEGAPROMPT.md`)
-- **Miniprompt** (`MINIPROMPT.md`)
+- **Megaprompt** (`relationstechnik-zivilrecht-megaprompt.md`)
+- **Miniprompt** (`relationstechnik-zivilrecht-miniprompt.md`)
 - **Testakte** (`testakte/README.md`) — aus Richtersicht
 
 ## Skill-Liste

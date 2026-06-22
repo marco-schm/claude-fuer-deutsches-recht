@@ -13,8 +13,8 @@ InsO, StaRUG, EuInsVO 2015/848, ZPO, GVG, RPflG, GKG, InsVV
 ## Inhalt
 
 - **10 Skills** (siehe `skills/`)
-- **Megaprompt** (`MEGAPROMPT.md`)
-- **Miniprompt** (`MINIPROMPT.md`)
+- **Megaprompt** (`richter-amtsgericht-insolvenz-restrukturierung-megaprompt.md`)
+- **Miniprompt** (`richter-amtsgericht-insolvenz-restrukturierung-miniprompt.md`)
 - **Testakte** (`testakte/README.md`) — aus Richtersicht
 
 ## Skill-Liste

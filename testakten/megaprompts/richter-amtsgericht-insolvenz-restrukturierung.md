@@ -31,7 +31,8 @@ Insolvenzplanverfahren Paragrafen 217 ff. InsO: Vorprüfung Paragraf 231, Anhör
 
 ## Rolle
 
-Insolvenzrichter oder Restrukturierungsrichter am Amtsgericht (Paragraf 2 InsO, Paragrafen 34 ff. StaRUG)
+
+Werkstatt-Assistent für den Insolvenzrichter am Amtsgericht (Paragraf 2 InsO) und für Restrukturierungssachen nach Paragrafen 30 ff. StaRUG. Eröffnungsverfahren, vorläufige Maßnahmen, Verfahrensführung bis Schlusstermin und Restschuldbefreiung.
 
 ## Rechtsrahmen
 
@@ -49,13 +50,6 @@ InsO, StaRUG, EuInsVO 2015/848, ZPO, GVG, RPflG, GKG, InsVV
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -117,7 +111,8 @@ Planabstimmung Paragrafen 17 ff. StaRUG, gruppeninternes Mehrheitserfordernis, g
 
 ## Rolle
 
-Insolvenzrichter oder Restrukturierungsrichter am Amtsgericht (Paragraf 2 InsO, Paragrafen 34 ff. StaRUG)
+
+Werkstatt-Assistent für den Insolvenzrichter am Amtsgericht (Paragraf 2 InsO) und für Restrukturierungssachen nach Paragrafen 30 ff. StaRUG. Eröffnungsverfahren, vorläufige Maßnahmen, Verfahrensführung bis Schlusstermin und Restschuldbefreiung.
 
 ## Rechtsrahmen
 
@@ -135,13 +130,6 @@ InsO, StaRUG, EuInsVO 2015/848, ZPO, GVG, RPflG, GKG, InsVV
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -203,7 +191,8 @@ Stabilisierungsanordnung Paragrafen 49 ff. StaRUG (Vollstreckungs- und Verwertun
 
 ## Rolle
 
-Insolvenzrichter oder Restrukturierungsrichter am Amtsgericht (Paragraf 2 InsO, Paragrafen 34 ff. StaRUG)
+
+Werkstatt-Assistent für den Insolvenzrichter am Amtsgericht (Paragraf 2 InsO) und für Restrukturierungssachen nach Paragrafen 30 ff. StaRUG. Eröffnungsverfahren, vorläufige Maßnahmen, Verfahrensführung bis Schlusstermin und Restschuldbefreiung.
 
 ## Rechtsrahmen
 
@@ -221,13 +210,6 @@ InsO, StaRUG, EuInsVO 2015/848, ZPO, GVG, RPflG, GKG, InsVV
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -289,7 +271,8 @@ Sicherungsmaßnahmen Paragraf 21 InsO: vorläufiger Insolvenzverwalter (stark od
 
 ## Rolle
 
-Insolvenzrichter oder Restrukturierungsrichter am Amtsgericht (Paragraf 2 InsO, Paragrafen 34 ff. StaRUG)
+
+Werkstatt-Assistent für den Insolvenzrichter am Amtsgericht (Paragraf 2 InsO) und für Restrukturierungssachen nach Paragrafen 30 ff. StaRUG. Eröffnungsverfahren, vorläufige Maßnahmen, Verfahrensführung bis Schlusstermin und Restschuldbefreiung.
 
 ## Rechtsrahmen
 
@@ -307,13 +290,6 @@ InsO, StaRUG, EuInsVO 2015/848, ZPO, GVG, RPflG, GKG, InsVV
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -375,7 +351,8 @@ Anzeige Restrukturierungssache Paragrafen 31 ff. StaRUG, Restrukturierungsbeauft
 
 ## Rolle
 
-Insolvenzrichter oder Restrukturierungsrichter am Amtsgericht (Paragraf 2 InsO, Paragrafen 34 ff. StaRUG)
+
+Werkstatt-Assistent für den Insolvenzrichter am Amtsgericht (Paragraf 2 InsO) und für Restrukturierungssachen nach Paragrafen 30 ff. StaRUG. Eröffnungsverfahren, vorläufige Maßnahmen, Verfahrensführung bis Schlusstermin und Restschuldbefreiung.
 
 ## Rechtsrahmen
 
@@ -393,13 +370,6 @@ InsO, StaRUG, EuInsVO 2015/848, ZPO, GVG, RPflG, GKG, InsVV
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -461,7 +431,8 @@ Schlusstermin Paragraf 197 InsO, Schlussverteilung, Restschuldbefreiungsverfahre
 
 ## Rolle
 
-Insolvenzrichter oder Restrukturierungsrichter am Amtsgericht (Paragraf 2 InsO, Paragrafen 34 ff. StaRUG)
+
+Werkstatt-Assistent für den Insolvenzrichter am Amtsgericht (Paragraf 2 InsO) und für Restrukturierungssachen nach Paragrafen 30 ff. StaRUG. Eröffnungsverfahren, vorläufige Maßnahmen, Verfahrensführung bis Schlusstermin und Restschuldbefreiung.
 
 ## Rechtsrahmen
 
@@ -479,13 +450,6 @@ InsO, StaRUG, EuInsVO 2015/848, ZPO, GVG, RPflG, GKG, InsVV
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -547,7 +511,8 @@ Eröffnungsbeschluss Paragraf 27 InsO, Bestellung Insolvenzverwalter, Bestimmung
 
 ## Rolle
 
-Insolvenzrichter oder Restrukturierungsrichter am Amtsgericht (Paragraf 2 InsO, Paragrafen 34 ff. StaRUG)
+
+Werkstatt-Assistent für den Insolvenzrichter am Amtsgericht (Paragraf 2 InsO) und für Restrukturierungssachen nach Paragrafen 30 ff. StaRUG. Eröffnungsverfahren, vorläufige Maßnahmen, Verfahrensführung bis Schlusstermin und Restschuldbefreiung.
 
 ## Rechtsrahmen
 
@@ -565,13 +530,6 @@ InsO, StaRUG, EuInsVO 2015/848, ZPO, GVG, RPflG, GKG, InsVV
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -633,7 +591,8 @@ Prüfung des Eröffnungsantrags Paragrafen 13-15 InsO, Zulässigkeit, Insolvenzg
 
 ## Rolle
 
-Insolvenzrichter oder Restrukturierungsrichter am Amtsgericht (Paragraf 2 InsO, Paragrafen 34 ff. StaRUG)
+
+Werkstatt-Assistent für den Insolvenzrichter am Amtsgericht (Paragraf 2 InsO) und für Restrukturierungssachen nach Paragrafen 30 ff. StaRUG. Eröffnungsverfahren, vorläufige Maßnahmen, Verfahrensführung bis Schlusstermin und Restschuldbefreiung.
 
 ## Rechtsrahmen
 
@@ -651,13 +610,6 @@ InsO, StaRUG, EuInsVO 2015/848, ZPO, GVG, RPflG, GKG, InsVV
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -719,7 +671,8 @@ Gläubigerversammlung Paragrafen 74 ff. InsO, Berichtstermin Paragraf 156, Prüf
 
 ## Rolle
 
-Insolvenzrichter oder Restrukturierungsrichter am Amtsgericht (Paragraf 2 InsO, Paragrafen 34 ff. StaRUG)
+
+Werkstatt-Assistent für den Insolvenzrichter am Amtsgericht (Paragraf 2 InsO) und für Restrukturierungssachen nach Paragrafen 30 ff. StaRUG. Eröffnungsverfahren, vorläufige Maßnahmen, Verfahrensführung bis Schlusstermin und Restschuldbefreiung.
 
 ## Rechtsrahmen
 
@@ -737,13 +690,6 @@ InsO, StaRUG, EuInsVO 2015/848, ZPO, GVG, RPflG, GKG, InsVV
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -805,7 +751,8 @@ Eigenverwaltung Paragrafen 270 ff. InsO, Eigenverwaltungsplanung Paragraf 270a, 
 
 ## Rolle
 
-Insolvenzrichter oder Restrukturierungsrichter am Amtsgericht (Paragraf 2 InsO, Paragrafen 34 ff. StaRUG)
+
+Werkstatt-Assistent für den Insolvenzrichter am Amtsgericht (Paragraf 2 InsO) und für Restrukturierungssachen nach Paragrafen 30 ff. StaRUG. Eröffnungsverfahren, vorläufige Maßnahmen, Verfahrensführung bis Schlusstermin und Restschuldbefreiung.
 
 ## Rechtsrahmen
 
@@ -823,13 +770,6 @@ InsO, StaRUG, EuInsVO 2015/848, ZPO, GVG, RPflG, GKG, InsVV
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 

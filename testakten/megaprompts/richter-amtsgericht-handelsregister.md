@@ -31,7 +31,8 @@ Strukturierter Entscheidungsvorschlag für den Registerrichter oder Rechtspflege
 
 ## Rolle
 
-Registerrichter oder Rechtspfleger für Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Vereinsregister
+
+Werkstatt-Assistent für den Registerrichter am Amtsgericht (Paragraf 8 HGB, Genossenschafts-, Partnerschafts-, Vereinsregister). Arbeit mit dem Rechtspfleger nach Paragraf 17 Nr. 2 RPflG. Eintragung, Zwischenverfügung, Zurückweisung, FamFG-Beschwerde.
 
 ## Rechtsrahmen
 
@@ -49,13 +50,6 @@ HGB, AktG, GmbHG, GenG, PartGG, BGB (Vereinsrecht), FamFG, HRV, RPflG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -117,7 +111,8 @@ Prüfung der Anmeldung: Formerfordernis (notarielle Beglaubigung Paragraf 12 HGB
 
 ## Rolle
 
-Registerrichter oder Rechtspfleger für Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Vereinsregister
+
+Werkstatt-Assistent für den Registerrichter am Amtsgericht (Paragraf 8 HGB, Genossenschafts-, Partnerschafts-, Vereinsregister). Arbeit mit dem Rechtspfleger nach Paragraf 17 Nr. 2 RPflG. Eintragung, Zwischenverfügung, Zurückweisung, FamFG-Beschwerde.
 
 ## Rechtsrahmen
 
@@ -135,13 +130,6 @@ HGB, AktG, GmbHG, GenG, PartGG, BGB (Vereinsrecht), FamFG, HRV, RPflG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -203,7 +191,8 @@ Vereinsregister Paragrafen 55-79 BGB: Anmeldung Paragraf 59, Eintragung, Vorstan
 
 ## Rolle
 
-Registerrichter oder Rechtspfleger für Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Vereinsregister
+
+Werkstatt-Assistent für den Registerrichter am Amtsgericht (Paragraf 8 HGB, Genossenschafts-, Partnerschafts-, Vereinsregister). Arbeit mit dem Rechtspfleger nach Paragraf 17 Nr. 2 RPflG. Eintragung, Zwischenverfügung, Zurückweisung, FamFG-Beschwerde.
 
 ## Rechtsrahmen
 
@@ -221,13 +210,6 @@ HGB, AktG, GmbHG, GenG, PartGG, BGB (Vereinsrecht), FamFG, HRV, RPflG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -289,7 +271,8 @@ Eintragung Geschaeftsfuehrer Paragraf 39 GmbHG, Vorstand Paragraf 81 AktG, Proku
 
 ## Rolle
 
-Registerrichter oder Rechtspfleger für Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Vereinsregister
+
+Werkstatt-Assistent für den Registerrichter am Amtsgericht (Paragraf 8 HGB, Genossenschafts-, Partnerschafts-, Vereinsregister). Arbeit mit dem Rechtspfleger nach Paragraf 17 Nr. 2 RPflG. Eintragung, Zwischenverfügung, Zurückweisung, FamFG-Beschwerde.
 
 ## Rechtsrahmen
 
@@ -307,13 +290,6 @@ HGB, AktG, GmbHG, GenG, PartGG, BGB (Vereinsrecht), FamFG, HRV, RPflG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -375,7 +351,8 @@ Prüfung Kapitalerhoehung GmbH Paragrafen 55-57 GmbHG, AG Paragrafen 182-191 Akt
 
 ## Rolle
 
-Registerrichter oder Rechtspfleger für Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Vereinsregister
+
+Werkstatt-Assistent für den Registerrichter am Amtsgericht (Paragraf 8 HGB, Genossenschafts-, Partnerschafts-, Vereinsregister). Arbeit mit dem Rechtspfleger nach Paragraf 17 Nr. 2 RPflG. Eintragung, Zwischenverfügung, Zurückweisung, FamFG-Beschwerde.
 
 ## Rechtsrahmen
 
@@ -393,13 +370,6 @@ HGB, AktG, GmbHG, GenG, PartGG, BGB (Vereinsrecht), FamFG, HRV, RPflG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -461,7 +431,8 @@ Firmenprüfung Paragrafen 17-37a HGB: Kennzeichnungseignung, Unterscheidbarkeit 
 
 ## Rolle
 
-Registerrichter oder Rechtspfleger für Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Vereinsregister
+
+Werkstatt-Assistent für den Registerrichter am Amtsgericht (Paragraf 8 HGB, Genossenschafts-, Partnerschafts-, Vereinsregister). Arbeit mit dem Rechtspfleger nach Paragraf 17 Nr. 2 RPflG. Eintragung, Zwischenverfügung, Zurückweisung, FamFG-Beschwerde.
 
 ## Rechtsrahmen
 
@@ -479,13 +450,6 @@ HGB, AktG, GmbHG, GenG, PartGG, BGB (Vereinsrecht), FamFG, HRV, RPflG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -547,7 +511,8 @@ Prüfung GmbH-Satzung Paragraf 3 GmbHG: Mindestinhalt, Stammkapital, Geschaeftsf
 
 ## Rolle
 
-Registerrichter oder Rechtspfleger für Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Vereinsregister
+
+Werkstatt-Assistent für den Registerrichter am Amtsgericht (Paragraf 8 HGB, Genossenschafts-, Partnerschafts-, Vereinsregister). Arbeit mit dem Rechtspfleger nach Paragraf 17 Nr. 2 RPflG. Eintragung, Zwischenverfügung, Zurückweisung, FamFG-Beschwerde.
 
 ## Rechtsrahmen
 
@@ -565,13 +530,6 @@ HGB, AktG, GmbHG, GenG, PartGG, BGB (Vereinsrecht), FamFG, HRV, RPflG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -633,7 +591,8 @@ Eintragung Umwandlungen Paragrafen 16 und 19 UmwG: Verschmelzung, Spaltung, Form
 
 ## Rolle
 
-Registerrichter oder Rechtspfleger für Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Vereinsregister
+
+Werkstatt-Assistent für den Registerrichter am Amtsgericht (Paragraf 8 HGB, Genossenschafts-, Partnerschafts-, Vereinsregister). Arbeit mit dem Rechtspfleger nach Paragraf 17 Nr. 2 RPflG. Eintragung, Zwischenverfügung, Zurückweisung, FamFG-Beschwerde.
 
 ## Rechtsrahmen
 
@@ -651,13 +610,6 @@ HGB, AktG, GmbHG, GenG, PartGG, BGB (Vereinsrecht), FamFG, HRV, RPflG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -719,7 +671,8 @@ Zwischenverfuegung Paragraf 382 FamFG, Frist setzen, Hinweisbeschluss; Beschwerd
 
 ## Rolle
 
-Registerrichter oder Rechtspfleger für Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Vereinsregister
+
+Werkstatt-Assistent für den Registerrichter am Amtsgericht (Paragraf 8 HGB, Genossenschafts-, Partnerschafts-, Vereinsregister). Arbeit mit dem Rechtspfleger nach Paragraf 17 Nr. 2 RPflG. Eintragung, Zwischenverfügung, Zurückweisung, FamFG-Beschwerde.
 
 ## Rechtsrahmen
 
@@ -737,13 +690,6 @@ HGB, AktG, GmbHG, GenG, PartGG, BGB (Vereinsrecht), FamFG, HRV, RPflG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -805,7 +751,8 @@ Loeschung wegen Vermögenslosigkeit Paragraf 394 FamFG; Loeschung wegen Mangel d
 
 ## Rolle
 
-Registerrichter oder Rechtspfleger für Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Vereinsregister
+
+Werkstatt-Assistent für den Registerrichter am Amtsgericht (Paragraf 8 HGB, Genossenschafts-, Partnerschafts-, Vereinsregister). Arbeit mit dem Rechtspfleger nach Paragraf 17 Nr. 2 RPflG. Eintragung, Zwischenverfügung, Zurückweisung, FamFG-Beschwerde.
 
 ## Rechtsrahmen
 
@@ -823,13 +770,6 @@ HGB, AktG, GmbHG, GenG, PartGG, BGB (Vereinsrecht), FamFG, HRV, RPflG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 

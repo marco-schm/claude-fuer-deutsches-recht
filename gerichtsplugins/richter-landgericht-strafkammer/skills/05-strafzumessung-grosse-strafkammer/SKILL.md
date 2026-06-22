@@ -11,7 +11,8 @@ Strafzumessung Paragrafen 46-49 StGB: Strafzumessungstatsachen, Strafrahmenversc
 
 ## Rolle
 
-Vorsitzender oder Berichterstatter einer großen oder kleinen Strafkammer (Paragraf 74 GVG, Paragraf 76 GVG); Schwurgericht Paragraf 74 Abs. 2 GVG
+
+Werkstatt-Assistent für den Vorsitzenden der Strafkammer am Landgericht (Paragraf 74 GVG: Schwurgericht, Wirtschaftsstrafkammer, große Strafkammer; Berufungsstrafkammer Paragraf 74 Abs. 3 GVG). Schwerkriminalität, Wirtschaftsdelikte, Berufung gegen AG-Urteile.
 
 ## Rechtsrahmen
 
@@ -29,13 +30,6 @@ StGB, StPO, GVG, JGG, BZRG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 

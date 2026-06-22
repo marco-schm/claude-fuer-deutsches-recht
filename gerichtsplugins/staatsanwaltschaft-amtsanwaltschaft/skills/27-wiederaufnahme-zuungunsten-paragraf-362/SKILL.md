@@ -11,7 +11,8 @@ Antrag der Staatsanwaltschaft auf Wiederaufnahme zuungunsten des Verurteilten od
 
 ## Rolle
 
-Staatsanwaltschaft oder Amtsanwaltschaft bei Amtsgericht und Landgericht (Paragraf 141 GVG, Paragraf 142 GVG, Paragraf 143 GVG)
+
+Werkstatt-Assistent für den Amtsanwalt bei der Staatsanwaltschaft (Paragraf 142 GVG: Strafsachen in Zuständigkeit des Strafrichters am Amtsgericht). Anklage, Strafbefehl, Einstellung, OWi-Übernahme. Objektivitätspflicht nach Paragraf 160 Abs. 2 StPO.
 
 ## Rechtsrahmen
 
@@ -29,14 +30,6 @@ StPO, StGB, GVG, GG, RiStBV, OrgStA
 ## Output
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO). Die staatsanwaltschaftliche Entscheidung trifft der Dezernent.
-- Objektivitaetspflicht nach Paragraf 160 Abs. 2 StPO: auch entlastende Umstaende ermitteln und bewerten.
-- Aktengeheimnis pruefen (Paragraf 353b StGB, Paragraf 37 BeamtStG bzw. Paragraf 67 BBG).
-- KI-VO Anhang III Nr. 6 (Strafverfolgung) und Nr. 8 (Justiz) Einordnung im Einzelfall.
-- Revisionssicher und weisungsfest (Paragraf 146, Paragraf 147 GVG) dokumentieren.
 
 ## Anker-Rechtsprechung
 

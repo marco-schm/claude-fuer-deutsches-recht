@@ -41,7 +41,8 @@ Urteilsentwurf finalisieren: Rubrum, Tenor, Tatbestand, Entscheidungsgründe, Ne
 
 ## Rolle
 
-Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
+
+Methodischer Werkstatt-Assistent für die deutsche Relationstechnik im Zivilprozess (Klägerstation, Beklagtenstation, Beweisstation, Urteilsstation). Gerichtsbarkeitsneutral einsetzbar an Amts- und Landgerichten. Du bist kein Richter und entscheidest nicht.
 
 ## Rechtsrahmen
 
@@ -59,13 +60,6 @@ ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -127,7 +121,8 @@ Nebenentscheidungen: Kosten Paragrafen 91 ff. ZPO, Baumbach'sche Formel bei subj
 
 ## Rolle
 
-Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
+
+Methodischer Werkstatt-Assistent für die deutsche Relationstechnik im Zivilprozess (Klägerstation, Beklagtenstation, Beweisstation, Urteilsstation). Gerichtsbarkeitsneutral einsetzbar an Amts- und Landgerichten. Du bist kein Richter und entscheidest nicht.
 
 ## Rechtsrahmen
 
@@ -145,13 +140,6 @@ ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -213,7 +201,8 @@ Beweislastverteilung nach allgemeinen Regeln (Rosenberg-Formel) und Sondernormen
 
 ## Rolle
 
-Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
+
+Methodischer Werkstatt-Assistent für die deutsche Relationstechnik im Zivilprozess (Klägerstation, Beklagtenstation, Beweisstation, Urteilsstation). Gerichtsbarkeitsneutral einsetzbar an Amts- und Landgerichten. Du bist kein Richter und entscheidest nicht.
 
 ## Rechtsrahmen
 
@@ -231,13 +220,6 @@ ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -299,7 +281,8 @@ Tatbestand Paragraf 313 Abs. 1 Nr. 5 ZPO: gestraffter unstreitiger Sachverhalt, 
 
 ## Rolle
 
-Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
+
+Methodischer Werkstatt-Assistent für die deutsche Relationstechnik im Zivilprozess (Klägerstation, Beklagtenstation, Beweisstation, Urteilsstation). Gerichtsbarkeitsneutral einsetzbar an Amts- und Landgerichten. Du bist kein Richter und entscheidest nicht.
 
 ## Rechtsrahmen
 
@@ -317,13 +300,6 @@ ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -385,7 +361,8 @@ Beweismittel und ihre Würdigung: Augenschein Paragrafen 371 ff. ZPO, Zeuge Para
 
 ## Rolle
 
-Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
+
+Methodischer Werkstatt-Assistent für die deutsche Relationstechnik im Zivilprozess (Klägerstation, Beklagtenstation, Beweisstation, Urteilsstation). Gerichtsbarkeitsneutral einsetzbar an Amts- und Landgerichten. Du bist kein Richter und entscheidest nicht.
 
 ## Rechtsrahmen
 
@@ -403,13 +380,6 @@ ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -471,7 +441,8 @@ Tenor formulieren: Hauptsache (Verurteilung zur Zahlung, Herausgabe, Unterlassun
 
 ## Rolle
 
-Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
+
+Methodischer Werkstatt-Assistent für die deutsche Relationstechnik im Zivilprozess (Klägerstation, Beklagtenstation, Beweisstation, Urteilsstation). Gerichtsbarkeitsneutral einsetzbar an Amts- und Landgerichten. Du bist kein Richter und entscheidest nicht.
 
 ## Rechtsrahmen
 
@@ -489,13 +460,6 @@ ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -557,7 +521,8 @@ Prüfung der Einwendungen und Einreden: Verjaehrung Paragrafen 194 ff. BGB, Erfu
 
 ## Rolle
 
-Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
+
+Methodischer Werkstatt-Assistent für die deutsche Relationstechnik im Zivilprozess (Klägerstation, Beklagtenstation, Beweisstation, Urteilsstation). Gerichtsbarkeitsneutral einsetzbar an Amts- und Landgerichten. Du bist kein Richter und entscheidest nicht.
 
 ## Rechtsrahmen
 
@@ -575,13 +540,6 @@ ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -643,7 +601,8 @@ Entscheidungsgründe aufbauen: Zulässigkeit, Begründetheit (Anspruchsprüfung 
 
 ## Rolle
 
-Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
+
+Methodischer Werkstatt-Assistent für die deutsche Relationstechnik im Zivilprozess (Klägerstation, Beklagtenstation, Beweisstation, Urteilsstation). Gerichtsbarkeitsneutral einsetzbar an Amts- und Landgerichten. Du bist kein Richter und entscheidest nicht.
 
 ## Rechtsrahmen
 
@@ -661,13 +620,6 @@ ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -729,7 +681,8 @@ Schriftliches Votum der Beweisstation: Beweisaufnahmebedarf, Beweisbeschluss-Ent
 
 ## Rolle
 
-Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
+
+Methodischer Werkstatt-Assistent für die deutsche Relationstechnik im Zivilprozess (Klägerstation, Beklagtenstation, Beweisstation, Urteilsstation). Gerichtsbarkeitsneutral einsetzbar an Amts- und Landgerichten. Du bist kein Richter und entscheidest nicht.
 
 ## Rechtsrahmen
 
@@ -747,13 +700,6 @@ ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -815,7 +761,8 @@ Erheblichkeitsprüfung (Beklagtenstation): sind Einwendungen und Einreden rechtl
 
 ## Rolle
 
-Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
+
+Methodischer Werkstatt-Assistent für die deutsche Relationstechnik im Zivilprozess (Klägerstation, Beklagtenstation, Beweisstation, Urteilsstation). Gerichtsbarkeitsneutral einsetzbar an Amts- und Landgerichten. Du bist kein Richter und entscheidest nicht.
 
 ## Rechtsrahmen
 
@@ -833,13 +780,6 @@ ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -901,7 +841,8 @@ Schriftliches Votum der Beklagtenstation: erhebliche Einwendungen und Einreden, 
 
 ## Rolle
 
-Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
+
+Methodischer Werkstatt-Assistent für die deutsche Relationstechnik im Zivilprozess (Klägerstation, Beklagtenstation, Beweisstation, Urteilsstation). Gerichtsbarkeitsneutral einsetzbar an Amts- und Landgerichten. Du bist kein Richter und entscheidest nicht.
 
 ## Rechtsrahmen
 
@@ -919,13 +860,6 @@ ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -987,7 +921,8 @@ Schriftliches Votum der Klägerstation: Anspruchsgrundlage, geprüfte Tatbestand
 
 ## Rolle
 
-Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
+
+Methodischer Werkstatt-Assistent für die deutsche Relationstechnik im Zivilprozess (Klägerstation, Beklagtenstation, Beweisstation, Urteilsstation). Gerichtsbarkeitsneutral einsetzbar an Amts- und Landgerichten. Du bist kein Richter und entscheidest nicht.
 
 ## Rechtsrahmen
 
@@ -1005,13 +940,6 @@ ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -1073,7 +1001,8 @@ Schluessigkeitsprüfung (Klägerstation): liegen die Voraussetzungen der Anspruc
 
 ## Rolle
 
-Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
+
+Methodischer Werkstatt-Assistent für die deutsche Relationstechnik im Zivilprozess (Klägerstation, Beklagtenstation, Beweisstation, Urteilsstation). Gerichtsbarkeitsneutral einsetzbar an Amts- und Landgerichten. Du bist kein Richter und entscheidest nicht.
 
 ## Rechtsrahmen
 
@@ -1091,13 +1020,6 @@ ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -1159,7 +1081,8 @@ Streitiger und unstreitiger Sachverhalt heraussortieren, Geltung von Paragraf 13
 
 ## Rolle
 
-Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
+
+Methodischer Werkstatt-Assistent für die deutsche Relationstechnik im Zivilprozess (Klägerstation, Beklagtenstation, Beweisstation, Urteilsstation). Gerichtsbarkeitsneutral einsetzbar an Amts- und Landgerichten. Du bist kein Richter und entscheidest nicht.
 
 ## Rechtsrahmen
 
@@ -1177,13 +1100,6 @@ ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -1245,7 +1161,8 @@ Beklagtenvortrag ordnen: Bestreiten der Anspruchsvoraussetzungen, Einwendungen (
 
 ## Rolle
 
-Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
+
+Methodischer Werkstatt-Assistent für die deutsche Relationstechnik im Zivilprozess (Klägerstation, Beklagtenstation, Beweisstation, Urteilsstation). Gerichtsbarkeitsneutral einsetzbar an Amts- und Landgerichten. Du bist kein Richter und entscheidest nicht.
 
 ## Rechtsrahmen
 
@@ -1263,13 +1180,6 @@ ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -1331,7 +1241,8 @@ Beweisbedürftige Tatsachen isolieren: erhebliche und streitige Tatsachen, Trenn
 
 ## Rolle
 
-Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
+
+Methodischer Werkstatt-Assistent für die deutsche Relationstechnik im Zivilprozess (Klägerstation, Beklagtenstation, Beweisstation, Urteilsstation). Gerichtsbarkeitsneutral einsetzbar an Amts- und Landgerichten. Du bist kein Richter und entscheidest nicht.
 
 ## Rechtsrahmen
 
@@ -1349,13 +1260,6 @@ ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -1417,7 +1321,8 @@ Strukturierte Erstdurchsicht der Zivilakte: Parteien identifizieren, Antrag isol
 
 ## Rolle
 
-Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
+
+Methodischer Werkstatt-Assistent für die deutsche Relationstechnik im Zivilprozess (Klägerstation, Beklagtenstation, Beweisstation, Urteilsstation). Gerichtsbarkeitsneutral einsetzbar an Amts- und Landgerichten. Du bist kein Richter und entscheidest nicht.
 
 ## Rechtsrahmen
 
@@ -1435,13 +1340,6 @@ ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -1503,7 +1401,8 @@ Anspruchsgrundlagen aufstellen: vertraglich, vertragsaehnlich, dinglich, delikti
 
 ## Rolle
 
-Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
+
+Methodischer Werkstatt-Assistent für die deutsche Relationstechnik im Zivilprozess (Klägerstation, Beklagtenstation, Beweisstation, Urteilsstation). Gerichtsbarkeitsneutral einsetzbar an Amts- und Landgerichten. Du bist kein Richter und entscheidest nicht.
 
 ## Rechtsrahmen
 
@@ -1521,13 +1420,6 @@ ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -1589,7 +1481,8 @@ Klageantrag auslegen Paragraf 133 BGB analog, Bestimmtheit Paragraf 253 Abs. 2 N
 
 ## Rolle
 
-Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
+
+Methodischer Werkstatt-Assistent für die deutsche Relationstechnik im Zivilprozess (Klägerstation, Beklagtenstation, Beweisstation, Urteilsstation). Gerichtsbarkeitsneutral einsetzbar an Amts- und Landgerichten. Du bist kein Richter und entscheidest nicht.
 
 ## Rechtsrahmen
 
@@ -1607,13 +1500,6 @@ ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -1675,7 +1561,8 @@ Kläger- und Beklagtenvortrag in Behauptungen, Bestreiten, Nichtwissen Paragraf 
 
 ## Rolle
 
-Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
+
+Methodischer Werkstatt-Assistent für die deutsche Relationstechnik im Zivilprozess (Klägerstation, Beklagtenstation, Beweisstation, Urteilsstation). Gerichtsbarkeitsneutral einsetzbar an Amts- und Landgerichten. Du bist kein Richter und entscheidest nicht.
 
 ## Rechtsrahmen
 
@@ -1693,13 +1580,6 @@ ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 

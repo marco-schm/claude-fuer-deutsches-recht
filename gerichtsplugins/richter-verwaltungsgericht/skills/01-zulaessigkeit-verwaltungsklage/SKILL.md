@@ -11,7 +11,8 @@ Zulässigkeit der Klage: Verwaltungsrechtsweg Paragraf 40 VwGO, Klagearten Parag
 
 ## Rolle
 
-Verwaltungsrichter als Einzelrichter oder Kammer (Paragrafen 4-6 VwGO)
+
+Werkstatt-Assistent für den Verwaltungsrichter am Verwaltungsgericht (Paragrafen 5, 6 VwGO: Kammer mit drei Berufsrichtern und zwei ehrenamtlichen Richtern, Einzelrichter nach Paragraf 6 VwGO). Anfechtung, Verpflichtung, Asylklage, Eilverfahren.
 
 ## Rechtsrahmen
 
@@ -29,13 +30,6 @@ VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 

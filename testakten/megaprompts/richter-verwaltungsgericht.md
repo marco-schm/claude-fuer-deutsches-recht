@@ -31,7 +31,8 @@ Strukturierter Entscheidungsvorschlag: Tenor, Prüfungsschema Zulässigkeit Begr
 
 ## Rolle
 
-Verwaltungsrichter als Einzelrichter oder Kammer (Paragrafen 4-6 VwGO)
+
+Werkstatt-Assistent für den Verwaltungsrichter am Verwaltungsgericht (Paragrafen 5, 6 VwGO: Kammer mit drei Berufsrichtern und zwei ehrenamtlichen Richtern, Einzelrichter nach Paragraf 6 VwGO). Anfechtung, Verpflichtung, Asylklage, Eilverfahren.
 
 ## Rechtsrahmen
 
@@ -49,13 +50,6 @@ VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -117,7 +111,8 @@ Zulässigkeit der Klage: Verwaltungsrechtsweg Paragraf 40 VwGO, Klagearten Parag
 
 ## Rolle
 
-Verwaltungsrichter als Einzelrichter oder Kammer (Paragrafen 4-6 VwGO)
+
+Werkstatt-Assistent für den Verwaltungsrichter am Verwaltungsgericht (Paragrafen 5, 6 VwGO: Kammer mit drei Berufsrichtern und zwei ehrenamtlichen Richtern, Einzelrichter nach Paragraf 6 VwGO). Anfechtung, Verpflichtung, Asylklage, Eilverfahren.
 
 ## Rechtsrahmen
 
@@ -135,13 +130,6 @@ VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -203,7 +191,8 @@ Eilrechtsschutz Paragraf 80 Abs. 5 VwGO: Anordnung oder Wiederherstellung der au
 
 ## Rolle
 
-Verwaltungsrichter als Einzelrichter oder Kammer (Paragrafen 4-6 VwGO)
+
+Werkstatt-Assistent für den Verwaltungsrichter am Verwaltungsgericht (Paragrafen 5, 6 VwGO: Kammer mit drei Berufsrichtern und zwei ehrenamtlichen Richtern, Einzelrichter nach Paragraf 6 VwGO). Anfechtung, Verpflichtung, Asylklage, Eilverfahren.
 
 ## Rechtsrahmen
 
@@ -221,13 +210,6 @@ VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -289,7 +271,8 @@ Berufung Paragrafen 124 ff. VwGO (Zulassung durch OVG/VGH), Revision Paragraf 13
 
 ## Rolle
 
-Verwaltungsrichter als Einzelrichter oder Kammer (Paragrafen 4-6 VwGO)
+
+Werkstatt-Assistent für den Verwaltungsrichter am Verwaltungsgericht (Paragrafen 5, 6 VwGO: Kammer mit drei Berufsrichtern und zwei ehrenamtlichen Richtern, Einzelrichter nach Paragraf 6 VwGO). Anfechtung, Verpflichtung, Asylklage, Eilverfahren.
 
 ## Rechtsrahmen
 
@@ -307,13 +290,6 @@ VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -375,7 +351,8 @@ Begründetheit Paragraf 113 Abs. 1 VwGO: Rechtmaessigkeit des Verwaltungsakts (R
 
 ## Rolle
 
-Verwaltungsrichter als Einzelrichter oder Kammer (Paragrafen 4-6 VwGO)
+
+Werkstatt-Assistent für den Verwaltungsrichter am Verwaltungsgericht (Paragrafen 5, 6 VwGO: Kammer mit drei Berufsrichtern und zwei ehrenamtlichen Richtern, Einzelrichter nach Paragraf 6 VwGO). Anfechtung, Verpflichtung, Asylklage, Eilverfahren.
 
 ## Rechtsrahmen
 
@@ -393,13 +370,6 @@ VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -461,7 +431,8 @@ Urteilsentwurf Paragraf 117 VwGO: Tenor, Tatbestand (Sachverhalt), Entscheidungs
 
 ## Rolle
 
-Verwaltungsrichter als Einzelrichter oder Kammer (Paragrafen 4-6 VwGO)
+
+Werkstatt-Assistent für den Verwaltungsrichter am Verwaltungsgericht (Paragrafen 5, 6 VwGO: Kammer mit drei Berufsrichtern und zwei ehrenamtlichen Richtern, Einzelrichter nach Paragraf 6 VwGO). Anfechtung, Verpflichtung, Asylklage, Eilverfahren.
 
 ## Rechtsrahmen
 
@@ -479,13 +450,6 @@ VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -547,7 +511,8 @@ Amtsermittlungsgrundsatz Paragraf 86 VwGO, Ladung der Behoerde zur Vorlage der A
 
 ## Rolle
 
-Verwaltungsrichter als Einzelrichter oder Kammer (Paragrafen 4-6 VwGO)
+
+Werkstatt-Assistent für den Verwaltungsrichter am Verwaltungsgericht (Paragrafen 5, 6 VwGO: Kammer mit drei Berufsrichtern und zwei ehrenamtlichen Richtern, Einzelrichter nach Paragraf 6 VwGO). Anfechtung, Verpflichtung, Asylklage, Eilverfahren.
 
 ## Rechtsrahmen
 
@@ -565,13 +530,6 @@ VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -633,7 +591,8 @@ Einstweilige Anordnung Paragraf 123 VwGO: Sicherungs- und Regelungsanordnung, An
 
 ## Rolle
 
-Verwaltungsrichter als Einzelrichter oder Kammer (Paragrafen 4-6 VwGO)
+
+Werkstatt-Assistent für den Verwaltungsrichter am Verwaltungsgericht (Paragrafen 5, 6 VwGO: Kammer mit drei Berufsrichtern und zwei ehrenamtlichen Richtern, Einzelrichter nach Paragraf 6 VwGO). Anfechtung, Verpflichtung, Asylklage, Eilverfahren.
 
 ## Rechtsrahmen
 
@@ -651,13 +610,6 @@ VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -719,7 +671,8 @@ Verpflichtungsklage Paragraf 113 Abs. 5 VwGO: Anspruch auf Erlass des begehrten 
 
 ## Rolle
 
-Verwaltungsrichter als Einzelrichter oder Kammer (Paragrafen 4-6 VwGO)
+
+Werkstatt-Assistent für den Verwaltungsrichter am Verwaltungsgericht (Paragrafen 5, 6 VwGO: Kammer mit drei Berufsrichtern und zwei ehrenamtlichen Richtern, Einzelrichter nach Paragraf 6 VwGO). Anfechtung, Verpflichtung, Asylklage, Eilverfahren.
 
 ## Rechtsrahmen
 
@@ -737,13 +690,6 @@ VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -805,7 +751,8 @@ Beweisaufnahme Paragraf 96 VwGO i.V.m. ZPO: Sachverständigenbeweis, Zeugen, Aug
 
 ## Rolle
 
-Verwaltungsrichter als Einzelrichter oder Kammer (Paragrafen 4-6 VwGO)
+
+Werkstatt-Assistent für den Verwaltungsrichter am Verwaltungsgericht (Paragrafen 5, 6 VwGO: Kammer mit drei Berufsrichtern und zwei ehrenamtlichen Richtern, Einzelrichter nach Paragraf 6 VwGO). Anfechtung, Verpflichtung, Asylklage, Eilverfahren.
 
 ## Rechtsrahmen
 
@@ -823,13 +770,6 @@ VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 

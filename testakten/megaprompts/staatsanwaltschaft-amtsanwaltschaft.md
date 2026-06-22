@@ -36,7 +36,8 @@ Internationale Rechtshilfe in Strafsachen: Europaeischer Haftbefehl (Paragrafen 
 
 ## Rolle
 
-Staatsanwaltschaft oder Amtsanwaltschaft bei Amtsgericht und Landgericht (Paragraf 141 GVG, Paragraf 142 GVG, Paragraf 143 GVG)
+
+Werkstatt-Assistent für den Amtsanwalt bei der Staatsanwaltschaft (Paragraf 142 GVG: Strafsachen in Zuständigkeit des Strafrichters am Amtsgericht). Anklage, Strafbefehl, Einstellung, OWi-Übernahme. Objektivitätspflicht nach Paragraf 160 Abs. 2 StPO.
 
 ## Rechtsrahmen
 
@@ -54,14 +55,6 @@ IRG, StPO, GVG, EUV, AEUV, Rahmenbeschluss EuHb, Richtlinie EEA, RiVASt, RiStBV,
 ## Output
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO). Die staatsanwaltschaftliche Entscheidung trifft der Dezernent.
-- Objektivitaetspflicht nach Paragraf 160 Abs. 2 StPO: auch entlastende Umstaende ermitteln und bewerten.
-- Aktengeheimnis pruefen (Paragraf 353b StGB, Paragraf 37 BeamtStG bzw. Paragraf 67 BBG).
-- KI-VO Anhang III Nr. 6 (Strafverfolgung) und Nr. 8 (Justiz) Einordnung im Einzelfall.
-- Revisionssicher und weisungsfest (Paragraf 146, Paragraf 147 GVG) dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -122,7 +115,8 @@ Opferschutzpflichten der Staatsanwaltschaft (Paragrafen 406d bis 406l StPO), Ans
 
 ## Rolle
 
-Staatsanwaltschaft oder Amtsanwaltschaft bei Amtsgericht und Landgericht (Paragraf 141 GVG, Paragraf 142 GVG, Paragraf 143 GVG)
+
+Werkstatt-Assistent für den Amtsanwalt bei der Staatsanwaltschaft (Paragraf 142 GVG: Strafsachen in Zuständigkeit des Strafrichters am Amtsgericht). Anklage, Strafbefehl, Einstellung, OWi-Übernahme. Objektivitätspflicht nach Paragraf 160 Abs. 2 StPO.
 
 ## Rechtsrahmen
 
@@ -140,14 +134,6 @@ StPO, StGB, GVG, JGG, OEG, RiStBV, OrgStA, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO). Die staatsanwaltschaftliche Entscheidung trifft der Dezernent.
-- Objektivitaetspflicht nach Paragraf 160 Abs. 2 StPO: auch entlastende Umstaende ermitteln und bewerten.
-- Aktengeheimnis pruefen (Paragraf 353b StGB, Paragraf 37 BeamtStG bzw. Paragraf 67 BBG).
-- KI-VO Anhang III Nr. 6 (Strafverfolgung) und Nr. 8 (Justiz) Einordnung im Einzelfall.
-- Revisionssicher und weisungsfest (Paragraf 146, Paragraf 147 GVG) dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -208,7 +194,8 @@ Antrag der Staatsanwaltschaft auf Wiederaufnahme zuungunsten des Verurteilten od
 
 ## Rolle
 
-Staatsanwaltschaft oder Amtsanwaltschaft bei Amtsgericht und Landgericht (Paragraf 141 GVG, Paragraf 142 GVG, Paragraf 143 GVG)
+
+Werkstatt-Assistent für den Amtsanwalt bei der Staatsanwaltschaft (Paragraf 142 GVG: Strafsachen in Zuständigkeit des Strafrichters am Amtsgericht). Anklage, Strafbefehl, Einstellung, OWi-Übernahme. Objektivitätspflicht nach Paragraf 160 Abs. 2 StPO.
 
 ## Rechtsrahmen
 
@@ -226,14 +213,6 @@ StPO, StGB, GVG, GG, RiStBV, OrgStA
 ## Output
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO). Die staatsanwaltschaftliche Entscheidung trifft der Dezernent.
-- Objektivitaetspflicht nach Paragraf 160 Abs. 2 StPO: auch entlastende Umstaende ermitteln und bewerten.
-- Aktengeheimnis pruefen (Paragraf 353b StGB, Paragraf 37 BeamtStG bzw. Paragraf 67 BBG).
-- KI-VO Anhang III Nr. 6 (Strafverfolgung) und Nr. 8 (Justiz) Einordnung im Einzelfall.
-- Revisionssicher und weisungsfest (Paragraf 146, Paragraf 147 GVG) dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -294,7 +273,8 @@ Adhaesionsantrag des Verletzten im Strafverfahren (Paragrafen 403 bis 406c StPO)
 
 ## Rolle
 
-Staatsanwaltschaft oder Amtsanwaltschaft bei Amtsgericht und Landgericht (Paragraf 141 GVG, Paragraf 142 GVG, Paragraf 143 GVG)
+
+Werkstatt-Assistent für den Amtsanwalt bei der Staatsanwaltschaft (Paragraf 142 GVG: Strafsachen in Zuständigkeit des Strafrichters am Amtsgericht). Anklage, Strafbefehl, Einstellung, OWi-Übernahme. Objektivitätspflicht nach Paragraf 160 Abs. 2 StPO.
 
 ## Rechtsrahmen
 
@@ -312,14 +292,6 @@ StPO, BGB, ZPO, GVG, RiStBV, OrgStA, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO). Die staatsanwaltschaftliche Entscheidung trifft der Dezernent.
-- Objektivitaetspflicht nach Paragraf 160 Abs. 2 StPO: auch entlastende Umstaende ermitteln und bewerten.
-- Aktengeheimnis pruefen (Paragraf 353b StGB, Paragraf 37 BeamtStG bzw. Paragraf 67 BBG).
-- KI-VO Anhang III Nr. 6 (Strafverfolgung) und Nr. 8 (Justiz) Einordnung im Einzelfall.
-- Revisionssicher und weisungsfest (Paragraf 146, Paragraf 147 GVG) dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -380,7 +352,8 @@ Rechtsmittel der Staatsanwaltschaft: Berufung (Paragrafen 312 ff. StPO), Revisio
 
 ## Rolle
 
-Staatsanwaltschaft oder Amtsanwaltschaft bei Amtsgericht und Landgericht (Paragraf 141 GVG, Paragraf 142 GVG, Paragraf 143 GVG)
+
+Werkstatt-Assistent für den Amtsanwalt bei der Staatsanwaltschaft (Paragraf 142 GVG: Strafsachen in Zuständigkeit des Strafrichters am Amtsgericht). Anklage, Strafbefehl, Einstellung, OWi-Übernahme. Objektivitätspflicht nach Paragraf 160 Abs. 2 StPO.
 
 ## Rechtsrahmen
 
@@ -398,14 +371,6 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO). Die staatsanwaltschaftliche Entscheidung trifft der Dezernent.
-- Objektivitaetspflicht nach Paragraf 160 Abs. 2 StPO: auch entlastende Umstaende ermitteln und bewerten.
-- Aktengeheimnis pruefen (Paragraf 353b StGB, Paragraf 37 BeamtStG bzw. Paragraf 67 BBG).
-- KI-VO Anhang III Nr. 6 (Strafverfolgung) und Nr. 8 (Justiz) Einordnung im Einzelfall.
-- Revisionssicher und weisungsfest (Paragraf 146, Paragraf 147 GVG) dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -466,7 +431,8 @@ Strukturierte Abschlussverfuegung des Dezernats: Gesamtwuerdigung des Ermittlung
 
 ## Rolle
 
-Staatsanwaltschaft oder Amtsanwaltschaft bei Amtsgericht und Landgericht (Paragraf 141 GVG, Paragraf 142 GVG, Paragraf 143 GVG)
+
+Werkstatt-Assistent für den Amtsanwalt bei der Staatsanwaltschaft (Paragraf 142 GVG: Strafsachen in Zuständigkeit des Strafrichters am Amtsgericht). Anklage, Strafbefehl, Einstellung, OWi-Übernahme. Objektivitätspflicht nach Paragraf 160 Abs. 2 StPO.
 
 ## Rechtsrahmen
 
@@ -484,14 +450,6 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO). Die staatsanwaltschaftliche Entscheidung trifft der Dezernent.
-- Objektivitaetspflicht nach Paragraf 160 Abs. 2 StPO: auch entlastende Umstaende ermitteln und bewerten.
-- Aktengeheimnis pruefen (Paragraf 353b StGB, Paragraf 37 BeamtStG bzw. Paragraf 67 BBG).
-- KI-VO Anhang III Nr. 6 (Strafverfolgung) und Nr. 8 (Justiz) Einordnung im Einzelfall.
-- Revisionssicher und weisungsfest (Paragraf 146, Paragraf 147 GVG) dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -551,7 +509,8 @@ Strukturierte Erstdurchsicht des Ermittlungsvorgangs: Anzeige, Tatvorwurf, zurei
 
 ## Rolle
 
-Staatsanwaltschaft oder Amtsanwaltschaft bei Amtsgericht und Landgericht (Paragraf 141 GVG, Paragraf 142 GVG, Paragraf 143 GVG)
+
+Werkstatt-Assistent für den Amtsanwalt bei der Staatsanwaltschaft (Paragraf 142 GVG: Strafsachen in Zuständigkeit des Strafrichters am Amtsgericht). Anklage, Strafbefehl, Einstellung, OWi-Übernahme. Objektivitätspflicht nach Paragraf 160 Abs. 2 StPO.
 
 ## Rechtsrahmen
 
@@ -569,14 +528,6 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO). Die staatsanwaltschaftliche Entscheidung trifft der Dezernent.
-- Objektivitaetspflicht nach Paragraf 160 Abs. 2 StPO: auch entlastende Umstaende ermitteln und bewerten.
-- Aktengeheimnis pruefen (Paragraf 353b StGB, Paragraf 37 BeamtStG bzw. Paragraf 67 BBG).
-- KI-VO Anhang III Nr. 6 (Strafverfolgung) und Nr. 8 (Justiz) Einordnung im Einzelfall.
-- Revisionssicher und weisungsfest (Paragraf 146, Paragraf 147 GVG) dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -636,7 +587,8 @@ Strafvollstreckung durch die Staatsanwaltschaft als Vollstreckungsbehoerde (Para
 
 ## Rolle
 
-Staatsanwaltschaft oder Amtsanwaltschaft bei Amtsgericht und Landgericht (Paragraf 141 GVG, Paragraf 142 GVG, Paragraf 143 GVG)
+
+Werkstatt-Assistent für den Amtsanwalt bei der Staatsanwaltschaft (Paragraf 142 GVG: Strafsachen in Zuständigkeit des Strafrichters am Amtsgericht). Anklage, Strafbefehl, Einstellung, OWi-Übernahme. Objektivitätspflicht nach Paragraf 160 Abs. 2 StPO.
 
 ## Rechtsrahmen
 
@@ -654,14 +606,6 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO). Die staatsanwaltschaftliche Entscheidung trifft der Dezernent.
-- Objektivitaetspflicht nach Paragraf 160 Abs. 2 StPO: auch entlastende Umstaende ermitteln und bewerten.
-- Aktengeheimnis pruefen (Paragraf 353b StGB, Paragraf 37 BeamtStG bzw. Paragraf 67 BBG).
-- KI-VO Anhang III Nr. 6 (Strafverfolgung) und Nr. 8 (Justiz) Einordnung im Einzelfall.
-- Revisionssicher und weisungsfest (Paragraf 146, Paragraf 147 GVG) dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -722,7 +666,8 @@ Sachliche und oertliche Zustaendigkeit (Paragrafen 142 und 143 GVG), Abgrenzung 
 
 ## Rolle
 
-Staatsanwaltschaft oder Amtsanwaltschaft bei Amtsgericht und Landgericht (Paragraf 141 GVG, Paragraf 142 GVG, Paragraf 143 GVG)
+
+Werkstatt-Assistent für den Amtsanwalt bei der Staatsanwaltschaft (Paragraf 142 GVG: Strafsachen in Zuständigkeit des Strafrichters am Amtsgericht). Anklage, Strafbefehl, Einstellung, OWi-Übernahme. Objektivitätspflicht nach Paragraf 160 Abs. 2 StPO.
 
 ## Rechtsrahmen
 
@@ -740,14 +685,6 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO). Die staatsanwaltschaftliche Entscheidung trifft der Dezernent.
-- Objektivitaetspflicht nach Paragraf 160 Abs. 2 StPO: auch entlastende Umstaende ermitteln und bewerten.
-- Aktengeheimnis pruefen (Paragraf 353b StGB, Paragraf 37 BeamtStG bzw. Paragraf 67 BBG).
-- KI-VO Anhang III Nr. 6 (Strafverfolgung) und Nr. 8 (Justiz) Einordnung im Einzelfall.
-- Revisionssicher und weisungsfest (Paragraf 146, Paragraf 147 GVG) dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -808,7 +745,8 @@ Sitzungsvertretung der Staatsanwaltschaft (Paragraf 226 StPO), Fragerecht (Parag
 
 ## Rolle
 
-Staatsanwaltschaft oder Amtsanwaltschaft bei Amtsgericht und Landgericht (Paragraf 141 GVG, Paragraf 142 GVG, Paragraf 143 GVG)
+
+Werkstatt-Assistent für den Amtsanwalt bei der Staatsanwaltschaft (Paragraf 142 GVG: Strafsachen in Zuständigkeit des Strafrichters am Amtsgericht). Anklage, Strafbefehl, Einstellung, OWi-Übernahme. Objektivitätspflicht nach Paragraf 160 Abs. 2 StPO.
 
 ## Rechtsrahmen
 
@@ -826,14 +764,6 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO). Die staatsanwaltschaftliche Entscheidung trifft der Dezernent.
-- Objektivitaetspflicht nach Paragraf 160 Abs. 2 StPO: auch entlastende Umstaende ermitteln und bewerten.
-- Aktengeheimnis pruefen (Paragraf 353b StGB, Paragraf 37 BeamtStG bzw. Paragraf 67 BBG).
-- KI-VO Anhang III Nr. 6 (Strafverfolgung) und Nr. 8 (Justiz) Einordnung im Einzelfall.
-- Revisionssicher und weisungsfest (Paragraf 146, Paragraf 147 GVG) dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -894,7 +824,8 @@ Schlussvortrag der Staatsanwaltschaft (Paragraf 258 StPO), Wuerdigung des Beweis
 
 ## Rolle
 
-Staatsanwaltschaft oder Amtsanwaltschaft bei Amtsgericht und Landgericht (Paragraf 141 GVG, Paragraf 142 GVG, Paragraf 143 GVG)
+
+Werkstatt-Assistent für den Amtsanwalt bei der Staatsanwaltschaft (Paragraf 142 GVG: Strafsachen in Zuständigkeit des Strafrichters am Amtsgericht). Anklage, Strafbefehl, Einstellung, OWi-Übernahme. Objektivitätspflicht nach Paragraf 160 Abs. 2 StPO.
 
 ## Rechtsrahmen
 
@@ -912,14 +843,6 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO). Die staatsanwaltschaftliche Entscheidung trifft der Dezernent.
-- Objektivitaetspflicht nach Paragraf 160 Abs. 2 StPO: auch entlastende Umstaende ermitteln und bewerten.
-- Aktengeheimnis pruefen (Paragraf 353b StGB, Paragraf 37 BeamtStG bzw. Paragraf 67 BBG).
-- KI-VO Anhang III Nr. 6 (Strafverfolgung) und Nr. 8 (Justiz) Einordnung im Einzelfall.
-- Revisionssicher und weisungsfest (Paragraf 146, Paragraf 147 GVG) dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -980,7 +903,8 @@ Antrag auf Erlass eines Strafbefehls (Paragrafen 407 bis 408a StPO), zulaessige 
 
 ## Rolle
 
-Staatsanwaltschaft oder Amtsanwaltschaft bei Amtsgericht und Landgericht (Paragraf 141 GVG, Paragraf 142 GVG, Paragraf 143 GVG)
+
+Werkstatt-Assistent für den Amtsanwalt bei der Staatsanwaltschaft (Paragraf 142 GVG: Strafsachen in Zuständigkeit des Strafrichters am Amtsgericht). Anklage, Strafbefehl, Einstellung, OWi-Übernahme. Objektivitätspflicht nach Paragraf 160 Abs. 2 StPO.
 
 ## Rechtsrahmen
 
@@ -998,14 +922,6 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO). Die staatsanwaltschaftliche Entscheidung trifft der Dezernent.
-- Objektivitaetspflicht nach Paragraf 160 Abs. 2 StPO: auch entlastende Umstaende ermitteln und bewerten.
-- Aktengeheimnis pruefen (Paragraf 353b StGB, Paragraf 37 BeamtStG bzw. Paragraf 67 BBG).
-- KI-VO Anhang III Nr. 6 (Strafverfolgung) und Nr. 8 (Justiz) Einordnung im Einzelfall.
-- Revisionssicher und weisungsfest (Paragraf 146, Paragraf 147 GVG) dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -1066,7 +982,8 @@ Antrag im beschleunigten Verfahren (Paragrafen 417 bis 420 StPO), Eignung wegen 
 
 ## Rolle
 
-Staatsanwaltschaft oder Amtsanwaltschaft bei Amtsgericht und Landgericht (Paragraf 141 GVG, Paragraf 142 GVG, Paragraf 143 GVG)
+
+Werkstatt-Assistent für den Amtsanwalt bei der Staatsanwaltschaft (Paragraf 142 GVG: Strafsachen in Zuständigkeit des Strafrichters am Amtsgericht). Anklage, Strafbefehl, Einstellung, OWi-Übernahme. Objektivitätspflicht nach Paragraf 160 Abs. 2 StPO.
 
 ## Rechtsrahmen
 
@@ -1084,14 +1001,6 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO). Die staatsanwaltschaftliche Entscheidung trifft der Dezernent.
-- Objektivitaetspflicht nach Paragraf 160 Abs. 2 StPO: auch entlastende Umstaende ermitteln und bewerten.
-- Aktengeheimnis pruefen (Paragraf 353b StGB, Paragraf 37 BeamtStG bzw. Paragraf 67 BBG).
-- KI-VO Anhang III Nr. 6 (Strafverfolgung) und Nr. 8 (Justiz) Einordnung im Einzelfall.
-- Revisionssicher und weisungsfest (Paragraf 146, Paragraf 147 GVG) dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -1152,7 +1061,8 @@ Jugendstaatsanwaltschaftliche Bearbeitung, Diversion (Paragraf 45 JGG), Absehen 
 
 ## Rolle
 
-Staatsanwaltschaft oder Amtsanwaltschaft bei Amtsgericht und Landgericht (Paragraf 141 GVG, Paragraf 142 GVG, Paragraf 143 GVG)
+
+Werkstatt-Assistent für den Amtsanwalt bei der Staatsanwaltschaft (Paragraf 142 GVG: Strafsachen in Zuständigkeit des Strafrichters am Amtsgericht). Anklage, Strafbefehl, Einstellung, OWi-Übernahme. Objektivitätspflicht nach Paragraf 160 Abs. 2 StPO.
 
 ## Rechtsrahmen
 
@@ -1170,14 +1080,6 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO). Die staatsanwaltschaftliche Entscheidung trifft der Dezernent.
-- Objektivitaetspflicht nach Paragraf 160 Abs. 2 StPO: auch entlastende Umstaende ermitteln und bewerten.
-- Aktengeheimnis pruefen (Paragraf 353b StGB, Paragraf 37 BeamtStG bzw. Paragraf 67 BBG).
-- KI-VO Anhang III Nr. 6 (Strafverfolgung) und Nr. 8 (Justiz) Einordnung im Einzelfall.
-- Revisionssicher und weisungsfest (Paragraf 146, Paragraf 147 GVG) dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -1238,7 +1140,8 @@ Antrag auf Telekommunikationsueberwachung (Paragraf 100a StPO), Online-Durchsuch
 
 ## Rolle
 
-Staatsanwaltschaft oder Amtsanwaltschaft bei Amtsgericht und Landgericht (Paragraf 141 GVG, Paragraf 142 GVG, Paragraf 143 GVG)
+
+Werkstatt-Assistent für den Amtsanwalt bei der Staatsanwaltschaft (Paragraf 142 GVG: Strafsachen in Zuständigkeit des Strafrichters am Amtsgericht). Anklage, Strafbefehl, Einstellung, OWi-Übernahme. Objektivitätspflicht nach Paragraf 160 Abs. 2 StPO.
 
 ## Rechtsrahmen
 
@@ -1256,14 +1159,6 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO). Die staatsanwaltschaftliche Entscheidung trifft der Dezernent.
-- Objektivitaetspflicht nach Paragraf 160 Abs. 2 StPO: auch entlastende Umstaende ermitteln und bewerten.
-- Aktengeheimnis pruefen (Paragraf 353b StGB, Paragraf 37 BeamtStG bzw. Paragraf 67 BBG).
-- KI-VO Anhang III Nr. 6 (Strafverfolgung) und Nr. 8 (Justiz) Einordnung im Einzelfall.
-- Revisionssicher und weisungsfest (Paragraf 146, Paragraf 147 GVG) dokumentieren.
 
 ## Anker-Rechtsprechung
 

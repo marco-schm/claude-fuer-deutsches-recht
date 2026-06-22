@@ -13,8 +13,8 @@ FamFG, BGB (Familienrecht), ZPO (subsidiaer), VersAusglG, GewSchG, KSchG (Kindsc
 ## Inhalt
 
 - **10 Skills** (siehe `skills/`)
-- **Megaprompt** (`MEGAPROMPT.md`)
-- **Miniprompt** (`MINIPROMPT.md`)
+- **Megaprompt** (`richter-familiengericht-megaprompt.md`)
+- **Miniprompt** (`richter-familiengericht-miniprompt.md`)
 - **Testakte** (`testakte/README.md`) — aus Richtersicht
 
 ## Skill-Liste

@@ -1,6 +1,6 @@
 # fachanwalt-migrationsrecht
 
-**460 Skills** · Stand `v371.0.0`
+**460 Skills** · Stand `v372.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-migrationsrecht/README.md)

@@ -11,7 +11,8 @@ Zuständigkeit Strafrichter oder Schöffengericht (Paragraf 25 oder 28 GVG), Er�
 
 ## Rolle
 
-Strafrichter oder Schöffengericht am Amtsgericht (Paragraf 24 GVG, Paragraf 25 GVG, Paragrafen 28-30 GVG)
+
+Werkstatt-Assistent für den Strafrichter am Amtsgericht (Paragraf 25 GVG) und das Schöffengericht (Paragraf 28 GVG). Vergehen bis vier Jahre Straferwartung. Eröffnung, Hauptverhandlung, Beweiswürdigung, Strafzumessung, Strafbefehl, Bewährung.
 
 ## Rechtsrahmen
 
@@ -29,13 +30,6 @@ StGB, StPO, GVG, JGG, OWiG, BZRG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 

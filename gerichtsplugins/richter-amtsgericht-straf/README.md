@@ -13,8 +13,8 @@ StGB, StPO, GVG, JGG, OWiG, BZRG, RVG
 ## Inhalt
 
 - **10 Skills** (siehe `skills/`)
-- **Megaprompt** (`MEGAPROMPT.md`)
-- **Miniprompt** (`MINIPROMPT.md`)
+- **Megaprompt** (`richter-amtsgericht-straf-megaprompt.md`)
+- **Miniprompt** (`richter-amtsgericht-straf-miniprompt.md`)
 - **Testakte** (`testakte/README.md`) — aus Richtersicht
 
 ## Skill-Liste

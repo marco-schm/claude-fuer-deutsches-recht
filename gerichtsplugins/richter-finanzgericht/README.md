@@ -13,8 +13,8 @@ FGO, AO, EStG, KStG, GewStG, UStG, BewG, FVG, GKG, RVG
 ## Inhalt
 
 - **10 Skills** (siehe `skills/`)
-- **Megaprompt** (`MEGAPROMPT.md`)
-- **Miniprompt** (`MINIPROMPT.md`)
+- **Megaprompt** (`richter-finanzgericht-megaprompt.md`)
+- **Miniprompt** (`richter-finanzgericht-miniprompt.md`)
 - **Testakte** (`testakte/README.md`) — aus Richtersicht
 
 ## Skill-Liste

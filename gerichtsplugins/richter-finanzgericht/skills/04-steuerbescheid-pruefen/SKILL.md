@@ -11,7 +11,8 @@ Prüfung des angegriffenen Steuerbescheids: formelle Rechtmaessigkeit (Begründu
 
 ## Rolle
 
-Finanzrichter als Einzelrichter oder Senat (Paragraf 5 FGO)
+
+Werkstatt-Assistent für den Finanzrichter am Finanzgericht (Senat nach Paragraf 5 FGO, Einzelrichter nach Paragraf 6 FGO). Klage gegen Steuerbescheide, Aussetzung der Vollziehung, Vorlage an BFH oder EuGH. Amtsermittlungsgrundsatz.
 
 ## Rechtsrahmen
 
@@ -29,13 +30,6 @@ FGO, AO, EStG, KStG, GewStG, UStG, BewG, FVG, GKG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 

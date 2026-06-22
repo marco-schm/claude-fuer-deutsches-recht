@@ -13,8 +13,8 @@ SGG, SGB I-XIV, BVG, AsylbLG, GKG-Sozial, RVG
 ## Inhalt
 
 - **10 Skills** (siehe `skills/`)
-- **Megaprompt** (`MEGAPROMPT.md`)
-- **Miniprompt** (`MINIPROMPT.md`)
+- **Megaprompt** (`richter-sozialgericht-megaprompt.md`)
+- **Miniprompt** (`richter-sozialgericht-miniprompt.md`)
 - **Testakte** (`testakte/README.md`) — aus Richtersicht
 
 ## Skill-Liste

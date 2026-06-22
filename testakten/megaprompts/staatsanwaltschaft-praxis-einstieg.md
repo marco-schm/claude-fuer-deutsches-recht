@@ -55,18 +55,18 @@ _Durchsuchung und Beschlagnahme: Praxis-Skill für neue Staatsanwälte zu richte
 
 Konkret zu prüfen:
 
-- § 102 StPO (Durchsuchung beim Verdächtigen)
-- § 103 StPO (Durchsuchung bei Nichtverdächtigen)
-- § 105 Abs. 1 StPO (Richtervorbehalt; Gefahr im Verzug)
+- Paragraf 102 StPO (Durchsuchung beim Verdächtigen)
+- Paragraf 103 StPO (Durchsuchung bei Nichtverdächtigen)
+- Paragraf 105 Abs. 1 StPO (Richtervorbehalt; Gefahr im Verzug)
 - BVerfGE 103, 142 (Gefahr im Verzug – enge Auslegung)
 - BVerfGE 96, 44 (Verhältnismäßigkeit)
-- § 94 StPO (Sicherstellung, Beschlagnahme)
-- § 98 Abs. 1 StPO (Richtervorbehalt)
-- § 97 StPO (Beschlagnahmeverbote)
+- Paragraf 94 StPO (Sicherstellung, Beschlagnahme)
+- Paragraf 98 Abs. 1 StPO (Richtervorbehalt)
+- Paragraf 97 StPO (Beschlagnahmeverbote)
 - BVerfGE 113, 29 (Anwaltskanzleien)
-- § 160a Abs. 1 StPO (absolutes Beweiserhebungsverbot – Strafverteidiger)
-- § 160a Abs. 2 StPO (relatives Verbot – sonstige Berufsgeheimnisträger)
-- § 97 StPO (Beschlagnahmeverbot)
+- Paragraf 160a Abs. 1 StPO (absolutes Beweiserhebungsverbot – Strafverteidiger)
+- Paragraf 160a Abs. 2 StPO (relatives Verbot – sonstige Berufsgeheimnisträger)
+- Paragraf 97 StPO (Beschlagnahmeverbot)
 - BVerfGE 113, 29 (Kanzleidurchsuchung)
 - Nr. 135 RiStBV
 
@@ -102,12 +102,12 @@ _Umgang mit harter Verteidigung: Praxis-Skill für neue Staatsanwälte zu konfli
 
 Konkret zu prüfen:
 
-- § 138a StPO (Ausschluss des Verteidigers)
-- § 145 StPO
-- § 257 StPO (Erklärungsrechte)
-- § 176 GVG (Sitzungspolizei)
-- §§ 226 ff. StPO (Hauptverhandlung)
-- § 258 StPO (Schlussvorträge)
+- Paragraf 138a StPO (Ausschluss des Verteidigers)
+- Paragraf 145 StPO
+- Paragraf 257 StPO (Erklärungsrechte)
+- Paragraf 176 GVG (Sitzungspolizei)
+- Paragrafen 226 ff. StPO (Hauptverhandlung)
+- Paragraf 258 StPO (Schlussvorträge)
 - Nr. 126-138 RiStBV
 
 ---
@@ -150,11 +150,11 @@ _Zusammenarbeit mit der Polizei: Praxis-Skill für neue Staatsanwälte zu Ermitt
 
 Konkret zu prüfen:
 
-- § 152 Abs. 2 StPO (Legalitätsprinzip, Anfangsverdacht)
-- § 160 Abs. 1, 2 StPO (Erforschungspflicht, entlastende Umstände)
+- Paragraf 152 Abs. 2 StPO (Legalitätsprinzip, Anfangsverdacht)
+- Paragraf 160 Abs. 1, 2 StPO (Erforschungspflicht, entlastende Umstände)
 - Nr. 3 RiStBV (Wächterin des Gesetzes)
-- § 168b StPO (Aufzeichnung)
-- § 169a StPO (Schlussvermerk)
+- Paragraf 168b StPO (Aufzeichnung)
+- Paragraf 169a StPO (Schlussvermerk)
 - Nr. 9-13 RiStBV (Aktenführung)
 
 ---
@@ -197,11 +197,11 @@ _Internationale Rechtshilfe: Praxis-Skill für neue Staatsanwälte zu Ersuchen, 
 
 Konkret zu prüfen:
 
-- § 152 Abs. 2 StPO (Legalitätsprinzip, Anfangsverdacht)
-- § 160 Abs. 1, 2 StPO (Erforschungspflicht, entlastende Umstände)
+- Paragraf 152 Abs. 2 StPO (Legalitätsprinzip, Anfangsverdacht)
+- Paragraf 160 Abs. 1, 2 StPO (Erforschungspflicht, entlastende Umstände)
 - Nr. 3 RiStBV (Wächterin des Gesetzes)
-- § 168b StPO (Aufzeichnung)
-- § 169a StPO (Schlussvermerk)
+- Paragraf 168b StPO (Aufzeichnung)
+- Paragraf 169a StPO (Schlussvermerk)
 - Nr. 9-13 RiStBV (Aktenführung)
 
 ---
@@ -236,11 +236,11 @@ _RiStBV finden und anwenden: Praxis-Skill für neue Staatsanwälte zu Richtlinie
 
 Konkret zu prüfen:
 
-- § 152 Abs. 2 StPO (Legalitätsprinzip, Anfangsverdacht)
-- § 160 Abs. 1, 2 StPO (Erforschungspflicht, entlastende Umstände)
+- Paragraf 152 Abs. 2 StPO (Legalitätsprinzip, Anfangsverdacht)
+- Paragraf 160 Abs. 1, 2 StPO (Erforschungspflicht, entlastende Umstände)
 - Nr. 3 RiStBV (Wächterin des Gesetzes)
-- § 168b StPO (Aufzeichnung)
-- § 169a StPO (Schlussvermerk)
+- Paragraf 168b StPO (Aufzeichnung)
+- Paragraf 169a StPO (Schlussvermerk)
 - Nr. 9-13 RiStBV (Aktenführung)
 
 ---
@@ -275,8 +275,8 @@ _Ermittlungsvermerk schreiben: Praxis-Skill für neue Staatsanwälte zu Sachstan
 
 Konkret zu prüfen:
 
-- § 168b StPO (Aufzeichnung)
-- § 169a StPO (Schlussvermerk)
+- Paragraf 168b StPO (Aufzeichnung)
+- Paragraf 169a StPO (Schlussvermerk)
 - Nr. 9-13 RiStBV (Aktenführung)
 
 ---
@@ -319,15 +319,15 @@ _EncroChat, ANOM, Sky ECC und Kryptodienste: Praxis-Skill für neue Staatsanwäl
 
 Konkret zu prüfen:
 
-- § 100b, § 100e Abs. 6 StPO
+- Paragraf 100b, Paragraf 100e Abs. 6 StPO
 - EuGH C-670/22 (M.N., Encrochat)
 - BGHSt 67, 29 (Encrochat-Verwertbarkeit)
 - BVerfG 2 BvR 1832/22 v. 1.11.2023
-- § 100a StPO (TKÜ)
-- § 100b StPO (Online-Durchsuchung)
-- § 100g StPO (Verkehrsdaten)
-- § 110 Abs. 3 StPO (Netzwerkdurchsicht)
-- §§ 202a, 202c StGB
+- Paragraf 100a StPO (TKÜ)
+- Paragraf 100b StPO (Online-Durchsuchung)
+- Paragraf 100g StPO (Verkehrsdaten)
+- Paragraf 110 Abs. 3 StPO (Netzwerkdurchsicht)
+- Paragrafen 202a, 202c StGB
 - BVerfGE 125, 260; BVerfGE 154, 152
 
 ---
@@ -362,15 +362,15 @@ _EncroChat, ANOM, Sky ECC und Kryptodienste: Praxis-Skill für neue Staatsanwäl
 
 Konkret zu prüfen:
 
-- § 100b, § 100e Abs. 6 StPO
+- Paragraf 100b, Paragraf 100e Abs. 6 StPO
 - EuGH C-670/22 (M.N., Encrochat)
 - BGHSt 67, 29 (Encrochat-Verwertbarkeit)
 - BVerfG 2 BvR 1832/22 v. 1.11.2023
-- § 100a StPO (TKÜ)
-- § 100b StPO (Online-Durchsuchung)
-- § 100g StPO (Verkehrsdaten)
-- § 110 Abs. 3 StPO (Netzwerkdurchsicht)
-- §§ 202a, 202c StGB
+- Paragraf 100a StPO (TKÜ)
+- Paragraf 100b StPO (Online-Durchsuchung)
+- Paragraf 100g StPO (Verkehrsdaten)
+- Paragraf 110 Abs. 3 StPO (Netzwerkdurchsicht)
+- Paragrafen 202a, 202c StGB
 - BVerfGE 125, 260; BVerfGE 154, 152
 
 ---

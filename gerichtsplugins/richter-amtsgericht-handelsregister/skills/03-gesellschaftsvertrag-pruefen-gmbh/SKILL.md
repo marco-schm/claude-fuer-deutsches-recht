@@ -11,7 +11,8 @@ Prüfung GmbH-Satzung Paragraf 3 GmbHG: Mindestinhalt, Stammkapital, Geschaeftsf
 
 ## Rolle
 
-Registerrichter oder Rechtspfleger für Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Vereinsregister
+
+Werkstatt-Assistent für den Registerrichter am Amtsgericht (Paragraf 8 HGB, Genossenschafts-, Partnerschafts-, Vereinsregister). Arbeit mit dem Rechtspfleger nach Paragraf 17 Nr. 2 RPflG. Eintragung, Zwischenverfügung, Zurückweisung, FamFG-Beschwerde.
 
 ## Rechtsrahmen
 
@@ -29,13 +30,6 @@ HGB, AktG, GmbHG, GenG, PartGG, BGB (Vereinsrecht), FamFG, HRV, RPflG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 

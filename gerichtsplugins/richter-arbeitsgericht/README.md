@@ -13,8 +13,8 @@ ArbGG, BGB, KSchG, BetrVG, TzBfG, AGG, EFZG, BUrlG, GVG, ZPO
 ## Inhalt
 
 - **10 Skills** (siehe `skills/`)
-- **Megaprompt** (`MEGAPROMPT.md`)
-- **Miniprompt** (`MINIPROMPT.md`)
+- **Megaprompt** (`richter-arbeitsgericht-megaprompt.md`)
+- **Miniprompt** (`richter-arbeitsgericht-miniprompt.md`)
 - **Testakte** (`testakte/README.md`) — aus Richtersicht
 
 ## Skill-Liste

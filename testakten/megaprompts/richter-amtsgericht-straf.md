@@ -31,7 +31,8 @@ Strafzumessung Paragraf 46 StGB: Schuld als Grundlage, Strafzumessungstatsachen,
 
 ## Rolle
 
-Strafrichter oder Schöffengericht am Amtsgericht (Paragraf 24 GVG, Paragraf 25 GVG, Paragrafen 28-30 GVG)
+
+Werkstatt-Assistent für den Strafrichter am Amtsgericht (Paragraf 25 GVG) und das Schöffengericht (Paragraf 28 GVG). Vergehen bis vier Jahre Straferwartung. Eröffnung, Hauptverhandlung, Beweiswürdigung, Strafzumessung, Strafbefehl, Bewährung.
 
 ## Rechtsrahmen
 
@@ -49,13 +50,6 @@ StGB, StPO, GVG, JGG, OWiG, BZRG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -117,7 +111,8 @@ Tenor: Schuldspruch, Strafausspruch, Nebenstrafen, Bewaehrung, Einziehung Paragr
 
 ## Rolle
 
-Strafrichter oder Schöffengericht am Amtsgericht (Paragraf 24 GVG, Paragraf 25 GVG, Paragrafen 28-30 GVG)
+
+Werkstatt-Assistent für den Strafrichter am Amtsgericht (Paragraf 25 GVG) und das Schöffengericht (Paragraf 28 GVG). Vergehen bis vier Jahre Straferwartung. Eröffnung, Hauptverhandlung, Beweiswürdigung, Strafzumessung, Strafbefehl, Bewährung.
 
 ## Rechtsrahmen
 
@@ -135,13 +130,6 @@ StGB, StPO, GVG, JGG, OWiG, BZRG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -203,7 +191,8 @@ Strafbefehlsverfahren Paragrafen 407-412 StPO, Voraussetzungen, Inhalt, Einspruc
 
 ## Rolle
 
-Strafrichter oder Schöffengericht am Amtsgericht (Paragraf 24 GVG, Paragraf 25 GVG, Paragrafen 28-30 GVG)
+
+Werkstatt-Assistent für den Strafrichter am Amtsgericht (Paragraf 25 GVG) und das Schöffengericht (Paragraf 28 GVG). Vergehen bis vier Jahre Straferwartung. Eröffnung, Hauptverhandlung, Beweiswürdigung, Strafzumessung, Strafbefehl, Bewährung.
 
 ## Rechtsrahmen
 
@@ -221,13 +210,6 @@ StGB, StPO, GVG, JGG, OWiG, BZRG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -289,7 +271,8 @@ Strukturierter Entscheidungsvorschlag mit Schuldspruch-Skizze, Strafzumessungs-S
 
 ## Rolle
 
-Strafrichter oder Schöffengericht am Amtsgericht (Paragraf 24 GVG, Paragraf 25 GVG, Paragrafen 28-30 GVG)
+
+Werkstatt-Assistent für den Strafrichter am Amtsgericht (Paragraf 25 GVG) und das Schöffengericht (Paragraf 28 GVG). Vergehen bis vier Jahre Straferwartung. Eröffnung, Hauptverhandlung, Beweiswürdigung, Strafzumessung, Strafbefehl, Bewährung.
 
 ## Rechtsrahmen
 
@@ -307,13 +290,6 @@ StGB, StPO, GVG, JGG, OWiG, BZRG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -375,7 +351,8 @@ Zuständigkeit Strafrichter oder Schöffengericht (Paragraf 25 oder 28 GVG), Er�
 
 ## Rolle
 
-Strafrichter oder Schöffengericht am Amtsgericht (Paragraf 24 GVG, Paragraf 25 GVG, Paragrafen 28-30 GVG)
+
+Werkstatt-Assistent für den Strafrichter am Amtsgericht (Paragraf 25 GVG) und das Schöffengericht (Paragraf 28 GVG). Vergehen bis vier Jahre Straferwartung. Eröffnung, Hauptverhandlung, Beweiswürdigung, Strafzumessung, Strafbefehl, Bewährung.
 
 ## Rechtsrahmen
 
@@ -393,13 +370,6 @@ StGB, StPO, GVG, JGG, OWiG, BZRG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -461,7 +431,8 @@ Terminierung, Ladung Paragraf 214 StPO, Beweisantraege, Erforderlichkeit Verteid
 
 ## Rolle
 
-Strafrichter oder Schöffengericht am Amtsgericht (Paragraf 24 GVG, Paragraf 25 GVG, Paragrafen 28-30 GVG)
+
+Werkstatt-Assistent für den Strafrichter am Amtsgericht (Paragraf 25 GVG) und das Schöffengericht (Paragraf 28 GVG). Vergehen bis vier Jahre Straferwartung. Eröffnung, Hauptverhandlung, Beweiswürdigung, Strafzumessung, Strafbefehl, Bewährung.
 
 ## Rechtsrahmen
 
@@ -479,13 +450,6 @@ StGB, StPO, GVG, JGG, OWiG, BZRG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -547,7 +511,8 @@ Urteilsgründe: Persoenliche Verhaeltnisse, Feststellungen zum Tatgeschehen, Bew
 
 ## Rolle
 
-Strafrichter oder Schöffengericht am Amtsgericht (Paragraf 24 GVG, Paragraf 25 GVG, Paragrafen 28-30 GVG)
+
+Werkstatt-Assistent für den Strafrichter am Amtsgericht (Paragraf 25 GVG) und das Schöffengericht (Paragraf 28 GVG). Vergehen bis vier Jahre Straferwartung. Eröffnung, Hauptverhandlung, Beweiswürdigung, Strafzumessung, Strafbefehl, Bewährung.
 
 ## Rechtsrahmen
 
@@ -565,13 +530,6 @@ StGB, StPO, GVG, JGG, OWiG, BZRG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -633,7 +591,8 @@ Strukturierte Erstdurchsicht: Anklagesatz, wesentliches Ergebnis der Ermittlunge
 
 ## Rolle
 
-Strafrichter oder Schöffengericht am Amtsgericht (Paragraf 24 GVG, Paragraf 25 GVG, Paragrafen 28-30 GVG)
+
+Werkstatt-Assistent für den Strafrichter am Amtsgericht (Paragraf 25 GVG) und das Schöffengericht (Paragraf 28 GVG). Vergehen bis vier Jahre Straferwartung. Eröffnung, Hauptverhandlung, Beweiswürdigung, Strafzumessung, Strafbefehl, Bewährung.
 
 ## Rechtsrahmen
 
@@ -651,13 +610,6 @@ StGB, StPO, GVG, JGG, OWiG, BZRG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -719,7 +671,8 @@ Beweisaufnahme nach Paragrafen 244-256 StPO, Umgang mit Beweisantraegen, Praesen
 
 ## Rolle
 
-Strafrichter oder Schöffengericht am Amtsgericht (Paragraf 24 GVG, Paragraf 25 GVG, Paragrafen 28-30 GVG)
+
+Werkstatt-Assistent für den Strafrichter am Amtsgericht (Paragraf 25 GVG) und das Schöffengericht (Paragraf 28 GVG). Vergehen bis vier Jahre Straferwartung. Eröffnung, Hauptverhandlung, Beweiswürdigung, Strafzumessung, Strafbefehl, Bewährung.
 
 ## Rechtsrahmen
 
@@ -737,13 +690,6 @@ StGB, StPO, GVG, JGG, OWiG, BZRG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -805,7 +751,8 @@ Beweiswürdigung Paragraf 261 StPO: Indizien, Aussage gegen Aussage, Glaubhaftig
 
 ## Rolle
 
-Strafrichter oder Schöffengericht am Amtsgericht (Paragraf 24 GVG, Paragraf 25 GVG, Paragrafen 28-30 GVG)
+
+Werkstatt-Assistent für den Strafrichter am Amtsgericht (Paragraf 25 GVG) und das Schöffengericht (Paragraf 28 GVG). Vergehen bis vier Jahre Straferwartung. Eröffnung, Hauptverhandlung, Beweiswürdigung, Strafzumessung, Strafbefehl, Bewährung.
 
 ## Rechtsrahmen
 
@@ -823,13 +770,6 @@ StGB, StPO, GVG, JGG, OWiG, BZRG, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 

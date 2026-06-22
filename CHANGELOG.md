@@ -1,3 +1,39 @@
+# v372.0.0 — Gerichts-Plugins: Werkstatt-Header, plugin-spezifische Skill-Rollen, Konventionsumbenennung der Prompt-Dateien
+
+Groszer Qualitaetsdurchgang ueber alle 15 Plugins im Sammelordner `gerichtsplugins/`. Mega- und Miniprompts werden jetzt durchgehend von einem werkstattartigen Kopfteil eroeffnet, der den Spruchkoerper, die Eingangslage, die Arbeitsprodukte, den typischen Workflow und die Eigenheiten der jeweiligen Gerichtsbarkeit beschreibt. Skill-Rollen sind nicht mehr generisch, sondern plugin-spezifisch. Die Dateinamen der Prompts tragen den Plugin-Slug.
+
+## Umbenennung der Prompt-Dateien (Repo-Konvention)
+
+- `MEGAPROMPT.md` und `MINIPROMPT.md` umbenannt in `<slug>-megaprompt.md` und `<slug>-miniprompt.md` (per `git mv`, Historie bleibt erhalten). Damit folgen die Gerichts-Plugins der bereits gueltigen Dateinamen-Konvention der uebrigen Plugins.
+- Verweise in allen 15 Plugin-READMEs und im Sammelordner-README angeglichen.
+
+## Werkstatt-Header in Mega- und Miniprompts
+
+- Jeder Mega- und Miniprompt traegt jetzt einen einleitenden Kopfteil mit fuenf Sektionen: Spruchkoerper und Funktion, Eingang in die Akte, Arbeitsprodukte, Werkstattlogik, Eigenheiten dieser Gerichtsbarkeit.
+- Inhalt ist je Plugin individuell und workflow-orientiert (z.B. Strafkammer mit Schwurgericht, Schwerpunkt-Wirtschaftsstrafkammer und Sicherungsverwahrung; Finanzgericht mit AdV-Verfahren und Revisionszulassung; Sozialgericht mit einstweiligem Rechtsschutz und Erstattungsverfahren).
+- Insgesamt 30 Dateien angefasst (15 Mega- plus 15 Miniprompts).
+
+## Plugin-spezifische Skill-Rollen
+
+- Generische Personalisierungszeile in den Skill-Dateien des Sammelordners durch eine plugin-spezifische Rolle ersetzt (168 Skills in 15 Plugins).
+- Die Rolle benennt jetzt konkret die Funktion, den Spruchkoerper und den Arbeitsbereich, der dem Plugin entspricht.
+
+## KI-VO, Aktengeheimnis und Art. 22 DSGVO nur noch im README
+
+- Hinweisbloecke zu KI-Verordnung, Aktengeheimnis und Art. 22 DSGVO aus 30 Mega- und Miniprompts sowie 168 Skill-Dateien entfernt. Sie gehoeren in die Plugin-READMEs, nicht in die Werk-Prompts.
+- README des Plugins `staatsanwaltschaft-praxis-einstieg` erhaelt jetzt ebenfalls einen KI-VO-Block (Staatsanwalt-Variante), parallel zu den uebrigen Gerichts-Plugins.
+
+## Sanity
+
+- Skill-Descriptions bis 1024 Zeichen, plugin.json- und Marketplace-Descriptions bis 300 Zeichen, keine Zahl-Komma-Zahl-Sequenz, keine spitzen Klammern, keine doppelten Anfuehrungszeichen, keine Emojis, kein Paragraf-Zeichen in Pruefdateien, Slugs nur aus Kleinbuchstaben, Ziffern und Bindestrich.
+- Validator repo-weit gelaufen.
+
+## Versionierung
+
+- Repo-weiter Bump auf v372.0.0 (229 plugin.json, marketplace.json, README, SKILLS.md, skills-index-Seiten und Asset-Stand). Die hands-off-Plugins bleiben unberuehrt.
+
+---
+
 # v371.0.0 — Validator-Fix: kaputte relative Links nach Verschiebung in den Sammelordner
 
 Forward-Fix nach dem Release-Validator. Beim Verschieben des Plugins staatsanwaltschaft-praxis-einstieg in den Sammelordner `gerichtsplugins/` waren relative Markdown-Links nicht um die zusaetzliche Verzeichnisebene angepasst worden und liefen ins Leere (seit v368 brach der Release-ZIP-Build daran).

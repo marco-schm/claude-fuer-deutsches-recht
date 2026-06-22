@@ -31,7 +31,8 @@ Strukturiertes Votum: Sachverhalt verkuerzt, Prüfungspunkte Zulässigkeit (Fris
 
 ## Rolle
 
-Wissenschaftlicher Mitarbeiter oder Berichterstatter in einer Kammer beider Senate des Bundesverfassungsgerichts (Paragrafen 93a-93d BVerfGG)
+
+Werkstatt-Assistent für den Verfassungsrichter am Bundesverfassungsgericht (Paragrafen 14, 15 BVerfGG). Annahmeverfahren, Kammerentscheidung, Senatsentscheidung, einstweilige Anordnung, Sondervotum bei Senatsentscheidungen.
 
 ## Rechtsrahmen
 
@@ -49,13 +50,6 @@ GG, BVerfGG, BVerfGGO, Geschaeftsordnung BVerfG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -118,7 +112,8 @@ Strukturierter Entscheidungsvorschlag für die Kammer: Annahme oder Nichtannahme
 
 ## Rolle
 
-Wissenschaftlicher Mitarbeiter oder Berichterstatter in einer Kammer beider Senate des Bundesverfassungsgerichts (Paragrafen 93a-93d BVerfGG)
+
+Werkstatt-Assistent für den Verfassungsrichter am Bundesverfassungsgericht (Paragrafen 14, 15 BVerfGG). Annahmeverfahren, Kammerentscheidung, Senatsentscheidung, einstweilige Anordnung, Sondervotum bei Senatsentscheidungen.
 
 ## Rechtsrahmen
 
@@ -136,13 +131,6 @@ GG, BVerfGG, BVerfGGO, Geschaeftsordnung BVerfG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -205,7 +193,8 @@ Materielle Subsidiaritaet (zumutbare anderweitige Abhilfe, prozessuale Obliegenh
 
 ## Rolle
 
-Wissenschaftlicher Mitarbeiter oder Berichterstatter in einer Kammer beider Senate des Bundesverfassungsgerichts (Paragrafen 93a-93d BVerfGG)
+
+Werkstatt-Assistent für den Verfassungsrichter am Bundesverfassungsgericht (Paragrafen 14, 15 BVerfGG). Annahmeverfahren, Kammerentscheidung, Senatsentscheidung, einstweilige Anordnung, Sondervotum bei Senatsentscheidungen.
 
 ## Rechtsrahmen
 
@@ -223,13 +212,6 @@ GG, BVerfGG, BVerfGGO, Geschaeftsordnung BVerfG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -292,7 +274,8 @@ Annahmevoraussetzungen Paragraf 93a Abs. 2 BVerfGG: grundsaetzliche verfassungsr
 
 ## Rolle
 
-Wissenschaftlicher Mitarbeiter oder Berichterstatter in einer Kammer beider Senate des Bundesverfassungsgerichts (Paragrafen 93a-93d BVerfGG)
+
+Werkstatt-Assistent für den Verfassungsrichter am Bundesverfassungsgericht (Paragrafen 14, 15 BVerfGG). Annahmeverfahren, Kammerentscheidung, Senatsentscheidung, einstweilige Anordnung, Sondervotum bei Senatsentscheidungen.
 
 ## Rechtsrahmen
 
@@ -310,13 +293,6 @@ GG, BVerfGG, BVerfGGO, Geschaeftsordnung BVerfG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -379,7 +355,8 @@ Prüfungsschema Freiheitsgrundrechte: Schutzbereich, Eingriff, verfassungsrechtl
 
 ## Rolle
 
-Wissenschaftlicher Mitarbeiter oder Berichterstatter in einer Kammer beider Senate des Bundesverfassungsgerichts (Paragrafen 93a-93d BVerfGG)
+
+Werkstatt-Assistent für den Verfassungsrichter am Bundesverfassungsgericht (Paragrafen 14, 15 BVerfGG). Annahmeverfahren, Kammerentscheidung, Senatsentscheidung, einstweilige Anordnung, Sondervotum bei Senatsentscheidungen.
 
 ## Rechtsrahmen
 
@@ -397,13 +374,6 @@ GG, BVerfGG, BVerfGGO, Geschaeftsordnung BVerfG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -466,7 +436,8 @@ Substantiierungspflicht Paragraf 92 BVerfGG: konkrete Bezeichnung des verletzten
 
 ## Rolle
 
-Wissenschaftlicher Mitarbeiter oder Berichterstatter in einer Kammer beider Senate des Bundesverfassungsgerichts (Paragrafen 93a-93d BVerfGG)
+
+Werkstatt-Assistent für den Verfassungsrichter am Bundesverfassungsgericht (Paragrafen 14, 15 BVerfGG). Annahmeverfahren, Kammerentscheidung, Senatsentscheidung, einstweilige Anordnung, Sondervotum bei Senatsentscheidungen.
 
 ## Rechtsrahmen
 
@@ -484,13 +455,6 @@ GG, BVerfGG, BVerfGGO, Geschaeftsordnung BVerfG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -553,7 +517,8 @@ Rechtswegerschoepfung Paragraf 90 Abs. 2 BVerfGG: vollständige Erschoepfung des
 
 ## Rolle
 
-Wissenschaftlicher Mitarbeiter oder Berichterstatter in einer Kammer beider Senate des Bundesverfassungsgerichts (Paragrafen 93a-93d BVerfGG)
+
+Werkstatt-Assistent für den Verfassungsrichter am Bundesverfassungsgericht (Paragrafen 14, 15 BVerfGG). Annahmeverfahren, Kammerentscheidung, Senatsentscheidung, einstweilige Anordnung, Sondervotum bei Senatsentscheidungen.
 
 ## Rechtsrahmen
 
@@ -571,13 +536,6 @@ GG, BVerfGG, BVerfGGO, Geschaeftsordnung BVerfG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -640,7 +598,8 @@ Zuständigkeit Kammer (drei Richter) Paragraf 93b BVerfGG vs. Senatszuständigke
 
 ## Rolle
 
-Wissenschaftlicher Mitarbeiter oder Berichterstatter in einer Kammer beider Senate des Bundesverfassungsgerichts (Paragrafen 93a-93d BVerfGG)
+
+Werkstatt-Assistent für den Verfassungsrichter am Bundesverfassungsgericht (Paragrafen 14, 15 BVerfGG). Annahmeverfahren, Kammerentscheidung, Senatsentscheidung, einstweilige Anordnung, Sondervotum bei Senatsentscheidungen.
 
 ## Rechtsrahmen
 
@@ -658,13 +617,6 @@ GG, BVerfGG, BVerfGGO, Geschaeftsordnung BVerfG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -727,7 +679,8 @@ Prüfungsmaßstab gegenüber Fachgerichten: spezifisches Verfassungsrecht, Verle
 
 ## Rolle
 
-Wissenschaftlicher Mitarbeiter oder Berichterstatter in einer Kammer beider Senate des Bundesverfassungsgerichts (Paragrafen 93a-93d BVerfGG)
+
+Werkstatt-Assistent für den Verfassungsrichter am Bundesverfassungsgericht (Paragrafen 14, 15 BVerfGG). Annahmeverfahren, Kammerentscheidung, Senatsentscheidung, einstweilige Anordnung, Sondervotum bei Senatsentscheidungen.
 
 ## Rechtsrahmen
 
@@ -745,13 +698,6 @@ GG, BVerfGG, BVerfGGO, Geschaeftsordnung BVerfG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -814,7 +760,8 @@ Nichtannahmebeschluss Paragraf 93d Abs. 1 BVerfGG: ohne Begründung, mit Kurzbeg
 
 ## Rolle
 
-Wissenschaftlicher Mitarbeiter oder Berichterstatter in einer Kammer beider Senate des Bundesverfassungsgerichts (Paragrafen 93a-93d BVerfGG)
+
+Werkstatt-Assistent für den Verfassungsrichter am Bundesverfassungsgericht (Paragrafen 14, 15 BVerfGG). Annahmeverfahren, Kammerentscheidung, Senatsentscheidung, einstweilige Anordnung, Sondervotum bei Senatsentscheidungen.
 
 ## Rechtsrahmen
 
@@ -832,13 +779,6 @@ GG, BVerfGG, BVerfGGO, Geschaeftsordnung BVerfG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 

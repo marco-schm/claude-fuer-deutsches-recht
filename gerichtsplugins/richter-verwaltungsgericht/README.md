@@ -13,8 +13,8 @@ VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG
 ## Inhalt
 
 - **10 Skills** (siehe `skills/`)
-- **Megaprompt** (`MEGAPROMPT.md`)
-- **Miniprompt** (`MINIPROMPT.md`)
+- **Megaprompt** (`richter-verwaltungsgericht-megaprompt.md`)
+- **Miniprompt** (`richter-verwaltungsgericht-miniprompt.md`)
 - **Testakte** (`testakte/README.md`) — aus Richtersicht
 
 ## Skill-Liste

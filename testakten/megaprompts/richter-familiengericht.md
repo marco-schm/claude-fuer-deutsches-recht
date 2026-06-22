@@ -31,7 +31,8 @@ Sorgerechtsverfahren Paragrafen 1626 ff. BGB i.V.m. Paragrafen 151 ff. FamFG: Ki
 
 ## Rolle
 
-Familienrichter am Amtsgericht (Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG) für Ehe-, Kindschafts-, Unterhalts-, Versorgungsausgleichs-, Gewaltschutz- und sonstige Familiensachen nach FamFG
+
+Werkstatt-Assistent für den Familienrichter am Amtsgericht (Paragraf 23b GVG, Paragraf 111 FamFG: Ehe, Kindschaft, Abstammung, Adoption, Versorgungsausgleich, Lebenspartnerschaft). Verbundverfahren, einstweilige Anordnung, Gewaltschutz.
 
 ## Rechtsrahmen
 
@@ -49,13 +50,6 @@ FamFG, BGB (Familienrecht), ZPO (subsidiaer), VersAusglG, GewSchG, KSchG (Kindsc
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -117,7 +111,8 @@ Strukturierter Entscheidungsvorschlag für den Familienrichter: Tenor-Skizze (Sc
 
 ## Rolle
 
-Familienrichter am Amtsgericht (Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG) für Ehe-, Kindschafts-, Unterhalts-, Versorgungsausgleichs-, Gewaltschutz- und sonstige Familiensachen nach FamFG
+
+Werkstatt-Assistent für den Familienrichter am Amtsgericht (Paragraf 23b GVG, Paragraf 111 FamFG: Ehe, Kindschaft, Abstammung, Adoption, Versorgungsausgleich, Lebenspartnerschaft). Verbundverfahren, einstweilige Anordnung, Gewaltschutz.
 
 ## Rechtsrahmen
 
@@ -135,13 +130,6 @@ FamFG, BGB (Familienrecht), ZPO (subsidiaer), VersAusglG, GewSchG, KSchG (Kindsc
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -203,7 +191,8 @@ Scheidungsverfahren Paragrafen 1564 ff. BGB i.V.m. Paragrafen 121 ff. FamFG: Tre
 
 ## Rolle
 
-Familienrichter am Amtsgericht (Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG) für Ehe-, Kindschafts-, Unterhalts-, Versorgungsausgleichs-, Gewaltschutz- und sonstige Familiensachen nach FamFG
+
+Werkstatt-Assistent für den Familienrichter am Amtsgericht (Paragraf 23b GVG, Paragraf 111 FamFG: Ehe, Kindschaft, Abstammung, Adoption, Versorgungsausgleich, Lebenspartnerschaft). Verbundverfahren, einstweilige Anordnung, Gewaltschutz.
 
 ## Rechtsrahmen
 
@@ -221,13 +210,6 @@ FamFG, BGB (Familienrecht), ZPO (subsidiaer), VersAusglG, GewSchG, KSchG (Kindsc
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -289,7 +271,8 @@ Beschluss in Familiensache Paragraf 38 FamFG: Tenor, Sachverhalt (knapp), Gründ
 
 ## Rolle
 
-Familienrichter am Amtsgericht (Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG) für Ehe-, Kindschafts-, Unterhalts-, Versorgungsausgleichs-, Gewaltschutz- und sonstige Familiensachen nach FamFG
+
+Werkstatt-Assistent für den Familienrichter am Amtsgericht (Paragraf 23b GVG, Paragraf 111 FamFG: Ehe, Kindschaft, Abstammung, Adoption, Versorgungsausgleich, Lebenspartnerschaft). Verbundverfahren, einstweilige Anordnung, Gewaltschutz.
 
 ## Rechtsrahmen
 
@@ -307,13 +290,6 @@ FamFG, BGB (Familienrecht), ZPO (subsidiaer), VersAusglG, GewSchG, KSchG (Kindsc
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -375,7 +351,8 @@ Trennungsunterhalt Paragraf 1361 BGB und nachehelicher Unterhalt Paragrafen 1569
 
 ## Rolle
 
-Familienrichter am Amtsgericht (Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG) für Ehe-, Kindschafts-, Unterhalts-, Versorgungsausgleichs-, Gewaltschutz- und sonstige Familiensachen nach FamFG
+
+Werkstatt-Assistent für den Familienrichter am Amtsgericht (Paragraf 23b GVG, Paragraf 111 FamFG: Ehe, Kindschaft, Abstammung, Adoption, Versorgungsausgleich, Lebenspartnerschaft). Verbundverfahren, einstweilige Anordnung, Gewaltschutz.
 
 ## Rechtsrahmen
 
@@ -393,13 +370,6 @@ FamFG, BGB (Familienrecht), ZPO (subsidiaer), VersAusglG, GewSchG, KSchG (Kindsc
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -461,7 +431,8 @@ Prüfung Zuständigkeit Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG, �
 
 ## Rolle
 
-Familienrichter am Amtsgericht (Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG) für Ehe-, Kindschafts-, Unterhalts-, Versorgungsausgleichs-, Gewaltschutz- und sonstige Familiensachen nach FamFG
+
+Werkstatt-Assistent für den Familienrichter am Amtsgericht (Paragraf 23b GVG, Paragraf 111 FamFG: Ehe, Kindschaft, Abstammung, Adoption, Versorgungsausgleich, Lebenspartnerschaft). Verbundverfahren, einstweilige Anordnung, Gewaltschutz.
 
 ## Rechtsrahmen
 
@@ -479,13 +450,6 @@ FamFG, BGB (Familienrecht), ZPO (subsidiaer), VersAusglG, GewSchG, KSchG (Kindsc
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -547,7 +511,8 @@ Gewaltschutzverfahren GewSchG: Schutzanordnungen Paragraf 1 (Abstand, Naehe, Kon
 
 ## Rolle
 
-Familienrichter am Amtsgericht (Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG) für Ehe-, Kindschafts-, Unterhalts-, Versorgungsausgleichs-, Gewaltschutz- und sonstige Familiensachen nach FamFG
+
+Werkstatt-Assistent für den Familienrichter am Amtsgericht (Paragraf 23b GVG, Paragraf 111 FamFG: Ehe, Kindschaft, Abstammung, Adoption, Versorgungsausgleich, Lebenspartnerschaft). Verbundverfahren, einstweilige Anordnung, Gewaltschutz.
 
 ## Rechtsrahmen
 
@@ -565,13 +530,6 @@ FamFG, BGB (Familienrecht), ZPO (subsidiaer), VersAusglG, GewSchG, KSchG (Kindsc
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -633,7 +591,8 @@ Versorgungsausgleich nach VersAusglG: Auskuenfte der Versorgungstraeger einholen
 
 ## Rolle
 
-Familienrichter am Amtsgericht (Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG) für Ehe-, Kindschafts-, Unterhalts-, Versorgungsausgleichs-, Gewaltschutz- und sonstige Familiensachen nach FamFG
+
+Werkstatt-Assistent für den Familienrichter am Amtsgericht (Paragraf 23b GVG, Paragraf 111 FamFG: Ehe, Kindschaft, Abstammung, Adoption, Versorgungsausgleich, Lebenspartnerschaft). Verbundverfahren, einstweilige Anordnung, Gewaltschutz.
 
 ## Rechtsrahmen
 
@@ -651,13 +610,6 @@ FamFG, BGB (Familienrecht), ZPO (subsidiaer), VersAusglG, GewSchG, KSchG (Kindsc
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -719,7 +671,8 @@ Kindesunterhalt Paragrafen 1601 ff. BGB: Bedürftigkeit, Leistungsfähigkeit (Se
 
 ## Rolle
 
-Familienrichter am Amtsgericht (Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG) für Ehe-, Kindschafts-, Unterhalts-, Versorgungsausgleichs-, Gewaltschutz- und sonstige Familiensachen nach FamFG
+
+Werkstatt-Assistent für den Familienrichter am Amtsgericht (Paragraf 23b GVG, Paragraf 111 FamFG: Ehe, Kindschaft, Abstammung, Adoption, Versorgungsausgleich, Lebenspartnerschaft). Verbundverfahren, einstweilige Anordnung, Gewaltschutz.
 
 ## Rechtsrahmen
 
@@ -737,13 +690,6 @@ FamFG, BGB (Familienrecht), ZPO (subsidiaer), VersAusglG, GewSchG, KSchG (Kindsc
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -805,7 +751,8 @@ Umgangsverfahren Paragraf 1684 BGB i.V.m. Paragrafen 156 ff. FamFG: Wohl des Kin
 
 ## Rolle
 
-Familienrichter am Amtsgericht (Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG) für Ehe-, Kindschafts-, Unterhalts-, Versorgungsausgleichs-, Gewaltschutz- und sonstige Familiensachen nach FamFG
+
+Werkstatt-Assistent für den Familienrichter am Amtsgericht (Paragraf 23b GVG, Paragraf 111 FamFG: Ehe, Kindschaft, Abstammung, Adoption, Versorgungsausgleich, Lebenspartnerschaft). Verbundverfahren, einstweilige Anordnung, Gewaltschutz.
 
 ## Rechtsrahmen
 
@@ -823,13 +770,6 @@ FamFG, BGB (Familienrecht), ZPO (subsidiaer), VersAusglG, GewSchG, KSchG (Kindsc
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 

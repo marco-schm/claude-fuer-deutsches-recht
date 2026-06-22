@@ -31,7 +31,8 @@ Urteilsentwurf nach Paragraf 313 ZPO bei groesserem Streitwert: ausfuehrlicher T
 
 ## Rolle
 
-Vorsitzender oder Berichterstatter einer Zivilkammer (Paragraf 71 GVG, Streitwert ab 10.001 Euro; auch sonstige Zuständigkeiten Paragrafen 71-74 GVG) sowie zweite Instanz Berufung Paragraf 511 ZPO
+
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 5000 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
 
 ## Rechtsrahmen
 
@@ -49,13 +50,6 @@ ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -117,7 +111,8 @@ Vollständige zivilrechtliche Relation: Schluessigkeitsprüfung (Klägerstation)
 
 ## Rolle
 
-Vorsitzender oder Berichterstatter einer Zivilkammer (Paragraf 71 GVG, Streitwert ab 10.001 Euro; auch sonstige Zuständigkeiten Paragrafen 71-74 GVG) sowie zweite Instanz Berufung Paragraf 511 ZPO
+
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 5000 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
 
 ## Rechtsrahmen
 
@@ -135,13 +130,6 @@ ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -203,7 +191,8 @@ Eingangsprüfung Paragraf 522 ZPO bei Berufung, sachliche Zuständigkeit Paragra
 
 ## Rolle
 
-Vorsitzender oder Berichterstatter einer Zivilkammer (Paragraf 71 GVG, Streitwert ab 10.001 Euro; auch sonstige Zuständigkeiten Paragrafen 71-74 GVG) sowie zweite Instanz Berufung Paragraf 511 ZPO
+
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 5000 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
 
 ## Rechtsrahmen
 
@@ -221,13 +210,6 @@ ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -289,7 +271,8 @@ Hinweisverfuegung Paragraf 139 ZPO: Hinweise auf rechtliche Bedenken, Auflagen z
 
 ## Rolle
 
-Vorsitzender oder Berichterstatter einer Zivilkammer (Paragraf 71 GVG, Streitwert ab 10.001 Euro; auch sonstige Zuständigkeiten Paragrafen 71-74 GVG) sowie zweite Instanz Berufung Paragraf 511 ZPO
+
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 5000 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
 
 ## Rechtsrahmen
 
@@ -307,13 +290,6 @@ ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -375,7 +351,8 @@ Strukturierter Entscheidungsvorschlag für die Kammerberatung: Tenor-Vorschlag, 
 
 ## Rolle
 
-Vorsitzender oder Berichterstatter einer Zivilkammer (Paragraf 71 GVG, Streitwert ab 10.001 Euro; auch sonstige Zuständigkeiten Paragrafen 71-74 GVG) sowie zweite Instanz Berufung Paragraf 511 ZPO
+
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 5000 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
 
 ## Rechtsrahmen
 
@@ -393,13 +370,6 @@ ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -461,7 +431,8 @@ Berufungsverfahren: Zulässigkeit Paragraf 511, Berufungsbegründung Paragraf 52
 
 ## Rolle
 
-Vorsitzender oder Berichterstatter einer Zivilkammer (Paragraf 71 GVG, Streitwert ab 10.001 Euro; auch sonstige Zuständigkeiten Paragrafen 71-74 GVG) sowie zweite Instanz Berufung Paragraf 511 ZPO
+
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 5000 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
 
 ## Rechtsrahmen
 
@@ -479,13 +450,6 @@ ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -547,7 +511,8 @@ Vergleichsgespraech leiten Paragraf 278 ZPO, Mediation Paragraf 278a ZPO, Prozes
 
 ## Rolle
 
-Vorsitzender oder Berichterstatter einer Zivilkammer (Paragraf 71 GVG, Streitwert ab 10.001 Euro; auch sonstige Zuständigkeiten Paragrafen 71-74 GVG) sowie zweite Instanz Berufung Paragraf 511 ZPO
+
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 5000 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
 
 ## Rechtsrahmen
 
@@ -565,13 +530,6 @@ ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -633,7 +591,8 @@ Kostenentscheidung Paragrafen 91-101 ZPO, Streitwertfestsetzung Paragrafen 39-51
 
 ## Rolle
 
-Vorsitzender oder Berichterstatter einer Zivilkammer (Paragraf 71 GVG, Streitwert ab 10.001 Euro; auch sonstige Zuständigkeiten Paragrafen 71-74 GVG) sowie zweite Instanz Berufung Paragraf 511 ZPO
+
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 5000 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
 
 ## Rechtsrahmen
 
@@ -651,13 +610,6 @@ ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -719,7 +671,8 @@ Beweisbeschluss Paragrafen 358-360 ZPO: Beweisthema, Beweismittel, Auswahl des S
 
 ## Rolle
 
-Vorsitzender oder Berichterstatter einer Zivilkammer (Paragraf 71 GVG, Streitwert ab 10.001 Euro; auch sonstige Zuständigkeiten Paragrafen 71-74 GVG) sowie zweite Instanz Berufung Paragraf 511 ZPO
+
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 5000 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
 
 ## Rechtsrahmen
 
@@ -737,13 +690,6 @@ ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -805,7 +751,8 @@ Zeugenbeweis Paragrafen 373-401 ZPO, Beweisaufnahme im Termin, Belehrung, Glaubh
 
 ## Rolle
 
-Vorsitzender oder Berichterstatter einer Zivilkammer (Paragraf 71 GVG, Streitwert ab 10.001 Euro; auch sonstige Zuständigkeiten Paragrafen 71-74 GVG) sowie zweite Instanz Berufung Paragraf 511 ZPO
+
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 5000 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
 
 ## Rechtsrahmen
 
@@ -823,13 +770,6 @@ ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 

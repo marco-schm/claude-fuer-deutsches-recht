@@ -62,8 +62,8 @@ Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt s
 
 - `.claude-plugin/plugin.json` — Plugin-Manifest
 - `README.md` — Plugin-Beschreibung mit vollständigem Vorspruch
-- `MEGAPROMPT.md` — vollständiger Arbeits-Prompt, portabel
-- `MINIPROMPT.md` — Kompaktversion
+- `<slug>-megaprompt.md` — vollständiger Arbeits-Prompt, portabel (Dateiname trägt den Plugin-Slug)
+- `<slug>-miniprompt.md` — Kompaktversion (Dateiname trägt den Plugin-Slug)
 - `skills/` — 10 (richterliche Plugins) oder 20 (Relationstechnik) Skills
 - `testakte/README.md` — fiktive Testakte aus Richtersicht
 

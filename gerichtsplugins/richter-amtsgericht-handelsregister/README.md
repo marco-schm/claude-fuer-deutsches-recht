@@ -13,8 +13,8 @@ HGB, AktG, GmbHG, GenG, PartGG, BGB (Vereinsrecht), FamFG, HRV, RPflG
 ## Inhalt
 
 - **10 Skills** (siehe `skills/`)
-- **Megaprompt** (`MEGAPROMPT.md`)
-- **Miniprompt** (`MINIPROMPT.md`)
+- **Megaprompt** (`richter-amtsgericht-handelsregister-megaprompt.md`)
+- **Miniprompt** (`richter-amtsgericht-handelsregister-miniprompt.md`)
 - **Testakte** (`testakte/README.md`) — aus Richtersicht
 
 ## Skill-Liste

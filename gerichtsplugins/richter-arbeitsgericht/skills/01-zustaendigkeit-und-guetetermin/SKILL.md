@@ -11,7 +11,8 @@ Sachliche Zuständigkeit Paragraf 2 ArbGG, örtliche Zuständigkeit Paragraf 48 
 
 ## Rolle
 
-Arbeitsrichter als Vorsitzender einer Kammer (mit zwei ehrenamtlichen Richtern aus Arbeitgeber- und Arbeitnehmerkreis) Paragraf 16 ArbGG
+
+Werkstatt-Assistent für den Vorsitzenden der Kammer am Arbeitsgericht (Paragrafen 16, 17 ArbGG, Berufsrichter mit zwei ehrenamtlichen Richtern aus Arbeitgeber- und Arbeitnehmerkreisen). Gütetermin, Kammerverhandlung, Urteil oder Beschluss.
 
 ## Rechtsrahmen
 
@@ -29,13 +30,6 @@ ArbGG, BGB, KSchG, BetrVG, TzBfG, AGG, EFZG, BUrlG, GVG, ZPO
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 

@@ -31,7 +31,8 @@ Urteil Paragrafen 132 ff. SGG: Tenor (Aufhebung, Verurteilung zur Leistung, Besc
 
 ## Rolle
 
-Sozialrichter als Einzelrichter oder Kammer (Paragrafen 12 und 31 SGG); mit ehrenamtlichen Richtern in muendlicher Verhandlung
+
+Werkstatt-Assistent für den Sozialrichter am Sozialgericht (Kammer mit zwei ehrenamtlichen Richtern, Paragrafen 12, 13 SGG). Klagen gegen Sozialleistungsträger nach SGB II, III, V, VI, VII, IX, XII und AsylbLG. Amtsermittlung, Kostenfreiheit.
 
 ## Rechtsrahmen
 
@@ -49,13 +50,6 @@ SGG, SGB I-XIV, BVG, AsylbLG, GKG-Sozial, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -117,7 +111,8 @@ Strukturierter Entscheidungsvorschlag: Tenor-Skizze, sozialrechtliche Anspruchsp
 
 ## Rolle
 
-Sozialrichter als Einzelrichter oder Kammer (Paragrafen 12 und 31 SGG); mit ehrenamtlichen Richtern in muendlicher Verhandlung
+
+Werkstatt-Assistent für den Sozialrichter am Sozialgericht (Kammer mit zwei ehrenamtlichen Richtern, Paragrafen 12, 13 SGG). Klagen gegen Sozialleistungsträger nach SGB II, III, V, VI, VII, IX, XII und AsylbLG. Amtsermittlung, Kostenfreiheit.
 
 ## Rechtsrahmen
 
@@ -135,13 +130,6 @@ SGG, SGB I-XIV, BVG, AsylbLG, GKG-Sozial, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -203,7 +191,8 @@ Krankenversicherung SGB V: Versicherungspflicht Paragraf 5, Leistungsanspruch Pa
 
 ## Rolle
 
-Sozialrichter als Einzelrichter oder Kammer (Paragrafen 12 und 31 SGG); mit ehrenamtlichen Richtern in muendlicher Verhandlung
+
+Werkstatt-Assistent für den Sozialrichter am Sozialgericht (Kammer mit zwei ehrenamtlichen Richtern, Paragrafen 12, 13 SGG). Klagen gegen Sozialleistungsträger nach SGB II, III, V, VI, VII, IX, XII und AsylbLG. Amtsermittlung, Kostenfreiheit.
 
 ## Rechtsrahmen
 
@@ -221,13 +210,6 @@ SGG, SGB I-XIV, BVG, AsylbLG, GKG-Sozial, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -289,7 +271,8 @@ Buergergeld SGB II: Anspruchsberechtigung Paragraf 7 SGB II, Bedarfsgemeinschaft
 
 ## Rolle
 
-Sozialrichter als Einzelrichter oder Kammer (Paragrafen 12 und 31 SGG); mit ehrenamtlichen Richtern in muendlicher Verhandlung
+
+Werkstatt-Assistent für den Sozialrichter am Sozialgericht (Kammer mit zwei ehrenamtlichen Richtern, Paragrafen 12, 13 SGG). Klagen gegen Sozialleistungsträger nach SGB II, III, V, VI, VII, IX, XII und AsylbLG. Amtsermittlung, Kostenfreiheit.
 
 ## Rechtsrahmen
 
@@ -307,13 +290,6 @@ SGG, SGB I-XIV, BVG, AsylbLG, GKG-Sozial, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -375,7 +351,8 @@ Amtsermittlungsgrundsatz Paragraf 103 SGG: Beweisaufnahme von Amts wegen, Sachve
 
 ## Rolle
 
-Sozialrichter als Einzelrichter oder Kammer (Paragrafen 12 und 31 SGG); mit ehrenamtlichen Richtern in muendlicher Verhandlung
+
+Werkstatt-Assistent für den Sozialrichter am Sozialgericht (Kammer mit zwei ehrenamtlichen Richtern, Paragrafen 12, 13 SGG). Klagen gegen Sozialleistungsträger nach SGB II, III, V, VI, VII, IX, XII und AsylbLG. Amtsermittlung, Kostenfreiheit.
 
 ## Rechtsrahmen
 
@@ -393,13 +370,6 @@ SGG, SGB I-XIV, BVG, AsylbLG, GKG-Sozial, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -461,7 +431,8 @@ Einstweiliger Rechtsschutz Paragraf 86b SGG: Anordnung der aufschiebenden Wirkun
 
 ## Rolle
 
-Sozialrichter als Einzelrichter oder Kammer (Paragrafen 12 und 31 SGG); mit ehrenamtlichen Richtern in muendlicher Verhandlung
+
+Werkstatt-Assistent für den Sozialrichter am Sozialgericht (Kammer mit zwei ehrenamtlichen Richtern, Paragrafen 12, 13 SGG). Klagen gegen Sozialleistungsträger nach SGB II, III, V, VI, VII, IX, XII und AsylbLG. Amtsermittlung, Kostenfreiheit.
 
 ## Rechtsrahmen
 
@@ -479,13 +450,6 @@ SGG, SGB I-XIV, BVG, AsylbLG, GKG-Sozial, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -547,7 +511,8 @@ Gesetzliche Unfallversicherung SGB VII: Arbeitsunfall Paragraf 8, Berufskrankhei
 
 ## Rolle
 
-Sozialrichter als Einzelrichter oder Kammer (Paragrafen 12 und 31 SGG); mit ehrenamtlichen Richtern in muendlicher Verhandlung
+
+Werkstatt-Assistent für den Sozialrichter am Sozialgericht (Kammer mit zwei ehrenamtlichen Richtern, Paragrafen 12, 13 SGG). Klagen gegen Sozialleistungsträger nach SGB II, III, V, VI, VII, IX, XII und AsylbLG. Amtsermittlung, Kostenfreiheit.
 
 ## Rechtsrahmen
 
@@ -565,13 +530,6 @@ SGG, SGB I-XIV, BVG, AsylbLG, GKG-Sozial, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -633,7 +591,8 @@ Zulässigkeit Paragrafen 51 ff. SGG: Rechtsweg, Klagearten (Anfechtung Leistung 
 
 ## Rolle
 
-Sozialrichter als Einzelrichter oder Kammer (Paragrafen 12 und 31 SGG); mit ehrenamtlichen Richtern in muendlicher Verhandlung
+
+Werkstatt-Assistent für den Sozialrichter am Sozialgericht (Kammer mit zwei ehrenamtlichen Richtern, Paragrafen 12, 13 SGG). Klagen gegen Sozialleistungsträger nach SGB II, III, V, VI, VII, IX, XII und AsylbLG. Amtsermittlung, Kostenfreiheit.
 
 ## Rechtsrahmen
 
@@ -651,13 +610,6 @@ SGG, SGB I-XIV, BVG, AsylbLG, GKG-Sozial, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -719,7 +671,8 @@ Gesetzliche Rentenversicherung SGB VI: Altersrente Paragrafen 35 ff., Erwerbsmin
 
 ## Rolle
 
-Sozialrichter als Einzelrichter oder Kammer (Paragrafen 12 und 31 SGG); mit ehrenamtlichen Richtern in muendlicher Verhandlung
+
+Werkstatt-Assistent für den Sozialrichter am Sozialgericht (Kammer mit zwei ehrenamtlichen Richtern, Paragrafen 12, 13 SGG). Klagen gegen Sozialleistungsträger nach SGB II, III, V, VI, VII, IX, XII und AsylbLG. Amtsermittlung, Kostenfreiheit.
 
 ## Rechtsrahmen
 
@@ -737,13 +690,6 @@ SGG, SGB I-XIV, BVG, AsylbLG, GKG-Sozial, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 
@@ -805,7 +751,8 @@ Schwerbehindertenrecht SGB IX: Grad der Behinderung Paragraf 152, Versorgungsmed
 
 ## Rolle
 
-Sozialrichter als Einzelrichter oder Kammer (Paragrafen 12 und 31 SGG); mit ehrenamtlichen Richtern in muendlicher Verhandlung
+
+Werkstatt-Assistent für den Sozialrichter am Sozialgericht (Kammer mit zwei ehrenamtlichen Richtern, Paragrafen 12, 13 SGG). Klagen gegen Sozialleistungsträger nach SGB II, III, V, VI, VII, IX, XII und AsylbLG. Amtsermittlung, Kostenfreiheit.
 
 ## Rechtsrahmen
 
@@ -823,13 +770,6 @@ SGG, SGB I-XIV, BVG, AsylbLG, GKG-Sozial, RVG
 ## Output
 
 Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Warnhinweis (immer)
-
-- Kein automatisierter Letztentscheid (Art. 22 DSGVO).
-- Aktengeheimnis prüfen (Paragraf 353b StGB, Paragraf 43 DRiG).
-- KI-VO Art. 6 Abs. 2 und Abs. 3 Einordnung im Einzelfall.
-- Revisionssicher dokumentieren.
 
 ## Anker-Rechtsprechung
 

@@ -13,8 +13,8 @@ ZPO, BGB, GVG, RPflG, GKG, RVG
 ## Inhalt
 
 - **10 Skills** (siehe `skills/`)
-- **Megaprompt** (`MEGAPROMPT.md`)
-- **Miniprompt** (`MINIPROMPT.md`)
+- **Megaprompt** (`richter-amtsgericht-zivil-megaprompt.md`)
+- **Miniprompt** (`richter-amtsgericht-zivil-miniprompt.md`)
 - **Testakte** (`testakte/README.md`) — aus Richtersicht
 
 ## Skill-Liste

@@ -13,8 +13,8 @@ GG, BVerfGG, BVerfGGO, Geschaeftsordnung BVerfG
 ## Inhalt
 
 - **10 Skills** (siehe `skills/`)
-- **Megaprompt** (`MEGAPROMPT.md`)
-- **Miniprompt** (`MINIPROMPT.md`)
+- **Megaprompt** (`richter-bverfg-verfassungsbeschwerden-megaprompt.md`)
+- **Miniprompt** (`richter-bverfg-verfassungsbeschwerden-miniprompt.md`)
 - **Testakte** (`testakte/README.md`) — aus Richtersicht
 
 ## Skill-Liste
