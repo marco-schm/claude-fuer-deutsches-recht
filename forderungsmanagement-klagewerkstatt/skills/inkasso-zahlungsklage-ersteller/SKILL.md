@@ -16,7 +16,7 @@ description: "Gläubiger hat offene Forderung die er vor Gericht einklagen will.
 
 ## Zentrale Normen
 
-§ 286 BGB (Verzugseintritt) — § 288 BGB (Verzugszinsen: +5 Pp. B2C, +9 Pp. B2B) — § 280 Abs. 2 BGB (Verzugsschaden) — § 249 BGB (Schadensersatz) — § 253 ZPO (Klageschrift) — §§ 12, 13, 29, 29c ZPO (örtliche Zuständigkeit) — §§ 23, 71 GVG (sachliche Zuständigkeit ab 01.01.2026: AG bis 10.000 EUR, LG darueber; § 47 EGZPO Uebergangsvorschrift) — § 93 ZPO (sofortiges Anerkenntnis, Kostenfolge) — § 812 BGB (Bereicherungsrecht als Auffanganspruch)
+Paragraf 286 BGB (Verzugseintritt) — Paragraf 288 BGB (Verzugszinsen: +5 Pp. B2C, +9 Pp. B2B) — Paragraf 280 Absatz 2 BGB (Verzugsschaden) — Paragraf 249 BGB (Schadensersatz) — Paragraf 253 ZPO (Klageschrift) — Paragrafen 12, 13, 29, 29c ZPO (örtliche Zuständigkeit) — Paragraf 23 Nummer 1 GVG und Paragraf 71 Absatz 1 GVG (allgemeine Wertzuständigkeit ab 01.01.2026: Amtsgericht bis einschließlich 10.000 EUR, Landgericht darüber; Paragraf 47 EGZPO Übergangsvorschrift) — Paragraf 23 Nummer 2a GVG (Wohnraummietsachen ausschließlich Amtsgericht) — Paragraf 93 ZPO (sofortiges Anerkenntnis, Kostenfolge) — Paragraf 812 BGB (Bereicherungsrecht als Auffanganspruch)
 
 ## Basiszinssatz § 247 BGB
 
@@ -26,9 +26,9 @@ description: "Gläubiger hat offene Forderung die er vor Gericht einklagen will.
 
 ## Aenderungen Zustaendigkeitsrecht ab 01.01.2026
 
-Gesetz zur Aenderung des Zustaendigkeitsstreitwerts der Amtsgerichte (BGBl. 2025 I Nr. 318 vom 11.12.2025) hebt mit Wirkung ab 01.01.2026 an:
+Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte (BGBl. 2025 I Nr. 318 vom 11.12.2025) hebt mit Wirkung ab 01.01.2026 an:
 
-- Sachliche Zustaendigkeit Amtsgericht von 5.000 auf 10.000 EUR (§ 23 GVG n.F.).
+- Sachliche Zuständigkeit Amtsgericht von 5.000 auf 10.000 EUR für allgemeine Forderungssachen nach Paragraf 23 Nummer 1 GVG. Wohnraummietsachen bleiben davon unabhängig nach Paragraf 23 Nummer 2a GVG ausschließlich beim Amtsgericht.
 - Berufungssumme § 511 Abs. 2 ZPO von 600 auf 1.000 EUR.
 - Wertgrenze Nichtzulassungsbeschwerde § 26 EGZPO von 20.000 auf 25.000 EUR.
 - Uebergangsvorschrift § 47 EGZPO regelt Altverfahren.
@@ -80,7 +80,7 @@ Prüfe je Position: Anspruchsgrundlage, Betrag, Fälligkeit, Durchsetzbarkeit, V
 
 ### Schritt 4: Gerichtsort finden
 
-Sachlich: AG bis 10.000 EUR (§ 23 GVG), LG darüber (§ 71 GVG). Örtlich: §§ 12, 13, 29, 29c ZPO. Online-Abgleich über justiz.de oder justizadressen.nrw.de; Quelle und Abrufdatum dokumentieren.
+Sachlich: allgemeine Forderung bis einschließlich 10.000 EUR Amtsgericht nach Paragraf 23 Nummer 1 GVG, darüber Landgericht nach Paragraf 71 Absatz 1 GVG. Wohnraummietsachen bleiben nach Paragraf 23 Nummer 2a GVG streitwertunabhängig beim Amtsgericht. Örtlich: Paragrafen 12, 13, 29, 29c ZPO. Online-Abgleich über justiz.de oder justizadressen.nrw.de; Quelle und Abrufdatum dokumentieren.
 
 ### Schritt 5: Output bauen
 
@@ -148,4 +148,3 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-

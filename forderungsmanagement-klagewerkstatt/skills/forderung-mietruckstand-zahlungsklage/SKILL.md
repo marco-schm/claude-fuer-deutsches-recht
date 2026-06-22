@@ -1,17 +1,19 @@
 ---
 name: forderung-mietruckstand-zahlungsklage
-description: "Mietrueckstand: Zahlungsklage parallel zu Raumungsklage § 543 BGB. Pflicht Mahnung? In der Regel nicht erforderlich (kalendermaessig bestimmt). Schonfristregelung § 569 Abs. 3 BGB. Output: Klageschrift Zahlungsklage + Raumungsklage."
+description: "Mietrueckstand: Zahlungsklage parallel zur Raeumungsklage mit Wohnraum-Sonderzustaendigkeit nach Paragraf 23 Nummer 2a GVG, Schonfrist nach Paragraf 569 Absatz 3 BGB und Gewerberaum-Weiche nach Paragraf 23 Nummer 1 und Paragraf 71 Absatz 1 GVG."
 ---
 
 # Mietrueckstands-Klage
 
 ## Aufgabe
-Mietrueckstand: Zahlungsklage parallel zu Raumungsklage § 543 BGB.
+Mietrückstand: Zahlungsklage parallel zur Räumungsklage wegen Zahlungsverzugs nach Paragraf 543 Absatz 2 Satz 1 Nummer 3 BGB.
 
 
 ## Fachlicher Arbeitskern
 
-Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `forderungsmanagement-klagewerkstatt` zum Thema `forderung-mietruckstand-zahlungsklage`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Mietrueckstand: Zahlungsklage parallel zu Raumungsklage § 543 BGB. Pflicht Mahnung? In der Regel nicht erforderlich (kalendermaessig bestimmt). Schonfristregelung § 569 Abs. 3 BGB. Output: Klageschrift Zahlungsklage + Raumungsklage..
+Dieser Skill ist ein Arbeitswerkzeug für Mietrückstände im Forderungsmanagement. Er trennt zuerst Wohnraum von Gewerberaum, weil die Zuständigkeit anders läuft: Ansprüche aus einem Wohnraummietverhältnis gehören nach Paragraf 23 Nummer 2a GVG streitwertunabhängig zum Amtsgericht; dort besteht in erster Instanz kein Anwaltszwang. Das gilt auch für die verbundene Zahlungs- und Räumungsklage. Bei Gewerberaummiete bleibt es bei der Wertzuständigkeit nach Paragraf 23 Nummer 1 GVG und Paragraf 71 Absatz 1 GVG; ab dem Landgericht gilt Paragraf 78 Absatz 1 Satz 1 ZPO.
+
+Ausgangspunkt ist immer die konkrete Aufgabe: Mietrückstand beziffern, Zahlungsverzug und Kündigungsgrund prüfen, Schonfrist nach Paragraf 569 Absatz 3 BGB einordnen und eine Zahlungsklage oder eine verbundene Zahlungs- und Räumungsklage ausformulieren.
 
 Arbeite deshalb fallnah:
 

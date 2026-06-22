@@ -1,6 +1,6 @@
 ---
 name: forderung-mietrueckstand-zahlungsklage
-description: "Mietrueckstand: Zahlungsklage parallel zu Raeumungsklage § 543 Abs. 2 Nr. 3 BGB ausserordentliche Kuendigung. Mietzahlung im Voraus zum 3. Werktag § 556b BGB. Schonfristzahlung § 569 Abs. 3 Nr. 2 BGB heilt Kuendigung. Streitwert nach § 41 GKG. Output: Klageschrift Zahlung + Raeumung."
+description: "Mietrueckstand und Klageweg: Zahlungsklage parallel zur Raeumungsklage, Wohnraum-Sonderzustaendigkeit nach Paragraf 23 Nummer 2a GVG, kein Anwaltszwang in erster Instanz, Gewerberaum nach Paragraf 23 Nummer 1 und Paragraf 71 Absatz 1 GVG streitwertabhaengig."
 ---
 
 # Mietrueckstand – Zahlungsklage Wohnraum
@@ -87,10 +87,12 @@ Es wird beantragt:
 | Raeumungsklage Geschäft | Jahresmiete | § 41 Abs. 2 GKG |
 | Kombi | Addition (§ 5 ZPO) |  |
 
-## Sachliche und oertliche Zuständigkeit
+## Sachliche und örtliche Zuständigkeit
 
-- Wohnraummiete: **ausschließlich** AG (§ 23 Nr. 2a GVG), unabhaengig vom Streitwert.
-- Oertlich: ausschliesslicher Gerichtsstand der belegenen Sache (§ 29a ZPO).
+- **Wohnraummiete:** Amtsgericht ist nach Paragraf 23 Nummer 2a GVG ausschließlich und streitwertunabhängig zuständig. Das gilt auch, wenn Räumungsantrag und Zahlung rückständiger Miete in einer Klage verbunden werden.
+- **Gewerberaummiete:** allgemeine Wertzuständigkeit; bis einschließlich zehntausend Euro Amtsgericht nach Paragraf 23 Nummer 1 GVG, darüber Landgericht nach Paragraf 71 Absatz 1 GVG.
+- **Anwaltszwang:** vor dem Amtsgericht in erster Instanz kein Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO im Umkehrschluss; vor dem Landgericht und in der Berufung Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO.
+- **Örtlich:** ausschließlicher Gerichtsstand der belegenen Sache nach Paragraf 29a ZPO.
 
 ## Beweismittel-Standardliste
 
@@ -128,6 +130,6 @@ Wenn Mieter Sozialleistungen bezieht (Buergergeld, Wohngeld, Sozialhilfe):
 - BGB § 556b Faelligkeit [gesetze-im-internet.de/bgb/__556b.html](https://www.gesetze-im-internet.de/bgb/__556b.html)
 - BGB § 568, § 569 Form und Schonfrist [gesetze-im-internet.de/bgb/__569.html](https://www.gesetze-im-internet.de/bgb/__569.html)
 - ZPO § 29a oertlich [gesetze-im-internet.de/zpo/__29a.html](https://www.gesetze-im-internet.de/zpo/__29a.html)
-- GVG § 23 Nr. 2a [gesetze-im-internet.de/gvg/__23.html](https://www.gesetze-im-internet.de/gvg/__23.html)
+- GVG Paragraf 23 Nummer 2a [gesetze-im-internet.de/gvg/__23.html](https://www.gesetze-im-internet.de/gvg/__23.html)
 - GKG § 41 Streitwert [gesetze-im-internet.de/gkg_2004/__41.html](https://www.gesetze-im-internet.de/gkg_2004/__41.html)
 - BGH VIII ZR 261/06 Schonfrist ord. Kuendigung [bundesgerichtshof.de](https://www.bundesgerichtshof.de)

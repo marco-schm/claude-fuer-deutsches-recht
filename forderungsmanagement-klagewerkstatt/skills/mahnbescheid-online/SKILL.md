@@ -16,7 +16,7 @@ Strategische und technische Anleitung zum gerichtlichen Mahnverfahren §§ 688-7
 | Beweislage komplex, viele Einwendungen erwartet | NEIN |
 | Verbraucher, Bestreiten wahrscheinlich | NEIN |
 | Hauptzweck Verjährungshemmung | JA (§ 204 Abs. 1 Nr. 3 BGB) |
-| Forderung > 5.000 EUR mit niedrigem Streitwert-Risiko | JA |
+| Forderung auch über 10.000 EUR mit niedrigem Einwendungsrisiko | JA; das Mahnverfahren wird nicht durch die allgemeine Amtsgerichts-Wertgrenze gesperrt |
 | Unbestimmter Anspruch (Schadensersatz dem Grunde nach) | NICHT zulässig § 688 Abs. 2 Nr. 1 ZPO |
 | Gegenseitige Verträge mit Gegenleistungseinrede | nicht über MB (§ 688 Abs. 2 Nr. 2 ZPO) |
 
@@ -54,7 +54,7 @@ Bei Gläubiger im Ausland: Wahl unter den Mahngerichten (§ 689 Abs. 2 ZPO), AG 
 
 - Portal: [online-mahnantrag.de](https://www.online-mahnantrag.de) (Bund-Länder-Kooperation)
 - Format: Barcode-Antrag, professioneller XJustiz-Datensatz oder Online-Formular
-- Anwaltspflicht: nein (auch für Privatpersonen möglich, § 78 Abs. 3 ZPO)
+- Anwaltspflicht: nein; das automatisierte Mahnverfahren und die erste Instanz vor dem Amtsgericht setzen keinen Anwaltszwang voraus. Anwaltszwang entsteht erst vor Landgericht und höheren Gerichten nach Paragraf 78 Absatz 1 Satz 1 ZPO.
 - Bei beruflichem Antrag durch Anwalt: über beA EDA-Schnittstelle (§ 690 Abs. 3 ZPO)
 
 ## Inhalt des Antrags § 690 ZPO

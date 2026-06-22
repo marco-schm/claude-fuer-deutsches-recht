@@ -27,8 +27,8 @@ Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Qu
 
 Pflichtnormen aus dem Plugin-Material:
 - Paragraf 573c BGB
-- Paragraf 23 Nr. 2a GVG
-- Paragraf 23 Nr. 1 GVG
+- Paragraf 23 Nummer 2a GVG
+- Paragraf 23 Nummer 1 GVG
 - Paragraf 550 BGB
 Leitentscheidungen nur nach Live-Prüfung verwenden:
 - BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15
@@ -36,8 +36,8 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 
 ## Kernmodule
 
-- **Einstieg Routing:** Einstieg, Triage und Routing für Mietrecht (Wohnraum/Gewerbe): ordnet Rolle (Mieter, Vermieter, Hausverwaltung), markiert Frist (Paragraf 573c BGB Kündigung 3 Mon.), wählt Norm (BGB ParagrafParagraf 535/536/543/558/573 ff., WEG, BetrKV) un…
-- **Klageentwurf Amtsgericht Miet Gewerbemiete:** Beide Rollen — entwirf eine Klageschrift zum Amtsgericht in einer Mietsache. Sachliche Zuständigkeit für Wohnraummietsachen nach Paragraf 23 Nr. 2a GVG ohne Rücksicht auf den Streitwert; bei Geschäftsraummiete allgemeine AG-Grenze nach Par…
+- **Einstieg Routing:** Einstieg, Triage und Routing für Mietrecht: trennt Wohnraum, Gewerberaum und WEG, markiert Fristen, wählt BGB-, WEG-, BetrKV- und Zuständigkeitsnormen und leitet zum passenden Spezial-Skill.
+- **Klageentwurf Amtsgericht Miet Gewerbemiete:** Entwirft Klagen mit Zuständigkeitsweiche: Wohnraummiete nach Paragraf 23 Nummer 2a GVG stets Amtsgericht ohne Anwaltszwang in erster Instanz; Gewerberaum wertabhängig nach Paragraf 23 Nummer 1 GVG und Paragraf 71 Absatz 1 GVG.
 - **Mandat Triage Mietrecht:** Strukturierte Eingangs-Abfrage für mietrechtliche Mandate. Klaert Mandantenrolle (Vermieter Mieter WEG-Eigentuemer Verwalter) Gegenstandsart (Wohnraum Gewerbe WEG) Sachgebiet (Kündigung Mieterhoehung Mietminderung Modernisierung Nebenkoste…
 - **Rechtsstand MAI 2026 Faktenbank:** Faktenbank und Quellen-Gate für aktuelle mietrechtliche und WEG-rechtliche Aussagen mit Stand 29.05.2026. Dieses Fachmodul dient als Quellen-Gate vor Ausgaben zu Mietpreisbremse, Mieterhöhung, Betriebskosten, Kündigung, Kaution, Steckersol…
 - **Start Chronologie Fristen:** Einstieg, Schnelltriage und Fallrouting im Mietrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload…

@@ -145,7 +145,7 @@ Mit freundlichen Grüßen
 
 ### Sachlich
 
-- AG bei Wohnraum-Mietsache § 23 Nr. 2 a) GVG ausschließlich
+- AG bei Wohnraummietsachen ausschließlich und streitwertunabhängig nach Paragraf 23 Nummer 2a GVG; für Gewerberaummiete gilt die allgemeine Wertzuständigkeit nach Paragraf 23 Nummer 1 GVG und Paragraf 71 Absatz 1 GVG.
 
 ### Örtlich
 

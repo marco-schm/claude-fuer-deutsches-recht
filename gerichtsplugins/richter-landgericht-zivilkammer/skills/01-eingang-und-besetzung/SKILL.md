@@ -42,6 +42,9 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ## Prüfungsschema in Stufen
 
 1. Eingang und Besetzung: Rechtsweg, sachliche Zuständigkeit, örtlichen Gerichtsstand und funktionelle Zuständigkeit zuerst prüfen.
+   - Wohnraummietsachen nicht wegen hoher Rückstände oder Räumungswert beim Landgericht behalten; Paragraf 23 Nummer 2a GVG weist sie ausschließlich und streitwertunabhängig dem Amtsgericht zu.
+   - Gewerberaummiete nur bei Überschreiten der allgemeinen Wertgrenze von zehntausend Euro als erstinstanzliche Landgerichtssache prüfen; darunter Amtsgericht.
+   - Bei Berufungen gegen amtsgerichtliche Wohnraummietsachen ist das Landgericht Berufungsgericht; Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO beachten.
 2. Klage nach Paragraf 253 ZPO auf Antrag, Parteien, Lebenssachverhalt, Bezifferung, Anlagen und Zustellfähigkeit kontrollieren.
 3. Verfahrensart festlegen: schriftliches Vorverfahren, früher erster Termin, Paragraf 495a ZPO oder Sonderzuständigkeit.
 4. Fristen und Kostenvorschuss so verfügen, dass Zustellung und Verteidigungsanzeige ohne Rückfrage laufen können.
@@ -50,6 +53,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ## Typische Fallstricke
 
 - Der Gerichtsstand wird aus der Parteianschrift statt aus dem Streitgegenstand abgeleitet.
+- Wohnraummiete wird erstinstanzlich als allgemeine Wertstreitigkeit behandelt, obwohl eine Sonderzuweisung zum Amtsgericht besteht.
 - Zustellung wird verfügt, obwohl Kostenvorschuss, ladungsfähige Anschrift oder Antrag noch fehlen.
 - Paragraf 495a ZPO wird angeordnet, ohne Streitwertgrenze und Gehörsbedarf zu prüfen.
 - Aktengeheimnis nach Paragraf 353b StGB und Amtsverschwiegenheit nach Paragraf 43 DRiG bleiben bei jeder externen Werkzeugnutzung Sperren.

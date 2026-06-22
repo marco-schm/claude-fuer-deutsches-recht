@@ -26,6 +26,10 @@ description: "Berliner Räumung: Fachmodul im Miet- und Wohnungseigentumsrecht: 
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
+## Titelherkunft und Zuständigkeit
+
+Vor Vollstreckungsauftrag prüfen, aus welchem Titel geräumt wird. Bei Wohnraummiete muss die erste Instanz wegen Paragraf 23 Nummer 2a GVG beim Amtsgericht gelegen haben, unabhängig vom Streitwert und unabhängig von verbundenen Zahlungsanträgen. Ein hoher Mietrückstand ist kein Grund, die Wohnraumräumung erstinstanzlich zum Landgericht zu ziehen. Bei Gewerberaummiete ist die Wertzuständigkeit zu dokumentieren; vor dem Landgericht gilt Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO.
+
 ## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?

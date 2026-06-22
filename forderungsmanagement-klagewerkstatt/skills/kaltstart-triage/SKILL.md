@@ -81,7 +81,7 @@ Die Triage endet immer mit einem knappen Arbeitsplan:
 - BGB 288 Verzugszinsen
 - BGB 362 Erfuellung
 - BGB 195 199 Verjährung
-- GVG 23 Nr. 1 ab 2026 Streitwertgrenze AG zehntausend Euro
+- Paragraf 23 Nummer 1 GVG ab 2026 allgemeine Amtsgerichtsgrenze zehntausend Euro; Paragraf 23 Nummer 2a GVG hält Wohnraummietsachen streitwertunabhängig beim Amtsgericht.
 
 ## Quellen
 

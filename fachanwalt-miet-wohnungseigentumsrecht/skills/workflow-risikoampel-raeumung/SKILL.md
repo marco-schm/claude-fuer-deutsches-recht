@@ -47,6 +47,10 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - Für Berufsanfänger sichtbar machen, welche Anspruchsgrundlage, Beweislast und Frist den Fall trägt.
 - Für erfahrene Nutzer knapp bleiben und auf den entscheidenden Streitpunkt zielen.
 
+## Zuständigkeitsrisiko Räumung
+
+Grün ist eine Wohnraum-Räumung nur, wenn die Klage beim Amtsgericht am Belegenheitsort geplant ist: sachlich Paragraf 23 Nummer 2a GVG, örtlich Paragraf 29a ZPO. Der Streitwert der Räumung und zusätzlich eingeklagte Mietrückstände ändern daran nichts. Rot ist eine Wohnraum-Räumung, die wegen hoher Forderung ans Landgericht geroutet wird. Bei Gewerberaum ist dagegen die Wertzuständigkeit zu prüfen; über zehntausend Euro Landgericht mit Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO.
+
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

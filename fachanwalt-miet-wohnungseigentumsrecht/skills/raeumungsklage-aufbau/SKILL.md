@@ -26,6 +26,12 @@ description: "Räumungsklage Aufbau: Fachmodul im Miet- und Wohnungseigentumsrec
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
+## Zuständigkeit und Anwaltszwang bei Räumung
+
+1. Wohnraum: Die Räumungsklage und eine damit verbundene Zahlungsklage bleiben nach Paragraf 23 Nummer 2a GVG ausschließlich beim Amtsgericht, unabhängig davon, wie hoch Mietrückstand, Nutzungsentschädigung oder Jahresmietwert sind. Örtlich ist Paragraf 29a ZPO zu prüfen. In erster Instanz besteht kein Anwaltszwang; das folgt aus Paragraf 78 Absatz 1 Satz 1 ZPO im Umkehrschluss.
+2. Gewerberaum: Es gilt die allgemeine Wertzuständigkeit. Bis einschließlich zehntausend Euro ist das Amtsgericht nach Paragraf 23 Nummer 1 GVG zuständig; über zehntausend Euro das Landgericht nach Paragraf 71 Absatz 1 GVG. Vor dem Landgericht gilt Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO.
+3. Berufung: Gegen amtsgerichtliche Wohnraum-Urteile geht die Berufung zum Landgericht; dort gilt Anwaltszwang. Deshalb schon im erstinstanzlichen Schriftsatz Berufungsinteressen, Streitwert und Beweisangebote sauber dokumentieren.
+
 ## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?

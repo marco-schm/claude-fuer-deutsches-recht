@@ -130,7 +130,7 @@ Berechnung: vom 3. Werktag des Monats
 ### Schritt 5 — Raeumungs-Klage
 
 - Bei Auszug-Verweigerung
-- AG (sachliche Zuständigkeit unabhängig vom Streitwert § 23 GVG)
+- Amtsgericht am Belegenheitsort; sachlich ausschließlich und streitwertunabhängig nach Paragraf 23 Nummer 2a GVG, örtlich nach Paragraf 29a ZPO. In erster Instanz besteht kein Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO im Umkehrschluss; Berufung zum Landgericht mit Anwaltszwang.
 
 ## 7) Mieter-Verteidigung
 

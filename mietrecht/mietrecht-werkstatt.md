@@ -76,68 +76,68 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `mietrecht` zu einem tragfähigen 
 - Aktualität ist Teil des Outputs: prüfe bei laufenden Fristen, Gesetzesänderungen, Übergangsrecht, Landesrecht und Unionsrecht, ob der Stand noch trägt.
 - Aus dem Plugin übernommene Normanker:
   - Paragraf 573c BGB
-  - Paragraf 23 Nr. 2a GVG
-  - Paragraf 23 Nr. 1 GVG
+  - Paragraf 23 Nummer 2a GVG: Wohnraummiete stets Amtsgericht; örtlich regelmäßig Paragraf 29a ZPO
+  - Paragraf 23 Nummer 1 GVG und Paragraf 71 Absatz 1 GVG: Gewerberaummiete bis einschließlich 10.000 EUR Amtsgericht, darüber Landgericht
+  - Paragraf 78 Absatz 1 Satz 1 ZPO: Anwaltszwang erst vor Landgericht und höheren Gerichten
+  - Paragraf 23 Nummer 1 und Paragraf 71 Absatz 1 GVG
+  - Paragraf 78 Absatz 1 Satz 1 ZPO
+  - Paragraf 29a ZPO
+  - Paragraf 23 Nummer 1 GVG
   - Paragraf 550 BGB
   - Paragraf 556 BGB
-  - Paragraf 556d ff. BGB
-  - Paragraf 291 StGB
-  - Paragraf 556g Abs. 2 BGB
-  - Paragraf 573 Abs. 2 Nr. 2 BGB
-  - Paragraf 573 Abs. 3 BGB
 
 ## Leitentscheidungen
 
 - BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
 - BGH, Urteil vom 14.02.2025 - V ZR 128/23 (Paragraf 16 Abs. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
 - BGH, Urteil vom 14.02.2025 - V ZR 86/24 (Paragraf 20 WEG, bauliche Veränderung, Vorbefassung/Beschlussersetzung). Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
-- AG bis **zehntausend Euro** ab dem 01.01.2026 durch das Gesetz zur Stärkung der Amtsgerichte in Zivilsachen (Bundesrat-Billigung 21. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
 - BGH, Urteil vom 18.12.2024, VIII ZR 16/23 | Mietpreisbremse immer dreistufig prüfen: Gebiet/Verordnung, Ausgangsmiete und Ausnahmen, dann Rüge/Rückforderung. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
+- BGH, Urteil vom 27.11.2024, VIII ZR 36/23 | Modernisierungsausnahmen sauber nach Vor-/Nachmaßnahmen, Informationslage und konkreter Berechnung trennen; umfassende Modernisierung nicht pa. Vor Verwendung live nachziehen und auf den konkreten Fall zuschneiden.
 
 ## Prüfraster oder Indizienliste
 
 1. **Einstieg Routing**
-   - Fachlicher Fokus: Einstieg, Triage und Routing für Mietrecht (Wohnraum/Gewerbe): ordnet Rolle (Mieter, Vermieter, Hausverwaltung), markiert Frist (Paragraf 573c BGB Kündigung 3 Mon.), wählt Norm (BGB ParagrafParagraf 535/536/543/558/573 ff., WEG, BetrKV) und Zuständigkeit (Amtsgericht Belegenheit), leitet zum passenden Spezial-Skill.
+   - Fachlicher Fokus: Einstieg, Triage und Routing für Mietrecht. Der Skill trennt Wohnraum, Gewerberaum und WEG, markiert Kündigungs-, Räumungs-, Mieterhöhungs- und WEG-Fristen, wählt BGB-, WEG-, BetrKV- und Zuständigkeitsnormen und leitet zum passenden Spezial-Skill.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-2. **Klageentwurf Amtsgericht Miet Gewerbemiete**
-   - Fachlicher Fokus: Beide Rollen — entwirf eine Klageschrift zum Amtsgericht in einer Mietsache. Sachliche Zuständigkeit für Wohnraummietsachen nach Paragraf 23 Nr. 2a GVG ohne Rücksicht auf den Streitwert; bei Geschäftsraummiete allgemeine AG-Grenze nach Paragraf 23 Nr. 1 GVG zehntausend Euro ab 01.01.2026 durch das Gesetz zur S...
-   - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
-   - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
-   - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-3. **Mandat Triage Mietrecht**
+2. **Mandat Triage Mietrecht**
    - Fachlicher Fokus: Strukturierte Eingangs-Abfrage für mietrechtliche Mandate. Klaert Mandantenrolle (Vermieter Mieter WEG-Eigentuemer Verwalter) Gegenstandsart (Wohnraum Gewerbe WEG) Sachgebiet (Kündigung Mieterhoehung Mietminderung Modernisierung Nebenkostenabrechnung Mietkaution-Rückforderung Eigenbedarf Sanierun...
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-4. **Rechtsstand MAI 2026 Faktenbank**
+3. **Rechtsstand MAI 2026 Faktenbank**
    - Fachlicher Fokus: Faktenbank und Quellen-Gate für aktuelle mietrechtliche und WEG-rechtliche Aussagen mit Stand 29.05.2026. Dieses Fachmodul dient als Quellen-Gate vor Ausgaben zu Mietpreisbremse, Mieterhöhung, Betriebskosten, Kündigung, Kaution, Steckersolargeräten, virtueller Eigentümerversammlung, WEG-Beschluss...
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-5. **Start Chronologie Fristen**
+4. **Start Chronologie Fristen**
    - Fachlicher Fokus: Einstieg, Schnelltriage und Fallrouting im Mietrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet...
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-6. **Amtlichen Amtsgericht Sonderfall**
+5. **Amtlichen Amtsgericht Sonderfall**
    - Fachlicher Fokus: Amtlichen: Risikoampel, Gegenargumente und Verteidigungslinien im Mietrecht: fachlich vertieftes Modul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Mietrecht.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-7. **Klageentwurf Beweislast und Darlegungslast**
+6. **Klageentwurf Beweislast und Darlegungslast**
    - Fachlicher Fokus: Klageentwurf: Beweislast, Darlegungslast und Substantiierung im Mietrecht: fachlich vertieftes Modul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Mietrecht.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-8. **Nebenkostenpruefung Prozessstrategie**
+7. **Nebenkostenpruefung Prozessstrategie**
    - Fachlicher Fokus: Nebenkostenprüfung als Einreichungs- und Verfahrensworkflow: Belegeinsicht verlangen, Einwendungen fristwahrend formulieren, Rückzahlungsanspruch beziffern, Mahnung/Mahnverfahren/Klage behandeln und Unterlagen für Amtsgericht oder Mieter-/Vermieterportal ordnen im Mietrecht.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-9. **Mieterhoehungs Compliance Dokumentation und Akte**
+8. **Mieterhoehungs Compliance Dokumentation und Akte**
    - Fachlicher Fokus: Mieterhoehungs: Compliance-Dokumentation und Aktenvermerk im Mietrecht: fachlich vertieftes Modul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Mietrecht.
+   - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
+   - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
+   - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
+9. **Klageentwurf Amtsgericht Miet Gewerbemiete**
+   - Fachlicher Fokus: Klageentwurf fuer Mietstreitigkeiten mit sauberer Trennung von Wohnraum und Gewerberaum: Wohnraum nach Paragraf 23 Nummer 2a GVG stets Amtsgericht ohne Anwaltszwang in erster Instanz; Gewerberaum streitwertabhaengig nach Paragraf 23 Nummer 1 und Paragraf 71 Absatz 1 GVG.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.

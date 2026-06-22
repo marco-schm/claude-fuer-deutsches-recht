@@ -100,7 +100,7 @@ Sachlich kurz. Anrede mit Namen. Bezugnahme auf den Mietvertrag. Konkrete Aufste
 
 ## Hinweis zur Raeumungsklage
 
-Wenn der Mieter nach Ablauf der Kündigungsfrist nicht raeumt: **Raeumungsklage** zum Amtsgericht am Belegenheitsort (§ 29a ZPO). Siehe Skill `klageentwurf-amtsgericht`. **Disclaimer** — die Raeumungsklage ist anwaltliche Praxis; Selbstvertretung ist beim Amtsgericht zwar möglich aber nicht empfohlen.
+Wenn der Mieter nach Ablauf der Kündigungsfrist nicht räumt: **Räumungsklage** zum Amtsgericht am Belegenheitsort nach Paragraf 29a ZPO. Bei Wohnraum ist das Amtsgericht nach Paragraf 23 Nummer 2a GVG ausschließlich und streitwertunabhängig zuständig; das gilt auch für die verbundene Räumungs- und Zahlungsklage. In erster Instanz besteht dort kein Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO im Umkehrschluss. Siehe Skill `klageentwurf-amtsgericht`. **Disclaimer** — die Räumungsklage ist anwaltliche Praxis; Selbstvertretung ist beim Amtsgericht zwar möglich, aber nicht empfohlen.
 
 ## Vor Versand (Disclaimer wiederholt)
 

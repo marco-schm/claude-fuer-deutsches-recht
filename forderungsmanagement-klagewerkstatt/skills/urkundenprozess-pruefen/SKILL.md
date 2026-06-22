@@ -86,7 +86,7 @@ Kläger kann **jederzeit** vom Urkundenprozess in Regelverfahren wechseln (Klage
 ## Zuständigkeit
 
 Wie normale Zahlungsklage:
-- Sachlich: § 23 Nr. 1 GVG (AG bis 10.000 EUR ab 01.01.2026), § 71 GVG (LG).
+- Sachlich: Paragraf 23 Nummer 1 GVG (Amtsgericht bis einschließlich 10.000 EUR ab 01.01.2026), Paragraf 71 Absatz 1 GVG (Landgericht darüber). Wohnraummietsachen bleiben nach Paragraf 23 Nummer 2a GVG beim Amtsgericht.
 - Bei Wechsel/Scheck: AG zuständig unabhaengig vom Streitwert (§ 600 ZPO).
 
 ## Vergleich mit Mahnverfahren

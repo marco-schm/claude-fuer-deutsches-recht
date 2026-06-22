@@ -47,6 +47,10 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - Für Berufsanfänger sichtbar machen, welche Anspruchsgrundlage, Beweislast und Frist den Fall trägt.
 - Für erfahrene Nutzer knapp bleiben und auf den entscheidenden Streitpunkt zielen.
 
+## Zuständigkeit trotz Streitwert
+
+Der Streitwert steuert in Wohnraummietsachen Kosten, Gebühren, Beschwer und Vergleichswirtschaftlichkeit, aber nicht die sachliche Zuständigkeit: Paragraf 23 Nummer 2a GVG weist Wohnraummietsachen ausschließlich und streitwertunabhängig dem Amtsgericht zu. Eine verbundene Räumungs- und Zahlungsklage über Wohnraum bleibt deshalb beim Amtsgericht. Gewerberaummiete ist anders zu behandeln: bis einschließlich zehntausend Euro Amtsgericht nach Paragraf 23 Nummer 1 GVG, darüber Landgericht nach Paragraf 71 Absatz 1 GVG mit Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO.
+
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

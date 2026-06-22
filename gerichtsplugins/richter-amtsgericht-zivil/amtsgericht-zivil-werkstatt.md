@@ -77,13 +77,13 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `richter-amtsgericht-zivil` zu ein
 - Aus dem Plugin übernommene Normanker:
   - Paragraf 91 ZPO, vorläufige Vollstreckbarkeit Paragrafen 708-711 ZPO
   - Paragraf 23 GVG
+  - Paragraf 23 Nummer 2a GVG
   - Paragraf 286 ZPO
   - Paragraf 3 ZPO
   - Paragrafen 708 ff. ZPO
   - Paragraf 511 ZPO
   - Paragraf 269 Abs. 3 Satz 3 ZPO
   - Paragraf 495a ZPO wird genutzt, obwohl rechtliches Gehör oder Streitwertgrenze nicht sauber geprüft sind. - Kostenentscheidung wird ohne Erledigungs- oder Teilunterliegensquote fo…
-  - Paragrafen 23, 71 GVG sowie Paragrafen 139, 495a, 286, 313 ZPO
   - Paragraf 253 ZPO
 
 ## Leitentscheidungen

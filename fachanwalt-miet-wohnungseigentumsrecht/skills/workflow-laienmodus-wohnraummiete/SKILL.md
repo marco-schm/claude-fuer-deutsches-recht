@@ -47,6 +47,10 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - Für Berufsanfänger sichtbar machen, welche Anspruchsgrundlage, Beweislast und Frist den Fall trägt.
 - Für erfahrene Nutzer knapp bleiben und auf den entscheidenden Streitpunkt zielen.
 
+## Einfacher Gerichtsweg
+
+Bei Wohnraummiete ist in erster Instanz das Amtsgericht zuständig, auch wenn viel Geld im Streit steht. Grundlage ist Paragraf 23 Nummer 2a GVG. Beim Amtsgericht muss man in erster Instanz keinen Anwalt haben; vor dem Landgericht, also insbesondere in der Berufung, gilt dagegen Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO. Diese Vereinfachung gilt nur für Wohnraum, nicht für Gewerberaummiete.
+
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

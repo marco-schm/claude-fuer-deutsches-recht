@@ -26,6 +26,10 @@ description: "Vollstreckungsschutz Räumung: Fachmodul im Miet- und Wohnungseige
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
+## Titel- und Instanzcheck
+
+Bei Wohnraum beginnt die Räumungssache nach Paragraf 23 Nummer 2a GVG beim Amtsgericht, auch wenn gleichzeitig hohe Mietrückstände eingeklagt wurden. Für Vollstreckungsschutz wird deshalb zuerst geprüft, ob Titel, Rechtskraft, Zustellung, Räumungsfrist und etwaige Berufung zum Landgericht sauber dokumentiert sind. Vor dem Amtsgericht bestand erstinstanzlich kein Anwaltszwang; im Berufungsverfahren vor dem Landgericht gilt Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO.
+
 ## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?

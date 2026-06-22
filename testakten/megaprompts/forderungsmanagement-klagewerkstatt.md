@@ -10,12 +10,12 @@ Dieser Megaprompt enthaelt top-10 von 84 Skills des Plugins `forderungsmanagemen
 2. **spezial-klagewerkstatt-erstpruefung-und-mandatsziel** — Klagewerkstatt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin forderungsmanagement klagewerkstatt; schärft Rollen…
 3. **klagevorlage-aus-eigenen-mustern** — Kanzlei will einmalig ihre eigenen Klagemuster in ein wiederverwendbares Plugin destillieren. Lernlauf Klagewerkstatt. P…
 4. **inkasso-zahlungsklage-ersteller** — Gläubiger hat offene Forderung die er vor Gericht einklagen will. Zahlungsklage Forderungsmanagement §§ 286 ff. BGB ZPO.…
-5. **klage-aus-eigenem-skill** — Kanzlei hat hauseigenes Klage-Plugin (klagewerkstatt-kanzlei) installiert und will damit Klagen aus eigenem Sachverhalt …
-6. **forderung-gegen-verbraucher** — Forderung gegen Verbraucher: Verbraucherschutzregeln nach § 13 BGB, AGB-Kontrolle §§ 305-309 BGB, Widerrufsrecht bei Fer…
-7. **anspruchsschriftsatz-bausteine** — Bausteinkatalog für eine Anspruchsbegruendung in Klage oder Schriftsatz. Liefert Vorlagen für Rubrum Antrag Tatbestand A…
-8. **forderung-arzthonorar-goae** — Arzthonorar nach GOAE und GOZ einklagen: Faelligkeit § 12 GOAE mit Rechnungserteilung mit Mindestinhalten Diagnose GOAE-…
-9. **forderung-gegen-gmbh-gesellschafter** — Forderung gegen GmbH-Gesellschafter persoenlich: § 13 Abs. 2 GmbHG Trennungsprinzip Haftung nur Gesellschaftsvermoegen. …
-10. **forderung-gegen-insolventen-schuldner** — Forderung gegen insolventen Schuldner: Anmeldung zur Insolvenztabelle § 174 InsO binnen Anmeldefrist mit Grund und Hoehe…
+5. **forderung-gegen-verbraucher** — Forderung gegen Verbraucher: Verbraucherschutzregeln nach § 13 BGB, AGB-Kontrolle §§ 305-309 BGB, Widerrufsrecht bei Fer…
+6. **anspruchsschriftsatz-bausteine** — Bausteinkatalog für eine Anspruchsbegruendung in Klage oder Schriftsatz. Liefert Vorlagen für Rubrum Antrag Tatbestand A…
+7. **forderung-arzthonorar-goae** — Arzthonorar nach GOAE und GOZ einklagen: Faelligkeit § 12 GOAE mit Rechnungserteilung mit Mindestinhalten Diagnose GOAE-…
+8. **forderung-gegen-gmbh-gesellschafter** — Forderung gegen GmbH-Gesellschafter persoenlich: § 13 Abs. 2 GmbHG Trennungsprinzip Haftung nur Gesellschaftsvermoegen. …
+9. **forderung-gegen-insolventen-schuldner** — Forderung gegen insolventen Schuldner: Anmeldung zur Insolvenztabelle § 174 InsO binnen Anmeldefrist mit Grund und Hoehe…
+10. **forderung-im-ausland-vollstrecken** — Forderung im EU-Ausland vollstrecken: Bruessel Ia VO 1215/2012 (Anerkennung ohne Exequatur), Europaeischer Vollstreckung…
 
 ---
 
@@ -101,7 +101,7 @@ Die Triage endet immer mit einem knappen Arbeitsplan:
 - BGB 288 Verzugszinsen
 - BGB 362 Erfuellung
 - BGB 195 199 Verjährung
-- GVG 23 Nr. 1 ab 2026 Streitwertgrenze AG zehntausend Euro
+- Paragraf 23 Nummer 1 GVG ab 2026 allgemeine Amtsgerichtsgrenze zehntausend Euro; Paragraf 23 Nummer 2a GVG hält Wohnraummietsachen streitwertunabhängig beim Amtsgericht.
 
 ## Quellen
 
@@ -155,7 +155,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Quellenregel
@@ -235,7 +239,7 @@ Zusätzlich Dokumenten-Drop akzeptieren (Rechnungen, Mahnungen, Korrespondenz). 
 
 Pflichtschritt vor Auslieferung. Reihenfolge:
 
-1. **Sachliche Zuständigkeit** rechnerisch: Streitwert ≤ 10.000 EUR → AG (§ 23 Nr. 1 GVG i. d. F. seit 1.1.2026); > 10.000 EUR → LG (§ 71 GVG). Sondertatbestände beachten: Wohnraummietsachen AG ohne Streitwertgrenze (§ 23 Nr. 2a GVG), Nachbarschaftsstreitigkeiten AG (§ 23 Nr. 2e GVG), Familiensachen FamG, Handelssachen Kammer für Handelssachen (§§ 95, 96 GVG).
+1. **Sachliche Zuständigkeit** rechnerisch: Streitwert bis einschließlich 10.000 EUR → Amtsgericht nach Paragraf 23 Nummer 1 GVG; über 10.000 EUR → Landgericht nach Paragraf 71 Absatz 1 GVG. Sondertatbestände beachten: Wohnraummietsachen ausschließlich und streitwertunabhängig Amtsgericht nach Paragraf 23 Nummer 2a GVG, auch bei verbundener Räumungs- und Zahlungsklage; Nachbarschaftsstreitigkeiten Amtsgericht nach Paragraf 23 Nummer 2e GVG; Familiensachen Familiengericht; Handelssachen Kammer für Handelssachen nach Paragrafen 95 und 96 GVG.
 2. **Örtliche Zuständigkeit** rechtlich: allgemeiner Gerichtsstand der Beklagten (§§ 12, 13 ZPO). Erfüllungsort (§ 29 ZPO) prüfen — bei Geldschulden Sitz der Klagepartei nur bei qualifizierter Schickschuld, sonst Wohnsitz Beklagte. Verbraucher-Sondertatbestand § 29c ZPO. AGB-Gerichtsstand prüfen, aber bei Verbrauchern nach § 38 ZPO unwirksam.
 3. **Online-Adressrecherche** (immer ausführen):
    - Für NRW-Anschriften: `pplx content fetch "https://www.justizadressen.nrw.de/de/justiz/suche?suchbegriff=<PLZ_oder_Ort>"` (PLZ oder Ort der Beklagten). Wenn PLZ allein nicht reicht, mit Ort nachfassen.
@@ -273,13 +277,13 @@ Bei Zustimmung: zwei Seiten, DOCX oder Markdown.
 ### Pflichtinhalte und Form der Klageschrift
 - **§ 253 Abs. 2 ZPO** Klageinhalt (Parteien, Gericht, Anträge, Sachverhalt, Beweismittel).
 - **§ 130 ZPO** Form der Schriftsätze; **§ 130a ZPO** elektronisches Dokument; **§ 130d ZPO** Pflicht zur elektronischen Einreichung für Rechtsanwältinnen und Rechtsanwälte (beA).
-- **§ 78 ZPO** Anwaltszwang vor LG aufwärts.
+- **Paragraf 78 Absatz 1 Satz 1 ZPO** Anwaltszwang vor Landgericht und höheren Gerichten; vor dem Amtsgericht in erster Instanz kein Anwaltszwang im Umkehrschluss.
 - **§ 12 RVG / Anlage 2 VV RVG**: Gebührentabelle; **Nr. 2300 VV RVG** Geschäftsgebühr; **Vorbem. 3 Abs. 4 VV RVG** Anrechnung 0,65; **Nr. 3100 VV RVG** Verfahrensgebühr.
 
 ### Sachliche Zuständigkeit
-- **§ 23 Nr. 1 GVG** AG bis 10.000 EUR (i. d. F. seit 1.1.2026).
-- **§ 71 GVG** LG über 10.000 EUR.
-- **§ 23 Nr. 2a GVG** Wohnraummietsachen AG ohne Streitwertgrenze.
+- **Paragraf 23 Nummer 1 GVG** Amtsgericht bis einschließlich 10.000 EUR.
+- **Paragraf 71 Absatz 1 GVG** Landgericht über 10.000 EUR.
+- **Paragraf 23 Nummer 2a GVG** Wohnraummietsachen ausschließlich und streitwertunabhängig Amtsgericht, einschließlich verbundener Räumungs- und Zahlungsklagen.
 
 ### Örtliche Zuständigkeit
 - **§§ 12, 13 ZPO** allgemeiner Gerichtsstand der Beklagten.
@@ -309,7 +313,11 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 4. **Optional**: HTML-Padlet zur Pflege, DOCX-Anlagenkopfbogen, Memo im Gutachtenstil.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Quellenpflicht
@@ -357,7 +365,7 @@ _Gläubiger hat offene Forderung die er vor Gericht einklagen will. Zahlungsklag
 
 ## Zentrale Normen
 
-§ 286 BGB (Verzugseintritt) — § 288 BGB (Verzugszinsen: +5 Pp. B2C, +9 Pp. B2B) — § 280 Abs. 2 BGB (Verzugsschaden) — § 249 BGB (Schadensersatz) — § 253 ZPO (Klageschrift) — §§ 12, 13, 29, 29c ZPO (örtliche Zuständigkeit) — §§ 23, 71 GVG (sachliche Zuständigkeit ab 01.01.2026: AG bis 10.000 EUR, LG darueber; § 47 EGZPO Uebergangsvorschrift) — § 93 ZPO (sofortiges Anerkenntnis, Kostenfolge) — § 812 BGB (Bereicherungsrecht als Auffanganspruch)
+Paragraf 286 BGB (Verzugseintritt) — Paragraf 288 BGB (Verzugszinsen: +5 Pp. B2C, +9 Pp. B2B) — Paragraf 280 Absatz 2 BGB (Verzugsschaden) — Paragraf 249 BGB (Schadensersatz) — Paragraf 253 ZPO (Klageschrift) — Paragrafen 12, 13, 29, 29c ZPO (örtliche Zuständigkeit) — Paragraf 23 Nummer 1 GVG und Paragraf 71 Absatz 1 GVG (allgemeine Wertzuständigkeit ab 01.01.2026: Amtsgericht bis einschließlich 10.000 EUR, Landgericht darüber; Paragraf 47 EGZPO Übergangsvorschrift) — Paragraf 23 Nummer 2a GVG (Wohnraummietsachen ausschließlich Amtsgericht) — Paragraf 93 ZPO (sofortiges Anerkenntnis, Kostenfolge) — Paragraf 812 BGB (Bereicherungsrecht als Auffanganspruch)
 
 ## Basiszinssatz § 247 BGB
 
@@ -367,9 +375,9 @@ _Gläubiger hat offene Forderung die er vor Gericht einklagen will. Zahlungsklag
 
 ## Aenderungen Zustaendigkeitsrecht ab 01.01.2026
 
-Gesetz zur Aenderung des Zustaendigkeitsstreitwerts der Amtsgerichte (BGBl. 2025 I Nr. 318 vom 11.12.2025) hebt mit Wirkung ab 01.01.2026 an:
+Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte (BGBl. 2025 I Nr. 318 vom 11.12.2025) hebt mit Wirkung ab 01.01.2026 an:
 
-- Sachliche Zustaendigkeit Amtsgericht von 5.000 auf 10.000 EUR (§ 23 GVG n.F.).
+- Sachliche Zuständigkeit Amtsgericht von 5.000 auf 10.000 EUR für allgemeine Forderungssachen nach Paragraf 23 Nummer 1 GVG. Wohnraummietsachen bleiben davon unabhängig nach Paragraf 23 Nummer 2a GVG ausschließlich beim Amtsgericht.
 - Berufungssumme § 511 Abs. 2 ZPO von 600 auf 1.000 EUR.
 - Wertgrenze Nichtzulassungsbeschwerde § 26 EGZPO von 20.000 auf 25.000 EUR.
 - Uebergangsvorschrift § 47 EGZPO regelt Altverfahren.
@@ -421,7 +429,7 @@ Prüfe je Position: Anspruchsgrundlage, Betrag, Fälligkeit, Durchsetzbarkeit, V
 
 ### Schritt 4: Gerichtsort finden
 
-Sachlich: AG bis 10.000 EUR (§ 23 GVG), LG darüber (§ 71 GVG). Örtlich: §§ 12, 13, 29, 29c ZPO. Online-Abgleich über justiz.de oder justizadressen.nrw.de; Quelle und Abrufdatum dokumentieren.
+Sachlich: allgemeine Forderung bis einschließlich 10.000 EUR Amtsgericht nach Paragraf 23 Nummer 1 GVG, darüber Landgericht nach Paragraf 71 Absatz 1 GVG. Wohnraummietsachen bleiben nach Paragraf 23 Nummer 2a GVG streitwertunabhängig beim Amtsgericht. Örtlich: Paragrafen 12, 13, 29, 29c ZPO. Online-Abgleich über justiz.de oder justizadressen.nrw.de; Quelle und Abrufdatum dokumentieren.
 
 ### Schritt 5: Output bauen
 
@@ -483,134 +491,11 @@ Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `klage-aus-eigenem-skill`
-
-_Kanzlei hat hauseigenes Klage-Plugin (klagewerkstatt-kanzlei) installiert und will damit Klagen aus eigenem Sachverhalt erstellen. Laufzeit-Variante Klagewerkstatt. Prüfraster: Sachverhalt Beklagtenadresse Zuständigkeit §§ 12 13 29 29c ZPO §§ 23 71 GVG. Output: fertige Klageschrift DOCX und Markdown. Abgrenzung zu klagevorlage-aus-eigenen-mustern (Lernlauf) und inkasso-zahlungsklage-ersteller (standalone)._
-
-# Klagewerkstatt — Laufzeit aus eigenem Skill
-
-## Triage — kläre vor dem Einsatz
-
-1. Ist das hauseigene Klage-Plugin (`klagewerkstatt-<kanzlei>`) installiert — enthält es `assets/vorlagen-leer/standardklage.md` und `references/hausregeln.json`?
-2. Sind Sachverhalt, Parteien, Forderungshöhe und Beklagtenanschrift vollständig bekannt?
-3. Welche sachliche Zuständigkeit liegt vor (AG bis 10.000 EUR / LG darüber, §§ 23, 71 GVG)?
-4. Welche örtliche Zuständigkeit gilt (§§ 12, 13 ZPO allgemein; § 29 ZPO Erfüllungsort; § 29c ZPO Verbraucherverträge)?
-5. Soll zusätzlich ein Kurz-Memo im Gutachtenstil mit Prozessrisiken erstellt werden?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
-
-## Zentrale Normen
-
-§ 253 ZPO (Klageschrift) — §§ 130, 130a, 130d ZPO (Schriftsatz, elektronisches Dokument, beA-Pflicht) — §§ 23, 71 GVG (sachliche Zuständigkeit) — §§ 12, 13, 29, 29c, 38 ZPO (örtliche Zuständigkeit) — VO (EU) 1215/2012 (Brüssel Ia, internationale Zuständigkeit) — §§ 286, 288, 280 BGB (Verzug, Verzugszinsen, Verzugsschaden) — RVG VV (Rechtsanwaltsvergütung)
-
-## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill ist die Laufzeit-Variante. Er setzt voraus, dass das hauseigene Klage-Plugin bereits installiert ist. Er nimmt Sachverhalt und Beklagtenadresse entgegen, prüft online die Zuständigkeit, füllt die hauseigene Vorlage und liefert die Klageschrift als DOCX und Markdown.
-
-## Ablauf
-
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
-
-**Schritt 1 — Hausvorlage finden**
-
-Prüfen, ob `klagewerkstatt-<slug>` installiert ist. Wenn nicht: auf `klagevorlage-aus-eigenen-mustern` verweisen.
-
-**Schritt 2 — Sachverhalt einsammeln**
-
-Parteien, Forderungsgrund, Betrag, Fälligkeit, Verzug, Beklagtenanschrift, Beweise, Anlagen.
-
-**Schritt 3 — Zuständigkeit online prüfen (Pflicht)**
-
-Sachlich: §§ 23, 71 GVG. Örtlich: §§ 12, 13, 29, 29c, 38 ZPO. Online-Recherche unter `https://www.justizadressen.nrw.de/de/justiz/suche` und `https://www.justiz.de/onlinedienste/gerichtsverzeichnis_und_orga/index.php`. Quelle und Abrufdatum dokumentieren. BeA-SAFE-ID nachtragen.
-
-**Schritt 4 — Klage erzeugen**
-
-Vorlage `assets/vorlagen-leer/standardklage.md` befüllen, DOCX über `office/docx` rendern. Anlagenliste ergänzen. Dateiname: `Klage-<Beklagte>-<YYYYMMDD>.docx`.
-
-**Schritt 5 — Memo (nur auf Anfrage)**
-
-Kurz-Memo im Gutachtenstil: Anspruchsgrundlagen, Beweislage, Prozessrisiken.
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Klageschrift aus eigenem Skill-Output generieren | Klageschrift nach Skill-Output-Schema; Template unten |
-| Variante A — Skill-Output unvollstaendig Luecken vorhanden | Luecken manuell fuellen; dann Template anwenden |
-| Variante B — Mandant will Vereinfachung Mahnverfahren statt Klage | Mahnbescheid § 688 ZPO als kostenguenstigere Alternative |
-| Variante C — Streitwert unter 10.000 EUR (Stand ab 01.01.2026, § 23 GVG n.F.) | Amtsgericht zustaendig; vereinfachtes Verfahren AG; kein Anwaltszwang in der Klageerhebung |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Output-Template
-
-**Klageschrift-Entwurf**
-
-An das [Amtsgericht / Landgericht] [Ort]
-
-Klage
-
-des [Kläger], [Anschrift] — Kläger —
-
-gegen
-
-[Beklagter], [Anschrift] — Beklagter —
-
-Streitwert: [...] EUR
-
-**Zuständigkeitsprüfung:**
-| Prüfpunkt | Ergebnis |
-|---|---|
-| Sachlich (§§ 23/71 GVG) | AG / LG wegen Streitwert [...] EUR |
-| Örtlich (§§ 12/13/29/29c ZPO) | AG/LG [...] wegen [...] |
-| Online-Quelle | [...] — Abrufdatum: [...] |
-| BeA-SAFE-ID | [...] |
-
-**Klageantrag:**
-Der Beklagte wird verurteilt, an den Kläger [...] EUR nebst Zinsen in Höhe von [...] Prozentpunkten über dem Basiszinssatz seit [...] zu zahlen.
-
-**Begründung:** [Sachverhalt nach ODUE-Schema: Obersatz — Definition — Untersatz — Ergebnis]
-
-**Anlagenliste:**
-- Anlage K 1: [...]
-- Anlage K 2: [...]
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
---- vor Versand klaeren ---
-1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
-
-Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
-
-Schlussabsatz Variante B (formal-streng):
-Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
----
-<!-- AUDIT 27.05.2026 bundle_004 -->
-**Halluzinations-Audit 27.05.2026**
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ---
@@ -945,7 +830,7 @@ Beleg für PKV/Beihilfe: bitte Original einreichen.
 
 Wie reine Geldforderung. Streitwert = Hauptforderung ohne Zinsen (§ 3 ZPO i.V.m. § 4 Abs. 1 ZPO).
 
-**Beispiel:** EUR 1.245,60 Hauptforderung → AG (ab 01.01.2026 unter 10.000 EUR, § 23 Nr. 1 GVG), kein Anwaltszwang.
+**Beispiel:** EUR 1.245,60 Hauptforderung → Amtsgericht (ab 01.01.2026 unter 10.000 EUR, Paragraf 23 Nummer 1 GVG), kein Anwaltszwang in erster Instanz nach Paragraf 78 Absatz 1 Satz 1 ZPO im Umkehrschluss.
 
 ## Verjährung
 
@@ -1318,6 +1203,163 @@ Verwalter kann zurueckgezahlte Forderungen anfechten:
 - InsO § 174 Anmeldung [gesetze-im-internet.de/inso/__174.html](https://www.gesetze-im-internet.de/inso/__174.html)
 - InsO § 180 Feststellungsklage [gesetze-im-internet.de/inso/__180.html](https://www.gesetze-im-internet.de/inso/__180.html)
 - Insolvenzbekanntmachungen [insolvenzbekanntmachungen.de](https://www.insolvenzbekanntmachungen.de)
+
+---
+
+## Skill: `forderung-im-ausland-vollstrecken`
+
+_Forderung im EU-Ausland vollstrecken: Bruessel Ia VO 1215/2012 (Anerkennung ohne Exequatur), Europaeischer Vollstreckungstitel EuVTVO 805/2004, Europaeischer Zahlungsbefehl EuMVVO 1896/2006, geringfuegige Forderung EuGFVO 861/2007. Drittstaat: Anerkennung nach IPR und bilateralen Abkommen. Output..._
+
+# Forderung im Ausland vollstrecken
+
+Grenzueberschreitende Forderungsdurchsetzung. Die Wahl des Instruments haengt vom Wohnsitz des Schuldners und vom Streitwert ab.
+
+## Instrumenten-Übersicht
+
+| Instrument | Anwendungsbereich | Vorteil |
+|---|---|---|
+| Bruessel Ia VO (EU 1215/2012) | EU-Anerkennung deutscher Titel | Vollstreckung ohne Exequatur |
+| EuVTVO (EG 805/2004) | unbestrittene Forderungen | Bestaetigung als EU-Titel |
+| EuMVVO (EG 1896/2006) | grenzueberschreitendes Mahnverfahren | EU-weit ein einheitlich Verfahren |
+| EuGFVO (EG 861/2007) | bis 5.000 EUR | vereinfachtes EU-Verfahren |
+| Lugano-Uebereinkommen | CH, NO, IS | parallel zu Bruessel Ia |
+| Drittstaaten | je Staat | Anerkennungsverfahren noetig |
+
+## Bruessel Ia VO (EU 1215/2012)
+
+**Anwendungsbereich:** Zivil- und Handelssachen mit Bezug zu mehreren MS. Nicht: Familie, Erbe, Insolvenz, Schiedsverfahren, Sozialversicherung, Steuer (Art. 1 Abs. 2).
+
+**Gerichtsstaende (kuerz)**:
+| Konstellation | Norm |
+|---|---|
+| Allgemein: Wohnsitz Bekl. | Art. 4 |
+| Vertrag: Erfuellungsort | Art. 7 Nr. 1 |
+| Deliktischer Ort: Tatort | Art. 7 Nr. 2 |
+| Verbrauchersache | Art. 17-19 |
+| Versicherung | Art. 10-16 |
+| Arbeitsvertrag | Art. 20-23 |
+| Ausschließlich (Grundstueck, Register) | Art. 24 |
+| Vereinbarung | Art. 25 (Schriftform, Exklusivitaet) |
+
+**Vollstreckung in anderem MS** (Art. 36-44):
+- Anerkennung **automatisch** (kein Exequatur).
+- Bestaetigung Formblatt I (Anhang I VO).
+- Direktvollstreckung beim ausländischen Vollstreckungsorgan.
+- Versagungsgruende beschraenkt (Art. 45): ordre public, Saeumnis ohne ordn. Zustellung, unvereinbares Urteil.
+
+## EuVTVO (EG 805/2004) – Europaeischer Vollstreckungstitel
+
+Bestaetigung **unbestrittener** Forderungen als EU-Titel. Voraussetzungen Art. 6:
+1. Forderung im Urspr.-MS unbestritten (Anerkenntnis, Saeumnis, Vergleich).
+2. Im Urspr.-MS gerichtlich tituliert.
+3. Mindeststandards Zustellung eingehalten.
+4. Verbraucher-Schutz beachtet.
+
+Bestaetigung durch Urspr.-Gericht, Formblatt I. In ZielMS direkt vollstreckbar.
+
+## EuMVVO (EG 1896/2006) – Europaeisches Mahnverfahren
+
+| Charakteristikum | Inhalt |
+|---|---|
+| Antragsformular | Formblatt A |
+| Zustaendiges Gericht DE | AG Wedding (Berlin) |
+| Online-Antrag möglich | www.online-mahnantrag.de |
+| Verteidigungsfrist Bekl. | 30 Tage nach Zustellung |
+| Bei Einspruch | Uebergang ins streitige Verfahren (Prüfung Art. 17 EuMVVO) |
+| Bei keinem Einspruch | Vollstreckbarerklaerung Formblatt G |
+| Vollstreckungsorgan | im Wohnsitz-MS Schuldner |
+
+## EuGFVO (EG 861/2007) – Geringfuegigkeitsverfahren
+
+| Grenzwert | bis 5.000 EUR (ohne Zinsen/Kosten) |
+|---|---|
+| Antragsformular | Formblatt A |
+| Schriftliches Verfahren | keine muendliche Verhandlung ueblich |
+| Frist Bekl. für Stellungnahme | 30 Tage |
+| Urteil | innerhalb von 30 Tagen nach Stellungnahme |
+| Vollstreckung | im anderen MS direkt, Formblatt D |
+
+## Lugano-Uebereinkommen 2007 (CH, NO, IS)
+
+Parallel zu Bruessel Ia, aber alte Fassung mit Exequatur (Vollstreckbarerklaerung im ZielMS noetig). Voraussetzung Anerkennung: rechtskraeftiger Titel im Urspr.-Staat.
+
+## Drittstaaten (ausserhalb EU/Lugano)
+
+| Sachverhalt | Vorgehen |
+|---|---|
+| Anerkennung deutsches Urteil | §§ 328 ZPO Anerkennung in DE; Anerkennung in Drittstaat nach dort. IPR |
+| Bilaterales Abkommen | Verträge z.B. mit Tunesien, Israel, T?rkei (Anerkennungsabkommen) |
+| Kein Abkommen | erneute Klage im Drittstaat ueblich |
+| Schiedsspruch | New York Convention 1958 (NYÜ) – sehr leistungsfaehig |
+
+## Verfahrensweg-Prüfung Schritt für Schritt
+
+```
+1. Schuldner-Sitz ermitteln
+   -> EU? Lugano? Drittstaat?
+
+2. Streitwert pruefen
+   -> bis 5.000 EUR -> EuGFVO bevorzugen
+   -> mehr -> Bruessel Ia oder EuVTVO
+
+3. Forderung unbestritten?
+   -> ja  -> EuVTVO Bestaetigung
+   -> nein -> EuMVVO (Mahnverfahren) oder Klage Bruessel Ia
+
+4. Forderung bereits tituliert in DE?
+   -> Bruessel Ia Direktvollstreckung (Art. 36-44)
+   -> EuVTVO Bestaetigung als alternativer Pfad
+
+5. Schuldner reagiert nicht
+   -> Vollstreckung mit Formblatt I (Bruessel Ia)
+   -> oder Formblatt G (EuMVVO)
+
+6. Schuldner widerspricht
+   -> Klage im DE-Inland nach Gerichtsstand Bruessel Ia
+   -> oder EuGFVO falls Grenzwert
+```
+
+## Form der Zustellung im Ausland
+
+**HZUe 1965** (Haager Zustellungsuebereinkommen) – für Drittstaaten.
+**EuZustVO (EU 2020/1784)** seit 01.07.2022 – innerhalb EU:
+- Direkte Zustellung Justizbehoerde zu Justizbehoerde.
+- Postzustellung mit Einschreiben möglich (Art. 18).
+- Diplomatischer Weg (Konsulat) bei Bedarf.
+- Übersetzung in Amtssprache des ZielMS.
+
+## Beweismittel im EU-Ausland
+
+| Instrument | Inhalt |
+|---|---|
+| EuBVO (EU 1206/2001) → Neu: VO 2020/1783 | Beweiserhebung |
+| Videokonferenz nach EuBVO | Art. 17 ff. |
+
+## Kosten
+
+| Verfahren | Gerichtskosten |
+|---|---|
+| EuMVVO | 0,5 nach KV 1100 GKG |
+| EuGFVO | wie nationaler kleiner Klageweg |
+| Bruessel Ia Vollstreckung | im ZielMS nach dortigem Tarif |
+| Anerkennung Drittstaat | Anwalts- und Gerichtskosten lokal |
+
+## Typische Fehler
+
+- Klage in DE gegen Bekl. mit Wohnsitz EU ohne Prüfung Bruessel Ia → ggf. unzuständig.
+- EuMVVO bei strittiger Forderung – Widerspruch fuehrt in nationale Klage des Bekl.-MS.
+- Übersetzung vergessen → Zustellung schlaegt fehl.
+- Schiedsklausel ueberhaupt nicht gepruef → New York Convention besserer Pfad.
+- Lugano mit Bruessel verwechselt – Exequatur in CH noch noetig.
+
+## Quellen
+- Bruessel Ia VO 1215/2012 [eur-lex.europa.eu/eli/reg/2012/1215](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1215)
+- EuVTVO 805/2004 [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004R0805)
+- EuMVVO 1896/2006 [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32006R1896)
+- EuGFVO 861/2007 [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32007R0861)
+- EuZustVO 2020/1784 [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32020R1784)
+- HZUe 1965 [hcch.net](https://www.hcch.net/en/instruments/conventions/full-text/?cid=17)
+- New York Convention 1958 [newyorkconvention.org](https://www.newyorkconvention.org/)
 
 ---
 

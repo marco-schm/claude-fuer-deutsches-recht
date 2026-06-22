@@ -121,7 +121,7 @@ Aktualisierungspflicht: konkrete Aktenzeichen zu Minderungsquoten/Schimmel 2025/
 
 ### Schritt 4 — Klage
 
-- Amtsgericht (Wohnraummiete unabhängig vom Streitwert)
+- Amtsgericht nach Paragraf 23 Nummer 2a GVG, weil Wohnraummiete unabhängig vom Streitwert ausschließlich dort anhängig wird; örtlich Paragraf 29a ZPO prüfen.
 - Klage auf Beseitigung + Minderung
 - Eilanordnung bei Gesundheitsgefahr
 

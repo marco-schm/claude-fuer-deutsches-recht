@@ -28,8 +28,8 @@ Amtsrichter Zivilsachen: Schluessigkeit Erheblichkeit Beweis Tenor Kostenentsche
 Pflichtnormen aus dem Plugin-Material:
 - Paragraf 91 ZPO, vorläufige Vollstreckbarkeit Paragrafen 708-711 ZPO
 - Paragraf 23 GVG
+- Paragraf 23 Nummer 2a GVG
 - Paragraf 286 ZPO
-- Paragraf 3 ZPO
 Leitentscheidungen nur nach Live-Prüfung verwenden:
 - BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage als Alternative zu Paragraf 269 Abs
 - BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird

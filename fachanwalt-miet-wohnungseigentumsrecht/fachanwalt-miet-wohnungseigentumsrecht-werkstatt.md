@@ -75,16 +75,16 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `fachanwalt-miet-wohnungseigentums
 - Wenn eine Entscheidung nicht sicher verifiziert ist, schreibe ausdrücklich: Rechtsprechung live prüfen, Aktenzeichen nicht aus Modellwissen einsetzen.
 - Aktualität ist Teil des Outputs: prüfe bei laufenden Fristen, Gesetzesänderungen, Übergangsrecht, Landesrecht und Unionsrecht, ob der Stand noch trägt.
 - Aus dem Plugin übernommene Normanker:
+  - Paragraf 23 Nummer 2a GVG und Paragraf 29a ZPO
+  - Paragraf 78 Absatz 1 Satz 1 ZPO
   - Paragraf 556 BGB
+  - Paragraf 23 Nummer 2a GVG
+  - Paragraf 43 Nummer 1 WEG und der wohnungseigentumsrechtlichen Sonderzuweisung im GVG
   - Paragraf 556 Abs. 3 BGB
-  - Paragraf 573 BGB außerordentliche Kündigung ParagrafParagraf 543 569 BGB Eigenbedarfskündigung Paragraf 573 Abs. 2 Nr. 2 BGB. Normen ParagrafParagraf 535 543 569 573 573c BGB. Prü…
-  - Paragraf 558 BGB ortsuebliche Vergleichsmiete Kappungsgrenze 20 Prozent bzw. 15 Prozent in angespannten Maerkten. Normen ParagrafParagraf 558-558b 559 556d ff. BGB
-  - Paragraf 44 WEG Monatsfrist Aktivlegitimation Passivlegitimation Gemeinschaft Paragraf 9a WEG. Normen ParagrafParagraf 44 23 49 WEG ParagrafParagraf 133 157 BGB
-  - Paragraf 556d BGB
-  - Paragraf 559 BGB
-  - Paragraf 553 BGB
-  - Paragraf 574 BGB
-  - Paragraf 536 BGB
+  - Paragraf 23 Nummer 2a GVG, örtlich Paragraf 29a ZPO
+  - Paragraf 23 Nummer 1 GVG
+  - Paragraf 23 Nummer 2a GVG ausschließlich beim Amtsgericht, unabhängig davon, wie hoch Mietrückstand, Nutzungsentschädigung oder Jahresmietwert sind. Örtlich ist Paragraf 29a ZPO
+  - Paragraf 71 Absatz 1 GVG. Vor dem Landgericht gilt Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO
 
 ## Leitentscheidungen
 

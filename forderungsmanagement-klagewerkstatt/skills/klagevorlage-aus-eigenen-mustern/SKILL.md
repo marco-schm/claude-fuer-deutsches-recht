@@ -68,7 +68,7 @@ Zusätzlich Dokumenten-Drop akzeptieren (Rechnungen, Mahnungen, Korrespondenz). 
 
 Pflichtschritt vor Auslieferung. Reihenfolge:
 
-1. **Sachliche Zuständigkeit** rechnerisch: Streitwert ≤ 10.000 EUR → AG (§ 23 Nr. 1 GVG i. d. F. seit 1.1.2026); > 10.000 EUR → LG (§ 71 GVG). Sondertatbestände beachten: Wohnraummietsachen AG ohne Streitwertgrenze (§ 23 Nr. 2a GVG), Nachbarschaftsstreitigkeiten AG (§ 23 Nr. 2e GVG), Familiensachen FamG, Handelssachen Kammer für Handelssachen (§§ 95, 96 GVG).
+1. **Sachliche Zuständigkeit** rechnerisch: Streitwert bis einschließlich 10.000 EUR → Amtsgericht nach Paragraf 23 Nummer 1 GVG; über 10.000 EUR → Landgericht nach Paragraf 71 Absatz 1 GVG. Sondertatbestände beachten: Wohnraummietsachen ausschließlich und streitwertunabhängig Amtsgericht nach Paragraf 23 Nummer 2a GVG, auch bei verbundener Räumungs- und Zahlungsklage; Nachbarschaftsstreitigkeiten Amtsgericht nach Paragraf 23 Nummer 2e GVG; Familiensachen Familiengericht; Handelssachen Kammer für Handelssachen nach Paragrafen 95 und 96 GVG.
 2. **Örtliche Zuständigkeit** rechtlich: allgemeiner Gerichtsstand der Beklagten (§§ 12, 13 ZPO). Erfüllungsort (§ 29 ZPO) prüfen — bei Geldschulden Sitz der Klagepartei nur bei qualifizierter Schickschuld, sonst Wohnsitz Beklagte. Verbraucher-Sondertatbestand § 29c ZPO. AGB-Gerichtsstand prüfen, aber bei Verbrauchern nach § 38 ZPO unwirksam.
 3. **Online-Adressrecherche** (immer ausführen):
    - Für NRW-Anschriften: `pplx content fetch "https://www.justizadressen.nrw.de/de/justiz/suche?suchbegriff=<PLZ_oder_Ort>"` (PLZ oder Ort der Beklagten). Wenn PLZ allein nicht reicht, mit Ort nachfassen.
@@ -106,13 +106,13 @@ Bei Zustimmung: zwei Seiten, DOCX oder Markdown.
 ### Pflichtinhalte und Form der Klageschrift
 - **§ 253 Abs. 2 ZPO** Klageinhalt (Parteien, Gericht, Anträge, Sachverhalt, Beweismittel).
 - **§ 130 ZPO** Form der Schriftsätze; **§ 130a ZPO** elektronisches Dokument; **§ 130d ZPO** Pflicht zur elektronischen Einreichung für Rechtsanwältinnen und Rechtsanwälte (beA).
-- **§ 78 ZPO** Anwaltszwang vor LG aufwärts.
+- **Paragraf 78 Absatz 1 Satz 1 ZPO** Anwaltszwang vor Landgericht und höheren Gerichten; vor dem Amtsgericht in erster Instanz kein Anwaltszwang im Umkehrschluss.
 - **§ 12 RVG / Anlage 2 VV RVG**: Gebührentabelle; **Nr. 2300 VV RVG** Geschäftsgebühr; **Vorbem. 3 Abs. 4 VV RVG** Anrechnung 0,65; **Nr. 3100 VV RVG** Verfahrensgebühr.
 
 ### Sachliche Zuständigkeit
-- **§ 23 Nr. 1 GVG** AG bis 10.000 EUR (i. d. F. seit 1.1.2026).
-- **§ 71 GVG** LG über 10.000 EUR.
-- **§ 23 Nr. 2a GVG** Wohnraummietsachen AG ohne Streitwertgrenze.
+- **Paragraf 23 Nummer 1 GVG** Amtsgericht bis einschließlich 10.000 EUR.
+- **Paragraf 71 Absatz 1 GVG** Landgericht über 10.000 EUR.
+- **Paragraf 23 Nummer 2a GVG** Wohnraummietsachen ausschließlich und streitwertunabhängig Amtsgericht, einschließlich verbundener Räumungs- und Zahlungsklagen.
 
 ### Örtliche Zuständigkeit
 - **§§ 12, 13 ZPO** allgemeiner Gerichtsstand der Beklagten.

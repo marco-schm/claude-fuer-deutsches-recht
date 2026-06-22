@@ -11,7 +11,7 @@ Eine inhaltlich richtige Klage scheitert oft an Formalien. Dieser Skill geht die
 
 | Punkt | Prüfung | Norm |
 |---|---|---|
-| Sachliche Zuständigkeit | Streitwert über zehntausend Euro LG sonst AG | GVG 23 Nr. 1 GVG 71 |
+| Sachliche Zuständigkeit | Allgemeine Forderung: bis zehntausend Euro Amtsgericht, darüber Landgericht; Wohnraummietsachen immer Amtsgericht | Paragraf 23 Nummer 1 GVG, Paragraf 23 Nummer 2a GVG, Paragraf 71 Absatz 1 GVG |
 | Oertliche Zuständigkeit | Wohnsitz Beklagter Erfuellungsort Verbrauchergerichtsstand | ZPO 12 13 29 29c |
 | Streitwertangabe | konkrete Eurozahl im Schriftsatz | GKG 39 |
 | beA-Pflicht | Rechtsanwalt muss elektronisch einreichen | ZPO 130d |

@@ -43,7 +43,7 @@ Der Kläger beantragt:
 | Schadensersatz (Antrag 4) | 1.620,00 EUR |
 | **Gesamtstreitwert** | **6.517,92 EUR** |
 
-Zuständigkeit AG Leipzig nach § 23 Nr. 2a GVG i.V.m. § 29a ZPO (Mietsachen bis 5.000 EUR Streitwert oder Mietverhältnis-Streitigkeiten grundsätzlich beim AG) — AG Leipzig hat sachliche und örtliche Zuständigkeit.
+Zuständigkeit AG Leipzig nach Paragraf 23 Nummer 2a GVG in Verbindung mit Paragraf 29a ZPO: Es handelt sich um Ansprüche aus einem Wohnraummietverhältnis; das Amtsgericht ist deshalb ausschließlich und streitwertunabhängig sachlich zuständig. Der Streitwert bleibt nur für Kosten und Rechtsmittelbeschwer relevant. In erster Instanz besteht vor dem Amtsgericht kein Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO im Umkehrschluss.
 
 ---
 

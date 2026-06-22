@@ -1,13 +1,13 @@
 ---
 name: klageentwurf-amtsgericht-miet-gewerbemiete
-description: "Beide Rollen — entwirf eine Klageschrift zum Amtsgericht in einer Mietsache. Sachliche Zuständigkeit für Wohnraummietsachen nach § 23 Nr. 2a GVG ohne Rücksicht auf den Streitwert; bei Geschäftsraummiete allgemeine AG-Grenze nach § 23 Nr. 1 GVG zehntausend Euro ab 01.01.2026 durch das Gesetz zur S..."
+description: "Klageentwurf fuer Mietstreitigkeiten mit sauberer Trennung von Wohnraum und Gewerberaum: Wohnraum nach Paragraf 23 Nummer 2a GVG stets Amtsgericht ohne Anwaltszwang in erster Instanz; Gewerberaum streitwertabhaengig nach Paragraf 23 Nummer 1 und Paragraf 71 Absatz 1 GVG."
 ---
 
 # Klageentwurf zum Amtsgericht (Mietsache)
 
 ## Arbeitsbereich
 
-Beide Rollen — entwirf eine Klageschrift zum Amtsgericht in einer Mietsache. Sachliche Zuständigkeit für Wohnraummietsachen nach § 23 Nr. 2a GVG ohne Rücksicht auf den Streitwert; bei Geschäftsraummiete allgemeine AG-Grenze nach § 23 Nr. 1 GVG zehntausend Euro ab 01.01.2026 durch das Gesetz zur Stärkung der Amtsgerichte in Zivilsachen; davor fünftausend Euro. Örtliche Zuständigkeit am Belegenheitsort der Mietsache (§ 29a ZPO). Streitwertberechnung Anträge Sachverhalt rechtliche Würdigung Beweisangebote und formgerechte Anlagen. Kein Anwaltszwang vor dem Amtsgericht aber dringende Empfehlung anwaltlicher Prüfung. Disclaimer mehrfach. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beide Rollen — entwirf eine Klageschrift in einer Mietstreitigkeit und trenne schon im ersten Absatz Wohnraum und Gewerberaum. Wohnraum gehört nach Paragraf 23 Nummer 2a GVG ausschließlich und streitwertunabhängig zum Amtsgericht; dort besteht in erster Instanz kein Anwaltszwang, weil Paragraf 78 Absatz 1 Satz 1 ZPO den Anwaltszwang erst vor den Landgerichten und höheren Gerichten anordnet. Geschäftsraummiete und Gewerberaummiete folgen dagegen der allgemeinen Wertzuständigkeit: bis einschließlich zehntausend Euro Amtsgericht nach Paragraf 23 Nummer 1 GVG, darüber Landgericht nach Paragraf 71 Absatz 1 GVG mit Anwaltszwang. Eine verbundene Räumungs- und Zahlungsklage über Wohnraum bleibt beim Amtsgericht. Berufungen gegen amtsgerichtliche Entscheidungen in Wohnraummietsachen gehen zum Landgericht; dort gilt Anwaltszwang. Örtlich ist regelmäßig das Gericht des Belegenheitsorts nach Paragraf 29a ZPO zuständig. Arbeite entlang dieser Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -27,28 +27,31 @@ Beide Rollen — entwirf eine Klageschrift zum Amtsgericht in einer Mietsache. S
 
 ## Disclaimer (Schlüsselstelle, mehrfach)
 
-Eine Klageschrift ist ein Rechtsschriftsatz mit erheblichen Konsequenzen (Gerichtskosten, Anwaltskosten, Präklusion verspäteten Vortrags). Dieser Entwurf ist **kein Ersatz für anwaltliche Vertretung**. Vor Einreichung ist eine fachanwaltliche Prüfung dringend empfohlen. In Mietsachen vor dem Amtsgericht besteht zwar **kein Anwaltszwang** (§ 78 ZPO e contrario), die rechtlichen Risiken sind aber dennoch hoch.
+Eine Klageschrift ist ein Rechtsschriftsatz mit erheblichen Konsequenzen (Gerichtskosten, Anwaltskosten, Präklusion verspäteten Vortrags). Dieser Entwurf ist **kein Ersatz für anwaltliche Vertretung**. Vor Einreichung ist eine fachanwaltliche Prüfung dringend empfohlen. In Wohnraummietsachen vor dem Amtsgericht besteht in erster Instanz zwar **kein Anwaltszwang** nach Paragraf 78 Absatz 1 Satz 1 ZPO im Umkehrschluss, die rechtlichen Risiken sind aber dennoch hoch.
 
 ## Workflow
 
 ### Schritt 1 — Sachliche Zuständigkeit
 
-- **Wohnraummietsachen** — Amtsgericht ist nach § 23 Nr. 2a GVG zuständig für Streitigkeiten aus Mietverhältnissen über Wohnraum **ohne Rücksicht auf den Streitwert**.
-- **Geschäftsraummiete** — allgemeine Streitwertgrenze des § 23 Nr. 1 GVG: AG bis **zehntausend Euro** ab dem 01.01.2026 durch das Gesetz zur Stärkung der Amtsgerichte in Zivilsachen (Bundesrat-Billigung 21.11.2025, Inkrafttreten 01.01.2026); darüber LG (§ 71 GVG). Übergangsregelung: Für vor dem 01.01.2026 anhängig gewordene Verfahren bleibt die alte Wertgrenze von fünftausend Euro maßgeblich. Quelle: BRAK-Nachrichten 24/2025 vom 26.11.2025. Anwaltszwang vor dem Landgericht greift ebenfalls erst ab zehntausend Euro Streitwert; die Berufungsbeschwer in § 511 Abs. 2 Nr. 1 ZPO wurde zugleich von 600 Euro auf 1.000 Euro angehoben.
+- **Wohnraummietsachen** — Amtsgericht ist nach Paragraf 23 Nummer 2a GVG ausschließlich zuständig für Streitigkeiten über Ansprüche aus einem Wohnraummietverhältnis oder über dessen Bestand, **ohne Rücksicht auf den Streitwert**.
+- **Verbundene Räumungs- und Zahlungsklage Wohnraum** — bleibt beim Amtsgericht, auch wenn Mietrückstände und Nutzungsentschädigung zusammen mehr als zehntausend Euro erreichen.
+- **Geschäftsraummiete und Gewerberaummiete** — allgemeine Wertzuständigkeit: Amtsgericht bis einschließlich zehntausend Euro nach Paragraf 23 Nummer 1 GVG, Landgericht über zehntausend Euro nach Paragraf 71 Absatz 1 GVG.
+- **Anwaltszwang** — vor dem Amtsgericht in erster Instanz kein Anwaltszwang; vor dem Landgericht und im Berufungsverfahren Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO.
+- **Übergangsfälle** — für vor dem 01.01.2026 anhängig gewordene Gewerberaumverfahren die damals geltende Wertgrenze gesondert prüfen; die Wohnraum-Sonderzuweisung nach Paragraf 23 Nummer 2a GVG bleibt streitwertunabhängig.
 - Streitwert ist in jedem Fall zu berechnen (für Kosten und Berufungssumme).
 
-### Schritt 2 — Örtliche Zuständigkeit (§ 29a ZPO)
+### Schritt 2 — Örtliche Zuständigkeit
 
 - Ausschließlich das Gericht des Ortes, an dem sich die **Mietsache befindet** (Belegenheitsort).
-- Keine Abweichung durch Gerichtsstandsvereinbarung möglich (§ 40 Abs. 2 ZPO).
+- Keine Abweichung durch Gerichtsstandsvereinbarung möglich; Paragraf 29a ZPO und Paragraf 40 Absatz 2 ZPO live prüfen.
 
 ### Schritt 3 — Streitwertberechnung
 
 - **Zahlungsklage** Nennbetrag der geforderten Summe.
 - **Klage auf Zustimmung zur Mieterhöhung** Jahresbetrag des Erhöhungsbetrags (§ 41 Abs. 5 GKG).
 - **Klage auf Mietsenkung / Mietpreisbremse** Jahresbetrag der streitigen Differenz (§ 41 Abs. 5 GKG analog).
-- **Raeumungsklage** Jahresnettomiete (§ 41 Abs. 2 GKG).
-- **Klage auf Belegeinsicht** Bruchteil der streitigen Abrechnung (Schätzung nach § 3 ZPO).
+- **Räumungsklage** Jahresnettomiete nach Paragraf 41 Absatz 2 GKG; bei Wohnraum ändert dieser Streitwert nichts an der ausschließlichen Amtsgerichtszuständigkeit.
+- **Klage auf Belegeinsicht** Bruchteil der streitigen Abrechnung; Schätzung nach Paragraf 3 ZPO.
 
 ### Schritt 4 — Anträge formulieren
 
@@ -88,7 +91,7 @@ Eine Klageschrift ist ein Rechtsschriftsatz mit erheblichen Konsequenzen (Gerich
 4. Begründung — Rechtliche Würdigung.
 5. Beweisangebote.
 6. Kostenantrag.
-7. Antrag auf vorläufige Vollstreckbarkeit (§ 708 Nr. 11 ZPO).
+7. Antrag auf vorläufige Vollstreckbarkeit nach Paragraf 708 Nummer 11 ZPO.
 8. Anlagen.
 
 ## Vor Einreichung (Disclaimer wiederholt)
@@ -101,10 +104,11 @@ Vor Einreichung beim Amtsgericht ist diese Klageschrift durch einen Fachanwalt f
 
 ## Paragrafenkette
 
-- Sachliche Zuständigkeit: § 23 Nr. 2a GVG (Wohnraum), § 71 GVG (LG)
-- Oertliche Zuständigkeit: § 29a ZPO
-- Streitwert: §§ 41, 48 GKG, § 3 ZPO
-- Vollstreckbarkeit: §§ 708 ff. ZPO
+- Sachliche Zuständigkeit: Paragraf 23 Nummer 2a GVG (Wohnraum), Paragraf 23 Nummer 1 GVG und Paragraf 71 Absatz 1 GVG (Gewerberaum nach Wert)
+- Anwaltszwang: Paragraf 78 Absatz 1 Satz 1 ZPO (Landgericht und höher; Umkehrschluss Amtsgericht)
+- Örtliche Zuständigkeit: Paragraf 29a ZPO
+- Streitwert: Paragraf 41 und Paragraf 48 GKG, Paragraf 3 ZPO
+- Vollstreckbarkeit: Paragrafen 708 ff. ZPO
 
 ## Audit-Hinweis
 

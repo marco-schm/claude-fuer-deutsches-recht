@@ -136,7 +136,7 @@ Strukturierte Eingangs-Abfrage für mietrechtliche Mandate. Klaert Mandantenroll
 
 - **Konflikt-Check** — keine Doppelmandate Mieter/Vermieter
 - **Streitwert** Wohnraum Jahresmiete EUR (KSchG-Streitwert vergleichbar)
-- **AG-Zuständigkeit** Mietrecht-Streit über Wohnraum § 23 Nr. 2 a) GVG ausschließlich AG
+- **AG-Zuständigkeit** Wohnraummietsachen nach Paragraf 23 Nummer 2a GVG ausschließlich und streitwertunabhängig beim Amtsgericht; in erster Instanz kein Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO im Umkehrschluss.
 - **Versicherungs-Deckung** Mietrechtsschutz häufig
 
 ## Eskalation

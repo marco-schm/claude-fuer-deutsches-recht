@@ -26,6 +26,12 @@ description: "Wohnraummiete: Behörden-, Gerichts- oder Registerweg im Miet- und
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
+## Gerichtsweg Wohnraummiete
+
+Wohnraummietsachen werden nicht über die allgemeine Streitwertgrenze geroutet. Für Ansprüche aus einem Wohnraummietverhältnis und für Streit über dessen Bestand ist nach Paragraf 23 Nummer 2a GVG ausschließlich das Amtsgericht zuständig. Das gilt auch, wenn Räumung und Zahlung verbunden werden und der Gesamtstreitwert über zehntausend Euro liegt. Der Streitwert bleibt für Kosten, Berufungsinteresse und Vergleichswirtschaftlichkeit wichtig, ändert aber die sachliche Zuständigkeit nicht.
+
+Vor dem Amtsgericht besteht in erster Instanz kein Anwaltszwang; dies folgt aus Paragraf 78 Absatz 1 Satz 1 ZPO im Umkehrschluss. Berufungen gegen amtsgerichtliche Wohnraumentscheidungen gehen zum Landgericht; dort gilt Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO.
+
 ## Spezialwissen: Wohnraummiete: Behörden-, Gerichts- oder Registerweg
 - **Normen-/Quellenanker:** FAO, BGB, WEG, BetrKV.
 

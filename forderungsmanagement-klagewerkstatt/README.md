@@ -1,5 +1,23 @@
 # Forderungsmanagement — Klagewerkstatt
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Direkt loslegen ohne Plugin-Setup
+
+Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
+
+Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
+
+| Datei | Wofür | Direkt-Download |
+| --- | --- | --- |
+| **Forderungsmanagement — Klagewerkstatt-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`forderungsmanagement-klagewerkstatt-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/forderungsmanagement-klagewerkstatt-werkstatt.zip) |
+| **Forderungsmanagement — Klagewerkstatt-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`forderungsmanagement-klagewerkstatt-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/forderungsmanagement-klagewerkstatt-schnellstart.zip) |
+| **Forderungsmanagement — Klagewerkstatt-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`forderungsmanagement-klagewerkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/forderungsmanagement-klagewerkstatt.zip) |
+| **Forderungsmanagement — Klagewerkstatt-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-inkasso-zahlungsklage-modefuchs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-zahlungsklage-modefuchs.zip) (Akte Inkasso-Zahlungsklage ModeFuchs) |
+
+Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
+- [`forderungsmanagement-klagewerkstatt-werkstatt.md`](./forderungsmanagement-klagewerkstatt-werkstatt.md) (im Browser ansehen)
+- [`forderungsmanagement-klagewerkstatt-schnellstart.md`](./forderungsmanagement-klagewerkstatt-schnellstart.md) (im Browser ansehen)
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## Sofort-Downloads
@@ -21,25 +39,6 @@ Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New 
 | **Akte Inkasso-Zahlungsklage ModeFuchs** (`inkasso-zahlungsklage-modefuchs`) | [Gesamt-PDF lesen](../testakten/inkasso-zahlungsklage-modefuchs/gesamt-pdf/inkasso-zahlungsklage-modefuchs_gesamt.pdf) | [`testakte-inkasso-zahlungsklage-modefuchs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-zahlungsklage-modefuchs.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Direkt loslegen ohne Plugin-Setup
-
-Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzbare Werkzeugkiste. Eine Markdown-Datei reicht: herunterladen, in das eigene Chat-System ziehen, Frage stellen. Die Werkstatt-Datei ist die ausführliche Variante; die Schnellstart-Datei ist die kompakte Variante für den schnellen Einstieg. Plugin und Testakte liegen als ZIP daneben.
-
-Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
-
-| Datei | Wofür | Direkt-Download |
-| --- | --- | --- |
-| **Forderungsmanagement — Klagewerkstatt-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`forderungsmanagement-klagewerkstatt-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/forderungsmanagement-klagewerkstatt-werkstatt.zip) |
-| **Forderungsmanagement — Klagewerkstatt-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`forderungsmanagement-klagewerkstatt-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/forderungsmanagement-klagewerkstatt-schnellstart.zip) |
-| **Forderungsmanagement — Klagewerkstatt-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`forderungsmanagement-klagewerkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/forderungsmanagement-klagewerkstatt.zip) |
-| **Forderungsmanagement — Klagewerkstatt-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | [`testakte-inkasso-zahlungsklage-modefuchs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-zahlungsklage-modefuchs.zip) (Akte Inkasso-Zahlungsklage ModeFuchs) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`forderungsmanagement-klagewerkstatt-werkstatt.md`](./forderungsmanagement-klagewerkstatt-werkstatt.md) (im Browser ansehen)
-- [`forderungsmanagement-klagewerkstatt-schnellstart.md`](./forderungsmanagement-klagewerkstatt-schnellstart.md) (im Browser ansehen)
-<!-- END direkt-loslegen (autogen) -->
 **Generalisierter Klage-Assistent für Inkasso- und Forderungsmanagement-Klagen mit eigenem Plugin-Generator.** Aus eigenen Mustern eine hauseigene Standardvorlage destillieren, online die Zuständigkeit prüfen, die Klage erzeugen und als sofort installierbares Mini-Plugin verpacken. Der Start ist jetzt aktengetrieben: Ordner, ZIP oder Dokumentenstapel zeigen, kurz auslesen lassen, dann mit Parteienhypothese, Forderungsmatrix, Mahnchronologie, Fristenampel und nur noch echten Rückfragen weiterarbeiten. Neu hinzu kommt ein direkter Inkasso-Zahlungsklage-Ersteller mit Mahnvorlauf, Anspruchs-Gatekeeper und der harten Regel: nur klare, fällige und belegte Ansprüche einklagen.
 
 ---
@@ -121,7 +120,7 @@ Der erzeugte Skill enthält die Hausregeln fest verdrahtet und führt weiterhin 
 
 ## Online-Zuständigkeit (Pflicht in jedem Lauf)
 
-1. **Sachlich** rechnerisch: ≤ 10.000 EUR → AG (§ 23 Nr. 1 GVG i. d. F. seit 1.1.2026); > 10.000 EUR → LG (§ 71 GVG); Sondertatbestände beachten (insbes. Wohnraummietsachen AG ohne Streitwertgrenze, § 23 Nr. 2a GVG).
+1. **Sachlich** rechnerisch: bis einschließlich 10.000 EUR Amtsgericht nach Paragraf 23 Nummer 1 GVG in der Fassung seit 1.1.2026; über 10.000 EUR Landgericht nach Paragraf 71 Absatz 1 GVG mit Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO. Wohnraummietsachen sind davon zu trennen: Ansprüche aus Wohnraummietverhältnissen gehören nach Paragraf 23 Nummer 2a GVG streitwertunabhängig zum Amtsgericht; das gilt auch für verbundene Räumungs- und Zahlungsklagen.
 2. **Örtlich** rechtlich: §§ 12, 13 ZPO Allgemeiner Gerichtsstand, § 29 ZPO Erfüllungsort, § 29c ZPO Verbraucherverträge, § 38 ZPO Gerichtsstandsvereinbarung; grenzüberschreitend Brüssel Ia VO 1215/2012.
 3. **Online-Adressrecherche**: `justizadressen.nrw.de` (PLZ/Ort) und bundesweit `justiz.de`; Quelle und Abrufdatum dokumentieren.
 4. BeA-SAFE-ID: aus dem beA-Adressbuch zu ergänzen.
@@ -168,8 +167,8 @@ Automatisch generierte Komplett-Liste aller 83 Skills in diesem Plugin. Beschrei
 | `forderung-gegen-verbraucher` | Forderung gegen Verbraucher: Verbraucherschutzregeln nach § 13 BGB, AGB-Kontrolle §§ 305-309 BGB, Widerrufsrecht bei Fernabsatz §§ 312g, 355 BGB, Belehrungspflicht. Verzugszinsen 5 Prozentpunkte ueber Basiszinssatz § 288 Abs. 1 BGB. Stre... |
 | `forderung-im-ausland-vollstrecken` | Forderung im EU-Ausland vollstrecken: Bruessel Ia VO 1215/2012 (Anerkennung ohne Exequatur), Europaeischer Vollstreckungstitel EuVTVO 805/2004, Europaeischer Zahlungsbefehl EuMVVO 1896/2006, geringfuegige Forderung EuGFVO 861/2007. Dritt... |
 | `forderung-internationaler-bezug` | Forderungssache mit Auslandsbezug Schuldner im EU-Ausland oder ausserhalb. Klaert anwendbares Recht internationale Zuständigkeit Vollstreckung. Pinpoints VO 1215/2012 Brüssel Ia VO 1896/2006 EuMVVO VO 805/2004 EuVTVO VO 861/2007 EuGFVO R... |
-| `forderung-mietruckstand-zahlungsklage` | Mietrueckstand: Zahlungsklage parallel zu Raumungsklage § 543 BGB. Pflicht Mahnung? In der Regel nicht erforderlich (kalendermaessig bestimmt). Schonfristregelung § 569 Abs. 3 BGB. Output: Klageschrift Zahlungsklage + Raumungsklage. |
-| `forderung-mietrueckstand-zahlungsklage` | Mietrueckstand: Zahlungsklage parallel zu Raeumungsklage § 543 Abs. 2 Nr. 3 BGB ausserordentliche Kuendigung. Mietzahlung im Voraus zum 3. Werktag § 556b BGB. Schonfristzahlung § 569 Abs. 3 Nr. 2 BGB heilt Kuendigung. Streitwert nach § 4... |
+| `forderung-mietruckstand-zahlungsklage` | Mietrueckstand: Zahlungsklage parallel zur Raeumungsklage mit Wohnraum-Sonderzustaendigkeit nach Paragraf 23 Nummer 2a GVG, Schonfrist nach Paragraf 569 Absatz 3 BGB und Gewerberaum-Weiche nach Paragraf 23 Nummer 1 und Paragraf 71 Absatz 1 GVG. |
+| `forderung-mietrueckstand-zahlungsklage` | Mietrueckstand und Klageweg: Zahlungsklage parallel zur Raeumungsklage, Wohnraum-Sonderzustaendigkeit nach Paragraf 23 Nummer 2a GVG, kein Anwaltszwang in erster Instanz, Gewerberaum nach Paragraf 23 Nummer 1 und Paragraf 71 Absatz 1 GVG streitwertabhaengig. |
 | `forderung-werkvertrag-bau` | Werklohnforderung § 631, § 641 BGB: Faelligkeit nach Abnahme, Schlussrechnung. Bauvertrag §§ 650a ff. BGB (seit 2018), VOB/B als AGB. Abschlagszahlungen § 632a BGB, Sicherheit § 650f BGB. Mangelhaftigkeit § 640 Abs. 2 BGB Abnahmeverweige... |
 | `forderung-zwangsvollstreckung-ueberblick` | Zwangsvollstreckung Ueberblick: Mobiliarvollstreckung Gerichtsvollzieher §§ 808 ff. ZPO, Forderungspfaendung § 829 ZPO, Lohnpfaendung mit Pfaendungstabelle, Immobiliarvollstreckung Zwangshypothek/Versteigerung. Output: Strategiememo Voll... |
 | `forderungen-interessen-matrix` | Strukturierte Gegenueberstellung mehrerer Forderungen eines Mandanten gegen einen oder mehrere Schuldner. Erfasst Hauptforderung Nebenforderung Zinsen Kosten Faelligkeit Beleg Verjährung. Pinpoints ZPO 260 Klagenhaeufung ZPO 33 Aufrechnu... |
@@ -225,9 +224,9 @@ Automatisch generierte Komplett-Liste aller 83 Skills in diesem Plugin. Beschrei
 | `workflow-orchestrierung` | Steuert den Gesamtablauf einer Forderungsakte vom Eingang bis zur Vollstreckung oder Abschreibung. Definiert Workflow-Stufen Eingang Prüfung Mahnung Mahnbescheid Klage Titel Vollstreckung Erloesverwertung. Pinpoints ZPO 91 Kostenfolge ZP... |
 | `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 | `zahlungsklage-behoerden-register` | Hilfe bei Klagen gegen Behörden und juristische Personen des öffentlichen Rechts. Klaert Verwaltungsweg oder Zivilweg Klägervertreter Vorverfahren Verfahrensart. Pinpoints VwGO 40 abgrenzbare oeffentlich-rechtliche Streitigkeit ZPO 253 f... |
-| `zahlungsklage-erstellen` | Zahlungsklage erstellen nach §§ 253 ff. ZPO: Rubrum, Klageantrag, Streitwertangabe § 3 ZPO, Tatbestand, Beweismittel, Anlagenverzeichnis, Unterschrift. Pflichtbestandteile § 253 Abs. 2 ZPO, Belehrung Anwaltszwang § 78 ZPO. Output: vollst... |
+| `zahlungsklage-erstellen` | Zahlungsklage erstellen mit Zuständigkeitskontrolle: Wohnraummiete nach Paragraf 23 Nummer 2a GVG streitwertunabhängig Amtsgericht ohne Anwaltszwang in erster Instanz; sonstige Forderungen bis einschließlich 10.000 EUR Amtsgericht, darüber Landgericht mit Anwaltszwang. |
 | `zinsberechnung-288-bgb` | Zinsberechnung nach § 288 BGB: Verbraucherverzug 5 Prozentpunkte ueber Basiszinssatz, B2B-Verzug 9 Prozentpunkte. Verzugspauschale 40 EUR § 288 Abs. 5 BGB B2B. Basiszinssatz § 247 BGB halbjaehrlich anpasst durch Deutsche Bundesbank (Stan... |
-| `zustaendigkeitspruefung-mahngericht` | Sachliche § 23 Nr. 1 GVG (AG bis 10.000 EUR ab 01.01.2026) und § 71 GVG (LG ab 10.001 EUR), oertliche Zuständigkeit §§ 12-17 ZPO (allgemeiner Gerichtsstand Wohnsitz Schuldner), besondere Gerichtsstaende §§ 20-32 ZPO. Internationale Zustä... |
+| `zustaendigkeitspruefung-mahngericht` | Zuständigkeitsprüfung für Mahn- und Streitverfahren: Paragraf 23 Nummer 1 GVG bis einschließlich 10.000 EUR Amtsgericht, Paragraf 71 Absatz 1 GVG darüber Landgericht; Wohnraummietsachen nach Paragraf 23 Nummer 2a GVG immer Amtsgericht. |
 | `zwangsvollstreckung-ueberblick` | Zwangsvollstreckung Überblick: Mobiliarvollstreckung Gerichtsvollzieher §§ 808 ff. ZPO, Forderungspfaendung §§ 828 ff. ZPO (Konto, Lohn), Immobiliarvollstreckung §§ 866 ff. ZPO und ZVG, Vermögensauskunft § 802c ZPO. Voraussetzung: Vollst... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

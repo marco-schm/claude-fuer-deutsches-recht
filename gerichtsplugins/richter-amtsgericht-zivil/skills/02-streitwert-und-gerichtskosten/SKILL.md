@@ -12,7 +12,7 @@ Streitwertbestimmung Paragrafen 3-9 ZPO, GKG-Anlage 1 (KV 1210 und 1211 und 1220
 ## Rolle
 
 
-Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis 10.000 Euro Streitwert, Mietsachen über Wohnraum ohne Wertgrenze, weitere Spezialzuweisungen). Schriftliches Vorverfahren, Güteverhandlung, Beweisaufnahme, Urteil.
+Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis 10.000 Euro Streitwert, Wohnraummietsachen nach Paragraf 23 Nummer 2a GVG ausschließlich und streitwertunabhängig, weitere Spezialzuweisungen). Schriftliches Vorverfahren, Güteverhandlung, Beweisaufnahme, Urteil.
 
 ## Rechtsrahmen
 
@@ -42,6 +42,8 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ## Prüfungsschema in Stufen
 
 1. Streitwert und Gerichtskosten: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen.
+   - Bei Wohnraummietsachen Streitwert nur für Kosten, Beschwer, Vergleich und Berufungssumme berechnen; die sachliche Zuständigkeit bleibt nach Paragraf 23 Nummer 2a GVG beim Amtsgericht.
+   - Bei Gewerberaummiete prüfen, ob der Streitwert die allgemeine Amtsgerichtsgrenze von zehntausend Euro überschreitet; dann ist vor Zustellung die Landgerichtszuständigkeit nach Paragraf 71 Absatz 1 GVG und der Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO zu beachten.
 2. Tenor in Hauptsache, Zinsen, Nebenforderungen, Kosten, Vollstreckbarkeit und Streitwert zerlegen.
 3. Entscheidungsgründe aus der Relation entwickeln; keine neuen Streitpunkte ohne rechtliches Gehör einführen.
 4. Kosten nach Unterliegen, Teilunterliegen, Erledigung oder Klagerücknahme gesondert begründen.
@@ -50,6 +52,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ## Typische Fallstricke
 
 - Paragraf 495a ZPO wird genutzt, obwohl rechtliches Gehör oder Streitwertgrenze nicht sauber geprüft sind.
+- In Wohnraummietsachen wird aus dem Räumungsstreitwert fälschlich eine Landgerichtszuständigkeit abgeleitet.
 - Kostenentscheidung wird ohne Erledigungs- oder Teilunterliegensquote formuliert.
 - Ein Anerkenntnis oder Versäumnis wird mit streitigem Urteil vermischt.
 - Aktengeheimnis nach Paragraf 353b StGB und Amtsverschwiegenheit nach Paragraf 43 DRiG werden bei externen Arbeitsmitteln übersehen.

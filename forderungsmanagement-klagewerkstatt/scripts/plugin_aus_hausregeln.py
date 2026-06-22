@@ -107,15 +107,15 @@ def plugin_json(slug: str, kanzlei: str) -> str:
 
 def skill_md(slug: str, kanzlei: str, regeln: dict) -> str:
     zinsantrag_b2b = regeln.get("standardklauseln", {}).get(
-        "zinsantrag_b2b", "9 Prozentpunkte über Basiszinssatz, § 288 Abs. 2 BGB"
+        "zinsantrag_b2b", "9 Prozentpunkte über Basiszinssatz, Paragraf 288 Absatz 2 BGB"
     )
     zinsantrag_b2c = regeln.get("standardklauseln", {}).get(
-        "zinsantrag_b2c", "5 Prozentpunkte über Basiszinssatz, § 288 Abs. 1 BGB"
+        "zinsantrag_b2c", "5 Prozentpunkte über Basiszinssatz, Paragraf 288 Absatz 1 BGB"
     )
     anlagensigel = regeln.get("stil", {}).get("anlagensigel", "K")
     return f"""---
 name: klage-erstellen
-description: Hauseigener Klage-Skill der Kanzlei {kanzlei}. Trigger u. a. "neue Klage in Hausvorlage {kanzlei}", "Forderungsklage erstellen", "Klage in unserer Standardvorlage", "Inkasso-Klage ohne Lernlauf", "{slug} klage". Nimmt Sachverhalt und Beklagtenadresse entgegen, prüft online die sachliche und örtliche Zuständigkeit (justizadressen.nrw.de und justiz.de Gerichtssuche; §§ 12/13/29/29c ZPO; §§ 23 und 71 GVG), füllt die hinterlegte Hausvorlage und liefert die Klageschrift als DOCX und Markdown. Keine Extraktion, kein Lernlauf.
+description: Hauseigener Klage-Skill der Kanzlei {kanzlei}. Trigger u. a. "neue Klage in Hausvorlage {kanzlei}", "Forderungsklage erstellen", "Klage in unserer Standardvorlage", "Inkasso-Klage ohne Lernlauf", "{slug} klage". Nimmt Sachverhalt und Beklagtenadresse entgegen, prüft online die sachliche und örtliche Zuständigkeit (justizadressen.nrw.de und justiz.de Gerichtssuche; Paragrafen 12, 13, 29 und 29c ZPO; Paragraf 23 Nummer 1 und Nummer 2a GVG; Paragraf 71 Absatz 1 GVG), füllt die hinterlegte Hausvorlage und liefert die Klageschrift als DOCX und Markdown. Keine Extraktion, kein Lernlauf.
 ---
 
 # Klage-Erstellen — {kanzlei}
@@ -147,9 +147,9 @@ Felder automatisch belegen.
 
 **2. Zuständigkeit online prüfen (Pflicht):**
 
-1. **Sachlich** rechnerisch: ≤ 5.000 EUR → AG (§ 23 Nr. 1 GVG);
-   > 5.000 EUR → LG (§ 71 GVG). Sondertatbestände beachten
-   (Wohnraummiete § 23 Nr. 2a GVG; Handelssachen §§ 95, 96 GVG).
+1. **Sachlich** rechnerisch: allgemeine Forderung bis einschließlich 10.000 EUR → Amtsgericht nach Paragraf 23 Nummer 1 GVG;
+   über 10.000 EUR → Landgericht nach Paragraf 71 Absatz 1 GVG. Sondertatbestände beachten:
+   Wohnraummietsachen nach Paragraf 23 Nummer 2a GVG ausschließlich und streitwertunabhängig Amtsgericht, auch bei verbundener Räumungs- und Zahlungsklage; Handelssachen nach Paragrafen 95 und 96 GVG.
 2. **Örtlich** rechtlich: §§ 12, 13 ZPO Allgemeiner Gerichtsstand;
    § 29 ZPO Erfüllungsort; § 29c ZPO Verbraucherverträge;
    § 38 ZPO Gerichtsstandsvereinbarung (gegenüber Verbrauchern unwirksam).
@@ -175,8 +175,8 @@ Felder automatisch belegen.
 ## Rechtlicher Rahmen
 
 - **Pflichtinhalte**: § 253 ZPO; **Form**: §§ 130, 130a, 130d ZPO (beA-Pflicht
-  für Rechtsanwältinnen und Rechtsanwälte); **Anwaltszwang**: § 78 ZPO.
-- **Sachliche Zuständigkeit**: §§ 23, 71 GVG.
+  für Rechtsanwälte); **Anwaltszwang**: vor Landgericht und höheren Gerichten nach Paragraf 78 Absatz 1 Satz 1 ZPO; vor dem Amtsgericht in erster Instanz kein Anwaltszwang im Umkehrschluss.
+- **Sachliche Zuständigkeit**: Paragraf 23 Nummer 1 GVG, Paragraf 23 Nummer 2a GVG und Paragraf 71 Absatz 1 GVG.
 - **Örtliche Zuständigkeit**: §§ 12, 13, 17, 24, 29, 29c, 38 ZPO; grenzüber-
   schreitend Brüssel Ia VO (EU) 1215/2012, insb. Art. 7 Nr. 1.
 - **Anspruchsgrundlagen** (Auswahl): §§ 433 II, 535 II, 488, 611a II, 631 I BGB.

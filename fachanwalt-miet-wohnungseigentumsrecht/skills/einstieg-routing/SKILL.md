@@ -17,7 +17,7 @@ description: "Anwalts-Dashboard Fachanwalt Miet- und Wohnungseigentumsrecht: Sof
 | Verfahrensstand | Vorprozessual · außergerichtlich · Klage · Rechtsmittel · Vollstreckung | Vorhandene Schriftsätze, Eingangsstempel |
 | Eilfrist | **§ 45 WEG / § 46 WEG: 1 Monat** Beschlussanfechtungsklage. § 558b BGB: Zustimmungsverlangen Mieterhöhung 2 Monate. § 559 BGB: Modernisierungs-Ankündigung 3 Monate vor Beginn. § 574 BGB: Sozialklausel-Widerspruch 2 Monate vor Beendigung. § 573 III BGB: Schriftform Kündigung. | Frist aus Zugangs-/Kenntnisdatum berechnen |
 | Hauptanspruch | Räumung §§ 546, 985 BGB · Zahlungsklage (Miete, Betriebskosten) §§ 535 II, 556 BGB · Mietminderung § 536 BGB · Mängelbeseitigung § 535 I 2 BGB · WEG-Anfechtung § 44 ff. WEG · Hausgeld §§ 16 II, 28 WEG. | Sachverhaltsabgleich mit Tatbestandsmerkmalen |
-| Zuständigkeit | Mietsachen: AG am belegenen Ort, ausschließlich (§ 23 Nr. 2a GVG, § 29a ZPO). WEG-Streitigkeiten: AG am belegenen Ort (§ 43 WEG). | Gesetz, Vertrag, Gerichtsstandsklausel |
+| Zuständigkeit | Wohnraummietsachen: Amtsgericht am belegenen Ort, ausschließlich und streitwertunabhängig nach Paragraf 23 Nummer 2a GVG und Paragraf 29a ZPO; in erster Instanz kein Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO im Umkehrschluss. Gewerberaummiete: bis einschließlich zehntausend Euro Amtsgericht, darüber Landgericht mit Anwaltszwang. WEG-Streitigkeiten: Amtsgericht am belegenen Ort nach Paragraf 43 WEG. | Gesetz, Vertrag, Gerichtsstandsklausel |
 
 ## Risiko-Ampel
 

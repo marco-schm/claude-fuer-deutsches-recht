@@ -87,7 +87,7 @@ Beleg für PKV/Beihilfe: bitte Original einreichen.
 
 Wie reine Geldforderung. Streitwert = Hauptforderung ohne Zinsen (§ 3 ZPO i.V.m. § 4 Abs. 1 ZPO).
 
-**Beispiel:** EUR 1.245,60 Hauptforderung → AG (ab 01.01.2026 unter 10.000 EUR, § 23 Nr. 1 GVG), kein Anwaltszwang.
+**Beispiel:** EUR 1.245,60 Hauptforderung → Amtsgericht (ab 01.01.2026 unter 10.000 EUR, Paragraf 23 Nummer 1 GVG), kein Anwaltszwang in erster Instanz nach Paragraf 78 Absatz 1 Satz 1 ZPO im Umkehrschluss.
 
 ## Verjährung
 

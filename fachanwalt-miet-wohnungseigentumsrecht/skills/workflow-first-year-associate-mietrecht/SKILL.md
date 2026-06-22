@@ -47,6 +47,10 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - Für Berufsanfänger sichtbar machen, welche Anspruchsgrundlage, Beweislast und Frist den Fall trägt.
 - Für erfahrene Nutzer knapp bleiben und auf den entscheidenden Streitpunkt zielen.
 
+## Associate-Merksatz Zuständigkeit
+
+Nicht jeden Mietrückstand über zehntausend Euro zum Landgericht routen. Zuerst Vertragsart prüfen. Wohnraummietsachen gehören nach Paragraf 23 Nummer 2a GVG ausschließlich zum Amtsgericht, auch als verbundene Räumungs- und Zahlungsklage. Gewerberaummiete bleibt wertabhängig: bis einschließlich zehntausend Euro Amtsgericht, darüber Landgericht. Vor dem Amtsgericht kein Anwaltszwang in erster Instanz; vor dem Landgericht Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO.
+
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

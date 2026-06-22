@@ -1,6 +1,6 @@
 ---
 name: zahlungsklage-erstellen
-description: "Zahlungsklage erstellen nach §§ 253 ff. ZPO: Rubrum, Klageantrag, Streitwertangabe § 3 ZPO, Tatbestand, Beweismittel, Anlagenverzeichnis, Unterschrift. Pflichtbestandteile § 253 Abs. 2 ZPO, Belehrung Anwaltszwang § 78 ZPO. Output: vollstaendiges Klageschrift-Geruest für AG (bis 10.000 EUR ab 01.0..."
+description: "Zahlungsklage erstellen nach Paragrafen 253 ff. ZPO: Rubrum, Klageantrag, Streitwertangabe, Tatbestand, Beweismittel, Anlagenverzeichnis, Zuständigkeit nach Paragraf 23 Nummer 1 und Nummer 2a GVG sowie Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO."
 ---
 
 # Zahlungsklage erstellen
@@ -23,9 +23,10 @@ Konstruktion einer Klageschrift für reine Geldforderungen nach §§ 253 ff. ZPO
 
 | Streitwert | Gericht | Norm |
 |---|---|---|
-| bis 10.000 EUR | Amtsgericht | § 23 Nr. 1 GVG (Erhoehung durch BGBl. 2025 I Nr. 318) |
-| über 10.000 EUR | Landgericht | § 71 Abs. 1 GVG |
-| Mietsachen Wohnraum | AG ausschließlich | § 23 Nr. 2a GVG |
+| bis 10.000 EUR | Amtsgericht | Paragraf 23 Nummer 1 GVG |
+| über 10.000 EUR | Landgericht | Paragraf 71 Absatz 1 GVG |
+| Wohnraummietsachen einschließlich verbundener Räumungs- und Zahlungsklage | Amtsgericht ausschließlich, streitwertunabhängig | Paragraf 23 Nummer 2a GVG |
+| Gewerberaummiete | nach allgemeiner Wertzuständigkeit | Paragraf 23 Nummer 1 GVG und Paragraf 71 Absatz 1 GVG |
 | Familiensachen | AG (Familiengericht) | § 23a GVG |
 
 Uebergangsregelung § 47 EGZPO: vor dem 01.01.2026 anhaengige Verfahren bleiben am bisherigen Gericht.
@@ -78,9 +79,9 @@ Bei Verbraucher als Beklagtem: 5 Prozentpunkte über Basiszins (§ 288 Abs. 1 BG
 
 ## Anwaltszwang
 
-- AG: kein Anwaltszwang (§ 78 Abs. 3 ZPO). Belehrung im Mahnbescheid/in der Klage notwendig.
-- LG: Anwaltszwang (§ 78 Abs. 1 ZPO).
-- OLG/BGH: Anwaltszwang (§ 78 Abs. 1, Abs. 4 ZPO).
+- AG: kein Anwaltszwang in erster Instanz nach Paragraf 78 Absatz 1 Satz 1 ZPO im Umkehrschluss; bei Wohnraummietklagen trotzdem Risiko- und Belegprüfung ausdrücklich empfehlen.
+- LG: Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO.
+- OLG/BGH: Anwaltszwang nach Paragraf 78 Absatz 1 und Absatz 4 ZPO.
 
 ## Elektronische Einreichung
 

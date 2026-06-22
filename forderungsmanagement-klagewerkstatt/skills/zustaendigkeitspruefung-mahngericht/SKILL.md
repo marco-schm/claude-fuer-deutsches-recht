@@ -1,6 +1,6 @@
 ---
 name: zustaendigkeitspruefung-mahngericht
-description: "Sachliche § 23 Nr. 1 GVG (AG bis 10.000 EUR ab 01.01.2026) und § 71 GVG (LG ab 10.001 EUR), oertliche Zuständigkeit §§ 12-17 ZPO (allgemeiner Gerichtsstand Wohnsitz Schuldner), besondere Gerichtsstaende §§ 20-32 ZPO. Internationale Zuständigkeit Bruessel Ia VO 1215/2012. Mahngericht § 689 ZPO zen..."
+description: "Sachliche Zustaendigkeit nach Paragraf 23 Nummer 1 GVG und Paragraf 71 Absatz 1 GVG, Wohnraum-Sonderzustaendigkeit nach Paragraf 23 Nummer 2a GVG, oertliche Gerichtsstaende nach ZPO, internationale Zustaendigkeit und Mahngericht nach Paragraf 689 ZPO."
 ---
 
 # Zuständigkeitspruefung
@@ -11,13 +11,13 @@ Vor jeder Klage- oder Mahnantrag-Einreichung prüfen: ist das angegangene Gerich
 
 | Streitwert | Gericht | Norm | Anwaltszwang |
 |---|---|---|---|
-| bis 10.000 EUR | Amtsgericht | § 23 Nr. 1 GVG (ab 01.01.2026) | nein § 78 Abs. 3 ZPO |
-| über 10.000 EUR | Landgericht | § 71 Abs. 1 GVG | ja § 78 Abs. 1 ZPO |
+| bis 10.000 EUR | Amtsgericht | Paragraf 23 Nummer 1 GVG | nein, Paragraf 78 Absatz 1 Satz 1 ZPO im Umkehrschluss |
+| über 10.000 EUR | Landgericht | Paragraf 71 Absatz 1 GVG | ja, Paragraf 78 Absatz 1 Satz 1 ZPO |
 
 **Ausnahme: AG kraft sachlicher Sondernorm** (ohne Streitwert):
-- § 23 Nr. 2 GVG: Wohnraummiete, Reiseangelegenheiten, Wildschaden.
-- § 23a GVG: Familiensachen.
-- § 600 ZPO: Urkundenprozess (Wahlrecht des Klägers).
+- Paragraf 23 Nummer 2a GVG: Streitigkeiten über Ansprüche aus einem Wohnraummietverhältnis oder über dessen Bestand; ausschließlich Amtsgericht, auch bei verbundener Räumungs- und Zahlungsklage.
+- Paragraf 23a GVG: Familiensachen.
+- Paragraf 600 ZPO: Urkundenprozess (Wahlrecht des Klägers).
 
 **Berufungssumme**: § 511 Abs. 2 Nr. 1 ZPO 600 EUR (Erhoehung auf **1.000 EUR ab 01.01.2026** durch BGBl. 2025 I Nr. 318), Zulassung bei grundsaetzlicher Bedeutung.
 
@@ -94,7 +94,7 @@ Parallel zu Bruessel Ia, weitgehend identisch.
 
 ## Verweisung § 281 ZPO
 
-Bei Unzuständigkeit: Antrag auf Verweisung statt Klageabweisung. Bindungswirkung § 281 Abs. 2 ZPO. Vorsicht: Verweisung an LG nur über 10.000 EUR ohne Anwaltszwang nicht möglich; vorherige Mandatierung.
+Bei Unzuständigkeit: Antrag auf Verweisung statt Klageabweisung. Bindungswirkung nach Paragraf 281 Absatz 2 ZPO. Vorsicht: Verweisung an das Landgericht setzt anwaltliche Vertretung voraus, weil dort Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO gilt. Bei Wohnraummietsachen nicht wegen hoher Forderung an das Landgericht verweisen; Paragraf 23 Nummer 2a GVG verdrängt die Wertzuständigkeit.
 
 ## Online-Verifikation
 
@@ -110,7 +110,7 @@ Bei Unzuständigkeit: Antrag auf Verweisung statt Klageabweisung. Bindungswirkun
 Sachliche Zuständigkeit:
   Streitwert:   EUR ...
   Gericht:      AG / LG ...
-  Grundlage:    § 23 Nr. 1 GVG / § 71 GVG
+  Grundlage:    Paragraf 23 Nummer 1 GVG / Paragraf 23 Nummer 2a GVG / Paragraf 71 Absatz 1 GVG
   Anwaltszwang: ja/nein
 
 Oertliche Zuständigkeit:

@@ -76,15 +76,16 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `forderungsmanagement-klagewerksta
 - Aktualität ist Teil des Outputs: prüfe bei laufenden Fristen, Gesetzesänderungen, Übergangsrecht, Landesrecht und Unionsrecht, ob der Stand noch trägt.
 - Aus dem Plugin übernommene Normanker:
   - Paragraf 91a ZPO, Paragraf 269 Abs. 3 S. 3 ZPO, Paragrafen 263 sowie 264 und 256 ZPO sowie Paragrafen 280 und 286 BGB
-  - Paragraf 286 ff. BGB ZPO
-  - Paragraf 288 BGB Gerichtsortfindung ParagrafParagraf 12 13 29 ZPO
-  - Paragraf 12 13 29 29c ZPO ParagrafParagraf 23 71 GVG
-  - Paragraf 23 Nr. 1 GVG
-  - Paragraf 71 GVG
-  - Paragraf 12-17 ZPO
-  - Paragraf 20-32 ZPO. Internationale Zuständigkeit Bruessel Ia VO 1215/2012. Mahngericht Paragraf 689 ZPO
-  - Paragraf 631, Paragraf 641 BGB
-  - Paragraf 650a ff. BGB
+  - Paragrafen 280 und 286 BGB für Verzugsschaden und Rechtsverfolgungskosten
+  - Paragrafen 12, 13, 29 und 29c ZPO für den allgemeinen und besonderen Gerichtsstand
+  - Paragraf 23 Nummer 1 GVG, Paragraf 23 Nummer 2a GVG, Paragraf 71 Absatz 1 GVG und Paragraf 78 Absatz 1 Satz 1 ZPO für Wertzuständigkeit, Wohnraummiete und Anwaltszwang
+  - Paragraf 286 BGB
+  - Paragraf 288 BGB
+  - Paragraf 280 Absatz 2 BGB
+  - Paragraf 249 BGB
+  - Paragraf 253 ZPO
+  - Paragrafen 12, 13, 29, 29c ZPO
+  - Paragraf 23 Nummer 1 GVG und Paragraf 71 Absatz 1 GVG
 
 ## Leitentscheidungen
 
@@ -102,7 +103,7 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `forderungsmanagement-klagewerksta
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
 2. **Inkasso Zahlungsklage Ersteller**
-   - Fachlicher Fokus: Gläubiger hat offene Forderung die er vor Gericht einklagen will. Zahlungsklage Forderungsmanagement ParagrafParagraf 286 ff. BGB ZPO. Prüfraster: Mahnvorlauf Anspruchs-Gatekeeper fällig belegt Teilzahlung Verzug Inkassokosten Paragraf 288 BGB Gerichtsortfindung ParagrafParagraf 12 13 29 ZPO. Output: Klage-Entwurf Zahlungsklage für klare fällige belegte Ansprüche. Abgrenzung zu zv-mahnbescheid-online (Mahnverfahren)…
+   - Fachlicher Fokus: Zahlungsklage für klare, fällige und belegte Ansprüche. Der Skill prüft Mahnvorlauf, Anspruchsgrund, Verzug, Teilzahlungen, Inkasso- und Rechtsverfolgungskosten, örtlichen Gerichtsstand und sachliche Zuständigkeit. Wohnraummietforderungen bleiben nach Paragraf 23 Nummer 2a GVG beim Amtsgericht; sonst gilt die Wertzuständigkeit nach Paragraf 23 Nummer 1 GVG und Paragraf 71 Absatz 1 GVG.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
@@ -111,48 +112,48 @@ Dieser Werkstatt-Prompt verdichtet das Plugin `forderungsmanagement-klagewerksta
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-4. **Klage AUS Eigenem Skill**
-   - Fachlicher Fokus: Kanzlei hat hauseigenes Klage-Plugin (klagewerkstatt-kanzlei) installiert und will damit Klagen aus eigenem Sachverhalt erstellen. Laufzeit-Variante Klagewerkstatt. Prüfraster: Sachverhalt Beklagtenadresse Zuständigkeit ParagrafParagraf 12 13 29 29c ZPO ParagrafParagraf 23 71 GVG. Output: fertige Klageschrift DOCX und Markdown. Abgrenzung zu klagevorlage-aus-eigenen-mustern (Lernlauf) und inkasso-zahlungsklage-erste…
+4. **Forderung Werkvertrag BAU**
+   - Fachlicher Fokus: Werklohnforderung nach Paragraf 631 und Paragraf 641 BGB mit Abnahme, Schlussrechnung, Bauvertrag nach Paragrafen 650a ff. BGB, VOB/B als AGB, Abschlagszahlungen, Bauhandwerkersicherung und Einwendungen wegen Mängeln.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-5. **Zustaendigkeitspruefung Mahngericht**
-   - Fachlicher Fokus: Sachliche Paragraf 23 Nr. 1 GVG (AG bis 10.000 EUR ab 01.01.2026) und Paragraf 71 GVG (LG ab 10.001 EUR), oertliche Zuständigkeit ParagrafParagraf 12-17 ZPO (allgemeiner Gerichtsstand Wohnsitz Schuldner), besondere Gerichtsstaende ParagrafParagraf 20-32 ZPO. Internationale Zuständigkeit Bruessel Ia VO 1215/2012. Mahngericht Paragraf 689 ZPO zen...
-   - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
-   - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
-   - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-6. **Forderung Werkvertrag BAU**
-   - Fachlicher Fokus: Werklohnforderung Paragraf 631, Paragraf 641 BGB: Faelligkeit nach Abnahme, Schlussrechnung. Bauvertrag ParagrafParagraf 650a ff. BGB (seit 2018), VOB/B als AGB. Abschlagszahlungen Paragraf 632a BGB, Sicherheit Paragraf 650f BGB. Mangelhaftigkeit Paragraf 640 Abs. 2 BGB Abnahmeverweigerung. Output: Klageschrift Werklohn mit Prüfung Faelligkeit...
-   - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
-   - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
-   - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-7. **Zahlungsklage Erstellen**
-   - Fachlicher Fokus: Zahlungsklage erstellen nach ParagrafParagraf 253 ff. ZPO: Rubrum, Klageantrag, Streitwertangabe Paragraf 3 ZPO, Tatbestand, Beweismittel, Anlagenverzeichnis, Unterschrift. Pflichtbestandteile Paragraf 253 Abs. 2 ZPO, Belehrung Anwaltszwang Paragraf 78 ZPO. Output: vollstaendiges Klageschrift-Geruest für AG (bis 10.000 EUR ab 01.0...
-   - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
-   - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
-   - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-8. **Forderung Mietrueckstand Zahlungsklage**
-   - Fachlicher Fokus: Mietrueckstand: Zahlungsklage parallel zu Raeumungsklage Paragraf 543 Abs. 2 Nr. 3 BGB ausserordentliche Kuendigung. Mietzahlung im Voraus zum 3. Werktag Paragraf 556b BGB. Schonfristzahlung Paragraf 569 Abs. 3 Nr. 2 BGB heilt Kuendigung. Streitwert nach Paragraf 41 GKG. Output: Klageschrift Zahlung + Raeumung.
-   - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
-   - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
-   - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-9. **Fristen Risikoampel**
+5. **Fristen Risikoampel**
    - Fachlicher Fokus: Ampel zur Bewertung saemtlicher Fristen in einer Forderungssache von Verjährung Klagefrist Einspruchsfrist Beschwerdefrist bis Vollstreckungsfristen. Pinpoints BGB 195 199 ZPO 339 Einspruchsfrist Versaeumnisurteil ZPO 700 Einspruch Vollstreckungsbescheid ZPO 222 Fristberechnung. Liefert Ampel-Log...
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-10. **Kaltstart Triage**
+6. **Kaltstart Triage**
    - Fachlicher Fokus: Dokumentengetriebene Ersttriage einer Forderungsakte: wertet zuerst Ordner, ZIP, Rechnungen, Mahnungen, Kontoauszuege, Mahnbescheid, Widerspruch oder Klageentwurf aus, bildet eine Aktenhypothese und fragt danach nur echte Luecken ab. Pinpoints ZPO 253/688 ff.; BGB 271/286/288/362/195/199; GVG 23/71.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-11. **Klage Einreichungslogik**
+7. **Klage Einreichungslogik**
    - Fachlicher Fokus: Praktische Einreichungslogik einer Zahlungsklage. Klaert Zuständigkeit Gerichtskostenvorschuss beA-Pflicht Anzahl Abschriften Anlagenbezeichnung und Zustellung. Pinpoints ZPO 130d beA-Pflicht ZPO 253 Klageinhalt ZPO 167 Rueckwirkung Zustellung GKG 12 Vorschuss. Liefert Checkliste für die Einreich...
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
-12. **Belegte Compliance Aktenvermerk**
+8. **Belegte Compliance Aktenvermerk**
    - Fachlicher Fokus: Erstellt Compliance-Aktenvermerke bei Klage-Nichtaufnahme Mandantenfreigabe oder begruendetem Klage-Verzicht. Dokumentiert Sachverhalt Prüfraster Mandantenentscheid und Wiedervorlage. Pinpoints BORA 50 Aktenpflicht BRAO 43a Verschwiegenheit BGB 280 Beratungsfehlerhaftung. Liefert Aktenvermerk-Mu...
+   - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
+   - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
+   - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
+9. **Workflow Orchestrierung**
+   - Fachlicher Fokus: Steuert den Gesamtablauf einer Forderungsakte vom Eingang bis zur Vollstreckung oder Abschreibung. Definiert Workflow-Stufen Eingang Prüfung Mahnung Mahnbescheid Klage Titel Vollstreckung Erloesverwertung. Pinpoints ZPO 91 Kostenfolge ZPO 167 Rueckwirkung Zustellung ZPO 696 Abgabe nach Widerspru...
+   - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
+   - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
+   - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
+10. **Zahlungsklage Behoerden Register**
+   - Fachlicher Fokus: Hilfe bei Klagen gegen Behörden und juristische Personen des öffentlichen Rechts. Klaert Verwaltungsweg oder Zivilweg Klägervertreter Vorverfahren Verfahrensart. Pinpoints VwGO 40 abgrenzbare oeffentlich-rechtliche Streitigkeit ZPO 253 für fiskalisches Handeln BGB 839 Amtshaftung. Liefert Routin...
+   - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
+   - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
+   - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
+11. **Mahnung Aussergerichtlich Stufenmodell**
+   - Fachlicher Fokus: Aussergerichtliches Mahnverfahren in Stufen: 1. kostenfreie Erinnerung, 2. erste Mahnung verzugsbegruendend Paragraf 286 BGB, 3. zweite/letzte Mahnung mit Fristsetzung. B2B: 30-Tage-Regel Paragraf 286 Abs. 3 BGB. Verbraucher: Belehrungspflicht. Output: Mahnvorlage je Stufe + Vermerk Verzugsdatum.
+   - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
+   - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
+   - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.
+12. **Verbraucherklage RDG Grenzen**
+   - Fachlicher Fokus: Prüfung was Inkassodienstleister und Rechtsanwaelte gegenueber Verbrauchern duerfen und was nicht. Trennt Inkassoerlaubnis von anwaltlicher Vertretung. Pinpoints RDG 2 RDG 10 RDG 11a Hinweispflicht BGB 312j AGB-Kontrolle 305 ff. Liefert Prüfraster Hinweistexte und Klagestrategie.
    - Eingaben: relevante Aktenstücke, Fristen, Zahlen, Rollen, Vorentscheidungen und offene Belege.
    - Prüfung: Tatbestand, Zuständigkeit, Verfahren, Beweislast, Einwendungen, Rechtsfolge und Gegenargumente trennen.
    - Output: ein nutzbares Teilprodukt mit Kurzfazit, Begründung und nächstem Schritt.

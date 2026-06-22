@@ -27,9 +27,10 @@ Klagewerkstatt für Forderungsmanagement mit Zuständigkeitsprüfung, Mahnvorlau
 
 Pflichtnormen aus dem Plugin-Material:
 - Paragraf 91a ZPO, Paragraf 269 Abs. 3 S. 3 ZPO, Paragrafen 263 sowie 264 und 256 ZPO sowie Paragrafen 280 und 286 BGB
-- Paragraf 286 ff. BGB ZPO
-- Paragraf 288 BGB Gerichtsortfindung ParagrafParagraf 12 13 29 ZPO
-- Paragraf 12 13 29 29c ZPO ParagrafParagraf 23 71 GVG
+- Paragrafen 280 und 286 BGB für Verzugsschaden und Rechtsverfolgungskosten
+- Paragrafen 12, 13, 29 und 29c ZPO für den allgemeinen und besonderen Gerichtsstand
+- Paragraf 23 Nummer 1 GVG, Paragraf 23 Nummer 2a GVG, Paragraf 71 Absatz 1 GVG und Paragraf 78 Absatz 1 Satz 1 ZPO für Wertzuständigkeit, Wohnraummiete und Anwaltszwang
+- Paragrafen 12, 13, 29 und 29c ZPO sowie Paragraf 23 Nummer 1 GVG, Paragraf 23 Nummer 2a GVG und Paragraf 71 Absatz 1 GVG
 Leitentscheidungen nur nach Live-Prüfung verwenden:
 - BGH, Urteil vom 18.04.2013 - III ZR 156/12: Paragraf 269 Abs
 - BGH, Beschluss vom 13.12.2006 - XII ZB 71/04: Falsche Klagerücknahme nach Zahlung kann die Kostenlast kippen; Rechtshängigkeit ist die zentrale Weiche
@@ -37,13 +38,13 @@ Leitentscheidungen nur nach Live-Prüfung verwenden:
 ## Kernmodule
 
 - **Kostenfeststellungsklage Verzugsschaden Erledigung:** Forderungsklage nach Zahlung oder sonstiger Erledigung retten: prüft Kostenfeststellungsklage als materiellen Verzugsschaden statt reflexhafter Erledigung oder Klagerücknahme. Normen: Paragraf 91a ZPO, Paragraf 269 Abs. 3 S. 3 ZPO, Paragra…
-- **Inkasso Zahlungsklage Ersteller:** Gläubiger hat offene Forderung die er vor Gericht einklagen will. Zahlungsklage Forderungsmanagement ParagrafParagraf 286 ff. BGB ZPO. Prüfraster: Mahnvorlauf Anspruchs-Gatekeeper fällig belegt Teilzahlung Verzug Inkassokosten Paragraf 288…
+- **Inkasso Zahlungsklage Ersteller:** Prüft Mahnvorlauf, Fälligkeit, Verzug, Teilzahlung, Inkassokosten und Gerichtsstand. Wohnraummietforderungen bleiben nach Paragraf 23 Nummer 2a GVG beim Amtsgericht; sonst gilt die Wertzuständigkeit.
 - **Klagevorlage AUS Eigenen Mustern:** Kanzlei will einmalig ihre eigenen Klagemuster in ein wiederverwendbares Plugin destillieren. Lernlauf Klagewerkstatt. Prüfraster: Eigene Muster Urteile Kommentare hochladen Extraktion einer Standardklage-Vorlage Zuständigkeitsprüfung onli…
-- **Klage AUS Eigenem Skill:** Kanzlei hat hauseigenes Klage-Plugin (klagewerkstatt-kanzlei) installiert und will damit Klagen aus eigenem Sachverhalt erstellen. Laufzeit-Variante Klagewerkstatt. Prüfraster: Sachverhalt Beklagtenadresse Zuständigkeit ParagrafParagraf 12…
-- **Zustaendigkeitspruefung Mahngericht:** Sachliche Paragraf 23 Nr. 1 GVG (AG bis 10.000 EUR ab 01.01.2026) und Paragraf 71 GVG (LG ab 10.001 EUR), oertliche Zuständigkeit ParagrafParagraf 12-17 ZPO (allgemeiner Gerichtsstand Wohnsitz Schuldner), besondere Gerichtsstaende Paragraf…
-- **Forderung Werkvertrag BAU:** Werklohnforderung Paragraf 631, Paragraf 641 BGB: Faelligkeit nach Abnahme, Schlussrechnung. Bauvertrag ParagrafParagraf 650a ff. BGB (seit 2018), VOB/B als AGB. Abschlagszahlungen Paragraf 632a BGB, Sicherheit Paragraf 650f BGB. Mangelhaf…
-- **Zahlungsklage Erstellen:** Zahlungsklage erstellen nach ParagrafParagraf 253 ff. ZPO: Rubrum, Klageantrag, Streitwertangabe Paragraf 3 ZPO, Tatbestand, Beweismittel, Anlagenverzeichnis, Unterschrift. Pflichtbestandteile Paragraf 253 Abs. 2 ZPO, Belehrung Anwaltszwan…
-- **Forderung Mietrueckstand Zahlungsklage:** Mietrueckstand: Zahlungsklage parallel zu Raeumungsklage Paragraf 543 Abs. 2 Nr. 3 BGB ausserordentliche Kuendigung. Mietzahlung im Voraus zum 3. Werktag Paragraf 556b BGB. Schonfristzahlung Paragraf 569 Abs. 3 Nr. 2 BGB heilt Kuendigung…
+- **Klage AUS Eigenem Skill:** Kanzlei hat hauseigenes Klage-Plugin (klagewerkstatt-kanzlei) installiert und will damit Klagen aus eigenem Sachverhalt erstellen. Laufzeit-Variante Klagewerkstatt. Prüfraster: Sachverhalt Beklagtenadresse Zuständigkeit Paragrafen 12…
+- **Zustaendigkeitspruefung Mahngericht:** Prüft Paragraf 23 Nummer 1 GVG bis einschließlich 10.000 EUR, Paragraf 71 Absatz 1 GVG darüber, Paragraf 23 Nummer 2a GVG für Wohnraummietsachen und die örtlichen Gerichtsstände.
+- **Forderung Werkvertrag BAU:** Werklohnforderung nach Paragraf 631 und Paragraf 641 BGB: Fälligkeit nach Abnahme, Schlussrechnung, Bauvertrag nach Paragrafen 650a ff. BGB, VOB/B als AGB, Abschlagszahlungen und Sicherheit.
+- **Zahlungsklage Erstellen:** Erstellt Zahlungsklagen nach Paragraf 253 ZPO mit Zuständigkeitskontrolle, Streitwert, Rubrum, Antrag, Tatsachenvortrag, Beweisen, Anlagen und Anwaltszwang-Weiche.
+- **Forderung Mietrueckstand Zahlungsklage:** Prüft Mietrückstand, Zahlungsverzug, Kündigung, Schonfrist, Wohnraum-Zuständigkeit beim Amtsgericht und Gewerberaum-Wertzuständigkeit für verbundene Zahlungs- und Räumungsklagen.
 
 ## Antwortform
 

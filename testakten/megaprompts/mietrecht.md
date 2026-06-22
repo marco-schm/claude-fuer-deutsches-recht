@@ -10,12 +10,12 @@ Dieser Megaprompt enthaelt top-10 von 64 Skills des Plugins `mietrecht`.
 2. **mandat-triage-mietrecht** — Strukturierte Eingangs-Abfrage für mietrechtliche Mandate. Klaert Mandantenrolle (Vermieter Mieter WEG-Eigentuemer Verwa…
 3. **nebenkostenabrechnung-erstellen** — Vermieter- und Hausverwaltungssicht — Workflow für rechtssichere Betriebskostenabrechnungen nach § 556 BGB und BetrKV. D…
 4. **eigenbedarfskuendigung-erstellen** — Vermietersicht — entwerfe eine ordentliche Kündigung wegen Eigenbedarfs nach § 573 Abs. 2 Nr. 2 BGB. Prüfroutine deckt b…
-5. **klageentwurf-amtsgericht-miet-gewerbemiete** — Beide Rollen — entwirf eine Klageschrift zum Amtsgericht in einer Mietsache. Sachliche Zuständigkeit für Wohnraummietsac…
-6. **lage-ausstattung-mahnung-zahlungsverzug** — Strukturierte Datenerhebung für die Einordnung in den Mietspiegel — Adresse Baujahr Wohnflaeche Bad Kueche Heizung Wohnu…
-7. **mahnung-zahlungsverzug-mieter** — Vermietersicht — verfasse Mahnung und ggf. fristlose Kündigung bei Zahlungsverzug des Mieters. Prüfroutine deckt Verzug …
-8. **mieteranfragen-beantworten** — Vermieter- und Hausverwaltungssicht — beantworte Mieteranfragen sachlich und ehrlich. Deckt typische Themen ab (Mietmind…
-9. **mieterhoehung-widersprechen** — Mietersicht — prüfe ein Mieterhoehungsverlangen nach ortsueblicher Vergleichsmiete (§§ 558 ff. BGB) auf Form Frist Kappu…
-10. **mieterhoehungsverlangen-erstellen** — Vermietersicht — verfasse ein Mieterhoehungsverlangen auf ortsuebliche Vergleichsmiete (§ 558a BGB) in Textform mit ordn…
+5. **lage-ausstattung-mahnung-zahlungsverzug** — Strukturierte Datenerhebung für die Einordnung in den Mietspiegel — Adresse Baujahr Wohnflaeche Bad Kueche Heizung Wohnu…
+6. **mahnung-zahlungsverzug-mieter** — Vermietersicht — verfasse Mahnung und ggf. fristlose Kündigung bei Zahlungsverzug des Mieters. Prüfroutine deckt Verzug …
+7. **mieteranfragen-beantworten** — Vermieter- und Hausverwaltungssicht — beantworte Mieteranfragen sachlich und ehrlich. Deckt typische Themen ab (Mietmind…
+8. **mieterhoehung-widersprechen** — Mietersicht — prüfe ein Mieterhoehungsverlangen nach ortsueblicher Vergleichsmiete (§§ 558 ff. BGB) auf Form Frist Kappu…
+9. **mieterhoehungsverlangen-erstellen** — Vermietersicht — verfasse ein Mieterhoehungsverlangen auf ortsuebliche Vergleichsmiete (§ 558a BGB) in Textform mit ordn…
+10. **mietsenkungsverlangen** — Mietersicht — prüfe eine laufende oder bei Vertragsschluss vereinbarte Miete auf Verstoß gegen die Mietpreisbremse (§§ 5…
 
 ---
 
@@ -200,7 +200,7 @@ Strukturierte Eingangs-Abfrage für mietrechtliche Mandate. Klaert Mandantenroll
 
 - **Konflikt-Check** — keine Doppelmandate Mieter/Vermieter
 - **Streitwert** Wohnraum Jahresmiete EUR (KSchG-Streitwert vergleichbar)
-- **AG-Zuständigkeit** Mietrecht-Streit über Wohnraum § 23 Nr. 2 a) GVG ausschließlich AG
+- **AG-Zuständigkeit** Wohnraummietsachen nach Paragraf 23 Nummer 2a GVG ausschließlich und streitwertunabhängig beim Amtsgericht; in erster Instanz kein Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO im Umkehrschluss.
 - **Versicherungs-Deckung** Mietrechtsschutz häufig
 
 ## Eskalation
@@ -219,7 +219,11 @@ Strukturierte Eingangs-Abfrage für mietrechtliche Mandate. Klaert Mandantenroll
 - Empfehlung Folge-Skill
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Quellen
@@ -301,7 +305,11 @@ Der nachstehende Workflow ist eine Arbeitsgrundlage. Vor Versand einer Abrechnun
 Mustergliederung der Abrechnung als Markdown plus Checkliste vor Versand. Vor der finalen Freigabe Disclaimer wiederholen.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Aktuelle Rechtsprechung — Leitsaetze (Stand 05/2026, verifiziert dejure.org)
@@ -498,122 +506,12 @@ Quelle: dejure.org. Prufer: Bundle-005-Audit.
 -->
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `klageentwurf-amtsgericht-miet-gewerbemiete`
-
-_Beide Rollen — entwirf eine Klageschrift zum Amtsgericht in einer Mietsache. Sachliche Zuständigkeit für Wohnraummietsachen nach § 23 Nr. 2a GVG ohne Rücksicht auf den Streitwert; bei Geschäftsraummiete allgemeine AG-Grenze nach § 23 Nr. 1 GVG zehntausend Euro ab 01.01.2026 durch das Gesetz zur S..._
-
-# Klageentwurf zum Amtsgericht (Mietsache)
-
-## Arbeitsbereich
-
-Beide Rollen — entwirf eine Klageschrift zum Amtsgericht in einer Mietsache. Sachliche Zuständigkeit für Wohnraummietsachen nach § 23 Nr. 2a GVG ohne Rücksicht auf den Streitwert; bei Geschäftsraummiete allgemeine AG-Grenze nach § 23 Nr. 1 GVG zehntausend Euro ab 01.01.2026 durch das Gesetz zur Stärkung der Amtsgerichte in Zivilsachen; davor fünftausend Euro. Örtliche Zuständigkeit am Belegenheitsort der Mietsache (§ 29a ZPO). Streitwertberechnung Anträge Sachverhalt rechtliche Würdigung Beweisangebote und formgerechte Anlagen. Kein Anwaltszwang vor dem Amtsgericht aber dringende Empfehlung anwaltlicher Prüfung. Disclaimer mehrfach. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Miet- und WEG-Recht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Klageentwurf zum Amtsgericht (Mietsache)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG §§ 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG.
-- **Verifizierte Anker:** BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 (Belegeinsicht Originale/Kopien); BGH, Urteil vom 14.02.2025 - V ZR 128/23 (§ 16 Abs. 2 Satz 2 WEG, Rücklagen/Kostenverteilung); BGH, Urteil vom 14.02.2025 - V ZR 86/24 (§ 20 WEG, bauliche Veränderung, Vorbefassung/Beschlussersetzung).
-- **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
-- **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Disclaimer (Schlüsselstelle, mehrfach)
-
-Eine Klageschrift ist ein Rechtsschriftsatz mit erheblichen Konsequenzen (Gerichtskosten, Anwaltskosten, Präklusion verspäteten Vortrags). Dieser Entwurf ist **kein Ersatz für anwaltliche Vertretung**. Vor Einreichung ist eine fachanwaltliche Prüfung dringend empfohlen. In Mietsachen vor dem Amtsgericht besteht zwar **kein Anwaltszwang** (§ 78 ZPO e contrario), die rechtlichen Risiken sind aber dennoch hoch.
-
-## Workflow
-
-### Schritt 1 — Sachliche Zuständigkeit
-
-- **Wohnraummietsachen** — Amtsgericht ist nach § 23 Nr. 2a GVG zuständig für Streitigkeiten aus Mietverhältnissen über Wohnraum **ohne Rücksicht auf den Streitwert**.
-- **Geschäftsraummiete** — allgemeine Streitwertgrenze des § 23 Nr. 1 GVG: AG bis **zehntausend Euro** ab dem 01.01.2026 durch das Gesetz zur Stärkung der Amtsgerichte in Zivilsachen (Bundesrat-Billigung 21.11.2025, Inkrafttreten 01.01.2026); darüber LG (§ 71 GVG). Übergangsregelung: Für vor dem 01.01.2026 anhängig gewordene Verfahren bleibt die alte Wertgrenze von fünftausend Euro maßgeblich. Quelle: BRAK-Nachrichten 24/2025 vom 26.11.2025. Anwaltszwang vor dem Landgericht greift ebenfalls erst ab zehntausend Euro Streitwert; die Berufungsbeschwer in § 511 Abs. 2 Nr. 1 ZPO wurde zugleich von 600 Euro auf 1.000 Euro angehoben.
-- Streitwert ist in jedem Fall zu berechnen (für Kosten und Berufungssumme).
-
-### Schritt 2 — Örtliche Zuständigkeit (§ 29a ZPO)
-
-- Ausschließlich das Gericht des Ortes, an dem sich die **Mietsache befindet** (Belegenheitsort).
-- Keine Abweichung durch Gerichtsstandsvereinbarung möglich (§ 40 Abs. 2 ZPO).
-
-### Schritt 3 — Streitwertberechnung
-
-- **Zahlungsklage** Nennbetrag der geforderten Summe.
-- **Klage auf Zustimmung zur Mieterhöhung** Jahresbetrag des Erhöhungsbetrags (§ 41 Abs. 5 GKG).
-- **Klage auf Mietsenkung / Mietpreisbremse** Jahresbetrag der streitigen Differenz (§ 41 Abs. 5 GKG analog).
-- **Raeumungsklage** Jahresnettomiete (§ 41 Abs. 2 GKG).
-- **Klage auf Belegeinsicht** Bruchteil der streitigen Abrechnung (Schätzung nach § 3 ZPO).
-
-### Schritt 4 — Anträge formulieren
-
-- Eindeutig, vollstreckbar.
-- Hauptantrag, Hilfsanträge, Kostenantrag, Vorläufige-Vollstreckbarkeits-Antrag.
-
-### Schritt 5 — Sachverhalt
-
-- Parteien, Mietvertrag, Mietsache, streitiger Vorgang chronologisch.
-- Belege als Anlagen (K1, K2, K3 ...).
-
-### Schritt 6 — Rechtliche Würdigung
-
-- Anspruchsgrundlage benennen (§§ BGB, BetrKV, HeizkostenV).
-- Subsumtion knapp.
-- Bei Mietspiegelfällen: Bezugnahme auf den amtlichen Mietspiegel aus `references/mietspiegel-quellen.md`.
-
-### Schritt 7 — Beweisangebote
-
-- Zeugen mit ladungsfähiger Anschrift.
-- Sachverständigengutachten (§ 144 ZPO).
-- Augenschein (§ 371 ZPO).
-- Urkundenbeweis durch beigefügte Anlagen.
-
-### Schritt 8 — Anlagen
-
-- Mietvertrag.
-- Streitige Schreiben (Mieterhöhung, Abrechnung, Ruege).
-- Mietspiegelauszug (falls erforderlich).
-- Lage- und Ausstattungsprotokoll.
-
-## Gliederungsmuster der Klageschrift
-
-1. Kopf (Gericht, Aktenzeichen, Parteien, Bevollmächtigte).
-2. Anträge.
-3. Begründung — Sachverhalt.
-4. Begründung — Rechtliche Würdigung.
-5. Beweisangebote.
-6. Kostenantrag.
-7. Antrag auf vorläufige Vollstreckbarkeit (§ 708 Nr. 11 ZPO).
-8. Anlagen.
-
-## Vor Einreichung (Disclaimer wiederholt)
-
-Vor Einreichung beim Amtsgericht ist diese Klageschrift durch einen Fachanwalt für Mietrecht zu prüfen. Versäumte Tatsachen, falsche Anspruchsgrundlagen oder formale Fehler können zur Klageabweisung und Kostenlast führen. Diese Auto-Erstellung ersetzt nicht die anwaltliche Vertretung.
-
-## Aktuelle Rechtsprechung — Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Paragrafenkette
-
-- Sachliche Zuständigkeit: § 23 Nr. 2a GVG (Wohnraum), § 71 GVG (LG)
-- Oertliche Zuständigkeit: § 29a ZPO
-- Streitwert: §§ 41, 48 GKG, § 3 ZPO
-- Vollstreckbarkeit: §§ 708 ff. ZPO
-
-## Audit-Hinweis
-
-Audit durchgefuehrt am 27.05.2026. Drei halluzinierte Aktenzeichen im Abschnitt "Aktuelle Rechtsprechung" geprueft und korrigiert:
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -815,7 +713,7 @@ Sachlich kurz. Anrede mit Namen. Bezugnahme auf den Mietvertrag. Konkrete Aufste
 
 ## Hinweis zur Raeumungsklage
 
-Wenn der Mieter nach Ablauf der Kündigungsfrist nicht raeumt: **Raeumungsklage** zum Amtsgericht am Belegenheitsort (§ 29a ZPO). Siehe Skill `klageentwurf-amtsgericht`. **Disclaimer** — die Raeumungsklage ist anwaltliche Praxis; Selbstvertretung ist beim Amtsgericht zwar möglich aber nicht empfohlen.
+Wenn der Mieter nach Ablauf der Kündigungsfrist nicht räumt: **Räumungsklage** zum Amtsgericht am Belegenheitsort nach Paragraf 29a ZPO. Bei Wohnraum ist das Amtsgericht nach Paragraf 23 Nummer 2a GVG ausschließlich und streitwertunabhängig zuständig; das gilt auch für die verbundene Räumungs- und Zahlungsklage. In erster Instanz besteht dort kein Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO im Umkehrschluss. Siehe Skill `klageentwurf-amtsgericht`. **Disclaimer** — die Räumungsklage ist anwaltliche Praxis; Selbstvertretung ist beim Amtsgericht zwar möglich, aber nicht empfohlen.
 
 ## Vor Versand (Disclaimer wiederholt)
 
@@ -1123,6 +1021,101 @@ Vor Zitieren weiterer Entscheidungen Live-Verifikation per dejure.org / bundesge
 ## Paragrafenkette
 
 §§ 558, 558a, 558b BGB — Begruendungsmittel, Wartefrist, Kappungsgrenze
+
+---
+
+## Skill: `mietsenkungsverlangen`
+
+_Mietersicht — prüfe eine laufende oder bei Vertragsschluss vereinbarte Miete auf Verstoß gegen die Mietpreisbremse (§§ 556d ff. BGB), § 5 WiStrG 1954 (Mietpreisüberhöhung als Ordnungswidrigkeit) und § 291 StGB (Mietwucher als Straftat). Erzeugt eine qualifizierte Rüge nach § 556g Abs. 2 BGB mit B..._
+
+# Mietsenkungsverlangen (Mietpreisbremse, WiStrG 1954, Wucher)
+
+## Arbeitsbereich
+
+Mietersicht — prüfe eine laufende oder bei Vertragsschluss vereinbarte Miete auf Verstoß gegen die Mietpreisbremse (§§ 556d ff. BGB), § 5 WiStrG 1954 (Mietpreisüberhöhung als Ordnungswidrigkeit) und § 291 StGB (Mietwucher als Straftat). Erzeugt eine qualifizierte Rüge nach § 556g Abs. 2 BGB mit Berechnung der zulässigen Miete, Bezugnahme auf den amtlichen Mietspiegel und Aufforderung zur Rückzahlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Kern — Miet- und WEG-Recht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mietsenkungsverlangen (Mietpreisbremse, WiStrG 1954, Wucher)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Normenradar:** BGB §§ 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG §§ 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG.
+- **Verifizierte Anker:** BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 (Belegeinsicht Originale/Kopien); BGH, Urteil vom 14.02.2025 - V ZR 128/23 (§ 16 Abs. 2 Satz 2 WEG, Rücklagen/Kostenverteilung); BGH, Urteil vom 14.02.2025 - V ZR 86/24 (§ 20 WEG, bauliche Veränderung, Vorbefassung/Beschlussersetzung).
+- **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
+- **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Disclaimer (Schlüsselstelle)
+
+Mietsenkungsverlangen sind streitanfällig. Die Mietpreisbremse gilt nur in Gebieten mit Landesverordnung (§ 556d Abs. 2 BGB). Vor Versand der qualifizierten Ruege eine anwaltliche oder mietervereinsseitige Prüfung einholen. Fehlerhafte Ruegen können Anspruechen entgegengehalten werden.
+
+## Workflow
+
+### Schritt 1 — Anwendbarkeit der Mietpreisbremse
+
+- Vertragsschluss **nach dem 1. Juni 2015** (§ 556d BGB ist seit dem 1. Juni 2015 in Kraft).
+- Wohnung liegt in einem Gebiet mit Landesverordnung nach § 556d Abs. 2 BGB — Prüfung anhand `references/mietspiegel-quellen.md`.
+- Verordnung zum Zeitpunkt des Vertragsschlusses gültig.
+
+### Schritt 2 — Ausnahmen prüfen (§§ 556e und 556f BGB)
+
+- **Vormiete** wenn höher, darf weitergegeben werden (§ 556e Abs. 1 BGB).
+- **Modernisierung** nach § 556e Abs. 2 BGB.
+- **Neubau** Erstbezug nach dem 1. Oktober 2014 ausgenommen (§ 556f Satz 1 BGB).
+- **Umfassende Modernisierung** nach § 556f Satz 2 BGB ausgenommen.
+
+### Schritt 3 — Zulässige Miete berechnen
+
+- Ortsübliche Vergleichsmiete nach Mietspiegel ermitteln (Spanne, Einordnung).
+- Zulässig: ortsübliche Vergleichsmiete plus **zehn Prozent** (§ 556d Abs. 1 BGB).
+- Differenz zur tatsächlich gezahlten Miete berechnen.
+
+### Schritt 4 — Qualifizierte Ruege (§ 556g Abs. 2 BGB)
+
+- **Textform** ausreichend.
+- **Tatsachen** angeben, auf denen die Beanstandung beruht (Mietspiegelwerte, Wohnlage, Ausstattung).
+- **Rückforderung** erst ab Zugang der Ruege (§ 556g Abs. 1 Satz 3 BGB) — auf zu viel gezahlte Miete.
+
+### Schritt 5 — Auskunftsanspruch (§ 556g Abs. 3 BGB)
+
+- Mieter kann vom Vermieter Auskunft verlangen über Tatsachen, die für die Ausnahmen nach §§ 556e und 556f BGB massgebend sind.
+
+### Schritt 6 — Mietpreisüberhöhung (§ 5 WiStrG 1954)
+
+- **Mehr als 20 Prozent** über den üblichen Entgelten für vergleichbare Wohnräume bei **Ausnutzung eines geringen Angebots** (§ 5 Abs. 2 WiStrG 1954).
+- Ordnungswidrigkeit, keine Straftat; Bußgeld bis 50.000 Euro (§ 5 Abs. 3 WiStrG 1954).
+- Zusätzlich § 8 WiStrG 1954 prüfen: Abführung des Mehrerlöses an das Land, soweit nicht aufgrund rechtlicher Verpflichtung zurückerstattet wurde.
+
+### Schritt 7 — Wucher (§ 291 StGB)
+
+- **Auffälliges Missverhältnis** Miete zu Leistung **plus** Ausbeutung einer Zwangslage, Unerfahrenheit, Mangel an Urteilsvermögen oder erheblicher Willensschwaeche.
+- Straftatbestand — Anzeige möglich, aber nur bei individueller Schwächesituation und vorsätzlicher Ausbeutung; bloß angespannter Wohnungsmarkt reicht dafür nicht.
+
+## Schreiben-Entwurf
+
+Strukturiere die Ruege in Abschnitte:
+
+1. Bezeichnung als qualifizierte Ruege nach § 556g Abs. 2 BGB.
+2. Sachverhalt (Mietvertrag, Mietsache, Datum, Höhe der Miete).
+3. Gebiet der Mietpreisbremse mit Verordnung (Link).
+4. Berechnung der ortsüblichen Vergleichsmiete mit Mietspiegelauszug.
+5. Berechnung der zulässigen Miete (plus zehn Prozent).
+6. Beanstandeter Mehrbetrag und Aufforderung zur Senkung sowie Rückzahlung ab Zugang.
+7. Hilfsweise Hinweise auf § 5 WiStrG 1954 und § 291 StGB falls einschlägig.
+8. **Disclaimer am Ende** — kein anwaltliches Schreiben, Empfehlung Rechtsrat einzuholen.
+
+## Aktuelle Rechtsprechung — Leitsaetze
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Paragrafenkette
+
+§§ 556d, 556e, 556f, 556g BGB — Mietpreisbremse und Rüge; § 5 WiStrG 1954 — Mietpreisüberhöhung; § 8 WiStrG 1954 — Abführung des Mehrerlöses; § 291 StGB — Wucher.
 
 ---
 

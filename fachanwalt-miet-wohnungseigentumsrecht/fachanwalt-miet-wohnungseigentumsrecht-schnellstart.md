@@ -26,10 +26,10 @@ Großer Fachanwalt-Kompass Miet- und Wohnungseigentumsrecht mit über 200 Skills
 ## Anker
 
 Pflichtnormen aus dem Plugin-Material:
+- Paragraf 23 Nummer 2a GVG und Paragraf 29a ZPO
+- Paragraf 78 Absatz 1 Satz 1 ZPO
 - Paragraf 556 BGB
-- Paragraf 556 Abs. 3 BGB
-- Paragraf 573 BGB außerordentliche Kündigung ParagrafParagraf 543 569 BGB Eigenbedarfskündigung Paragraf 573 Abs. 2 Nr. 2 BGB. Normen ParagrafParagraf 535 543 569 573 573c BGB. Prü…
-- Paragraf 558 BGB ortsuebliche Vergleichsmiete Kappungsgrenze 20 Prozent bzw. 15 Prozent in angespannten Maerkten. Normen ParagrafParagraf 558-558b 559 556d ff. BGB
+- Paragraf 23 Nummer 2a GVG
 Leitentscheidungen nur nach Live-Prüfung verwenden:
 - BGH 27.01.2021 VIII ZR 25/21 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 - BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15

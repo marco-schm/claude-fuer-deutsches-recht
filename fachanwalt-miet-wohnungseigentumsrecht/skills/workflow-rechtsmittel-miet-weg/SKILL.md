@@ -47,6 +47,10 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - Für Berufsanfänger sichtbar machen, welche Anspruchsgrundlage, Beweislast und Frist den Fall trägt.
 - Für erfahrene Nutzer knapp bleiben und auf den entscheidenden Streitpunkt zielen.
 
+## Instanzzug Mietrecht
+
+Wohnraummietsachen beginnen nach Paragraf 23 Nummer 2a GVG ausschließlich beim Amtsgericht. Die Berufung gegen ein amtsgerichtliches Urteil in einer Wohnraummietsache geht zum Landgericht; dort gilt Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO. Gewerberaummiete folgt in erster Instanz der Wertzuständigkeit: bis einschließlich zehntausend Euro Amtsgericht, darüber Landgericht. Beginnt die Gewerberaumsache beim Landgericht, ist der weitere Instanzzug gesondert nach ZPO und GVG zu prüfen.
+
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

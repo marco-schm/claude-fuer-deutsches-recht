@@ -188,7 +188,7 @@ const SCHEMA = [
     { id: "gericht_bez",     label: "Gericht (z. B. Amtsgericht Köln)", type: "text" },
     { id: "gericht_adr",     label: "Postanschrift Gericht", type: "textarea" },
     { id: "gericht_safe",    label: "BeA-SAFE-ID (sofern bekannt)", type: "text" },
-    { id: "zust_sachlich",   label: "Sachliche Zuständigkeit (Norm)",  type: "text", placeholder: "§ 71 GVG" },
+    { id: "zust_sachlich",   label: "Sachliche Zuständigkeit (Norm)",  type: "text", placeholder: "Paragraf 71 Absatz 1 GVG" },
     { id: "zust_oertlich",   label: "Örtliche Zuständigkeit (Norm)",   type: "text", placeholder: "§§ 12, 13 ZPO" },
     { id: "zust_quelle",     label: "Online-Quelle", type: "text", placeholder: "justizadressen.nrw.de" },
     { id: "zust_abrufdatum", label: "Abrufdatum",    type: "text", placeholder: "TT.MM.JJJJ" }
@@ -309,8 +309,9 @@ function pruefeZust() {
   const sw = parseFloat(STATE.streitwert || "0");
   const zeilen = [];
   if (sw > 0) {
-    if (sw <= 5000) zeilen.push(`Sachlich: Amtsgericht (§ 23 Nr. 1 GVG), Streitwert ${sw.toLocaleString("de-DE")} EUR.`);
-    else zeilen.push(`Sachlich: Landgericht (§ 71 GVG), Streitwert ${sw.toLocaleString("de-DE")} EUR.`);
+    if (sw <= 10000) zeilen.push(`Sachlich: Amtsgericht (Paragraf 23 Nummer 1 GVG), Streitwert ${sw.toLocaleString("de-DE")} EUR.`);
+    else zeilen.push(`Sachlich: Landgericht (Paragraf 71 Absatz 1 GVG), Streitwert ${sw.toLocaleString("de-DE")} EUR.`);
+    zeilen.push("Sonderfall Wohnraummiete: Paragraf 23 Nummer 2a GVG weist Wohnraummietsachen unabhängig vom Streitwert ausschließlich dem Amtsgericht zu; vor dem Amtsgericht besteht in erster Instanz kein Anwaltszwang.");
   }
   if (STATE.beklagte_b2c === "ja") {
     zeilen.push("Örtlich: § 29c ZPO — Wohnsitz des Verbrauchers, AGB-Gerichtsstand unwirksam (§ 38 Abs. 3 ZPO).");

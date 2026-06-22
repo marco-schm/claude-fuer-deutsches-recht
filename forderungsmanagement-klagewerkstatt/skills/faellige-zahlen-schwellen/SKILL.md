@@ -29,10 +29,13 @@ Der Basiszinssatz wird halbjaehrlich von der Bundesbank festgesetzt. Aktueller S
 
 | Gericht | Streitwert |
 |---|---|
-| Amtsgericht GVG 23 Nr. 1 ab 1.1.2026 | bis zehntausend Euro |
-| Landgericht GVG 71 ab 1.1.2026 | über zehntausend Euro |
-| Mietsachen GVG 23 Nr. 2a | streitwertunabhaengig AG |
-| Wohnungseigentum GVG 23 Nr. 2c | streitwertunabhaengig AG |
+| Amtsgericht Paragraf 23 Nummer 1 GVG ab 1.1.2026 | bis einschließlich zehntausend Euro |
+| Landgericht Paragraf 71 Absatz 1 GVG ab 1.1.2026 | über zehntausend Euro |
+| Wohnraummietsachen Paragraf 23 Nummer 2a GVG | ausschließlich Amtsgericht, streitwertunabhängig |
+| Gewerberaummiete | allgemeine Wertzuständigkeit: bis zehntausend Euro Amtsgericht, darüber Landgericht |
+| Wohnungseigentum Paragraf 23 Nummer 2c GVG | streitwertunabhängig Amtsgericht |
+| Amtsgericht erste Instanz | kein Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO im Umkehrschluss |
+| Landgericht und höher | Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO |
 
 ## Berufungs- und Beschwerdesumme
 

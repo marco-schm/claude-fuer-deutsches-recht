@@ -73,7 +73,7 @@ Prüfe aus der Akte in dieser Reihenfolge:
 5. **Zinsen und Kosten:** § 288 BGB, § 280 BGB, § 286 BGB, vorgerichtliche Kosten nur bei tragfaehigem Verzug.
 6. **Verjaehrung:** §§ 195, 199 BGB, Hemmung § 204 BGB.
 7. **Verfahrensspur:** Mahnung, Mahnbescheid §§ 688 ff. ZPO, Zahlungsklage § 253 ZPO, Vollstreckungsbescheid §§ 699, 700 ZPO.
-8. **Zustaendigkeit:** §§ 12 ff., 29 ZPO, § 23 Nr. 1 GVG, § 71 GVG, Sonderzustaendigkeiten.
+8. **Zuständigkeit:** Paragrafen 12 ff. und 29 ZPO, Paragraf 23 Nummer 1 GVG, Paragraf 23 Nummer 2a GVG, Paragraf 71 Absatz 1 GVG und weitere Sonderzuständigkeiten.
 
 ## Ausgabe nach zehn Minuten Aktenarbeit
 

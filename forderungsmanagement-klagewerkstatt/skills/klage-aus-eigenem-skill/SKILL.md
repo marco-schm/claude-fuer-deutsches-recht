@@ -1,6 +1,6 @@
 ---
 name: klage-aus-eigenem-skill
-description: "Kanzlei hat hauseigenes Klage-Plugin (klagewerkstatt-kanzlei) installiert und will damit Klagen aus eigenem Sachverhalt erstellen. Laufzeit-Variante Klagewerkstatt. Prüfraster: Sachverhalt Beklagtenadresse Zuständigkeit §§ 12 13 29 29c ZPO §§ 23 71 GVG. Output: fertige Klageschrift DOCX und Markdown. Abgrenzung zu klagevorlage-aus-eigenen-mustern (Lernlauf) und inkasso-zahlungsklage-ersteller (standalone)."
+description: "Kanzlei hat hauseigenes Klage-Plugin installiert und will daraus Klagen erstellen. Pruefraster: Sachverhalt, Beklagtenadresse, Zustaendigkeit nach Paragrafen 12 und 13 sowie 29 und 29c ZPO sowie Paragraf 23 Nummer 1 und 2a GVG und Paragraf 71 Absatz 1 GVG."
 ---
 
 # Klagewerkstatt — Laufzeit aus eigenem Skill
@@ -9,14 +9,14 @@ description: "Kanzlei hat hauseigenes Klage-Plugin (klagewerkstatt-kanzlei) inst
 
 1. Ist das hauseigene Klage-Plugin (`klagewerkstatt-<kanzlei>`) installiert — enthält es `assets/vorlagen-leer/standardklage.md` und `references/hausregeln.json`?
 2. Sind Sachverhalt, Parteien, Forderungshöhe und Beklagtenanschrift vollständig bekannt?
-3. Welche sachliche Zuständigkeit liegt vor (AG bis 10.000 EUR / LG darüber, §§ 23, 71 GVG)?
+3. Welche sachliche Zuständigkeit liegt vor: allgemeine Forderung bis einschließlich 10.000 EUR Amtsgericht, darüber Landgericht; Wohnraummietsache nach Paragraf 23 Nummer 2a GVG stets Amtsgericht?
 4. Welche örtliche Zuständigkeit gilt (§§ 12, 13 ZPO allgemein; § 29 ZPO Erfüllungsort; § 29c ZPO Verbraucherverträge)?
 5. Soll zusätzlich ein Kurz-Memo im Gutachtenstil mit Prozessrisiken erstellt werden?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
-§ 253 ZPO (Klageschrift) — §§ 130, 130a, 130d ZPO (Schriftsatz, elektronisches Dokument, beA-Pflicht) — §§ 23, 71 GVG (sachliche Zuständigkeit) — §§ 12, 13, 29, 29c, 38 ZPO (örtliche Zuständigkeit) — VO (EU) 1215/2012 (Brüssel Ia, internationale Zuständigkeit) — §§ 286, 288, 280 BGB (Verzug, Verzugszinsen, Verzugsschaden) — RVG VV (Rechtsanwaltsvergütung)
+Paragraf 253 ZPO (Klageschrift) — Paragrafen 130, 130a, 130d ZPO (Schriftsatz, elektronisches Dokument, beA-Pflicht) — Paragraf 23 Nummer 1 GVG und Paragraf 71 Absatz 1 GVG (allgemeine Wertzuständigkeit) — Paragraf 23 Nummer 2a GVG (Wohnraummietsachen ausschließlich Amtsgericht) — Paragrafen 12, 13, 29, 29c, 38 ZPO (örtliche Zuständigkeit) — VO (EU) 1215/2012 (Brüssel Ia, internationale Zuständigkeit) — Paragrafen 286, 288, 280 BGB (Verzug, Verzugszinsen, Verzugsschaden) — RVG VV (Rechtsanwaltsvergütung)
 
 ## Rechtsprechung
 
@@ -45,7 +45,7 @@ Parteien, Forderungsgrund, Betrag, Fälligkeit, Verzug, Beklagtenanschrift, Bewe
 
 **Schritt 3 — Zuständigkeit online prüfen (Pflicht)**
 
-Sachlich: §§ 23, 71 GVG. Örtlich: §§ 12, 13, 29, 29c, 38 ZPO. Online-Recherche unter `https://www.justizadressen.nrw.de/de/justiz/suche` und `https://www.justiz.de/onlinedienste/gerichtsverzeichnis_und_orga/index.php`. Quelle und Abrufdatum dokumentieren. BeA-SAFE-ID nachtragen.
+Sachlich: Paragraf 23 Nummer 1 und Nummer 2a GVG sowie Paragraf 71 Absatz 1 GVG. Wohnraummietsachen bleiben auch bei hohen Zahlungsrückständen beim Amtsgericht; Gewerberaummiete folgt der allgemeinen Wertzuständigkeit. Örtlich: Paragrafen 12, 13, 29, 29c, 38 ZPO. Online-Recherche unter `https://www.justizadressen.nrw.de/de/justiz/suche` und `https://www.justiz.de/onlinedienste/gerichtsverzeichnis_und_orga/index.php`. Quelle und Abrufdatum dokumentieren. BeA-SAFE-ID nachtragen.
 
 **Schritt 4 — Klage erzeugen**
 
@@ -64,7 +64,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Standard — Klageschrift aus eigenem Skill-Output generieren | Klageschrift nach Skill-Output-Schema; Template unten |
 | Variante A — Skill-Output unvollstaendig Luecken vorhanden | Luecken manuell fuellen; dann Template anwenden |
 | Variante B — Mandant will Vereinfachung Mahnverfahren statt Klage | Mahnbescheid § 688 ZPO als kostenguenstigere Alternative |
-| Variante C — Streitwert unter 10.000 EUR (Stand ab 01.01.2026, § 23 GVG n.F.) | Amtsgericht zustaendig; vereinfachtes Verfahren AG; kein Anwaltszwang in der Klageerhebung |
+| Variante C — allgemeine Forderung bis einschließlich 10.000 EUR oder Wohnraummietsache | Amtsgericht zuständig; bei Wohnraummiete streitwertunabhängig nach Paragraf 23 Nummer 2a GVG; in erster Instanz kein Anwaltszwang, aber Prozessrisiko prüfen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -87,7 +87,7 @@ Streitwert: [...] EUR
 **Zuständigkeitsprüfung:**
 | Prüfpunkt | Ergebnis |
 |---|---|
-| Sachlich (§§ 23/71 GVG) | AG / LG wegen Streitwert [...] EUR |
+| Sachlich | Amtsgericht / Landgericht; bei Wohnraum Paragraf 23 Nummer 2a GVG, sonst Wertzuständigkeit nach Paragraf 23 Nummer 1 GVG und Paragraf 71 Absatz 1 GVG |
 | Örtlich (§§ 12/13/29/29c ZPO) | AG/LG [...] wegen [...] |
 | Online-Quelle | [...] — Abrufdatum: [...] |
 | BeA-SAFE-ID | [...] |
@@ -127,4 +127,3 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-
