@@ -11,7 +11,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | --- | --- |
 | **Dieses Plugin** (`staatsanwaltschaft-praxis-einstieg`) | [`staatsanwaltschaft-praxis-einstieg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-praxis-einstieg.zip) |
 | **Alle Skills als Markdown** | [`staatsanwaltschaft-praxis-einstieg-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-praxis-einstieg-skills-markdown.zip) |
-| **Unified Mini Prompt** (Sparversion bis 7.500 Zeichen) | [`staatsanwaltschaft-praxis-einstieg.md`](../unified-mini-prompts/staatsanwaltschaft-praxis-einstieg.md) oder als Sammel-ZIP [`alle-unified-mini-prompts.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-unified-mini-prompts.zip) |
+| **Unified Mini Prompt** (Sparversion bis 7.500 Zeichen) | [`staatsanwaltschaft-praxis-einstieg.md`](../../unified-mini-prompts/staatsanwaltschaft-praxis-einstieg.md) oder als Sammel-ZIP [`alle-unified-mini-prompts.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-unified-mini-prompts.zip) |
 
 Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
 
@@ -207,9 +207,9 @@ Automatisch generierte Komplett-Liste aller 142 Skills in diesem Plugin. Beschre
 
 Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt**: eine einzelne Markdown-Datei bis 7.500 Zeichen, die den Kern-Workflow dieses Plugins verdichtet. Die Einzeldatei liegt im Repo; als echter Datei-Download gibt es zusätzlich das Sammel-ZIP aller Mini-Prompts.
 
-- **Sparversion öffnen:** [`unified-mini-prompts/staatsanwaltschaft-praxis-einstieg.md`](../unified-mini-prompts/staatsanwaltschaft-praxis-einstieg.md)
+- **Sparversion öffnen:** [`unified-mini-prompts/staatsanwaltschaft-praxis-einstieg.md`](../../unified-mini-prompts/staatsanwaltschaft-praxis-einstieg.md)
 - **Alle Mini-Prompts als ZIP herunterladen:** [`alle-unified-mini-prompts.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-unified-mini-prompts.zip)
-- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/staatsanwaltschaft-praxis-einstieg.md`](../testakten/megaprompts/staatsanwaltschaft-praxis-einstieg.md) (32 KB)
+- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/staatsanwaltschaft-praxis-einstieg.md`](../../testakten/megaprompts/staatsanwaltschaft-praxis-einstieg.md) (32 KB)
 
 Der große Mega-Prompt wird nicht als installierbares Plugin und nicht als CoWork-Uploadmaterial ausgeliefert. Für echte Plugin-Nutzung bitte das Plugin-ZIP verwenden; für Ein-Datei-Nutzung den Unified Mini Prompt.
 

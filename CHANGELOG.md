@@ -1,3 +1,18 @@
+# v371.0.0 — Validator-Fix: kaputte relative Links nach Verschiebung in den Sammelordner
+
+Forward-Fix nach dem Release-Validator. Beim Verschieben des Plugins staatsanwaltschaft-praxis-einstieg in den Sammelordner `gerichtsplugins/` waren relative Markdown-Links nicht um die zusaetzliche Verzeichnisebene angepasst worden und liefen ins Leere (seit v368 brach der Release-ZIP-Build daran).
+
+## Korrigiert
+
+- gerichtsplugins/staatsanwaltschaft-praxis-einstieg/README.md: Verweise auf den Unified Mini Prompt und den Anschauungs-Megaprompt von einer auf zwei Ebenen hochgezogen (von Punkt-Punkt-Schraegstrich auf Punkt-Punkt-Schraegstrich-Punkt-Punkt-Schraegstrich), sodass sie wieder auf die Dateien im Repo-Wurzelverzeichnis zeigen.
+- references/rechtsgebiete-uebersicht.md: Verweis auf das Plugin von der Wurzel auf den Sammelordner gerichtsplugins umgebogen.
+
+## Versionierung
+
+- Repo-weiter Bump auf v371.0.0. Die hands-off-Plugins bleiben unberuehrt.
+
+---
+
 # v370.0.0 — Gerichts-Plugins: Mega- und Miniprompts mit Gesetzes- und Rechtsprechungsankern
 
 Aufwertung der Mega- und Miniprompts aller 15 Plugins im Sammelordner `gerichtsplugins/`. Ziel war ein schaerferer, themenspezifischer Einstieg samt belastbarer Anker, ohne Aktenzeichen zu erfinden.
