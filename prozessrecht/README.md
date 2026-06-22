@@ -193,7 +193,7 @@ Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt
 
 - **Sparversion öffnen:** [`unified-mini-prompts/prozessrecht.md`](../unified-mini-prompts/prozessrecht.md)
 - **Alle Mini-Prompts als ZIP herunterladen:** [`alle-unified-mini-prompts.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-unified-mini-prompts.zip)
-- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/prozessrecht.md`](../testakten/megaprompts/prozessrecht.md) (78 KB)
+- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/prozessrecht.md`](../testakten/megaprompts/prozessrecht.md) (77 KB)
 
 Der große Mega-Prompt wird nicht als installierbares Plugin und nicht als CoWork-Uploadmaterial ausgeliefert. Für echte Plugin-Nutzung bitte das Plugin-ZIP verwenden; für Ein-Datei-Nutzung den Unified Mini Prompt.
 

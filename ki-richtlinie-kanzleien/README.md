@@ -178,7 +178,7 @@ Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt
 
 - **Sparversion öffnen:** [`unified-mini-prompts/ki-richtlinie-kanzleien.md`](../unified-mini-prompts/ki-richtlinie-kanzleien.md)
 - **Alle Mini-Prompts als ZIP herunterladen:** [`alle-unified-mini-prompts.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-unified-mini-prompts.zip)
-- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/ki-richtlinie-kanzleien.md`](../testakten/megaprompts/ki-richtlinie-kanzleien.md) (121 KB)
+- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/ki-richtlinie-kanzleien.md`](../testakten/megaprompts/ki-richtlinie-kanzleien.md) (119 KB)
 
 Der große Mega-Prompt wird nicht als installierbares Plugin und nicht als CoWork-Uploadmaterial ausgeliefert. Für echte Plugin-Nutzung bitte das Plugin-ZIP verwenden; für Ein-Datei-Nutzung den Unified Mini Prompt.
 

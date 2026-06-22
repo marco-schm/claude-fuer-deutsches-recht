@@ -20,7 +20,14 @@ END = "<!-- END megaprompt-und-vorlagen (autogen) -->"
 RELEASE_BASE = "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download"
 
 
-def block_for(plugin: str, kb: int) -> str:
+def block_for(plugin: str, kb: int, local_mega_kb: int | None) -> str:
+    local_line = ""
+    if local_mega_kb is not None:
+        local_line = (
+            f"- **Handgepflegter Werkstatt-Mega-Prompt im Plugin-Ordner:** "
+            f"[`{plugin}-megaprompt.md`](./{plugin}-megaprompt.md) ({local_mega_kb} KB) "
+            "\u2014 kuratiert, dichter als das automatisch erzeugte Bundle.\n"
+        )
     return f"""{BEGIN}
 ## Experimentell: dieses Plugin auch ohne Claude Code
 
@@ -30,7 +37,7 @@ Für normale Chatbots ohne Plugin-Installation gibt es den **Unified Mini Prompt
 
 - **Sparversion öffnen:** [`unified-mini-prompts/{plugin}.md`](../unified-mini-prompts/{plugin}.md)
 - **Alle Mini-Prompts als ZIP herunterladen:** [`alle-unified-mini-prompts.zip`]({RELEASE_BASE}/alle-unified-mini-prompts.zip)
-- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/{plugin}.md`](../testakten/megaprompts/{plugin}.md) ({kb} KB)
+{local_line}- **Großer Mega-Prompt nur zur Anschauung im Repo:** [`testakten/megaprompts/{plugin}.md`](../testakten/megaprompts/{plugin}.md) ({kb} KB)
 
 Der große Mega-Prompt wird nicht als installierbares Plugin und nicht als CoWork-Uploadmaterial ausgeliefert. Für echte Plugin-Nutzung bitte das Plugin-ZIP verwenden; für Ein-Datei-Nutzung den Unified Mini Prompt.
 
@@ -47,7 +54,9 @@ def process(plugin_dir: Path) -> str:
         return "skip-no-megaprompt"
     text = readme.read_text(encoding="utf-8")
     kb = max(1, mega.stat().st_size // 1024)
-    new_block = block_for(plugin_dir.name, kb)
+    local_mega = plugin_dir / f"{plugin_dir.name}-megaprompt.md"
+    local_kb = max(1, local_mega.stat().st_size // 1024) if local_mega.exists() else None
+    new_block = block_for(plugin_dir.name, kb, local_kb)
     if BEGIN in text:
         # Update vorhandenen Block (z. B. Groessenangabe)
         new_text = re.sub(
