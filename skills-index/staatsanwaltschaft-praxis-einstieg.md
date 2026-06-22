@@ -12,11 +12,11 @@
 | **Werkstatt-ZIP** | Ausführlicher Markdown-Arbeitsmodus dieses Plugins als echter Datei-Download | [staatsanwaltschaft-praxis-einstieg-werkstatt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-praxis-einstieg-werkstatt.zip) |
 | **Schnellstart-ZIP** | Kompakter Markdown-Prompt bis 7.500 Zeichen als echter Datei-Download | [staatsanwaltschaft-praxis-einstieg-schnellstart.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-praxis-einstieg-schnellstart.zip) |
 | **Alle Skills als Markdown** | Sammel-ZIP mit allen `SKILL.md`-Dateien und Promptdateien | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin-ZIP** | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [staatsanwaltschaft-praxis-einstieg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-praxis-einstieg.zip) |
+| **Plugin-ZIP** | Installierbares Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [staatsanwaltschaft-praxis-einstieg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-praxis-einstieg.zip) |
 
 ## So benutzt man einen Skill
 
-Skills sind reine Markdown-Prompts und funktionieren in jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).
+Skills sind reine Markdown-Prompts und funktionieren in jedem geeigneten Chat-System.
 
 - **Schnelltest mit einer Datei:** den Schnellstart-ZIP oben herunterladen, entpacken und als Markdown-Datei in den Chatbot ziehen.
 - **Volle Ein-Datei-Tiefe:** den Werkstatt-ZIP oben herunterladen, entpacken und als ausführlichen Arbeitsmodus verwenden.

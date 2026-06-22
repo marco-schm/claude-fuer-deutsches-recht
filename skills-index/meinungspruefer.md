@@ -12,11 +12,11 @@
 | **Werkstatt-ZIP** | Ausführlicher Markdown-Arbeitsmodus dieses Plugins als echter Datei-Download | [meinungspruefer-werkstatt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/meinungspruefer-werkstatt.zip) |
 | **Schnellstart-ZIP** | Kompakter Markdown-Prompt bis 7.500 Zeichen als echter Datei-Download | [meinungspruefer-schnellstart.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/meinungspruefer-schnellstart.zip) |
 | **Alle Skills als Markdown** | Sammel-ZIP mit allen `SKILL.md`-Dateien und Promptdateien | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin-ZIP** | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [meinungspruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/meinungspruefer.zip) |
+| **Plugin-ZIP** | Installierbares Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [meinungspruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/meinungspruefer.zip) |
 
 ## So benutzt man einen Skill
 
-Skills sind reine Markdown-Prompts und funktionieren in jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).
+Skills sind reine Markdown-Prompts und funktionieren in jedem geeigneten Chat-System.
 
 - **Schnelltest mit einer Datei:** den Schnellstart-ZIP oben herunterladen, entpacken und als Markdown-Datei in den Chatbot ziehen.
 - **Volle Ein-Datei-Tiefe:** den Werkstatt-ZIP oben herunterladen, entpacken und als ausführlichen Arbeitsmodus verwenden.

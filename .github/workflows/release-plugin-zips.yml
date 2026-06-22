@@ -42,9 +42,6 @@ jobs:
           python3 scripts/inject-direkt-loslegen-section.py
           python3 scripts/generate-werkstatt-und-schnellstart-coverage.py
 
-      - name: Schnellstart-Kompatibilitaetsdateien erzeugen
-        run: python3 scripts/generate-unified-mini-prompts.py
-
       - name: Skill-Indizes neu erzeugen (SKILLS.md + skills-index, Stand = marketplace-Version)
         run: python3 scripts/generate-skills-md.py
 
@@ -149,26 +146,6 @@ jobs:
           ls dist/*-testakte.zip | wc -l
           ls -lh dist/alle-pluginlokalen-testakten.zip
 
-      - name: Schnellstart-Kompatibilitaetsdateien buendeln
-        run: |
-          # GitHub Releases erlauben maximal 1000 Assets. Deshalb werden die
-          # Kompatibilitaetsdateien nicht als Einzelassets hochgeladen, sondern
-          # als Sammel-ZIP und im Komplettpaket ausgeliefert. Die Einzel-Markdowns
-          # bleiben im Repo unter unified-mini-prompts/<plugin>.md abrufbar.
-          mkdir -p dist/unified-mini-prompts
-          for mp in unified-mini-prompts/*.md; do
-            name="$(basename "$mp")"
-            # README im Mini-Prompt-Ordner ist keine Prompt-Datei.
-            if [ "$name" = "README.md" ]; then
-              continue
-            fi
-            plugin="${name%.md}"
-            cp "$mp" "dist/unified-mini-prompts/${plugin}.md"
-          done
-          (cd dist/unified-mini-prompts && zip -rq "../alle-unified-mini-prompts.zip" . -x '*.DS_Store')
-          rm -rf dist/unified-mini-prompts
-          test -s dist/alle-unified-mini-prompts.zip
-
       - name: Sammel-ZIPs bauen
         run: |
           # alle-plugins-megazip.zip enthaelt die installierbaren Einzel-ZIPs
@@ -188,19 +165,17 @@ jobs:
           # alles-komplettpaket.zip enthaelt die Einzel-ZIPs, Sammel-ZIPs,
           # Marketplace und zentrale Uebersichten. Ein Download fuer alles,
           # ohne die installierbaren Plugin-ZIPs mit Rohordnern zu vermischen.
-          mkdir -p dist/komplettpaket/plugins dist/komplettpaket/testakten dist/komplettpaket/uebersichten dist/komplettpaket/skills-markdown dist/komplettpaket/unified-mini-prompts dist/komplettpaket/werkstatt-prompts dist/komplettpaket/schnellstart-prompts
+          mkdir -p dist/komplettpaket/plugins dist/komplettpaket/testakten dist/komplettpaket/uebersichten dist/komplettpaket/skills-markdown dist/komplettpaket/werkstatt-prompts dist/komplettpaket/schnellstart-prompts
           cp dist/marketplace.json dist/komplettpaket/marketplace.json
           cp dist/alle-plugins-megazip.zip dist/komplettpaket/alle-plugins-megazip.zip
           cp dist/alle-testakten.zip dist/komplettpaket/alle-testakten.zip
           cp dist/alle-testakten-einzelpdfs.zip dist/komplettpaket/alle-testakten-einzelpdfs.zip
           cp dist/alle-skills-markdown.zip dist/komplettpaket/alle-skills-markdown.zip
-          cp dist/alle-unified-mini-prompts.zip dist/komplettpaket/alle-unified-mini-prompts.zip
           cp dist/alle-werkstatt-prompts.zip dist/komplettpaket/alle-werkstatt-prompts.zip
           cp dist/alle-schnellstart-prompts.zip dist/komplettpaket/alle-schnellstart-prompts.zip
           cp dist/alle-pluginlokalen-testakten.zip dist/komplettpaket/alle-pluginlokalen-testakten.zip
           for plugin in ${{ steps.plugins.outputs.names }}; do
             cp "dist/${plugin}.zip" "dist/komplettpaket/plugins/${plugin}.zip"
-            cp "unified-mini-prompts/${plugin}.md" "dist/komplettpaket/unified-mini-prompts/${plugin}.md"
           done
           for z in dist/skills-markdown/*-skills-markdown.zip; do
             [ -e "$z" ] || continue
@@ -254,12 +229,11 @@ jobs:
           test -s dist/alle-testakten.zip
           test -s dist/alle-testakten-einzelpdfs.zip
           test -s dist/alle-skills-markdown.zip
-          test -s dist/alle-unified-mini-prompts.zip
           test -s dist/alle-werkstatt-prompts.zip
           test -s dist/alle-schnellstart-prompts.zip
           test -s dist/alle-pluginlokalen-testakten.zip
           test -s dist/alles-komplettpaket.zip
-          ls -lh dist/alle-plugins-megazip.zip dist/alle-testakten.zip dist/alle-testakten-einzelpdfs.zip dist/alle-skills-markdown.zip dist/alle-unified-mini-prompts.zip dist/alle-werkstatt-prompts.zip dist/alle-schnellstart-prompts.zip dist/alle-pluginlokalen-testakten.zip dist/alles-komplettpaket.zip
+          ls -lh dist/alle-plugins-megazip.zip dist/alle-testakten.zip dist/alle-testakten-einzelpdfs.zip dist/alle-skills-markdown.zip dist/alle-werkstatt-prompts.zip dist/alle-schnellstart-prompts.zip dist/alle-pluginlokalen-testakten.zip dist/alles-komplettpaket.zip
 
       - name: Checksums erzeugen
         run: |

@@ -11,22 +11,22 @@ Stand: `v377.0.0`.
 | **Alle Skills als Markdown** | Reine `SKILL.md`-Dateien aller 229 Plugins plus Werkstatt- und Schnellstart-Prompts — als echte Datei-Downloads | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Alle Werkstatt-Prompts** | Pro Plugin ein ausführlicher Ein-Datei-Arbeitsmodus fuer Chatbots ohne Plugin-Installation | [`alle-werkstatt-prompts.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-werkstatt-prompts.zip) |
 | **Alle Schnellstart-Prompts** | Pro Plugin ein kompakter Ein-Datei-Prompt bis 7.500 Zeichen fuer schnelle Chatbot-Nutzung | [`alle-schnellstart-prompts.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-schnellstart-prompts.zip) |
-| **Alle Plugins (installierbar)** | Alle 229 Plugin-ZIPs in einem Archiv (fuer Claude Code) | [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) |
+| **Alle Plugins (installierbar)** | Alle 229 Plugin-ZIPs in einem Archiv fuer kompatible Plugin-Oberflaechen | [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) |
 | **Komplettpaket (alles)** | Plugins + Skill-Markdowns + Testakten + Uebersichten | [`alles-komplettpaket.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) |
 
-Das Markdown-Paket reicht, wenn man die vollstaendigen Skills in ChatGPT, Gemini, Mistral, Le Chat oder Perplexity nutzen will. Die Werkstatt-Prompts sind die ausführliche Ein-Datei-Variante; die Schnellstart-Prompts sind die Sparvariante fuer schnelle Antworten. Das Plugin-Paket ist fuer Claude-Code-/Cowork-Nutzer. Das Komplettpaket enthaelt zusaetzlich Testakten und alle Repo-Uebersichten.
+Das Markdown-Paket reicht, wenn man die vollstaendigen Skills in einem beliebigen Chat-System nutzen will. Die Werkstatt-Prompts sind die ausführliche Ein-Datei-Variante; die Schnellstart-Prompts sind die Sparvariante fuer schnelle Antworten. Das Plugin-Paket ist fuer kompatible Plugin-Oberflaechen. Das Komplettpaket enthaelt zusaetzlich Testakten und alle Repo-Uebersichten.
 
 Wer nur **ein bestimmtes Plugin** will: weiter unten in der Plugin-Tabelle pro Plugin eigene Links (Plugin-ZIP, Werkstatt-ZIP, Schnellstart-ZIP und Browser-Ansicht der Promptdateien).
 
 ## Worum es hier geht: alles nur grosse Prompts
 
-Diese Skills sind am Ende **nichts weiter als grosse, sehr sorgfaeltig formulierte System-Prompts in Markdown**. Sie wurden fuer das Claude-Code-Plugin-System geschrieben, **funktionieren aber in jedem anderen Chatbot genauso**.
+Diese Skills sind am Ende **nichts weiter als grosse, sehr sorgfaeltig formulierte System-Prompts in Markdown**. Sie wurden fuer ein Plugin-System geschrieben, **funktionieren aber in jedem anderen Chat-System genauso**.
 
-So benutzt man einen Skill ausserhalb von Claude Code:
+So benutzt man einen Skill ausserhalb eines Plugin-Setups:
 
 1. Unten in der Plugin-Tabelle auf das gewuenschte Plugin klicken — die Detailseite mit allen Skills oeffnet sich.
 2. Auf der Detailseite oben auf **Werkstatt-ZIP** oder **Schnellstart-ZIP** klicken — die Datei landet direkt im Download-Ordner. Entpacken, Markdown öffnen.
-3. **Entweder** den kompletten Text mit `Strg+A` / `Cmd+A` kopieren und in den Chat einfuegen (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, ...).
+3. **Entweder** den kompletten Text mit `Strg+A` / `Cmd+A` kopieren und in das eigene Chat-System einfuegen.
 4. **Oder** die einzelne `SKILL.md` als Anhang in den Chatbot ziehen.
 5. Danach die eigene Frage / das eigene Dokument hinterherschicken — der Chatbot uebernimmt die Rolle aus dem Skill.
 
@@ -34,7 +34,7 @@ So benutzt man einen Skill ausserhalb von Claude Code:
 
 So bekommt man die komplette Sammlung als installierbares ZIP:
 
-- In der Plugin-Tabelle unten in der Spalte **Plugin-ZIP** auf den Download-Link klicken. Das laedt eine ZIP-Datei mit **allen** Skills dieses Plugins inkl. Hilfsdateien, Pruefrastern und Vorlagen — direkt in Claude Code installierbar.
+- In der Plugin-Tabelle unten in der Spalte **Plugin-ZIP** auf den Download-Link klicken. Das laedt eine ZIP-Datei mit **allen** Skills dieses Plugins inkl. Hilfsdateien, Pruefrastern und Vorlagen — direkt in kompatiblen Plugin-Oberflaechen installierbar.
 - Wer kein Plugin-Setup nutzt, nimmt **Werkstatt-ZIP** oder **Schnellstart-ZIP**. Beide enthalten je eine Markdown-Datei, die in beliebige Chatbots gezogen oder kopiert werden kann.
 - Wer die volle Skilltiefe als Markdown will, nimmt zusätzlich das Sammelpaket `alle-skills-markdown.zip`.
 
@@ -44,7 +44,7 @@ Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.
 
 ## Alle Plugins
 
-Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschreibungen und Einzel-Downloads. **Plugin-ZIP** laedt die installierbare Claude-Code-/Cowork-Sammlung. **Werkstatt-ZIP** und **Schnellstart-ZIP** laden die Ein-Datei-Prompts als echte Downloads.
+Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschreibungen und Einzel-Downloads. **Plugin-ZIP** laedt die installierbare Plugin-Sammlung. **Werkstatt-ZIP** und **Schnellstart-ZIP** laden die Ein-Datei-Prompts als echte Downloads.
 
 | Plugin | Skills | Detailseite | Plugin-ZIP | Werkstatt-ZIP | Schnellstart-ZIP |
 | --- | ---: | --- | --- | --- | --- |
