@@ -29,7 +29,7 @@ description: "U-Haft: Fluchtgefahr, Verdunkelung und Verhältnismäßigkeit: Pra
 
 Konkret zu prüfen:
 
-- §§ 112, 112a, 116 StPO (U-Haft, Außervollzugsetzung)
-- § 121 StPO (6-Monatsfrist, OLG-Haftprüfung)
-- § 117 StPO (Haftprüfung)
+- Paragrafen 112, 112a, 116 StPO (U-Haft, Außervollzugsetzung)
+- Paragraf 121 StPO (6-Monatsfrist, OLG-Haftprüfung)
+- Paragraf 117 StPO (Haftprüfung)
 - BVerfG NStZ 2006, 460 (Beschleunigungsgebot)

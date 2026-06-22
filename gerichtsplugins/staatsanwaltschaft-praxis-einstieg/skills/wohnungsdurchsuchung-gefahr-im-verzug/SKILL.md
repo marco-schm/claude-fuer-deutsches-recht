@@ -29,8 +29,8 @@ description: "Wohnungsdurchsuchung und Gefahr im Verzug: Praxis-Skill für neue 
 
 Konkret zu prüfen:
 
-- § 102 StPO (Durchsuchung beim Verdächtigen)
-- § 103 StPO (Durchsuchung bei Nichtverdächtigen)
-- § 105 Abs. 1 StPO (Richtervorbehalt; Gefahr im Verzug)
+- Paragraf 102 StPO (Durchsuchung beim Verdächtigen)
+- Paragraf 103 StPO (Durchsuchung bei Nichtverdächtigen)
+- Paragraf 105 Abs. 1 StPO (Richtervorbehalt; Gefahr im Verzug)
 - BVerfGE 103, 142 (Gefahr im Verzug – enge Auslegung)
 - BVerfGE 96, 44 (Verhältnismäßigkeit)

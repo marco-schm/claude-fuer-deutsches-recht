@@ -1,11 +1,11 @@
 ---
 name: owi-opportunitaet-einstellung-47
-description: "Opportunität im OWi-Verfahren: § 47 OWiG als andere Logik als Legalitätsprinzip im Strafverfahren: OWiG-Praxis-Skill für junge Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene."
+description: "Opportunität im OWi-Verfahren: Paragraf 47 OWiG als andere Logik als Legalitätsprinzip im Strafverfahren: OWiG-Praxis-Skill für junge Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene."
 ---
 
-# Opportunität im OWi-Verfahren: § 47 OWiG als andere Logik als Legalitätsprinzip im Strafverfahren
+# Opportunität im OWi-Verfahren: Paragraf 47 OWiG als andere Logik als Legalitätsprinzip im Strafverfahren
 
-## Fachkern: Opportunität im OWi-Verfahren: § 47 OWiG als andere Logik als Legalitätsprinzip im Strafverfahren
+## Fachkern: Opportunität im OWi-Verfahren: Paragraf 47 OWiG als andere Logik als Legalitätsprinzip im Strafverfahren
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
 
@@ -23,7 +23,7 @@ Gib je nach Lage einen Kurzvermerk, Verfügungsvorschlag, Nachermittlungsauftrag
 
 ## Norm- und Verfahrensanker
 
-§ 47 OWiG; § 46 OWiG; RiStBV-Bußgeldteil; Spezialgesetze live prüfen.
+Paragraf 47 OWiG; Paragraf 46 OWiG; RiStBV-Bußgeldteil; Spezialgesetze live prüfen.
 
 ## Fachlicher Fokus
 
@@ -35,7 +35,7 @@ Dieser Skill erklärt den wichtigsten Mentalitätswechsel: Ordnungswidrigkeiten 
 - Ist der Bußgeldbescheid inhaltlich und zustellungstechnisch belastbar?
 - Ist der Einspruch wirksam, beschränkt oder unklar?
 - Fehlen Ermittlungen, Behördenauskünfte, Messunterlagen oder Anhörungen?
-- Ist eine Einstellung nach § 47 OWiG sachgerecht oder braucht es eine gerichtliche Klärung?
+- Ist eine Einstellung nach Paragraf 47 OWiG sachgerecht oder braucht es eine gerichtliche Klärung?
 - Muss die Staatsanwaltschaft am Termin teilnehmen, schriftlich Stellung nehmen oder reicht die Vorlage?
 
 ## Typische Fehler
@@ -50,10 +50,10 @@ Dieser Skill erklärt den wichtigsten Mentalitätswechsel: Ordnungswidrigkeiten 
 
 Konkret zu prüfen:
 
-- § 170 Abs. 2 StPO (Einstellung mangels hinreichenden Tatverdachts)
-- § 170 Abs. 1 StPO (Anklageerhebung)
+- Paragraf 170 Abs. 2 StPO (Einstellung mangels hinreichenden Tatverdachts)
+- Paragraf 170 Abs. 1 StPO (Anklageerhebung)
 - Nr. 88 ff. RiStBV
-- § 153 Abs. 1, 2 StPO (Einstellung wegen Geringfügigkeit)
-- § 153a StPO (Einstellung unter Auflagen und Weisungen)
+- Paragraf 153 Abs. 1, 2 StPO (Einstellung wegen Geringfügigkeit)
+- Paragraf 153a StPO (Einstellung unter Auflagen und Weisungen)
 - Nr. 75-80 RiStBV (Opportunitätsprinzip)
-- BVerfG NJW 2002, 815 (verfassungsrechtliche Grenzen § 153a StPO)
+- BVerfG NJW 2002, 815 (verfassungsrechtliche Grenzen Paragraf 153a StPO)

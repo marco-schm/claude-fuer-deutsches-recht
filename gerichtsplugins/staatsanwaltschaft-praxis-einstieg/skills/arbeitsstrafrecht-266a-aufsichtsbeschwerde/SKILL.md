@@ -1,9 +1,9 @@
 ---
 name: arbeitsstrafrecht-266a-aufsichtsbeschwerde
-description: "Arbeitsstrafrecht: § 266a StGB, MiLoG und Scheinselbständigkeit: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis."
+description: "Arbeitsstrafrecht: Paragraf 266a StGB, MiLoG und Scheinselbständigkeit: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis."
 ---
 
-# Arbeitsstrafrecht: § 266a StGB, MiLoG und Scheinselbständigkeit
+# Arbeitsstrafrecht: Paragraf 266a StGB, MiLoG und Scheinselbständigkeit
 
 ## Arbeitsweg
 
@@ -13,7 +13,7 @@ description: "Arbeitsstrafrecht: § 266a StGB, MiLoG und Scheinselbständigkeit:
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Arbeitsstrafrecht: § 266a StGB, MiLoG und Scheinselbständigkeit
+## Fachkern: Arbeitsstrafrecht: Paragraf 266a StGB, MiLoG und Scheinselbständigkeit
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
 
@@ -37,12 +37,12 @@ description: "Arbeitsstrafrecht: § 266a StGB, MiLoG und Scheinselbständigkeit:
 
 Konkret zu prüfen:
 
-- § 266a Abs. 1 StGB (Arbeitnehmeranteile)
-- § 266a Abs. 6 StGB (tätige Reue)
+- Paragraf 266a Abs. 1 StGB (Arbeitnehmeranteile)
+- Paragraf 266a Abs. 6 StGB (tätige Reue)
 - BGHSt 47, 318 (Vorsatz und Zahlungsfähigkeit)
-- § 147 GVG (Aufsicht über die StA)
-- § 146 GVG (Weisungsrecht)
+- Paragraf 147 GVG (Aufsicht über die StA)
+- Paragraf 146 GVG (Weisungsrecht)
 - Nr. 1 RiStBV
 - BVerfGE 9, 223 (Justizmäßigkeit der StA)
-- § 147 GVG (Aufsicht)
-- § 145 GVG (Devolution, Substitution)
+- Paragraf 147 GVG (Aufsicht)
+- Paragraf 145 GVG (Devolution, Substitution)

@@ -1,6 +1,6 @@
 ---
 name: verkehrsstrafrecht-strafbefehl
-description: "Verkehrsstrafrecht und Strafbefehl: Praxis-Skill für neue Staatsanwälte zu §§ 142/315c/316 StGB, Entziehung, Sperre, Fahrverbot und Strafbefehl routiniert bearbeiten; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
+description: "Verkehrsstrafrecht und Strafbefehl: Praxis-Skill für neue Staatsanwälte zu Paragrafen 142/315c/316 StGB, Entziehung, Sperre, Fahrverbot und Strafbefehl routiniert bearbeiten; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
 ---
 
 # Verkehrsstrafrecht und Strafbefehl
@@ -29,9 +29,9 @@ description: "Verkehrsstrafrecht und Strafbefehl: Praxis-Skill für neue Staatsa
 
 Konkret zu prüfen:
 
-- § 152 Abs. 2 StPO (Legalitätsprinzip, Anfangsverdacht)
-- § 160 Abs. 1, 2 StPO (Erforschungspflicht, entlastende Umstände)
+- Paragraf 152 Abs. 2 StPO (Legalitätsprinzip, Anfangsverdacht)
+- Paragraf 160 Abs. 1, 2 StPO (Erforschungspflicht, entlastende Umstände)
 - Nr. 3 RiStBV (Wächterin des Gesetzes)
-- § 168b StPO (Aufzeichnung)
-- § 169a StPO (Schlussvermerk)
+- Paragraf 168b StPO (Aufzeichnung)
+- Paragraf 169a StPO (Schlussvermerk)
 - Nr. 9-13 RiStBV (Aktenführung)

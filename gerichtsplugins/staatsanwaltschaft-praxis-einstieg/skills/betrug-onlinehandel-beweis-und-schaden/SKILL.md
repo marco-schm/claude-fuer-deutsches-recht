@@ -29,13 +29,13 @@ description: "Betrug im Onlinehandel: Beweis, Schaden, Einstellungs- oder Anklag
 
 Konkret zu prüfen:
 
-- § 263 StGB (Betrug)
-- § 263 Abs. 3 StGB (besonders schwere Fälle)
+- Paragraf 263 StGB (Betrug)
+- Paragraf 263 Abs. 3 StGB (besonders schwere Fälle)
 - BGHSt 51, 165 (Saldierungsprinzip)
 - BVerfGE 126, 170 (bezifferbarer Schaden)
-- § 100a StPO (TKÜ)
-- § 100b StPO (Online-Durchsuchung)
-- § 100g StPO (Verkehrsdaten)
-- § 110 Abs. 3 StPO (Netzwerkdurchsicht)
-- §§ 202a, 202c StGB
+- Paragraf 100a StPO (TKÜ)
+- Paragraf 100b StPO (Online-Durchsuchung)
+- Paragraf 100g StPO (Verkehrsdaten)
+- Paragraf 110 Abs. 3 StPO (Netzwerkdurchsicht)
+- Paragrafen 202a, 202c StGB
 - BVerfGE 125, 260; BVerfGE 154, 152

@@ -37,6 +37,6 @@ description: "Quellen- und Rechtsprechungscheck: Praxis-Skill für neue Staatsan
 
 Konkret zu prüfen:
 
-- § 152 Abs. 2 StPO (Legalitätsprinzip, Anfangsverdacht)
-- § 160 Abs. 1, 2 StPO (Erforschungspflicht, entlastende Umstände)
+- Paragraf 152 Abs. 2 StPO (Legalitätsprinzip, Anfangsverdacht)
+- Paragraf 160 Abs. 1, 2 StPO (Erforschungspflicht, entlastende Umstände)
 - Nr. 3 RiStBV (Wächterin des Gesetzes)

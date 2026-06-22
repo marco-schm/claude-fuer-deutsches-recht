@@ -29,13 +29,13 @@ description: "EncroChat, Sky ECC und ANOM: Beweiswert und Verwertungsangriff: Pr
 
 Konkret zu prüfen:
 
-- § 100b, § 100e Abs. 6 StPO
+- Paragraf 100b, Paragraf 100e Abs. 6 StPO
 - EuGH C-670/22 (M.N., Encrochat)
 - BGHSt 67, 29 (Encrochat-Verwertbarkeit)
 - BVerfG 2 BvR 1832/22 v. 1.11.2023
-- § 100a StPO (TKÜ)
-- § 100b StPO (Online-Durchsuchung)
-- § 100g StPO (Verkehrsdaten)
-- § 110 Abs. 3 StPO (Netzwerkdurchsicht)
-- §§ 202a, 202c StGB
+- Paragraf 100a StPO (TKÜ)
+- Paragraf 100b StPO (Online-Durchsuchung)
+- Paragraf 100g StPO (Verkehrsdaten)
+- Paragraf 110 Abs. 3 StPO (Netzwerkdurchsicht)
+- Paragrafen 202a, 202c StGB
 - BVerfGE 125, 260; BVerfGE 154, 152

@@ -1,11 +1,11 @@
 ---
-name: jugendstrafrecht-staatsanwaeltinnen
-description: "Jugendstrafrecht für Staatsanwälte: Praxis-Skill für neue Staatsanwälte zu Erziehungsgedanke, Jugendgerichtshilfe, Diversion, Anklage und Sitzungsdienst abstimmen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
+name: beweisverwertungsverbote-staatsanwaelte
+description: "Beweisverwertungsverbote aus Sicht der StA: Praxis-Skill für neue Staatsanwälte zu mögliche Fehler früh erkennen, heilen, offenlegen oder verfahrensstrategisch berücksichtigen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
 ---
 
-# Jugendstrafrecht für Staatsanwälte
+# Beweisverwertungsverbote aus Sicht der StA
 
-## Fachkern: Jugendstrafrecht für Staatsanwälte
+## Fachkern: Beweisverwertungsverbote aus Sicht der StA
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
 
@@ -29,8 +29,7 @@ description: "Jugendstrafrecht für Staatsanwälte: Praxis-Skill für neue Staat
 
 Konkret zu prüfen:
 
-- § 1 Abs. 2 JGG, § 105 JGG (Heranwachsende)
-- § 2 JGG (Erziehungsgedanke)
-- §§ 9-16a JGG (Erziehungsmaßregeln)
-- § 17 JGG (Jugendstrafe)
-- § 45 JGG (Diversion)
+- Paragraf 136a Abs. 3 S. 2 StPO (absolutes Verwertungsverbot)
+- BGHSt 38, 214 (Belehrungspflicht)
+- BGHSt 42, 139 (Hörfalle)
+- BVerfGE 109, 279 (Lauschangriff – Kernbereich)

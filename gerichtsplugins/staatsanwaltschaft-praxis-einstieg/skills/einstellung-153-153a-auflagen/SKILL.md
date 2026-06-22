@@ -1,11 +1,11 @@
 ---
 name: einstellung-153-153a-auflagen
-description: "Einstellung nach §§ 153/153a StPO: Auflagen sauber begründen: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Einstellung nach Paragrafen 153/153a StPO: Auflagen sauber begründen: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
-# Einstellung nach §§ 153/153a StPO: Auflagen sauber begründen
+# Einstellung nach Paragrafen 153/153a StPO: Auflagen sauber begründen
 
-## Fachkern: Einstellung nach §§ 153/153a StPO: Auflagen sauber begründen
+## Fachkern: Einstellung nach Paragrafen 153/153a StPO: Auflagen sauber begründen
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
 
@@ -29,10 +29,10 @@ description: "Einstellung nach §§ 153/153a StPO: Auflagen sauber begründen: P
 
 Konkret zu prüfen:
 
-- § 153 Abs. 1, 2 StPO (Einstellung wegen Geringfügigkeit)
-- § 153a StPO (Einstellung unter Auflagen und Weisungen)
+- Paragraf 153 Abs. 1, 2 StPO (Einstellung wegen Geringfügigkeit)
+- Paragraf 153a StPO (Einstellung unter Auflagen und Weisungen)
 - Nr. 75-80 RiStBV (Opportunitätsprinzip)
-- BVerfG NJW 2002, 815 (verfassungsrechtliche Grenzen § 153a StPO)
-- § 170 Abs. 2 StPO (Einstellung mangels hinreichenden Tatverdachts)
-- § 170 Abs. 1 StPO (Anklageerhebung)
+- BVerfG NJW 2002, 815 (verfassungsrechtliche Grenzen Paragraf 153a StPO)
+- Paragraf 170 Abs. 2 StPO (Einstellung mangels hinreichenden Tatverdachts)
+- Paragraf 170 Abs. 1 StPO (Anklageerhebung)
 - Nr. 88 ff. RiStBV

@@ -29,12 +29,12 @@ description: "Digitale Durchsuchung und Datensicherung: Praxis-Skill für neue S
 
 Konkret zu prüfen:
 
-- § 102 StPO (Durchsuchung beim Verdächtigen)
-- § 103 StPO (Durchsuchung bei Nichtverdächtigen)
-- § 105 Abs. 1 StPO (Richtervorbehalt; Gefahr im Verzug)
+- Paragraf 102 StPO (Durchsuchung beim Verdächtigen)
+- Paragraf 103 StPO (Durchsuchung bei Nichtverdächtigen)
+- Paragraf 105 Abs. 1 StPO (Richtervorbehalt; Gefahr im Verzug)
 - BVerfGE 103, 142 (Gefahr im Verzug – enge Auslegung)
 - BVerfGE 96, 44 (Verhältnismäßigkeit)
-- § 110 Abs. 3 StPO (elektronische Speichermedien, Netzwerkdurchsicht)
-- § 100a StPO (Quellen-TKÜ)
-- § 100b StPO (Online-Durchsuchung)
+- Paragraf 110 Abs. 3 StPO (elektronische Speichermedien, Netzwerkdurchsicht)
+- Paragraf 100a StPO (Quellen-TKÜ)
+- Paragraf 100b StPO (Online-Durchsuchung)
 - BVerfGE 120, 274 (IT-Grundrecht)

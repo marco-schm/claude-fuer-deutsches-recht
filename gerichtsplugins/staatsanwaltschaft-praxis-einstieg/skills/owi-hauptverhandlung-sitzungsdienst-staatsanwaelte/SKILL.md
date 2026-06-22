@@ -1,5 +1,5 @@
 ---
-name: owi-hauptverhandlung-sitzungsdienst-staatsanwaeltinnen
+name: owi-hauptverhandlung-sitzungsdienst-staatsanwaelte
 description: "OWi-Hauptverhandlung im Sitzungsdienst: Teilnahme, Anträge, Beweisaufnahme, Einstellung und Urteilserwartung: OWiG-Praxis-Skill für junge Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene."
 ---
 
@@ -23,11 +23,11 @@ Gib je nach Lage einen Kurzvermerk, Verfügungsvorschlag, Nachermittlungsauftrag
 
 ## Norm- und Verfahrensanker
 
-§§ 71 bis 76 OWiG; § 47 Abs. 2 OWiG; StPO-Vorschriften nach Strafbefehls-Einspruch sinngemäß.
+Paragrafen 71 bis 76 OWiG; Paragraf 47 Abs. 2 OWiG; StPO-Vorschriften nach Strafbefehls-Einspruch sinngemäß.
 
 ## Fachlicher Fokus
 
-Der Skill bereitet junge Staatsanwälte auf den Gerichtstermin vor: Die Teilnahme ist nach § 75 OWiG nicht Pflicht, kann aber bei schwierigen Verfahren angezeigt sein. Er gibt eine Sitzungsnotiz mit Sachverhalt, Verfahrensstand, Beweisfragen, Einstellungslinie, Anträgen und Kommunikation mit Verwaltungsbehörde und Gericht aus.
+Der Skill bereitet junge Staatsanwälte auf den Gerichtstermin vor: Die Teilnahme ist nach Paragraf 75 OWiG nicht Pflicht, kann aber bei schwierigen Verfahren angezeigt sein. Er gibt eine Sitzungsnotiz mit Sachverhalt, Verfahrensstand, Beweisfragen, Einstellungslinie, Anträgen und Kommunikation mit Verwaltungsbehörde und Gericht aus.
 
 ## Prüfschritte
 
@@ -35,7 +35,7 @@ Der Skill bereitet junge Staatsanwälte auf den Gerichtstermin vor: Die Teilnahm
 - Ist der Bußgeldbescheid inhaltlich und zustellungstechnisch belastbar?
 - Ist der Einspruch wirksam, beschränkt oder unklar?
 - Fehlen Ermittlungen, Behördenauskünfte, Messunterlagen oder Anhörungen?
-- Ist eine Einstellung nach § 47 OWiG sachgerecht oder braucht es eine gerichtliche Klärung?
+- Ist eine Einstellung nach Paragraf 47 OWiG sachgerecht oder braucht es eine gerichtliche Klärung?
 - Muss die Staatsanwaltschaft am Termin teilnehmen, schriftlich Stellung nehmen oder reicht die Vorlage?
 
 ## Typische Fehler
@@ -50,10 +50,10 @@ Der Skill bereitet junge Staatsanwälte auf den Gerichtstermin vor: Die Teilnahm
 
 Konkret zu prüfen:
 
-- §§ 226 ff. StPO (Hauptverhandlung)
-- § 244 Abs. 2 StPO (Aufklärungspflicht)
-- § 257c StPO (Verständigung)
+- Paragrafen 226 ff. StPO (Hauptverhandlung)
+- Paragraf 244 Abs. 2 StPO (Aufklärungspflicht)
+- Paragraf 257c StPO (Verständigung)
 - BVerfGE 133, 168 (Verständigungsurteil)
-- § 258 StPO (Schlussvorträge)
-- § 176 GVG (Sitzungspolizei)
+- Paragraf 258 StPO (Schlussvorträge)
+- Paragraf 176 GVG (Sitzungspolizei)
 - Nr. 126-138 RiStBV

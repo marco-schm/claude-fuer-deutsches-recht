@@ -1,11 +1,11 @@
 ---
-name: aktengeheimnis-und-ki-nutzung-staatsanwaeltinnen
-description: "Aktengeheimnis und KI-Nutzung in der Staatsanwaltschaft: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+name: deal-verstaendigung-257c-stpo-staatsanwaelte
+description: "Verständigung nach Paragraf 257c StPO: StA sauber positionieren: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
-# Aktengeheimnis und KI-Nutzung in der Staatsanwaltschaft
+# Verständigung nach Paragraf 257c StPO: StA sauber positionieren
 
-## Fachkern: Aktengeheimnis und KI-Nutzung in der Staatsanwaltschaft
+## Fachkern: Verständigung nach Paragraf 257c StPO: StA sauber positionieren
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
 
@@ -29,13 +29,9 @@ description: "Aktengeheimnis und KI-Nutzung in der Staatsanwaltschaft: Praxis-Sk
 
 Konkret zu prüfen:
 
-- § 353b StGB (Dienstgeheimnis)
-- Art. 5, 6 DSGVO
-- Art. 22 DSGVO (automatisierte Entscheidungen)
-- Art. 6 AI-Act (Hochrisiko-KI im Strafverfahren)
-- § 500 StPO
-- § 353b StGB (Verletzung des Dienstgeheimnisses)
-- § 203 StGB
-- § 37 BeamtStG, § 67 BBG
-- § 500 StPO (Datenverarbeitung StA)
-- Nr. 4-5 RiStBV
+- Paragraf 257c StPO (Verständigung)
+- Paragraf 257c Abs. 2, 5 StPO
+- BVerfGE 133, 168
+- Paragrafen 226 ff. StPO (Hauptverhandlung)
+- Paragraf 244 Abs. 2 StPO (Aufklärungspflicht)
+- BVerfGE 133, 168 (Verständigungsurteil)

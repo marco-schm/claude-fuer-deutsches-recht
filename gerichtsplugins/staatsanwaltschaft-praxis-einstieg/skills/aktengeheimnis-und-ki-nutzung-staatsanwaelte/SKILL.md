@@ -1,11 +1,11 @@
 ---
-name: befangenheit-richter-antrag-staatsanwaeltinnen
-description: "Befangenheitsantrag gegen Richter: StA-Perspektive: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+name: aktengeheimnis-und-ki-nutzung-staatsanwaelte
+description: "Aktengeheimnis und KI-Nutzung in der Staatsanwaltschaft: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
-# Befangenheitsantrag gegen Richter: StA-Perspektive
+# Aktengeheimnis und KI-Nutzung in der Staatsanwaltschaft
 
-## Fachkern: Befangenheitsantrag gegen Richter: StA-Perspektive
+## Fachkern: Aktengeheimnis und KI-Nutzung in der Staatsanwaltschaft
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
 
@@ -29,7 +29,13 @@ description: "Befangenheitsantrag gegen Richter: StA-Perspektive: Praxis-Skill f
 
 Konkret zu prüfen:
 
-- §§ 24, 26 StPO (Ablehnung)
-- § 31 StPO (Schöffen)
-- § 338 Nr. 3 StPO (absoluter Revisionsgrund)
-- BGHSt 21, 334 (objektiver Maßstab)
+- Paragraf 353b StGB (Dienstgeheimnis)
+- Art. 5, 6 DSGVO
+- Art. 22 DSGVO (automatisierte Entscheidungen)
+- Art. 6 AI-Act (Hochrisiko-KI im Strafverfahren)
+- Paragraf 500 StPO
+- Paragraf 353b StGB (Verletzung des Dienstgeheimnisses)
+- Paragraf 203 StGB
+- Paragraf 37 BeamtStG, Paragraf 67 BBG
+- Paragraf 500 StPO (Datenverarbeitung StA)
+- Nr. 4-5 RiStBV

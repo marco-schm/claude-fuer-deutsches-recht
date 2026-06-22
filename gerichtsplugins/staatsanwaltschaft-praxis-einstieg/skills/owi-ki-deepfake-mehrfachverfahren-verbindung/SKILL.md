@@ -37,7 +37,7 @@ description: "KI- und Deepfake-Beweise im Strafverfahren: Praxis-Skill für neue
 
 Konkret zu prüfen:
 
-- § 201a StGB (höchstpersönlicher Lebensbereich)
-- § 263 StGB (CEO-Fraud)
-- § 269 StGB (Datenfälschung)
+- Paragraf 201a StGB (höchstpersönlicher Lebensbereich)
+- Paragraf 263 StGB (CEO-Fraud)
+- Paragraf 269 StGB (Datenfälschung)
 - Art. 50 AI-Act (Kennzeichnungspflicht)

@@ -23,7 +23,7 @@ Gib je nach Lage einen Kurzvermerk, Verfügungsvorschlag, Nachermittlungsauftrag
 
 ## Norm- und Verfahrensanker
 
-§§ 31 bis 34 OWiG; Spezialverjährung etwa § 26 StVG; Unterbrechungstatbestände live prüfen.
+Paragrafen 31 bis 34 OWiG; Spezialverjährung etwa Paragraf 26 StVG; Unterbrechungstatbestände live prüfen.
 
 ## Fachlicher Fokus
 
@@ -35,7 +35,7 @@ Der Skill baut einen Fristenkalender für Bußgeldsachen: Tatzeit, Bekanntgabe, 
 - Ist der Bußgeldbescheid inhaltlich und zustellungstechnisch belastbar?
 - Ist der Einspruch wirksam, beschränkt oder unklar?
 - Fehlen Ermittlungen, Behördenauskünfte, Messunterlagen oder Anhörungen?
-- Ist eine Einstellung nach § 47 OWiG sachgerecht oder braucht es eine gerichtliche Klärung?
+- Ist eine Einstellung nach Paragraf 47 OWiG sachgerecht oder braucht es eine gerichtliche Klärung?
 - Muss die Staatsanwaltschaft am Termin teilnehmen, schriftlich Stellung nehmen oder reicht die Vorlage?
 
 ## Typische Fehler
@@ -50,9 +50,9 @@ Der Skill baut einen Fristenkalender für Bußgeldsachen: Tatzeit, Bekanntgabe, 
 
 Konkret zu prüfen:
 
-- § 152 Abs. 2 StPO (Legalitätsprinzip, Anfangsverdacht)
-- § 160 Abs. 1, 2 StPO (Erforschungspflicht, entlastende Umstände)
+- Paragraf 152 Abs. 2 StPO (Legalitätsprinzip, Anfangsverdacht)
+- Paragraf 160 Abs. 1, 2 StPO (Erforschungspflicht, entlastende Umstände)
 - Nr. 3 RiStBV (Wächterin des Gesetzes)
-- § 168b StPO (Aufzeichnung)
-- § 169a StPO (Schlussvermerk)
+- Paragraf 168b StPO (Aufzeichnung)
+- Paragraf 169a StPO (Schlussvermerk)
 - Nr. 9-13 RiStBV (Aktenführung)

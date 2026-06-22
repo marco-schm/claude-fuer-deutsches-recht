@@ -29,6 +29,6 @@ description: "Untreue des Geschäftsführers: Kontoanalyse und Pflichtwidrigkeit
 
 Konkret zu prüfen:
 
-- § 266 StGB (Untreue)
+- Paragraf 266 StGB (Untreue)
 - BVerfGE 126, 170 (Bestimmtheit)
 - BGHSt 50, 331 (gravierender Verstoß)

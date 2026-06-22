@@ -40,9 +40,9 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 Konkret zu prüfen:
 
-- § 145 GVG (Zuständigkeit StA)
-- § 142 GVG (örtlich)
+- Paragraf 145 GVG (Zuständigkeit StA)
+- Paragraf 142 GVG (örtlich)
 - Nr. 25 ff. RiStBV
-- § 158 StPO (Strafanzeige)
-- § 160 StPO (Erforschungspflicht)
+- Paragraf 158 StPO (Strafanzeige)
+- Paragraf 160 StPO (Erforschungspflicht)
 - Nr. 6 ff. RiStBV

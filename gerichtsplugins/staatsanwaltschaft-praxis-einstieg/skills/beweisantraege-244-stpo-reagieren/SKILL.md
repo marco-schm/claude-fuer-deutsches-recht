@@ -1,11 +1,11 @@
 ---
 name: beweisantraege-244-stpo-reagieren
-description: "Beweisanträge nach § 244 StPO: Reaktion der StA: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Beweisanträge nach Paragraf 244 StPO: Reaktion der StA: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
-# Beweisanträge nach § 244 StPO: Reaktion der StA
+# Beweisanträge nach Paragraf 244 StPO: Reaktion der StA
 
-## Fachkern: Beweisanträge nach § 244 StPO: Reaktion der StA
+## Fachkern: Beweisanträge nach Paragraf 244 StPO: Reaktion der StA
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
 
@@ -29,9 +29,9 @@ description: "Beweisanträge nach § 244 StPO: Reaktion der StA: Praxis-Skill f�
 
 Konkret zu prüfen:
 
-- § 152 Abs. 2 StPO (Legalitätsprinzip, Anfangsverdacht)
-- § 160 Abs. 1, 2 StPO (Erforschungspflicht, entlastende Umstände)
+- Paragraf 152 Abs. 2 StPO (Legalitätsprinzip, Anfangsverdacht)
+- Paragraf 160 Abs. 1, 2 StPO (Erforschungspflicht, entlastende Umstände)
 - Nr. 3 RiStBV (Wächterin des Gesetzes)
-- § 168b StPO (Aufzeichnung)
-- § 169a StPO (Schlussvermerk)
+- Paragraf 168b StPO (Aufzeichnung)
+- Paragraf 169a StPO (Schlussvermerk)
 - Nr. 9-13 RiStBV (Aktenführung)

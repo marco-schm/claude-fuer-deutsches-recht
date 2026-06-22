@@ -29,10 +29,10 @@ description: "Vermögensarrest und Einziehung: schneller Sicherungscheck: Praxis
 
 Konkret zu prüfen:
 
-- §§ 73 ff. StGB (Einziehung)
-- § 73e StGB (Drittansprüche)
-- §§ 421, 431 StPO (Verfahren, Beteiligung Drittbetroffener)
+- Paragrafen 73 ff. StGB (Einziehung)
+- Paragraf 73e StGB (Drittansprüche)
+- Paragrafen 421, 431 StPO (Verfahren, Beteiligung Drittbetroffener)
 - BGHSt 64, 146 (Bruttoprinzip)
-- §§ 73-76b StGB (Einziehung von Taterträgen)
-- §§ 111b ff. StPO (Sicherstellung)
-- § 111j StPO (Vermögensarrest)
+- Paragrafen 73-76b StGB (Einziehung von Taterträgen)
+- Paragrafen 111b ff. StPO (Sicherstellung)
+- Paragraf 111j StPO (Vermögensarrest)

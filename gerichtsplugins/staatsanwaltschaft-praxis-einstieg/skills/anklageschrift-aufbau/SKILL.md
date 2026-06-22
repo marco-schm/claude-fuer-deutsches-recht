@@ -29,8 +29,8 @@ description: "Anklageschrift aufbauen: Praxis-Skill für neue Staatsanwälte zu 
 
 Konkret zu prüfen:
 
-- § 170 Abs. 1 StPO (hinreichender Tatverdacht)
-- § 200 StPO (Inhalt der Anklageschrift)
-- § 199 StPO (Eröffnungsentscheidung)
+- Paragraf 170 Abs. 1 StPO (hinreichender Tatverdacht)
+- Paragraf 200 StPO (Inhalt der Anklageschrift)
+- Paragraf 199 StPO (Eröffnungsentscheidung)
 - BGHSt 40, 44 (Umgrenzungsfunktion)
 - Nr. 110 ff. RiStBV

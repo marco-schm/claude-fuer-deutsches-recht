@@ -29,8 +29,8 @@ description: "Jugendstrafrecht aus StA-Sicht: Erziehungsziel und Beschleunigung:
 
 Konkret zu prüfen:
 
-- § 1 Abs. 2 JGG, § 105 JGG (Heranwachsende)
-- § 2 JGG (Erziehungsgedanke)
-- §§ 9-16a JGG (Erziehungsmaßregeln)
-- § 17 JGG (Jugendstrafe)
-- § 45 JGG (Diversion)
+- Paragraf 1 Abs. 2 JGG, Paragraf 105 JGG (Heranwachsende)
+- Paragraf 2 JGG (Erziehungsgedanke)
+- Paragrafen 9-16a JGG (Erziehungsmaßregeln)
+- Paragraf 17 JGG (Jugendstrafe)
+- Paragraf 45 JGG (Diversion)

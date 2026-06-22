@@ -29,10 +29,10 @@ description: "Anstrengende Verteidigung in der Sitzung: souverän bleiben: Praxi
 
 Konkret zu prüfen:
 
-- § 138a StPO (Ausschluss des Verteidigers)
-- § 145 StPO
-- § 257 StPO (Erklärungsrechte)
-- § 176 GVG (Sitzungspolizei)
-- §§ 226 ff. StPO (Hauptverhandlung)
-- § 258 StPO (Schlussvorträge)
+- Paragraf 138a StPO (Ausschluss des Verteidigers)
+- Paragraf 145 StPO
+- Paragraf 257 StPO (Erklärungsrechte)
+- Paragraf 176 GVG (Sitzungspolizei)
+- Paragrafen 226 ff. StPO (Hauptverhandlung)
+- Paragraf 258 StPO (Schlussvorträge)
 - Nr. 126-138 RiStBV

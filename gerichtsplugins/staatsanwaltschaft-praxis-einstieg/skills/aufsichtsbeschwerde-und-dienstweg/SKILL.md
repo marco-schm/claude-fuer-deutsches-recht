@@ -29,9 +29,9 @@ description: "Aufsichtsbeschwerde, Dienstweg und sachliche Antwort: Praxis-Skill
 
 Konkret zu prüfen:
 
-- § 147 GVG (Aufsicht über die StA)
-- § 146 GVG (Weisungsrecht)
+- Paragraf 147 GVG (Aufsicht über die StA)
+- Paragraf 146 GVG (Weisungsrecht)
 - Nr. 1 RiStBV
 - BVerfGE 9, 223 (Justizmäßigkeit der StA)
-- § 147 GVG (Aufsicht)
-- § 145 GVG (Devolution, Substitution)
+- Paragraf 147 GVG (Aufsicht)
+- Paragraf 145 GVG (Devolution, Substitution)

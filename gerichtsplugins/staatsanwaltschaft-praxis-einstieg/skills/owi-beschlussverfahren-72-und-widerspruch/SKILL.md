@@ -1,11 +1,11 @@
 ---
 name: owi-beschlussverfahren-72-und-widerspruch
-description: "Beschlussverfahren nach § 72 OWiG: Widerspruchsfrist, Zustimmungslage und taktische Entscheidung prüfen: OWiG-Praxis-Skill für junge Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene."
+description: "Beschlussverfahren nach Paragraf 72 OWiG: Widerspruchsfrist, Zustimmungslage und taktische Entscheidung prüfen: OWiG-Praxis-Skill für junge Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene."
 ---
 
-# Beschlussverfahren nach § 72 OWiG: Widerspruchsfrist, Zustimmungslage und taktische Entscheidung prüfen
+# Beschlussverfahren nach Paragraf 72 OWiG: Widerspruchsfrist, Zustimmungslage und taktische Entscheidung prüfen
 
-## Fachkern: Beschlussverfahren nach § 72 OWiG: Widerspruchsfrist, Zustimmungslage und taktische Entscheidung prüfen
+## Fachkern: Beschlussverfahren nach Paragraf 72 OWiG: Widerspruchsfrist, Zustimmungslage und taktische Entscheidung prüfen
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
 
@@ -23,7 +23,7 @@ Gib je nach Lage einen Kurzvermerk, Verfügungsvorschlag, Nachermittlungsauftrag
 
 ## Norm- und Verfahrensanker
 
-§ 72 OWiG; §§ 71, 75 OWiG; rechtliches Gehör und Aktenlage.
+Paragraf 72 OWiG; Paragrafen 71, 75 OWiG; rechtliches Gehör und Aktenlage.
 
 ## Fachlicher Fokus
 
@@ -35,7 +35,7 @@ Der Skill prüft, ob eine Entscheidung ohne Hauptverhandlung sinnvoll oder gefä
 - Ist der Bußgeldbescheid inhaltlich und zustellungstechnisch belastbar?
 - Ist der Einspruch wirksam, beschränkt oder unklar?
 - Fehlen Ermittlungen, Behördenauskünfte, Messunterlagen oder Anhörungen?
-- Ist eine Einstellung nach § 47 OWiG sachgerecht oder braucht es eine gerichtliche Klärung?
+- Ist eine Einstellung nach Paragraf 47 OWiG sachgerecht oder braucht es eine gerichtliche Klärung?
 - Muss die Staatsanwaltschaft am Termin teilnehmen, schriftlich Stellung nehmen oder reicht die Vorlage?
 
 ## Typische Fehler
@@ -50,9 +50,9 @@ Der Skill prüft, ob eine Entscheidung ohne Hauptverhandlung sinnvoll oder gefä
 
 Konkret zu prüfen:
 
-- § 152 Abs. 2 StPO (Legalitätsprinzip, Anfangsverdacht)
-- § 160 Abs. 1, 2 StPO (Erforschungspflicht, entlastende Umstände)
+- Paragraf 152 Abs. 2 StPO (Legalitätsprinzip, Anfangsverdacht)
+- Paragraf 160 Abs. 1, 2 StPO (Erforschungspflicht, entlastende Umstände)
 - Nr. 3 RiStBV (Wächterin des Gesetzes)
-- § 168b StPO (Aufzeichnung)
-- § 169a StPO (Schlussvermerk)
+- Paragraf 168b StPO (Aufzeichnung)
+- Paragraf 169a StPO (Schlussvermerk)
 - Nr. 9-13 RiStBV (Aktenführung)

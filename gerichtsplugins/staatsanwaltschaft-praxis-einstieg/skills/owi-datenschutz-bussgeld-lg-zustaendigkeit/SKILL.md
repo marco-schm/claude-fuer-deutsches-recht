@@ -23,11 +23,11 @@ Gib je nach Lage einen Kurzvermerk, Verfügungsvorschlag, Nachermittlungsauftrag
 
 ## Norm- und Verfahrensanker
 
-Art. 83 DSGVO; § 41 BDSG; § 43 BDSG; §§ 46, 68 OWiG; EuGH, Urteil vom 05.12.2023 - C-807/21.
+Art. 83 DSGVO; Paragraf 41 BDSG; Paragraf 43 BDSG; Paragrafen 46, 68 OWiG; EuGH, Urteil vom 05.12.2023 - C-807/21.
 
 ## Fachlicher Fokus
 
-Der Skill ist für Fälle, in denen Datenschutzaufsichtsbehörden Bußgelder verhängen und die Sache nach Einspruch in die gerichtliche Spur kommt. Er prüft § 41 BDSG, die besondere Zuständigkeit bei hohen Bußgeldern, Unternehmenszurechnung nach EuGH Deutsche Wohnen, Verwertungsverbote aus Meldungen und die Rolle der Staatsanwaltschaft im gerichtlichen Verfahren.
+Der Skill ist für Fälle, in denen Datenschutzaufsichtsbehörden Bußgelder verhängen und die Sache nach Einspruch in die gerichtliche Spur kommt. Er prüft Paragraf 41 BDSG, die besondere Zuständigkeit bei hohen Bußgeldern, Unternehmenszurechnung nach EuGH Deutsche Wohnen, Verwertungsverbote aus Meldungen und die Rolle der Staatsanwaltschaft im gerichtlichen Verfahren.
 
 ## Prüfschritte
 
@@ -35,7 +35,7 @@ Der Skill ist für Fälle, in denen Datenschutzaufsichtsbehörden Bußgelder ver
 - Ist der Bußgeldbescheid inhaltlich und zustellungstechnisch belastbar?
 - Ist der Einspruch wirksam, beschränkt oder unklar?
 - Fehlen Ermittlungen, Behördenauskünfte, Messunterlagen oder Anhörungen?
-- Ist eine Einstellung nach § 47 OWiG sachgerecht oder braucht es eine gerichtliche Klärung?
+- Ist eine Einstellung nach Paragraf 47 OWiG sachgerecht oder braucht es eine gerichtliche Klärung?
 - Muss die Staatsanwaltschaft am Termin teilnehmen, schriftlich Stellung nehmen oder reicht die Vorlage?
 
 ## Typische Fehler
@@ -50,7 +50,7 @@ Der Skill ist für Fälle, in denen Datenschutzaufsichtsbehörden Bußgelder ver
 
 Konkret zu prüfen:
 
-- §§ 7-21 StPO (örtliche Zuständigkeit)
-- §§ 24-25 GVG (Amtsgericht)
-- § 74 GVG (Strafkammern)
-- §§ 142, 143 GVG (StA-Zuständigkeit)
+- Paragrafen 7-21 StPO (örtliche Zuständigkeit)
+- Paragrafen 24-25 GVG (Amtsgericht)
+- Paragraf 74 GVG (Strafkammern)
+- Paragrafen 142, 143 GVG (StA-Zuständigkeit)

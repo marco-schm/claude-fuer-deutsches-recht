@@ -65,7 +65,6 @@ Viele Gerichte werden Claude und Anthropic auf absehbare Zeit nicht produktiv ei
 
 Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt sich um ein Capability-Experiment. Die Frage, ob und wie der hier abgebildete Workflow rechtssicher betrieben werden kann, ist im Einzelfall zu prüfen — und kann auch zu dem Ergebnis fuehren, dass es nicht geht. Wir wollen das wissen, indem wir es bauen und ausprobieren.
 
-
 ## Quellenhygiene
 
 - Keine erfundenen Aktenzeichen.

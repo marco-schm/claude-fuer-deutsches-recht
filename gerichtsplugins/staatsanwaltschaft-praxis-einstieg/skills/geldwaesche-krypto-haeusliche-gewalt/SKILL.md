@@ -37,12 +37,12 @@ description: "Geldwäsche mit Krypto- oder Kontospuren: Praxis-Skill für neue S
 
 Konkret zu prüfen:
 
-- §§ 223, 224 StGB (Körperverletzung)
-- § 238 StGB (Nachstellung)
-- § 4 GewSchG
-- § 52 StPO (Zeugnisverweigerungsrecht Angehöriger)
-- § 247 StPO
-- §§ 406d-406l StPO (Verletztenrechte)
-- §§ 397 ff. StPO (Nebenklage)
-- § 68b StPO (Zeugenbeistand)
+- Paragrafen 223, 224 StGB (Körperverletzung)
+- Paragraf 238 StGB (Nachstellung)
+- Paragraf 4 GewSchG
+- Paragraf 52 StPO (Zeugnisverweigerungsrecht Angehöriger)
+- Paragraf 247 StPO
+- Paragrafen 406d-406l StPO (Verletztenrechte)
+- Paragrafen 397 ff. StPO (Nebenklage)
+- Paragraf 68b StPO (Zeugenbeistand)
 - RL 2012/29/EU (Opferschutzrichtlinie)

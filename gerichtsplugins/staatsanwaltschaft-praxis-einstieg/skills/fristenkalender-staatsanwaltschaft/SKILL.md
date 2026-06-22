@@ -29,9 +29,9 @@ description: "Fristenkalender im Dezernat: Praxis-Skill für neue Staatsanwälte
 
 Konkret zu prüfen:
 
-- § 43 StPO (Fristberechnung)
-- § 121 StPO (6-Monatsfrist U-Haft)
-- §§ 314, 341 StPO
-- § 44 StPO (Wiedereinsetzung)
-- § 314 StPO (Berufungsfrist)
-- § 341 StPO (Revisionsfrist)
+- Paragraf 43 StPO (Fristberechnung)
+- Paragraf 121 StPO (6-Monatsfrist U-Haft)
+- Paragrafen 314, 341 StPO
+- Paragraf 44 StPO (Wiedereinsetzung)
+- Paragraf 314 StPO (Berufungsfrist)
+- Paragraf 341 StPO (Revisionsfrist)

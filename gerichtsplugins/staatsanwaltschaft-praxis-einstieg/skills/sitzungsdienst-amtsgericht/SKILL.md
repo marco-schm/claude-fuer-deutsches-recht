@@ -29,7 +29,7 @@ description: "Sitzungsdienst am Amtsgericht: Praxis-Skill für neue Staatsanwäl
 
 Konkret zu prüfen:
 
-- §§ 226 ff. StPO (Hauptverhandlung)
-- § 258 StPO (Schlussvorträge)
-- § 176 GVG (Sitzungspolizei)
+- Paragrafen 226 ff. StPO (Hauptverhandlung)
+- Paragraf 258 StPO (Schlussvorträge)
+- Paragraf 176 GVG (Sitzungspolizei)
 - Nr. 126-138 RiStBV

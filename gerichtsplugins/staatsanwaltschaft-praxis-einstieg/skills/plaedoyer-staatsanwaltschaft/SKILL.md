@@ -29,9 +29,9 @@ description: "Plädoyer der Staatsanwaltschaft: Praxis-Skill für neue Staatsanw
 
 Konkret zu prüfen:
 
-- § 258 StPO (Schlussvorträge)
+- Paragraf 258 StPO (Schlussvorträge)
 - Nr. 138 RiStBV (Antrag der StA)
 - BGHSt 26, 80
-- §§ 226 ff. StPO (Hauptverhandlung)
-- § 176 GVG (Sitzungspolizei)
+- Paragrafen 226 ff. StPO (Hauptverhandlung)
+- Paragraf 176 GVG (Sitzungspolizei)
 - Nr. 126-138 RiStBV

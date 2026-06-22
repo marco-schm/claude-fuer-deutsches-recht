@@ -29,10 +29,10 @@ description: "Hauptverhandlung vorbereiten: Praxis-Skill für neue Staatsanwält
 
 Konkret zu prüfen:
 
-- §§ 226 ff. StPO (Hauptverhandlung)
-- § 244 Abs. 2 StPO (Aufklärungspflicht)
-- § 257c StPO (Verständigung)
+- Paragrafen 226 ff. StPO (Hauptverhandlung)
+- Paragraf 244 Abs. 2 StPO (Aufklärungspflicht)
+- Paragraf 257c StPO (Verständigung)
 - BVerfGE 133, 168 (Verständigungsurteil)
-- § 258 StPO (Schlussvorträge)
-- § 176 GVG (Sitzungspolizei)
+- Paragraf 258 StPO (Schlussvorträge)
+- Paragraf 176 GVG (Sitzungspolizei)
 - Nr. 126-138 RiStBV

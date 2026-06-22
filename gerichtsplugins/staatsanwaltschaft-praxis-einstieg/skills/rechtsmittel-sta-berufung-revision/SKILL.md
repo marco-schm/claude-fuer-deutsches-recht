@@ -29,7 +29,7 @@ description: "Rechtsmittel der Staatsanwaltschaft: Praxis-Skill für neue Staats
 
 Konkret zu prüfen:
 
-- § 312 StPO (Berufung)
-- § 314 StPO (Frist 1 Woche)
-- § 318 StPO (Berufungsbeschränkung)
-- § 327 StPO (Prüfungsumfang)
+- Paragraf 312 StPO (Berufung)
+- Paragraf 314 StPO (Frist 1 Woche)
+- Paragraf 318 StPO (Berufungsbeschränkung)
+- Paragraf 327 StPO (Prüfungsumfang)

@@ -1,11 +1,11 @@
 ---
-name: deal-verstaendigung-257c-stpo-staatsanwaeltinnen
-description: "Verständigung nach § 257c StPO: StA sauber positionieren: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+name: befangenheit-richter-antrag-staatsanwaelte
+description: "Befangenheitsantrag gegen Richter: StA-Perspektive: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
-# Verständigung nach § 257c StPO: StA sauber positionieren
+# Befangenheitsantrag gegen Richter: StA-Perspektive
 
-## Fachkern: Verständigung nach § 257c StPO: StA sauber positionieren
+## Fachkern: Befangenheitsantrag gegen Richter: StA-Perspektive
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
 
@@ -29,9 +29,7 @@ description: "Verständigung nach § 257c StPO: StA sauber positionieren: Praxis
 
 Konkret zu prüfen:
 
-- § 257c StPO (Verständigung)
-- § 257c Abs. 2, 5 StPO
-- BVerfGE 133, 168
-- §§ 226 ff. StPO (Hauptverhandlung)
-- § 244 Abs. 2 StPO (Aufklärungspflicht)
-- BVerfGE 133, 168 (Verständigungsurteil)
+- Paragrafen 24, 26 StPO (Ablehnung)
+- Paragraf 31 StPO (Schöffen)
+- Paragraf 338 Nr. 3 StPO (absoluter Revisionsgrund)
+- BGHSt 21, 334 (objektiver Maßstab)

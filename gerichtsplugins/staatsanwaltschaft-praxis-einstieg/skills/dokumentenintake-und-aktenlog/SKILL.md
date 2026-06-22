@@ -43,6 +43,6 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 Konkret zu prüfen:
 
-- § 158 StPO (Strafanzeige)
-- § 160 StPO (Erforschungspflicht)
+- Paragraf 158 StPO (Strafanzeige)
+- Paragraf 160 StPO (Erforschungspflicht)
 - Nr. 6 ff. RiStBV

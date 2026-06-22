@@ -29,11 +29,11 @@ description: "Hasskriminalität online: Plattformdaten und Kontext: Praxis-Skill
 
 Konkret zu prüfen:
 
-- § 130 StGB (Volksverhetzung)
-- §§ 185, 188 StGB
-- § 46 Abs. 2 S. 2 StGB (menschenverachtende Beweggründe)
-- NetzDG §§ 3a, 3b
-- § 100j StPO (Bestandsdaten)
-- § 100g StPO (Verkehrsdaten)
+- Paragraf 130 StGB (Volksverhetzung)
+- Paragrafen 185, 188 StGB
+- Paragraf 46 Abs. 2 S. 2 StGB (menschenverachtende Beweggründe)
+- NetzDG Paragrafen 3a, 3b
+- Paragraf 100j StPO (Bestandsdaten)
+- Paragraf 100g StPO (Verkehrsdaten)
 - Art. 18 DSA
-- § 22 TTDSG (Auskunft)
+- Paragraf 22 TTDSG (Auskunft)

@@ -29,7 +29,7 @@ description: "OK-Verfahren: Strukturermittlung ohne Tunnelblick: Praxis-Skill f�
 
 Konkret zu prüfen:
 
-- § 129 StGB (kriminelle Vereinigung)
-- § 129a StGB (terroristische Vereinigung)
-- §§ 100a-100c StPO (TKÜ, akustische Wohnraumüberwachung)
+- Paragraf 129 StGB (kriminelle Vereinigung)
+- Paragraf 129a StGB (terroristische Vereinigung)
+- Paragrafen 100a-100c StPO (TKÜ, akustische Wohnraumüberwachung)
 - BVerfGE 109, 279

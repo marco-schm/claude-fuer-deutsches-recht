@@ -29,6 +29,6 @@ description: "Entscheidungsvorlage: Praxis-Skill für neue Staatsanwälte zu mac
 
 Konkret zu prüfen:
 
-- § 169a StPO (Schlussvermerk)
-- § 170 Abs. 1, 2 StPO (Abschlussentscheidung)
+- Paragraf 169a StPO (Schlussvermerk)
+- Paragraf 170 Abs. 1, 2 StPO (Abschlussentscheidung)
 - Nr. 88-110 RiStBV

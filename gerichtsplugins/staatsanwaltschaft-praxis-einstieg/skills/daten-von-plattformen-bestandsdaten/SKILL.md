@@ -29,10 +29,10 @@ description: "Bestands- und Nutzungsdaten von Plattformen: Praxis-Skill für neu
 
 Konkret zu prüfen:
 
-- § 100j StPO (Bestandsdaten)
-- § 100g StPO (Verkehrsdaten)
+- Paragraf 100j StPO (Bestandsdaten)
+- Paragraf 100g StPO (Verkehrsdaten)
 - Art. 18 DSA
-- § 22 TTDSG (Auskunft)
-- § 100j StPO (Bestandsdatenauskunft)
-- § 113 TKG
+- Paragraf 22 TTDSG (Auskunft)
+- Paragraf 100j StPO (Bestandsdatenauskunft)
+- Paragraf 113 TKG
 - BVerfGE 154, 152

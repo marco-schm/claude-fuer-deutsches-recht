@@ -29,11 +29,11 @@ description: "Fristen- und Zuständigkeitscockpit: Praxis-Skill für neue Staats
 
 Konkret zu prüfen:
 
-- § 43 StPO (Fristberechnung)
-- § 44 StPO (Wiedereinsetzung)
-- § 314 StPO (Berufungsfrist)
-- § 341 StPO (Revisionsfrist)
-- §§ 7-21 StPO (örtliche Zuständigkeit)
-- §§ 24-25 GVG (Amtsgericht)
-- § 74 GVG (Strafkammern)
-- §§ 142, 143 GVG (StA-Zuständigkeit)
+- Paragraf 43 StPO (Fristberechnung)
+- Paragraf 44 StPO (Wiedereinsetzung)
+- Paragraf 314 StPO (Berufungsfrist)
+- Paragraf 341 StPO (Revisionsfrist)
+- Paragrafen 7-21 StPO (örtliche Zuständigkeit)
+- Paragrafen 24-25 GVG (Amtsgericht)
+- Paragraf 74 GVG (Strafkammern)
+- Paragrafen 142, 143 GVG (StA-Zuständigkeit)

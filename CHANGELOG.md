@@ -1,3 +1,28 @@
+# v369.0.0 — Gerichts-Plugins: Konventions-Angleichung und Qualitaetsdurchgang
+
+Qualitaetsdurchgang ueber alle 15 Plugins im Sammelordner `gerichtsplugins/`, mit Schwerpunkt auf dem nachtraeglich hinzugekommenen Plugin `staatsanwaltschaft-praxis-einstieg`, das von den Konventionen der uebrigen 14 Gerichts-Plugins abwich.
+
+## Konventions-Angleichung staatsanwaltschaft-praxis-einstieg
+
+- Paragraf-Zeichen durchgaengig aufgeloest: 849 Vorkommen von Paragraf-Zeichen in 143 Dateien auf die ausgeschriebene Form Paragraf beziehungsweise Paragrafen umgestellt, wie es die uebrigen Gerichts-Plugins handhaben. Zahl-Komma-Zahl-Sequenzen wurden dabei nicht erzeugt.
+- Generisches Maskulinum hergestellt: sieben Skill-Verzeichnisse mit weiblicher Endung (Suffix staatsanwaeltinnen) auf die generische Form staatsanwaelte umbenannt, samt Frontmatter-Name, Ueberschrift und allen Verweisen in README, Megaprompt und Miniprompt. Die einzige verbliebene weibliche Prosaform im Megaprompt (Probedezernentinnen, Referendarinnen, Dezernentin) ebenfalls auf das generische Maskulinum gezogen.
+
+## Bug-Hunt und Sanity ueber alle 15 Plugins
+
+- Skill-Descriptions bis 1024 Zeichen, plugin.json- und Marketplace-Descriptions bis 300 Zeichen, keine Zahl-Komma-Zahl-Sequenz, keine spitzen Klammern, keine doppelten Anfuehrungszeichen, keine Emojis, kein Paragraf-Zeichen, Slugs nur aus Kleinbuchstaben, Ziffern und Bindestrich. Frontmatter ausschliesslich name und description; alle 142 Skill-Namen des Praxis-Plugins stimmen mit dem Verzeichnis ueberein.
+- Cross-Refs geprueft: gerichtsplugins/README.md listet alle 15 Plugins, alle Marketplace-source-Pfade aufloesbar, Haupt-README mit Sammelordner-Eintrag.
+- Niemals scrape oder crawl; keine weiteren weiblichen Doppelpunkt- oder Paarformen.
+
+## Aesthetik
+
+- Markdown der 15 Plugins vereinheitlicht: nachgezogene Leerzeilen (drei oder mehr auf eine reduziert), abschliessende Leerzeichen entfernt, genau ein Schlusszeilenumbruch.
+
+## Versionierung
+
+- Repo-weiter Bump auf v369.0.0 (229 plugin.json, marketplace.json, README, SKILLS.md, skills-index-Seiten und Asset-Stand). Die hands-off-Plugins bleiben unberuehrt.
+
+---
+
 # v368.0.0 — Staatsanwaltschafts-Plugins konsolidiert, Sammelordner Gerichts-Plugins, README-Konsistenz
 
 ## Staatsanwaltschaft-Amtsanwaltschaft: vier neue Skills 25–28

@@ -1,11 +1,11 @@
 ---
 name: arbeitsstrafrecht-266a-und-mindestlohn
-description: "Arbeitsstrafrecht: § 266a StGB, MiLoG und Scheinselbständigkeit: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Arbeitsstrafrecht: Paragraf 266a StGB, MiLoG und Scheinselbständigkeit: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
 ---
 
-# Arbeitsstrafrecht: § 266a StGB, MiLoG und Scheinselbständigkeit
+# Arbeitsstrafrecht: Paragraf 266a StGB, MiLoG und Scheinselbständigkeit
 
-## Fachkern: Arbeitsstrafrecht: § 266a StGB, MiLoG und Scheinselbständigkeit
+## Fachkern: Arbeitsstrafrecht: Paragraf 266a StGB, MiLoG und Scheinselbständigkeit
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
 
@@ -29,6 +29,6 @@ description: "Arbeitsstrafrecht: § 266a StGB, MiLoG und Scheinselbständigkeit:
 
 Konkret zu prüfen:
 
-- § 266a Abs. 1 StGB (Arbeitnehmeranteile)
-- § 266a Abs. 6 StGB (tätige Reue)
+- Paragraf 266a Abs. 1 StGB (Arbeitnehmeranteile)
+- Paragraf 266a Abs. 6 StGB (tätige Reue)
 - BGHSt 47, 318 (Vorsatz und Zahlungsfähigkeit)

@@ -29,7 +29,7 @@ description: "Digitale Spuren: Mobiltelefon, Cloud, Chat und Standortdaten: Prax
 
 Konkret zu prüfen:
 
-- § 110 Abs. 3 StPO (elektronische Speichermedien, Netzwerkdurchsicht)
-- § 100a StPO (Quellen-TKÜ)
-- § 100b StPO (Online-Durchsuchung)
+- Paragraf 110 Abs. 3 StPO (elektronische Speichermedien, Netzwerkdurchsicht)
+- Paragraf 100a StPO (Quellen-TKÜ)
+- Paragraf 100b StPO (Online-Durchsuchung)
 - BVerfGE 120, 274 (IT-Grundrecht)

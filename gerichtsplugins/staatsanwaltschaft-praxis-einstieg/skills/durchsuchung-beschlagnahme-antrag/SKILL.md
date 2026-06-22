@@ -29,12 +29,12 @@ description: "Durchsuchung und Beschlagnahme: Praxis-Skill für neue Staatsanwä
 
 Konkret zu prüfen:
 
-- § 102 StPO (Durchsuchung beim Verdächtigen)
-- § 103 StPO (Durchsuchung bei Nichtverdächtigen)
-- § 105 Abs. 1 StPO (Richtervorbehalt; Gefahr im Verzug)
+- Paragraf 102 StPO (Durchsuchung beim Verdächtigen)
+- Paragraf 103 StPO (Durchsuchung bei Nichtverdächtigen)
+- Paragraf 105 Abs. 1 StPO (Richtervorbehalt; Gefahr im Verzug)
 - BVerfGE 103, 142 (Gefahr im Verzug – enge Auslegung)
 - BVerfGE 96, 44 (Verhältnismäßigkeit)
-- § 94 StPO (Sicherstellung, Beschlagnahme)
-- § 98 Abs. 1 StPO (Richtervorbehalt)
-- § 97 StPO (Beschlagnahmeverbote)
+- Paragraf 94 StPO (Sicherstellung, Beschlagnahme)
+- Paragraf 98 Abs. 1 StPO (Richtervorbehalt)
+- Paragraf 97 StPO (Beschlagnahmeverbote)
 - BVerfGE 113, 29 (Anwaltskanzleien)

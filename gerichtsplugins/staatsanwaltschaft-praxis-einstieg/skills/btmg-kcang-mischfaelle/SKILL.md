@@ -29,10 +29,10 @@ description: "BtMG/KCanG-Mischfälle: Besitz, Handel, Grenzwerte: Praxis-Skill f
 
 Konkret zu prüfen:
 
-- § 29 BtMG (Grundtatbestand)
-- §§ 30, 30a BtMG (qualifizierte Tatbestände)
-- § 31 BtMG (Aufklärungshilfe)
-- § 35 BtMG (Therapie statt Strafe)
-- §§ 2, 3 KCanG (Begriffe, Erlaubnisse)
-- § 34 KCanG (Strafvorschriften)
+- Paragraf 29 BtMG (Grundtatbestand)
+- Paragrafen 30, 30a BtMG (qualifizierte Tatbestände)
+- Paragraf 31 BtMG (Aufklärungshilfe)
+- Paragraf 35 BtMG (Therapie statt Strafe)
+- Paragrafen 2, 3 KCanG (Begriffe, Erlaubnisse)
+- Paragraf 34 KCanG (Strafvorschriften)
 - Art. 313 EGStGB (Amnestie)

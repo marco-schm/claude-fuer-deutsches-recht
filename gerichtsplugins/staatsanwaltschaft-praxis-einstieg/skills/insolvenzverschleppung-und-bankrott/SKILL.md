@@ -29,10 +29,10 @@ description: "Insolvenzverschleppung und Bankrott: Tatzeitraum sauber schneiden:
 
 Konkret zu prüfen:
 
-- § 15a InsO (Antragspflicht, Strafbarkeit)
-- § 283 StGB (Bankrott)
-- § 283b StGB (Buchführungspflichtverletzung)
+- Paragraf 15a InsO (Antragspflicht, Strafbarkeit)
+- Paragraf 283 StGB (Bankrott)
+- Paragraf 283b StGB (Buchführungspflichtverletzung)
 - BGHSt 55, 107 (3-Wochen-Frist)
-- § 283 StGB (Bankrotthandlungen)
-- § 283a StGB (besonders schwere Fälle)
-- § 14 StGB (Vertreterhaftung)
+- Paragraf 283 StGB (Bankrotthandlungen)
+- Paragraf 283a StGB (besonders schwere Fälle)
+- Paragraf 14 StGB (Vertreterhaftung)

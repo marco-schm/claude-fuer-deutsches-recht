@@ -29,11 +29,11 @@ description: "Europäischer Haftbefehl aus StA-Sicht: Praxis-Skill für neue Sta
 
 Konkret zu prüfen:
 
-- § 112 Abs. 1, 2 StPO (Haftgründe)
-- § 112a StPO (Wiederholungsgefahr)
-- § 116 StPO (Außervollzugsetzung)
+- Paragraf 112 Abs. 1, 2 StPO (Haftgründe)
+- Paragraf 112a StPO (Wiederholungsgefahr)
+- Paragraf 116 StPO (Außervollzugsetzung)
 - BVerfGE 19, 342 (Verhältnismäßigkeit U-Haft)
 - RB 2002/584/JI
-- §§ 79 ff. IRG
+- Paragrafen 79 ff. IRG
 - EuGH C-216/18 PPU (LM)
 - BVerfGE 156, 182 (EuHb III)

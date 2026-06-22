@@ -29,10 +29,10 @@ description: "Abschlussverfügung: Anfängerfehler vermeiden: Praxis-Skill für 
 
 Konkret zu prüfen:
 
-- § 169a StPO (Schlussvermerk)
-- § 170 Abs. 1, 2 StPO (Abschlussentscheidung)
+- Paragraf 169a StPO (Schlussvermerk)
+- Paragraf 170 Abs. 1, 2 StPO (Abschlussentscheidung)
 - Nr. 88-110 RiStBV
-- § 169a StPO (Schlussvermerk – Mängel)
-- § 200 StPO (Anklageumgrenzung)
-- § 244 Abs. 2 StPO (Aufklärungspflicht)
+- Paragraf 169a StPO (Schlussvermerk – Mängel)
+- Paragraf 200 StPO (Anklageumgrenzung)
+- Paragraf 244 Abs. 2 StPO (Aufklärungspflicht)
 - Nr. 110, 138 RiStBV

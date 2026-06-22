@@ -29,11 +29,11 @@ description: "Zeugenvernehmung und Zeugenrechte: Praxis-Skill für neue Staatsan
 
 Konkret zu prüfen:
 
-- § 136 Abs. 1 StPO (Belehrung)
-- § 136a StPO
-- § 163a StPO
+- Paragraf 136 Abs. 1 StPO (Belehrung)
+- Paragraf 136a StPO
+- Paragraf 163a StPO
 - BGHSt 38, 214
-- § 136a StPO (verbotene Vernehmungsmethoden)
-- § 163a StPO (Vernehmung durch Polizei/StA)
+- Paragraf 136a StPO (verbotene Vernehmungsmethoden)
+- Paragraf 163a StPO (Vernehmung durch Polizei/StA)
 - BGHSt 38, 214 (Beweisverwertungsverbot)
 - BGHSt 47, 172 (qualifizierte Belehrung)

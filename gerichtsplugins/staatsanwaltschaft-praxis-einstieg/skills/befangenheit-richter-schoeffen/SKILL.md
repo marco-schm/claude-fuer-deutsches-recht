@@ -29,10 +29,10 @@ description: "Befangenheit von Richtern und Schöffen: Praxis-Skill für neue St
 
 Konkret zu prüfen:
 
-- §§ 24, 26 StPO (Ablehnung)
-- § 31 StPO (Schöffen)
-- § 338 Nr. 3 StPO (absoluter Revisionsgrund)
+- Paragrafen 24, 26 StPO (Ablehnung)
+- Paragraf 31 StPO (Schöffen)
+- Paragraf 338 Nr. 3 StPO (absoluter Revisionsgrund)
 - BGHSt 21, 334 (objektiver Maßstab)
-- §§ 31-45 GVG (Schöffen)
-- § 76 GVG (Mitwirkung)
+- Paragrafen 31-45 GVG (Schöffen)
+- Paragraf 76 GVG (Mitwirkung)
 - BVerfGE 14, 56
