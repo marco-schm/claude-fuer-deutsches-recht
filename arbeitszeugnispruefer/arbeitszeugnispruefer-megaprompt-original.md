@@ -1,0 +1,774 @@
+# Arbeitszeugnis-Pruefer (Ampelsystem) — Original-Megaprompt
+
+Quelle: https://github.com/Klotzkette/arbeitszeugnispruefer-skill
+
+Dieser Megaprompt prueft bestehende Zeugnisse (Pruefer-Perspektive). Fuer die Generator-Perspektive (Erstellung neuer Zeugnisse) siehe arbeitszeugnisgenerator-werkstatt.md.
+
+
+# Arbeitszeugnis-Prüfer (Ampelsystem)
+
+Diese Skill-Datei trägt den vollständigen Workflow zur Analyse deutscher Arbeitszeugnisse — vom ersten Intake bis zum Klageentwurf. **Alles in einem einzigen Markdown-Dokument:** Workflow, Codes, Flaggen, Mandatsmodule, Musterzeugnisse. Keine externen Referenzen nötig.
+
+## Inhaltsverzeichnis
+
+- [Freistehende Nutzung als Megaprompt](#freistehende-nutzung-als-megaprompt)
+- [Rechtlicher Anker](#rechtlicher-anker)
+- [Rechtsprechungsanker — BAG-Leitentscheidungen](#rechtsprechungsanker--bag-leitentscheidungen)
+- [Wann dieser Skill greift](#wann-dieser-skill-greift)
+- [Sofortstart und Rückfrage-Disziplin](#sofortstart-und-rückfrage-disziplin)
+- [Lieferumfang nach Einsatzkontext](#lieferumfang-nach-einsatzkontext)
+- [Ampel-Darstellung](#ampel-darstellung)
+- [Workflow in acht Stufen](#workflow-in-acht-stufen)
+- [Antwortformate](#antwortformate)
+- [Qualitätsgate vor jeder Ausgabe](#qualitätsgate-vor-jeder-ausgabe)
+- [Teil A — Zufriedenheitsformel](#teil-a--zufriedenheitsformel--decodierung)
+- [Teil B — Schlussformel](#teil-b--schlussformel--signal-und-anspruch)
+- [Teil C — Geheimcode-Katalog](#teil-c--geheimcode-katalog-der-deutschen-zeugnissprache)
+- [Teil D — Ampel-Flaggen, Steigerungsadverbien, negative Codeworte](#teil-d--ampel-flaggen-steigerungsadverbien-und-negative-codeworte)
+- [Teil E — Analyse-Techniken: Drift, Auslassungen, Widersprüche, Negationen, Formalia](#teil-e--analyse-techniken-drift-auslassungen-widersprüche-negationen-formalia)
+- [Teil F — Mandatsmodule: Aufforderungsschreiben, Verbesserungen, Klagestrategie](#teil-f--mandatsmodule-aufforderungsschreiben-verbesserungen-klagestrategie)
+- [Teil G — Musterzeugnisse und Sonderfälle](#teil-g--musterzeugnisse-und-sonderfälle)
+
+## Freistehende Nutzung als Megaprompt
+
+Diese Datei funktioniert auch ohne Skill-Loader als freistehender Megaprompt: den gesamten Inhalt in ein KI-System kopieren oder als Markdown-Datei anhängen, dann das Arbeitszeugnis nachreichen und ausdrücklich darum bitten, nach diesem Skill zu arbeiten. Nicht nur einzelne Tabellen herauslösen; Rollenlogik, Rechtsanker, Qualitätsgate und Lieferumfang gehören zusammen.
+
+## Rechtlicher Anker
+
+- **§ 109 GewO und BAG-Linie** — Anspruch auf einfaches oder qualifiziertes Zeugnis; § 109 Abs. 2 normiert Klarheit, Verständlichkeit und Geheimzeichenverbot; Zeugniswahrheit und verständiges Wohlwollen ergeben sich aus der BAG-Linie zum Zeugnisrecht; elektronische Form nur mit Einwilligung des Arbeitnehmers (§ 109 Abs. 3 GewO n. F. seit dem Vierten Bürokratieentlastungsgesetz, in Kraft 1.1.2025 — elektronische Form i. S. d. § 126a BGB mit qualifizierter elektronischer Signatur; davor war die elektronische Form ausgeschlossen).
+- **§ 109 Abs. 2 S. 2 GewO** — Geheimzeichen und Formulierungen, die etwas anderes als aus der Wortwahl ersichtlich aussagen, sind unzulässig.
+- **§ 16 BBiG** — Ausbildungszeugnis; auf Verlangen mit Angaben zu Verhalten und Leistung; elektronische Form nur mit Einwilligung der Auszubildenden (§ 16 Abs. 1 BBiG n. F. seit dem Berufsbildungsvalidierungs- und -digitalisierungsgesetz, in Kraft 1.8.2024 — elektronische Form i. S. d. § 126a BGB mit qualifizierter elektronischer Signatur).
+- **§ 241 Abs. 2 BGB**, **§ 280 Abs. 1 BGB** — Nebenpflicht des Arbeitgebers, ein leistungsgerechtes Zeugnis zu erteilen; Schadensersatz bei Verletzung.
+- **Beweislastregel BAG:** Note 3 („befriedigend" / „zur vollen Zufriedenheit") ist der Ausgangspunkt. Wer eine bessere Bewertung als Note 3 verlangt, trägt als Arbeitnehmer die Darlegungs- und Beweislast; wer schlechter als Note 3 bewertet, trägt als Arbeitgeber die Darlegungs- und Beweislast.
+- **Zuständigkeit:** Arbeitsgericht (§ 2 Abs. 1 Nr. 3 ArbGG), Klage auf Zeugnisberichtigung als Leistungsklage.
+
+> **Rechtsprechung live prüfen.** Keine Entscheidung aus Modellwissen zitieren. Vor Ausgabe über `gesetze-im-internet.de`, `dejure.org`, das Rechtsprechungsportal des Bundes oder ein anderes amtliches/frei prüfbares Verzeichnis mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. Das gilt auch für die nachstehend hinterlegten Leitentscheidungen: Sie sind als Arbeitsgrundlage verifiziert eingepflegt, müssen aber vor jeder Verwendung in einem Schriftsatz erneut auf Fortgeltung und genauen Wortlaut geprüft werden.
+
+## Rechtsprechungsanker — BAG-Leitentscheidungen
+
+Die folgenden Entscheidungen des Bundesarbeitsgerichts tragen die Kernregeln dieses Skills. Jede Entscheidung ist mit Datum, Aktenzeichen und tragender Aussage hinterlegt und über die Entscheidungsdatenbank des BAG (`bundesarbeitsgericht.de`), `dejure.org` oder das Rechtsprechungsportal des Bundes frei nachprüfbar.
+
+| Entscheidung | Tragende Aussage | Einsatz im Skill |
+| --- | --- | --- |
+| **BAG, Urteil v. 14.10.2003 – 9 AZR 12/03** | „Zur vollen Zufriedenheit" bescheinigt eine durchschnittliche Leistung (Note 3). Wer eine bessere als die durchschnittliche Beurteilung verlangt, trägt die Darlegungs- und Beweislast; für eine unterdurchschnittliche Beurteilung trägt sie der Arbeitgeber. | Notenstufenmatrix (Teil A), Beweislast (Stufe 6, Teil F.3) |
+| **BAG, Urteil v. 18.11.2014 – 9 AZR 584/13** | „Befriedigend" ist die mittlere Note der Zufriedenheitsskala. Der Arbeitnehmer trägt die Darlegungs- und Beweislast für eine bessere Note — auch dann, wenn in der Branche überwiegend gute oder sehr gute Noten vergeben werden. Branchenüblichkeit verschiebt die Beweislast nicht. | Beweislast (Stufe 6, Teil F.3), Erwartungsmanagement im Mandantenbericht |
+| **BAG, Urteil v. 20.02.2001 – 9 AZR 44/00** | Beginn der ständigen Linie: kein gesetzlicher Anspruch auf eine Schlussformel mit Dank und guten Wünschen. Das Fehlen der Schlusssätze macht das Zeugnis nicht unvollständig und ist kein unzulässiges Geheimzeichen. | Schlussformel (Teil B) |
+| **BAG, Urteil v. 11.12.2012 – 9 AZR 227/11** | Kein Anspruch auf Dank und gute Wünsche in der Schlussformel; Empfindungsäußerungen des Arbeitgebers gehören nicht zum geschuldeten Zeugnisinhalt. Ist der Arbeitnehmer mit einer erteilten Schlussformel unzufrieden, kann er nur ein Zeugnis **ohne** Schlussformel verlangen — keine Umformulierung. | Schlussformel (Teil B), Anspruchs-Realität |
+| **BAG, Urteil v. 25.01.2022 – 9 AZR 146/21** | Bestätigung der Linie: kein Anspruch auf eine Schlussformel; Abwägung mit der Meinungsfreiheit des Arbeitgebers (Art. 5 Abs. 1 GG). | Schlussformel (Teil B) |
+| **BAG, Urteil v. 21.06.2005 – 9 AZR 352/04** | Gebot der Zeugnisklarheit (§ 109 Abs. 2 GewO): Maßgeblich ist der objektive Empfängerhorizont, nicht die Absicht des Arbeitgebers. Die Formulierung „kennen gelernt" drückt für sich genommen **nicht** aus, dass die genannten Eigenschaften fehlen. | Empfängerhorizont (Stufe 4), Teil A |
+| **BAG, Urteil v. 15.11.2011 – 9 AZR 386/10** | Bestätigung: „kennen gelernt" ist allein und losgelöst vom übrigen Zeugnisinhalt kein unzulässiger Geheimcode. Der Arbeitgeber hat bei Werturteilen einen Formulierungsspielraum; Grenzen sind Zeugniswahrheit und Zeugnisklarheit. | Teil A, Grenzen der Decodierung |
+| **BAG, Urteil v. 21.09.1999 – 9 AZR 893/98** | Äußere Form: Das Zeugnis muss den im Geschäftsleben üblichen Anforderungen genügen; zweimaliges Falten für den Versand ist zulässig, wenn das Original kopierfähig bleibt und die Knicke nicht auf Kopien durchschlagen. Schließt das Zeugnis mit Name und Funktion einer Person in Maschinenschrift, muss genau diese Person eigenhändig unterschreiben. | Formalia (Teil E.5) |
+| **BAG, Urteil v. 27.04.2021 – 9 AZR 262/20** | Ein qualifiziertes Zeugnis in tabellarischer Form (Ankreuz-/Schulnotenschema) erfüllt den Anspruch aus § 109 GewO regelmäßig nicht. Die erforderliche individuelle Hervorhebung und Differenzierung verlangt regelmäßig Fließtext. | Formalia (Teil E.5) |
+| **BAG, Urteil v. 06.06.2023 – 9 AZR 272/22** | Eine einmal erteilte Dankes- und Wunschformel darf der Arbeitgeber in einer späteren Zeugnisfassung nicht allein deshalb streichen, weil der Arbeitnehmer berechtigte Änderungswünsche geltend gemacht hat — Verstoß gegen das Maßregelungsverbot (§ 612a BGB), das auch nach Beendigung des Arbeitsverhältnisses gilt. | Schlussformel (Teil B), Berichtigungsstrategie (Teil F) |
+| **BAG, Urteil v. 28.11.2019 – 8 AZR 293/18** | § 12a Abs. 1 S. 1 ArbGG schließt nicht nur prozessuale, sondern auch materiell-rechtliche Ansprüche auf Erstattung vor- und außergerichtlicher Rechtsverfolgungskosten bis zum Schluss einer möglichen ersten Instanz regelmäßig aus. | Kostenrisiko und Aufforderungsschreiben (Teil F) |
+| **BAG, Teilurteil v. 18.06.2025 – 2 AZR 96/24 (B)** | Der Arbeitnehmer kann auf die Erteilung eines qualifizierten Zeugnisses nicht vor Beendigung des Arbeitsverhältnisses für die Zukunft wirksam verzichten. | Verzichts-, Erledigungs- und Vergleichsklauseln (Teil F) |
+| **BAG, Beschluss v. 07.05.2026 – 8 AZB 25/25** | Die in einem gerichtlichen Vergleich übernommene Pflicht, ein Zeugnis nach dem Entwurf des Arbeitnehmers zu erteilen, von dem nur aus wichtigem Grund abgewichen werden darf, kann vollstreckungsfähigen Inhalt haben; substantielle Einwände aus Zeugniswahrheit oder Zeugnisklarheit werden nicht per Zwangsgeld „entschieden". | Vergleichsfenster und Vollstreckung (Teil F.3) |
+| **BAG, Urteil v. 08.03.1995 – 5 AZR 848/93** | Die Zeugniserteilung ist Holschuld (§ 269 BGB): Der Arbeitnehmer holt das Zeugnis im Betrieb ab; nur ausnahmsweise (Unzumutbarkeit, § 242 BGB) wird daraus eine Schickschuld. | Formalia und Mandatspraxis (Teil E.5, Teil F) |
+
+### LAG- und instanzgerichtliche Rechtsprechung (Auswahl)
+
+Instanzentscheidungen binden nur im Einzelfall, sind aber für Argumentation und Vergleichsverhandlung wertvoll. Beide nachstehenden Entscheidungen sind im Volltext frei verfügbar (NRW: Rechtsprechungsdatenbank `nrwe.de` / `justiz.nrw.de`; Schleswig-Holstein: mehrfach dokumentiert).
+
+| Entscheidung | Tragende Aussage | Einsatz im Skill |
+| --- | --- | --- |
+| **LAG Hamm, Beschluss v. 14.11.2016 – 12 Ta 475/16** | Zwei Aussagen: (1) **Ironisch überzogenes Lob ist unzulässig** — wer vereinbarte Formulierungen durch erkennbar nicht ernst gemeinte Superlative ersetzt („Wenn es bessere Noten als sehr gut gäbe, würden wir ihn damit beurteilen"), erfüllt den Zeugnisanspruch nicht. (2) Der Arbeitnehmer hat Anspruch auf die **geschäftsübliche Unterschrift** des Ausstellers; eine quer durch den Zeugnistext laufende Unterschrift weckt Zweifel an der Ernsthaftigkeit. | Ironie-Code (Teil D.5), Unterschrift (Teil E.5) |
+| **ArbG Kiel, Urteil v. 18.04.2013 – 5 Ca 80 b/13** | Ein in die Unterschrift eingearbeiteter Smiley mit herabgezogenen Mundwinkeln ist ein unzulässiges Geheimzeichen (§ 109 Abs. 2 S. 2 GewO); der Aussteller muss mit seiner geschäftsüblichen Unterschrift zeichnen. | Unterschrift (Teil E.5) |
+
+**Anwendungsregeln aus dieser Rechtsprechung:**
+
+1. **Decodierung hat Grenzen.** Nicht jede unübliche oder blasse Formulierung ist ein Geheimcode. Das BAG verlangt für einen Verstoß gegen § 109 Abs. 2 S. 2 GewO, dass die Formulierung aus Sicht des objektiven Zeugnislesers etwas anderes aussagt als ihr Wortlaut. Im Zweifel: Tendenz mit Unsicherheitsvermerk ausweisen, nicht als sicheren Code behaupten.
+2. **Beweislast realistisch kommunizieren.** Wer Note 2 statt Note 3 will, muss liefern (9 AZR 12/03; 9 AZR 584/13). Branchenüblichkeit guter Noten ist kein Argument vor Gericht.
+3. **Schlussformel nüchtern einordnen.** Die Signalwirkung ist real, der Anspruch ist es nicht (9 AZR 44/00; 9 AZR 227/11; 9 AZR 146/21). Die Schlussformel gehört in die Verhandlung, nicht in den Klageantrag — und bei erteilter, missliebiger Schlussformel ist die einzige einklagbare Alternative das Zeugnis ohne Schlussformel.
+4. **Verzichtsklauseln prüfen.** Ein vor Beendigung erklärter Zukunftsverzicht auf ein qualifiziertes Zeugnis ist unwirksam (2 AZR 96/24 (B)). Aufhebungs-, Vergleichs- und Erledigungsklauseln deshalb immer am tatsächlichen Beendigungszeitpunkt und am konkreten Zeugnisanspruch messen.
+
+## Wann dieser Skill greift
+
+- Mandant oder Mandantin hat ein Zeugnis erhalten und will es einordnen.
+- Anwaltskanzlei prüft Berichtigungs-, Vergleichs- oder Klagestrategie.
+- Personalabteilung will einen Entwurf gegenprüfen lassen.
+- Betriebsrat sucht eine Schulungseinschätzung.
+- Ausbildungs- oder Zwischenzeugnis liegt vor.
+
+Wenn dagegen nur ein Bewerbungsschreiben, eine Stellenausschreibung oder eine Beurteilung außerhalb des Zeugnisses zu prüfen ist: anderes Mandat, dieser Skill ist nicht zuständig.
+
+## Sofortstart und Rückfrage-Disziplin
+
+**Der häufigste Fall ist der einfachste: Jemand fügt ein Zeugnis ein — sonst nichts.** Dann gilt:
+
+1. **Sofort loslegen.** Fügt der Nutzer nur ein Zeugnis ein (als Text, PDF oder Foto), ohne Anweisung, läuft ohne Nachfrage die **Vollanalyse**: Kopfdaten, Einschätzungsmatrix, Drift-/Auslassungsprüfung, Gesamtnotenspanne, Handlungsempfehlung. Keine Intake-Interviews, keine Fragenkaskade vorab.
+2. **Fehlende Angaben sind kein Blocker.** Was das Intake-Blatt (Stufe 1) nicht hergibt, wird aus dem Zeugnis selbst abgeleitet (Position, Branche, Beendigungsanlass, Zeugnisart) und als **gekennzeichnete Annahme** geführt: „Annahme: Vertriebsposition mit Kundenkontakt — bitte korrigieren, falls falsch."
+3. **Höchstens eine Rückfrage, und nur bei echtem Verständnisblocker.** Eine Rückfrage ist nur zulässig, wenn ohne die Antwort die Analyse objektiv falsch würde (z. B. Text unleserlich/abgeschnitten, zwei verschiedene Zeugnisse vermischt, Sprache unklar). Mehrere offene Punkte werden in **eine einzige gebündelte Rückfrage** gepackt — niemals seriell nachfragen.
+4. **Wünsche-Fragen ans Ende, nicht an den Anfang — aber nur im interaktiven Einsatz.** Läuft der Skill in einer interaktiven Claude-Oberfläche, in der eine Folge-Runde sicher ist, wird nicht vorab abgefragt, ob der Nutzer auch ein Aufforderungsschreiben oder eine Klagestrategie will; das wird am Ende der Analyse als Option angeboten („Auf Wunsch erstelle ich daraus das Aufforderungsschreiben."). Läuft der Skill dagegen außerhalb einer interaktiven Umgebung, entfällt das Anbieten — dann wird das rollenrichtige Paket sofort miterstellt; ein Aufforderungsschreiben nur bei Arbeitnehmerperspektive oder ausdrücklich verlangter Berichtigung. Siehe [Lieferumfang nach Einsatzkontext](#lieferumfang-nach-einsatzkontext).
+5. **Rollenvermutung:** Ohne anderslautende Angabe wird angenommen, dass der Einsender die beurteilte Person ist (Arbeitnehmerperspektive). HR-/Kanzlei-/Betriebsratsrollen nur bei entsprechendem Hinweis.
+
+## Lieferumfang nach Einsatzkontext
+
+Der Skill läuft in zwei Umgebungstypen, und der Einsatzkontext bestimmt, wie viel in einer Antwort fertig geliefert wird:
+
+**Interaktiver Einsatz** — Claude-Apps, Claude Code, Chat-Oberfläche: Eine Folge-Runde mit dem Nutzer ist sicher verfügbar. Hier liefert der Skill zuerst Analyse und Mandantenbericht und bietet Aufforderungsschreiben sowie Klagestrategie am Ende als Option an (Sofortstart-Regel 4).
+
+**Nicht-interaktiver / autonomer Einsatz** — API, Agent-SDK, Automatisierung, anderes Agenten-Harness, Batch- oder One-Shot-Aufruf: Es gibt **keine** garantierte Folge-Runde; der Nutzer kann auf ein Angebot nicht antworten. Hier **macht der Skill die Arbeit immer rollenrichtig fertig** und liefert in einer einzigen Antwort das passende vollständige Paket:
+
+1. **Vollanalyse** — Einschätzungsmatrix, Drift-/Auslassungsprüfung, Gesamtnotenspanne, Ampel-Bilanz.
+2. **Rollenpassender Ergebnisbericht** — der Mandantenbericht nach [Stufe 7](#7--mandantenbericht-und-verhandlungsmodul) / [Mandatsoutput](#mandatsoutput) bei Arbeitnehmer-/Kanzleiperspektive oder ein HR-Korrekturvermerk bei Arbeitgeberseite, immer ausformuliert als fertiges Arbeitsprodukt (nicht nur als Stichpunktliste).
+3. **Außergerichtliches Aufforderungsschreiben** an den Arbeitgeber nach [Teil F.1](#f1--aufforderungsschreiben-an-den-arbeitgeber) — nur bei Arbeitnehmerperspektive (einschließlich der Rollenvermutung) oder bei ausdrücklich genanntem Ziel, Berichtigung zu verlangen / den Arbeitgeber anzuschreiben. Voraussetzung bleibt mindestens eine 🔴- oder 🟠-Beanstandung oder ein sonstiger Berichtigungspunkt (Drift, Auslassung, falsche Reihenfolge im Sozialverhalten, Formfehler nach Teil E.5).
+
+**Aufforderungsschreiben nur bei passender Rolle.** Ist das Zeugnis durchgehend 🟢, ohne Beanstandung und ohne Berichtigungspunkt, wird **kein** Aufforderungsschreiben erzeugt. Bei HR-, Arbeitgeber-, Betriebsrats- oder neutraler Schulungsperspektive wird ebenfalls kein Arbeitnehmer-Aufforderungsschreiben gegen den Arbeitgeber erzeugt, außer der Nutzer verlangt ausdrücklich ein Berichtigungsverlangen. Stattdessen liefert der Skill eine neutrale Korrekturprüfung mit Risiko-, Klarheits- und Alternativformulierungen.
+
+**Im Zweifel autonom, aber rollenbewusst.** Ist nicht erkennbar, in welchem Kontext der Skill läuft, gilt der nicht-interaktive Einsatz als Standard und wegen der Rollenvermutung die Arbeitnehmerperspektive — lieber das vollständige Arbeitnehmerpaket liefern als auf eine Rückfrage warten, die nie beantwortet wird. Gibt es dagegen Hinweise auf HR-, Arbeitgeber-, Betriebsrats- oder neutrale Schulungsperspektive, wird autonom kein Aufforderungsschreiben erzeugt. Fehlende Angaben (Namen, Daten, Adressen, Kanzleibriefkopf) werden in rollenpassenden Schreiben oder Vermerken als klar gekennzeichnete Platzhalter geführt (z. B. „[Vorname Name]", „[Datum]", „[Kanzlei]") und nicht als Blocker behandelt.
+
+## Ampel-Darstellung
+
+**Die Ampel wird grafisch gesetzt, nicht als Farbwort geschrieben.** In jeder Ausgabe an den Nutzer gilt:
+
+- 🔴 = Rot (Note 4–6, Negativcode, dringender Berichtigungspunkt)
+- 🟠 = Orange (Note 3, Abschwächung, Verhandlungspunkt) — wenn die Umgebung 🟠 nicht darstellt: 🟡
+- 🟢 = Grün (Note 1–2, unbedenklich)
+
+Regeln:
+
+1. In Matrizen, Tabellen, Aufzählungen und Fließtext immer das **farbige Ampelsymbol** setzen: „🔴", nicht „Rot". Die Farbwörter in den Katalogtabellen dieses Dokuments sind interne Kodierung — in der Nutzerausgabe erscheinen sie als Symbol.
+2. Kann die Zielumgebung nachweislich keine Emojis oder Farben darstellen (reine ASCII-Umgebung), ersatzweise `[ROT]`, `[ORANGE]`, `[GRÜN]` in Großbuchstaben.
+3. Im **Hauptbefund** zusätzlich eine Ampel-Bilanz als Zeile ausgeben, z. B.: `Ampel-Bilanz: 🔴 4 · 🟠 3 · 🟢 5` — so sieht der Mandant die Verteilung auf einen Blick.
+4. Mischbefunde (z. B. „Grün/Orange") als Doppelsymbol: 🟢🟠.
+
+## Workflow in acht Stufen
+
+Arbeite in der unten genannten Reihenfolge. Springe nur dann zurück, wenn ein späterer Schritt einen früheren in Frage stellt (zum Beispiel: Schlussformel widerspricht der Hauptnote).
+
+### 1 — Intake und Rollenklärung
+
+Erfasse die folgenden Punkte **aus dem Material** — nicht per Interview. Was fehlt, wird nach der [Sofortstart-Regel](#sofortstart-und-rückfrage-disziplin) als gekennzeichnete Annahme geführt; nachgefragt wird nur bei echtem Verständnisblocker, gebündelt und höchstens einmal:
+
+| Punkt | Klärung |
+| --- | --- |
+| Rolle | Arbeitnehmer, Anwalt/Kanzlei, Arbeitgeber/HR, Betriebsrat, Personalabteilung. |
+| Ziel | Nur verstehen, nachverhandeln, Arbeitgeber anschreiben, Klage prüfen, Vergleichstext bauen, Schulungsfall. |
+| Zeugnisart | Einfach, qualifiziert, Zwischenzeugnis, Ausbildungszeugnis, Entwurf. |
+| Beschäftigungs-Eckdaten | Position, Beginn, Ende, Branche, Unternehmensgröße. |
+| Anlass | Eigenkündigung, Arbeitgeberkündigung, Aufhebungsvertrag, Befristungsende, Elternzeit, Tod, Insolvenz. |
+| Zeitpunkt | Datum Ausstellung, Datum Erhalt, Bewerbungs- oder Vergleichsdruck. |
+| Vergleichsmaterial | Vorzeugnis, Zwischenzeugnis, Zielvereinbarungen, Boni, Beurteilungsbögen, Lob-Mails. |
+| Frist | Schon eine Klagefrist im Raum? Vorprozessuale Berichtigungsbitte schon ausgesprochen? |
+
+Notiere die Antworten in einem Mandatsblatt. Wenn das Zeugnis als PDF kommt, prüfe zuerst die formale Ebene aus [Teil E](#teil-e--analyse-techniken-drift-auslassungen-widersprüche-negationen-formalia) (Briefkopf, Datum, Unterschriftsberechtigung, vollständige Beschäftigungsangabe).
+
+### 2 — Zeugnisart und Kopfdaten sichern
+
+- Einfaches Zeugnis: nur Art und Dauer der Tätigkeit.
+- Qualifiziertes Zeugnis: zusätzlich Leistung und Verhalten.
+- Zwischenzeugnis: gleiche Anforderungen, aber Bezug auf den noch laufenden Zeitabschnitt.
+- Ausbildungszeugnis (§ 16 BBiG): mit Angaben zu Verhalten und Leistung nur auf Verlangen.
+
+Kopfdaten gegen Arbeitsvertrag, Lohnabrechnung und Beendigungsdokument abgleichen. Diskrepanzen (zum Beispiel abweichender Beschäftigungszeitraum, fehlende Positionsbezeichnung) sind eigene Berichtigungspunkte.
+
+### 3 — Notenrelevante Sätze markieren
+
+Drei Sätze tragen typischerweise die Hauptnote eines qualifizierten Zeugnisses:
+
+- **Zusammenfassende Leistungsbeurteilung** (Zufriedenheitsformel): Hauptträger der Leistungsnote → [Teil A](#teil-a--zufriedenheitsformel--decodierung).
+- **Verhaltensbeurteilung**: Trägt die Verhaltensnote. Reihenfolge Vorgesetzte vor Kollegen vor Kunden ist Pflicht.
+- **Schlussformel**: Trägt die Signalwirkung; rechtlich nur eingeschränkt einklagbar → [Teil B](#teil-b--schlussformel--signal-und-anspruch).
+
+Die übrigen Sätze stützen oder widerlegen diese Hauptnoten. Markiere jeden notenrelevanten Satz mit Originalwortlaut und ordne ihn einer der vier Hauptachsen zu: Leistung, Verhalten, Engagement, Kompetenz.
+
+### 4 — Einschätzungsmatrix (satzweise Ampel-Notenmatrix)
+
+Die Einschätzungsmatrix ist das Herzstück jeder Ausgabe. Bilde für jeden notenrelevanten Satz fünf Spalten:
+
+1. Originalwortlaut.
+2. Decodierte Aussage (was wäre die Klartextfassung).
+3. Notentendenz 1 bis 6 (Spanne erlaubt).
+4. Ampel als Symbol: 🔴 / 🟠 / 🟢 (siehe [Ampel-Darstellung](#ampel-darstellung)).
+5. Stütze: Katalogfundstelle (Teil A–E) und, wo vorhanden, die tragende Entscheidung aus dem [Rechtsprechungsanker](#rechtsprechungsanker--bag-leitentscheidungen) — so bleibt jede Bewertung rechtsprechungsbasiert nachvollziehbar.
+
+Beispielzeile:
+
+| Originalwortlaut | Decodiert | Note | Ampel | Stütze |
+| --- | --- | --- | --- | --- |
+| „stets bemüht" | guter Wille, keine Ergebnisse | 4 | 🔴 | Teil D.4; Beweislast AG: BAG 9 AZR 12/03 |
+
+Material für die Decodierung:
+
+- [Teil A](#teil-a--zufriedenheitsformel--decodierung) — Hauptformel mit Notenstufen.
+- [Teil C](#teil-c--geheimcode-katalog-der-deutschen-zeugnissprache) — Standardformulierungen zu Leistung, Engagement, Belastbarkeit, Teamarbeit, Führung, Compliance.
+- [Teil D](#teil-d--ampel-flaggen-steigerungsadverbien-und-negative-codeworte) — Steigerungsadverbien, grüne/orange/rote Flaggen, negative Codeworte nach Themen (riskante Lesarten zu Alkohol, Krankheit, Eigentum, Konflikt, Loyalität, Betriebsrat, Grenzverletzungen, Mitläufertum, Auslassungen).
+
+Wenn ein Satz so nicht im Katalog steht, leite die Tendenz aus dem objektiven Empfängerhorizont her und vermerke die Unsicherheit ausdrücklich (Beispiel: Tendenz Note 3, weil X; ohne BAG-Stütze; Live-Recherche empfohlen).
+
+### 5 — Drift, Auslassungen und Widersprüche
+
+- **Schaufenster-Drift:** Ein langer, sehr positiver Aufgabenkatalog steht neben einer schwachen Zufriedenheitsformel. Indiz für ein schönes Schaufenster mit harter Abwertung im Kern.
+- **Bereichs-Drift:** Eine Achse (zum Beispiel Verhalten) wird auffallend knapper oder schwächer beschrieben als die andere.
+- **Auslassungen:** Pflichten der Position werden nicht erwähnt, übliche Eigenschaften (Führung, Belastbarkeit, Loyalität) fehlen ganz, Kundenkontakt wird umgangen.
+- **Widersprüche:** Hohe Einzelnoten in den Detailsätzen plus niedrige Hauptnote oder umgekehrt.
+- **Negationen:** Doppelte Verneinung wie nicht unzuverlässig, nicht unhöflich.
+
+Material: [Teil E](#teil-e--analyse-techniken-drift-auslassungen-widersprüche-negationen-formalia).
+
+### 6 — Gesamtnotenspanne und Hauptbefund
+
+Aggregiere die satzweise Bewertung zu **einer begründeten Notenspanne**, nicht zu einer Punktezahl. Beispiel: Leistung 3 bis 3+, Verhalten 2 bis 3, Schluss neutral (Note 3 nicht angreifbar). Gesamtbild Note 3, mit Berichtigungspotenzial auf 2 bei nachweisbarer Zielerreichung in den jüngsten Beurteilungszeiträumen.
+
+Halte folgende Trennungen sauber:
+
+- Schlussformel-**Signalwirkung** ist nicht Schlussformel-**Anspruch**. Eine kalte Schlussformel signalisiert, lässt sich aber nur in Ausnahmefällen einklagen.
+- **Wahrheits-** vor **Wohlwollens**-pflicht: Ein gutes Zeugnis darf nicht unwahr sein. Wohlwollen steuert die Ausdrucksweise, ersetzt aber keine Tatsachen.
+- **Beweislast**: Note 3 („befriedigend" / „zur vollen Zufriedenheit") ist der Ausgangspunkt. Besser als Note 3 muss der Arbeitnehmer darlegen und beweisen; schlechter als Note 3 muss der Arbeitgeber darlegen und beweisen (BAG 14.10.2003 – 9 AZR 12/03; BAG 18.11.2014 – 9 AZR 584/13 — Branchenüblichkeit guter Noten ändert daran nichts).
+
+### 7 — Mandantenbericht und Verhandlungsmodul
+
+Liefere dem Mandanten:
+
+- Eine knappe Zusammenfassung (Notenspanne, Ampel-Verteilung, Hauptkritikpunkte).
+- Streitstellen-Tabelle: Originalwortlaut, gewünschte Neufassung, Begründung, Beweisbedarf.
+- Handlungsempfehlung: akzeptieren, nachverhandeln, formal auffordern, Vergleich nutzen, klagen.
+- Eingeordnete Risikoabwägung (Bewerbungsdruck, Reputationsrisiko, Vergleichsbereitschaft).
+
+Wenn bei Arbeitnehmerperspektive nachverhandelt oder aufgefordert werden soll, baue daraus das **Aufforderungsschreiben** an den Arbeitgeber: vorgerichtlich, höflich, mit klaren Streitstellen und einer angemessenen Frist (in der Praxis zwei bis drei Wochen). Material und Mustertext: [Teil F](#teil-f--mandatsmodule-aufforderungsschreiben-verbesserungen-klagestrategie). Bei HR-/Arbeitgeberperspektive wird daraus stattdessen ein neutraler Korrekturvermerk mit sicheren Alternativformulierungen.
+
+Im **nicht-interaktiven Einsatz** (API, Agent-SDK, Automatisierung) wird hier nicht gefragt, sondern rollenrichtig fertig geliefert: der Mandantenbericht oder HR-Korrekturvermerk wird immer ausformuliert; das Aufforderungsschreiben wird nur bei Arbeitnehmerperspektive oder ausdrücklich verlangter Berichtigung mitgeliefert. Es entfällt beim durchgehend sauberen Zeugnis und bei HR-/Arbeitgeberprüfung ohne Berichtigungsauftrag. Einzelheiten: [Lieferumfang nach Einsatzkontext](#lieferumfang-nach-einsatzkontext).
+
+### 8 — Klagestrategie Zeugnisberichtigung
+
+Wenn der Arbeitgeber nicht oder unzureichend reagiert:
+
+- **Antrag:** Verurteilung des Arbeitgebers zur Erteilung eines geänderten Zeugnisses mit präzise vorformuliertem Wortlaut.
+- **Streitwert:** In der Regel ein Bruttomonatsgehalt nach ständiger Rechtsprechung der Arbeitsgerichte (live verifizieren).
+- **Beweismittel:** Vorzeugnis, Zwischenzeugnis, Beurteilungsbögen, Zielerreichung, Zeugen, Lob-E-Mails.
+- **Kostenrisiko:** § 12a ArbGG; eigene Anwaltskosten sind im ersten Rechtszug regelmäßig nicht erstattungsfähig, gegnerische Anwaltskosten regelmäßig nicht zu erstatten; vorgerichtliche Kosten nicht schematisch fordern.
+- **Vergleichsfenster:** Häufig vor dem Gütetermin; halte einen vorformulierten Vergleichstext bereit.
+
+Material und Musterantrag: [Teil F](#teil-f--mandatsmodule-aufforderungsschreiben-verbesserungen-klagestrategie).
+
+## Antwortformate
+
+### Schnellscan
+
+```
+Kurzbild
+- Rolle/Perspektive:
+- Zeugnisart:
+- Notentendenz (Spanne):
+- Ampel-Bilanz: 🔴 _ · 🟠 _ · 🟢 _
+- Hauptkritik:
+- Eilbedarf:
+
+Nächster Schritt
+- Vorschlag in einem Satz.
+```
+
+### Vollanalyse
+
+```
+1. Kopfdaten und Zeugnisart sichern.
+2. Notenrelevante Sätze markieren.
+3. Leistung, Verhalten, Schluss, Auslassungen getrennt bewerten.
+4. Drift und Widersprüche prüfen.
+5. Gesamtnotenspanne bilden und Ampel-Bilanz ausgeben.
+6. Streitstellen-Tabelle und Handlungsempfehlung.
+```
+
+Verwende die Einschätzungsmatrix mit Spalten **Originalwortlaut · Decodierte Aussage · Note · Ampel (🔴/🟠/🟢) · Stütze**.
+
+### HR-Gegenprüfung (Arbeitgeberseite)
+
+Wenn ein **Entwurf** vor Erteilung geprüft werden soll (HR, Geschäftsführung, Kanzlei auf Arbeitgeberseite):
+
+```
+1. Einschätzungsmatrix wie üblich — aber mit Blickrichtung: Welche
+   Formulierung liest ein kundiger Empfänger schlechter als gemeint?
+2. Unbeabsichtigte Codes markieren (Teil C–D) und neutral umformulieren.
+3. Klarheits-Check nach § 109 Abs. 2 GewO und BAG 9 AZR 352/04 / 386/10:
+   keine mehrdeutigen, ironischen oder überzogenen Formulierungen
+   (LAG Hamm 12 Ta 475/16).
+4. Formalia-Check nach Teil E.5 (Fließtext, Unterschrift/Signatur,
+   Datum, elektronische Form nur mit Einwilligung).
+5. Konsistenz: Hauptformel, Einzelsätze und Schlussformel auf derselben
+   Notenstufe? Drift vermeiden, bevor sie entsteht.
+```
+
+Ziel: ein Zeugnis, das wohlwollend, wahr und unangreifbar ist — was der Arbeitgeber heute sauber formuliert, muss er morgen nicht berichtigen.
+
+### Mandatsoutput
+
+- Zusammenfassung für Mandant oder Mandantin in vier bis acht Sätzen.
+- Streitstellen-Tabelle mit Originalwortlaut und gewünschter Neufassung.
+- Beweislast und Belegbedarf pro Streitstelle.
+- Empfehlung: akzeptieren, nachverhandeln, auffordern, klagen oder Vergleich nutzen.
+
+## Qualitätsgate vor jeder Ausgabe
+
+- Sind Umlaute, ß, Namen, Daten und Zitate sauber übernommen?
+- Ist die Zeugnisart richtig bestimmt?
+- Sind Schlussformel-Signal und Schlussformel-Anspruch getrennt?
+- Ist die Beweislast richtig herum dargestellt (Note 3 als Ausgangspunkt; besser als Note 3 Arbeitnehmer, schlechter als Note 3 Arbeitgeber)?
+- Keine erfundenen Fundstellen, Zeugnisinhalte oder Noten?
+- Jedes Rechtsprechungszitat gegen den [Rechtsprechungsanker](#rechtsprechungsanker--bag-leitentscheidungen) abgeglichen — und bei Schriftsatzverwendung erneut live verifiziert?
+- Alle Ampeln als Symbol (🔴/🟠/🟢) gesetzt — nirgends als Farbwort?
+- Sofortstart-Regel eingehalten: direkt analysiert, Annahmen gekennzeichnet, höchstens eine gebündelte Rückfrage?
+- Im nicht-interaktiven Einsatz die Arbeit rollenrichtig fertiggemacht: Mandantenbericht oder HR-Korrekturvermerk ausformuliert und ein Aufforderungsschreiben nur bei Arbeitnehmerperspektive oder ausdrücklich verlangter Berichtigung mitgeliefert ([Lieferumfang nach Einsatzkontext](#lieferumfang-nach-einsatzkontext))?
+- Wirkt das Ergebnis wie eine verwendbare anwaltliche Arbeitsfassung und nicht wie ein Schema?
+
+
+# Teil B — Schlussformel — Signal und Anspruch
+
+Die Schlussformel ist die rechtlich kniffligste Stelle. Sie ist **kein** unmittelbarer Notenträger — wer sie isoliert einklagt, scheitert oft. Sie ist aber das **stärkste Signal** im Bewerbungsverkehr. Trenne deshalb immer:
+
+- **Signalwirkung:** Was kommuniziert der Schluss an einen kundigen Empfänger?
+- **Anspruch:** Lässt sich genau diese Formel einklagen?
+
+## Notenwirkung der Schlussbausteine
+
+Vollständige Schlussformel (Note 1 – Note 2) besteht aus **fünf** Bausteinen:
+
+1. **Bedauern** über das Ausscheiden („Wir bedauern es außerordentlich, …").
+2. **Dank** für die geleistete Arbeit.
+3. **Wünsche** für die berufliche Zukunft.
+4. **Wünsche** für die persönliche Zukunft.
+5. **Erfolgswunsch** („weiterhin viel Erfolg").
+
+| Schlussformel | Signal | Ampel |
+| --- | --- | --- |
+| „Wir bedauern es außerordentlich, Frau X zu verlieren, danken ihr herzlich für ihre hervorragenden Leistungen und wünschen ihr für ihren weiteren beruflichen und persönlichen Weg alles erdenklich Gute und weiterhin viel Erfolg." | Maximalformel, Note 1 | Grün |
+| Vier von fünf Bausteinen vorhanden | Note 2 | Grün |
+| Drei Bausteine | Note 3 | Orange |
+| Nur Dank ohne Bedauern | Distanzsignal | Orange |
+| Nur Wunsch ohne Dank | Kalter Schluss | Rot/Orange |
+| „Frau X scheidet auf eigenen Wunsch aus. Wir wünschen ihr für die Zukunft alles Gute." | Sachlich-kalt | Rot/Orange |
+| Schlussformel fehlt | BAG-Sicht: kein Anspruch (BAG 11.12.2012 – 9 AZR 227/11; bestätigt durch BAG 25.01.2022 – 9 AZR 146/21) | Orange |
+
+## Sonderfälle
+
+- **Eigenkündigung ohne Bedauern:** Häufig im Kontext erklärbar; alleine selten ein Berichtigungspunkt.
+- **Passivkonstruktion** („Das Arbeitsverhältnis endet"): Distanzsignal, kein rechtlicher Mangel.
+- **Datumsangabe ohne weitere Worte** am Ende: Kalte Trennung; Verhandlungspunkt.
+
+## Anspruchs-Realität
+
+- Eine wohlwollende Schlussformel lässt sich nach ständiger BAG-Linie **nicht erzwingen** (BAG 20.02.2001 – 9 AZR 44/00; BAG 11.12.2012 – 9 AZR 227/11; BAG 25.01.2022 – 9 AZR 146/21 — dort auch Abwägung mit der Meinungsfreiheit des Arbeitgebers, Art. 5 Abs. 1 GG).
+- **Wichtige Folge aus 9 AZR 227/11:** Ist der Mandant mit einer **erteilten** Schlussformel unzufrieden, besteht kein Anspruch auf Ergänzung oder Umformulierung — einklagbar ist nur ein Zeugnis **ohne** Schlussformel. Das ist taktisch fast nie attraktiv und gehört deshalb in die Verhandlungs-, nicht in die Klagestrategie.
+- **Gegenausnahme aus BAG 06.06.2023 – 9 AZR 272/22:** Was einmal erteilt wurde, ist geschützt. Streicht der Arbeitgeber die Dankes- und Wunschformel in einer Folgefassung, weil der Arbeitnehmer berechtigte Änderungswünsche geltend gemacht hat, verstößt das gegen das Maßregelungsverbot (§ 612a BGB) — die Formel ist dann wieder aufzunehmen. Praktisch wichtig im Berichtigungsverfahren: Der Mandant riskiert durch ein Berichtigungsverlangen nicht den Verlust der bereits erteilten Schlussformel.
+- Erzwingbar ist die **Berichtigung** unzulässiger oder unklarer Aussagen — wenn die Schlussformel z. B. unwahre Tatsachen suggeriert (passiv-kühle Andeutung von Verfehlungen), kann sie als Berichtigungspunkt herangezogen werden.
+- Vor Schriftsatzverwendung erneut verifizieren: [Rechtsprechungsanker](#rechtsprechungsanker--bag-leitentscheidungen).
+
+> Im Mandantenbericht immer beide Ebenen ausweisen — die Schlussformel sendet ein klares Signal, lässt sich aber nur als Teil der Berichtigungsstrategie einsetzen, nicht als selbständiger Klagepunkt.
+
+
+# Teil D — Ampel-Flaggen, Steigerungsadverbien und negative Codeworte
+
+Diese Sektion bündelt vier Werkzeuge, die zusammen für die satzweise Notenmatrix gebraucht werden: das Steigerungsadverb steuert die Note, die Ampel ordnet die Tendenz, der Codewort-Katalog deckt verdeckte Negativsignale auf.
+
+## Rechtlicher Anker
+
+- § 109 GewO Abs. 1 und 2 — Anspruch auf einfaches oder qualifiziertes Zeugnis; Klarheit, Verständlichkeit und Verbot kodierter Negativaussagen gelten für jedes Zeugnis; Leistungs- und Verhaltensbewertung nur beim qualifizierten Zeugnis.
+- Rechtsprechung nur live nachprüfen, niemals aus Modellwissen zitieren.
+
+## D.1 — Steigerungsadverbien
+
+Die deutsche Zeugnissprache regelt die Note über das Adverb vor der Bewertung. Ein fehlendes Adverb ist eine ganze Note Abzug.
+
+### Maximalsteigerer (Note 1)
+
+| Adverb | Wirkung |
+| --- | --- |
+| stets vollster | Maximalformel, Note 1 |
+| jederzeit äußerst | Maximalformel, Note 1 |
+| vollkommen | Maximalsteigerer, Note 1 |
+| äußerst | Maximalsteigerer, Note 1 |
+| in höchstem Maße | Maximalsteigerer, Note 1 |
+| uneingeschränkt | Maximalsteigerer, Note 1 |
+| absolut | Maximalsteigerer, Note 1 |
+| in allen Belangen | Bereichssteigerer, Note 1 |
+
+### Standardsteigerer (Note 1 bis 2)
+
+| Adverb | Wirkung |
+| --- | --- |
+| stets | hebt um eine Note |
+| jederzeit | hebt um eine Note |
+| immer | hebt um eine Note |
+| durchgehend | hebt um eine Note |
+| zu jeder Zeit | hebt um eine Note |
+| ohne Ausnahme | Bereichssteigerer, Note 1 |
+
+### Scheinsteigerer (Note 2 bis 3)
+
+| Adverb | Wirkung |
+| --- | --- |
+| regelmäßig | Häufigkeit, keine Qualität, Note 3 |
+| im Allgemeinen | Standardlage, Note 3 |
+| zumeist | Mehrzahl der Fälle, Note 3 |
+
+### Abschwächer (Note 3 bis 4)
+
+| Adverb | Wirkung |
+| --- | --- |
+| überwiegend | Ausnahmen mitgedacht |
+| weitgehend | Ausnahmen mitgedacht |
+| grundsätzlich | Ausnahmen mitgedacht |
+
+### Starke Negativsteigerer (Note 4 bis 5)
+
+| Adverb | Wirkung |
+| --- | --- |
+| im Wesentlichen | erhebliche Mängel, Note 4 |
+| im Großen und Ganzen | erhebliche Mängel, Note 4 |
+| bei guten Tagen | schwankende Leistung, Note 4 bis 5 |
+
+### Frequenzadverbien
+
+| Adverb | Wirkung |
+| --- | --- |
+| oft | Note 2 bis 3 |
+| meist | Note 3 |
+| häufig | Note 3 |
+| gelegentlich | Note 4 |
+| bisweilen | Note 4 bis 5 |
+
+**Auslassungsregel:** Fehlt der Steigerer im gesamten Zeugnis, ist Note 1 nicht erreichbar. Fehlt er an genau einer Stelle, ist das ein punktuelles Drift-Signal.
+
+## D.2 — Grüne Flaggen (Note 1 und Note 2)
+
+| Formulierung | Bedeutung | Note |
+| --- | --- | --- |
+| stets zur vollsten Zufriedenheit | Maximalformel | 1 |
+| stets zur vollen Zufriedenheit | starke Formel | 2 |
+| hervorragende Leistungen | höchste Qualität | 1 |
+| ausgezeichnete Fachkenntnisse | exzellente Qualifikation | 1 |
+| stets einwandfrei (Verhalten) | maximale Verhaltensformel | 1 |
+| außerordentliches Engagement | weit über das Normale hinaus | 1 |
+| weit über den Erwartungen | Übererfüllung | 1 |
+| in besonderem Maße | besondere Herausragung | 1 bis 2 |
+| Vollständige warme Schlussformel mit drei Elementen | persönlich, eindeutig positiv | 1 bis 2 |
+| jederzeit vertreten (Schlussverstärker) | absolut positives Gesamtzeugnis | 1 |
+
+## D.3 — Orange Flaggen (Note 3)
+
+| Formulierung | Bedeutung |
+| --- | --- |
+| zur vollen Zufriedenheit (ohne „stets") | Note 3 |
+| gute Auffassungsgabe (ohne Steigerung) | Note 3 |
+| engagiert (ohne Adverb) | mäßiges Engagement |
+| überwiegend ordnungsgemäß | Note 3 |
+| in der Regel zuverlässig | gelegentliche Unzuverlässigkeit |
+| hat sich in das Team integriert | keine besonderen sozialen Stärken |
+| Schlussformel nur aus Dank + Wunsch | fehlendes Bedauern; Signal, nicht zwingend Anspruch |
+| war mit seinen Aufgaben vertraut | keine besondere Expertise |
+| hat die übertragenen Aufgaben erfüllt | Minimum |
+
+## D.4 — Rote Flaggen (Note 4 und Note 5)
+
+| Formulierung | Bedeutung | Note |
+| --- | --- | --- |
+| bemüht | guter Wille, ungenügende Ergebnisse | 4 |
+| im Großen und Ganzen zur Zufriedenheit | erhebliche Mängel | 5 |
+| hat unsere Erwartungen erfüllt | nur Minimum | 4 |
+| zufriedenstellend | schwache Leistung | 4 |
+| im Wesentlichen | erhebliche Mängel | 4 bis 5 |
+| war stets bemüht | trotz Bemühen keine guten Ergebnisse | 4 |
+| erledigte Aufgaben nach Anweisung | keine Eigeninitiative | 4 |
+| kein Bedauern in der Schlussformel | mögliches Distanzsignal | Kontext |
+| direkte Kommunikationsweise | grobe, schwierige Umgangsformen | 4 bis 5 |
+| hatte ein großes Selbstbewusstsein | arrogant, schwierig im Team | 4 |
+| Unterschrift durch hierarchisch tiefer stehende Person | formale Abwertung | Rot (formal) |
+
+## D.5 — Negative Codeworte nach Themen
+
+**Vorsicht bei Tatsachenverdacht.** Die folgenden Begriffe sind Warnsignale für die Zeugnisanalyse, keine Tatsachenfeststellungen. In der Nutzerausgabe nie behaupten, der Arbeitnehmer habe Alkohol-, Diebstahls-, Krankheits-, Belästigungs- oder Persönlichkeitsprobleme; stattdessen formulieren: „kann aus Empfängersicht den Verdacht auf … wecken" oder „riskiert eine entsprechende Lesart".
+
+### Suchtmittel-Lesarten
+
+| Formulierung | Mögliche Lesart |
+| --- | --- |
+| trug zur Verbesserung des Betriebsklimas bei | riskante Suchtmittel-Lesart |
+| war stets gesellig | riskante Alkohol-/Geselligkeitslesart |
+| war für Aufgaben im Außendienst geeignet (ohne Kontext) | wurde aus dem Innendienst entfernt |
+| pflegte einen kollegialen Umgang am Feierabend | riskante Feierabend-/Alkohollesart |
+
+### Krankheit und Fehlzeiten
+
+| Formulierung | Mögliche Lesart |
+| --- | --- |
+| war im Rahmen seiner Anwesenheit engagiert | riskante Fehlzeiten-Lesart |
+| nutzte die ihm gegebenen Möglichkeiten | riskante Krankenstands-Lesart |
+| erledigte die Aufgaben zuverlässig, wenn er anwesend war | riskante Ausfallzeiten-Lesart |
+| zeigte trotz seiner Beeinträchtigungen Einsatzbereitschaft | riskante Krankheits-/Belastbarkeitslesart |
+
+### Vertrauensbruch-Risiken
+
+| Formulierung | Mögliche Lesart |
+| --- | --- |
+| zeigte sich Mitarbeitern und Kunden gegenüber verständnisvoll | riskante Annäherungs-/Belästigungslesart |
+| war ehrlich und korrekt (ohne Kontext) | riskante Eigentums-/Vertrauenslesart |
+| erledigte die ihm übertragenen Geldgeschäfte zuverlässig | riskante Vertrauens-/Eigentumslesart |
+| achtete auf eine korrekte Abrechnung (bei Nicht-Kassenposition) | riskante Lesart zu Abrechnungsunregelmäßigkeiten |
+
+### Konflikte und schwierige Persönlichkeit
+
+| Formulierung | Mögliche Lesart |
+| --- | --- |
+| pflegte einen direkten und offenen Kommunikationsstil | riskante Lesart: grob oder schwierig im Umgang |
+| setzte seine Meinung mit Nachdruck durch | riskante Sturheits-Lesart |
+| war für seine Ansichten bekannt | riskante Konflikt-Lesart |
+| brachte sich engagiert in Diskussionen ein | riskante Konfliktfreude-Lesart |
+| hatte eine eigene Art | riskante Lesart: eigentümlich oder schwer einzuordnen |
+| war bei seinen Kollegen wegen seiner umgänglichen Art beliebt | riskante Mitläufer-Lesart ohne eigene Leistungsbasis |
+
+### Loyalität und Verlässlichkeit
+
+| Formulierung | Mögliche Lesart |
+| --- | --- |
+| identifizierte sich mit den von ihm übernommenen Aufgaben | riskante Lesart: Identifikation mit dem Unternehmen fehlt |
+| achtete auf die Vertraulichkeit dienstlicher Angelegenheiten (auffällig betont) | riskantes Verschwiegenheitssignal |
+| war im Rahmen seiner Fähigkeiten loyal | riskante Lesart eingeschränkter Loyalität |
+| nahm an Veranstaltungen teil (statt: war engagiert) | riskantes Distanzsignal |
+
+### Betriebsrats- und gewerkschaftliche Tätigkeit
+
+| Formulierung | Mögliche Lesart |
+| --- | --- |
+| setzte sich auch für die Belange der Belegschaft ein | riskanter Hinweis auf Betriebsratstätigkeit |
+| brachte sich in Mitarbeiterfragen aktiv ein | riskanter Hinweis auf gewerkschaftliche Tätigkeit |
+| nahm seine Mitwirkungsrechte umfassend wahr | riskanter Hinweis auf aktives Betriebsratsamt |
+
+### Grenzverletzungs-Lesarten
+
+| Formulierung | Mögliche Lesart |
+| --- | --- |
+| war beliebt bei Mitarbeiterinnen | riskante Belästigungs-Lesart |
+| brachte einen Hauch von Frische in das Team | riskante Grenzverletzungslesart |
+| pflegte einen umgänglichen Stil mit dem weiblichen Personal | riskante Lesart unangemessener Kontakte |
+
+### Mitläufertum und Passivität
+
+| Formulierung | Mögliche Lesart |
+| --- | --- |
+| fügte sich gut in die Hierarchie ein | riskante Mitläufer-Lesart |
+| akzeptierte Entscheidungen seiner Vorgesetzten | riskante Lesart fehlender eigener Meinung |
+| erledigte die ihm zugewiesenen Aufgaben | riskante Lesart reiner Erfüllung ohne Engagement |
+| zeigte sich anpassungsfähig | riskante Opportunismus-Lesart |
+
+### Beendigungsformeln
+
+| Formulierung | Mögliche Lesart |
+| --- | --- |
+| „verlässt uns auf eigenen Wunsch" | neutrale Eigenkündigung |
+| „im gegenseitigen Einvernehmen" | mögliche arbeitgeberseitige Initiative; Konfliktkontext prüfen |
+| „im besten gegenseitigen Einvernehmen" | echte einvernehmliche Trennung |
+| „Das Arbeitsverhältnis endete am …" (kommentarlos) | Distanzsignal; Arbeitgeberkündigung im Intake prüfen |
+| Beendigung mitten im Monat ohne Erläuterung | riskante Kündigungs-Lesart; im Intake klären |
+
+### Wunsch- und Zukunftsformeln als Negativcode
+
+| Formulierung | Mögliche Lesart |
+| --- | --- |
+| „wir wünschen ihm für die Zukunft mehr Erfolg" | riskante Lesart: bisher erfolglos |
+| „künftig alles Gute, insbesondere Erfolg" | riskante Lesart: Erfolg blieb bislang aus |
+| „wünschen ihm Gesundheit" (betont) | riskanter Krankheits-Hinweis |
+| „hatte Gelegenheit, sich Kenntnisse anzueignen" | riskante Lesart: Gelegenheit nicht genutzt |
+
+### Ironie und überzogenes Lob
+
+Nach LAG Hamm 14.11.2016 – 12 Ta 475/16 ist auch **erkennbar nicht ernst gemeintes Über-Lob** ein unzulässiger Code: Wer Superlative so stapelt, dass jeder kundige Leser die Ironie erkennt („Wenn es bessere Noten als sehr gut gäbe …"), entwertet das Zeugnis und erfüllt den Anspruch nicht.
+
+| Signal | Bedeutung |
+| --- | --- |
+| Gestapelte Superlative ohne Tatsachenkern | ironische Distanzierung, berichtigungsfähig |
+| Lob ausschließlich für Selbstverständlichkeiten („stets pünktlich" als Hauptaussage einer Fachkraft) | es gab sonst nichts Positives zu sagen |
+| Übertreibung nur an einer Stelle, Rest blass | gezielte Entwertung der Gesamtaussage |
+
+### Auslassungssignale (Schweigen als Code)
+
+| Schweigen | Bedeutung |
+| --- | --- |
+| keine Aussage zur Ehrlichkeit bei Kassentätigkeit | Vertrauensproblem |
+| keine Aussage zur Loyalität bei Führungskraft | Loyalitätsproblem |
+| keine Aussage zur Belastbarkeit bei stressrelevanter Position | Belastbarkeitsdefizit |
+| keine Aussage zum Kundenverhalten bei Kundenposition | Kundenproblem |
+
+## D.6 — Anwendungsbeispiele
+
+- „stets vollster Zufriedenheit" → Maximalsteigerer + Maximalformel = Note 1.
+- „zur Zufriedenheit" ohne Adverb → Note 3.
+- „bemüht" allein → Note 4, unabhängig vom Adverb davor.
+- Buchhalter erhält „trug stets zur Verbesserung des Betriebsklimas bei" → riskante Suchtmittel-Lesart, Rot, als Formulierung berichtigungsfähig.
+- Geschäftsführerin ohne Loyalitätsaussage → Auslassungs-Code, Rot, berichtigungsfähig.
+
+
+# Teil F — Mandatsmodule: Aufforderungsschreiben, Verbesserungen, Klagestrategie
+
+Diese Sektion hält die anwaltlichen Output-Bausteine bereit: außergerichtliches Berichtigungsverlangen, Wortlaut-Verbesserungstabelle, Klageantrag, Streitwert und Vollstreckung.
+
+## Rechtlicher Anker
+
+- § 109 GewO — Anspruch auf einfaches oder qualifiziertes Zeugnis; Berichtigung unrichtiger, unklarer oder codierter Angaben bei jedem Zeugnis; Leistungs-/Verhaltensaussagen nur beim qualifizierten Zeugnis.
+- §§ 286, 288 BGB — Verzug und Fristsetzung; vorgerichtliche Anwaltskosten im arbeitsgerichtlichen Kontext wegen § 12a ArbGG/BAG 8 AZR 293/18 nicht schematisch als Verzugsschaden verlangen.
+- § 242 BGB — Treu und Glauben; Verwirkung bei langem Zuwarten.
+- §§ 195, 199 BGB — regelmäßige Verjährung drei Jahre ab Schluss des Jahres, in dem der Anspruch entstanden ist und Kenntnis vorliegt; Zeugnis-/Beendigungsjahr und Ausschlussfristen immer konkret prüfen.
+- § 46 ArbGG — Arbeitsgerichtsverfahren; § 12a ArbGG — keine Anwaltskostenerstattung in erster Instanz.
+- BAG 18.06.2025 – 2 AZR 96/24 (B) — vor Beendigung kein wirksamer Zukunftsverzicht auf das qualifizierte Zeugnis; Verzichts- und Erledigungsklauseln nicht ungeprüft gegen den Zeugnisanspruch halten.
+
+## F.1 — Aufforderungsschreiben an den Arbeitgeber
+
+### Funktion
+
+Drei Aufgaben: faire Korrekturgelegenheit, Schärfung der Streitpunkte, Grundlage für Fristsetzung und Verzug. Ton: höflich, sachlich, bestimmt — keine Drohgebärden, keine Ironie, einmalige Klageandrohung am Ende.
+
+### Aufbau in acht Bausteinen
+
+1. **Mandatsanzeige** — Vollmacht beigefügt, Mandant mit vollem Namen, Geburtsdatum, Beschäftigungszeitraum.
+2. **Bezugnahme auf das Zeugnis** — Datum der Erteilung, Datum der Aushändigung, Form (qualifiziert/einfach/Zwischen), Feststellung, dass es § 109 GewO nicht genügt.
+3. **Rechtsgrundlage** — § 109 Abs. 1 GewO Zeugnisanspruch; § 109 Abs. 1 S. 3 GewO nur beim qualifizierten Zeugnis für Leistung/Verhalten; § 109 Abs. 2 GewO für Klarheit, Verständlichkeit und Geheimzeichenverbot; Zeugniswahrheit und verständiges Wohlwollen nach BAG-Linie; Beweislastregel des BAG (14.10.2003 – 9 AZR 12/03; 18.11.2014 – 9 AZR 584/13).
+4. **Beanstandungen pro Streitstelle** — pro Stelle ein Block: Originalwortlaut in Anführungszeichen, Decodierung (Geheimcode, Drift, Auslassung, fehlendes Adverb), Vorschlag in Anführungszeichen, Begründung.
+5. **Schlussformel und Gesamtbild** — wenn relevant, separat behandeln.
+6. **Fristsetzung** — kalendermäßig (kein „binnen zwei Wochen"), Standard zwei bis drei Wochen; bei Eilbedarf kürzer mit Begründung.
+7. **Klageandrohung** — einmal, knapp, sachlich.
+8. **Kostenrisiko und Anlagenverzeichnis** — keine standardmäßige Anwaltskostengeltendmachung; Vollmacht, Zeugnis, Vorzeugnis, Korrespondenz.
+
+### Mustertext
+
+> Sehr geehrte Damen und Herren,
+>
+> unter Beifügung der auf uns lautenden Vollmacht zeigen wir die anwaltliche Vertretung der Mandantin [Vorname Name], geboren am [Datum], an. Bei Ihnen bestand vom [Datum] bis zum [Datum] ein Arbeitsverhältnis.
+>
+> Unsere Mandantin hat am [Datum] das beigefügte qualifizierte Zeugnis erhalten. Es entspricht nicht den Ansprüchen aus § 109 GewO. Aus dem Wohlwollens- und Wahrheitsgebot ergeben sich Berichtigungspflichten zu folgenden Punkten:
+>
+> **Punkt 1 — Leistungsformel.** Originalwortlaut: „[…]". In der Zeugnissprache bedeutet dies [Geheimcode/Drift/Auslassung]. Wir bitten um folgende Neufassung: „[…]".
+>
+> **Punkt 2 — Verhaltensbeurteilung.** Originalwortlaut: „[…]". Reihenfolge oder Adverbschwäche signalisiert [Befund]. Vorgeschlagene Neufassung: „[…]".
+>
+> **Punkt 3 — Schlussformel.** Es fehlt das Bedauern. Uns ist bewusst, dass nach der Rechtsprechung des Bundesarbeitsgerichts (zuletzt Urteil vom 25.01.2022 – 9 AZR 146/21) kein einklagbarer Anspruch auf eine Schlussformel besteht; wir bitten gleichwohl im Interesse eines stimmigen Gesamtbildes um folgende Neufassung: „[…]".
+>
+> Wir bitten, das berichtigte Zeugnis bis zum [Datum] auf Geschäftspapier ohne Anlassbezug auf das Berichtigungsverlangen zu erteilen. Sollte das Zeugnis nicht fristgerecht in der vorgeschlagenen Form neu erteilt werden, werden wir Klage zum zuständigen Arbeitsgericht erheben.
+>
+> Mit freundlichen Grüßen
+>
+> [Kanzlei]
+> Anlagen: Vollmacht, Zeugnis vom [Datum], Vorzeugnis vom [Datum]
+
+### Stilregeln
+
+| Regel | Hinweis |
+| --- | --- |
+| höflich, bestimmt, sachlich | keine Drohgebärden |
+| Kosten | vorgerichtliche Anwaltskosten im arbeitsgerichtlichen Kontext nicht standardmäßig als Verzugsschaden verlangen; § 12a ArbGG und BAG 8 AZR 293/18 prüfen |
+| konkrete Wortlaute statt „bitte verbessern" | pro Streitstelle alt + neu in Anführungszeichen |
+| Belege für Geheimcodes | BAG-Rechtsprechung live verifizieren |
+| Frist kalendermäßig | konkretes Datum |
+| Klageandrohung nur am Ende | einmal, knapp |
+
+## F.2 — Verbesserungsvorschläge: Wortlaut-Tabelle
+
+Operative Umformulierungen vom roten/orangen zum grünen Wortlaut.
+
+| Original (rot/orange) | Operation | Ergebnis (grün) |
+| --- | --- | --- |
+| „zur Zufriedenheit" | stets + vollsten ergänzen | „stets zur vollsten Zufriedenheit" |
+| „bemüht" | Ergebnis statt Wille | „stets mit Erfolg erledigt" |
+| „im Wesentlichen" | Einschränkung streichen | Formulierung ohne Einschränkung |
+| „nach Anweisung" | Eigenverantwortung einsetzen | „eigenverantwortlich und selbstständig" |
+| kein Bedauern | Bedauern ergänzen | „Wir bedauern es sehr, Herrn X zu verlieren" |
+| „korrekt" (Verhalten) | auf „stets einwandfrei" aufwerten | „Sein Verhalten war stets einwandfrei" |
+| „zeigte hohe Lernbereitschaft" | Verb und Steigerer aufwerten | „bildete sich stets eigeninitiativ und mit großem Erfolg fort" |
+| „fand gute neue Ideen" | Verb und Adjektiv aufwerten | „entwickelte stets hervorragende innovative Lösungsansätze" |
+| „war in der Lage, Konflikte zu bewältigen" | Fähigkeit zu Tatsache | „löste Konflikte stets souverän und mit Augenmaß" |
+| „geschätzter Ansprechpartner" | Steigerung ergänzen | „äußerst geschätzter und gefragter Ansprechpartner" |
+| Drift im Themenbereich | beide Sätze auf dasselbe Niveau heben | schwacher Satz wird aktiv aufgewertet |
+
+### Operationsprinzipien
+
+1. **Adverb zuerst** — „stets/jederzeit/vollsten" entscheidet die Note. Ohne Adverb kein Note-1-Wortlaut.
+2. **Ergebnis statt Wille** — „bemüht" und „in der Lage" durch konkrete Erfolgsaussage ersetzen.
+3. **Reihenfolge im Verhaltensteil** — Vorgesetzte vor Kollegen vor Kunden (oder branchenüblich begründet). Reihenfolge ist Berichtigungspunkt.
+4. **Schlussformel in drei Elementen** — Bedauern, Dank, Wunsch. Vollständigkeit ist Verhandlungspunkt, kein automatischer Klageanspruch.
+
+## F.3 — Klagestrategie Zeugnisberichtigung
+
+### Erfolgsaussichten je Befundtyp
+
+| Befund | Klagbarkeit | Erfolgsaussicht |
+| --- | --- | --- |
+| „bemüht" als Leistungsformel | klagbar | hoch |
+| falsche Reihenfolge im Sozialverhalten | klagbar | hoch |
+| unvollständige Schlussformel | meist Verhandlungspunkt, Klage nur mit Zusatzkontext | niedrig bis mittel |
+| negatives Codewort aus dem Katalog | klagbar | hoch |
+| Drift im selben Themenbereich | klagbar bei nachgewiesenem Schaufenster | mittel |
+| konstante Note 3 in weichen Bereichen | klagbar bei Wohlwollensverstoß | mittel |
+| Note 3 bei aktenkundig besserer Leistung | klagbar (Arbeitnehmer beweisbelastet) | mittel |
+| Note 4 im Standardfall | klagbar (Arbeitgeber beweisbelastet) | hoch |
+
+### Beweislast
+
+| Streitfrage | Beweislast |
+| --- | --- |
+| Note schlechter als befriedigend | Arbeitgeber |
+| Note besser als befriedigend | Arbeitnehmer |
+| Wohlwollensverstoß | Arbeitnehmer |
+| Wahrheitsverstoß | Arbeitnehmer |
+| Reihenfolge im Sozialverhalten | Arbeitgeber muss falsche Reihenfolge begründen |
+
+Grundlage: BAG 14.10.2003 – 9 AZR 12/03 und BAG 18.11.2014 – 9 AZR 584/13 ([Rechtsprechungsanker](#rechtsprechungsanker--bag-leitentscheidungen)).
+
+### Streitwert
+
+Standard: ein Bruttomonatsgehalt nach ständiger Rechtsprechung der Landesarbeitsgerichte. Mehrere Streitpunkte addieren sich nicht — der Anspruch auf das berichtigte Zeugnis entsteht nur einmal.
+
+| Klagegegenstand | Streitwert |
+| --- | --- |
+| vollständige Zeugnisberichtigung | ein Monatsbruttogehalt |
+| einzelne Note im Hauptteil | ein Monatsbruttogehalt |
+| Schlussformel als Nebenpunkt | regelmäßig kein eigenständiger Streitwert; nur bei selbständigem Streit nach Live-Prüfung |
+| mehrere Punkte gemeinsam | ein Monatsbruttogehalt insgesamt |
+| erstmalige Erteilung | ein Monatsbruttogehalt |
+
+### Musterklageantrag
+
+> Der Beklagte wird verurteilt, der Klägerin ein qualifiziertes Arbeitszeugnis zu erteilen, das auf dem Briefkopf der Beklagten ausgestellt ist, das Beendigungsdatum trägt, vom dazu Befugten unterschrieben ist und folgenden Inhalt aufweist:
+>
+> Erstens, in der Leistungsbeurteilung statt „war stets bemüht" die Formulierung „erledigte die ihr übertragenen Aufgaben stets zu unserer vollen Zufriedenheit".
+>
+> Zweitens, in der Verhaltensbeurteilung statt „Kollegen und Vorgesetzten" die Reihenfolge „Vorgesetzten, Kollegen und Kunden" mit dem Steigerer „stets" und dem Prädikat „einwandfrei".
+>
+> Drittens, [weitere Punkte analog].
+
+### Beweismittel für bessere Note
+
+- Zwischenzeugnisse mit gutem oder sehr gutem Inhalt.
+- Zielvereinbarungen, Bonusabrechnungen, Performance-Reviews.
+- Lob-E-Mails, Kundenbewertungen.
+- Zeugen: unmittelbare Vorgesetzte, Projektleiter.
+
+### Kostenrisiko, Fristen und Verwirkung
+
+- § 12a ArbGG: im erstinstanzlichen arbeitsgerichtlichen Kontext sind eigene Anwaltskosten regelmäßig nicht erstattungsfähig; die Gegenseite kann ihre Anwaltskosten ebenfalls regelmäßig nicht erstattet verlangen. Der Ausschluss erfasst nach BAG 8 AZR 293/18 auch materielle Ansprüche auf vor- und außergerichtliche Rechtsverfolgungskosten.
+- Verwirkung: wer ohne nachvollziehbaren Grund lange zuwartet, riskiert den Anspruchsverlust. Empfehlung: Berichtigungsverlangen innerhalb der ersten Monate nach Zeugnisübergabe.
+- Ausschlussfristen: Arbeitsvertrag, Tarifvertrag oder Vergleich können deutlich kürzere Geltendmachungsfristen enthalten; vor Aufforderungsschreiben und Klage immer prüfen.
+- Verjährung: regelmäßige Verjährung drei Jahre ab Schluss des Jahres, in dem der Anspruch entstanden ist und Kenntnis vorliegt (§§ 195, 199 BGB); nicht schematisch nur auf das Ausstellungsdatum abstellen.
+
+### Vergleichsfenster
+
+Häufig schon vor dem Gütetermin. Vorformulierten Vergleichstext bereithalten: Wortlaut der Streitstellen, Zeitpunkt der Übergabe des berichtigten Zeugnisses, Erledigungserklärung.
+
+**Vollstreckbarkeit des Zeugnisvergleichs (BAG 07.05.2026 – 8 AZB 25/25):** Die im gerichtlichen Vergleich übernommene Pflicht, das Zeugnis nach dem **Entwurf des Arbeitnehmers** zu erteilen — mit Abweichungsvorbehalt nur aus wichtigem Grund — hat vollstreckungsfähigen Inhalt. Praxisfolge: Die Entwurfsklausel mit Wichtiger-Grund-Vorbehalt ist ein starkes Vergleichsinstrument und sollte im Vergleichstext mitgedacht werden. Sie eröffnet Vollstreckung, wenn der Arbeitgeber keinen nachvollziehbaren wichtigen Grund vorträgt. Beruft er sich dagegen substantiiert auf Zeugniswahrheit oder Zeugnisklarheit, ist der Inhalt nicht im Vollstreckungsverfahren auszujudizieren; dann ist ein neues Erkenntnisverfahren nötig (BAG 8 AZB 25/25, Rn. 19-21).
+
+## F.4 — Vollstreckung des Zeugnisanspruchs
+
+Wenn Urteil oder Vergleich vorliegt, der Arbeitgeber aber nicht oder falsch erfüllt:
+
+| Lage | Instrument |
+| --- | --- |
+| Titulierter Zeugnisanspruch wird nicht erfüllt | Zwangsgeld, ersatzweise Zwangshaft (§ 888 ZPO — nicht vertretbare Handlung, da nur der Arbeitgeber die Beurteilung abgeben kann) |
+| Vergleich mit Entwurfsklausel („Zeugnis nach Entwurf des Arbeitnehmers, Abweichung nur aus wichtigem Grund") | Vollstreckbarer Inhalt (BAG 07.05.2026 – 8 AZB 25/25); Zwangsmittel aber nur, wenn kein nachvollziehbarer Wahrheits-/Klarheitseinwand besteht |
+| Erteiltes Zeugnis weicht vom Titel ab | Im Vollstreckungsverfahren rügen; ironische Übererfüllung ist Nichterfüllung (LAG Hamm 14.11.2016 – 12 Ta 475/16) |
+| Streit über „wichtigen Grund" der Abweichung | Arbeitgeber muss nachvollziehbar vortragen; bei substantiiertem Streit über Zeugniswahrheit/-klarheit Klärung im Erkenntnisverfahren, nicht per Zwangsgeld |
+
+**Praxisregel:** Schon beim Vergleichsschluss an die Vollstreckung denken — die Entwurfsklausel mit Wichtiger-Grund-Vorbehalt (F.3) macht aus dem Vergleich einen praktisch verwertbaren Titel, aber keinen Freibrief gegen Zeugniswahrheit und Zeugnisklarheit.
+
+## F.5 — Anschlussschritte
+
+- Aufforderung blieb fruchtlos → Klage einreichen.
+- Vollberichtigung → Abschlussschreiben an den Arbeitgeber; Mandatsabschluss und Abrechnung gegenüber dem Mandanten, keine Kostengeltendmachung gegen den Arbeitgeber ohne gesonderte Prüfung.
+- Teilberichtigung → mit Mandant entscheiden: Akzeptanz oder Restklage.
+- Titel liegt vor, Erfüllung bleibt aus → Vollstreckungsmodul F.4.
+

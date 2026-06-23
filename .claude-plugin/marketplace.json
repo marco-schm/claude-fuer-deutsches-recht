@@ -2072,6 +2072,15 @@
       "author": {
         "name": "Klotzkette"
       }
+    },
+    {
+      "name": "arbeitszeugnispruefer",
+      "source": "./arbeitszeugnispruefer",
+      "description": "Prueft bestehende deutsche Arbeitszeugnisse Schritt fuer Schritt: Notenstufen, Zufriedenheits- und Verhaltensformeln, Geheimcodes, Auslassungen, Steigerungsadverbien, Schlussformel. Liefert Ampel-Einschaetzung pro Satz, Gesamtnote, Aufforderungsschreiben oder Klagestrategie zur Berichtigung.",
+      "version": "389.0.0",
+      "author": {
+        "name": "Klotzkette"
+      }
     }
   ],
   "version": "389.0.0"
