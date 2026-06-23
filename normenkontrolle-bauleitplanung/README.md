@@ -125,7 +125,7 @@ Das Plugin ist freistehend nutzbar und benötigt keine anderen Plugins des Marke
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 95 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 110 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -225,4 +225,19 @@ Automatisch generierte Komplett-Liste aller 95 Skills in diesem Plugin. Beschrei
 | `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 
+| `staedtebaulicher-vertrag-grundlagen-11-baugb` | Prueft städtebauliche Verträge nach BauGB Paragraf 11: Vertragsgegenstand, Beteiligte, Kopplungsverbot, Kausalitaet, Angemessenheit, Schriftform, Rueckabwicklung und Normenkontroll-Schnittstelle. |
+| `staedtebaulicher-vertrag-folgekostenvertrag` | Prueft Folgekostenverträge nach BauGB Paragraf 11 Absatz 1 Satz 2 Nummer 3: Bedarf, Gesamtkonzept, Kausalitaet, Angemessenheit, Umlagegrenzen und Rueckzahlungsrisiko. |
+| `staedtebaulicher-vertrag-erschliessungsvertrag-124-baugb` | Prueft Erschließungsverträge nach BauGB Paragraf 124: Dritter, Erschließungsanlage, Kostenuebernahme, Spezialitaet gegenueber BauGB Paragraf 11 und Umgehungsrisiko. |
+| `staedtebaulicher-vertrag-durchfuehrungsvertrag-12-baugb` | Prueft Durchführungsverträge zum vorhabenbezogenen Bebauungsplan nach BauGB Paragraf 12: Vorhaben, Erschließung, Frist, Kosten, Durchführungsfähigkeit und Planbindung. |
+| `staedtebaulicher-vertrag-angemessenheit-kausalitaet` | Prueft Kausalitaet und Angemessenheit städtebaulicher Vertragsleistungen nach BauGB Paragraf 11 Absatz 2 mit Kostenlogik, Gegenleistungsbezug und Ueberforderungsschutz. |
+| `staedtebaulicher-vertrag-formfehler-und-nichtigkeit` | Prueft Schriftform, notarielle Beurkundung, Kopplungsverbot, Teilnichtigkeit und Rueckabwicklung städtebaulicher Verträge nach BauGB, VwVfG und BGB-Grundsaetzen. |
+| `staedtebaulicher-vertrag-rechtsschutz-und-streit` | Prueft Rechtsschutz bei Streit ueber städtebauliche Verträge: Verwaltungsrechtsweg, Leistungsklage, Rueckforderung, Normenkontrollbezug, Eilbedarf und Vergleichsstrategie. |
+| `festsetzungen-bebauungsplan-9-baugb-grundlagen` | Prueft Festsetzungen eines Bebauungsplans nach BauGB Paragraf 9: Rechtsgrundlage, Bestimmtheit, Erforderlichkeit, Abwaegung, Planzeichnung, Textfestsetzung und Planerhaltung. |
+| `festsetzungen-baunutzungsverordnung-art-mass` | Prueft Art und Mass der baulichen Nutzung nach BauNVO: Gebietstyp, Feinsteuerung, GRZ, GFZ, Hoehe, Vollgeschosse, Ausnahmen, Ausschluesse und Abwaegung. |
+| `festsetzungen-ueberbaubare-flaeche-bauweise` | Prueft Bauweise, Baulinien, Baugrenzen und ueberbaubare Grundstuecksflaechen nach BauNVO Paragrafen 22 und 23 mit Nachbarbezug und Bestimmtheitskontrolle. |
+| `festsetzungen-verkehrs-und-gruenflaechen` | Prueft Verkehrsflächen, Gruenflächen, Gemeinbedarfsflächen und Versorgungsflächen im Bebauungsplan nach BauGB Paragraf 9 mit Erschliessung, Widmung und Abwaegung. |
+| `festsetzungen-innenentwicklung-13a-13b-baugb` | Prueft Bebauungsplaene der Innenentwicklung nach BauGB Paragraf 13a und Anschlussfragen zu Paragraf 13b: Anwendungsbereich, Flaechenbezug, Umweltpruefung und Fehlerfolge. |
+| `festsetzungen-oertliche-bauvorschriften-lbo` | Prueft oertliche Bauvorschriften im Bebauungsplan nach BauGB Paragraf 9 Absatz 4 und Landesbauordnung: Gestaltung, Dach, Einfriedung, Stellplatz und Kompetenzgrenze. |
+| `festsetzungen-bestimmtheit-und-erforderlichkeit` | Prueft Bestimmtheit und Erforderlichkeit von Bebauungsplan-Festsetzungen nach BauGB Paragraf 1 Absatz 3, Paragraf 1 Absatz 7 und Paragraf 9. |
+| `festsetzungen-konflikt-mit-staedtebauvertrag` | Prueft Konflikte zwischen Bebauungsplan-Festsetzungen und städtebaulichem Vertrag: Normbindung, Vertragsbindung, Durchfuehrung, Abwaegung und Rechtsschutz. |
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

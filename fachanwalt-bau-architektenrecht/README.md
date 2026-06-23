@@ -46,7 +46,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 121 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -168,4 +168,8 @@ Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschre
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
 | `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 
+| `staedtebauvertrag-schnittstelle-bautraegervertrag` | Prueft die Schnittstelle zwischen städtebaulichem Vertrag, Bauträgervertrag, Teilung, Kostenweitergabe, Transparenz und Verbraucherschutz. |
+| `staedtebauvertrag-haftung-und-rueckabwicklung` | Prueft Haftung und Rueckabwicklung bei unwirksamen städtebaulichen Verträgen: Zahlung, Kostenweitergabe, Projektabbruch, Planbindung und Regress. |
+| `festsetzungen-bebauungsplan-baugenehmigung-praxis` | Prueft Bebauungsplan-Festsetzungen in der Baugenehmigungspraxis: Planbindung, Befreiung, Abweichung, Nachbarrechte und Bauaufsichtsargumentation. |
+| `festsetzungen-und-architektenhaftung` | Prueft Architektenhaftung bei fehlerhafter Auswertung von Bebauungsplan-Festsetzungen, BauNVO-Werten, Abstandsflächen, Befreiungen und Genehmigungsrisiken. |
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

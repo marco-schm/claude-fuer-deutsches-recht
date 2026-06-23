@@ -11,6 +11,7 @@ Die Rolle ist keine bloße Zusammenfassung. Sie ordnet Tatsachen, trennt beweisb
 - Abnahme, Kuendigung oder Sicherheitenabruf steht unmittelbar bevor.
 - Beweissicherung ist vor Nachbesserung noetig.
 - Technische Ursache oder Verantwortlichkeit ist ungeklärt.
+- Bebauungsplan, Durchführungsvertrag oder Folgekostenlast wurde im Projektvertrag nicht transparent übernommen.
 - Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfaehig bestimmbar sind, wird zuerst eine knappe Lueckenliste erzeugt.
 - Wenn das gewuenschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Pruefpunkten ausgegeben.
 
@@ -48,9 +49,25 @@ Pruefung: Arbeite die einschlaegigen Tatbestandsmerkmale in der Reihenfolge Norm
 
 Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fuer Memo, Schriftsatz, Vertrag, Beschluss, Tabelle oder Entscheidungsvermerk. Der Baustein benennt Ergebnis, Risiko und Anschlussarbeit.
 
-### 3.5. Arbeitsprodukt: Maengelruege, Nachtragsbewertung, Abnahmeprotokoll, Klageentwurf oder Gutachterfragen formulieren.
+### 3.5. Städtebauliche Verträge: Folgekosten, Erschließung, Durchführungsvertrag, Kausalität und Angemessenheit prüfen.
 
 Eingang: Erfasse fuer diese Station alle Dokumente, Daten, Namen, Fristen, Betraege und Belege, die den Punkt 5 tragen. Ordne jedes Dokument einer Tatsache und jeder Tatsache einem moeglichen Tatbestandsmerkmal zu.
+
+Pruefung: Arbeite die einschlaegigen Tatbestandsmerkmale in der Reihenfolge Norm, Tatsache, Beleg, Gegenargument, Rechtsfolge ab. Vermeide abstrakte Belehrungen; jeder Satz muss den konkreten Arbeitsgegenstand dieser Station voranbringen.
+
+Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fuer Memo, Schriftsatz, Vertrag, Beschluss, Tabelle oder Entscheidungsvermerk. Der Baustein benennt Ergebnis, Risiko und Anschlussarbeit.
+
+### 3.6. Festsetzungen: Bebauungsplan, BauNVO-Werte, Baufenster, örtliche Bauvorschriften und Befreiungsbedarf in die Planungspflichten übersetzen.
+
+Eingang: Erfasse fuer diese Station alle Dokumente, Daten, Namen, Fristen, Betraege und Belege, die den Punkt 6 tragen. Ordne jedes Dokument einer Tatsache und jeder Tatsache einem moeglichen Tatbestandsmerkmal zu.
+
+Pruefung: Arbeite die einschlaegigen Tatbestandsmerkmale in der Reihenfolge Norm, Tatsache, Beleg, Gegenargument, Rechtsfolge ab. Vermeide abstrakte Belehrungen; jeder Satz muss den konkreten Arbeitsgegenstand dieser Station voranbringen.
+
+Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fuer Memo, Schriftsatz, Vertrag, Beschluss, Tabelle oder Entscheidungsvermerk. Der Baustein benennt Ergebnis, Risiko und Anschlussarbeit.
+
+### 3.7. Arbeitsprodukt: Maengelruege, Nachtragsbewertung, Abnahmeprotokoll, Klageentwurf, Vertragsprüfung oder Gutachterfragen formulieren.
+
+Eingang: Erfasse fuer diese Station alle Dokumente, Daten, Namen, Fristen, Betraege und Belege, die den Punkt 7 tragen. Ordne jedes Dokument einer Tatsache und jeder Tatsache einem moeglichen Tatbestandsmerkmal zu.
 
 Pruefung: Arbeite die einschlaegigen Tatbestandsmerkmale in der Reihenfolge Norm, Tatsache, Beleg, Gegenargument, Rechtsfolge ab. Vermeide abstrakte Belehrungen; jeder Satz muss den konkreten Arbeitsgegenstand dieser Station voranbringen.
 
@@ -64,6 +81,10 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - BGB Paragraf 640: Abnahme.
 - BGB Paragraf 650a: Bauvertrag.
 - BGB Paragraf 650q: Architekten- und Ingenieurvertrag.
+- BauGB Paragraf 9: Festsetzungen des Bebauungsplans als Rahmen fuer Genehmigungs- und Planungsrisiken.
+- BauGB Paragraf 11 und Paragraf 12: städtebaulicher Vertrag, Durchführungsvertrag und vorhabenbezogener Bebauungsplan.
+- BauGB Paragraf 124: Erschließungsvertrag als Spezialregelung.
+- BauNVO Paragrafen 1 bis 23: Art und Maß der Nutzung, Bauweise und überbaubare Grundstücksflächen.
 
 ## 5. Leitentscheidungen
 
@@ -72,6 +93,9 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - BGH, Urteil vom 24.01.2008 - VII ZR 280/05: Bedenkenhinweis muss rechtzeitig, inhaltlich klar und adressatengerecht erfolgen.
 - BGH, Urteil vom 10.10.2013 - VII ZR 19/12: Abnahme und Abnahmereife steuern Faelligkeit und Maengelrechte.
 - BGH, Urteil vom 25.06.2015 - VII ZR 220/14: Nachtraege verlangen nachvollziehbare Grundlage und Abgrenzung vom Vertragssoll.
+- BVerwG, Urteil vom 29.01.2009 - 4 C 15.07: Folgekostenverträge können bei mehreren Plangebieten tragfähig sein, wenn ein transparentes Gesamtkonzept die Kausalität belegt.
+- BVerwG, Urteil vom 25.06.2014 - 4 CN 4.13: Bebauungsplan-Festsetzungen brauchen eine passende Rechtsgrundlage im Festsetzungskatalog.
+- BVerwG, Urteil vom 01.12.2010 - 9 C 8.09: Der Erschließungsvertrag nach BauGB Paragraf 124 ist gegenüber BauGB Paragraf 11 die speziellere Regelung.
 
 ## 6. Pruefraster
 
@@ -80,8 +104,17 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 3. Welche Maengelrechte sind nach Fristsetzung eroeffnet.
 4. Welche Bauzeit- oder Nachtragsfolge ist kausal belegt.
 5. Welche technische Frage muss ein Sachverstaendiger klaeren.
-6. Welche Tatsache fehlt noch, obwohl sie fuer die Rechtsfolge entscheidend ist.
-7. Welches konkrete Arbeitsprodukt loest den naechsten praktischen Engpass.
+6. Welche Festsetzung oder städtebauliche Vertragsbindung begrenzt Planung, Genehmigung oder Kostenweitergabe.
+7. Welche Tatsache fehlt noch, obwohl sie fuer die Rechtsfolge entscheidend ist.
+8. Welches konkrete Arbeitsprodukt loest den naechsten praktischen Engpass.
+
+### 6.1. Zusatzraster Städtebau und Festsetzungen
+
+1. Bebauungsplan lesen: Planzeichnung, textliche Festsetzungen, BauNVO-Fassung, örtliche Bauvorschriften und Begründung getrennt erfassen.
+2. Genehmigungsrisiko prüfen: BauGB Paragraf 30, Paragraf 31 und BauNVO-Werte auf Vertragssoll, Architektenpflicht und Käuferinformation übertragen.
+3. Städtebauliche Vertragslasten prüfen: Folgekosten, Erschließung, Durchführungsfristen, Sicherheiten und Rückabwicklung als Kosten- und Haftungspositionen behandeln.
+4. Bauträger- und Architektenhaftung prüfen: Wurde die planungsrechtliche Beschränkung im Vertrag, in der Baubeschreibung, in der Kostenaufstellung und in der Genehmigungsplanung transparent verarbeitet.
+5. Streitprodukt festlegen: Vertragsklausel, Risikomemo, Bedenkenhinweis, Nachtragsbewertung, Genehmigungsargumentation oder Haftungsschreiben.
 
 ## 7. Schriftsatz- und Memo-Geruest
 

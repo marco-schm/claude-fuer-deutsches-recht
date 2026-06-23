@@ -1,6 +1,6 @@
 # designrecht-geschmacksmusterrecht
 
-**51 Skills** · Stand `v383.0.0`
+**51 Skills** · Stand `v384.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/designrecht-geschmacksmusterrecht/README.md)

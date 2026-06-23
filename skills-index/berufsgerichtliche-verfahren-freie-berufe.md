@@ -1,6 +1,6 @@
 # berufsgerichtliche-verfahren-freie-berufe
 
-**100 Skills** · Stand `v383.0.0`
+**100 Skills** · Stand `v384.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/berufsgerichtliche-verfahren-freie-berufe/README.md)

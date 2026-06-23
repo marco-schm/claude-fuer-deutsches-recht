@@ -1,6 +1,6 @@
 # verbraucherinsolvenz-schuldenbereinigung
 
-**70 Skills** · Stand `v383.0.0`
+**70 Skills** · Stand `v384.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verbraucherinsolvenz-schuldenbereinigung/README.md)

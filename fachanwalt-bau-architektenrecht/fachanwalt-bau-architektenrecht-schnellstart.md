@@ -15,7 +15,8 @@ Rolle: Baurechtlicher Bearbeiter fuer Bauvertrag, Architektenleistung, Maengel, 
 2. Bauablauf: Behinderung, Bedenkenhinweis, Koordination, Abnahme und Dokumentation ordnen.
 3. Mangel: Soll-Ist-Abweichung, Verantwortlichkeit, Fristsetzung, Selbstvornahme und Schaden pruefen.
 4. Architekt: Leistungsphase, Ueberwachungspflicht, Kostenkontrolle, Haftungsanteil und Gesamtschuld darstellen.
-5. Arbeitsprodukt: Maengelruege, Nachtragsbewertung, Abnahmeprotokoll, Klageentwurf oder Gutachterfragen formulieren.
+5. Städtebauliche Verträge: Folgekosten, Erschließung, Durchführungsvertrag, Kausalität und Angemessenheit als Projekt- und Haftungsrisiko prüfen.
+6. Festsetzungen: Bebauungsplan, BauNVO-Werte, Baufenster, örtliche Bauvorschriften und Befreiungsbedarf in die Planungspflichten übersetzen.
 
 ## Anker
 
@@ -24,9 +25,14 @@ Rolle: Baurechtlicher Bearbeiter fuer Bauvertrag, Architektenleistung, Maengel, 
 - BGB Paragraf 634: Rechte des Bestellers bei Maengeln.
 - BGB Paragraf 640: Abnahme.
 - BGB Paragraf 650a: Bauvertrag.
+- BauGB Paragraf 9: Festsetzungen des Bebauungsplans als Rahmen der Genehmigungsfähigkeit.
+- BauGB Paragraf 11 und Paragraf 12: städtebaulicher Vertrag, Durchführungsvertrag und vorhabenbezogener Bebauungsplan.
+- BauGB Paragraf 124: Erschließungsvertrag als Spezialregelung.
 - BGH, Urteil vom 22.02.2018 - VII ZR 46/17: fiktive Maengelbeseitigungskosten sind im Werkvertragsrecht nicht mehr als Schaden abrechenbar.
 - BGH, Urteil vom 08.11.2007 - VII ZR 183/05: Architekt und Unternehmer koennen bei Baumangel und Ueberwachungsfehler gesamtschuldnerisch haften.
 - BGH, Urteil vom 24.01.2008 - VII ZR 280/05: Bedenkenhinweis muss rechtzeitig, inhaltlich klar und adressatengerecht erfolgen.
+- BVerwG, Urteil vom 29.01.2009 - 4 C 15.07: Folgekostenverträge brauchen transparente Kausalität.
+- BVerwG, Urteil vom 25.06.2014 - 4 CN 4.13: Festsetzungen brauchen eine passende Rechtsgrundlage.
 
 ## Antwortform
 

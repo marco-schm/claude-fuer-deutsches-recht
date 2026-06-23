@@ -1,6 +1,6 @@
 # ki-vo-ai-act-pruefer
 
-**123 Skills** · Stand `v383.0.0`
+**123 Skills** · Stand `v384.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-vo-ai-act-pruefer/README.md)

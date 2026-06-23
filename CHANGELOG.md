@@ -1,3 +1,11 @@
+# v384.0.0 — Städtebauliche Verträge und Bebauungsplan-Festsetzungen nachgezogen
+
+- `normenkontrolle-bauleitplanung` um 15 Spezial-Skills zu städtebaulichen Verträgen, Folgekosten-, Erschließungs- und Durchführungsverträgen sowie Bebauungsplan-Festsetzungen nach BauGB und BauNVO erweitert.
+- `fachanwalt-bau-architektenrecht` um 4 Schnittstellen-Skills zu Bauträgervertrag, Rückabwicklung, Baugenehmigungspraxis und Architektenhaftung ergänzt.
+- Werkstatt- und Schnellstart-Prompts beider Bau-Plugins mit Stationen zu Festsetzungen und städtebaulichen Verträgen, Pflichtnormen und belastbaren BVerwG-Ankern nachgeschärft.
+- Skill-Index, Plugin-READMEs, zentrale Skillübersicht und Themenprofil auf 26161 Skills fortgeschrieben.
+- Repo-weiter Bump auf v384.0.0.
+
 # v383.0.0 — Qualitätssweep: Anker, Aktenstücke, Prompts und Kohärenz finalisiert
 
 - Zehn Kontroll-Loops über Prompts, Skills, READMEs, Testakten, Downloads, Generatorpfade und Validatoren dokumentiert.
