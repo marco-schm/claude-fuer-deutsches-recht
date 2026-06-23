@@ -1,6 +1,6 @@
 ---
 name: kostenfeststellungsklage-verzugsschaden-erledigung
-description: "Forderungsklage nach Zahlung oder sonstiger Erledigung retten: prüft Kostenfeststellungsklage als materiellen Verzugsschaden statt reflexhafter Erledigung oder Klagerücknahme. Normen: § 91a ZPO, § 269 Abs. 3 S. 3 ZPO, Paragrafen 263 sowie 264 und 256 ZPO sowie Paragrafen 280 und 286 BGB."
+description: "Forderungsklage nach Zahlung oder sonstiger Erledigung retten: prüft Kostenfeststellungsklage als materiellen Verzugsschaden statt reflexhafter Erledigung oder Klagerücknahme. Normen: Paragraf 91a ZPO, Paragraf 269 Abs. 3 S. 3 ZPO, Paragrafen 263 sowie 264 und 256 ZPO sowie Paragrafen 280 und 286 BGB."
 ---
 
 # Kostenfeststellungsklage nach Zahlung auf die Forderung
@@ -13,20 +13,20 @@ Wenn der Schuldner bei Klageeinreichung in Verzug war, können die durch die Kla
 
 ## Normenanker
 
-- § 91a ZPO — übereinstimmende Erledigung, Kosten nach billigem Ermessen.
-- § 269 Abs. 3 Satz 3 ZPO — Kostenentscheidung, wenn der Anlass zur Klage vor Rechtshängigkeit wegfällt.
-- § 263 ZPO — sachdienliche Klageänderung.
-- § 264 Nr. 2 ZPO — zulässige Antragsumstellung ohne eigentliche Klageänderung.
-- § 256 Abs. 1 ZPO — Feststellungsinteresse bei schwer bezifferbarer Kostenhöhe.
-- § 261 Abs. 1 ZPO — Rechtshängigkeit erst mit Zustellung.
-- §§ 280 Abs. 1 und 2, 286 BGB — Verzögerungsschaden wegen Schuldnerverzugs.
-- § 288 BGB — Verzugszinsen und B2B-Verzugspauschale; getrennt von den Prozesskosten behandeln.
+- Paragraf 91a ZPO — übereinstimmende Erledigung, Kosten nach billigem Ermessen.
+- Paragraf 269 Abs. 3 Satz 3 ZPO — Kostenentscheidung, wenn der Anlass zur Klage vor Rechtshängigkeit wegfällt.
+- Paragraf 263 ZPO — sachdienliche Klageänderung.
+- Paragraf 264 Nr. 2 ZPO — zulässige Antragsumstellung ohne eigentliche Klageänderung.
+- Paragraf 256 Abs. 1 ZPO — Feststellungsinteresse bei schwer bezifferbarer Kostenhöhe.
+- Paragraf 261 Abs. 1 ZPO — Rechtshängigkeit erst mit Zustellung.
+- Paragrafen 280 Abs. 1 und 2, 286 BGB — Verzögerungsschaden wegen Schuldnerverzugs.
+- Paragraf 288 BGB — Verzugszinsen und B2B-Verzugspauschale; getrennt von den Prozesskosten behandeln.
 
 ## Entscheidungsanker
 
-- BGH, Urteil vom 18.04.2013 - III ZR 156/12: § 269 Abs. 3 Satz 3 ZPO sperrt eine materiell-rechtliche Kostenerstattungsklage nicht; der Kläger hat ein Wahlrecht, wenn die Klage vor Rechtshängigkeit erledigt wird.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12: Paragraf 269 Abs. 3 Satz 3 ZPO sperrt eine materiell-rechtliche Kostenerstattungsklage nicht; der Kläger hat ein Wahlrecht, wenn die Klage vor Rechtshängigkeit erledigt wird.
 - BGH, Beschluss vom 13.12.2006 - XII ZB 71/04: Falsche Klagerücknahme nach Zahlung kann die Kostenlast kippen; Rechtshängigkeit ist die zentrale Weiche.
-- BGH, Beschluss vom 11.01.2022 - VIII ZB 44/21: Materiell-rechtliche Kostenerstattung passt nicht beliebig in die Kostenentscheidung nach § 269 Abs. 3 Satz 2 ZPO.
+- BGH, Beschluss vom 11.01.2022 - VIII ZB 44/21: Materiell-rechtliche Kostenerstattung passt nicht beliebig in die Kostenentscheidung nach Paragraf 269 Abs. 3 Satz 2 ZPO.
 - OLG Karlsruhe, Urteil vom 20.05.2026 - 7 U 173/25: Aktueller Anker für die Umstellung auf Feststellung der Kostenerstattungspflicht nach Erledigung vor Rechtshängigkeit; Fundstelle vor Schriftsatzverwendung live verifizieren.
 
 ## Arbeitsablauf
@@ -37,10 +37,10 @@ Wenn der Schuldner bei Klageeinreichung in Verzug war, können die durch die Kla
 
 2. **Verzug beweisen.**
    - Mahnung, Fristablauf, kalendermäßige Fälligkeit oder endgültige Leistungsverweigerung belegen.
-   - Ohne Verzug keine sichere materielle Kostenerstattung aus §§ 280, 286 BGB.
+   - Ohne Verzug keine sichere materielle Kostenerstattung aus Paragrafen 280, 286 BGB.
 
 3. **Erklärung wählen.**
-   - Vor Rechtshängigkeit: § 269 Abs. 3 Satz 3 ZPO ist möglich, aber nicht zwingend; Kostenfeststellungsklage prüfen.
+   - Vor Rechtshängigkeit: Paragraf 269 Abs. 3 Satz 3 ZPO ist möglich, aber nicht zwingend; Kostenfeststellungsklage prüfen.
    - Nach Rechtshängigkeit: übereinstimmende oder einseitige Erledigung prüfen; materielle Kostenspur nur nach sorgfältigem Abgleich mit Streitstand und Rechtsprechung wählen.
    - Bei offener Beweisfrage kann die Kostenfeststellungsklage besser sein als eine summarische Kostenaufhebung.
 
@@ -59,7 +59,7 @@ Es wird festgestellt, dass die Beklagte verpflichtet ist, der Klägerin die durc
 ## Muster: Begründung im Forderungsfall
 
 ```text
-Die Beklagte befand sich bei Einreichung der Klage in Schuldnerverzug. Die Klägerin hatte die Beklagte mit Schreiben vom [Datum] unter Fristsetzung bis zum [Datum] zur Zahlung aufgefordert. Die Frist verstrich fruchtlos. Die Zahlung ging erst nach Klageeinreichung ein. Die Klage war daher durch das Verzugsverhalten der Beklagten veranlasst. Die durch die Klageeinreichung entstandenen Kosten sind notwendige Rechtsverfolgungskosten und nach §§ 280 Abs. 1 und 2, 286 BGB zu ersetzen.
+Die Beklagte befand sich bei Einreichung der Klage in Schuldnerverzug. Die Klägerin hatte die Beklagte mit Schreiben vom [Datum] unter Fristsetzung bis zum [Datum] zur Zahlung aufgefordert. Die Frist verstrich fruchtlos. Die Zahlung ging erst nach Klageeinreichung ein. Die Klage war daher durch das Verzugsverhalten der Beklagten veranlasst. Die durch die Klageeinreichung entstandenen Kosten sind notwendige Rechtsverfolgungskosten und nach Paragrafen 280 Abs. 1 und 2, 286 BGB zu ersetzen.
 ```
 
 ## Schnellcheck vor Versand

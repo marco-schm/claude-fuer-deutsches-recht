@@ -1,6 +1,6 @@
 ---
 name: kostenfeststellungsklage-verzugsschaden-erledigung
-description: "Kostenfeststellungsklage nach Erledigung des ursprünglichen Klagebegehrens: Wahl zwischen § 91a ZPO, § 269 Abs. 3 S. 3 ZPO und materiell-rechtlicher Kostenerstattung als Verzugsschaden nach Paragrafen 280 und 286 BGB. Prüft Zahlung, Aufrechnung, dauernde Einrede, Unmöglichkeit und Wegfall Rechtsschutzbedürfnis vor oder nach Rechtshängigkeit."
+description: "Kostenfeststellungsklage nach Erledigung des ursprünglichen Klagebegehrens: Wahl zwischen Paragraf 91a ZPO, Paragraf 269 Abs. 3 S. 3 ZPO und materiell-rechtlicher Kostenerstattung als Verzugsschaden nach Paragrafen 280 und 286 BGB. Prüft Zahlung, Aufrechnung, dauernde Einrede, Unmöglichkeit und Wegfall Rechtsschutzbedürfnis vor oder nach Rechtshängigkeit."
 ---
 
 # Kostenfeststellungsklage bei erledigter Hauptsache als Verzugsschaden
@@ -9,24 +9,24 @@ description: "Kostenfeststellungsklage nach Erledigung des ursprünglichen Klage
 
 Dieser Skill greift, wenn nach Klageeinreichung der ursprüngliche Antrag nicht mehr sinnvoll aufrechterhalten werden kann: Die Gegenseite zahlt, rechnet auf, erhebt eine dauerhafte Einrede, die Leistung wird unmöglich oder das Rechtsschutzbedürfnis fällt weg. In solchen Fällen darf die Klägerseite nicht reflexhaft erledigen oder zurücknehmen. Zuerst ist zu prüfen, ob die Kosten des Klageverfahrens als materiell-rechtlicher Verzugsschaden weiterverfolgt werden können.
 
-Der praktische Kniff lautet: War die Gegenseite bei Klageeinreichung in Verzug und war die Klage deshalb veranlasst, kann der Kläger sein Begehren auf Feststellung umstellen, dass die Beklagte die Kosten des Rechtsstreits beziehungsweise die durch die Klageeinreichung entstandenen Rechtsverfolgungskosten zu tragen hat. Das ist keine normale Kostenfestsetzung nach §§ 103, 104 ZPO, sondern eine materiell-rechtliche Feststellungsklage.
+Der praktische Kniff lautet: War die Gegenseite bei Klageeinreichung in Verzug und war die Klage deshalb veranlasst, kann der Kläger sein Begehren auf Feststellung umstellen, dass die Beklagte die Kosten des Rechtsstreits beziehungsweise die durch die Klageeinreichung entstandenen Rechtsverfolgungskosten zu tragen hat. Das ist keine normale Kostenfestsetzung nach Paragrafen 103, 104 ZPO, sondern eine materiell-rechtliche Feststellungsklage.
 
 ## Normenanker
 
-- § 91a ZPO — Kostenentscheidung nach übereinstimmender Erledigungserklärung; nur summarische Billigkeitsentscheidung nach bisherigem Sach- und Streitstand.
-- § 269 Abs. 3 Satz 3 ZPO — Kostenentscheidung nach Wegfall des Klageanlasses vor Rechtshängigkeit; ebenfalls ermessens- und summarisch geprägt.
-- § 263 ZPO — Klageänderung, wenn Einwilligung oder Sachdienlichkeit vorliegt.
-- § 264 Nr. 2 ZPO — keine Klageänderung bei bloßer Erweiterung oder Beschränkung des Klageantrags in der Hauptsache oder in Nebenforderungen.
-- § 256 Abs. 1 ZPO — Feststellungsinteresse; relevant, wenn die genaue Kostenhöhe noch nicht beziffert werden soll.
-- § 261 Abs. 1 ZPO — Rechtshängigkeit tritt mit Zustellung der Klageschrift ein, nicht schon mit Eingang bei Gericht.
-- §§ 280 Abs. 1 und 2, 286 BGB — Ersatz des Verzögerungsschadens; hierzu können notwendige Rechtsverfolgungskosten gehören.
-- § 104 ZPO — spätere Bezifferung im Kostenfestsetzungsverfahren, wenn ein tragfähiger Kostengrundtitel vorliegt.
+- Paragraf 91a ZPO — Kostenentscheidung nach übereinstimmender Erledigungserklärung; nur summarische Billigkeitsentscheidung nach bisherigem Sach- und Streitstand.
+- Paragraf 269 Abs. 3 Satz 3 ZPO — Kostenentscheidung nach Wegfall des Klageanlasses vor Rechtshängigkeit; ebenfalls ermessens- und summarisch geprägt.
+- Paragraf 263 ZPO — Klageänderung, wenn Einwilligung oder Sachdienlichkeit vorliegt.
+- Paragraf 264 Nr. 2 ZPO — keine Klageänderung bei bloßer Erweiterung oder Beschränkung des Klageantrags in der Hauptsache oder in Nebenforderungen.
+- Paragraf 256 Abs. 1 ZPO — Feststellungsinteresse; relevant, wenn die genaue Kostenhöhe noch nicht beziffert werden soll.
+- Paragraf 261 Abs. 1 ZPO — Rechtshängigkeit tritt mit Zustellung der Klageschrift ein, nicht schon mit Eingang bei Gericht.
+- Paragrafen 280 Abs. 1 und 2, 286 BGB — Ersatz des Verzögerungsschadens; hierzu können notwendige Rechtsverfolgungskosten gehören.
+- Paragraf 104 ZPO — spätere Bezifferung im Kostenfestsetzungsverfahren, wenn ein tragfähiger Kostengrundtitel vorliegt.
 
 ## Entscheidungsanker
 
-- BGH, Urteil vom 18.04.2013 - III ZR 156/12: Die Möglichkeit eines Kostenantrags nach § 269 Abs. 3 Satz 3 und Abs. 4 ZPO hindert eine materiell-rechtliche Kostenerstattungsklage nicht; der summarische Kostenweg ist nicht gleich sicher und wirkungsvoll.
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12: Die Möglichkeit eines Kostenantrags nach Paragraf 269 Abs. 3 Satz 3 und Abs. 4 ZPO hindert eine materiell-rechtliche Kostenerstattungsklage nicht; der summarische Kostenweg ist nicht gleich sicher und wirkungsvoll.
 - BGH, Beschluss vom 13.12.2006 - XII ZB 71/04: Wer nach Rechtshängigkeit trotz nachträglicher Zahlung die Klage zurücknimmt, kann kostenrechtlich in die falsche Spur geraten; Zeitpunkt der Rechtshängigkeit sauber prüfen.
-- BGH, Beschluss vom 11.01.2022 - VIII ZB 44/21: Materiell-rechtliche Kostenerstattungsansprüche werden nicht beliebig in die prozessuale Kostenentscheidung nach § 269 Abs. 3 Satz 2 ZPO hineingezogen; die Verfahrensspur muss bewusst gewählt werden.
+- BGH, Beschluss vom 11.01.2022 - VIII ZB 44/21: Materiell-rechtliche Kostenerstattungsansprüche werden nicht beliebig in die prozessuale Kostenentscheidung nach Paragraf 269 Abs. 3 Satz 2 ZPO hineingezogen; die Verfahrensspur muss bewusst gewählt werden.
 - OLG Karlsruhe, Urteil vom 20.05.2026 - 7 U 173/25: Nach Wegfall des Klageanlasses vor Rechtshängigkeit kann eine Klageänderung auf Feststellung der Kostenerstattungspflicht zulässig sein; vor Verwendung die frei zugängliche amtliche Veröffentlichung oder eine andere verlässliche Fundstelle live verifizieren.
 
 ## Prüfungsworkflow
@@ -38,13 +38,13 @@ Der praktische Kniff lautet: War die Gegenseite bei Klageeinreichung in Verzug u
 
 2. **Klageanlass bei Einreichung prüfen.**
    - War die Forderung fällig?
-   - Lag Verzug nach § 286 BGB vor?
+   - Lag Verzug nach Paragraf 286 BGB vor?
    - Gab es eine Mahnung, Fristsetzung, kalendermäßige Leistungszeit oder ernsthafte und endgültige Leistungsverweigerung?
    - Hatte die Klägerseite ohne Klage vernünftigerweise nicht mit freiwilliger Erfüllung zu rechnen?
 
 3. **Prozessuale Standardwege gegen den materiellen Kostenweg stellen.**
-   - Übereinstimmende Erledigung nach § 91a ZPO führt nur zu einer Billigkeitsentscheidung und regelmäßig nicht zu voller Beweisaufnahme.
-   - Klagerücknahme mit Kostenantrag nach § 269 Abs. 3 Satz 3 ZPO kann bei Wegfall vor Rechtshängigkeit richtig sein, bleibt aber summarisch.
+   - Übereinstimmende Erledigung nach Paragraf 91a ZPO führt nur zu einer Billigkeitsentscheidung und regelmäßig nicht zu voller Beweisaufnahme.
+   - Klagerücknahme mit Kostenantrag nach Paragraf 269 Abs. 3 Satz 3 ZPO kann bei Wegfall vor Rechtshängigkeit richtig sein, bleibt aber summarisch.
    - Die Kostenfeststellungsklage hält den materiell-rechtlichen Schadensersatzanspruch offen und kann strategisch besser sein, wenn Verzug, Veranlassung und Kausalität gut belegbar sind.
 
 4. **Klageänderung formulieren.**
@@ -73,16 +73,16 @@ Es wird festgestellt, dass die Beklagte die Kosten des Rechtsstreits zu tragen h
 ### Begründungsbaustein
 
 ```text
-Die Klägerin hält an dem ursprünglichen Zahlungsantrag nicht mehr fest, weil die Beklagte die Hauptforderung nach Klageeinreichung erfüllt hat. Bei Einreichung der Klage befand sich die Beklagte jedoch aufgrund der Mahnung vom [Datum] und des fruchtlosen Fristablaufs am [Datum] in Verzug. Die Klage war deshalb zur zweckentsprechenden Rechtsverfolgung veranlasst. Die durch die Klageeinreichung entstandenen Kosten sind haftungsausfüllend kausal auf den Verzug zurückzuführen und nach §§ 280 Abs. 1 und 2, 286 BGB zu ersetzen. Die Klägerin ist nicht auf eine summarische Kostenentscheidung nach § 269 Abs. 3 Satz 3 ZPO oder § 91a ZPO beschränkt, weil diese Verfahren den materiell-rechtlichen Kostenerstattungsanspruch nicht mit gleicher Richtigkeitsgewähr klären.
+Die Klägerin hält an dem ursprünglichen Zahlungsantrag nicht mehr fest, weil die Beklagte die Hauptforderung nach Klageeinreichung erfüllt hat. Bei Einreichung der Klage befand sich die Beklagte jedoch aufgrund der Mahnung vom [Datum] und des fruchtlosen Fristablaufs am [Datum] in Verzug. Die Klage war deshalb zur zweckentsprechenden Rechtsverfolgung veranlasst. Die durch die Klageeinreichung entstandenen Kosten sind haftungsausfüllend kausal auf den Verzug zurückzuführen und nach Paragrafen 280 Abs. 1 und 2, 286 BGB zu ersetzen. Die Klägerin ist nicht auf eine summarische Kostenentscheidung nach Paragraf 269 Abs. 3 Satz 3 ZPO oder Paragraf 91a ZPO beschränkt, weil diese Verfahren den materiell-rechtlichen Kostenerstattungsanspruch nicht mit gleicher Richtigkeitsgewähr klären.
 ```
 
 ## Fallstricke
 
 - **Verzug fehlt:** Ohne Verzug oder sonstige materiell-rechtliche Kostengrundlage bleibt nur das prozessuale Kostenregime.
 - **Zahlung war vor Klageeinreichung bekannt:** Dann ist die Klage möglicherweise nicht veranlasst; die Kostenfeststellungsklage wird gefährlich.
-- **Nur prozessuale Kostenformel beantragt:** Der Antrag muss als materiell-rechtlicher Feststellungsantrag verständlich sein, sonst rutscht das Gericht zurück in § 91a ZPO oder § 269 ZPO.
+- **Nur prozessuale Kostenformel beantragt:** Der Antrag muss als materiell-rechtlicher Feststellungsantrag verständlich sein, sonst rutscht das Gericht zurück in Paragraf 91a ZPO oder Paragraf 269 ZPO.
 - **Kosten doppelt geltend gemacht:** Keine bezifferte Leistungsklage auf Kosten so formulieren, dass daneben im Kostenfestsetzungsverfahren dieselben Kosten noch einmal auftauchen.
-- **Offene Beweisfragen:** Gerade wenn § 91a ZPO oder § 269 Abs. 3 Satz 3 ZPO wegen offener Beweisaufnahme zur Kostenaufhebung führen könnte, ist die materielle Kostenspur strategisch wertvoll.
+- **Offene Beweisfragen:** Gerade wenn Paragraf 91a ZPO oder Paragraf 269 Abs. 3 Satz 3 ZPO wegen offener Beweisaufnahme zur Kostenaufhebung führen könnte, ist die materielle Kostenspur strategisch wertvoll.
 
 ## Output
 
@@ -90,7 +90,7 @@ Erzeuge ein kurzes Prozessstrategie-Memo mit:
 
 1. Zeitachse Anhängigkeit, Rechtshängigkeit und erledigendes Ereignis.
 2. Verzugslage und Klageveranlassung.
-3. Entscheidungsmatrix § 91a ZPO, § 269 Abs. 3 Satz 3 ZPO, Kostenfeststellungsklage.
+3. Entscheidungsmatrix Paragraf 91a ZPO, Paragraf 269 Abs. 3 Satz 3 ZPO, Kostenfeststellungsklage.
 4. Empfohlenem Antrag.
 5. Ausformuliertem Schriftsatzbaustein.
 6. Haftungsnotiz für die Handakte.
