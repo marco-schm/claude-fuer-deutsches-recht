@@ -1,3 +1,15 @@
+# v387.0.0 — Handkuratierte Prompts gegen den Generator abgesichert
+
+Behebt eine Sollbruchstelle: bislang haette ein erneuter Lauf von generate-werkstatt-und-schnellstart-prompts.py mit force jede von Hand veredelte Werkstatt- oder Schnellstart-Datei wieder mit Generator-Standardtext ueberschrieben.
+
+- Neue Schutzliste scripts/handkuratierte-prompts.txt: ein Plugin-Slug je Zeile, Kommentarzeilen mit Doppelkreuz erlaubt. Plugins auf dieser Liste pflegt man von Hand.
+- Der Generator liest die Liste und ueberspringt gelistete Plugins, statt ihre Werkstatt- und Schnellstart-Dateien zu ueberschreiben. Er meldet sie ausdruecklich als handkuratiert und uebersprungen. Der Lauf gibt jetzt geschrieben 456, uebersprungen 2 aus, weil das Plugin mietrecht geschuetzt ist.
+- Damit bleibt die in v386 handkuratierte mietrecht-Werkstatt auch nach einem kuenftigen Generatorlauf erhalten. Ein Selbsttest mit Hash-Vergleich vor und nach dem Lauf bestaetigt, dass die Datei unveraendert bleibt; die uebrigen 456 Prompts werden byte-identisch neu erzeugt.
+- Keine Marker in den Prompt-Dateien selbst, da spitze Klammern dort nicht zulaessig sind; die Steuerung liegt vollstaendig in der separaten Liste.
+- Repo-weiter Versions-Bump auf v387.0.0.
+
+---
+
 # v386.0.0 — Handkuratierte Eloquenz-Veredelung: Mietrecht-Werkstatt auf Spitzenniveau
 
 Triage statt Breitensweep. Befund: Die Stationen der Werkstatt-Prompts tragen themenscharfe Ueberschriften, aber die Bodies aus Eingang, Pruefung und Arbeitsprodukt waren generatorbedingt wortgleiches Boilerplate, fuenffach je Prompt wiederholt. Das ist der Hebel.

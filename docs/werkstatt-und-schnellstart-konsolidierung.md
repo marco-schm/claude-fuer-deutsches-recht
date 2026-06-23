@@ -2,7 +2,7 @@
 
 Diese Übersicht dokumentiert die Konsolidierung auf genau einen großen Werkstatt-Prompt und genau einen kleinen Schnellstart-Prompt pro Plugin.
 
-Stand v386.0.0: Alle 229 Plugins haben genau einen Werkstatt-Prompt und genau einen Schnellstart-Prompt. Die Schnellstart-Prompts sind zusätzlich als ladbare Skills gespiegelt; Werkstatt-Prompts bleiben reine Markdown-Werkzeuge. Die Bauleitplanungs- und Bauanwalt-Prompts wurden um städtebauliche Verträge und Bebauungsplan-Festsetzungen ergänzt; die lokalen Zielchecks für die betroffenen Prompt- und Skilldateien sind durchgelaufen.
+Stand v387.0.0: Alle 229 Plugins haben genau einen Werkstatt-Prompt und genau einen Schnellstart-Prompt. Die Schnellstart-Prompts sind zusätzlich als ladbare Skills gespiegelt; Werkstatt-Prompts bleiben reine Markdown-Werkzeuge. Die Bauleitplanungs- und Bauanwalt-Prompts wurden um städtebauliche Verträge und Bebauungsplan-Festsetzungen ergänzt; die lokalen Zielchecks für die betroffenen Prompt- und Skilldateien sind durchgelaufen.
 
 | Plugin | Werkstatt-Kandidaten vorher | Schnellstart-Kandidaten vorher | Gewählte Werkstatt-Datei | Gewählte Schnellstart-Datei | Quelle Werkstatt | Quelle Schnellstart | Gelöschte Reste | Schnellstart-Zeichen | Werkstatt-Zeilen | ZIP-Assets vorhanden |
 | --- | ---: | ---: | --- | --- | --- | --- | ---: | ---: | ---: | --- |

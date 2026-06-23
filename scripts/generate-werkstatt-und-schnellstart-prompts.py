@@ -22,6 +22,22 @@ from themen_profile import profile_for, ThemenProfil
 REPO = Path(__file__).resolve().parent.parent
 MAX_FAST = 7500
 
+# Plugins, deren Werkstatt- und Schnellstart-Markdown von Hand gepflegt werden.
+# Der Generator ueberschreibt sie nicht; er meldet sie als uebersprungen.
+PROTECTED_LIST = Path(__file__).resolve().parent / "handkuratierte-prompts.txt"
+
+
+def load_protected() -> set[str]:
+    if not PROTECTED_LIST.exists():
+        return set()
+    slugs: set[str] = set()
+    for raw in PROTECTED_LIST.read_text(encoding="utf-8").splitlines():
+        line = raw.strip()
+        if not line or line.startswith("#"):
+            continue
+        slugs.add(line)
+    return slugs
+
 
 BAD_WORDS = (
     "s" + "crape",
@@ -405,11 +421,19 @@ def write_readme_links(plugin_dir: Path) -> None:
 
 def main() -> int:
     dirs = plugin_dirs()
+    protected = load_protected()
     written = 0
+    skipped = 0
+    skipped_slugs: list[str] = []
     problems: list[str] = []
     for plugin_dir in dirs:
         mf = manifest(plugin_dir)
         slug = mf.get("name") or plugin_dir.name
+        if slug in protected:
+            # Handkuratierte Prompts bleiben unveraendert, auch bei --force.
+            skipped += 2
+            skipped_slugs.append(slug)
+            continue
         werkstatt = build_werkstatt(plugin_dir)
         schnell = build_schnellstart(plugin_dir)
         if len(schnell) > MAX_FAST:
@@ -422,7 +446,9 @@ def main() -> int:
         for p in problems:
             print("-", p)
         return 1
-    print(f"geschrieben: {written}, uebersprungen: 0, Probleme: keine")
+    if skipped_slugs:
+        print("Handkuratiert, uebersprungen: " + ", ".join(sorted(skipped_slugs)))
+    print(f"geschrieben: {written}, uebersprungen: {skipped}, Probleme: keine")
     return 0
 
 

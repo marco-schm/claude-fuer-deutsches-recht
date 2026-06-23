@@ -1,0 +1,14 @@
+# Handkuratierte Werkstatt- und Schnellstart-Prompts.
+#
+# Plugins (Slug, einer je Zeile), deren Werkstatt- und Schnellstart-Markdown
+# von Hand gepflegt werden. Der Generator generate-werkstatt-und-schnellstart-prompts.py
+# ueberschreibt diese Dateien NICHT, auch nicht mit --force. Er meldet sie als
+# uebersprungen. So gehen handkuratierte Stationen, Pruefraster und Bausteine bei
+# einem spaeteren Generatorlauf nicht verloren.
+#
+# Eine Zeile, die mit einem Doppelkreuz beginnt, ist ein Kommentar und wird ignoriert.
+# Leere Zeilen werden ignoriert.
+#
+# Eintrag entfernen, wenn ein Plugin wieder vollautomatisch generiert werden soll.
+
+mietrecht

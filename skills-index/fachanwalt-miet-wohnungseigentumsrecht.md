@@ -1,6 +1,6 @@
 # fachanwalt-miet-wohnungseigentumsrecht
 
-**381 Skills** · Stand `v386.0.0`
+**381 Skills** · Stand `v387.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-miet-wohnungseigentumsrecht/README.md)

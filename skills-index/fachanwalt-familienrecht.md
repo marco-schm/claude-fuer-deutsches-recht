@@ -1,6 +1,6 @@
 # fachanwalt-familienrecht
 
-**156 Skills** · Stand `v386.0.0`
+**156 Skills** · Stand `v387.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-familienrecht/README.md)
