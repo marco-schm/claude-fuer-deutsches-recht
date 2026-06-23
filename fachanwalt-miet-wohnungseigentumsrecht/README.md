@@ -1,5 +1,4 @@
 # Fachanwalt Miet- und Wohnungseigentumsrecht
-
 Wenn du das hier oeffnest, willst du eine fristlose Kuendigung wegen Zahlungsverzug rechtssicher aussprechen oder abwehren.
 
 <!-- BEGIN direkt-loslegen (autogen) -->

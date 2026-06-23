@@ -1,5 +1,4 @@
 # Fachanwalt Insolvenz- und Sanierungsrecht
-
 Wenn du das hier oeffnest, willst du Eroeffnungsgrund und Fortbestehensprognose belastbar bestimmen und den naechsten Verfahrensschritt waehlen.
 
 <!-- BEGIN direkt-loslegen (autogen) -->

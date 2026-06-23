@@ -1,5 +1,4 @@
 # verfassungsrecht
-
 Wenn du das hier oeffnest, willst du eine Grundrechtsruege zulaessig und schluessig begruenden.
 
 <!-- BEGIN direkt-loslegen (autogen) -->

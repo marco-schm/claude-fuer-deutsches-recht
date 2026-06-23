@@ -1,5 +1,4 @@
 # Liquiditätsplanung — Power-Plugin
-
 Wenn du das hier oeffnest, willst du eine belastbare Liquiditaetsplanung aufstellen und drohende Zahlungsunfaehigkeit fruehzeitig erkennen.
 
 <!-- BEGIN direkt-loslegen (autogen) -->

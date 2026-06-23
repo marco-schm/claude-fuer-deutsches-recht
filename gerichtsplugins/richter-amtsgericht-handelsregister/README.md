@@ -1,5 +1,4 @@
 # Handelsregisterrichter am Amtsgericht
-
 Wenn du das hier oeffnest, willst du eine gesellschaftsrechtliche Massnahme rechtssicher beschliessen und dokumentieren.
 
 <!-- BEGIN direkt-loslegen (autogen) -->

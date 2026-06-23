@@ -1,3 +1,13 @@
+# v389.0.0 — Sanity-Fix: Oeffnungssatz direkt unter H1 und HTML-Download-Korrektur erhalten
+
+- Plugin-READMEs nach dem Oeffnungssatzlauf formal geglaettet: der Satz steht jetzt unmittelbar unter der H1, ohne Leerzeile, und bleibt wortgleich mit Werkstatt- und Schnellstart-Prompt.
+- Den parallelen HTML-Download-Fix fuer Werkstatt- und Schnellstart-Links beibehalten und darauf den Versionsstand v389.0.0 gesetzt.
+- Repo-weite Oeffnungssatz-Kontrolle: 229 Plugins, 0 Abweichungen, maximale Schnellstart-Laenge 2932 Zeichen.
+- Strukturvalidator und YAML-Frontmatter-Validator laufen gruen.
+- Repo-weiter Versions-Bump auf v389.0.0.
+
+---
+
 # v388.0.0 — i-Tuepfelchen: der Oeffnungssatz Wenn du das hier oeffnest
 
 Jedes Plugin traegt jetzt ganz oben einen einzigen, themenscharfen Satz nach dem Muster Wenn du das hier oeffnest, willst du, der das konkrete Arbeitsergebnis benennt. Wortgleich in drei Dateien: README, Werkstatt-Prompt, Schnellstart-Prompt.

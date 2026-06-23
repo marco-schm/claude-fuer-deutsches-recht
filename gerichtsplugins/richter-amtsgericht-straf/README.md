@@ -1,5 +1,4 @@
 # Richter Amtsgericht Strafsachen
-
 Wenn du das hier oeffnest, willst du einen Tatvorwurf entlang von Beweiswuerdigung und Strafzumessung durchdringen und einen verwertbaren Schriftsatz bauen.
 
 <!-- BEGIN direkt-loslegen (autogen) -->

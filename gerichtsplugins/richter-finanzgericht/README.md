@@ -1,5 +1,4 @@
 # Finanzgericht
-
 Wenn du das hier oeffnest, willst du einen Steuerbescheid pruefen und Einspruch oder Klage tragfaehig begruenden.
 
 <!-- BEGIN direkt-loslegen (autogen) -->

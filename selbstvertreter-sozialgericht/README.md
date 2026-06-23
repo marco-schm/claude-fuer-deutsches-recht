@@ -1,5 +1,4 @@
 # selbstvertreter-sozialgericht
-
 Wenn du das hier oeffnest, willst du einen Sozialleistungsbescheid angreifen und den Anspruch durchsetzen.
 
 <!-- BEGIN direkt-loslegen (autogen) -->

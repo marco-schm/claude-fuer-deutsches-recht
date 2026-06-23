@@ -1,5 +1,4 @@
 # ZVG-Zwangsverwaltung - Verwalter-Cockpit
-
 Wenn du das hier oeffnest, willst du einen Verwaltungsakt anfechten und vorlaeufigen Rechtsschutz erreichen.
 
 <!-- BEGIN direkt-loslegen (autogen) -->

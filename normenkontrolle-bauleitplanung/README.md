@@ -1,5 +1,4 @@
 # Normenkontrolle Bauleitplanung — § 47 VwGO
-
 Wenn du das hier oeffnest, willst du einen Bebauungsplan oder staedtebaulichen Vertrag auf Festsetzungen und Fehler pruefen.
 
 <!-- BEGIN direkt-loslegen (autogen) -->

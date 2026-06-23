@@ -1,5 +1,4 @@
 # Fachanwalt Familienrecht
-
 Wenn du das hier oeffnest, willst du Versorgungsausgleich, Zugewinn und Unterhalt sauber durchrechnen und beantragen.
 
 <!-- BEGIN direkt-loslegen (autogen) -->

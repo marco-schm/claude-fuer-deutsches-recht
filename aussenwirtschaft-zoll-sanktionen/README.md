@@ -1,5 +1,4 @@
 # Außenwirtschaft, Sanktionen, Zoll und CBAM
-
 Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
