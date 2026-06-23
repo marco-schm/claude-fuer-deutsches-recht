@@ -15,5 +15,3 @@ Steuerpflichtige: Edelholz Berlin GmbH, Sägewerkstrasse 12, 12683 Musterstadt
 | | Summe der Rueckstaende | | 48.214 |
 
 Auf die vorgenannten Rueckstaende ist am 22.04.2026 eine Ratenzahlungsvereinbarung geschlossen worden (vergleiche Anlage K 3). Die erste Rate ist nach dem internen Buchungsstand am 30.04.2026 eingegangen; eine vollstaendige Tilgung ist bis zum vereinbarten Endtermin noch nicht erfolgt.
-
-Hinweis fuer die Akte: Streitig ist, ob die Ratenzahlungsvereinbarung und die erste Ratenzahlung die zuvor entstandene Unzuverlaessigkeit beseitigen. Die Entwicklung der Rueckstaende und der Stand der Ratenzahlung sind durch Beiziehung der Steuerakte aufzuklaeren.

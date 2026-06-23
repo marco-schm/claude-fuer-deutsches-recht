@@ -34,6 +34,11 @@ Prozessrechtliche Skills für Mandate, Fristen, Mahnbescheid, Eilverfahren, Voll
 - BGH VI ZR 184/10
 - BGH VI ZR 226/16
 
+## Zusätzlicher Anker
+
+- BGH, Urteil vom 18.04.2013, III ZR 156/12: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Absatz 3 Satz 3 ZPO möglich.
+- OLG Karlsruhe, Urteil vom 20.05.2026, 7 U 173/25: Der Kläger kann nach Erfüllung vor Rechtshängigkeit auf Feststellung umstellen, dass der Beklagte die Kosten als Verzugsschaden zu tragen hat; vor Verwendung frei zugängliche Quelle live verifizieren.
+
 ## Antwortform
 
 - Lagebild: Rollen, Ziel, Frist, Aktenstand.

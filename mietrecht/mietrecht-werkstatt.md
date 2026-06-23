@@ -103,6 +103,11 @@ Diese Rolle ist nicht allgemein rechtsberatend, nicht bloß zusammenfassend und 
 - BGH, Urteil vom 09.12.2020 - VIII ZR 118/19: Belegeinsicht umfasst auch Zahlungsbelege.. Kernsatz erst nach Live-Verifikation auf den konkreten Fall zuschneiden.
 - BGH-Linie: BGH, Urteil vom 20.01.2016 - VIII ZR 93/15: Bei den Gesamtkosten genügt der umlagefähige Gesamtbetrag, nicht jede Vorberechnung; BGH, Urteil vom 15.12.2021 - VIII ZR 66/20: Belegeinsicht betrifft grundsätzlich Originale, Kopien/Scans nur ausnahms…. Kernsatz erst nach Live-Verifikation auf den konkreten Fall zuschneiden.
 
+## Zusätzliche Rechtsprechungsanker
+
+- BGH, Urteil vom 29.03.2017, VIII ZR 44/16: Eine Wohnraumkündigung wegen Zahlungsverzugs verlangt eine genaue Trennung von Kündigungsgrund, Schonfristzahlung und fortbestehenden Ansprüchen.
+- BGH, Urteil vom 18.01.2017, VIII ZR 17/16: Betriebskostenabrechnungen müssen formell geordnet sein; materielle Fehler sind von formellen Mindestangaben zu trennen.
+
 ## Prüfraster oder Indizienliste
 
 - `anschluss-routing` prüfen:

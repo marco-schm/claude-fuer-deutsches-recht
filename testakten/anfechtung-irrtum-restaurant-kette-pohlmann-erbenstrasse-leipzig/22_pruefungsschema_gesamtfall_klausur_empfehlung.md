@@ -1,14 +1,14 @@
-# Gesamtfall-Prüfungsschema und Klausurempfehlung — BGB AT Pohlmann / Erbenstraße Leipzig
+# Gesamtfall-Prüfungsvermerk — BGB AT Pohlmann / Erbenstraße Leipzig
 
 **Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg
 **Datum:** 20. Mai 2026
-**Bezug:** Zusammenfassung und Klausur-Vorbereitung für `bgb-at-pruefer`; alle AT-Komplexe der Akte
+**Bezug:** Zusammenfassung der AT-Komplexe der Akte zur weiteren schriftsätzlichen und taktischen Bearbeitung
 
 ---
 
-## I. Fallübersicht und didaktischer Mehrwert
+## I. Fallübersicht und Prüfungsbedarf
 
-Diese Akte deckt alle zentralen Gebiete des Allgemeinen Teils des BGB ab. Für Klausuren im BGB AT bietet der Fall Pohlmann-Ofenkaess folgende Schwerpunkte:
+Die Akte Pohlmann-Ofenkaess bündelt mehrere Streitpunkte aus dem Allgemeinen Teil des BGB. Für die weitere Bearbeitung sind folgende Komplexe getrennt zu prüfen:
 
 | BGB-AT-Komplex | Aktenstücke | Paragrafen |
 |---|---|---|
@@ -29,19 +29,19 @@ Diese Akte deckt alle zentralen Gebiete des Allgemeinen Teils des BGB ab. Für K
 
 ---
 
-## II. Klausur-Empfehlung: Gutachtenstil vs. Urteilsstil
+## II. Prüfungsstil: Gutachtenstil und Urteilsstil
 
-### Gutachtenstil (Klausurstandard)
+### Gutachtenstil
 
-Im Gutachtenstil wird die Rechtsfrage **hypothetisch** beantwortet: erst Definition, dann Subsumtion, dann Ergebnis.
+Im Gutachtenstil wird die Rechtsfrage hypothetisch beantwortet: erst Definition, dann Subsumtion, dann Ergebnis.
 
 **Formel:** „[Anspruchsinhaber] könnte gegen [Anspruchsgegner] einen Anspruch auf [Leistung] aus [Anspruchsgrundlage] haben."
 
-### Urteilsstil (für feststehende Sachverhalte)
+### Urteilsstil
 
 Der Urteilsstil setzt das Ergebnis voraus und begründet dann: „[Person] hat einen Anspruch aus [AGL], weil ..."
 
-**Regel:** In BGB-AT-Klausuren immer Gutachtenstil; im Urteil Urteilsstil.
+**Regel für diese Akte:** Offene Anspruchsfragen werden im Gutachtenstil vorbereitet; feststehende Sachverhaltsabschnitte können im späteren Entwurf im Urteilsstil verdichtet werden.
 
 ---
 
@@ -69,27 +69,27 @@ Der Pachtvertrag gilt als von Anfang an nichtig. P schuldet R Vertrauensschaden 
 
 ---
 
-## IV. Klausur-Stolpersteine im Fall Pohlmann
+## IV. Fehlerquellen im Fall Pohlmann
 
-### Stolperstein 1: § 122 BGB immer prüfen
+### Fehlerquelle 1: § 122 BGB nach Anfechtung nicht vergessen
 
-Nach wirksamer Anfechtung gem. §§ 119, 120 BGB entsteht automatisch Haftung aus § 122 BGB. In der Klausur **muss** § 122 BGB angeprüft werden, sonst ist die Prüfung unvollständig. (Bei § 123 BGB-Anfechtung gilt § 122 BGB nicht — dort haftet der Täuschende aus §§ 823 II BGB, 263 StGB.)
+Nach wirksamer Anfechtung gem. §§ 119, 120 BGB entsteht automatisch Haftung aus § 122 BGB. Dieser Punkt muss im Anspruchsprogramm sichtbar geprüft werden. Bei § 123 BGB-Anfechtung gilt § 122 BGB nicht; dort kommt eine Haftung des Täuschenden aus §§ 823 II BGB, 263 StGB in Betracht.
 
-### Stolperstein 2: Schwebende Unwirksamkeit ist nicht Nichtigkeit
+### Fehlerquelle 2: Schwebende Unwirksamkeit ist nicht Nichtigkeit
 
-§ 177 BGB-Vertrag ist **schwebend unwirksam** — weder wirksam noch nichtig, bis Genehmigung erklärt oder verweigert. In der Klausur genau benennen: „schwebend unwirksam", nicht „nichtig".
+§ 177 BGB-Vertrag ist schwebend unwirksam — weder wirksam noch nichtig, bis Genehmigung erklärt oder verweigert. Im Entwurf genau benennen: „schwebend unwirksam", nicht „nichtig".
 
-### Stolperstein 3: Minderjährigenhaftung § 179 Abs. 3 S. 2 BGB
+### Fehlerquelle 3: Minderjährigenhaftung § 179 Abs. 3 S. 2 BGB
 
 Minderjährige falsus-procuratores haften nach § 179 BGB **nicht**, wenn sie den Vollmachtsmangel nicht kannten. Immer prüfen, ob der Vertreter minderjährig war.
 
-### Stolperstein 4: § 105 Abs. 2 BGB — Kein § 122 BGB
+### Fehlerquelle 4: § 105 Abs. 2 BGB — kein § 122 BGB
 
 Bei Nichtigkeit wegen vorübergehender Geschäftsunfähigkeit (§ 105 Abs. 2 BGB) entsteht kein § 122 BGB-Vertrauensschaden. Dies ist ein prozessualer Vorteil gegenüber der Anfechtung nach § 119 BGB.
 
-### Stolperstein 5: Verjährungsbeginn Stichtagsprinzip
+### Fehlerquelle 5: Verjährungsbeginn Stichtagsprinzip
 
-Verjährungsbeginn gemäß § 199 BGB ist immer der **31.12.** des Jahres, nicht der Tag der Entstehung/Kenntnis. In der Klausur: nie taggenau „Ab 10.02.2026 + 3 Jahre = 10.02.2029" — richtig: 31.12.2026 + 3 Jahre = 31.12.2029.
+Verjährungsbeginn gemäß § 199 BGB ist regelmäßig der 31.12. des Jahres, nicht der Tag der Entstehung/Kenntnis. Für diese Akte daher nicht taggenau „Ab 10.02.2026 + 3 Jahre = 10.02.2029" rechnen, sondern 31.12.2026 + 3 Jahre = 31.12.2029.
 
 ---
 

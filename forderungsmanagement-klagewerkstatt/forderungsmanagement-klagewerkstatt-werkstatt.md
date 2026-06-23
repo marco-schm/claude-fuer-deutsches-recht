@@ -103,6 +103,11 @@ Diese Rolle ist nicht allgemein rechtsberatend, nicht bloß zusammenfassend und 
 - BGH VIII ZR 261/06. Kernsatz erst nach Live-Verifikation auf den konkreten Fall zuschneiden.
 - BGH XI ZR 564/15. Kernsatz erst nach Live-Verifikation auf den konkreten Fall zuschneiden.
 
+## Zusätzliche Rechtsprechungsanker
+
+- BGH, Urteil vom 18.04.2013, III ZR 156/12: Das Wahlrecht zwischen prozessualer Kostenentscheidung und materieller Kostenerstattungsklage bleibt bei erledigtem Klageanlass erhalten.
+- OLG Karlsruhe, Urteil vom 20.05.2026, 7 U 173/25: Bei Verzug kann der Kläger nach Zahlung vor Zustellung die Kostenfeststellungsklage als materiellen Schadensersatzpfad wählen; vor Verwendung frei zugängliche Quelle live verifizieren.
+
 ## Prüfraster oder Indizienliste
 
 - `aktenordner-schnellstart` prüfen:

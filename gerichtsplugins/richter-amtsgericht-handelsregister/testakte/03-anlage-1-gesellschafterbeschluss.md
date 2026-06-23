@@ -17,5 +17,3 @@ Die alleinige Gesellschafterin Hildegard Sauer, Marktplatz 2, 12345 Musterstadt,
 Musterstadt, den 02.06.2026
 
 Hildegard Sauer, Alleingesellschafterin
-
-Hinweis fuer die Akte: Der Beschluss ist als solcher schluessig. Pruefungsrelevant bleibt, ob die in Paragraf 7 des Gesellschaftsvertrags vorgesehene Grundlage fuer die Befreiung von Paragraf 181 BGB besteht; der Gesellschaftsvertrag ist hierzu beizuziehen. Die Wirksamkeit der Bestellung haengt zudem davon ab, ob der Bestellte nach Paragraf 6 Absatz 2 GmbHG bestellungsfaehig ist.

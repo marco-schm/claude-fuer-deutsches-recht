@@ -19,5 +19,3 @@ Der Widerspruch der Versicherten vom 09.12.2025 wird zurueckgewiesen.
 Begruendung: Die im Widerspruchsverfahren erneut ausgewerteten Befundberichte fuehren zu keiner anderen Beurteilung. Der aerztliche Dienst haelt an einem Leistungsvermoegen von sechs Stunden und mehr taeglich fuer leichte Taetigkeiten fest. Eine zeitliche Leistungsminderung ist nicht belegt.
 
 Rechtsbehelfsbelehrung: Gegen diesen Widerspruchsbescheid kann innerhalb eines Monats nach Bekanntgabe Klage beim Sozialgericht Musterstadt erhoben werden.
-
-Hinweis fuer die Akte: Der Bescheid bildet den angefochtenen Verwaltungsakt; der Widerspruchsbescheid bestimmt nach Paragraf 95 SGG die Gestalt, in der der Verwaltungsakt Gegenstand der Klage ist. Klagefrist und Vorverfahren sind anhand der Zustellnachweise in der Verwaltungsakte zu pruefen.

@@ -18,5 +18,3 @@ Auftrag: Feststellung und Bewertung behaupteter Maengel am Einfamilienhaus Linde
 ## Bewertung des Privatgutachters
 
 Der Gutachter bewertet die Befunde 1 und 2 als wesentliche, die Gebrauchstauglichkeit erheblich beeintraechtigende Maengel. Der Befund 3 sei reparabel, aber dringlich. Der Gesamtaufwand zur Mangelbeseitigung wird auf 110.000 Euro geschaetzt.
-
-Hinweis fuer die Akte: Das Privatgutachten ist qualifizierter Parteivortrag, kein Beweismittel im Sinne der Paragrafen 402 folgende ZPO. Ursache, Umfang und Beseitigungsaufwand der behaupteten Maengel sind durch ein gerichtliches Sachverstaendigengutachten zu klaeren. Die Abgrenzung zu etwaigen Eigenleistungen und zum Nutzungsverhalten ist offen.

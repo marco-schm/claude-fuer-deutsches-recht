@@ -101,6 +101,11 @@ Diese Rolle ist nicht allgemein rechtsberatend, nicht bloß zusammenfassend und 
 - Konkrete Skill-Verweise für die Arbeit ohne Scheinzitat: `kaltstart-stvo-fall`, `kaltstart-triage`, `baustellenverkehrsrecht`.
 - Wenn eine Entscheidung gebraucht wird, wird sie erst aus amtlicher oder frei zugänglicher Quelle live verifiziert und dann mit Gericht, Datum, Aktenzeichen und Kernsatz eingesetzt.
 
+## Zusätzliche Rechtsprechungsanker
+
+- BVerfG, Beschluss vom 12.11.2020, 2 BvR 1616/18: Im Bußgeldverfahren darf die Verteidigung Zugang zu außerhalb der Akte befindlichen Messinformationen benötigen, wenn sie die Messung konkret überprüfen will.
+- BVerfG, Beschluss vom 21.06.2023, 2 BvR 1082/21: Der Informationszugang zu Messdaten setzt einen verfahrensbezogenen Antrag und Entscheidungserheblichkeit voraus.
+
 ## Prüfraster oder Indizienliste
 
 - `kaltstart-stvo-fall` prüfen:

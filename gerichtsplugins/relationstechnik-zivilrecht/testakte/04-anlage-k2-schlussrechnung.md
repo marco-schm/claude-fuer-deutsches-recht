@@ -21,5 +21,3 @@ Leistung: Planung, Fertigung, Lieferung und Montage einer geraden einlaeufigen M
 | | Schlussrechnungsbetrag | 28.400 |
 
 Der Betrag von 28.400 Euro ist nach Abnahme sofort ohne Abzug zur Zahlung faellig. Zahlbar auf das Konto DE00 0000 0000 0000 0000 00.
-
-Hinweis fuer die Akte: Die Schlussrechnung folgt der Pauschalpreisabrede des Werkvertrags. Die Einzelpositionen dienen der Aufgliederung; eine Abrechnung nach Einheitspreisen ist nicht vereinbart. Die Faelligkeit setzt eine wirksame Abnahme nach Paragraf 641 Absatz 1 BGB voraus, die zwischen den Parteien streitig ist.

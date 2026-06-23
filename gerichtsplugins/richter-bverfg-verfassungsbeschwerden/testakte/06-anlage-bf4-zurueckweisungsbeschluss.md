@@ -15,7 +15,3 @@ Die Anhoerungsruege ist zulaessig, aber unbegruendet. Ein entscheidungserheblich
 Die Kammer hat das gesamte Vorbringen der Klaegerin zur Kenntnis genommen und in Erwaegung gezogen. Sie hat sich ihre Ueberzeugung zum Unfallhergang auf der Grundlage der Lichtbilder und der Endstellung der Fahrzeuge gebildet. Auf eine Vernehmung weiterer Personen kam es danach nicht an.
 
 Aus Artikel 103 Absatz 1 GG folgt keine Pflicht, jeden Beweisantritt in den Urteilsgruenden ausdruecklich zu bescheiden. Die Beweiswuerdigung ist Sache des Tatgerichts.
-
-## Hinweis fuer die Akte
-
-Der Beschluss geht erneut nicht auf den konkreten Beweisantritt zum Zeugen Beil ein und befasst sich nicht mit dem Widerspruch zur aktenwidrigen Feststellung des Urteils, ein Beweis sei nicht angetreten worden. Die Frage, ob hierin ein eigenstaendiger und perpetuierender Gehoersverstoss liegt, ist in der Vorpruefung zu beurteilen.

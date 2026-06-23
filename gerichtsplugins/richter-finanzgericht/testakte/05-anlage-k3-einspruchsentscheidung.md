@@ -25,5 +25,3 @@ Soweit die Einspruchsfuehrerin auch nach Hinweis nach Paragraf 364b AO keine wei
 ## Rechtsbehelfsbelehrung
 
 Gegen diese Einspruchsentscheidung ist die Klage zum Finanzgericht Musterland gegeben (Paragrafen 40, 47 FGO), zu erheben binnen eines Monats nach Bekanntgabe.
-
-Hinweis fuer die Akte: Mit der Einspruchsentscheidung ist das Vorverfahren nach Paragraf 44 FGO abgeschlossen. Die Klagefrist von einem Monat nach Paragraf 47 FGO begann mit der Zustellung am 09.03.2026.

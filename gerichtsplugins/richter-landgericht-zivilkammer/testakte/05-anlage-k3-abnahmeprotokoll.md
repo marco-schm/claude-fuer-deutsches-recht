@@ -26,5 +26,3 @@ Das Werk wird als im wesentlichen fertiggestellt abgenommen. Die Abnahme erfolgt
 Die Auftraggeberin erklaert, die Schlussrate werde erst nach Klaerung der vorbehaltenen Punkte gezahlt. Die Auftragnehmerin haelt die Punkte fuer unwesentlich und die Restverguetung fuer faellig.
 
 Unterschriften: Osterloh (Auftragnehmerin), Sauer (Auftraggeberin)
-
-Hinweis fuer die Akte: Die Abnahme loest die Faelligkeit des Werklohns aus (Paragraf 641 BGB) und setzt die Verjaehrung der Maengelansprueche in Lauf (Paragraf 634a Absatz 2 BGB). Die vorbehaltenen Punkte 1 bis 3 entsprechen der Sache nach den spaeter umfassender geruegten Maengeln; ihre Reichweite ist sachverstaendig zu klaeren.

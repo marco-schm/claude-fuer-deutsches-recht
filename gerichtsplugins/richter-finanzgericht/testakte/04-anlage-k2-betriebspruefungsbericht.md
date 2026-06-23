@@ -25,5 +25,3 @@ Der Pruefer hat zwei Methoden eingesetzt:
 2. Zeitreihenvergleich der woechentlichen Rohgewinnaufschlaege ueber das Streitjahr.
 
 Aus beiden Methoden ergab sich ein hoeherer Rohgewinn als erklaert. Der Pruefer hat eine Hinzuschaetzung von 60.000 Euro Gewinn fuer 2023 angesetzt. Die rechnerische Herleitung ist im Kalkulationsschema (Anlage B 1) dargestellt.
-
-Hinweis fuer die Akte: Die Klaegerin haelt die Datengrundlage des Zeitreihenvergleichs fuer durch einen Umbau im Fruehjahr 2023 verzerrt und vermisst Abschlaege fuer Schankverlust, Eigenverbrauch und Bruch. Schaetzungsbefugnis dem Grunde nach und Hoehe der Hinzuschaetzung sind sachverstaendig zu pruefen.

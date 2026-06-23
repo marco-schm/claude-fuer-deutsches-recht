@@ -24,5 +24,3 @@ Der Versicherung ist eine vom Anmeldenden selbst zusammengestellte Unterlagensam
 | --- | --- | --- |
 | Schreiben Strafgericht | Mitteilung ueber ein Urteil wegen Insolvenzverschleppung gegen Bruno Karg | beruehrt Paragraf 6 Absatz 2 Satz 2 Nummer 3 GmbHG |
 | handschriftlicher Vermerk | Hinweis auf eine eingelegte Berufung | Rechtskraft fraglich |
-
-Hinweis fuer die Akte: Die abgegebene Versicherung und die beigefuegte Unterlagensammlung stehen in einem Spannungsverhaeltnis. Die Versicherung verneint ein Bestellungshindernis; die beigefuegten Unterlagen deuten auf eine Verurteilung wegen Insolvenzverschleppung hin, deren Rechtskraft offen ist. Ein Ausschluss nach Paragraf 6 Absatz 2 Satz 2 Nummer 3 GmbHG setzt eine rechtskraeftige Verurteilung voraus. Die Rechtskraftfrage ist aufzuklaeren.

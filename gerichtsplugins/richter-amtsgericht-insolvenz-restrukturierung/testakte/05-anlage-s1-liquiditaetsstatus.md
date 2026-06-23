@@ -25,5 +25,3 @@ Liquiditaetsstatus zum 30.04.2026, vorgelegt durch den Geschaeftsfuehrer Konrad 
 | Forderung Moebelwerk Tann AG | 220.000 | zugesagt 15.07.2026 |
 | Summe ohne Tann | 63.500 | drei Wochen |
 | Summe mit Tann | 283.500 | nach 15.07.2026 |
-
-Hinweis fuer die Akte: Die Schuldnerin stuetzt ihre Behauptung einer blossen Zahlungsstockung auf die fuer den 15.07.2026 zugesagte Zahlung der Moebelwerk Tann AG ueber 220.000 Euro. Ohne diese Zahlung betraegt die Liquiditaetsluecke innerhalb des Drei-Wochen-Zeitraums 395.900 Euro faellige Verbindlichkeiten gegenueber 63.500 Euro verfuegbarer Mittel, mithin eine Deckung von rund 16 Prozent. Ob die zugesagte Zahlung bei der Liquiditaetsbilanz nach Paragraf 17 InsO zu beruecksichtigen ist, haengt von ihrer hinreichend sicheren Erwartbarkeit innerhalb des massgeblichen Prognosezeitraums ab; dies ist im Gutachten nach Paragraf 22 InsO zu pruefen.

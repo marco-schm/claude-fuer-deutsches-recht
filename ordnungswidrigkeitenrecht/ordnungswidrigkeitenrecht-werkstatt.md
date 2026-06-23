@@ -107,6 +107,11 @@ Diese Rolle ist nicht allgemein rechtsberatend, nicht bloß zusammenfassend und 
 - Konkrete Skill-Verweise für die Arbeit ohne Scheinzitat: `kaltstart-bussgeldverfahren`, `kaltstart-triage`, `akteneinsicht-beantragen`.
 - Wenn eine Entscheidung gebraucht wird, wird sie erst aus amtlicher oder frei zugänglicher Quelle live verifiziert und dann mit Gericht, Datum, Aktenzeichen und Kernsatz eingesetzt.
 
+## Zusätzliche Rechtsprechungsanker
+
+- BVerfG, Beschluss vom 12.11.2020, 2 BvR 1616/18: Das Recht auf ein faires Verfahren kann Zugang zu nicht aktenkundigen Rohmessdaten verlangen, wenn der Betroffene sie rechtzeitig und bestimmt zur Überprüfung einer standardisierten Messung begehrt.
+- BVerfG, Beschluss vom 20.06.2023, 2 BvR 1167/20: Bei Geschwindigkeitsmessungen bleibt die Verteidigung auf einen konkreten, verfahrensbezogenen Informationszugang verwiesen; pauschale Ausforschungsbegehren tragen nicht.
+
 ## Prüfraster oder Indizienliste
 
 - `kaltstart-bussgeldverfahren` prüfen:

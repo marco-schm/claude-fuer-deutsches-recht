@@ -37,5 +37,3 @@ Musterstadt, den 14.04.2025
 Fuer die Auftragnehmerin: Roderich Kemnitz, Geschaeftsfuehrer
 
 Die Auftraggeberin: Hildegard Sauer
-
-Hinweis fuer die Akte: Massgeblich fuer die Faelligkeit ist die Abnahme nach Ziffer 4 in Verbindung mit Paragraf 641 BGB. Die Verjaehrung der Maengelansprueche richtet sich nach Ziffer 5.1 und Paragraf 634a BGB.

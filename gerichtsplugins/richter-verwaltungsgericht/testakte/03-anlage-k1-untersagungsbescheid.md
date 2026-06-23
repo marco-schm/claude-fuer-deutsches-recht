@@ -25,5 +25,3 @@ Die Anordnung der sofortigen Vollziehung erfolgt im oeffentlichen Interesse, wei
 ## Rechtsbehelfsbelehrung
 
 Gegen diesen Bescheid kann innerhalb eines Monats nach Zustellung Klage beim Verwaltungsgericht Musterland erhoben werden.
-
-Hinweis fuer die Akte: Die Tragfaehigkeit der Unzuverlaessigkeitsprognose und die Begruendungstiefe der sofortigen Vollziehung nach Paragraf 80 Absatz 3 VwGO sind im gerichtlichen Verfahren zu pruefen.

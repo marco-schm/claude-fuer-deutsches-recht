@@ -18,5 +18,3 @@ Fahrzeug: VW Golf, amtliches Kennzeichen MU-SA 412, Fahrgestellnummer fiktiv WVW
 | | Summe | 3.420 |
 
 Die Reparatur wurde am 24.03.2026 abgeschlossen und an die Kundin uebergeben. Zahlbar sofort ohne Abzug auf das Konto DE00 0000 0000 0000 0000 00.
-
-Hinweis fuer die Akte: Position 1 (Lackierung Tuer hinten rechts) ist zwischen den Parteien streitig; der Beklagte bestreitet die Unfallbedingtheit. Die Schadenshoehe und die Unfallbedingtheit der Einzelpositionen sind sachverstaendig zu klaeren.

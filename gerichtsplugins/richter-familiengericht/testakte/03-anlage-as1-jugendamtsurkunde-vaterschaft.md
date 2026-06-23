@@ -8,6 +8,5 @@ Erschienen ist Herr Konrad Welp, Ahornstrasse 19, 12347 Musterstadt, und hat erk
 
 Die Mutter hat der Anerkennung der Vaterschaft zugestimmt (Paragraf 1595 Absatz 1 BGB). Die Anerkennung ist mit der Zustimmung wirksam geworden.
 
-Hinweis fuer die Akte: Die Vaterschaft des Antragsgegners ist mit dieser Urkunde wirksam anerkannt und im Verfahren unstreitig. Sie begruendet die Unterhaltspflicht der Verwandten in gerader Linie nach Paragraf 1601 BGB. Die Urkunde belegt weder den Bedarf noch die Leistungsfaehigkeit; beides ist gesondert festzustellen.
 
 Beglaubigte Ablichtung. Das Original liegt beim Jugendamt der Stadt Musterstadt.

@@ -16,5 +16,3 @@ Diagnosen:
 Befund und Verlauf: Die Beschwerden haben in den letzten Jahren trotz konservativer Therapie, Physiotherapie und mehrfacher Infiltrationen zugenommen. Laengeres Sitzen, Stehen und Gehen sowie Buecken und das Heben von Lasten verstaerken die Schmerzen erheblich.
 
 Leistungsbeurteilung: Aus orthopaedischer Sicht sind der Patientin nur noch leichte Taetigkeiten in wechselnder Koerperhaltung moeglich. Wegen der schmerzbedingt erforderlichen Haltungswechsel und Pausen halte ich eine taegliche Belastbarkeit von mehr als drei Stunden fuer nicht gegeben. Eine abschliessende Beurteilung des Gesamtleistungsvermoegens erfordert die zusaetzliche Wuerdigung der psychiatrischen Erkrankung.
-
-Hinweis fuer die Akte: Das Attest beschreibt Diagnosen und eine Leistungseinschaetzung der behandelnden Seite. Es ersetzt kein gerichtliches Sachverstaendigengutachten; das zeitliche Leistungsvermoegen ist sachverstaendig und unter Beiziehung der Behandlungsunterlagen zu klaeren.

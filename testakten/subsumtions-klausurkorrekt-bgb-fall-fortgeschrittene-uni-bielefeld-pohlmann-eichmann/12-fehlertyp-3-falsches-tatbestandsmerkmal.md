@@ -66,13 +66,3 @@ Fehlertyp 3 liegt vor, wenn ein Tatbestandsmerkmal einer Norm:
 | Birkenhain | Alle Merkmale § 387 | § 387 BGB | 4 |
 
 ---
-
-## Lehrhinweis
-
-Fehlertyp 3 ist der häufigste Einzelfehler dieser Klausurgruppe. Die Ursache liegt oft in Zeitdruck: Klausuranten überspringen Tatbestandsmerkmale, wenn sie meinen, das Ergebnis zu kennen. Richtig ist: Jedes Tatbestandsmerkmal ist einzeln zu subsumieren, auch wenn es offensichtlich vorliegt.
-
-**Merkregel:** "Was nicht steht, ist nicht geprüft."
-
----
-
-*Quellen: BGB §§ 387, 812 ([dejure.org](https://dejure.org)); Medicus, BGB AT, Rn. 720 ff.*

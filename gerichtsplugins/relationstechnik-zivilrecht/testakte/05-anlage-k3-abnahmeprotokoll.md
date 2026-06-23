@@ -29,5 +29,3 @@ Berlin, den 14.03.2026
 Fuer die Auftragnehmerin: Albert Specht
 
 Die Auftraggeberin: Hildegard Sauer
-
-Hinweis fuer die Akte: Die Beklagte macht geltend, die spaeter geruegten Maengel (Knarren der Stufen, ungleiche Spaltmasse, abweichende Holzart) seien im Termin nicht erkennbar gewesen. Ob die Unterzeichnung dieses Protokolls eine Abnahme im Sinne des Paragraf 640 BGB darstellt und ob ein Vorbehalt nach Paragraf 640 Absatz 3 BGB hinsichtlich der geruegten Maengel erforderlich gewesen waere, ist Gegenstand der rechtlichen Pruefung.

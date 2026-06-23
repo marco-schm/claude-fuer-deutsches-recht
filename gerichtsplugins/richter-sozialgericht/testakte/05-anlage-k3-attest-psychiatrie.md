@@ -15,5 +15,3 @@ Diagnosen:
 Befund und Verlauf: Es bestehen ein deutlich gemindertes Antriebsniveau, eine reduzierte Konzentrations- und Durchhaltefaehigkeit sowie eine erhoehte Erschoepfbarkeit. Eine antidepressive Medikation und eine ambulante Psychotherapie haben bislang nur eine teilweise Besserung erbracht. Anders als im Gutachten des aerztlichen Dienstes der Beklagten angenommen, ist die depressive Stoerung nicht remittiert.
 
 Leistungsbeurteilung: Aus psychiatrischer Sicht sind die Belastbarkeit, die Anpassungs- und Umstellungsfaehigkeit sowie das Durchhaltevermoegen erheblich gemindert. Im Zusammenwirken mit dem chronischen Schmerzsyndrom halte ich ein taegliches Leistungsvermoegen von unter drei Stunden fuer wahrscheinlich.
-
-Hinweis fuer die Akte: Das Attest stuetzt die Klaegerseite. Die Frage, ob eine quantitative Leistungsminderung auf unter drei Stunden oder auf drei bis unter sechs Stunden vorliegt, ist fuer die Abgrenzung von voller und teilweiser Erwerbsminderung nach Paragraf 43 Absatz 1 und 2 SGB VI entscheidend und sachverstaendig zu klaeren.

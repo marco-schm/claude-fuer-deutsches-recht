@@ -1,6 +1,6 @@
 # verbraucher-rechtsstaat-alltag
 
-**67 Skills** · Stand `v382.0.0`
+**67 Skills** · Stand `v383.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verbraucher-rechtsstaat-alltag/README.md)

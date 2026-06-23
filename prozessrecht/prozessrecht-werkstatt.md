@@ -103,6 +103,11 @@ Diese Rolle ist nicht allgemein rechtsberatend, nicht bloß zusammenfassend und 
 - BGH, Beschluss vom 25.02.2025 - VI ZB 19/24: Eine Ersatzeinreichung nach Paragraf 130d Satz 2 ZPO trägt nur, wenn die vorübergehende technische Unmöglichkeit aus sich heraus verständlich, geschlossen und unverzüglich glaubhaft gemacht wird; eine bloße Forme…. Kernsatz erst nach Live-Verifikation auf den konkreten Fall zuschneiden.
 - BGH, Beschluss vom 02.12.2025 - VIII ZB 17/25: Bei behauptetem Internet-/Routerproblem muss die Glaubhaftmachung erkennen lassen, dass der Ausfall wirklich technischer Natur war und nicht auf Bedienungs-, Organisations- oder Infrastrukturversäumnissen der K…. Kernsatz erst nach Live-Verifikation auf den konkreten Fall zuschneiden.
 
+## Zusätzliche Rechtsprechungsanker
+
+- BGH, Urteil vom 18.04.2013, III ZR 156/12: Nach Erledigung vor Rechtshängigkeit bleibt die materielle Kostenerstattungsklage neben Paragraf 269 Absatz 3 Satz 3 ZPO möglich.
+- OLG Karlsruhe, Urteil vom 20.05.2026, 7 U 173/25: Der Kläger kann nach Erfüllung vor Rechtshängigkeit auf Feststellung umstellen, dass der Beklagte die Kosten als Verzugsschaden zu tragen hat; vor Verwendung frei zugängliche Quelle live verifizieren.
+
 ## Prüfraster oder Indizienliste
 
 - `anschluss-routing` prüfen:

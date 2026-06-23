@@ -17,5 +17,3 @@ Auf die Anfrage des Bezirksamts Musterstadt wird mitgeteilt, dass die genannte A
 | | Summe | 11.300 |
 
 Eine Stundungs- oder Ratenzahlungsvereinbarung mit der Einzugsstelle besteht nach dem hiesigen Stand nicht. Mahnungen sind unter dem 15.02.2026 und dem 18.03.2026 ergangen.
-
-Hinweis fuer die Akte: Der Beklagte stuetzt die Unzuverlaessigkeitsprognose auch auf diese Beitragsrueckstaende. Ob und in welchem Umfang sie zum maßgeblichen Zeitpunkt fortbestanden und ob die Klaegerin hierzu Stellung genommen hat, ist aufzuklaeren.

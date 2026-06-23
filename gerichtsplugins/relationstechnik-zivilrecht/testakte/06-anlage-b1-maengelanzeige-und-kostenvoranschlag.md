@@ -63,5 +63,3 @@ die von Ihnen gerueegten Punkte stellen keine Maengel unserer Werkleistung dar. 
 Mit freundlichen Gruessen
 
 Bernhard Holzmann, Geschaeftsfuehrer
-
-Hinweis fuer die Akte: Die Hoehe der Mangelbeseitigungskosten und die Mangelhaftigkeit der einzelnen Positionen sind sachverstaendig zu klaeren. Position 1 (Knarren) ist nach Auffassung der Klaegerin materialbedingt und kein Mangel; das ist streitig.

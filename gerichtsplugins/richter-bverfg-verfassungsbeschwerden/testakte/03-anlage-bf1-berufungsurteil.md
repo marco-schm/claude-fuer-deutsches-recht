@@ -16,7 +16,3 @@ Die zulaessige Berufung ist begruendet. Die Klage ist unbegruendet, weil die Kla
 Die Klaegerin traegt die Beweislast fuer den von ihr behaupteten Vorrang im Kreisverkehr. Diesen Beweis hat sie nicht gefuehrt. Ein Beweis fuer den behaupteten Vorrang ist nicht angetreten worden. Die Kammer hat sich ihre Ueberzeugung auf der Grundlage der Lichtbilder und der Endstellung der Fahrzeuge gebildet; danach lasse sich ein Vorrangverstoss des Beklagten nicht feststellen.
 
 Auf die nicht angepasste Geschwindigkeit der Klaegerin kommt es nach allem nicht mehr an.
-
-## Hinweis fuer die Akte
-
-Die Passage, ein Beweis fuer den Vorrang sei nicht angetreten worden, steht im Widerspruch zum Beweisantritt auf Seite 4 des Schriftsatzes der Klaegerin vom 20.11.2025 (Anlage Bf 2), mit dem der Zeuge Markus Beil ausdruecklich zum Unfallhergang und zum Vorrang benannt war. Dieser Widerspruch ist der zentrale verfassungsrechtliche Pruefungspunkt der Vorpruefung.

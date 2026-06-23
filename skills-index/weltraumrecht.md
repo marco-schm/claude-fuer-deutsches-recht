@@ -1,6 +1,6 @@
 # weltraumrecht
 
-**181 Skills** · Stand `v382.0.0`
+**181 Skills** · Stand `v383.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/weltraumrecht/README.md)

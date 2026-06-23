@@ -14,5 +14,3 @@ Steuerpflichtige: Edelholz Berlin GmbH, gesetzlich vertreten durch den Geschaeft
 4. Laufende Steuern und Vorauszahlungen sind zusaetzlich und puenktlich zu entrichten.
 
 Die Vereinbarung wurde von beiden Seiten unterzeichnet. Auf die Ueberweisung der ersten Rate auf das Konto DE00 0000 0000 0000 0000 00 wird der Zahlungsbeleg nachgereicht.
-
-Hinweis fuer die Akte: Die Klaegerin stuetzt ihre Zuverlaessigkeit maßgeblich auf diese Vereinbarung. Ob ihr Bestand und ihre Einhaltung im maßgeblichen Beurteilungszeitpunkt eine guenstige Prognose tragen, ist Kernfrage des Verfahrens.

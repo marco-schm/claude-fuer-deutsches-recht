@@ -54,19 +54,3 @@ Feststellungsstil bei *Ergebnissätzen* ist korrekt und erwünscht: "K hat daher
 Fehlertyp 5 liegt nur vor, wenn der *gesamte Abschnitt* im Feststellungsstil gehalten ist und die Prüfungsstruktur fehlt.
 
 ---
-
-## Lehrhinweis
-
-Der Gutachtenstil ist untrennbar mit dem Erkenntnisinteresse der Klausur verbunden: Der Prüfer will wissen, ob der Klausurant das Problem erkennt und methodisch lösen kann. Der Feststellungsstil verbirgt, ob der Klausurant tatsächlich verstanden hat, warum das Ergebnis richtig ist.
-
-**Merksatz:** "Im Gutachten ist das Ergebnis die letzte Zeile, nicht die erste."
-
-**Übungsaufgabe:** Wandeln Sie den folgenden Feststellungsstil in Gutachtenstil um:
-
-*Vor:* "§ 134 BGB greift nicht ein. Der Vertrag ist gültig."
-
-*Nach:* "K könnte einen Anspruch aus § 631 BGB haben, wenn der Werkvertrag über den Einbau des Radarwarngeräts wirksam ist. Dies setzt voraus, dass kein Nichtigkeitsgrund eingreift. In Betracht kommt § 134 BGB. Dieser setzt voraus, dass das Rechtsgeschäft gegen ein gesetzliches Verbot verstößt. Gesetzliches Verbot könnte § 23 StVO sein. § 23 Abs. 1c StVO richtet sich jedoch nur gegen den Fahrzeugführer, nicht gegen den Einbauenden. Damit fehlt es am Verbotscharakter gegenüber K. § 134 BGB greift nicht ein. Der Vertrag ist wirksam."
-
----
-
-*Quellen: Larenz, Methodenlehre der Rechtswissenschaft, Kap. 3; BGB § 134 ([dejure.org](https://dejure.org)).*

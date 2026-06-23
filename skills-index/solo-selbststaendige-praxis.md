@@ -1,6 +1,6 @@
 # solo-selbststaendige-praxis
 
-**202 Skills** · Stand `v382.0.0`
+**202 Skills** · Stand `v383.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/solo-selbststaendige-praxis/README.md)

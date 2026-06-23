@@ -17,5 +17,3 @@ Die angekuendigten zwei Wochen sind erneut verstrichen. Ich fordere Sie auf, ent
 ## Weitere Nachrichten
 
 Margarete Kuehn, Tobias Renn und Petra Falk legten inhaltlich gleichlaufende Verlaeufe vor: Zahlungsnachfrage, eine vertroestende Antwort des Shops mit Hinweis auf Lieferengpaesse und ab Mitte April keine Reaktion mehr. Ab dem 16.04.2026 ist in keinem der Verlaeufe eine Antwort des Shops dokumentiert.
-
-Hinweis fuer die Akte: Der Schriftverkehr belegt die ausbleibende Lieferung und das spaetere Schweigen. Die vertroestenden Antworten koennen sowohl als Verschleierung als auch als Beleg fuer eine zunaechst ernsthafte, dann gescheiterte Lieferabsicht gedeutet werden; die Deutung ist Teil der Vorsatzpruefung und nicht aus dem Mailverkehr allein zu entscheiden.

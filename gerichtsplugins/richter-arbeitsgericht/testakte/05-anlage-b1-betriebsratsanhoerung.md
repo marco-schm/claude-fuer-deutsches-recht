@@ -30,5 +30,3 @@ Wir bitten um Stellungnahme innerhalb der Frist des Paragraf 102 Absatz 2 Satz 1
 Konrad Welp, Geschaeftsfuehrer
 
 Eingangsvermerk des Betriebsrats: zugegangen am 16.04.2026, Bohnsack. Eine schriftliche Stellungnahme des Betriebsrats ist nicht zur Akte gelangt.
-
-Hinweis fuer die Akte: Streitig ist, ob die Unterrichtung vollstaendig war. Die Klaegerin ruegt, dass die Sozialdaten der nicht gekuendigten Kollegin Lena Markwart und die Erwaegungen zur Vergleichbarkeit nicht mitgeteilt worden seien. Die Beklagte stellt sich auf den Standpunkt, eine Sozialauswahl sei wegen vollstaendigen Wegfalls aller Buchhaltungsarbeitsplaetze nicht erforderlich gewesen. Die subjektive Determination der Anhoerung ist zu pruefen.

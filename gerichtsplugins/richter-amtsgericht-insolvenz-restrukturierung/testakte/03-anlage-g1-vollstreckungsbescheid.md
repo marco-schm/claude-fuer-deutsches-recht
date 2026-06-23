@@ -19,5 +19,3 @@ Die Schuldnerin hat an die Glaeubigerin zu zahlen:
 | Kosten des Mahnverfahrens | nach Festsetzung |
 
 Die Hauptforderung betrifft die Lieferung und den Zuschnitt von Edelhoelzern gemaess Vertrag vom 10.10.2025. Der Vollstreckungsbescheid ist der Schuldnerin am 17.01.2026 zugestellt worden. Ein Einspruch ist innerhalb der Frist des Paragraf 700 ZPO in Verbindung mit Paragraf 339 ZPO nicht eingegangen; der Vollstreckungsbescheid ist rechtskraeftig und vollstreckbar.
-
-Hinweis fuer die Akte: Die Schuldnerin macht im Eroeffnungsverfahren geltend, gegen die titulierte Forderung mit einem Gegenanspruch von 96.000 Euro aufgerechnet zu haben. Der Vollstreckungsbescheid erging im automatisierten Mahnverfahren ohne sachliche Pruefung dieser Aufrechnung. Fuer die Glaubhaftmachung der Forderung nach Paragraf 14 InsO ist zu pruefen, ob die Forderung trotz der erhobenen Einwendung in einem die Massekostendeckung tragenden Umfang fortbesteht.

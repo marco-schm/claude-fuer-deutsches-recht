@@ -15,7 +15,3 @@ Die Person habe eine dunkle Kapuzenjacke getragen, die Kapuze sei aufgesetzt gew
 Auf Nachfrage gab der Zeuge an, er meine in Statur, Koerpergroesse und Gangbild den Nachbarn Bruno Achterberg wiederzuerkennen, den er vom Sehen aus der Nachbarschaft kenne. Sicher sei er sich nicht; er koenne sich auch irren. Eine eindeutige Identifizierung sei ihm wegen der Kapuze und des Lichts nicht moeglich.
 
 Zur Uhrzeit gab der Zeuge an, kurz nach der Beobachtung auf seine Armbanduhr gesehen zu haben; es sei etwa 22.40 Uhr gewesen.
-
-## Hinweis fuer die Akte
-
-Die Identifizierung beruht ausschliesslich auf Statur und Gangbild bei schlechten Lichtverhaeltnissen. Der Zeuge hat das Gesicht nicht gesehen. Der Beweiswert der Aussage ist im Rahmen der Beweiswuerdigung nach Paragraf 261 StPO sorgfaeltig zu gewichten; die Aussage steht im Widerspruch zur bestreitenden Einlassung des Angeschuldigten.

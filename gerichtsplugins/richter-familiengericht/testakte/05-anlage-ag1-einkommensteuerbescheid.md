@@ -15,5 +15,3 @@ Steuerpflichtiger: Konrad Welp, Ahornstrasse 19, 12347 Musterstadt
 | Solidaritaetszuschlag | 0 |
 
 Erlaeuterung im Bescheid: Der gegenueber dem Vorjahr verringerte Gewinn beruhe nach den Angaben des Steuerpflichtigen auf gestiegenen Materialkosten und dem Ausfall eines Grossauftrags.
-
-Hinweis fuer die Akte: Der Steuerbescheid weist den steuerlichen Gewinn aus. Fuer den Unterhalt ist das unterhaltsrechtlich bereinigte Einkommen massgeblich; steuerliche Abschreibungen und Privatentnahmen sind gesondert zu beurteilen, und es ist ein Mehrjahresdurchschnitt zu bilden. Ein einzelnes schwaches Jahr traegt fuer sich genommen weder die behauptete Leistungsunfaehigkeit noch eine bestimmte Einkommensgruppe der Duesseldorfer Tabelle. Die Jahre 2023 und 2025 sind beizuziehen.

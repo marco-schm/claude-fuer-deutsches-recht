@@ -25,5 +25,3 @@ Auswertung des Geschaeftskontos der Edelholz Berlin GmbH, Konto DE00 0000 0000 0
 ## Auswertungsergebnis
 
 Den vier Zahlungseingaengen der Geschaedigten in Hoehe von insgesamt 9.400 Euro stehen im Auswertungszeitraum ueberwiegend Barabhebungen und Ueberweisungen auf ein Privatkonto der Beschuldigten gegenueber. Zahlungen an ein Saegewerk oder einen sonstigen Holzlieferanten sind nicht feststellbar. Eine in der Beschuldigtenvernehmung behauptete Anzahlung an ein Saegewerk findet im Kontoverlauf keine Entsprechung; die Beschuldigte gibt hierzu eine Barzahlung ohne Beleg an.
-
-Hinweis fuer die Akte: Die Auswertung ist ein gewichtiges Indiz fuer fehlende Lieferbereitschaft. Die Behauptung einer belegfreien Barzahlung ist im Rahmen der Objektivitaetspflicht nach Paragraf 160 Absatz 2 StPO weiter aufzuklaeren.

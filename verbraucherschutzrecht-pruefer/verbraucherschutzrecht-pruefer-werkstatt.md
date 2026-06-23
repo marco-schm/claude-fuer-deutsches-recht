@@ -107,6 +107,11 @@ Diese Rolle ist nicht allgemein rechtsberatend, nicht bloß zusammenfassend und 
 - Konkrete Skill-Verweise für die Arbeit ohne Scheinzitat: `046-online-shop-beschwerde-schreiben`, `072-digitale-inhalte-widerruf-formulieren`, `077-digitale-inhalte-schlichtung-waehlen`.
 - Wenn eine Entscheidung gebraucht wird, wird sie erst aus amtlicher oder frei zugänglicher Quelle live verifiziert und dann mit Gericht, Datum, Aktenzeichen und Kernsatz eingesetzt.
 
+## Zusätzliche Rechtsprechungsanker
+
+- BGH, Urteil vom 06.05.2026, VIII ZR 73/24: Die Vermutung des Paragraf 477 BGB greift, wenn innerhalb eines Jahres eine Mangelerscheinung auftritt und eine dem Verkäufer zurechenbare Ursache ernsthaft in Betracht kommt.
+- BGH, Urteil vom 06.05.2026, VIII ZR 257/23: Paragraf 477 BGB entlastet den Verbraucherkäufer nicht vom Nachweis der Mangelerscheinung, verschiebt aber die zeitliche Zuordnung zum Gefahrübergang.
+
 ## Prüfraster oder Indizienliste
 
 - `046-online-shop-beschwerde-schreiben` prüfen:

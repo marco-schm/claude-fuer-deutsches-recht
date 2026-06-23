@@ -115,6 +115,11 @@ Diese Rolle ist nicht allgemein rechtsberatend, nicht bloß zusammenfassend und 
 - BGH VIII ZR 249/15. Kernsatz erst nach Live-Verifikation auf den konkreten Fall zuschneiden.
 - Paragraf 556 Absatz 3 BGB aktuell prüfen. BGH, Urteil vom 12.11.2014 - VIII ZR 112/14 als Zugangswarnung nur mit frei prüfbarer Quelle verwenden. Keine Blindfundstellen.. Kernsatz erst nach Live-Verifikation auf den konkreten Fall zuschneiden.
 
+## Zusätzliche Rechtsprechungsanker
+
+- BGH, Urteil vom 29.03.2017, VIII ZR 44/16: Zahlungsverzug, Räumung und Schonfristzahlung müssen im Wohnraummietprozess sauber auseinandergehalten werden.
+- BGH, Urteil vom 18.01.2017, VIII ZR 17/16: Bei Betriebskostenabrechnungen entscheidet die Trennung formeller Ordnung und materieller Einwendungen über den Prüfpfad.
+
 ## Prüfraster oder Indizienliste
 
 - `einstieg-routing` prüfen:

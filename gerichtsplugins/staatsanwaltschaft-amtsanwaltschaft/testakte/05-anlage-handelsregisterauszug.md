@@ -19,5 +19,3 @@ Auszug aus dem Handelsregister des Amtsgerichts Musterstadt, Abteilung B, fiktiv
 ## Bemerkungen
 
 Die Beschuldigte ist alleinige Geschaeftsfuehrerin und nach dem Register einzelvertretungsberechtigt. Insolvenzvermerke sind im Auszug nicht eingetragen. Eine Eroeffnung oder Ablehnung eines Insolvenzverfahrens ueber das Vermoegen der Gesellschaft ist bislang nicht ersichtlich.
-
-Hinweis fuer die Akte: Die Vertretungsverhaeltnisse stuetzen die persoenliche strafrechtliche Verantwortlichkeit der Beschuldigten als handelndes Organ. Die wirtschaftliche Lage der Gesellschaft im Tatzeitraum ist gesondert, etwa durch eine betriebswirtschaftliche Auswertung, aufzuklaeren.

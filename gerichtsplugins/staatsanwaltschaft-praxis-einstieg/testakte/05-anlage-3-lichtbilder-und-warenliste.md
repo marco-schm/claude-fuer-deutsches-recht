@@ -23,5 +23,3 @@ Die Aufnahmen sind ohne Ton und lassen die innere Willensrichtung der Beschuldig
 | | Summe | 18,90 |
 
 Die aufgefuehrten Waren tragen die Auszeichnungsetiketten des Marktes; ein Kassenbon ueber ihre Bezahlung liegt nicht vor. Die Waren wurden noch am Tattag unbeschaedigt in den Bestand des Marktes zurueckgefuehrt.
-
-Hinweis fuer die Akte: Der Gesamtwert von 18,90 Euro liegt unterhalb der gefestigten Geringwertigkeitsgrenze; die Tat unterfaellt damit dem Strafantragserfordernis des Paragraf 248a StGB. Die genaue Wertgrenze und die Frage des besonderen oeffentlichen Interesses sind eigenstaendig zu beurteilen.

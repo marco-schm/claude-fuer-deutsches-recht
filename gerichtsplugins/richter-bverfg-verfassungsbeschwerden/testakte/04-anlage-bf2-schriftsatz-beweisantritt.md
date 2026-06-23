@@ -13,7 +13,3 @@ Die Klaegerin und Berufungsbeklagte bleibt dabei, dass sie sich bereits im Kreis
 Beweis: Zeugnis des unfallaufnehmenden Polizeibeamten Markus Beil, zu laden ueber die Polizeiinspektion Musterstadt, zum gesamten Unfallhergang und insbesondere dazu, dass sich die Klaegerin bei Einfahrt des Beklagten bereits im Kreis befand und der Beklagte ohne anzuhalten eingefahren ist.
 
 Der Zeuge hat den Unfall unmittelbar nach dem Geschehen aufgenommen, die Endstellung gesichert und die Angaben beider Beteiligten protokolliert. Seine Vernehmung ist zur Aufklaerung des Vorrangs unerlaesslich, weil sich aus der blossen Endstellung der Fahrzeuge keine sichere Aussage zum Hergang ergibt.
-
-## Hinweis fuer die Akte
-
-Dieser Beweisantritt ist rechtzeitig in der Berufungsinstanz angebracht worden und betrifft die nach dem Rechtsstandpunkt des Landgerichts allein streitentscheidende Tatsache. Das Berufungsurteil (Anlage Bf 1) geht hierauf nicht ein, sondern stellt aktenwidrig fest, ein Beweis sei nicht angetreten worden.

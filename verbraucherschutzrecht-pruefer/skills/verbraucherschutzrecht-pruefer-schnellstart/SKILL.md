@@ -36,6 +36,11 @@ Großer Verbraucherschutz-Prüfer für BGB, EGBGB, UWG, UKlaG, VSBG, E-Commerce,
 - Paragraf 312d BGB
 - Kein sicherer Rechtsprechungsanker im Skill-Material; Entscheidungen nur nach Live-Verifikation mit Gericht, Datum und Aktenzeichen zitieren.
 
+## Zusätzlicher Anker
+
+- BGH, Urteil vom 06.05.2026, VIII ZR 73/24: Die Vermutung des Paragraf 477 BGB greift, wenn innerhalb eines Jahres eine Mangelerscheinung auftritt und eine dem Verkäufer zurechenbare Ursache ernsthaft in Betracht kommt.
+- BGH, Urteil vom 06.05.2026, VIII ZR 257/23: Paragraf 477 BGB entlastet den Verbraucherkäufer nicht vom Nachweis der Mangelerscheinung, verschiebt aber die zeitliche Zuordnung zum Gefahrübergang.
+
 ## Antwortform
 
 - Lagebild: Rollen, Ziel, Frist, Aktenstand.

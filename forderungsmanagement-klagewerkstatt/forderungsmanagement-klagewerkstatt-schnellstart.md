@@ -34,6 +34,11 @@ Klagewerkstatt für Forderungsmanagement mit Zuständigkeitsprüfung, Mahnvorlau
 - BGH II ZR 256/02
 - BGH VII ZR 162/00
 
+## Zusätzlicher Anker
+
+- BGH, Urteil vom 18.04.2013, III ZR 156/12: Das Wahlrecht zwischen prozessualer Kostenentscheidung und materieller Kostenerstattungsklage bleibt bei erledigtem Klageanlass erhalten.
+- OLG Karlsruhe, Urteil vom 20.05.2026, 7 U 173/25: Bei Verzug kann der Kläger nach Zahlung vor Zustellung die Kostenfeststellungsklage als materiellen Schadensersatzpfad wählen; vor Verwendung frei zugängliche Quelle live verifizieren.
+
 ## Antwortform
 
 - Lagebild: Rollen, Ziel, Frist, Aktenstand.

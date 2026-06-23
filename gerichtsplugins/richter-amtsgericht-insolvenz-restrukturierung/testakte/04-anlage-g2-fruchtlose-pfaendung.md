@@ -19,5 +19,3 @@ In den Geschaeftsraeumen befanden sich Maschinen und eine Hobel- und Saegestrass
 Pfaendbare bewegliche Sachen, die nicht durch Rechte Dritter belastet waren, konnten nicht in einem die Kosten der Verwertung uebersteigenden Umfang vorgefunden werden. Die Pfaendung blieb fruchtlos.
 
 Der Geschaeftsfuehrer hat angekuendigt, die Vermoegensauskunft nach Paragraf 802c ZPO abzugeben; ein Termin war zum Zeitpunkt der Protokollerstellung noch nicht wahrgenommen.
-
-Hinweis fuer die Akte: Die fruchtlose Pfaendung ist ein Indiz fuer Zahlungseinstellung, aber kein zwingender Beleg. Der Einwand der Schuldnerin, die Maschinen seien sicherungsuebereignet und das Lager nur voruebergehend gebunden, ist im Rahmen der Amtsermittlung nach Paragraf 5 InsO zu pruefen.

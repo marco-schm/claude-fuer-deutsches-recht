@@ -1,3 +1,11 @@
+# v383.0.0 — Qualitätssweep: Anker, Aktenstücke, Prompts und Kohärenz finalisiert
+
+- Zehn Kontroll-Loops über Prompts, Skills, READMEs, Testakten, Downloads, Generatorpfade und Validatoren dokumentiert.
+- Kuratierte Rechtsprechungsanker in passenden Prozess-, Miet-, Verbraucher- und Ordnungswidrigkeiten-Kontexten ergänzt; unsichere neue Fundstellen bleiben mit Live-Verifikationspflicht markiert.
+- Didaktische Hinweise aus Aktenstücken entfernt; Erklärungen bleiben in den jeweiligen Testakten-READMEs.
+- Schnellstart-Skills nach Prompt-Änderungen synchronisiert und Prompt-/README-Konventionen erneut geprüft.
+- Repo-weiter Bump auf v383.0.0.
+
 # v382.0.0 — Grosser Aufraeumlauf: Testakten integriert, Schnellstart als Skill, READMEs konsolidiert
 
 - Die 15 pluginlokalen Testakten der Gerichts- und Staatsanwaltschafts-Plugins sind im Pflichtformat nachgezogen und als pluginbezogene Testakten-Bundles releasefaehig.

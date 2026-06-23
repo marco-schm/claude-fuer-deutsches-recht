@@ -18,5 +18,3 @@ Bauvorhaben: Einfamilienhaus Lindenweg 4, Musterstadt, Bauvertrag vom 14.04.2025
 | | Restforderung | 87.450 |
 
 Die Restforderung von 87.450 Euro ist mit der Abnahme vom 10.02.2026 und Erteilung dieser pruefbaren Schlussrechnung faellig. Zahlbar binnen 14 Tagen ohne Abzug auf das Konto DE00 0000 0000 0000 0000 00 bei der Musterbank Musterstadt.
-
-Hinweis fuer die Akte: Die rechnerische Richtigkeit der Abschlagszahlungen ist zwischen den Parteien unstreitig. Streitig ist allein, ob die Restforderung wegen behaupteter Maengel ganz oder teilweise nicht durchsetzbar ist. Die Pruefbarkeit der Schlussrechnung ist Voraussetzung der Faelligkeit nach Paragraf 641 BGB.

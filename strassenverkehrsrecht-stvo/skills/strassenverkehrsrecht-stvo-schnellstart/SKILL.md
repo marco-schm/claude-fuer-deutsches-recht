@@ -36,6 +36,11 @@ StVO-/Straßenverkehrsrecht-Plugin für Verkehrsregeln, Zeichen, Anordnungen, Au
 - Paragraf 569 BGB
 - Kein sicherer Rechtsprechungsanker im Skill-Material; Entscheidungen nur nach Live-Verifikation mit Gericht, Datum und Aktenzeichen zitieren.
 
+## Zusätzlicher Anker
+
+- BVerfG, Beschluss vom 12.11.2020, 2 BvR 1616/18: Im Bußgeldverfahren darf die Verteidigung Zugang zu außerhalb der Akte befindlichen Messinformationen benötigen, wenn sie die Messung konkret überprüfen will.
+- BVerfG, Beschluss vom 21.06.2023, 2 BvR 1082/21: Der Informationszugang zu Messdaten setzt einen verfahrensbezogenen Antrag und Entscheidungserheblichkeit voraus.
+
 ## Antwortform
 
 - Lagebild: Rollen, Ziel, Frist, Aktenstand.

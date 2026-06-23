@@ -13,5 +13,3 @@ Vertrag vom 14.04.2026 zwischen der Edelholz Berlin GmbH (Auftraggeberin) und de
 Paragraf 1 (Leistungsumfang): Die Auftragnehmerin uebernimmt die Kreditoren-, Debitoren- und Sachkontenbuchhaltung, die vorbereitende Lohnbuchhaltung sowie die Erstellung der monatlichen betriebswirtschaftlichen Auswertung fuer die Auftraggeberin.
 
 Paragraf 2 (Beginn): Die Leistungserbringung beginnt am 01.08.2026. Die Auftraggeberin stellt die erforderlichen Unterlagen und Datenzugaenge bis zum 25.07.2026 bereit.
-
-Hinweis fuer die Akte: Der Vertrag belegt die unternehmerische Entscheidung und ihren beabsichtigten Vollzug. Ob die Buchhaltungstaetigkeit tatsaechlich und auf Dauer entfaellt oder ob ein Restbedarf im Betrieb verbleibt, ist beweisbeduerftig und aufzuklaeren. Der Vertragsbeginn am 01.08.2026 faellt mit dem Kuendigungstermin 31.07.2026 zusammen; die Prognose im Kuendigungszeitpunkt ist zu pruefen.

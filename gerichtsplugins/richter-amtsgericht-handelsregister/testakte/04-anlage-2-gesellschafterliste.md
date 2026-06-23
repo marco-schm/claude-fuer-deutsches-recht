@@ -10,5 +10,3 @@ Gesellschafterliste, Stand 02.06.2026
 | | Summe | | 25.000 | 100 |
 
 Die Liste umfasst den einzigen Geschaeftsanteil der Gesellschaft. Eine Veraenderung im Gesellschafterbestand ist mit der angemeldeten Vertretungsaenderung nicht verbunden; die Liste wird nur zur Information ueber die Beteiligungsverhaeltnisse beigefuegt.
-
-Hinweis fuer die Akte: Die Vertretungsaenderung loest fuer sich genommen keine Pflicht zur Einreichung einer geaenderten Gesellschafterliste aus, weil der Gesellschafterbestand unveraendert bleibt (Paragraf 40 GmbHG betrifft Veraenderungen in den Personen der Gesellschafter und ihrer Beteiligung). Die Liste ist gleichwohl konsistent zum Beschluss und dient der Pruefung der Beschlusskompetenz der Alleingesellschafterin.

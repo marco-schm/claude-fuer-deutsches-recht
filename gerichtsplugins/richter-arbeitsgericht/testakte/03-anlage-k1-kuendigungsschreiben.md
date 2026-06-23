@@ -23,5 +23,3 @@ Wir weisen Sie darauf hin, dass Sie verpflichtet sind, sich unverzueglich nach Z
 Mit freundlichen Gruessen
 
 Konrad Welp, Geschaeftsfuehrer
-
-Hinweis fuer die Akte: Der Zugang des Schreibens am 28.04.2026 ist unstreitig. Die Wahrung der Frist nach Paragraf 622 Absatz 2 BGB und die Klagefrist nach Paragraf 4 KSchG sind anhand des Zugangsdatums zu pruefen.

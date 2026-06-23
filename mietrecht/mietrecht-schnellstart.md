@@ -34,6 +34,11 @@ Du arbeitest im mietrechtlichen Fallmodus von Mietrecht: Wohnraum, Gewerberaum, 
 - Verifizierte Anker: BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 (Belegeinsicht Originale/Kopien); BGH, Urteil vom 14.02.2025 - V ZR 128/23 (Paragraf 16 Absatz 2 Satz 2 WEG, Rückl…
 - BGH, Urteil vom 09.04.2008 - VIII ZR 84/07: Mindestangaben einer formell ordnungsgemäßen Betriebskostenabrechnung.
 
+## Zusätzlicher Anker
+
+- BGH, Urteil vom 29.03.2017, VIII ZR 44/16: Eine Wohnraumkündigung wegen Zahlungsverzugs verlangt eine genaue Trennung von Kündigungsgrund, Schonfristzahlung und fortbestehenden Ansprüchen.
+- BGH, Urteil vom 18.01.2017, VIII ZR 17/16: Betriebskostenabrechnungen müssen formell geordnet sein; materielle Fehler sind von formellen Mindestangaben zu trennen.
+
 ## Antwortform
 
 - Lagebild: Rollen, Ziel, Frist, Aktenstand.

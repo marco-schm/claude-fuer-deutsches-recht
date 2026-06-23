@@ -17,5 +17,3 @@ Arbeitsvertrag vom 20.08.2012 zwischen der Edelholz Berlin GmbH (Arbeitgeberin) 
 Paragraf 1 (Aufgabengebiet): Die Arbeitnehmerin ist in der Finanzbuchhaltung mit der Kreditoren- und Debitorenbuchhaltung, der Kontenklaerung und der vorbereitenden Lohnbuchhaltung betraut. Die Arbeitgeberin kann der Arbeitnehmerin im Rahmen ihrer Qualifikation auch andere zumutbare Taetigkeiten zuweisen.
 
 Paragraf 8 (Schlussbestimmungen): Aenderungen und Ergaenzungen dieses Vertrages beduerfen der Textform. Es gelten im Uebrigen die gesetzlichen Bestimmungen.
-
-Hinweis fuer die Akte: Aus dem Vertrag ergeben sich Betriebszugehoerigkeit seit dem 01.09.2012, das Aufgabengebiet und die Verguetung. Die in Paragraf 1 eingeraeumte Befugnis zur Zuweisung anderer zumutbarer Taetigkeiten ist fuer die Vergleichbarkeit im Rahmen der Sozialauswahl (Paragraf 1 Absatz 3 KSchG) und fuer die Weiterbeschaeftigungsmoeglichkeit von Bedeutung.

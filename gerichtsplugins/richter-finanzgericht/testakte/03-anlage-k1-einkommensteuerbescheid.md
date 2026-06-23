@@ -21,5 +21,3 @@ Der Bescheid aendert den vorangegangenen Bescheid vom 30.06.2024 nach Paragraf 1
 Erlaeuterungen: Die Besteuerungsgrundlagen wurden nach Paragraf 162 AO im Anschluss an die Aussenpruefung teilweise geschaetzt. Wegen der Einzelheiten wird auf den Bericht ueber die Aussenpruefung vom 28.10.2025 (Anlage K 2) verwiesen.
 
 Rechtsbehelfsbelehrung: Gegen diesen Bescheid ist der Einspruch gegeben (Paragrafen 347, 355 AO), einzulegen binnen eines Monats nach Bekanntgabe beim Finanzamt Musterstadt.
-
-Hinweis fuer die Akte: Der Mehrbetrag der Einkommensteuer von 18.900 Euro bildet zugleich den vorlaeufigen Streitwert. Die Hinzuschaetzung von 60.000 Euro Gewinn ist in voller Hoehe streitig.

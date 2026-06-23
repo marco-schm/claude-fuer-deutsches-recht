@@ -16,5 +16,3 @@ Betrieb: Edelholz Musterstadt e. K., Inhaber Konrad Welp
 | Leasing Geschaeftsfahrzeug | 9.600 |
 | Sonstige betriebliche Aufwendungen | 12.000 |
 | Vorlaeufiges Betriebsergebnis | 2.400 |
-
-Hinweis fuer die Akte: Die betriebswirtschaftliche Auswertung ist eine vorlaeufige unterjaehrige Aufstellung, kein testierter Jahresabschluss. Mehrere Positionen sind unterhaltsrechtlich zu hinterfragen: Die Abschreibungen von 19.000 Euro mindern den steuerlichen Gewinn, fuehren aber nicht zwingend zu einem entsprechenden Liquiditaetsabfluss und sind unterhaltsrechtlich teilweise hinzuzurechnen. Die Leasingrate des Geschaeftsfahrzeugs ist auf einen privaten Nutzungsanteil zu pruefen. Privatentnahmen sind nicht ausgewiesen und gesondert zu erfragen. Diese Auswertung belegt fuer sich genommen keine Leistungsunfaehigkeit; sie ist Anknuepfungstatsache fuer die Pruefung des bereinigten Einkommens und gegebenenfalls fuer ein Sachverstaendigengutachten.

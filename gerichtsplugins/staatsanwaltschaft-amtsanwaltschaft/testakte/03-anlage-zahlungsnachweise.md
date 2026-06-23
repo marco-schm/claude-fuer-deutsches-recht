@@ -11,5 +11,3 @@ Zusammenstellung der von den vier Geschaedigten vorgelegten Bestellbestaetigunge
 | | | | Summe | 9.400 | |
 
 Jede Bestellbestaetigung weist die Edelholz Berlin GmbH als Verkaeuferin, ausschliesslich Vorkasse per Ueberweisung und eine zugesagte Lieferzeit von vierzehn Tagen aus. Das Zielkonto ist in allen vier Faellen identisch und stimmt mit dem in der Kontoauswertung (Anlage zu 04) gefuehrten Geschaeftskonto der Edelholz Berlin GmbH ueberein.
-
-Hinweis fuer die Akte: Die Belege weisen Zahlung und ausbleibende Lieferung nach. Sie tragen fuer sich genommen noch keine Aussage zum Vorsatz der Beschuldigten zum Zeitpunkt der jeweiligen Bestellannahme; dieser ist gesondert zu pruefen.
