@@ -1,6 +1,6 @@
 # bav-strategie-konzern
 
-**58 Skills** · Stand `v385.0.0`
+**58 Skills** · Stand `v386.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bav-strategie-konzern/README.md)

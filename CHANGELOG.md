@@ -1,3 +1,16 @@
+# v386.0.0 — Handkuratierte Eloquenz-Veredelung: Mietrecht-Werkstatt auf Spitzenniveau
+
+Triage statt Breitensweep. Befund: Die Stationen der Werkstatt-Prompts tragen themenscharfe Ueberschriften, aber die Bodies aus Eingang, Pruefung und Arbeitsprodukt waren generatorbedingt wortgleiches Boilerplate, fuenffach je Prompt wiederholt. Das ist der Hebel.
+
+- Flaggschiff dieser Runde ist das Plugin mietrecht, weil es die hoechste Praxisreichweite hat und der generische Stationstext dort am meisten schadet. Die fuenf Stationen des Werkstatt-Prompts (Vertrag und Objekt, Zahlung und Abrechnung, Mangel und Nutzung, Kuendigung und Raeumung, Wohnungseigentum und Beschluss) wurden handkuratiert mit themenscharfem Eingang, themenscharfer Pruefung, konkretem Arbeitsprodukt und je einem eigenen Pruefraster mit sechs Handlungsanweisungen versehen. Rolle und Stop-Kriterien sind auf den Punkt gebracht, das Schriftsatzgeruest und die Musterbausteine sind mietrechtlich konkret (Minderung, Eigenbedarfskuendigung, Nachforderung).
+- Pflichtnormen und Leitentscheidungen blieben unveraendert; an Aktenzeichen, Daten und Kernsaetzen wurde nichts geaendert. Der Schnellstart-Prompt war bereits autark und kohaerent mit den Stationen und wurde belassen.
+- Sanity des Flaggschiffs: 153 Zeilen, kein Paragrafensymbol, keine Doppelsterne im Fliesstext, keine XML-Klammern, keine Floskeln, keine Komma-Ziffer-Paare; Schnellstart unter 7500 Zeichen.
+- Repo-weiter Versions-Bump auf v386.0.0. YAML- und Strukturvalidator laufen fehlerfrei.
+
+Naechster Handwork-Loop (Triage-Auswahl, noch nicht ausgefuehrt): arbeitsrecht, fachanwalt-familienrecht, fachanwalt-strafrecht, fachanwalt-miet-wohnungseigentumsrecht, subsumtions-pruefer, insolvenzverwaltung, fachanwalt-verwaltungsrecht, richter-amtsgericht-zivil, richter-familiengericht, staatsanwaltschaft-amtsanwaltschaft, forderungsmanagement-klagewerkstatt.
+
+---
+
 # v385.0.0 — Finale Veredelung: Cowork-Marktplatz bereinigt, Sanity- und Coherency-Sweep
 
 Letzte Schicht ueber alle Plugins, Skills, Werkstatt- und Schnellstart-Prompts: Verwendbarkeit, Konsistenz und harte Funktionsfaehigkeit fuer den Claude-Cowork-Marktplatz.
