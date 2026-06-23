@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | [versicherungsrecht-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/versicherungsrecht/versicherungsrecht-werkstatt.md) |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [versicherungsrecht-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/versicherungsrecht/versicherungsrecht-schnellstart.md) |
+| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/versicherungsrecht/versicherungsrecht-werkstatt.md" download>versicherungsrecht-werkstatt.md</a> |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/versicherungsrecht/versicherungsrecht-schnellstart.md" download>versicherungsrecht-schnellstart.md</a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [versicherungsrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/versicherungsrecht.zip) |
 

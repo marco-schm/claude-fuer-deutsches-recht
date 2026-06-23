@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | [mietrecht-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/mietrecht/mietrecht-werkstatt.md) |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [mietrecht-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/mietrecht/mietrecht-schnellstart.md) |
+| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/mietrecht/mietrecht-werkstatt.md" download>mietrecht-werkstatt.md</a> |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/mietrecht/mietrecht-schnellstart.md" download>mietrecht-schnellstart.md</a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [mietrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/mietrecht.zip) |
 

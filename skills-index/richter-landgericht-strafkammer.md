@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | [richter-landgericht-strafkammer-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-landgericht-strafkammer/richter-landgericht-strafkammer-werkstatt.md) |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [richter-landgericht-strafkammer-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-landgericht-strafkammer/richter-landgericht-strafkammer-schnellstart.md) |
+| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-landgericht-strafkammer/richter-landgericht-strafkammer-werkstatt.md" download>richter-landgericht-strafkammer-werkstatt.md</a> |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-landgericht-strafkammer/richter-landgericht-strafkammer-schnellstart.md" download>richter-landgericht-strafkammer-schnellstart.md</a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [richter-landgericht-strafkammer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-landgericht-strafkammer.zip) |
 

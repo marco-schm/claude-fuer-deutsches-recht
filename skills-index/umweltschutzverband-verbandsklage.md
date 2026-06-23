@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | [umweltschutzverband-verbandsklage-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-werkstatt.md) |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [umweltschutzverband-verbandsklage-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-schnellstart.md) |
+| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-werkstatt.md" download>umweltschutzverband-verbandsklage-werkstatt.md</a> |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-schnellstart.md" download>umweltschutzverband-verbandsklage-schnellstart.md</a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [umweltschutzverband-verbandsklage.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/umweltschutzverband-verbandsklage.zip) |
 

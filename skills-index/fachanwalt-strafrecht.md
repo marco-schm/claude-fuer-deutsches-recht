@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | [fachanwalt-strafrecht-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/fachanwalt-strafrecht/fachanwalt-strafrecht-werkstatt.md) |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [fachanwalt-strafrecht-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/fachanwalt-strafrecht/fachanwalt-strafrecht-schnellstart.md) |
+| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/fachanwalt-strafrecht/fachanwalt-strafrecht-werkstatt.md" download>fachanwalt-strafrecht-werkstatt.md</a> |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/fachanwalt-strafrecht/fachanwalt-strafrecht-schnellstart.md" download>fachanwalt-strafrecht-schnellstart.md</a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [fachanwalt-strafrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-strafrecht.zip) |
 

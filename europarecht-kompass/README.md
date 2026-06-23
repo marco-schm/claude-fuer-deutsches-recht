@@ -16,8 +16,8 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg für Claude Cod
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
 | Plugin als Komplett-ZIP (Hauptweg, für Claude Code / Cowork) | ZIP | [`europarecht-kompass.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/europarecht-kompass.zip) |
-| Großer Prompt (Werkstatt, Alternative ohne Plugin-Setup) | Markdown | [`europarecht-kompass-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/europarecht-kompass/europarecht-kompass-werkstatt.md) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen, Spar-Alternative) | Markdown | [`europarecht-kompass-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/europarecht-kompass/europarecht-kompass-schnellstart.md) |
+| Großer Prompt (Werkstatt, Alternative ohne Plugin-Setup) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/europarecht-kompass/europarecht-kompass-werkstatt.md" download><code>europarecht-kompass-werkstatt.md</code></a> |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen, Spar-Alternative) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/europarecht-kompass/europarecht-kompass-schnellstart.md" download><code>europarecht-kompass-schnellstart.md</code></a> |
 | Testakte(n) als ZIP | ZIP | [`testakte-europarecht-kompass-beihilfe-richtlinie.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-europarecht-kompass-beihilfe-richtlinie.zip) (Europarecht-Kompass – Beihilfe, Richtlinie und Vorlagefrage) |
 
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 229 Plugins in Claude Code / Cowork verfügbar und können einzeln aktiviert werden.

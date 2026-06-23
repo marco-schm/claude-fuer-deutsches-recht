@@ -16,8 +16,8 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg für Claude Cod
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
 | Plugin als Komplett-ZIP (Hauptweg, für Claude Code / Cowork) | ZIP | [`insiderrecht-compliance.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insiderrecht-compliance.zip) |
-| Großer Prompt (Werkstatt, Alternative ohne Plugin-Setup) | Markdown | [`insiderrecht-compliance-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/insiderrecht-compliance/insiderrecht-compliance-werkstatt.md) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen, Spar-Alternative) | Markdown | [`insiderrecht-compliance-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/insiderrecht-compliance/insiderrecht-compliance-schnellstart.md) |
+| Großer Prompt (Werkstatt, Alternative ohne Plugin-Setup) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/insiderrecht-compliance/insiderrecht-compliance-werkstatt.md" download><code>insiderrecht-compliance-werkstatt.md</code></a> |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen, Spar-Alternative) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/insiderrecht-compliance/insiderrecht-compliance-schnellstart.md" download><code>insiderrecht-compliance-schnellstart.md</code></a> |
 | Testakte(n) als ZIP | ZIP | [`testakte-insiderrecht-meridian-medtech-ad-hoc-ma-leak.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insiderrecht-meridian-medtech-ad-hoc-ma-leak.zip) (Meridian MedTech: Insiderrecht, Ad-hoc und M&A-Leak) |
 
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 229 Plugins in Claude Code / Cowork verfügbar und können einzeln aktiviert werden.

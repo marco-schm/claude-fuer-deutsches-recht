@@ -16,8 +16,8 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg für Claude Cod
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
 | Plugin als Komplett-ZIP (Hauptweg, für Claude Code / Cowork) | ZIP | [`arbeitszeugnis-analyse.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/arbeitszeugnis-analyse.zip) |
-| Großer Prompt (Werkstatt, Alternative ohne Plugin-Setup) | Markdown | [`arbeitszeugnis-analyse-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/arbeitszeugnis-analyse/arbeitszeugnis-analyse-werkstatt.md) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen, Spar-Alternative) | Markdown | [`arbeitszeugnis-analyse-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/arbeitszeugnis-analyse/arbeitszeugnis-analyse-schnellstart.md) |
+| Großer Prompt (Werkstatt, Alternative ohne Plugin-Setup) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/arbeitszeugnis-analyse/arbeitszeugnis-analyse-werkstatt.md" download><code>arbeitszeugnis-analyse-werkstatt.md</code></a> |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen, Spar-Alternative) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/arbeitszeugnis-analyse/arbeitszeugnis-analyse-schnellstart.md" download><code>arbeitszeugnis-analyse-schnellstart.md</code></a> |
 | Testakte(n) als ZIP | ZIP | [`testakte-arbeitszeugnis-analyse-bluehendes-leben.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arbeitszeugnis-analyse-bluehendes-leben.zip) (Arbeitszeugnis-Analyse — aus dem blühenden Leben) |
 
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 229 Plugins in Claude Code / Cowork verfügbar und können einzeln aktiviert werden.

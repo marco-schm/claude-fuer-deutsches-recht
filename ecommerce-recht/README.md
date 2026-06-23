@@ -16,8 +16,8 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg für Claude Cod
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
 | Plugin als Komplett-ZIP (Hauptweg, für Claude Code / Cowork) | ZIP | [`ecommerce-recht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ecommerce-recht.zip) |
-| Großer Prompt (Werkstatt, Alternative ohne Plugin-Setup) | Markdown | [`ecommerce-recht-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/ecommerce-recht/ecommerce-recht-werkstatt.md) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen, Spar-Alternative) | Markdown | [`ecommerce-recht-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/ecommerce-recht/ecommerce-recht-schnellstart.md) |
+| Großer Prompt (Werkstatt, Alternative ohne Plugin-Setup) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/ecommerce-recht/ecommerce-recht-werkstatt.md" download><code>ecommerce-recht-werkstatt.md</code></a> |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen, Spar-Alternative) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/ecommerce-recht/ecommerce-recht-schnellstart.md" download><code>ecommerce-recht-schnellstart.md</code></a> |
 | Testakte(n) als ZIP | ZIP | [`testakte-fashion-law-moderecht-nachtfalter-kollektion-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fashion-law-moderecht-nachtfalter-kollektion-2026.zip) (Nachtfalter Studio: Capsule Collection, Lieferkette, Influencer und Plattformkopien) |
 
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 229 Plugins in Claude Code / Cowork verfügbar und können einzeln aktiviert werden.

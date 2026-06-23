@@ -16,8 +16,8 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg für Claude Cod
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
 | Plugin als Komplett-ZIP (Hauptweg, für Claude Code / Cowork) | ZIP | [`erbbaurecht-praxis.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/erbbaurecht-praxis.zip) |
-| Großer Prompt (Werkstatt, Alternative ohne Plugin-Setup) | Markdown | [`erbbaurecht-praxis-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/erbbaurecht-praxis/erbbaurecht-praxis-werkstatt.md) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen, Spar-Alternative) | Markdown | [`erbbaurecht-praxis-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/erbbaurecht-praxis/erbbaurecht-praxis-schnellstart.md) |
+| Großer Prompt (Werkstatt, Alternative ohne Plugin-Setup) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/erbbaurecht-praxis/erbbaurecht-praxis-werkstatt.md" download><code>erbbaurecht-praxis-werkstatt.md</code></a> |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen, Spar-Alternative) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/erbbaurecht-praxis/erbbaurecht-praxis-schnellstart.md" download><code>erbbaurecht-praxis-schnellstart.md</code></a> |
 | Testakte(n) als ZIP | ZIP | [`testakte-erbbaurecht-erbbauzins-heimfall-lindenwerder-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbbaurecht-erbbauzins-heimfall-lindenwerder-2026.zip) (Lindenwerder Erbbaurecht - Erbbauzins, Heimfall und Kita-Finanzierung) |
 
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 229 Plugins in Claude Code / Cowork verfügbar und können einzeln aktiviert werden.

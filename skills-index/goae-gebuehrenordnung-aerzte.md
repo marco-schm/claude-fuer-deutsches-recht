@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | [goae-gebuehrenordnung-aerzte-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/goae-gebuehrenordnung-aerzte/goae-gebuehrenordnung-aerzte-werkstatt.md) |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [goae-gebuehrenordnung-aerzte-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/goae-gebuehrenordnung-aerzte/goae-gebuehrenordnung-aerzte-schnellstart.md) |
+| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/goae-gebuehrenordnung-aerzte/goae-gebuehrenordnung-aerzte-werkstatt.md" download>goae-gebuehrenordnung-aerzte-werkstatt.md</a> |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/goae-gebuehrenordnung-aerzte/goae-gebuehrenordnung-aerzte-schnellstart.md" download>goae-gebuehrenordnung-aerzte-schnellstart.md</a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [goae-gebuehrenordnung-aerzte.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/goae-gebuehrenordnung-aerzte.zip) |
 

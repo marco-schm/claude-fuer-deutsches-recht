@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | [deutsche-rechtsgeschichte-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/deutsche-rechtsgeschichte/deutsche-rechtsgeschichte-werkstatt.md) |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [deutsche-rechtsgeschichte-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/deutsche-rechtsgeschichte/deutsche-rechtsgeschichte-schnellstart.md) |
+| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/deutsche-rechtsgeschichte/deutsche-rechtsgeschichte-werkstatt.md" download>deutsche-rechtsgeschichte-werkstatt.md</a> |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/deutsche-rechtsgeschichte/deutsche-rechtsgeschichte-schnellstart.md" download>deutsche-rechtsgeschichte-schnellstart.md</a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [deutsche-rechtsgeschichte.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/deutsche-rechtsgeschichte.zip) |
 

@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | [kriegsdienstverweigerung-wehrdienst-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/kriegsdienstverweigerung-wehrdienst/kriegsdienstverweigerung-wehrdienst-werkstatt.md) |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [kriegsdienstverweigerung-wehrdienst-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/kriegsdienstverweigerung-wehrdienst/kriegsdienstverweigerung-wehrdienst-schnellstart.md) |
+| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/kriegsdienstverweigerung-wehrdienst/kriegsdienstverweigerung-wehrdienst-werkstatt.md" download>kriegsdienstverweigerung-wehrdienst-werkstatt.md</a> |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/kriegsdienstverweigerung-wehrdienst/kriegsdienstverweigerung-wehrdienst-schnellstart.md" download>kriegsdienstverweigerung-wehrdienst-schnellstart.md</a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [kriegsdienstverweigerung-wehrdienst.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kriegsdienstverweigerung-wehrdienst.zip) |
 

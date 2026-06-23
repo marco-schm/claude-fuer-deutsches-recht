@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | [rechtstheorie-rechtsphilosophie-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/rechtstheorie-rechtsphilosophie/rechtstheorie-rechtsphilosophie-werkstatt.md) |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [rechtstheorie-rechtsphilosophie-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/rechtstheorie-rechtsphilosophie/rechtstheorie-rechtsphilosophie-schnellstart.md) |
+| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/rechtstheorie-rechtsphilosophie/rechtstheorie-rechtsphilosophie-werkstatt.md" download>rechtstheorie-rechtsphilosophie-werkstatt.md</a> |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/rechtstheorie-rechtsphilosophie/rechtstheorie-rechtsphilosophie-schnellstart.md" download>rechtstheorie-rechtsphilosophie-schnellstart.md</a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [rechtstheorie-rechtsphilosophie.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/rechtstheorie-rechtsphilosophie.zip) |
 

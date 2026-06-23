@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | [berufsrecht-wirtschaftspruefer-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/berufsrecht-wirtschaftspruefer/berufsrecht-wirtschaftspruefer-werkstatt.md) |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [berufsrecht-wirtschaftspruefer-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/berufsrecht-wirtschaftspruefer/berufsrecht-wirtschaftspruefer-schnellstart.md) |
+| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/berufsrecht-wirtschaftspruefer/berufsrecht-wirtschaftspruefer-werkstatt.md" download>berufsrecht-wirtschaftspruefer-werkstatt.md</a> |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/berufsrecht-wirtschaftspruefer/berufsrecht-wirtschaftspruefer-schnellstart.md" download>berufsrecht-wirtschaftspruefer-schnellstart.md</a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [berufsrecht-wirtschaftspruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-wirtschaftspruefer.zip) |
 

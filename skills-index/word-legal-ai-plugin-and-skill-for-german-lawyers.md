@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | [word-legal-ai-plugin-and-skill-for-german-lawyers-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/word-legal-ai-plugin-and-skill-for-german-lawyers/word-legal-ai-plugin-and-skill-for-german-lawyers-werkstatt.md) |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [word-legal-ai-plugin-and-skill-for-german-lawyers-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/word-legal-ai-plugin-and-skill-for-german-lawyers/word-legal-ai-plugin-and-skill-for-german-lawyers-schnellstart.md) |
+| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/word-legal-ai-plugin-and-skill-for-german-lawyers/word-legal-ai-plugin-and-skill-for-german-lawyers-werkstatt.md" download>word-legal-ai-plugin-and-skill-for-german-lawyers-werkstatt.md</a> |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/word-legal-ai-plugin-and-skill-for-german-lawyers/word-legal-ai-plugin-and-skill-for-german-lawyers-schnellstart.md" download>word-legal-ai-plugin-and-skill-for-german-lawyers-schnellstart.md</a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [word-legal-ai-plugin-and-skill-for-german-lawyers.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/word-legal-ai-plugin-and-skill-for-german-lawyers.zip) |
 

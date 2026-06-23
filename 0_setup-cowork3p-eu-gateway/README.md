@@ -78,3 +78,4 @@ Arbeitsbereich-Einschränkungen). Den **API-Key nicht** in der Datei speichern, 
 - **Kosten:** Die Nutzung über die API wird **nach Verbrauch** (pro Token) abgerechnet – anders als bei den
   klassischen Anthropic-Lizenzen. Der konkrete Tarif ergibt sich aus dem Vertrag mit dem Gateway-Anbieter.
 - **Telemetrie:** Die mitgelieferte Config setzt `disableEssentialTelemetry`, `disableNonessentialTelemetry`, `disableNonessentialServices` und `disableAutoUpdates` auf `true`. Damit gehen keine routinemäßigen Telemetrie- und Update-Calls an Anthropic. Konversations-Inhalte selbst laufen über den Gateway zum jeweiligen Backend (Bedrock / Vertex).
+- **Konkrete Anbieter:** Eine anbieterspezifische Schritt-für-Schritt-Anleitung für einen DE-EU-Gateway findet sich im Nachbarordner `0_setup-cowork3p-de/`.

@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | [buerokratieversteher-entbuerokratisierer-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/buerokratieversteher-entbuerokratisierer/buerokratieversteher-entbuerokratisierer-werkstatt.md) |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [buerokratieversteher-entbuerokratisierer-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/buerokratieversteher-entbuerokratisierer/buerokratieversteher-entbuerokratisierer-schnellstart.md) |
+| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/buerokratieversteher-entbuerokratisierer/buerokratieversteher-entbuerokratisierer-werkstatt.md" download>buerokratieversteher-entbuerokratisierer-werkstatt.md</a> |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/buerokratieversteher-entbuerokratisierer/buerokratieversteher-entbuerokratisierer-schnellstart.md" download>buerokratieversteher-entbuerokratisierer-schnellstart.md</a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [buerokratieversteher-entbuerokratisierer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/buerokratieversteher-entbuerokratisierer.zip) |
 

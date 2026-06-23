@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | [parteienrecht-parteiorganisation-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/parteienrecht-parteiorganisation/parteienrecht-parteiorganisation-werkstatt.md) |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [parteienrecht-parteiorganisation-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/parteienrecht-parteiorganisation/parteienrecht-parteiorganisation-schnellstart.md) |
+| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/parteienrecht-parteiorganisation/parteienrecht-parteiorganisation-werkstatt.md" download>parteienrecht-parteiorganisation-werkstatt.md</a> |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/parteienrecht-parteiorganisation/parteienrecht-parteiorganisation-schnellstart.md" download>parteienrecht-parteiorganisation-schnellstart.md</a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [parteienrecht-parteiorganisation.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/parteienrecht-parteiorganisation.zip) |
 

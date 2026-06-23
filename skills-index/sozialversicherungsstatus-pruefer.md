@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | [sozialversicherungsstatus-pruefer-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/sozialversicherungsstatus-pruefer/sozialversicherungsstatus-pruefer-werkstatt.md) |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [sozialversicherungsstatus-pruefer-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/sozialversicherungsstatus-pruefer/sozialversicherungsstatus-pruefer-schnellstart.md) |
+| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/sozialversicherungsstatus-pruefer/sozialversicherungsstatus-pruefer-werkstatt.md" download>sozialversicherungsstatus-pruefer-werkstatt.md</a> |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/sozialversicherungsstatus-pruefer/sozialversicherungsstatus-pruefer-schnellstart.md" download>sozialversicherungsstatus-pruefer-schnellstart.md</a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [sozialversicherungsstatus-pruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/sozialversicherungsstatus-pruefer.zip) |
 

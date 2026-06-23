@@ -406,8 +406,8 @@ def write_readme_links(plugin_dir: Path) -> None:
         "",
         "Diese Markdown-Prompts sind autarke Arbeitsfassungen fuer Nutzer, die das Plugin nicht installieren. Sie werden direkt als Markdown-Dateien geladen.",
         "",
-        f"- Werkstatt-Prompt: [{slug}-werkstatt.md]({raw_base}/{slug}-werkstatt.md)",
-        f"- Schnellstart-Prompt: [{slug}-schnellstart.md]({raw_base}/{slug}-schnellstart.md)",
+        f'- Werkstatt-Prompt: <a href="{raw_base}/{slug}-werkstatt.md" download>{slug}-werkstatt.md</a>',
+        f'- Schnellstart-Prompt: <a href="{raw_base}/{slug}-schnellstart.md" download>{slug}-schnellstart.md</a>',
         "",
         "<!-- END werkstatt-schnellstart-raw-links (autogen) -->",
     ])

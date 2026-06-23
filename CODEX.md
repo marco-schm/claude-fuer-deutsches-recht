@@ -51,7 +51,7 @@ bleiben — auch wenn sie nur einmal oder unregelmaessig laufen:
 ### Plugin-Hilfsdateien
 
 - `0_setup-cowork3p-eu-gateway/` ist anbieterneutral gehalten. Keine
-  konkreten Anbieternamen (`langdock`, `helicone`, vergleichbare)
+  konkreten Anbieternamen (zum Beispiel anbieterspezifische Schritte fuer einen EU-Gateway)
   wieder einsetzen. Die Generalisierung war Ergebnis mehrerer
   expliziter User-Runden (PRs #262, #266, #269).
 

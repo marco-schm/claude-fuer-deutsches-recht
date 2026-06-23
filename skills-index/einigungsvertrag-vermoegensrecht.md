@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | [einigungsvertrag-vermoegensrecht-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/einigungsvertrag-vermoegensrecht/einigungsvertrag-vermoegensrecht-werkstatt.md) |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [einigungsvertrag-vermoegensrecht-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/einigungsvertrag-vermoegensrecht/einigungsvertrag-vermoegensrecht-schnellstart.md) |
+| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/einigungsvertrag-vermoegensrecht/einigungsvertrag-vermoegensrecht-werkstatt.md" download>einigungsvertrag-vermoegensrecht-werkstatt.md</a> |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/einigungsvertrag-vermoegensrecht/einigungsvertrag-vermoegensrecht-schnellstart.md" download>einigungsvertrag-vermoegensrecht-schnellstart.md</a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [einigungsvertrag-vermoegensrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einigungsvertrag-vermoegensrecht.zip) |
 

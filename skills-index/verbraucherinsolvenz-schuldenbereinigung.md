@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | [verbraucherinsolvenz-schuldenbereinigung-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verbraucherinsolvenz-schuldenbereinigung/verbraucherinsolvenz-schuldenbereinigung-werkstatt.md) |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [verbraucherinsolvenz-schuldenbereinigung-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verbraucherinsolvenz-schuldenbereinigung/verbraucherinsolvenz-schuldenbereinigung-schnellstart.md) |
+| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verbraucherinsolvenz-schuldenbereinigung/verbraucherinsolvenz-schuldenbereinigung-werkstatt.md" download>verbraucherinsolvenz-schuldenbereinigung-werkstatt.md</a> |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verbraucherinsolvenz-schuldenbereinigung/verbraucherinsolvenz-schuldenbereinigung-schnellstart.md" download>verbraucherinsolvenz-schuldenbereinigung-schnellstart.md</a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [verbraucherinsolvenz-schuldenbereinigung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verbraucherinsolvenz-schuldenbereinigung.zip) |
 

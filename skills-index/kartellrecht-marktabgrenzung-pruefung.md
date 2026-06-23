@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | [kartellrecht-marktabgrenzung-pruefung-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/kartellrecht-marktabgrenzung-pruefung/kartellrecht-marktabgrenzung-pruefung-werkstatt.md) |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [kartellrecht-marktabgrenzung-pruefung-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/kartellrecht-marktabgrenzung-pruefung/kartellrecht-marktabgrenzung-pruefung-schnellstart.md) |
+| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/kartellrecht-marktabgrenzung-pruefung/kartellrecht-marktabgrenzung-pruefung-werkstatt.md" download>kartellrecht-marktabgrenzung-pruefung-werkstatt.md</a> |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/kartellrecht-marktabgrenzung-pruefung/kartellrecht-marktabgrenzung-pruefung-schnellstart.md" download>kartellrecht-marktabgrenzung-pruefung-schnellstart.md</a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [kartellrecht-marktabgrenzung-pruefung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kartellrecht-marktabgrenzung-pruefung.zip) |
 

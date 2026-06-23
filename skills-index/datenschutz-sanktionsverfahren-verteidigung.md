@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | [datenschutz-sanktionsverfahren-verteidigung-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/datenschutz-sanktionsverfahren-verteidigung/datenschutz-sanktionsverfahren-verteidigung-werkstatt.md) |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [datenschutz-sanktionsverfahren-verteidigung-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/datenschutz-sanktionsverfahren-verteidigung/datenschutz-sanktionsverfahren-verteidigung-schnellstart.md) |
+| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/datenschutz-sanktionsverfahren-verteidigung/datenschutz-sanktionsverfahren-verteidigung-werkstatt.md" download>datenschutz-sanktionsverfahren-verteidigung-werkstatt.md</a> |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/datenschutz-sanktionsverfahren-verteidigung/datenschutz-sanktionsverfahren-verteidigung-schnellstart.md" download>datenschutz-sanktionsverfahren-verteidigung-schnellstart.md</a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [datenschutz-sanktionsverfahren-verteidigung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenschutz-sanktionsverfahren-verteidigung.zip) |
 
