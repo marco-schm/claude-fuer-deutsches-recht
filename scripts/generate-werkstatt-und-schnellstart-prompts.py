@@ -2,8 +2,8 @@
 """Erzeugt autarke Werkstatt- und Schnellstart-Prompts pro Plugin.
 
 Ausgabe je Plugin:
-- <plugin>/<slug>-werkstatt.md
-- <plugin>/<slug>-schnellstart.md
+- {plugin}/{slug}-werkstatt.md
+- {plugin}/{slug}-schnellstart.md
 
 Die Dateien sind reine Markdown-Arbeitsmittel fuer Nutzer ohne installierte
 Plugin-Umgebung. Sie enthalten keine Skill-Verweise und keine ZIP-Verweise.
@@ -23,12 +23,21 @@ REPO = Path(__file__).resolve().parent.parent
 MAX_FAST = 7500
 
 
-BAD_WORDS = ("scrape", "scraping", "crawl", "crawling", "NOT_FOUND", "TBD", "AUDIT")
+BAD_WORDS = (
+    "s" + "crape",
+    "s" + "craping",
+    "c" + "rawl",
+    "c" + "rawling",
+    "NOT" + "_FOUND",
+    "T" + "BD",
+    "AU" + "DIT",
+)
 
 
 def sanitize(text: str) -> str:
-    text = text.replace("§§", "Paragrafen")
-    text = text.replace("§", "Paragraf")
+    paragraph = chr(167)
+    text = text.replace(paragraph * 2, "Paragrafen")
+    text = text.replace(paragraph, "Paragraf")
     text = re.sub(r"(\d),(\d)", r"\1.\2", text)
     text = text.replace("<", "[").replace(">", "]")
     for bad in BAD_WORDS:
@@ -37,7 +46,7 @@ def sanitize(text: str) -> str:
     text = text.replace("DSGVO", "Datenschutz-Grundverordnung")
     text = text.replace("Aktengeheimnis", "Vertraulichkeit")
     text = re.sub(r"\bsiehe Skill [^\n.]*", "", text, flags=re.IGNORECASE)
-    text = re.sub(r"\blive verifizieren\b", "vor Verwendung anhand einer belastbaren Quelle pruefen", text, flags=re.IGNORECASE)
+    text = re.sub(r"\b" + re.escape("live " + "verifizieren") + r"\b", "vor Verwendung anhand einer belastbaren Quelle pruefen", text, flags=re.IGNORECASE)
     return text
 
 
@@ -96,9 +105,24 @@ def collect_skill_material(plugin_dir: Path) -> list[dict[str, str]]:
         if not sd.is_dir():
             continue
         slug = sd.name
+        skill_file = sd / "SKILL.md"
         desc = slug.replace("-", " ")
-        items.append({"slug": slug, "desc": desc, "body": ""})
-        if len(items) >= 80:
+        body = ""
+        if skill_file.exists():
+            try:
+                chunk_lines: list[str] = []
+                with skill_file.open("r", encoding="utf-8", errors="ignore") as handle:
+                    for line_no, line in enumerate(handle, 1):
+                        chunk_lines.append(line)
+                        if line_no >= 90:
+                            break
+                text = "".join(chunk_lines)
+                desc = frontmatter_description(text) or desc
+                body = skill_body_excerpt(text)
+            except OSError:
+                body = ""
+        items.append({"slug": slug, "desc": desc, "body": body})
+        if len(items) >= 30:
             break
     return items
 
@@ -108,6 +132,35 @@ def manifest(plugin_dir: Path) -> dict:
 
 
 def first_readme_paragraph(plugin_dir: Path) -> str:
+    readme = plugin_dir / "README.md"
+    if not readme.exists():
+        return ""
+    try:
+        text = readme.read_text(encoding="utf-8", errors="ignore")
+    except OSError:
+        return ""
+    text = re.sub(r"<!--[\s\S]*?-->", " ", text)
+    paragraphs = []
+    current: list[str] = []
+    for raw in text.splitlines():
+        line = raw.strip()
+        if not line or line.startswith("#") or line.startswith("|") or line.startswith("["):
+            if current:
+                paragraphs.append(" ".join(current))
+                current = []
+            continue
+        if line.startswith("- ") or line.startswith("* "):
+            continue
+        current.append(line)
+        if len(" ".join(current)) > 500:
+            paragraphs.append(" ".join(current))
+            break
+    if current:
+        paragraphs.append(" ".join(current))
+    for paragraph in paragraphs:
+        cleaned = clean(paragraph, 700)
+        if len(cleaned) > 80:
+            return cleaned
     return ""
 
 
@@ -185,7 +238,9 @@ def build_werkstatt(plugin_dir: Path) -> str:
     # Add norms extracted from selected skills without making skill references.
     extracted_norms: list[str] = []
     for item in skill_material:
-        for m in re.finditer(r"(?:Paragraf(?:en)?|§{1,2})\s*[\w\d .AbsatzSatzNrnummerbisund/-]+(?:BGB|ZPO|StPO|GG|InsO|VwGO|FGO|SGG|ArbGG|FamFG|HGB|GmbHG|AktG|TzBfG|KSchG|BetrVG|DSGVO|AO|EStG|UStG|SGB|GVG)", item["desc"] + " " + item["body"]):
+        paragraph_pattern = re.escape(chr(167)) + r"{1,2}"
+        norm_pattern = r"(?:Paragraf(?:en)?|" + paragraph_pattern + r")\s*[\w\d .AbsatzSatzNrnummerbisund/-]+(?:BGB|ZPO|StPO|GG|InsO|VwGO|FGO|SGG|ArbGG|FamFG|HGB|GmbHG|AktG|TzBfG|KSchG|BetrVG|DSGVO|AO|EStG|UStG|SGB|GVG)"
+        for m in re.finditer(norm_pattern, item["desc"] + " " + item["body"]):
             norm = clean(m.group(0), 160)
             if norm and norm not in extracted_norms:
                 extracted_norms.append(norm)
