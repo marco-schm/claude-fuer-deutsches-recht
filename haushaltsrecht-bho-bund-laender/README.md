@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`haushaltsrecht-bho-bund-laender-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/haushaltsrecht-bho-bund-laender-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`haushaltsrecht-bho-bund-laender-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/haushaltsrecht-bho-bund-laender-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`haushaltsrecht-bho-bund-laender-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/haushaltsrecht-bho-bund-laender-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`haushaltsrecht-bho-bund-laender.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/haushaltsrecht-bho-bund-laender.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung.zip) (Haushaltsakte Bund/Land) |
@@ -19,26 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`haushaltsrecht-bho-bund-laender-schnellstart.md`](./haushaltsrecht-bho-bund-laender-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`haushaltsrecht-bho-bund-laender`) | [`haushaltsrecht-bho-bund-laender.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/haushaltsrecht-bho-bund-laender.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Haushaltsakte Bund/Land** (`haushaltsrecht-bho-szenario-buergergeld-verteidigung`) | [Gesamt-PDF lesen](../testakten/haushaltsrecht-bho-szenario-buergergeld-verteidigung/gesamt-pdf/haushaltsrecht-bho-szenario-buergergeld-verteidigung_gesamt.pdf) | [`testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Dieses Plugin macht Haushaltsrecht verständlich und bedienbar: vom ersten Blick in Einzelplan und Titel bis zur haushaltsrechtlichen Szenario-Umschichtung, Wirtschaftlichkeitsprüfung, Sondervermögen-Logik und Dashboard.
 
 ## Start
@@ -73,7 +53,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 345 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 346 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -235,6 +215,7 @@ Automatisch generierte Komplett-Liste aller 345 Skills in diesem Plugin. Beschre
 | `globaler-minderausgabe-vollzug-tracken` | Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Vollzug tracken im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 | `gruppierungsplan-funktionenplan` | Haushaltsrecht BHO Bund und Länder: Gruppierungsplan und Funktionenplan. Gruppierungsplan und Funktionenplan im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbei... |
 | `haushaltsgesetz-gegen-haushaltsplan` | Haushaltsrecht BHO Bund und Länder: Haushaltsgesetz gegen Haushaltsplan. Haushaltsgesetz gegen Haushaltsplan im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbei... |
+| `haushaltsrecht-bho-bund-laender-schnellstart` | 'Kompakter Arbeitsmodus für Haushaltsrecht BHO Bund und Länder. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `haushaltssperre-brh-frage-formulieren` | Haushaltsrecht BHO Bund und Länder: Haushaltssperre: BRH-Frage formulieren. BRH- im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 | `haushaltssperre-dashboard-bauen` | Haushaltsrecht BHO Bund und Länder: Haushaltssperre: Dashboard bauen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 | `haushaltssperre-deckung-finden` | Haushaltsrecht BHO Bund und Länder: Haushaltssperre: Deckung finden im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |

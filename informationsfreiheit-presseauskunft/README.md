@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`informationsfreiheit-presseauskunft-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/informationsfreiheit-presseauskunft-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`informationsfreiheit-presseauskunft-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/informationsfreiheit-presseauskunft-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`informationsfreiheit-presseauskunft-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/informationsfreiheit-presseauskunft-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`informationsfreiheit-presseauskunft.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/informationsfreiheit-presseauskunft.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-informationsfreiheit-presseauskunft-klinikdaten-hafenstadt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-informationsfreiheit-presseauskunft-klinikdaten-hafenstadt.zip) (IFG-/Presseauskunftsakte Hafenstadt) |
@@ -19,26 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`informationsfreiheit-presseauskunft-schnellstart.md`](./informationsfreiheit-presseauskunft-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`informationsfreiheit-presseauskunft`) | [`informationsfreiheit-presseauskunft.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/informationsfreiheit-presseauskunft.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **IFG-/Presseauskunftsakte Hafenstadt** (`informationsfreiheit-presseauskunft-klinikdaten-hafenstadt`) | [Gesamt-PDF lesen](../testakten/informationsfreiheit-presseauskunft-klinikdaten-hafenstadt/gesamt-pdf/informationsfreiheit-presseauskunft-klinikdaten-hafenstadt_gesamt.pdf) | [`testakte-informationsfreiheit-presseauskunft-klinikdaten-hafenstadt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-informationsfreiheit-presseauskunft-klinikdaten-hafenstadt.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Dieses Plugin ist das Cockpit für Menschen, Journalistinnen, Kanzleien, NGOs und Unternehmen, die amtliche Informationen bekommen wollen, ohne an Zuständigkeitsnebel, Gebührenbescheiden oder Ausweichantworten hängen zu bleiben.
 
 ## Start
@@ -73,7 +53,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 118 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -125,6 +105,7 @@ Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschre
 | `ifggebv-gebuehren-tracking-aktualisier` | Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Tracking aktualisieren im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 | `ifggebv-gebuehren-zustaendigkeit-pruef` | Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Zuständigkeit prüfen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 | `informationsbegehren-sortier` | Informationsfreiheit und Presseauskunft: Kaltstart Informationsbegehren sortieren. Kaltstart Informationsbegehren sortieren im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und A... |
+| `informationsfreiheit-presseauskunft-schnellstart` | 'Kompakter Arbeitsmodus für Informationsfreiheit und Presseauskunft. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `informationszugang-baden-wuerttemberg-bayern-livecheck` | Informationsfreiheit und Presseauskunft: Informationszugang Baden-Württemberg Livecheck. Informationszugang Baden-Württemberg Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumente... |
 | `informationszugang-bayern-livecheck` | Informationsfreiheit und Presseauskunft: Informationszugang Bayern Livecheck. Informationszugang Bayern Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeform... |
 | `informationszugang-beliehenen-parlaments` | Informationsfreiheit und Presseauskunft: Informationszugang bei beliehenen Privaten. Informationszugang bei beliehenen Privaten im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik u... |

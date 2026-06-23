@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`influencer-recht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/influencer-recht-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`influencer-recht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/influencer-recht-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`influencer-recht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/influencer-recht-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`influencer-recht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/influencer-recht.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-influencer-recht-creator-sachleistungen-steuer-werbung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-influencer-recht-creator-sachleistungen-steuer-werbung.zip) (Akte Luna Kanal: Sachleistungen, Rabattcodes, Musikrechte und Steuerprüfung) |
@@ -19,26 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`influencer-recht-schnellstart.md`](./influencer-recht-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`influencer-recht`) | [`influencer-recht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/influencer-recht.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Akte Luna Kanal: Sachleistungen, Rabattcodes, Musikrechte und Steuerprüfung** (`influencer-recht-creator-sachleistungen-steuer-werbung`) | [Gesamt-PDF lesen](../testakten/influencer-recht-creator-sachleistungen-steuer-werbung/gesamt-pdf/influencer-recht-creator-sachleistungen-steuer-werbung_gesamt.pdf) | [`testakte-influencer-recht-creator-sachleistungen-steuer-werbung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-influencer-recht-creator-sachleistungen-steuer-werbung.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Das Plugin übersetzt Creator-Alltag in Recht: Kooperation, Geschenk, Affiliate-Link, Story, Livestream, Gewinnspiel, Musik, Minderjährige, Agenturvertrag und Steuer werden als zusammenhängender Workflow geprüft.
 
 ## Arbeitsweise
@@ -64,7 +44,7 @@ Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modell
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 129 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 130 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -160,6 +140,7 @@ Automatisch generierte Komplett-Liste aller 129 Skills in diesem Plugin. Beschre
 | `infl-067-internationaler-creator-wohnsitz-und-wegzug` | Influencer-Recht: Internationaler Creator Wohnsitz und Wegzug mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `infl-068-qualitaetsgate-veroeffentlichung` | Influencer-Recht: Qualitätsgate Veröffentlichung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `influencer-beauty-filter-medienanstalt` | Influencer-Recht: Creator als Testimonials in Kapitalmarktkommunikation – WpHG, MAR, BaFin-Pflichten und Haftungsrisiken im Influencer-Recht. |
+| `influencer-recht-schnellstart` | 'Kompakter Arbeitsmodus für Influencer-Recht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `internationaler-creator-wohnsitz-und-wegzug` | Influencer-Recht: Internationaler Wohnsitz und Wegzug – Steuerrecht, Wegzugsbesteuerung, DBA, Telearbeit und sozialversicherungsrechtliche Konsequenzen im Influencer-Recht. |
 | `jahresabschluss-creator-risiken` | Influencer-Recht: Jahresabschluss für Creator – EÜR, Steuererklärung, Risikofelder, Abgabefristen und Optimierungspotenziale im Influencer-Recht. |
 | `kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittex... |

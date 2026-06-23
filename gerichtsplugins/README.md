@@ -64,7 +64,7 @@ Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt s
 - `README.md` — Plugin-Beschreibung mit vollständigem Vorspruch
 - `<sprechender-name>-werkstatt.md` — vollständiger Arbeits-Prompt, portabel (Dateiname trägt den fachlichen Plugin-Begriff)
 - `<sprechender-name>-schnellstart.md` — Kompaktversion bis 7.500 Zeichen (Dateiname trägt den fachlichen Plugin-Begriff)
-- `skills/` — 10 (richterliche Plugins) oder 20 (Relationstechnik) Skills
+- `skills/` — 10 fachliche Skills in den Richter-Plugins, 20 fachliche Skills in der Relationstechnik, jeweils zusätzlich ein Schnellstart-Skill
 - `testakte/README.md` — fiktive Testakte aus Richtersicht
 
 ## Warum dieser Ordner separat steht

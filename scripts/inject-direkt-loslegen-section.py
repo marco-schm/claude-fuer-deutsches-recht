@@ -22,6 +22,8 @@ BEGIN = "<!-- BEGIN direkt-loslegen (autogen) -->"
 END = "<!-- END direkt-loslegen (autogen) -->"
 OLD_MEGA_BEGIN = "<!-- BEGIN megaprompt-und-vorlagen (autogen) -->"
 OLD_MEGA_END = "<!-- END megaprompt-und-vorlagen (autogen) -->"
+OLD_SOFORT_BEGIN = "<!-- BEGIN plugin-sofort-download-section (autogen) -->"
+OLD_SOFORT_END = "<!-- END plugin-sofort-download-section (autogen) -->"
 RELEASE_BASE = "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download"
 SKIP_TESTAKTEN_DIRS = {
     "formatvorlagen-paradebeispiele",
@@ -145,7 +147,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`{plugin_name}-werkstatt.zip`]({RELEASE_BASE}/{plugin_name}-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`{plugin_name}-werkstatt.zip`]({RELEASE_BASE}/{plugin_name}-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`{plugin_name}-schnellstart.zip`]({RELEASE_BASE}/{plugin_name}-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`{plugin_name}.zip`]({RELEASE_BASE}/{plugin_name}.zip) |
 | Testakte(n) als ZIP | ZIP | {testakte_cell} |
@@ -157,7 +159,7 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 
 
 def strip_old_blocks(text: str) -> str:
-    for begin, end in [(BEGIN, END), (OLD_MEGA_BEGIN, OLD_MEGA_END)]:
+    for begin, end in [(BEGIN, END), (OLD_MEGA_BEGIN, OLD_MEGA_END), (OLD_SOFORT_BEGIN, OLD_SOFORT_END)]:
         if begin in text and end in text:
             text = re.sub(
                 r"\n*" + re.escape(begin) + r"[\s\S]*?" + re.escape(end) + r"\n*",

@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`einigungsvertrag-vermoegensrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einigungsvertrag-vermoegensrecht-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`einigungsvertrag-vermoegensrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einigungsvertrag-vermoegensrecht-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`einigungsvertrag-vermoegensrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einigungsvertrag-vermoegensrecht-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`einigungsvertrag-vermoegensrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einigungsvertrag-vermoegensrecht.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau.zip) (Einheitsvertragsakte Lindenau) |
@@ -19,26 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`einigungsvertrag-vermoegensrecht-schnellstart.md`](./einigungsvertrag-vermoegensrecht-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`einigungsvertrag-vermoegensrecht`) | [`einigungsvertrag-vermoegensrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einigungsvertrag-vermoegensrecht.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Einheitsvertragsakte Lindenau** (`einigungsvertrag-treuhand-mauergrundstueck-lindenau`) | [Gesamt-PDF lesen](../testakten/einigungsvertrag-treuhand-mauergrundstueck-lindenau/gesamt-pdf/einigungsvertrag-treuhand-mauergrundstueck-lindenau_gesamt.pdf) | [`testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Dieses Plugin ordnet die langen Schatten der deutschen Einheit: Einigungsvertrag, Art. 21/22, Treuhand, Vermögensgesetz, Bodenreform, Mauergrundstücke, offene Vermögensfragen und heutige Register-/Restitutionsprobleme.
 
 ## Start
@@ -73,7 +53,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 123 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 124 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -121,6 +101,7 @@ Automatisch generierte Komplett-Liste aller 123 Skills in diesem Plugin. Beschre
 | `einigungsvertrag-bodenreform-landwirtschaft` | Einigungsvertrag und Vermögensrecht: Landwirtschaftliche Fläche: Anspruchspfad prüfen im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 | `einigungsvertrag-kommunalvermoegen-zuordnung` | Einigungsvertrag und Vermögensrecht: Kommunalvermögen: Akte anfordern im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 | `einigungsvertrag-treuhandprivatisierung` | Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Akte anfordern im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
+| `einigungsvertrag-vermoegensrecht-schnellstart` | 'Kompakter Arbeitsmodus für Einigungsvertrag und Vermögensrecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `erbfolge-und-berechtigtenkette` | Einigungsvertrag und Vermögensrecht: Erbfolge und Berechtigtenkette. Erbfolge und Berechtigtenkette im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im E... |
 | `grundbuchberichtigung-behoerde-historische` | Einigungsvertrag und Vermögensrecht: Grundbuchberichtigung prüfen. Grundbuchberichtigung prüfen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einig... |
 | `historische-akte-quellenkritisch-lesen` | Einigungsvertrag und Vermögensrecht: Historische Akte quellenkritisch lesen. Historische Akte quellenkritisch lesen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat... |

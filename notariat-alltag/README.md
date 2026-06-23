@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`notariat-alltag-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/notariat-alltag-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`notariat-alltag-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/notariat-alltag-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`notariat-alltag-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/notariat-alltag-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`notariat-alltag.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/notariat-alltag.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-notariat-alltag-waldwinkel-gmbh-immobilien-erbfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-notariat-alltag-waldwinkel-gmbh-immobilien-erbfall.zip) (Akte Waldwinkel: GmbH-Anteile, Hofgrundstück, Erbfolge und drei Registerrückfragen) |
@@ -19,26 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`notariat-alltag-schnellstart.md`](./notariat-alltag-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`notariat-alltag`) | [`notariat-alltag.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/notariat-alltag.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Akte Waldwinkel: GmbH-Anteile, Hofgrundstück, Erbfolge und drei Registerrückfragen** (`notariat-alltag-waldwinkel-gmbh-immobilien-erbfall`) | [Gesamt-PDF lesen](../testakten/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall/gesamt-pdf/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall_gesamt.pdf) | [`testakte-notariat-alltag-waldwinkel-gmbh-immobilien-erbfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-notariat-alltag-waldwinkel-gmbh-immobilien-erbfall.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Dieses Plugin ist die Werkbank für das wuselige Notariat: Es sortiert Vorgänge, macht Vollzugsschritte sichtbar, trennt Beurkundung, Beglaubigung, Register- und Grundbuchvollzug und hilft, aus unvollständigen Unterlagen belastbare To-do-Listen zu bauen.
 
 ## Arbeitsweise
@@ -63,7 +43,7 @@ Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modell
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 129 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 130 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -186,6 +166,7 @@ Automatisch generierte Komplett-Liste aller 129 Skills in diesem Plugin. Beschre
 | `notariat-063-fehlerkorrektur-nachtragsurkunde-schreibfehler` | Notariat im Alltag: Fehlerkorrektur Nachtragsurkunde Schreibfehler und offensichtliche Unrichtigkeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `notariat-065-aktenabschluss-archivierung-offene-vollzugsreste` | Notariat im Alltag: Aktenabschluss Archivierung und offene Vollzugsreste mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `notariat-065-aktenabschluss-archivierung-und-offene-vollzugsrest` | Notariat im Alltag: Aktenabschluss, Archivierung und offene Vollzugsreste: Ordnungsgemäßer Abschluss eines Vorgangs nach vollständigem Vollzug, Archivierungsanforderungen und Behandl... |
+| `notariat-alltag-schnellstart` | 'Kompakter Arbeitsmodus für Notariat im Alltag. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `qualitaetsgate-signatur-notarielle` | Notariat im Alltag: Qualitätsgate vor Signatur und Einreichung. Systematische letzte Prüfung aller Dokumente vor der elektronischen Signatur und Einreichung beim Registergericht oder Grundbuchamt im Notariat. |
 | `rangruecktritt-rangvorbehalt` | Notariat im Alltag: Rangrücktritt, Rangvorbehalt, Löschung und Pfandfreigabe. Grundbuchrangrecht nach §§ 879–882 BGB, Rangrücktritt, Löschungsunterlagen und Pfandfreigabe-Mechanismen im Notariat. |
 | `sanierungs-insolvenzbezug` | Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen. Insolvenzvermerk im Grundbuch, Insolvenzverwalter als Vertragspartei, insolvenzrechtliche Anfechtung und notarielle Prüfpflichten im Notariat. |

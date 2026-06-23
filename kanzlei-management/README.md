@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`kanzlei-management-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kanzlei-management-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`kanzlei-management-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kanzlei-management-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`kanzlei-management-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kanzlei-management-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`kanzlei-management.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kanzlei-management.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-kanzlei-management-falkenried-partnerkreis-q2-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kanzlei-management-falkenried-partnerkreis-q2-2026.zip) (Falkenried & Partner mbB — Managementakte Q2/2026) |
@@ -19,26 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`kanzlei-management-schnellstart.md`](./kanzlei-management-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`kanzlei-management`) | [`kanzlei-management.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kanzlei-management.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Falkenried & Partner mbB — Managementakte Q2/2026** (`kanzlei-management-falkenried-partnerkreis-q2-2026`) | [Gesamt-PDF lesen](../testakten/kanzlei-management-falkenried-partnerkreis-q2-2026/gesamt-pdf/kanzlei-management-falkenried-partnerkreis-q2-2026_gesamt.pdf) | [`testakte-kanzlei-management-falkenried-partnerkreis-q2-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kanzlei-management-falkenried-partnerkreis-q2-2026.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Ein Mega-Plugin für die Leitung einer deutschen mittelständischen Kanzlei aus Sicht des Managing Partners, der Geschäftsführung, eines Management Committees oder einer starken COO-/CFO-Rolle.
 
 Es geht um das ganze schöne, anstrengende Betriebsleben: Partnerkreis, Praxisgruppen, Cashflow, Pricing, Associate-Retention, WIP, UBT, FTE, Utilization, offene Posten, Business Development, Legal Tech, Fristen- und Qualitätsrisiken, Egos, Kultur und die Frage, wie man eine Kanzlei führt, ohne sie in ein Controlling-Museum oder einen Stuhlkreis zu verwandeln.
@@ -80,7 +60,7 @@ Managemententscheidungen bleiben Kanzleientscheidungen. Bei Vergütung und Prici
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -124,6 +104,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `fte-kapazitaetsmodell` | Baut Kapazitätsmodell nach Rollen, Teilzeit, Assistenz und Praxisgruppe. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrecht... |
 | `investment-case-tech` | Bewertet DMS-, KI-, Finance- und Legal-Ops-Investitionen. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenh... |
 | `kaltstart-triage` | Executive Cockpit mit Rollen, Zahlen, Menschenrisiken und nächster Entscheidung. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und ber... |
+| `kanzlei-management-schnellstart` | 'Kompakter Arbeitsmodus für Kanzlei Management. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `kanzleistrategie-3-jahre` | Realistische Strategie für Markt, Talent, Profit, Investitionen und Fokus. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrec... |
 | `karrierepfad-associate-key-account-knowledge` | Macht Erwartungen, Fachlichkeit, BD und Führung sichtbar. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenh... |
 | `key-account-management` | Baut Relationship Map, Themenpipeline und Cross-Selling-Plan. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quel... |
@@ -162,7 +143,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `qualitygate` | Finalcheck auf Führbarkeit, Zahlenklarheit, Berufsrecht und Menschenwirkung. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsr... |
 | `rainmaker-abhaengigkeit-remote-hybrid` | Erkennt gefährliche Umsatzkonzentration und baut Nachfolgepfade. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Q... |
 | `recruiting-funnel-referendar-trainee-template` | Steuert Recruiting-Geschwindigkeit, Interviews, Candidate Experience und Partnerdisziplin. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidung... |
-| `referendar-trainee-pipeline` | Steuert Nachwuchs, Stationen, Mentoren, Angebote und Conversion. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlich... |
+| `referendar-trainee-pipeline` | Steuert Nachwuchs, Stationen, Mentoren, Angebote und Conversion. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Q... |
 | `remote-hybrid-rules` | Regelt Homeoffice, Präsenz, Ausbildung, Datenschutz und Teamgefühl. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtliche... |
 | `reputation-risk` | Prüft heikle Mandate auf Markt-, Team-, Berufsrechts- und Kulturfolgen. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtl... |
 | `rvg-und-honorarvereinbarung` | Prüft Pricing gegen RVG, § 3a RVG, § 49b BRAO und Dokumentation. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Q... |

@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`deutsche-rechtsgeschichte-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/deutsche-rechtsgeschichte-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`deutsche-rechtsgeschichte-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/deutsche-rechtsgeschichte-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`deutsche-rechtsgeschichte-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/deutsche-rechtsgeschichte-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`deutsche-rechtsgeschichte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/deutsche-rechtsgeschichte.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet.zip) (Rechtsgeschichtliche Akte Falkenau); [`testakte-preussisches-landrecht-wusterhagen-muehlenstau-aufopferung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-preussisches-landrecht-wusterhagen-muehlenstau-aufopferung.zip) (Akte Wusterhagen: Mühlenstau, Chaussee und Aufopferung) |
@@ -19,27 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`deutsche-rechtsgeschichte-schnellstart.md`](./deutsche-rechtsgeschichte-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`deutsche-rechtsgeschichte`) | [`deutsche-rechtsgeschichte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/deutsche-rechtsgeschichte.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Rechtsgeschichtliche Akte Falkenau** (`deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet`) | [Gesamt-PDF lesen](../testakten/deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet/gesamt-pdf/deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet_gesamt.pdf) | [`testakte-deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet.zip) |
-| **Akte Wusterhagen: Mühlenstau, Chaussee und Aufopferung** (`preussisches-landrecht-wusterhagen-muehlenstau-aufopferung`) | [Gesamt-PDF lesen](../testakten/preussisches-landrecht-wusterhagen-muehlenstau-aufopferung/gesamt-pdf/preussisches-landrecht-wusterhagen-muehlenstau-aufopferung_gesamt.pdf) | [`testakte-preussisches-landrecht-wusterhagen-muehlenstau-aufopferung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-preussisches-landrecht-wusterhagen-muehlenstau-aufopferung.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Rechtsgeschichte als Werkzeug, nicht als Museum: Quellen lesen, Epochen trennen, Kontinuitäten prüfen und Gegenwartsargumente sauber historisieren.
 
 Dieses Plugin führt durch **Deutsche Rechtsgeschichte** und erzeugt je nach Bedarf Memos, Quellenmatrizen, Vertrags-/Klauselbausteine, Risiko-Dashboards, Unterrichtsbausteine oder Entscheidungsvermerke. Der allgemeine Skill startet schnell und schlägt anschließend die passenden Spezialskills vor.
@@ -71,7 +50,7 @@ Ergänzt sind Spezialskills zu juristischer Erinnerungskultur, personellen Konti
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 205 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 206 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -89,6 +68,7 @@ Automatisch generierte Komplett-Liste aller 205 Skills in diesem Plugin. Beschre
 | `ddr-recht-und-sozialistische-gesetzlichkeit` | Deutsche Rechtsgeschichte: DDR-Recht und sozialistische Gesetzlichkeit. DDR-Verfassung 1949/68/74, ZGB 1975, AGO, StPO-DDR und Charakteristika des sozialistischen Rechtssystems im Deutsche Rechtsgeschichte. |
 | `ddr-unrechtsstaat-schweigespirale` | Prüft sozialistische Gesetzlichkeit, Justizbindung an Parteiziele, Nachwenderecht, Einigungsvertrag, Rehabilitierung und Erinnerungskonflikte ohne schematische Gleichsetzung mit NS-Unrecht im Deutsche Rechtsgeschichte. |
 | `deliktsrecht-und-gefaehrdungshaftung` | Deutsche Rechtsgeschichte: Deliktsrecht und Gefaehrdungshaftung. BGB §§ 823-853, Haftpflichtgesetz 1871, Gefaehrdungshaftung im Industriezeitalter und Produkthaftungsgesetz 1989 im Deutsche Rechtsgeschichte. |
+| `deutsche-rechtsgeschichte-schnellstart` | 'Kompakter Arbeitsmodus für Deutsche Rechtsgeschichte. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `drg-001-kaltstart-epochenkarte` | Deutsche Rechtsgeschichte: Kaltstart Epochenkarte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `drg-002-quellenkritik-archiv-und-edition` | Deutsche Rechtsgeschichte: Quellenkritik Archiv Und Edition. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `drg-005-kanonisches-recht-und-ehe` | Deutsche Rechtsgeschichte: Kanonisches Recht Und Ehe. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |

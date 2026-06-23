@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`datenbankrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenbankrecht-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`datenbankrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenbankrecht-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`datenbankrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenbankrecht-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`datenbankrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenbankrecht.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-datenbankrecht-scraping-plattform-investitionsschutz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenbankrecht-scraping-plattform-investitionsschutz.zip) (Akte Datenspeicher Havel: Scraping, API, Immobilienportal und KI-Training) |
@@ -19,26 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`datenbankrecht-schnellstart.md`](./datenbankrecht-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`datenbankrecht`) | [`datenbankrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenbankrecht.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Akte Datenspeicher Havel: Scraping, API, Immobilienportal und KI-Training** (`datenbankrecht-scraping-plattform-investitionsschutz`) | [Gesamt-PDF lesen](../testakten/datenbankrecht-scraping-plattform-investitionsschutz/gesamt-pdf/datenbankrecht-scraping-plattform-investitionsschutz_gesamt.pdf) | [`testakte-datenbankrecht-scraping-plattform-investitionsschutz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenbankrecht-scraping-plattform-investitionsschutz.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Das Plugin macht das sui-generis-Datenbankrecht praktisch: Es fragt nicht nach schöner Gestaltung, sondern nach wesentlicher Investition, Entnahme, Weiterverwendung, wesentlichem Teil und systematischen Teilentnahmen.
 
 ## Arbeitsweise
@@ -64,7 +44,7 @@ Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modell
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 129 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 130 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -90,6 +70,7 @@ Automatisch generierte Komplett-Liste aller 129 Skills in diesem Plugin. Beschre
 | `datenbankrecht-im-logistik-tracking` | Datenbankrecht für Logistik-Tracking-Datenbanken: §§ 87a-87e UrhG für Sendungsverfolgungssysteme und Transportdatenbanken, Data Act (VO 2023/2854) Zugangsrechte für Kunden, Schutz gegen Tracking-Aggregatoren und DSGVO-Anforderungen bei p... |
 | `datenbankrecht-im-verlag` | Datenbankrecht für Verlage: §§ 87a-87e UrhG für Volltextdatenbanken und digitale Verlagsarchive, Verhältnis zu Verlegerbeteiligungsrecht (§ 87k UrhG neu), TDM-Opt-out für Verlagswerke (§ 44b Abs. 3 UrhG), Datenbanklizenzen für Aggregator... |
 | `datenbankrecht-informationsfreiheit` | Datenbankrecht für Behörden und öffentliche Stellen: Behörden als Datenbankherstellerinnen nach § 87a UrhG, Verhältnis zu § 5 UrhG (amtliche Werke), IWG-Weiterverwendungspflichten, Open-Data-RL 2019/1024 und DSGVO-Anforderungen für Behör... |
+| `datenbankrecht-schnellstart` | 'Kompakter Arbeitsmodus für Datenbankrecht und Datenbankherstellerrecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `datenbankrecht-und-cyberincident` | Beratung bei Cyberangriffen und Datenbankexfiltration: Prüfung nach §§ 87a-87e UrhG (Herstellerrecht), § 202a StGB (Datenzugang), DSGVO Art. 33-34 (Meldepflicht), NIS2-RL 2022/2555, KRITIS-Dachgesetz. Mandant erlitt Ransomware-Angriff od... |
 | `datenbankrecht-und-datenschutz-personenbezogene-datensaet` | Analysiert das Verhältnis von Datenbankherstellerrecht (§§ 87a-87e UrhG) und DSGVO bei personenbezogenen Datenbanken: Kumulative Schutzanwendung, Betroffenenrechte (Art. 15-22 DSGVO) vs. Datenbankschutz, Anonymisierungspflichten und Priv... |
 | `datenbankrecht-und-geschaeftsgeheimnis` | Analysiert das Verhältnis zwischen Datenbankherstellerrecht (§§ 87a-87e UrhG) und Geschäftsgeheimnisschutz nach GeschGehG / EU-RL 2016/943. Prüft kumulative Schutzfähigkeit von Datenbanken als Geschäftsgeheimnisse, angemessene Schutzmaßn... |
@@ -183,7 +164,7 @@ Automatisch generierte Komplett-Liste aller 129 Skills in diesem Plugin. Beschre
 | `open-data-geschaeftsgeheimnis` | Rechtliche Bewertung von Open-Data-Portalen: Prüft Nutzungsbedingungen nach Open-Data-Richtlinie 2019/1024 (PSI-RL) und deren Umsetzung im IWG, Datenbankherstellerrecht öffentlicher Stellen (§ 87a UrhG), CC-Lizenz-Compliance und Weiterve... |
 | `open-source-datenbank-und-open-data-commons` | Datenbankrecht für Open-Source-Datenbanken und Open-Data-Commons-Lizenzen: ODbL (Open Database Licence), PDDL (Public Domain Dedication and Licence) und CC0 im Verhältnis zu §§ 87a-87e UrhG, Sharealike-Copyleft-Wirkung auf abgeleitete Da... |
 | `plattform-sperre-datenbankherstellerrecht` | Rechtliche Bewertung von Plattformsperren wegen Data Extraction: Berechtigung zur IP-Sperre und Account-Kündigung bei Datenbankrechts-Verletzungen (§§ 87a-87e UrhG), AGB-Grundlage, Kartellrechtliche Grenzen bei marktbeherrschenden Plattf... |
-| `policy-db-abschlussmemo` | Erstellung und Prüfung unternehmensinterner Compliance-Richtlinien für den Umgang mit fremden und eigenen Datenbanken: §§ 87a-87e UrhG (Herstellerrecht), § 4 UrhG (Datenbankwerk), RL 96/9/EG, TDM-Schranken §§ 44b, 60d UrhG, Data Act 2023... |
+| `policy-db-abschlussmemo` | Erstellung und Prüfung unternehmensinterner Compliance-Richtlinien für den Umgang mit fremden und eigenen Datenbanken: §§ 87a-87e UrhG (Herstellerrecht), § 4 UrhG (Datenbankwerk), RL 96/9/EG, TDM-Schranken §§ 44b und 60d UrhG, Data Act 2... |
 | `preisvergleich-crawler-lizenzanalogie` | Datenbankrecht für Preisvergleichsportale und deren Crawler: Prüft §§ 87a-87e UrhG gegen automatisierte Preisabfragen, Wirksamkeit von AGB-Scraping-Verboten (§ 307 BGB), EuGH C-202/12 (Innoweb/Wegener) und P2B-VO 2019/1150. Bewertet Plat... |
 | `produktdaten-pim-datenkatalog-hersteller` | Datenbankrecht für Produktdatenbanken und PIM-Systeme: Prüft §§ 87a-87e UrhG für Produktkataloge und Datenkataloge von Herstellern, Schutz gegen Übernahme durch Händler oder Wettbewerber, Lizenzmodelle für Produktdaten-Feeds und Verhältn... |
 | `red-team-keine-sweat-brow-verwechslung` | 'Red-Team-Analyse zur Abwehr der Sweat-of-the-Brow-Verwechslung im Datenbankrecht: EuGH-Linie (BHB/William Hill C-203/02) verbietet Schutz für bloße Datenerzeugung. Identifiziert typische Argumentationsfehler in Herstellerrechts-Gutachte... |

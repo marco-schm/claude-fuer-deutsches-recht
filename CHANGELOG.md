@@ -1,3 +1,14 @@
+# v382.0.0 — Grosser Aufraeumlauf: Testakten integriert, Schnellstart als Skill, READMEs konsolidiert
+
+- Die 15 pluginlokalen Testakten der Gerichts- und Staatsanwaltschafts-Plugins sind im Pflichtformat nachgezogen und als pluginbezogene Testakten-Bundles releasefaehig.
+- Alle 229 Plugins liefern den Schnellstart-Prompt zusaetzlich als ladbaren Skill aus; der Werkstatt-Prompt bleibt als reines Markdown-Werkzeug und eigenes ZIP-Bundle erhalten.
+- Die Direkt-loslegen-Bloecke in allen 229 Plugin-READMEs wurden vereinheitlicht: Werkstatt-ZIP, Schnellstart-ZIP, Plugin-ZIP und Testakten-ZIP stehen ohne doppelte Downloadtabellen bereit.
+- Die bestehenden fachlichen Gerichts- und Staatsanwaltschafts-Skills enthalten nun einen sichtbaren Beitrag zur Streitstoff-Sortierung; Relationstechnik, Richter- und Staatsanwaltschaftsarbeit greifen denselben Aktenaufbau konsequenter auf.
+- Repo-Zaehler, Skill-Index, Coverage-Dokumente und Release-Workflow wurden auf den Stand 229 Plugins, 26142 Skills und 225 Testakten harmonisiert.
+- Repo-weiter Bump auf v382.0.0.
+
+---
+
 # v380.0.0 — Werkstatt- und Schnellstart-Prompts in drei Qualitaetsschleifen geschaerft
 
 Drei Qualitaetsschleifen ueber alle 229 Plugins, anschliessend Sanity-Sweep mit Bug-Hunt und repo-weiter Versions-Bump.

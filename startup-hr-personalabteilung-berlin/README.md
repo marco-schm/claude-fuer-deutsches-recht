@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`startup-hr-personalabteilung-berlin-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/startup-hr-personalabteilung-berlin-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`startup-hr-personalabteilung-berlin-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/startup-hr-personalabteilung-berlin-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`startup-hr-personalabteilung-berlin-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/startup-hr-personalabteilung-berlin-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`startup-hr-personalabteilung-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/startup-hr-personalabteilung-berlin.zip) |
 | Testakte(n) als ZIP | ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) |
@@ -19,22 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`startup-hr-personalabteilung-berlin-schnellstart.md`](./startup-hr-personalabteilung-berlin-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`startup-hr-personalabteilung-berlin`) | [`startup-hr-personalabteilung-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/startup-hr-personalabteilung-berlin.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Personalabteilungs-Plugin für ein typisches Berliner Start-up mit ungefähr 100 Beschäftigten. Es ist für die Person gedacht, die im Alltag HR, Office, Payroll-Koordination, Mitarbeiterkommunikation, Vorfallmanagement und Geschäftsführungs-Briefings gleichzeitig stemmen muss.
 
 Das Plugin ist bewusst praktisch: Arbeitsverträge, Onboarding, DATEV-/Lohnbüro-Übergaben, Personalakten, Probezeiten, Fehlzeiten, Betriebsfeiern, AGG-Beschwerden, Drogen-/Alkoholverdacht, Betriebsrat, Workation, Benefits, Gehaltsläufe und Offboarding. Es soll HR nicht ersetzen, sondern HR schneller, ruhiger und rechtlich sauberer machen.
@@ -91,7 +75,7 @@ Chef- oder Founder-Briefings sollen deshalb nicht einfach Rohlisten mit Diagnose
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 111 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 112 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -198,6 +182,7 @@ Automatisch generierte Komplett-Liste aller 111 Skills in diesem Plugin. Beschre
 | `slack-teams-kommunikationsregeln` | Berliner Start-up-HR: Slack/Teams-Regeln: Arbeitszeit, respektvolle Kommunikation, Screenshots, personenbezogene Daten, Betriebsrat und Discovery-Risiko. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittste... |
 | `spesen-reisekosten-stammdaten-qualitaetscheck` | Berliner Start-up-HR: Spesen- und Reisekostenpolicy: Belege, Freigaben, steuerliche Plausibilität, Workation, Bahncard, Hotel und Bewirtung. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Bri... |
 | `stammdaten-qualitaetscheck` | Berliner Start-up-HR: Stammdaten-Qualitätscheck für 100 Beschäftigte: Adresse, Bank, Steuer-ID, SV-Nummer, Arbeitserlaubnis, Notfallkontakt und Änderungslog. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnit... |
+| `startup-hr-personalabteilung-berlin-schnellstart` | 'Kompakter Arbeitsmodus für Start-up-HR-Personalabteilung Berlin. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `teilzeit-brueckenteilzeit` | Berliner Start-up-HR: Teilzeit und Brückenteilzeit: Anspruch, Antrag, betriebliche Gründe, Rückkehr, Dokumentation und Teamplanung. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und... |
 | `ueberstunden-kompensation-urlaubskalender` | Berliner Start-up-HR: Überstunden: Anordnung, Duldung, Erfassung, Vergütung, Freizeitausgleich und Führungskräftekommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und näc... |
 | `urlaubskalender-und-burlg` | Berliner Start-up-HR: Urlaubsverwaltung nach BUrlG: Antrag, Genehmigung, Resturlaub, Verfallhinweis, Übertragung und Teamkonflikte. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und... |

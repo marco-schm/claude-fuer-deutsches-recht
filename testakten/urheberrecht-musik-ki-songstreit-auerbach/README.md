@@ -16,8 +16,6 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-<!-- END plugin-sofort-download-section (autogen) -->
 
 Auerbach Soundworks GmbH aus Berlin-Kreuzberg entwickelt Werbemusik, KI-gestützte Demo-Tracks und Audio-Plugins. Nach einem Kampagnenpitch für eine europaweite Getränkemarke behaupten mehrere Beteiligte Rechte an Songtext, Hookline, Master, Prompt-Workflow und einem kleinen Synthesizer-Plugin. Parallel verlangt ein konkurrierendes Label die Entfernung eines Streaming-Previews wegen angeblichen Samplings; der KI-Anbieter verweist auf TDM und einen unklaren Rechtevorbehalt.
 

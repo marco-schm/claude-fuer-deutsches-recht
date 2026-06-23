@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`verbraucher-rechtsstaat-alltag-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verbraucher-rechtsstaat-alltag-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`verbraucher-rechtsstaat-alltag-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verbraucher-rechtsstaat-alltag-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`verbraucher-rechtsstaat-alltag-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verbraucher-rechtsstaat-alltag-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`verbraucher-rechtsstaat-alltag.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verbraucher-rechtsstaat-alltag.zip) |
 | Testakte(n) als ZIP | ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) |
@@ -19,22 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`verbraucher-rechtsstaat-alltag-schnellstart.md`](./verbraucher-rechtsstaat-alltag-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`verbraucher-rechtsstaat-alltag`) | [`verbraucher-rechtsstaat-alltag.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verbraucher-rechtsstaat-alltag.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Kleines, hilfreiches Plugin für Verbraucher: E-Commerce, Kaufrecht, Reparaturen, kleine Dienstleistungen, Rechnungen, Inkasso, Plattformen, Behördenbriefe und Gerichtspost verständlich einordnen und vorsichtig reagieren.
 
 ## Worum es geht
@@ -66,7 +50,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 66 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 67 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -130,6 +114,7 @@ Automatisch generierte Komplett-Liste aller 66 Skills in diesem Plugin. Beschrei
 | `strom-gas-preiserhoehung` | Strom- und Gaspreiserhöhung: führt Laien durch Energievertrag, Preisänderung, Grundversorgung, Sonderkündigung und Abschläge. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im... |
 | `telefon-internet-stoerung` | Telefon und Internet Störung: führt Laien durch Ausfall, Minderungsrechte, Technikertermine, Rufnummernportierung und Anbieterwechsel. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sp... |
 | `unfall-fahrrad-verbraucherschlichtung` | Kleiner Unfall Fahrrad und Auto: führt Laien durch Bagatellunfall, Haftpflicht, Personenschaden, Schuldanerkenntnis und Beweissicherung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer... |
+| `verbraucher-rechtsstaat-alltag-schnellstart` | 'Kompakter Arbeitsmodus für Verbraucher im Rechtsstaat Alltag. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `verbraucherschlichtung` | Verbraucherschlichtung: erklärt Schlichtungsstelle, Ombudsmann, Kosten und Erfolgsaussichten in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Ve... |
 | `vergleichsangebot-pruefen` | Vergleichsangebot prüfen: führt Laien durch Vergleich, Ratenzahlung, Verzicht, Erledigungsklausel und Kostenfolge. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher... |
 | `versicherung-lehnt-vorladung-polizei-zahnarzt` | Versicherung lehnt ab: führt Laien durch Ablehnung von Hausrat, Haftpflicht, Rechtsschutz oder Berufsunfähigkeit im Alltag. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Ve... |

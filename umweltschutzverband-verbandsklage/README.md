@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`umweltschutzverband-verbandsklage-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/umweltschutzverband-verbandsklage-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`umweltschutzverband-verbandsklage-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/umweltschutzverband-verbandsklage-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`umweltschutzverband-verbandsklage-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/umweltschutzverband-verbandsklage-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`umweltschutzverband-verbandsklage.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/umweltschutzverband-verbandsklage.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-umweltschutzverband-windpark-moorbach-umwrg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-umweltschutzverband-windpark-moorbach-umwrg.zip) (Umweltverbandsakte Moorbach) |
@@ -19,26 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`umweltschutzverband-verbandsklage-schnellstart.md`](./umweltschutzverband-verbandsklage-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`umweltschutzverband-verbandsklage`) | [`umweltschutzverband-verbandsklage.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/umweltschutzverband-verbandsklage.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Umweltverbandsakte Moorbach** (`umweltschutzverband-windpark-moorbach-umwrg`) | [Gesamt-PDF lesen](../testakten/umweltschutzverband-windpark-moorbach-umwrg/gesamt-pdf/umweltschutzverband-windpark-moorbach-umwrg_gesamt.pdf) | [`testakte-umweltschutzverband-windpark-moorbach-umwrg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-umweltschutzverband-windpark-moorbach-umwrg.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Dieses Plugin ist für anerkannte und werdende Umweltvereinigungen gebaut: Beteiligung, Einwendungen, Akteneinsicht, Umweltinformationen, Verbandsklage, Normenkontrolle und strategische, aber sorgfältige Prozessführung.
 
 ## Start
@@ -73,7 +53,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 112 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 113 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -164,6 +144,7 @@ Automatisch generierte Komplett-Liste aller 112 Skills in diesem Plugin. Beschre
 | `umv-071-wasserentnahme-beteiligung-pruefen` | Umweltschutzverband Verbandsklage: Wasserentnahme: Beteiligung prüfen. Beteiligung prüfen für Wasserentnahme im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `umv-081-hafenvertiefung-beteiligung-pruefen` | Umweltschutzverband Verbandsklage: Hafenvertiefung: Beteiligung prüfen. Beteiligung prüfen für Hafenvertiefung im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `umv-091-flughafenausbau-beteiligung-pruefen` | Umweltschutzverband Verbandsklage: Flughafenausbau: Beteiligung prüfen. Beteiligung prüfen für Flughafenausbau im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `umweltschutzverband-verbandsklage-schnellstart` | 'Kompakter Arbeitsmodus für Umweltschutzverband Verbandsklage. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `umwrg-anwendungsbereich-routen` | Umweltschutzverband Verbandsklage: UmwRG-Anwendungsbereich routen. UmwRG-Anwendungsbereich routen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umwel... |
 | `uvp-pflicht-und-vorpruefung` | Umweltschutzverband Verbandsklage: UVP-Pflicht und Vorprüfung. UVP-Pflicht und Vorprüfung im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umweltverband... |
 | `vergleich-und-nebenbestimmungen` | Umweltschutzverband Verbandsklage: Vergleich und Nebenbestimmungen. Vergleich und Nebenbestimmungen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umw... |

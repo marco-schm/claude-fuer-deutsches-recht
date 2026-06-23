@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`betreuungsrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/betreuungsrecht-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`betreuungsrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/betreuungsrecht-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`betreuungsrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/betreuungsrecht-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`betreuungsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/betreuungsrecht.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei.zip) (Hafenpolizei - Dienstunfall, Burnout und Wiedereingliederung); [`testakte-betreuung-hildegard-sauer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-hildegard-sauer.zip) (Betreuungsfall Hildegard Sauer); [`testakte-betreuung-schmalfeld-kontodaten-vertraege.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-schmalfeld-kontodaten-vertraege.zip) (Akte Betreuung Schmalfeld: Kontodaten und verdächtige Verträge) |
@@ -19,28 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`betreuungsrecht-schnellstart.md`](./betreuungsrecht-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`betreuungsrecht`) | [`betreuungsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/betreuungsrecht.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Hafenpolizei - Dienstunfall, Burnout und Wiedereingliederung** (`beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei`) | [Gesamt-PDF lesen](../testakten/beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei/gesamt-pdf/beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei_gesamt.pdf) | [`testakte-beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei.zip) |
-| **Betreuungsfall Hildegard Sauer** (`betreuung-hildegard-sauer`) | [Gesamt-PDF lesen](../testakten/betreuung-hildegard-sauer/gesamt-pdf/betreuung-hildegard-sauer_gesamt.pdf) | [`testakte-betreuung-hildegard-sauer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-hildegard-sauer.zip) |
-| **Akte Betreuung Schmalfeld: Kontodaten und verdächtige Verträge** (`betreuung-schmalfeld-kontodaten-vertraege`) | [Gesamt-PDF lesen](../testakten/betreuung-schmalfeld-kontodaten-vertraege/gesamt-pdf/betreuung-schmalfeld-kontodaten-vertraege_gesamt.pdf) | [`testakte-betreuung-schmalfeld-kontodaten-vertraege.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-schmalfeld-kontodaten-vertraege.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Skills für **ehrenamtliche Familienbetreuerinnen und Familienbetreuer**, berufliche
 Betreuerinnen und Betreuer, Vereinsbetreuer, Betreuungsbehörden und anwaltliche
 Begleitung nach dem Betreuungsorganisationsgesetz (BtOG) und den §§ 1814 ff. BGB.
@@ -110,7 +88,7 @@ Beim Einsatz von KI-Tools sind insbesondere zu beachten:
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -142,6 +120,7 @@ Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschre
 | `betreuungsantrag-erstellen` | Betreuungsantrag § 1814 BGB: Antragsteller, Betroffener, Aufgabenkreise, vorhandene Vorsorgevollmacht, gewuenschte Person als Betreuer, Begruendung Erforderlichkeit. Output: Antragsschriftsatz an Betreuungsgericht. |
 | `betreuungsgericht-kommunikation-angehoerige` | Kommunikation mit dem Betreuungsgericht für Angehörige und ehrenamtliche Betreuer: formuliert kurze, sachliche Briefe, Genehmigungsanfragen, Sachstandsmitteilungen, Rückfragen, Fristverlängerungen und Unterlagenpakete ohne Behördenangst... |
 | `betreuungsgericht-kommunikation-fuer-angehoerige` | Kommunikation mit dem Betreuungsgericht für Angehörige und ehrenamtliche Betreuer: formuliert kurze, sachliche Briefe, Genehmigungsanfragen, Sachstandsmitteilungen, Rückfragen, Fristverlängerungen und Unterlagenpakete ohne Behördenangst... |
+| `betreuungsrecht-schnellstart` | 'Kompakter Arbeitsmodus für Betreuungsrecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `betreuungsrechtliche-erstpruefung-und-mandatsziel` | Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel im Betreuungsrecht. |
 | `betreuungsverein-behoerde-btr-aufgabenkreise` | Hilfe holen für ehrenamtliche Betreuer: klärt Betreuungsverein, Betreuungsbehörde, Einführung, Fortbildung, Vereinbarung nach §§ 15 und 22 BtOG, Verhinderungsbetreuung, Gerichtsauskunft, Formulare und Grenzen der Selbstorganisation im Be... |
 | `betreuungsverein-behoerde-hilfe-holen` | Hilfe holen für ehrenamtliche Betreuer: klärt Betreuungsverein, Betreuungsbehörde, Einführung, Fortbildung, Vereinbarung nach §§ 15 und 22 BtOG, Verhinderungsbetreuung, Gerichtsauskunft, Formulare und Grenzen der Selbstorganisation. |

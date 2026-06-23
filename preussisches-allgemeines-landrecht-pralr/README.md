@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`preussisches-allgemeines-landrecht-pralr-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/preussisches-allgemeines-landrecht-pralr-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`preussisches-allgemeines-landrecht-pralr-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/preussisches-allgemeines-landrecht-pralr-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`preussisches-allgemeines-landrecht-pralr-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/preussisches-allgemeines-landrecht-pralr-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`preussisches-allgemeines-landrecht-pralr.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/preussisches-allgemeines-landrecht-pralr.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-preussisches-landrecht-wusterhagen-muehlenstau-aufopferung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-preussisches-landrecht-wusterhagen-muehlenstau-aufopferung.zip) (Akte Wusterhagen: Mühlenstau, Chaussee und Aufopferung) |
@@ -19,26 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`preussisches-allgemeines-landrecht-pralr-schnellstart.md`](./preussisches-allgemeines-landrecht-pralr-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`preussisches-allgemeines-landrecht-pralr`) | [`preussisches-allgemeines-landrecht-pralr.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/preussisches-allgemeines-landrecht-pralr.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Akte Wusterhagen: Mühlenstau, Chaussee und Aufopferung** (`preussisches-landrecht-wusterhagen-muehlenstau-aufopferung`) | [Gesamt-PDF lesen](../testakten/preussisches-landrecht-wusterhagen-muehlenstau-aufopferung/gesamt-pdf/preussisches-landrecht-wusterhagen-muehlenstau-aufopferung_gesamt.pdf) | [`testakte-preussisches-landrecht-wusterhagen-muehlenstau-aufopferung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-preussisches-landrecht-wusterhagen-muehlenstau-aufopferung.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Das PrALR-Plugin macht das **Allgemeine Landrecht für die Preußischen Staaten** arbeitsfähig: als historische Quelle, als Kodifikationsprojekt, als rechtsgeschichtliche Vergleichsfolie und in den seltenen Fällen, in denen Altrecht oder der Aufopferungsgedanke heute noch sauber hergeleitet werden muss.
 
 Es nimmt ausdrücklich ernst, dass Digitalisate, OCR-Fassungen und PDFs aus unterschiedlichen Jahren oder Drucktraditionen stammen können. Der erste Schritt ist deshalb immer: **Welcher Textzeuge liegt vor?** Danach kommen Systemstelle, Geltungsraum, heutige Fortwirkung und Output.
@@ -80,7 +60,7 @@ Keine Scheinfundstellen, keine OCR-Fundstellen ohne Scan-Gegenprobe, keine Gleic
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 462 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 463 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -492,6 +472,7 @@ Automatisch generierte Komplett-Liste aller 462 Skills in diesem Plugin. Beschre
 | `pralr-normblock-19801-19900` | PrALR-Normblock §§ 19801-19900: jede Vorschrift im Block einzeln als Normkarte mit Teil/Titel/Paragraph, Textzeuge 1794/1804, OCR-Risiko, historischer Bedeutung und heutiger Anschlussfrage prüfen. |
 | `pralr-normblock-19901-20000` | PrALR-Normblock §§ 19901-20000: jede Vorschrift im Block einzeln als Normkarte mit Teil/Titel/Paragraph, Textzeuge 1794/1804, OCR-Risiko, historischer Bedeutung und heutiger Anschlussfrage prüfen. |
 | `pralr-spez-zwitterrecht-historisch-medizinisch-rechtsfolgen` | Zwitterrecht ALR — historisch-medizinische Dimension: Skill ergaenzt die Norm um die Praxis Eintraege im Kirchenbuch Schule Standesregister und die rechtsfolgen für Eheschliessung Erbrecht Wehrdienst. Li... |
+| `preussisches-allgemeines-landrecht-pralr-schnellstart` | 'Kompakter Arbeitsmodus für Preußisches Allgemeines Landrecht (PrALR). Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `prozessrecht-ago-1793` | Preussisches Prozessrecht und Allgemeine Gerichtsordnung 1793. Skill behandelt die AGO 1793 die als Vorlaeufer der ZPO gilt das Verfahrensprinzip die Beweisregelung und die Fortwirkung zur CPO/ZPO. Liefert Quellenmatrix. |
 | `quellenkritik-fraktur-ocr` | PrALR: Fraktur-, Antiqua-, OCR- und Transkriptionsfehler erkennen, protokollieren und entschärfen. |
 | `quellenmatrix-erstellen` | PrALR: Quellenmatrix aus Digitalisat, Edition, OCR, Sekundärhinweis und heutiger Anschlussnorm erstellen. |

@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`oeffentliches-wirtschaftsrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/oeffentliches-wirtschaftsrecht-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`oeffentliches-wirtschaftsrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/oeffentliches-wirtschaftsrecht-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`oeffentliches-wirtschaftsrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/oeffentliches-wirtschaftsrecht-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`oeffentliches-wirtschaftsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/oeffentliches-wirtschaftsrecht.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt.zip) (ÖPP-Akte Schulcampus Havelstadt) |
@@ -19,26 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`oeffentliches-wirtschaftsrecht-schnellstart.md`](./oeffentliches-wirtschaftsrecht-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`oeffentliches-wirtschaftsrecht`) | [`oeffentliches-wirtschaftsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/oeffentliches-wirtschaftsrecht.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **ÖPP-Akte Schulcampus Havelstadt** (`oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt`) | [Gesamt-PDF lesen](../testakten/oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt/gesamt-pdf/oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt_gesamt.pdf) | [`testakte-oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Dieses Plugin prüft, wann Staat, Kommune und Private wirtschaftlich zusammenarbeiten dürfen: Organisationsform, Vergabe, Beihilfe, ÖPP, kommunale Wirtschaft, Daseinsvorsorge, Privatisierung und Kontrolle.
 
 ## Start
@@ -73,7 +53,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 119 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 120 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -129,6 +109,7 @@ Automatisch generierte Komplett-Liste aller 119 Skills in diesem Plugin. Beschre
 | `messegesellschaft-vertrag-scopen` | Messegesellschaft: Vertrag scopen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 | `messegesellschaft-wirtschaftlichkeit-r` | Messegesellschaft: Wirtschaftlichkeit rechnen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 | `oeffentliches-wirtschaftspro` | Kaltstart für öffentliche Wirtschaftsprojekte: ÖPP, Konzession, Inhouse, Beihilfe, Vergabe, kommunale Unternehmen, Haushaltsrecht und Risikoallokation in eine Entscheidungsvorlage bringen. |
+| `oeffentliches-wirtschaftsrecht-schnellstart` | 'Kompakter Arbeitsmodus für Öffentliches Wirtschaftsrecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `oepp-struktur-pruefen` | Öffentliches Wirtschaftsrecht: ÖPP-Struktur prüfen. ÖPP-Struktur prüfen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht. |
 | `oew-001-kaltstart-oeffentliches-wirtschaftspro` | Öffentliches Wirtschaftsrecht: Kaltstart öffentliches Wirtschaftsprojekt. Kaltstart öffentliches Wirtschaftsprojekt im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearb... |
 | `oew-003-oepp-struktur-pruefen` | Öffentliches Wirtschaftsrecht: ÖPP-Struktur prüfen. ÖPP-Struktur prüfen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |

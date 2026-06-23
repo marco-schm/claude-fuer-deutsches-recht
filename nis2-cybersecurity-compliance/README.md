@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`nis2-cybersecurity-compliance-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/nis2-cybersecurity-compliance-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`nis2-cybersecurity-compliance-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/nis2-cybersecurity-compliance-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`nis2-cybersecurity-compliance-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/nis2-cybersecurity-compliance-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`nis2-cybersecurity-compliance.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/nis2-cybersecurity-compliance.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit.zip) (Akte Lahnwerke Maschinenbau AG - Slack, AirTags und IT-Sicherheitslage) |
@@ -19,26 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`nis2-cybersecurity-compliance-schnellstart.md`](./nis2-cybersecurity-compliance-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`nis2-cybersecurity-compliance`) | [`nis2-cybersecurity-compliance.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/nis2-cybersecurity-compliance.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Akte Lahnwerke Maschinenbau AG - Slack, AirTags und IT-Sicherheitslage** (`nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit`) | [Gesamt-PDF lesen](../testakten/nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit/gesamt-pdf/nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit_gesamt.pdf) | [`testakte-nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Dieses Plugin ist der tägliche Cyber-Compliance-Begleiter für Geschäftsführung, Vorstand, CISO, Datenschutz, Legal und IT: Es ordnet Pflichten, liest technische Unterlagen, trennt Papier-Compliance von echter Wirksamkeit und erzeugt belastbare Maßnahmenpläne.
 
 ## Wofür dieses Plugin da ist
@@ -73,7 +53,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 103 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -144,6 +124,7 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 | `mobile-device-ot-industrial-admin-offboarding` | Steuert verlorene Geräte und gestohlene Laptops im Nis2 Cybersecurity Compliance. |
 | `netzsegmentierung-nis2-betroffenheitscheck` | Prüft Netzsegmentierung und Trennung kritischer Systeme im Nis2 Cybersecurity Compliance. |
 | `nis2-betroffenheitscheck` | Prüft, ob das Unternehmen unter NIS-2 beziehungsweise das BSIG 2025 fällt im Nis2 Cybersecurity Compliance. |
+| `nis2-cybersecurity-compliance-schnellstart` | 'Kompakter Arbeitsmodus für NIS-2, Cybersecurity und IT-Sicherheits-Compliance. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `nist-csf-mapping` | Mappt NIST CSF auf deutsche und EU-Anforderungen im Nis2 Cybersecurity Compliance. |
 | `notfallkommunikation` | Baut Notfallkommunikation außerhalb kompromittierter Systeme im Nis2 Cybersecurity Compliance. |
 | `notfallplan-bcm-open-source-patch-management` | Prüft Notfallmanagement und Business Continuity für echte Betriebsfähigkeit im Nis2 Cybersecurity Compliance. |

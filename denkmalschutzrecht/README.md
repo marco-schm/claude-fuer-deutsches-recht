@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`denkmalschutzrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/denkmalschutzrecht-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`denkmalschutzrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/denkmalschutzrecht-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`denkmalschutzrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/denkmalschutzrecht-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`denkmalschutzrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/denkmalschutzrecht.zip) |
 | Testakte(n) als ZIP | ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) |
@@ -19,22 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`denkmalschutzrecht-schnellstart.md`](./denkmalschutzrecht-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`denkmalschutzrecht`) | [`denkmalschutzrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/denkmalschutzrecht.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Plugin für die anwaltliche Bearbeitung von Mandaten im deutschen Denkmalschutzrecht. Strukturiert in drei Schichten:
 
 1. **Allgemeiner Teil** — bundesstaatlicher Rahmen (Art. 73 GG, Art. 14 GG, Verwaltungsverfahrensrecht, Welterbe).
@@ -58,7 +42,7 @@ Denkmalschutzrecht ist Landesrecht. Bei jedem Mandat ist als allererstes das anw
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -89,6 +73,7 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `denkmalschutz-sachsen-sachsdschg` | Denkmalschutzrecht Sachsen nach dem Sächsischen Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Sächsisches Staatsministerium für Regionalentwicklung; Landesamt für Denkmalpflege Sachsen in Dresden; Untere Denkmalschutzbehörden b... |
 | `denkmalschutz-schleswig-holstein-dschg-sh` | Denkmalschutzrecht Schleswig-Holstein nach dem Denkmalschutzgesetz Schleswig-Holstein. Skill bündelt zuständige Behörden (Ministerium für Allgemeine und Berufliche Bildung, Wissenschaft, Forschung und Kultur; Landesamt für Denkmalpflege... |
 | `denkmalschutz-thueringen-thuerdschg` | Denkmalschutzrecht Thüringen nach dem Thüringer Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Thüringer Staatskanzlei; Thüringisches Landesamt für Denkmalpflege und Archäologie in Erfurt; Untere Denkmalschutzbehörden bei den La... |
+| `denkmalschutzrecht-schnellstart` | 'Kompakter Arbeitsmodus für Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn Landesgesetze. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-K... |
 | `einstieg-routing` | Einstiegsskill für das Denkmalschutzrecht-Plugin. Sortiert das Mandat, klärt Belegenheit des Objekts und damit das anwendbare Landesgesetz, ermittelt Rolle (Eigentümer, Erwerber, Behörde, Nachbar, Förderantragsteller), Fristen und gewüns... |
 | `eintragungsverfahren-allgemein` | Verfahren zur Eintragung eines Objekts in die Denkmalliste. Skill ordnet die typischen Verfahrensschritte (Anhörung, sachverständige Stellungnahme, Eintragungsverfügung, Bekanntgabe), erläutert konstitutive und nachrichtliche Eintragung... |
 | `enteignung-uebernahme-und-entschaedigung` | Eigentumseingriff im Denkmalrecht: Enteignung nach Art. 14 Abs. 3 GG mit Entschädigung, Übernahmeanspruch der Eigentümerin bei wirtschaftlicher Unzumutbarkeit, Ausgleichszahlungen bei ausgleichspflichtiger Inhaltsbestimmung. Skill ordnet... |

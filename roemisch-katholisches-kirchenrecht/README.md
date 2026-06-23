@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`roemisch-katholisches-kirchenrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisch-katholisches-kirchenrecht-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`roemisch-katholisches-kirchenrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisch-katholisches-kirchenrecht-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`roemisch-katholisches-kirchenrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisch-katholisches-kirchenrecht-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`roemisch-katholisches-kirchenrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisch-katholisches-kirchenrecht.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente.zip) (Kirchenrechtliche Arbeitsakte: Sancta Caecilia, Kirchenaustritt, Sakramente und Ordinariatskommunikation) |
@@ -19,26 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`roemisch-katholisches-kirchenrecht-schnellstart.md`](./roemisch-katholisches-kirchenrecht-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`roemisch-katholisches-kirchenrecht`) | [`roemisch-katholisches-kirchenrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisch-katholisches-kirchenrecht.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Kirchenrechtliche Arbeitsakte: Sancta Caecilia, Kirchenaustritt, Sakramente und Ordinariatskommunikation** (`kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente`) | [Gesamt-PDF lesen](../testakten/kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente/gesamt-pdf/kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente_gesamt.pdf) | [`testakte-kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Dieses Plugin ist ein großes, ausdrücklich **papsttreues, lehramtsorientiertes und katholisches** Arbeitswerkzeug für Fragen des römisch-katholischen Kirchenrechts und der katholischen Lehre. Es denkt vom **Codex Iuris Canonici**, vom **Katechismus der Katholischen Kirche**, vom Dienst des Papstes und der Gemeinschaft mit der Kirche her.
 
 Es soll nicht relativieren oder bloß soziologisch kommentieren, sondern klären: Was ist rechtlich im Raum? Was ist lehrmäßig gebunden? Was ist pastoral klug? Welche Stelle ist zuständig? Welche Sprache braucht die Person vor uns? Und wie dokumentiert man das so, dass es in Pfarrei, Ordinariat, Tribunal oder Kurie brauchbar bleibt?
@@ -89,7 +69,7 @@ Keine privaten Kirchenrechtsmeinungen oder Sekundärliteratur als Tatsache ausge
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 1876 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 1877 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -1945,6 +1925,7 @@ Automatisch generierte Komplett-Liste aller 1876 Skills in diesem Plugin. Beschr
 | `red-team-einer-kirchlichen-antwort` | Red-Team einer kirchlichen Antwort: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 | `religionsfreiheit-glaubensgehorsam-romische` | Religionsfreiheit und Glaubensgehorsam: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Frist... |
 | `religionsfreiheit-und-glaubensgehorsam` | Religionsfreiheit und Glaubensgehorsam: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `roemisch-katholisches-kirchenrecht-schnellstart` | 'Kompakter Arbeitsmodus für Römisch-katholisches Kirchenrecht CIC und Katechismus. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `romische-kurie-und-dikasterien` | Römische Kurie und Dikasterien: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Bele... |
 | `sakramentenempfang-nach-kirchenaustritt` | Sakramentenempfang nach Kirchenaustritt: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fris... |
 | `sakramentenverweigerung-und-rechte` | Sakramentenverweigerung und Rechte: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen,... |

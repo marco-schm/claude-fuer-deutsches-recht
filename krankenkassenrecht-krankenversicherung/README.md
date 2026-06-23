@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`krankenkassenrecht-krankenversicherung-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krankenkassenrecht-krankenversicherung-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`krankenkassenrecht-krankenversicherung-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krankenkassenrecht-krankenversicherung-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`krankenkassenrecht-krankenversicherung-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krankenkassenrecht-krankenversicherung-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`krankenkassenrecht-krankenversicherung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krankenkassenrecht-krankenversicherung.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel.zip) (Akte Lichtenberg: Hilfsmittel, Krankengeld, PKV-Tarifwechsel und Beihilfechaos) |
@@ -19,26 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`krankenkassenrecht-krankenversicherung-schnellstart.md`](./krankenkassenrecht-krankenversicherung-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`krankenkassenrecht-krankenversicherung`) | [`krankenkassenrecht-krankenversicherung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krankenkassenrecht-krankenversicherung.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Akte Lichtenberg: Hilfsmittel, Krankengeld, PKV-Tarifwechsel und Beihilfechaos** (`krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel`) | [Gesamt-PDF lesen](../testakten/krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel/gesamt-pdf/krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel_gesamt.pdf) | [`testakte-krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Dieses Plugin erklärt Krankenversicherung so, dass Betroffene, Arbeitgeber, Kanzleien und Leistungsabteilungen die Akte sortieren können: Wer muss zahlen, welche Unterlagen fehlen, welche Frist läuft und welcher Rechtsweg ist richtig?
 
 ## Arbeitsweise
@@ -64,7 +44,7 @@ Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modell
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 160 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 161 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -87,7 +67,7 @@ Automatisch generierte Komplett-Liste aller 160 Skills in diesem Plugin. Beschre
 | `heilpraktiker-alternative-medizin-und-tarifbedingungen` | Erstattung von Heilpraktiker-Behandlungen und alternativer Medizin in PKV und GKV: Tarif­bedingungen, Leistungsumfang, Evidenzanforderungen und Ablehnungsgründe im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen... |
 | `hilfsmittel-rollstuhl-hoergeraet-cpap-und-wirtschaftlichk` | Hilfsmittelanspruch nach § 33 SGB V: Hilfsmittelverzeichnis, Wirtschaftlichkeitsgebot, Mehrkostenerklärung, MDK-Gutachten und Widerspruch im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, F... |
 | `hospiz-palliativversorgung-und-sapv` | GKV-Leistungen für sterbende Menschen: Hospizversorgung (§ 39a SGB V), SAPV (§ 37b SGB V), Zuzahlungsbefreiung und Versorgungskoordination im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale,... |
-| `internationale-studierende-krankenversicherung` | Krankenversicherungspflicht für ausländische Studenten in Deutschland: GKV-Pflicht, Befreiungsmöglichkeiten, private Alternativen und Nachweispflichten im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbes... |
+| `internationale-studierende-krankenversicherung` | Krankenversicherungspflicht für ausländische Studenten in Deutschland: GKV-Pflicht, Befreiungsmöglichkeiten, private Alternativen und Nachweispflichten im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbesta... |
 | `kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittex... |
 | `kassenaufsicht-beschwerde-und-bmg-bas` | Beschwerde bei Kassenaufsichtsbehörden (BAS, Landesbehörden): Zuständigkeiten, Beschwerdeinhalte, Grenzen der Aufsicht und ergänzende Rechtsmittel im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsme... |
 | `kassenwahl-kuendigung-bindungsfrist-wahltarif` | Kassenwahlrecht nach § 175 SGB V: Bindungsfrist, Kündigung, Sonderkündigungsrecht, Wahltarife und Kostenbeteiligung im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rec... |
@@ -98,6 +78,7 @@ Automatisch generierte Komplett-Liste aller 160 Skills in diesem Plugin. Beschre
 | `krankenhausabrechnung-drg-zuzahlung-und-md-pruefung` | Krankenhausabrechnung im DRG-System: Kodierung, Zuzahlungspflicht, MD-Prüfverfahren, Kürzungen und Widerspruchsstrategien im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege u... |
 | `krankenkasse-und-insolvenz-beitragsschuld` | Beitragsschulden gegenüber GKV und PKV in der Insolvenz: Insolvenzforderungen, Masseverbindlichkeiten, Restschuldbefreiung und Verhalten der Kasse im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsme... |
 | `krankenkassenfusion-und-bestandsschutz` | Fusion von Krankenkassen nach §§ 171a ff. SGB V: Rechtsfolgen für Versicherte, Bestandsschutz für Tarife und Wahlarife, Schließung und Insolvenz im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerk... |
+| `krankenkassenrecht-krankenversicherung-schnellstart` | 'Kompakter Arbeitsmodus für Krankenkassenrecht und Krankenversicherung. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `krankenkassenregress-behandlungsfehler-und-erstattung` | Regressansprüche der GKV gegen Leistungserbringer bei Behandlungsfehlern (§ 116 SGB X): Voraussetzungen, Höhe, Verjährung und Verhältnis zum Patientenanspruch im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen T... |
 | `krankenversicherung-arbeitgeberzuschuss-pkv-entgeltabrechnung` | AG-Zuschuss zur PKV nach § 257 SGB V: Höhe, Berechnung, Sozialversicherungsfreiheit, falsche Abrechnung und Rückforderungsrisiken im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen,... |
 | `krankenversicherung-arztbrief-anspruchsbegruendung-uebersetzen` | Methodik zur Transformation medizinischer Arztbriefe in rechtlich verwertbare Anspruchsbegründungen gegenüber GKV und PKV im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege u... |
@@ -217,7 +198,7 @@ Automatisch generierte Komplett-Liste aller 160 Skills in diesem Plugin. Beschre
 | `satzungsleistungen-bonusprogramm-und-rueckforderung` | Freiwillige Kassenleistungen (Satzungsleistungen, §§ 11 und 194 SGB V), Bonusprogramme und Rückforderungsansprüche der Kasse im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Beleg... |
 | `sperrzeit-arbeitslosengeld-und-krankenversicherung` | Krankenversicherung bei Arbeitslosigkeit und Sperrzeit nach SGB III: Pflichtversicherung, Beitragsübernahme durch Bundesagentur, Lückenproblem und Optionen im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatb... |
 | `statusfeststellung-und-krankenversicherung` | Statusfeststellungsverfahren nach § 7a SGB IV: Scheinselbstständigkeit, sozialversicherungsrechtliche Folgen für die Krankenversicherung und Nachzahlungsrisiken im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen... |
-| `studentische-krankenversicherung-altersgrenzen` | Pflichtversicherung Studentenr (§ 5 Abs. 1 Nr. 9 SGB V): Altersgrenze 25 Jahre, Fachsemesterlimit, Urlaubssemester, Ende der Versicherung und Übergangsoptionen im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägige... |
+| `studentische-krankenversicherung-altersgrenzen` | Pflichtversicherung Studentenr (§ 5 Abs. 1 Nr. 9 SGB V): Altersgrenze 25 Jahre, Fachsemesterlimit, Urlaubssemester, Ende der Versicherung und Übergangsoptionen im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen... |
 | `tarifwechsel-pkv-204-vvg` | Tarifwechselrecht in der PKV nach § 204 VVG: Voraussetzungen, Mitnahme der Altersrückstellungen, Risikoprüfung und Durchsetzung im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Be... |
 | `telemedizin-epa-erezept-und-datenschutz` | Digitalisierung im Gesundheitswesen: Telemedizin, elektronische Patientenakte (ePA), elektronisches Rezept (eRezept) – GKV-Leistungsrahmen, Datenschutz und Opt-out im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägi... |
 | `transidentitaet-geschlechtsangleichende-behandlung` | GKV-Leistungspflicht für geschlechtsangleichende Maßnahmen: Hormontherapie, operative Eingriffe, Diagnostik, MDK-Prüfung und aktuelle BSG-Rechtsprechung im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbest... |

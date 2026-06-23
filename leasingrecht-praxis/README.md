@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`leasingrecht-praxis-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/leasingrecht-praxis-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`leasingrecht-praxis-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/leasingrecht-praxis-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`leasingrecht-praxis-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/leasingrecht-praxis-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`leasingrecht-praxis.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/leasingrecht-praxis.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-leasingrecht-maschinenfleet-restwert-insolvenz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-leasingrecht-maschinenfleet-restwert-insolvenz.zip) (Akte Rotorwerk: Maschinenleasing, Restwert und Insolvenzgerücht) |
@@ -19,26 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`leasingrecht-praxis-schnellstart.md`](./leasingrecht-praxis-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`leasingrecht-praxis`) | [`leasingrecht-praxis.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/leasingrecht-praxis.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Akte Rotorwerk: Maschinenleasing, Restwert und Insolvenzgerücht** (`leasingrecht-maschinenfleet-restwert-insolvenz`) | [Gesamt-PDF lesen](../testakten/leasingrecht-maschinenfleet-restwert-insolvenz/gesamt-pdf/leasingrecht-maschinenfleet-restwert-insolvenz_gesamt.pdf) | [`testakte-leasingrecht-maschinenfleet-restwert-insolvenz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-leasingrecht-maschinenfleet-restwert-insolvenz.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Leasing ist oft Finanzierung, Beschaffung, Bilanz, Steuer und Insolvenzrisiko in einem. Dieses Plugin macht daraus eine klare Prüfspur für Anbieter, Leasingnehmer, Banken und Kanzleien.
 
 ## Arbeitsweise
@@ -63,7 +43,7 @@ Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modell
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 118 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -158,6 +138,7 @@ Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschre
 | `leasing-in-sanierungsgutachten` | Leasing im Sanierungsgutachten: Behandlung von Leasingverbindlichkeiten in IDW S6-Gutachten, Fortführungsprognose, Leasingkosten und Restrukturierungsmaßnahmen im Leasingrecht. |
 | `leasingakte-vertrag-objekt` | Schnellanalyse einer Leasingakte: Vertragstyp, Objekt, Zahlungsstrom und Eigentumslage klären; strukturierter Einstieg mit Normencheck und Sofortmaßnahmen. |
 | `leasingportfolio-due-npl` | Leasingportfolio Due Diligence: Vertragsanalyse, Risikoklassifizierung, Konzentrations- und Restwertrisikoanalyse, Bewertung für Kauf/Verkauf im Leasingrecht. |
+| `leasingrecht-praxis-schnellstart` | 'Kompakter Arbeitsmodus für Leasingrecht Praxis. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `leasingvertrag-redline-fuer-leasingnehmer` | Leasingvertrag-Redline aus Leasingnehmersicht: Problematische Klauseln identifizieren, Gegenentwürfe formulieren, Verhandlungsstrategie und Risikoabsicherung im Leasingrecht. |
 | `leasingvertrag-redline-leasingnehmer` | Leasingvertrag-Redline aus Anbietersicht: Kernklauseln, Risikoverteilung, AGB-Gestaltung, Wirksamkeitssicherung und typische LN-Änderungswünsche im Leasingrecht. |
 | `lessons-learned-nach-rueckgabe` | Lessons Learned nach Leasingrückgabe: Analyse von Minderwertstreitigkeiten, Prozessverbesserungen, Vertragsoptimierungen und Portfolioentwicklung im Leasingrecht. |

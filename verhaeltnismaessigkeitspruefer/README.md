@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`verhaeltnismaessigkeitspruefer-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verhaeltnismaessigkeitspruefer-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`verhaeltnismaessigkeitspruefer-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verhaeltnismaessigkeitspruefer-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`verhaeltnismaessigkeitspruefer-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verhaeltnismaessigkeitspruefer-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`verhaeltnismaessigkeitspruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verhaeltnismaessigkeitspruefer.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz.zip) (Initiative Lausitzer Lebensraum e.V. ./. Polizeipraesidium Cottbus (Polizeiverfuegung Anti-Kohle-Versammlung Forst Lausitz)) |
@@ -19,26 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`verhaeltnismaessigkeitspruefer-schnellstart.md`](./verhaeltnismaessigkeitspruefer-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`verhaeltnismaessigkeitspruefer`) | [`verhaeltnismaessigkeitspruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verhaeltnismaessigkeitspruefer.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Initiative Lausitzer Lebensraum e.V. ./. Polizeipraesidium Cottbus (Polizeiverfuegung Anti-Kohle-Versammlung Forst Lausitz)** (`polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz`) | [Gesamt-PDF lesen](../testakten/polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz/gesamt-pdf/polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz_gesamt.pdf) | [`testakte-polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Plugin für die juristisch tiefe Anwendung der vierstufigen Schranken-Schranke
 (legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit) auf
 Grundrechtseingriffe nach deutschem Verfassungsrecht. Mit Vor-Trias (Schutzbereich, Eingriff, Schranke), absoluten Grenzen (Menschenwürde, Wesensgehalt, Existenzminimum), Bestimmtheit und Wesentlichkeitstheorie, BVerfG-Leitentscheidungen, rechtsvergleichenden Skills zu Südafrika Section 36, Kanada Oakes-Test, EGMR/EMRK, EuGH/Charta, US-Tiers-of-Scrutiny sowie 12 europäischen Rechtsordnungen (Frankreich, Italien, Spanien, Niederlande, Belgien, Österreich, Luxemburg, Dänemark, Polen, Tschechien, Griechenland, Irland) sowie Workflow-Werkzeugen.
@@ -156,7 +136,7 @@ Quelle auffindbar ist; keine BeckRS-/juris-Blindzitate.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 85 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 86 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -237,6 +217,7 @@ Automatisch generierte Komplett-Liste aller 85 Skills in diesem Plugin. Beschrei
 | `usa-tiers-of-scrutiny` | Tiers of scrutiny des US Supreme Court als Prüfungsmuster fuer Eingriffe in Grundrechte und Gleichheitsfragen mit strict scrutiny intermediate scrutiny und rational basis review. Mit Korematsu Grutter Adarand Craig v Boren Romer und Hinw... |
 | `verhaeltnismaessigkeit-einstieg` | Einstieg in den Verhältnismäßigkeitspruefer mit Plugin-Karte, Methodik-UEberblick und Empfehlungen welcher Skill bei welchem Fall zu starten ist. Erklaert die vier Stufen kurz und verweist auf vertiefende Skills. |
 | `verhaeltnismaessigkeit-mittelbare-diskriminierung` | Mittelbare Diskriminierung nach Paragraph 3 Abs. 2 AGG und der EuGH-Linie seit Bilka. Erfasst neutrale Vorschriften oder Kriterien die Traegerinnen eines geschuetzten Merkmals in besonderer Weise benachteiligen koennen. Rechtfertigung nu... |
+| `verhaeltnismaessigkeitspruefer-schnellstart` | 'Kompakter Arbeitsmodus für Verhältnismäßigkeitsprüfer. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `versammlungsfreiheit-brokdorf-auflagen-verbot` | Art. 8 GG bei Demonstrationsauflagen, Verboten, Aufloesungen und Eilrechtsschutz: Brokdorf-Linie, konkrete Gefahrenprognose, Kooperationsgebot, Auflage-vor-Verbot und verhältnismäßige Versammlungssteuerung. |
 | `vierstufige-schranken-schranke` | Die vier Stufen der Verhältnismäßigkeitspruefung legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit als Schranken-Schranke. Mit Prüfungsschema, dogmatischer Verortung und Hinweisen welche Stufe in welcher Fallgruppe das Nade... |
 | `volkszaehlung-bverfge-65-1` | Volkszaehlungs-Urteil BVerfGE Band 65 Seite 1 vom 15.12.1983 als Begruendung des Rechts auf informationelle Selbstbestimmung. Mit Eingriffsbegriff Verarbeitungskontext und der Aussage es gibt kein belangloses Datum mehr. |

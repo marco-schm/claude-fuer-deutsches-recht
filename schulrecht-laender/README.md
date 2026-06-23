@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`schulrecht-laender-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schulrecht-laender-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`schulrecht-laender-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schulrecht-laender-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`schulrecht-laender-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schulrecht-laender-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`schulrecht-laender.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schulrecht-laender.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit.zip) (Schulleitung Gymnasium am Maschsee-Nord Hannover - Konkurrentenstreit); [`testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip) (Akte Lindenhof-Gymnasium - Inklusion, Ordnungsmaßnahme und Schulwechsel) |
@@ -19,27 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`schulrecht-laender-schnellstart.md`](./schulrecht-laender-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`schulrecht-laender`) | [`schulrecht-laender.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schulrecht-laender.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Schulleitung Gymnasium am Maschsee-Nord Hannover - Konkurrentenstreit** (`beamtenrecht-schulleitung-hannover-konkurrentenstreit`) | [Gesamt-PDF lesen](../testakten/beamtenrecht-schulleitung-hannover-konkurrentenstreit/gesamt-pdf/beamtenrecht-schulleitung-hannover-konkurrentenstreit_gesamt.pdf) | [`testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit.zip) |
-| **Akte Lindenhof-Gymnasium - Inklusion, Ordnungsmaßnahme und Schulwechsel** (`schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof`) | [Gesamt-PDF lesen](../testakten/schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof/gesamt-pdf/schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof_gesamt.pdf) | [`testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Dieses Plugin ist der landesrechtliche Schulrechts-Kompass für Eltern, Schüler, Schulen, Schulträger, Behörden und Anwälte. Es beginnt immer mit Bundesland, Schulart, Entscheidung und Frist und führt dann in einen brauchbaren nächsten Schritt.
 
 ## Wofür dieses Plugin da ist
@@ -75,7 +54,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -161,6 +140,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `schulkonferenz-und-mitwirkung` | Prüft schulische Mitwirkungsgremien im Schulrecht Länder. |
 | `schulpflicht-und-schulversaeumnis` | Prüft Schulpflicht, Fehlzeiten, Atteste, Bußgeld, Jugendamt und Eskalation im Schulrecht Länder. |
 | `schulrecht-hausunterricht-schulsozialarbeit` | Prüft häuslichen Unterricht, Ruhen der Schulpflicht, Schulverweigerung und behördliche Eskalation im Schulrecht Länder. |
+| `schulrecht-laender-schnellstart` | 'Kompakter Arbeitsmodus für Schulrecht der Bundesländer. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `schulsozialarbeit-jugendamt` | Prüft Schnittstelle Schulsozialarbeit, Jugendamt und Kindeswohl im Schulrecht Länder. |
 | `schultraeger-gebaeude-und-ausstattung` | Prüft Schulträgerpflichten für Gebäude, Ausstattung und Barrierefreiheit im Schulrecht Länder. |
 | `schulvertrag-privatschule-bussgeld` | Prüft privatschulische Aufnahme, Kündigung, Hausordnung und Vertragsrechte im Schulrecht Länder. |

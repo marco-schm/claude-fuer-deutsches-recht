@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`weltraumrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/weltraumrecht-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`weltraumrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/weltraumrecht-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`weltraumrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/weltraumrecht-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`weltraumrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/weltraumrecht.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-weltraumrecht-satellitenschwarm-startplatz-kueste.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-weltraumrecht-satellitenschwarm-startplatz-kueste.zip) (Akte Nordlicht-Orbit: Satellitenschwarm, Küstenstartplatz und Absturzrisiko) |
@@ -19,26 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`weltraumrecht-schnellstart.md`](./weltraumrecht-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`weltraumrecht`) | [`weltraumrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/weltraumrecht.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Akte Nordlicht-Orbit: Satellitenschwarm, Küstenstartplatz und Absturzrisiko** (`weltraumrecht-satellitenschwarm-startplatz-kueste`) | [Gesamt-PDF lesen](../testakten/weltraumrecht-satellitenschwarm-startplatz-kueste/gesamt-pdf/weltraumrecht-satellitenschwarm-startplatz-kueste_gesamt.pdf) | [`testakte-weltraumrecht-satellitenschwarm-startplatz-kueste.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-weltraumrecht-satellitenschwarm-startplatz-kueste.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Das Plugin behandelt Raumfahrt nicht als Science-Fiction, sondern als haftungs-, genehmigungs-, sicherheits-, versicherungs-, frequenz- und völkerrechtlich hochverdichtete Praxis.
 
 ## Arbeitsweise
@@ -63,7 +43,7 @@ Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modell
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 180 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 181 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -245,6 +225,7 @@ Automatisch generierte Komplett-Liste aller 180 Skills in diesem Plugin. Beschre
 | `weltraummedizin-probandenrecht-haftung` | Weltraummedizin-Recht – Probandeneinwilligung, Ethikkommission, Haftung für medizinische Fehler im Weltraumrecht. |
 | `weltraummuell-debris-mitigation-und-betreiberpflichten` | Weltraummüll-Prävention – IADC-Leitlinien, 25/5-Jahres-Regel, Active Debris Removal, Betreiberpflichten im Weltraumrecht. |
 | `weltraumrecht-kommunen-bergung-fremder` | Kommunale Startplatz-Akquise – Planungsrecht, Förderanträge, Umweltrecht, öffentliche Beihilfen im Weltraumrecht. |
+| `weltraumrecht-schnellstart` | 'Kompakter Arbeitsmodus für Weltraumrecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `weltraumtourismus-verbraucherrecht-haftungsverzicht-ag` | Weltraumtourismus – Informed Consent, AGB-Haftungsausschluss, Verbraucherschutz, FAA-Anforderungen im Weltraumrecht. |
 | `weltraumwetter-solarsturm-und-betreiberpflichten` | Weltraumwetter-Risiken – Solarsturm, Strahlungsschäden, Betreiberpflichten, Versicherungsdeckung im Weltraumrecht. |
 

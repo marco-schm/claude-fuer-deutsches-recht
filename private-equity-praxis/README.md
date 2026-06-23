@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`private-equity-praxis-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/private-equity-praxis-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`private-equity-praxis-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/private-equity-praxis-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`private-equity-praxis-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/private-equity-praxis-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`private-equity-praxis.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/private-equity-praxis.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-private-equity-buyout-schuldschein-npl-heidelberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-private-equity-buyout-schuldschein-npl-heidelberg.zip) (Projekt Nachtfalter — Private Equity Buyout, Schuldschein und NPL-Portfolio); [`testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip) (Nebelstern Ventures - Berliner VC-Pipeline, Wandeldarlehen und Follow-on-Chaos) |
@@ -19,27 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`private-equity-praxis-schnellstart.md`](./private-equity-praxis-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`private-equity-praxis`) | [`private-equity-praxis.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/private-equity-praxis.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Projekt Nachtfalter — Private Equity Buyout, Schuldschein und NPL-Portfolio** (`private-equity-buyout-schuldschein-npl-heidelberg`) | [Gesamt-PDF lesen](../testakten/private-equity-buyout-schuldschein-npl-heidelberg/gesamt-pdf/private-equity-buyout-schuldschein-npl-heidelberg_gesamt.pdf) | [`testakte-private-equity-buyout-schuldschein-npl-heidelberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-private-equity-buyout-schuldschein-npl-heidelberg.zip) |
-| **Nebelstern Ventures - Berliner VC-Pipeline, Wandeldarlehen und Follow-on-Chaos** (`venture-capital-geber-nebelstern-portfolio-berlin`) | [Gesamt-PDF lesen](../testakten/venture-capital-geber-nebelstern-portfolio-berlin/gesamt-pdf/venture-capital-geber-nebelstern-portfolio-berlin_gesamt.pdf) | [`testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Dieses Plugin ist ein Praxis-Cockpit für deutsche Anwälte, Kanzleiteams, Investoren, Family Offices, Beteiligungsgesellschaften, Rechtsabteilungen und Gründer, die Private Equity, Private Credit oder Distressed-Investments in Deutschland sauber strukturieren, prüfen oder erklären müssen.
 
 Es ist ausdrücklich anfängerfreundlich, aber nicht weichgespült: Der Einstieg sortiert Rolle, Deal-Phase, Fonds-/Direktinvestment, regulatorische Schwellen, Fristen, Unterlagen, Zahlenmodell und gewünschten Output. Danach routet das Plugin in konkrete Spezial-Skills für Fondsaufsicht, KAGB/AIF/ELTIF, Due Diligence, SPA, Management Participation, Finanzierung, Schuldschein, LMA-Facility, NPL-Kauf, Portfolio-Management, Exit und Krise.
@@ -63,7 +42,7 @@ Am besten mit `allgemein` oder `pe-001-kaltstart-deal-und-investor-routing` begi
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 108 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 109 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -143,6 +122,7 @@ Automatisch generierte Komplett-Liste aller 108 Skills in diesem Plugin. Beschre
 | `post-closing-covenant-breach` | Prüft Pflichtverletzungen nach Closing, Ordinary Course, Non-Compete, Transitional Services und Cooperation im Private Equity Praxis. |
 | `preferred-equity-hybrid-finance` | Prüft Preferred Equity, Mezzanine, Wandeldarlehen, Gesellschafterdarlehen und Rangrücktritt im Private Equity Praxis. |
 | `private-credit-direct-lending` | Strukturiert Senior, Unitranche, Second Lien, PIK, NAV Facility und Covenant-Paket im Private Equity Praxis. |
+| `private-equity-praxis-schnellstart` | 'Kompakter Arbeitsmodus für Private Equity Praxis. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `public-to-private-pe` | Begleitet Delisting, Übernahmeangebot, Pflichtangebot, Finanzierung und Squeeze-out-Pfad im Private Equity Praxis. |
 | `qualitygate-pe-no-hallucinations` | Prüft alle PE-Outputs auf erfundene Marktstandards, falsche Normen, fehlende Quellen, Zahlenbrüche und Rollenkonflikte. |
 | `real-estate-npl-pe` | Prüft Immobilienbesicherte NPL-Portfolios, Grundschuld, Zwangsverwaltung, Zwangsversteigerung und Datenschutz im Private Equity Praxis. |

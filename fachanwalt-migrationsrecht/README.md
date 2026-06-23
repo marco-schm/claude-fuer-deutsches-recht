@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`fachanwalt-migrationsrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-migrationsrecht-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`fachanwalt-migrationsrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-migrationsrecht-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`fachanwalt-migrationsrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-migrationsrecht-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`fachanwalt-migrationsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-migrationsrecht.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung.zip) (Familie Amiri-Hosseini — Asylfolge, Dublin IV, Flüchtlingsanerkennung) |
@@ -19,26 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`fachanwalt-migrationsrecht-schnellstart.md`](./fachanwalt-migrationsrecht-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`fachanwalt-migrationsrecht`) | [`fachanwalt-migrationsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-migrationsrecht.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Familie Amiri-Hosseini — Asylfolge, Dublin IV, Flüchtlingsanerkennung** (`familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung`) | [Gesamt-PDF lesen](../testakten/familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung/gesamt-pdf/familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung_gesamt.pdf) | [`testakte-familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Plugin Fachanwalt für Migrationsrecht als großer Praxis-Kompass mit über 200 Skills: Aufenthaltstitel, Blaue Karte EU, Fachkräfte, Chancenkarte, Studium/Ausbildung, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Duldung, Abschiebungsabwehr, Ausweisung, Visumverfahren, Staatenlosigkeit, Gebietsstatus, Länderquellen und ein Staaten-/Gebietscheck für nahezu jeden relevanten Herkunfts-, Transit- oder Zielstaat einschließlich Palästina, Nordzypern und Westsahara. Der Einstiegsskill kann auf Wunsch auch spanisch und in einfacher Sprache erklären.
 
 ## Installation in Claude Code
@@ -64,7 +44,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 460 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 461 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -129,6 +109,7 @@ Automatisch generierte Komplett-Liste aller 460 Skills in diesem Plugin. Beschre
 | `fachanwalt-migrationsrecht-familiennachzug` | Mandant will Ehegatten Kinder oder Eltern nach Deutschland holen und fragt nach Voraussetzungen und Verfahren. Prüfraster §§ 27-36 AufenthG Familiennachzug Lebensunterhalt Wohnraum Sprachkenntnisse A1. Beschleunigtes Visum-Verfahren Fami... |
 | `fachanwalt-migrationsrecht-geas-reform-grenzverfahren-2024` | GEAS-Reform EU-Asyl- und Migrationsmanagementverordnung 2024/1351 EU-Asylverfahrensverordnung 2024/1348 EU-Grenzverfahrensverordnung 2024/1349 ab 12.6.2026 anwendbar. Pflicht-Grenzverfahren bei Antragstellern mit niedrigen Anerkennungsqu... |
 | `fachanwalt-migrationsrecht-orientierung` | Anwalt will ueberblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung AufenthG AsylG GFK Genfer Fluechtlingskonvention 1951 Dublin-VO EU-Verfahrens-RL Qualifikations-RL 2011/95 StA... |
+| `fachanwalt-migrationsrecht-schnellstart` | 'Kompakter Arbeitsmodus für Fachanwalt Migrationsrecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `familiennachzug` | Mandant will Ehegatten Kinder oder Eltern nach Deutschland holen und fragt nach Voraussetzungen und Verfahren: Prüfraster §§ 27-36 AufenthG Famili... |
 | `familiennachzug-ehegatte` | Ehegattennachzug: Fachmodul im Migrationsrecht: prüft Ehe, A1, Lebensunterhalt, Wohnraum, Härtefall und Urkunden; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 | `familiennachzug-kind` | Kindernachzug: Fachmodul im Migrationsrecht: prüft Alter, Sorgerecht, Kindeswohl, Lebensunterhalt, Sprach-/Integrationsfragen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |

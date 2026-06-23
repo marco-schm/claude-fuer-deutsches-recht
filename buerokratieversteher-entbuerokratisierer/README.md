@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`buerokratieversteher-entbuerokratisierer-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/buerokratieversteher-entbuerokratisierer-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`buerokratieversteher-entbuerokratisierer-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/buerokratieversteher-entbuerokratisierer-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`buerokratieversteher-entbuerokratisierer-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/buerokratieversteher-entbuerokratisierer-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`buerokratieversteher-entbuerokratisierer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/buerokratieversteher-entbuerokratisierer.zip) |
 | Testakte(n) als ZIP | ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) |
@@ -19,22 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`buerokratieversteher-entbuerokratisierer-schnellstart.md`](./buerokratieversteher-entbuerokratisierer-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`buerokratieversteher-entbuerokratisierer`) | [`buerokratieversteher-entbuerokratisierer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/buerokratieversteher-entbuerokratisierer.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Geführtes Laien-Plugin für Menschen, die vor einem Behördenbrief, Bescheid, Antrag, Formular, Gerichtstermin oder einer Vorladung sitzen und zuerst verstehen müssen: Was ist das, was muss ich tun, was sollte ich besser nicht vorschnell sagen?
 
 ## Arbeitsidee
@@ -58,7 +42,7 @@ Apache-2.0 OR MIT. Siehe Repository-Stammverzeichnis.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -77,6 +61,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `betreuung-und-vorsorgevollmacht` | Hilft bei Behördenkontakt für Angehörige, Vollmacht, Betreuung, Einwilligungsfähigkeit und Datenschutz im Bürokratie-Entbürokratisierung. |
 | `beweismittel-fotos-screenshots` | Erklärt beweissichere Fotos, Screenshots, Metadaten, Dateinamen, Schwärzung und Anlagenverzeichnis im Bürokratie-Entbürokratisierung. |
 | `buergergeld-jobcenter` | Erklärt Jobcenter-Bescheid, Bedarf, Unterkunft, Sanktion, Mitwirkung, Eilantrag und Beratungshilfe im Bürokratie-Entbürokratisierung. |
+| `buerokratieversteher-entbuerokratisierer-schnellstart` | 'Kompakter Arbeitsmodus für Bürokratieversteher und Entbürokratisierer. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `bussgeld-anhoerung` | Erklärt Anhörungsbogen, Betroffener, Aussageverweigerung, Fahrerfrage, Fristen und Einspruch im Bürokratie-Entbürokratisierung. |
 | `chronologie-fuer-behoerde` | Macht aus Lebenssachverhalt eine knappe, belegbare Chronologie ohne Spekulationen im Bürokratie-Entbürokratisierung. |
 | `datenschutz-auskunft-behoerde` | Hilft bei DSGVO-Auskunft, Berichtigung, Löschung, Akteneinsicht und Datenschutzbeschwerde gegen öffentliche Stellen im Bürokratie-Entbürokratisierung. |

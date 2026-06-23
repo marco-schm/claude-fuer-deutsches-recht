@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`us-bankruptcy-code-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-bankruptcy-code-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`us-bankruptcy-code-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-bankruptcy-code-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`us-bankruptcy-code-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-bankruptcy-code-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`us-bankruptcy-code.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-bankruptcy-code.zip) |
 | Testakte(n) als ZIP | ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) |
@@ -19,22 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`us-bankruptcy-code-schnellstart.md`](./us-bankruptcy-code-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`us-bankruptcy-code`) | [`us-bankruptcy-code.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-bankruptcy-code.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Dieses Plugin ist der große deutsche Arbeitskompass zum U.S. Bankruptcy Code, also Title 11 des United States Code. Es deckt Chapter 7, 9, 11, 12, 13 und 15, Automatic Stay, Claims, DIP Financing, Cash Collateral, 363 Sales, Executory Contracts, Preferences, Fraudulent Transfers, Subchapter V, Plan Confirmation, Cramdown, Chapter 15 und distressed transactions ab.
 
 Es ist für deutsche Kanzleien, Rechtsabteilungen, Kreditgeber, Käufer, Lizenznehmer, Investoren und Gläubiger gedacht, die mit einem US-Bankruptcy-Fall umgehen müssen und schnell eine geordnete Arbeitsakte für US-Counsel brauchen.
@@ -178,7 +162,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -276,6 +260,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `title11-map-chapters` | Kartiert Title 11 Chapters 1/3/5/7/9/11/12/13/15 mit Rollen, Zielen und Schnittstellen im US Bankruptcy Code. |
 | `trustee-us-trustee-roles` | Erklaert Chapter trustee, U.S. Trustee, bankruptcy administrator, DIP, examiner and oversight functions im US Bankruptcy Code. |
 | `turnover-542` | Prüft turnover of estate property, records, account funds, collateral and foreign holder issues im US Bankruptcy Code. |
+| `us-bankruptcy-code-schnellstart` | 'Kompakter Arbeitsmodus für US Bankruptcy Code. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `use-sale-utilities-valuation-enterprise-venue` | Prüft ordinary/nonordinary use, sale or lease of estate property, notice, business judgment and objections im US Bankruptcy Code. |
 | `utilities-366` | Prüft utility service, adequate assurance, deposits, objections and first-day relief im US Bankruptcy Code. |
 | `valuation-enterprise` | Prüft valuation evidence for plan, cramdown, adequate protection, 363 sale, solvency and fraudulent transfer im US Bankruptcy Code. |

@@ -2,7 +2,7 @@
 
 Diese Übersicht dokumentiert die Konsolidierung auf genau einen großen Werkstatt-Prompt und genau einen kleinen Schnellstart-Prompt pro Plugin.
 
-Stand v380.0.0: Drei Qualitätsschleifen über alle 229 Plugins durchlaufen. Schleife 1 (Inhaltsdichte) und Schleife 2 (Äquivalenz Werkstatt/Schnellstart) wurden gegen die Konvention geprüft und als konform bestätigt; Schleife 3 (Ton) hat die Doppelstern-Auszeichnung im Fließtext aller 458 Promptdateien in reine Worte gewandelt, Tabellen-Fettdruck blieb erhalten. YAML- und Strukturvalidator laufen fehlerfrei.
+Stand v382.0.0: Alle 229 Plugins haben genau einen Werkstatt-Prompt und genau einen Schnellstart-Prompt. Die Schnellstart-Prompts sind zusätzlich als ladbare Skills gespiegelt; Werkstatt-Prompts bleiben reine Markdown-Werkzeuge. YAML- und Strukturvalidator laufen fehlerfrei, die lokalen ZIP-Builds für Plugin-, Werkstatt-, Schnellstart- und Testakten-Bundles wurden probeweise erfolgreich ausgeführt.
 
 | Plugin | Werkstatt-Kandidaten vorher | Schnellstart-Kandidaten vorher | Gewählte Werkstatt-Datei | Gewählte Schnellstart-Datei | Quelle Werkstatt | Quelle Schnellstart | Gelöschte Reste | Schnellstart-Zeichen | Werkstatt-Zeilen | ZIP-Assets vorhanden |
 | --- | ---: | ---: | --- | --- | --- | --- | ---: | ---: | ---: | --- |

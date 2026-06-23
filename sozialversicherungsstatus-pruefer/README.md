@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`sozialversicherungsstatus-pruefer-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/sozialversicherungsstatus-pruefer-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`sozialversicherungsstatus-pruefer-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/sozialversicherungsstatus-pruefer-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`sozialversicherungsstatus-pruefer-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/sozialversicherungsstatus-pruefer-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`sozialversicherungsstatus-pruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/sozialversicherungsstatus-pruefer.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip) (Luise Falkenberg - Solo-Selbstständigkeit Designstudio Falkensee 2026); [`testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip) (Klingenhain Musikschule / DRV-Statusprüfung) |
@@ -19,27 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`sozialversicherungsstatus-pruefer-schnellstart.md`](./sozialversicherungsstatus-pruefer-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`sozialversicherungsstatus-pruefer`) | [`sozialversicherungsstatus-pruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/sozialversicherungsstatus-pruefer.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Luise Falkenberg - Solo-Selbstständigkeit Designstudio Falkensee 2026** (`solo-selbststaendige-designstudio-luise-falkensee-2026`) | [Gesamt-PDF lesen](../testakten/solo-selbststaendige-designstudio-luise-falkensee-2026/gesamt-pdf/solo-selbststaendige-designstudio-luise-falkensee-2026_gesamt.pdf) | [`testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip) |
-| **Klingenhain Musikschule / DRV-Statusprüfung** (`statusfeststellung-drv-musikschule-gf-freelancer-klingenhain`) | [Gesamt-PDF lesen](../testakten/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain/gesamt-pdf/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain_gesamt.pdf) | [`testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Großes Praxis-Plugin zur Frage: abhängig beschäftigt, selbständig, scheinselbständig oder selbständig mit besonderer Versicherungspflicht? Schwerpunkt sind § 7 und § 7a SGB IV, DRV-Statusfeststellung, Geschäftsführer, Gesellschafter-Geschäftsführer, Freelancer, Anwälte, Berater, IT-Freelancer, Lehrkräfte, Musikschulen, Plattformarbeit, Betriebsprüfung, Beitragsnachforderung und Widerspruch/Klage.
 
 ## Wofür dieses Plugin da ist
@@ -68,7 +47,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -153,6 +132,7 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `sanierung-vorhandener-vertraege` | Sanierung bestehender Risikomodelle durch echte Änderung von Vertrag und Praxis im Sozialversicherungsstatus Prüfer. |
 | `selbststaendige-lehrer-sozialgericht-klage` | Prüft rentenversicherungspflichtige selbständige Lehrer und Erzieher nach § 2 SGB VI unabhängig vom Beschäftigungsstatus im Sozialversicherungsstatus Prüfer. |
 | `sozialgericht-klage` | Führt Statusstreit vor Sozialgericht mit Klagebegründung, Beweisanträgen und Vergleichsstrategie im Sozialversicherungsstatus Prüfer. |
+| `sozialversicherungsstatus-pruefer-schnellstart` | 'Kompakter Arbeitsmodus für Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `statusbescheid-bestandskraft` | Prüft Statusbescheide, Bindungswirkung, Änderungsbescheide, neue Tätigkeit und Vertrauensschutz im Sozialversicherungsstatus Prüfer. |
 | `statusfeststellung-geschaeftsfuehrer-lehrer-freelancer` | Prüft § 7 SGB IV und § 7a SGB IV mit aktueller BSG-Linie zu Minderheitsgeschäftsführern, mittelbarer Beteiligung, Dozenten und projektbezogenen Freelancern im Sozialversicherungsstatus Prüfer. |
 | `stellungnahme-drv` | Erstellt eine sachliche Stellungnahme im DRV-Statusverfahren mit Tatsachen, Indizien und Belegen im Sozialversicherungsstatus Prüfer. |

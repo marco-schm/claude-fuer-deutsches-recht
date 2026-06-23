@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`rechtstheorie-rechtsphilosophie-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/rechtstheorie-rechtsphilosophie-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`rechtstheorie-rechtsphilosophie-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/rechtstheorie-rechtsphilosophie-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`rechtstheorie-rechtsphilosophie-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/rechtstheorie-rechtsphilosophie-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`rechtstheorie-rechtsphilosophie.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/rechtstheorie-rechtsphilosophie.zip) |
 | Testakte(n) als ZIP | ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) |
@@ -19,22 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`rechtstheorie-rechtsphilosophie-schnellstart.md`](./rechtstheorie-rechtsphilosophie-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`rechtstheorie-rechtsphilosophie`) | [`rechtstheorie-rechtsphilosophie.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/rechtstheorie-rechtsphilosophie.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
-
-<!-- END plugin-sofort-download-section (autogen) -->
 Dieses Plugin übersetzt große rechtstheoretische, rechtsphilosophische und rechtsmethodologische Denkfiguren in praktische juristische Arbeitsroutinen. Es ist kein Literaturkommentar und keine Namenssammlung. Es fragt: Was macht eine juristische Begründung tragfähig, redlich, demokratisch rückgebunden und praktisch brauchbar?
 
 Das Plugin hilft bei Grundsatzgutachten, Methodenstreit, Rechtsfortbildung, Präjudizienarbeit, Abwägung, Gesetzesbindung, Rechtsrealismus, Systemkritik, Machtkritik und rechtspolitischer Selbstkontrolle. Es eignet sich für Kanzleivermerke, wissenschaftsnahe Memos, strategische Schriftsätze, Gesetzgebungsvorbereitung und Red-Team-Prüfungen.
@@ -70,7 +54,7 @@ Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate. Rechtspr
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -120,6 +104,7 @@ Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschrei
 | `rechtsbegriff-und-geltung` | Prüft, was in einer Argumentation als Recht gilt: Gesetz, Rechtsprechung, Dogmatik, Verwaltungspraxis, Gewohnheit, Vertrag, Satzung oder soft law. |
 | `rechtsrealismus-und-entscheidungsprognose` | Nutzen realistischer Perspektiven: Wie entscheiden Institutionen tatsaechlich, welche Folgen hat das für Beratung, Prozessstrategie und Begründung? |
 | `rechtssicherheit-vertrauen-rueckwirkung` | Prüft Rechtssicherheit, Vertrauensschutz, Rückwirkung und Vorhersehbarkeit bei neuer Rechtsprechung oder neuer Auslegung. |
+| `rechtstheorie-rechtsphilosophie-schnellstart` | 'Kompakter Arbeitsmodus für Rechtstheorie und Rechtsphilosophie. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `regeln-prinzipien-abwaegung` | Unterscheidet Regeln, Prinzipien, Standards und Generalklauseln und legt offen, wann Subsumtion reicht und wann Abwaegung noetig ist. |
 | `regeln-tacit-knowledge-kognitive-entlastung` | Prüft Regeln als gespeichertes Erfahrungswissen: tacit knowledge, kognitive Entlastung, Regel-vs-Standard-Wahl, rationale Traegheit, Ausnahmebedarf und Gefahr blinder Routine. |
 | `regeln-tacit-knowledge-und-kognitive-entlastung` | Prüft Regeln als gespeichertes Erfahrungswissen: tacit knowledge, kognitive Entlastung, Regel-vs-Standard-Wahl, rationale Traegheit, Ausnahmebedarf und Gefahr blinder Routine: Prüft Regeln als gespeichertes Erfahrungswissen: tacit knowle... |

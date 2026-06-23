@@ -108,3 +108,7 @@ Dieser Skill arbeitet in der Station **Beweisstation**. Er erzeugt kein abstrakt
 ```text
 Beweisstation: Nach dem derzeitigen Aktenstand ist [Tatsache] unstreitig, weil [Fundstelle]. Streitig bleibt [Tatsache]. Beweisbelastet ist [Partei], da [Norm/Anspruchsmerkmal]. Das angebotene Beweismittel [Beweismittel] ist erheblich, weil die Tatsache bei Wahrunterstellung zu [Rechtsfolge] führt. Anschluss: [Hinweis/Beweisbeschluss/Entscheidung].
 ```
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ist in die Vier-Stationen-Relation einzuhängen: Klägerstation, Beklagtenstation, Beweisstation und Entscheidungsstation bleiben getrennt. Er benennt zu jedem Streitpunkt die tragende Tatsache, den Vortrag der Gegenseite, das Beweisangebot, die Beweislast und die Rechtsfolge. Fehlt eine Station, wird nicht frei ergänzt, sondern als Lücke mit Anschlussverfügung ausgewiesen.

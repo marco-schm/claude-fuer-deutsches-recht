@@ -9,7 +9,7 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Grosser Prompt (Werkstatt) | ZIP | [`us-copyright-registrierung-verlag-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-copyright-registrierung-verlag-werkstatt.zip) |
+| Großer Prompt (Werkstatt) | ZIP | [`us-copyright-registrierung-verlag-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-copyright-registrierung-verlag-werkstatt.zip) |
 | Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`us-copyright-registrierung-verlag-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-copyright-registrierung-verlag-schnellstart.zip) |
 | Plugin als Komplett-ZIP | ZIP | [`us-copyright-registrierung-verlag.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-copyright-registrierung-verlag.zip) |
 | Testakte(n) als ZIP | ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) |
@@ -19,22 +19,6 @@ Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`us-copyright-registrierung-verlag-schnellstart.md`](./us-copyright-registrierung-verlag-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`us-copyright-registrierung-verlag`) | [`us-copyright-registrierung-verlag.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-copyright-registrierung-verlag.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
-
-<!-- END plugin-sofort-download-section (autogen) -->
 US Copyright Act für deutsche Verlage und Rechteinhaber: Title 17, Schutzfähigkeit, Rechtekette, Registrierung, Fair Use, DMCA, Musik, Software, AI, Litigation Readiness, Lizenzierung und Verlagsworkflow.
 
 ## Wofür dieses Plugin da ist
@@ -85,7 +69,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -182,6 +166,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `supplementary-registration-templates-open` | Fehlerkorrektur und Supplementary Registration: falsche Titel, Claimants, Publication-Daten, AI-Angaben oder Rechteketten sauber nacharbeiten im Us Copyright Registrierung Verlag. |
 | `templates-open-cases-save-for-later` | Templates und Open Cases im eCO-Prozess: Wiederverwendung nur bei gleicher Werkklasse, Statusliste, Fehlerkontrolle und Abbruchlogik im Us Copyright Registrierung Verlag. |
 | `termination-203-304-recapture` | Prüft US-Termination, Recapture-Risiken, Notice Window, Grants, Derivative Works Exception und Deal-DD im Us Copyright Registrierung Verlag. |
+| `us-copyright-registrierung-verlag-schnellstart` | 'Kompakter Arbeitsmodus für US Copyright Act und Registrierung für deutsche Verlage. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `useful-articles-separability` | Prüft angewandte Gestaltung, Produktdesign, Fashion, Möbel, Verpackung und separierbare expressive Elemente nach US-Recht im Us Copyright Registrierung Verlag. |
 | `vara-visual-verlags-batchplan-versand` | Prüft attribution, integrity, works of visual art, waiver, murals, destruction, modification und moral-rights-nahe Fragen im Us Copyright Registrierung Verlag. |
 | `verlags-batchplan-serien-und-backlist` | Batchplan für Backlist, Reihen, Neuauflagen und Serien: Priorisierung nach US-Risiko, Marktwert, Rechtekette, Kosten, Deposit-Logistik und Litigation Readiness im Us Copyright Registrierung Verlag. |
