@@ -14,14 +14,14 @@ description: "Pflichtkopf für jeden Kündigungsschutzklage-Schriftsatz: Hinweis
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Pflichtkopf für jeden Kündigungsschutzklage-Schriftsatz: Hinweis auf falsche Wiese und Haftungsausschluss; zentraler Warnblock mit Drei-Wochen-Frist nach § 4 KSchG; wird in jeden Laien-Output eingefuegt.
+**Fokus:** Pflichtkopf für jeden Kündigungsschutzklage-Schriftsatz: Hinweis auf falsche Wiese und Haftungsausschluss; zentraler Warnblock mit Drei-Wochen-Frist nach Paragraf 4 KSchG; wird in jeden Laien-Output eingefuegt.
 
 ### Grundwarnung: Falsche Wiese und Haftung
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Grundwarnung: Falsche Wiese und Haftung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -36,15 +36,15 @@ Dieses Dokument wurde mit Hilfe eines KI-gestützten Systems erstellt. Es handel
 
 **Du könntest auf der falschen Wiese unterwegs sein.**
 
-Das bedeutet: Möglicherweise ist das Kündigungsschutzgesetz (KSchG) auf deinen Fall gar nicht anwendbar — weil dein Betrieb zu klein ist (§ 23 KSchG: weniger als zehn Arbeitnehmer) oder weil du noch keine sechs Monate beschäftigt bist (§ 1 Abs. 1 KSchG). In diesem Fall wäre eine Kündigungsschutzklage nach § 4 KSchG nicht das richtige Rechtsmittel. Das System kann das nicht selbst feststellen.
+Das bedeutet: Möglicherweise ist das Kündigungsschutzgesetz (KSchG) auf deinen Fall gar nicht anwendbar — weil dein Betrieb zu klein ist (Paragraf 23 KSchG: weniger als zehn Arbeitnehmer) oder weil du noch keine sechs Monate beschäftigt bist (Paragraf 1 Abs. 1 KSchG). In diesem Fall wäre eine Kündigungsschutzklage nach Paragraf 4 KSchG nicht das richtige Rechtsmittel. Das System kann das nicht selbst feststellen.
 
 **Drei-Wochen-Frist — absolute Ausschlussfrist:**
 
-> § 4 KSchG: Will ein Arbeitnehmer geltend machen, dass eine Kündigung sozial ungerechtfertigt oder aus anderen Gründen rechtsunwirksam ist, so muss er innerhalb von **drei Wochen nach Zugang der schriftlichen Kündigung** Klage beim Arbeitsgericht auf Feststellung erheben, dass das Arbeitsverhältnis durch die Kündigung nicht aufgelöst ist.
+> Paragraf 4 KSchG: Will ein Arbeitnehmer geltend machen, dass eine Kündigung sozial ungerechtfertigt oder aus anderen Gründen rechtsunwirksam ist, so muss er innerhalb von **drei Wochen nach Zugang der schriftlichen Kündigung** Klage beim Arbeitsgericht auf Feststellung erheben, dass das Arbeitsverhältnis durch die Kündigung nicht aufgelöst ist.
 
-Die Frist beginnt mit dem Tag des **Zugangs** der Kündigung (nicht dem Datum auf dem Schreiben). Sie kann grundsätzlich nicht verlängert werden. Ein Versäumnis führt nach § 7 KSchG dazu, dass die Kündigung als wirksam gilt — auch wenn sie rechtswidrig war.
+Die Frist beginnt mit dem Tag des **Zugangs** der Kündigung (nicht dem Datum auf dem Schreiben). Sie kann grundsätzlich nicht verlängert werden. Ein Versäumnis führt nach Paragraf 7 KSchG dazu, dass die Kündigung als wirksam gilt — auch wenn sie rechtswidrig war.
 
-**Ausnahme:** Nachträgliche Klagezulassung nach § 5 KSchG bei unverschuldeter Versäumung (z.B. schwere Erkrankung, Abwesenheit ohne Verschulden). Die Frist für den Zulassungsantrag beträgt zwei Wochen nach Wegfall des Hindernisses.
+**Ausnahme:** Nachträgliche Klagezulassung nach Paragraf 5 KSchG bei unverschuldeter Versäumung (z.B. schwere Erkrankung, Abwesenheit ohne Verschulden). Die Frist für den Zulassungsantrag beträgt zwei Wochen nach Wegfall des Hindernisses.
 
 ---
 
@@ -58,12 +58,12 @@ Nur wenn Frage 1 = ja: Warnbaustein zwingend einbetten. Bei Anwälten entfällt 
 
 ## Zentrale Normen
 
-- **§ 4 KSchG** — Klagefrist drei Wochen ab Zugang der schriftlichen Kündigung
-- **§ 5 KSchG** — Nachträgliche Zulassung der Klage bei unverschuldeter Fristversäumung (Antragsfrist: zwei Wochen nach Wegfall des Hindernisses)
-- **§ 7 KSchG** — Fiktion der Wirksamkeit bei Fristversäumung
-- **§ 23 KSchG** — Betrieblicher Geltungsbereich KSchG (Schwellenwert > 10 Arbeitnehmer)
-- **§ 1 Abs. 1 KSchG** — Wartezeit sechs Monate
-- **§ 11 Abs. 1 ArbGG** — Kein Anwaltszwang erste Instanz
+- **Paragraf 4 KSchG** — Klagefrist drei Wochen ab Zugang der schriftlichen Kündigung
+- **Paragraf 5 KSchG** — Nachträgliche Zulassung der Klage bei unverschuldeter Fristversäumung (Antragsfrist: zwei Wochen nach Wegfall des Hindernisses)
+- **Paragraf 7 KSchG** — Fiktion der Wirksamkeit bei Fristversäumung
+- **Paragraf 23 KSchG** — Betrieblicher Geltungsbereich KSchG (Schwellenwert > 10 Arbeitnehmer)
+- **Paragraf 1 Abs. 1 KSchG** — Wartezeit sechs Monate
+- **Paragraf 11 Abs. 1 ArbGG** — Kein Anwaltszwang erste Instanz
 
 ## Aktuelle Rechtsprechung
 

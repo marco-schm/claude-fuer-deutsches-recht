@@ -1,9 +1,9 @@
 ---
 name: gewerberaummiete-paragraph-550-bgb-langzeitform
-description: "Gewerbemieter oder Vermieter fragt: Ist ein laenger als 1 Jahr laufender Gewerberaummietvertrag wegen Schriftform-Verstoß vorzeitig kündbar? § 550 BGB Langzeitform Gewerberaummietvertrag. Prüfraster: Schriftformerfordernis Mietvertraege über 1 Jahr Folge Verstoß ordentliche Kündigung möglich Heil..."
+description: "Gewerbemieter oder Vermieter fragt: Ist ein laenger als 1 Jahr laufender Gewerberaummietvertrag wegen Schriftform-Verstoß vorzeitig kündbar? Paragraf 550 BGB Langzeitform Gewerberaummietvertrag. Prüfraster: Schriftformerfordernis Mietvertraege über 1 Jahr Folge Verstoß ordentliche Kündigung möglich Heil..."
 ---
 
-# Gewerberaummiete § 550 BGB — Langzeitform
+# Gewerberaummiete Paragraf 550 BGB — Langzeitform
 
 ## Arbeitsweg
 
@@ -15,19 +15,19 @@ description: "Gewerbemieter oder Vermieter fragt: Ist ein laenger als 1 Jahr lau
 
 ## Rechtsgrundlagen
 
-- **§ 550 BGB** — Schriftform bei Mietverträgen über Räume für längere Zeit als ein Jahr: bei Verstoß gilt Vertrag als auf unbestimmte Zeit geschlossen → ordentlich kündbar nach einem Jahr.
-- **§ 578 BGB** — Entsprechende Anwendung von § 550 BGB auf Pachtverhältnisse über Grundstücke.
-- **§ 126 BGB** — Schriftform: eigenhändige Unterschrift.
-- **§ 126a BGB** — Ersatz der Schriftform durch qualifizierte elektronische Signatur (qES) nach eIDAS-VO; bei Mietvertraegen über Wohn- und Gewerberaum über 1 Jahr seit 2023/2024 praxisrelevant.
+- **Paragraf 550 BGB** — Schriftform bei Mietverträgen über Räume für längere Zeit als ein Jahr: bei Verstoß gilt Vertrag als auf unbestimmte Zeit geschlossen → ordentlich kündbar nach einem Jahr.
+- **Paragraf 578 BGB** — Entsprechende Anwendung von Paragraf 550 BGB auf Pachtverhältnisse über Grundstücke.
+- **Paragraf 126 BGB** — Schriftform: eigenhändige Unterschrift.
+- **Paragraf 126a BGB** — Ersatz der Schriftform durch qualifizierte elektronische Signatur (qES) nach eIDAS-VO; bei Mietvertraegen über Wohn- und Gewerberaum über 1 Jahr seit 2023/2024 praxisrelevant.
 - Rechtsprechung BGH XII. ZS (Gewerberaummiete) ist staendige Linie zur Auflockerungsrechtsprechung; konkrete Aktenzeichen vor Schriftsatzverwendung über https://dejure.org und https://www.bundesgerichtshof.de prüfen.
 
 ## BGH-Linie
 
-### Grundsatz § 550 BGB
+### Grundsatz Paragraf 550 BGB
 
-Ein Gewerberaummietvertrag, der für länger als ein Jahr abgeschlossen werden soll, muss schriftlich geschlossen werden. Die Schriftform des § 126 BGB ist einzuhalten — also eigenhändige Unterschrift beider Parteien auf einer Urkunde (oder auf gleichlautenden Urkunden).
+Ein Gewerberaummietvertrag, der für länger als ein Jahr abgeschlossen werden soll, muss schriftlich geschlossen werden. Die Schriftform des Paragraf 126 BGB ist einzuhalten — also eigenhändige Unterschrift beider Parteien auf einer Urkunde (oder auf gleichlautenden Urkunden).
 
-**Rechtsfolge bei Verstoß**: Der Vertrag gilt als auf unbestimmte Zeit geschlossen und kann nach Ablauf eines Jahres von jeder Partei unter Einhaltung der gesetzlichen Kündigungsfrist ordentlich gekündigt werden (§ 550 S. 1 BGB). Der Vertrag ist nicht nichtig — er ist lediglich so zu behandeln, als wäre er auf unbestimmte Zeit abgeschlossen.
+**Rechtsfolge bei Verstoß**: Der Vertrag gilt als auf unbestimmte Zeit geschlossen und kann nach Ablauf eines Jahres von jeder Partei unter Einhaltung der gesetzlichen Kündigungsfrist ordentlich gekündigt werden (Paragraf 550 S. 1 BGB). Der Vertrag ist nicht nichtig — er ist lediglich so zu behandeln, als wäre er auf unbestimmte Zeit abgeschlossen.
 
 ### Urkundeneinheit und Anlagen
 
@@ -43,7 +43,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Reformdiskussion 2025/2026
 
-Es gibt seit Jahren Bestrebungen, § 550 BGB zu reformieren oder die strenge Schriftformrechtsprechung durch Spezialregeln für Gewerberaum abzumildern. Stand 2026: keine abgeschlossene gesetzliche Reform — bestehende Rechtsprechung gilt fort.
+Es gibt seit Jahren Bestrebungen, Paragraf 550 BGB zu reformieren oder die strenge Schriftformrechtsprechung durch Spezialregeln für Gewerberaum abzumildern. Stand 2026: keine abgeschlossene gesetzliche Reform — bestehende Rechtsprechung gilt fort.
 
 ## Workflow
 
@@ -51,7 +51,7 @@ Es gibt seit Jahren Bestrebungen, § 550 BGB zu reformieren oder die strenge Sch
 
 ```
 □ Mietvertrag über Räume für länger als ein Jahr?
- → § 550 BGB: Schriftform des § 126 BGB zwingend
+ → Paragraf 550 BGB: Schriftform des Paragraf 126 BGB zwingend
 
 □ Unterschriften beider Parteien auf Urkunde?
  → Eigenhändig auf dem Vertragstext
@@ -63,7 +63,7 @@ Es gibt seit Jahren Bestrebungen, § 550 BGB zu reformieren oder die strenge Sch
 
 □ Nachtragsvereinbarungen schriftlich dokumentiert?
  → Jeder Nachtrag muss ebenfalls Schriftform wahren
- → Mündliche Nebenabreden können § 550 BGB-Problem auslösen
+ → Mündliche Nebenabreden können Paragraf 550 BGB-Problem auslösen
 
 □ Schriftformklausel (qualifiziert) im Vertrag enthalten?
  → Schützt vor Schriftformverlust durch nachträgliche Absprachen
@@ -76,11 +76,11 @@ Es gibt seit Jahren Bestrebungen, § 550 BGB zu reformieren oder die strenge Sch
 | Vertragsschluss formwidrig | Vertrag gilt als auf unbestimmte Zeit geschlossen |
 | Nachtrag formwidrig | Ggf. nur der Nachtrag betroffen oder Hauptvertrag infiziert |
 | Partei erkennt Schriftformmangel | Kann ordentlich kündigen (auch wenn dies unbillig erscheint) |
-| Gegenpartei beruft sich auf § 242 BGB | Treuwidrigkeitseinwand möglich (hohe Hürden) |
+| Gegenpartei beruft sich auf Paragraf 242 BGB | Treuwidrigkeitseinwand möglich (hohe Hürden) |
 
 ### Heilung des Schriftformmangels
 
-§ 550 BGB kennt keine automatische Heilung. Die Parteien können jedoch:
+Paragraf 550 BGB kennt keine automatische Heilung. Die Parteien können jedoch:
 - Den Vertrag nachträglich in ordnungsgemäßer Schriftform neu beurkunden
 - Eine schriftliche Vereinbarung treffen, die den formwidrigen Vertrag in einen formwirksamen umwandelt
 
@@ -89,10 +89,10 @@ Es gibt seit Jahren Bestrebungen, § 550 BGB zu reformieren oder die strenge Sch
 ### Qualifizierte Schriftformklausel (Gewerberaummietvertrag)
 
 ```
-§ [X] Schriftform
+Paragraf [X] Schriftform
 
 (1) Änderungen und Ergänzungen dieses Vertrages — einschließlich dieser
-Klausel — bedürfen der Schriftform gemäß § 126 BGB. Die Schriftform ist
+Klausel — bedürfen der Schriftform gemäß Paragraf 126 BGB. Die Schriftform ist
 nur durch eigenhändige Unterzeichnung einer gemeinsamen Urkunde oder durch
 gegenseitige Unterzeichnung gleichlautender Urkunden gewahrt.
 
@@ -134,4 +134,4 @@ ________________________ ________________________
 
 - **Lose Anlagen**: Anlagen zum Mietvertrag, die nicht fest verbunden sind und nicht eindeutig in Bezug genommen werden, gefährden die Schriftform des gesamten Vertrags. Konsequenz: Vertragspartner kann ordentlich kündigen.
 - **Mieterhöhung per E-Mail**: Wird eine Mieterhöhung für einen Langzeitmietvertrag per E-Mail vereinbart, verletzt dies die Schriftform — der Gesamtvertrag kann als auf unbestimmte Zeit geltend behandelt werden.
-- **Treuwidrigkeitseinwand**: Die Berufung auf den Schriftformmangel kann nach § 242 BGB treuwidrig sein, wenn die Partei, die sich auf den Mangel beruft, diesen selbst veranlasst hat. Die Hürde ist hoch (BGH-Dauerrechtsprechung).
+- **Treuwidrigkeitseinwand**: Die Berufung auf den Schriftformmangel kann nach Paragraf 242 BGB treuwidrig sein, wenn die Partei, die sich auf den Mangel beruft, diesen selbst veranlasst hat. Die Hürde ist hoch (BGH-Dauerrechtsprechung).

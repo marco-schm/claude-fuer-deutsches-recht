@@ -20,8 +20,8 @@ description: "Aktualisiert den Status eines laufenden Expansionsprojekts — erm
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Expansions-Update (Arbeitsrecht)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -36,15 +36,15 @@ description: "Aktualisiert den Status eines laufenden Expansionsprojekts — erm
 
 **Kernvorschriften:**
 
-- § 7 SGB IV: Beschäftigungsverhältnis und Scheinselbständigkeit — bei
+- Paragraf 7 SGB IV: Beschäftigungsverhältnis und Scheinselbständigkeit — bei
  Verlängerung eines EOR-Verhältnisses weiterhin zu prüfen
-- § 1 Abs. 1b AÜG: Gesetzliche Höchstüberlassungsdauer von 18 Monaten —
+- Paragraf 1 Abs. 1b AÜG: Gesetzliche Höchstüberlassungsdauer von 18 Monaten —
  bei andauernder EOR-Nutzung kontinuierlich zu überwachen
-- § 8 AÜG: Equal-Pay-Gebot nach neun Monaten Überlassung — Ausnahme nur
+- Paragraf 8 AÜG: Equal-Pay-Gebot nach neun Monaten Überlassung — Ausnahme nur
  durch einschlägigen Tarifvertrag
 - Art. 8 Rom I-VO: Fortlaufende Relevanz des Beschäftigungsstatuts bei
  grenzüberschreitenden Arbeitsverhältnissen
-- §§ 17, 18 KSchG: Massenentlassungsanzeige bei Erreichung der
+- Paragrafen 17, 18 KSchG: Massenentlassungsanzeige bei Erreichung der
  Schwellenwerte im Rahmen des Aufbaus
 
 **Leitentscheidungen:**
@@ -58,12 +58,12 @@ description: "Aktualisiert den Status eines laufenden Expansionsprojekts — erm
  Auslandsexpansion — zu beachten, wenn durch den Aufbau im Ausland
  inländische Strukturen betroffen werden
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- Gesamtbetrachtung bei der Statusfeststellung nach § 7a SGB IV
+ Gesamtbetrachtung bei der Statusfeststellung nach Paragraf 7a SGB IV
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 - AÜG: Erlaubnispflicht, Höchstüberlassungsdauer und Equal Pay nach Gesetz, Tariftext und frei verifizierter Rechtsprechung prüfen.
-- Arbeitnehmerstatus: § 611a BGB, § 7a SGB IV und frei verifizierte BAG-/BSG-Rechtsprechung; keine Kommentarzitate aus Modellwissen.
+- Arbeitnehmerstatus: Paragraf 611a BGB, Paragraf 7a SGB IV und frei verifizierte BAG-/BSG-Rechtsprechung; keine Kommentarzitate aus Modellwissen.
 - Grenzüberschreitende Arbeitsverhältnisse: Art. 8 Rom I-VO, AÜG, Entsende-/SV-Regeln und amtliche Quellen prüfen; keine Handbuchzitate aus Modellwissen.
 
 ## Ablauf
@@ -118,7 +118,7 @@ Wenn ein Punkt eine abgelaufene Frist hat und noch den Status `offen` oder
 **Schritt 6 — AÜG-Fristcheck**
 
 Wenn der Tracker einen aktiven EOR-Einsatz enthält: Prüfe, ob die
-18-Monats-Grenze des § 1 Abs. 1b AÜG oder das Equal-Pay-Gebot nach § 8 AÜG
+18-Monats-Grenze des Paragraf 1 Abs. 1b AÜG oder das Equal-Pay-Gebot nach Paragraf 8 AÜG
 (9 Monate ohne tarifvertragliche Ausnahme) in den nächsten 60 Tagen greift.
 Falls ja, flagge explizit.
 
@@ -144,9 +144,9 @@ Beispiel-Ausgabe bei laufendem EOR-Einsatz seit 14 Monaten:
 
 > AÜG-Fristwarnung: Der EOR-Einsatz für [Mitarbeiterin] läuft seit
 > 14 Monaten. Die gesetzliche Höchstüberlassungsdauer von 18 Monaten
-> (§ 1 Abs. 1b AÜG) wird am [Datum] erreicht. Ohne tarifvertragliche
+> (Paragraf 1 Abs. 1b AÜG) wird am [Datum] erreicht. Ohne tarifvertragliche
 > Verlängerungsklausel oder Umwandlung in ein direktes Arbeitsverhältnis
-> droht Rechtsfolge nach § 10 Abs. 1 AÜG.
+> droht Rechtsfolge nach Paragraf 10 Abs. 1 AÜG.
 
 ## Risiken und typische Fehler
 
@@ -155,7 +155,7 @@ Beispiel-Ausgabe bei laufendem EOR-Einsatz seit 14 Monaten:
  Frühzeitige Planung der Folgeoption (Direkteinstellung oder neuer EOR-Vertrag
  mit echtem Unterbrechungszeitraum) ist erforderlich.
 - **Equal-Pay vergessen**: Nach neun Monaten ununterbrochener Überlassung
- gilt das Equal-Pay-Gebot (§ 8 AÜG), sofern kein einschlägiger TV gilt.
+ gilt das Equal-Pay-Gebot (Paragraf 8 AÜG), sofern kein einschlägiger TV gilt.
  Budgetauswirkung für Finance vorab modellieren.
 - **Tracker nicht gepflegt**: Ein veralteter Tracker führt zu fehlerhafter
  Priorisierung. Update zeitnah nach jeder relevanten Entwicklung.
@@ -166,9 +166,9 @@ Beispiel-Ausgabe bei laufendem EOR-Einsatz seit 14 Monaten:
 ## Quellenpflicht
 
 Bei AÜG-relevanten Warnungen zitieren:
-- § 1 Abs. 1b AÜG (Höchstüberlassungsdauer)
-- § 8 AÜG (Equal-Pay-Gebot)
-- § 10 Abs. 1 AÜG (Fiktion des Arbeitsverhältnisses)
+- Paragraf 1 Abs. 1b AÜG (Höchstüberlassungsdauer)
+- Paragraf 8 AÜG (Equal-Pay-Gebot)
+- Paragraf 10 Abs. 1 AÜG (Fiktion des Arbeitsverhältnisses)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

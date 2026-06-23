@@ -14,14 +14,14 @@ description: "Arbeitnehmer hat einen internen Hinweis gegeben oder Unternehmen m
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Arbeitnehmer hat einen internen Hinweis gegeben oder Unternehmen muss internen Meldekanal einrichten oder Repressalie abwehren. Prüfraster HinSchG seit 2.7.2023 Umsetzung EU-Richtlinie 2019/1937. Pflicht interner Meldekanal ab 50 Beschäftigte § 12 HinSchG. Meldungsschutz Repressalienverbot Beweislastumkehr § 36 HinSchG. Externe Meldung beim Bundesamt für Justiz § 19 ff. HinSchG. Geschützte Verstoesse § 2 HinSchG Schadensersatz § 37 HinSchG Bußgelder § 40 HinSchG bis 50000 EUR. Output Prüf-Memo Meldekanal-Konzept Repressalien-Abwehrschreiben.
+**Fokus:** Arbeitnehmer hat einen internen Hinweis gegeben oder Unternehmen muss internen Meldekanal einrichten oder Repressalie abwehren. Prüfraster HinSchG seit 2.7.2023 Umsetzung EU-Richtlinie 2019/1937. Pflicht interner Meldekanal ab 50 Beschäftigte Paragraf 12 HinSchG. Meldungsschutz Repressalienverbot Beweislastumkehr Paragraf 36 HinSchG. Externe Meldung beim Bundesamt für Justiz Paragraf 19 ff. HinSchG. Geschützte Verstoesse Paragraf 2 HinSchG Schadensersatz Paragraf 37 HinSchG Bußgelder Paragraf 40 HinSchG bis 50000 EUR. Output Prüf-Memo Meldekanal-Konzept Repressalien-Abwehrschreiben.
 
 ### HinSchG — Hinweisgeberschutz-Compliance und -Verteidigung
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `HinSchG — Hinweisgeberschutz-Compliance und -Verteidigung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -36,20 +36,20 @@ description: "Arbeitnehmer hat einen internen Hinweis gegeben oder Unternehmen m
 
 ## Zentrale Normen
 
-- §§ 1, 2 HinSchG — Anwendungsbereich, geschützte Verstöße
-- § 7 HinSchG — Wahlrecht: interner vs. externer Kanal
-- §§ 12, 16-18 HinSchG — Pflicht zum Meldekanal, Verfahrensregeln (7 Tage Eingang / 3 Monate Rückmeldung)
-- § 33 HinSchG — Repressalienverbot (Kündigung, Versetzung, Disziplinar, Bonus-Streichung)
-- § 36 HinSchG — Beweislastumkehr bei Repressalien-Indizien
-- § 37 HinSchG — Schadensersatzanspruch (materielle und immaterielle Schäden)
-- § 40 HinSchG — Bußgelder bis 50.000 Euro je Verstoß
+- Paragrafen 1, 2 HinSchG — Anwendungsbereich, geschützte Verstöße
+- Paragraf 7 HinSchG — Wahlrecht: interner vs. externer Kanal
+- Paragrafen 12, 16-18 HinSchG — Pflicht zum Meldekanal, Verfahrensregeln (7 Tage Eingang / 3 Monate Rückmeldung)
+- Paragraf 33 HinSchG — Repressalienverbot (Kündigung, Versetzung, Disziplinar, Bonus-Streichung)
+- Paragraf 36 HinSchG — Beweislastumkehr bei Repressalien-Indizien
+- Paragraf 37 HinSchG — Schadensersatzanspruch (materielle und immaterielle Schäden)
+- Paragraf 40 HinSchG — Bußgelder bis 50.000 Euro je Verstoß
 - EU-RL 2019/1937 — Whistleblower-Richtlinie (Umsetzung)
 
 ## Aktuelle Rechtsprechung (Stand Mai 2026)
 
-Das HinSchG ist seit 02.07.2023 in Kraft; eine veroeffentlichte BAG-Leitentscheidung zur Beweislastumkehr (§ 36 HinSchG) ist zum Stand Mai 2026 über dejure.org/openjur.de nicht mit offener Quelle verifizierbar.
+Das HinSchG ist seit 02.07.2023 in Kraft; eine veroeffentlichte BAG-Leitentscheidung zur Beweislastumkehr (Paragraf 36 HinSchG) ist zum Stand Mai 2026 über dejure.org/openjur.de nicht mit offener Quelle verifizierbar.
 
-- ArbG Braunschweig, Urteil vom 24.06.2025 - 6 Ca 303/24: § 36 Abs. 2 Satz 2 HinSchG (Beweislastumkehr) gilt nicht auf der Rechtsfolgenseite; Kausalitaet eines konkret behaupteten Schadens ist vom Anspruchsteller zu belegen. Vorgesetzte sind nicht automatisch interne Meldestelle. Hinweisgeber muss substantiiert darlegen, wann, wo und welche konkrete Meldung erfolgte. Quelle: Hensche Arbeitsrecht (vor Schriftsatzverwendung Volltext über offene Quelle verifizieren).
+- ArbG Braunschweig, Urteil vom 24.06.2025 - 6 Ca 303/24: Paragraf 36 Abs. 2 Satz 2 HinSchG (Beweislastumkehr) gilt nicht auf der Rechtsfolgenseite; Kausalitaet eines konkret behaupteten Schadens ist vom Anspruchsteller zu belegen. Vorgesetzte sind nicht automatisch interne Meldestelle. Hinweisgeber muss substantiiert darlegen, wann, wo und welche konkrete Meldung erfolgte. Quelle: Hensche Arbeitsrecht (vor Schriftsatzverwendung Volltext über offene Quelle verifizieren).
 - Bei Verwendung im Schriftsatz: erstinstanzliche Entscheidungen sind nicht bindend, neuere LAG/BAG-Rechtsprechung prüfen.
 
 ## Eingaben
@@ -63,13 +63,13 @@ Das HinSchG ist seit 02.07.2023 in Kraft; eine veroeffentlichte BAG-Leitentschei
 
 ## Konstellation A — Mandant ist Whistleblower
 
-### Schritt A1 — Anwendungsbereich § 1 HinSchG
+### Schritt A1 — Anwendungsbereich Paragraf 1 HinSchG
 
 - **Schutz vor Repressalien** bei Meldung Offenlegung von Verstößen
 - Bezug auf berufliches Umfeld
 - Schutz erstreckt sich auf Beschäftigte, Selbstständige, Anteilseigner, Mitglieder von Verwaltungs-, Leitungs- oder Aufsichtsorganen, Praktikanten, Bewerber, Ex-Beschäftigte
 
-### Schritt A2 — Geschützte Verstöße § 2 HinSchG
+### Schritt A2 — Geschützte Verstöße Paragraf 2 HinSchG
 
 - **Straftaten** und **bestimmte Ordnungswidrigkeiten** (bei Schutz Leben Gesundheit oder Mitarbeiter-Rechte)
 - **Verstöße gegen direkt anwendbares Unionsrecht** in bezeichneten Bereichen:
@@ -88,13 +88,13 @@ Das HinSchG ist seit 02.07.2023 in Kraft; eine veroeffentlichte BAG-Leitentschei
 - **Verstösse die finanzielle EU-Interessen schädigen**
 - **Verstösse gegen Wettbewerbs- und Beihilferecht**
 
-### Schritt A3 — Meldewege § 7 HinSchG
+### Schritt A3 — Meldewege Paragraf 7 HinSchG
 
 #### Wahlrecht zwischen internem und externem Kanal
 
-- **Intern** beim Arbeitgeber gemäß § 12 ff.
-- **Extern** BfJ § 19 ff. oder sektorale Aufsicht (BaFin, BKartA)
-- **Öffentlichkeit** § 32 nur bei strikten Voraussetzungen (keine Reaktion frühere Meldungen, unmittelbare Gefahr, Vergeltungs-Gefahr, Schaden für Allgemeinheit)
+- **Intern** beim Arbeitgeber gemäß Paragraf 12 ff.
+- **Extern** BfJ Paragraf 19 ff. oder sektorale Aufsicht (BaFin, BKartA)
+- **Öffentlichkeit** Paragraf 32 nur bei strikten Voraussetzungen (keine Reaktion frühere Meldungen, unmittelbare Gefahr, Vergeltungs-Gefahr, Schaden für Allgemeinheit)
 
 #### Empfehlung Mandant
 
@@ -102,7 +102,7 @@ Das HinSchG ist seit 02.07.2023 in Kraft; eine veroeffentlichte BAG-Leitentschei
 - **Bei Vertrauensverlust intern** sofort extern
 - **Öffentlichkeit nur als ultima ratio**
 
-### Schritt A4 — Repressalien-Schutz § 33 HinSchG
+### Schritt A4 — Repressalien-Schutz Paragraf 33 HinSchG
 
 #### Verbot Vergeltungs-Maßnahmen
 
@@ -110,12 +110,12 @@ Das HinSchG ist seit 02.07.2023 in Kraft; eine veroeffentlichte BAG-Leitentschei
 - Auch nach Beschäftigungs-Ende (Referenz-Verweigerung)
 - Auch im Bewerbungs-Prozess
 
-#### Beweislast-Umkehr § 36 HinSchG
+#### Beweislast-Umkehr Paragraf 36 HinSchG
 
 - Bei nachweis Repressalien-Indizien — Arbeitgeber muss widerlegen
 - Bei Meldung plus zeitnahe Maßnahme — Vermutung
 
-### Schritt A5 — Schadensersatz § 37 HinSchG
+### Schritt A5 — Schadensersatz Paragraf 37 HinSchG
 
 - **Materielle Schäden** Verdienst-Ausfall
 - **Immaterielle Schäden** Schmerzensgeld
@@ -129,7 +129,7 @@ Das HinSchG ist seit 02.07.2023 in Kraft; eine veroeffentlichte BAG-Leitentschei
 
 ## Konstellation B — Mandant ist Arbeitgeber
 
-### Schritt B1 — Pflicht zur Errichtung Meldekanal § 12 HinSchG
+### Schritt B1 — Pflicht zur Errichtung Meldekanal Paragraf 12 HinSchG
 
 | Beschäftigten-Zahl | Pflicht |
 |---|---|
@@ -137,24 +137,24 @@ Das HinSchG ist seit 02.07.2023 in Kraft; eine veroeffentlichte BAG-Leitentschei
 | 50 bis 249 | Pflicht — Konzern-Lösung möglich (BAG offen) |
 | Ab 250 | Pflicht — Einzelkanal pro Gesellschaft empfohlen |
 
-#### Inhalts-Anforderungen Meldekanal § 16-18 HinSchG
+#### Inhalts-Anforderungen Meldekanal Paragraf 16-18 HinSchG
 
 - **Eingang** bestätigt binnen sieben Tagen
 - **Rückmeldung** binnen drei Monaten zu Folge-Maßnahmen
-- **Vertraulichkeit** der Hinweisgeber-Identität § 8 HinSchG
-- **Schriftlich mündlich persönlich** Wahl-Möglichkeit § 16 Abs. 3 HinSchG
+- **Vertraulichkeit** der Hinweisgeber-Identität Paragraf 8 HinSchG
+- **Schriftlich mündlich persönlich** Wahl-Möglichkeit Paragraf 16 Abs. 3 HinSchG
 - **Anonyme Meldungen** Bearbeitung empfohlen (keine Pflicht aber sinnvoll)
-- **Geschultes Personal** § 15 HinSchG
+- **Geschultes Personal** Paragraf 15 HinSchG
 
 #### Externer Kanal-Anbieter
 
-- **Auslagerung möglich** § 14 HinSchG
+- **Auslagerung möglich** Paragraf 14 HinSchG
 - AVV nach Art. 28 DSGVO
 - Vertrauliche Hinweisgeber-Daten geschützt
 
 ### Schritt B2 — Verfahren bei Meldung
 
-#### Verfahrens-Schritte § 17 HinSchG
+#### Verfahrens-Schritte Paragraf 17 HinSchG
 
 1. Eingangs-Bestätigung sieben Tage
 2. Plausibilitäts-Prüfung
@@ -172,7 +172,7 @@ Das HinSchG ist seit 02.07.2023 in Kraft; eine veroeffentlichte BAG-Leitentschei
 
 #### Bei Kündigung nach Meldung — Risiko-Konstellation
 
-- Beweislast-Umkehr § 36 HinSchG
+- Beweislast-Umkehr Paragraf 36 HinSchG
 - Arbeitgeber muss Sachgrund unabhängig von Meldung dartun
 - Sorgfältige Begründungs-Dokumentation
 - Trennung der Verantwortlichkeits-Ebene
@@ -184,7 +184,7 @@ Das HinSchG ist seit 02.07.2023 in Kraft; eine veroeffentlichte BAG-Leitentschei
 - **Unabhängige Entscheider** ohne Kenntnis Meldung
 - **Externe Compliance-Audit** zur Sachgrund-Sicherheit
 
-### Schritt B4 — Bußgeld-Risiken § 40 HinSchG
+### Schritt B4 — Bußgeld-Risiken Paragraf 40 HinSchG
 
 - **EUR 50.000** bei Nicht-Errichtung Meldekanal
 - **EUR 50.000** bei Behinderung Meldung
@@ -208,15 +208,15 @@ Das HinSchG ist seit 02.07.2023 in Kraft; eine veroeffentlichte BAG-Leitentschei
 
 ### Wenn Kündigung nach Meldung
 
-- Kündigungsschutz-Klage drei-Wochen-Frist § 4 KSchG
+- Kündigungsschutz-Klage drei-Wochen-Frist Paragraf 4 KSchG
 - HinSchG-Repressalien-Vorwurf zusätzlich
 - Sozialgerichts-Bezug bei ALG-Sperrzeit
 
 ### Mit Aufhebungsvertrag
 
 - Bei Verdacht Vergeltungs-Aufhebungsvertrag
-- Anfechtbarkeit § 123 BGB Drohung
-- Sperrzeit-Risiko § 159 SGB III
+- Anfechtbarkeit Paragraf 123 BGB Drohung
+- Sperrzeit-Risiko Paragraf 159 SGB III
 
 ## Schritt 3 — Strategische Empfehlungen
 
@@ -241,9 +241,9 @@ Das HinSchG ist seit 02.07.2023 in Kraft; eine veroeffentlichte BAG-Leitentschei
 
 ### Finanzdienstleistungen
 
-- **WpHG** § 23 Meldepflicht zusätzlich
+- **WpHG** Paragraf 23 Meldepflicht zusätzlich
 - **BaFin-Hinweisgeber-System** spezifisch
-- **Kreditinstitute § 25a KWG**
+- **Kreditinstitute Paragraf 25a KWG**
 
 ### Gesellschaftsrecht / Aufsichtsrat
 
@@ -261,8 +261,8 @@ Das HinSchG ist seit 02.07.2023 in Kraft; eine veroeffentlichte BAG-Leitentschei
 ```
 An die interne Hinweisgebermeldestelle der [Unternehmen]
 
-Meldung gem. § 7 i. V. m. § 16 HinSchG vom [Datum]
-(§ 17 HinSchG regelt das nachfolgende
+Meldung gem. Paragraf 7 i. V. m. Paragraf 16 HinSchG vom [Datum]
+(Paragraf 17 HinSchG regelt das nachfolgende
 Meldestellen-Verfahren, nicht die Meldung selbst)
 
 Hiermit melde ich folgenden Sachverhalt:
@@ -272,8 +272,8 @@ Beweismitteln]
 
 Diese Meldung erfolgt unter Berufung auf das
 Hinweisgeberschutzgesetz. Ich beanspruche den
-Vertraulichkeitsschutz nach § 8 HinSchG und den
-Repressalienschutz nach § 33 HinSchG.
+Vertraulichkeitsschutz nach Paragraf 8 HinSchG und den
+Repressalienschutz nach Paragraf 33 HinSchG.
 
 [Optional: Anonyme Bearbeitung ja/nein]
 ```
@@ -281,15 +281,15 @@ Repressalienschutz nach § 33 HinSchG.
 ### Bestätigung Eingang (Arbeitgeber-Sicht)
 
 ```
-Eingangsbestätigung gemäß § 17 Abs. 1 Nr. 1 HinSchG
+Eingangsbestätigung gemäß Paragraf 17 Abs. 1 Nr. 1 HinSchG
 
 Ihre Meldung vom [Datum] ist bei uns am [Datum]
 eingegangen. Wir werden den Sachverhalt prüfen
-und Ihnen binnen drei Monaten gemäß § 17 Abs. 1
+und Ihnen binnen drei Monaten gemäß Paragraf 17 Abs. 1
 Nr. 4 HinSchG Rückmeldung über Folge-Maßnahmen
 geben.
 
-Ihre Identität wird gemäß § 8 HinSchG vertraulich
+Ihre Identität wird gemäß Paragraf 8 HinSchG vertraulich
 behandelt.
 
 Bei Rückfragen wenden Sie sich bitte an
@@ -307,7 +307,7 @@ Bei Rückfragen wenden Sie sich bitte an
 
 ## Quellen
 
-- HinSchG §§ 1 2 8 12 15 16 17 19 32 33 36 37 40
+- HinSchG Paragrafen 1 2 8 12 15 16 17 19 32 33 36 37 40
 - EU-RL 2019/1937
 - DSGVO Art. 6 30 35
 - EDSA Stellungnahme 2/2022

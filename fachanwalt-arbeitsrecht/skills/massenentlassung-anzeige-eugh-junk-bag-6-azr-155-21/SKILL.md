@@ -11,11 +11,11 @@ Arbeitgeber kuendigt 35 von 280 AN ohne Konsultation Betriebsrat und ohne Anzeig
 
 ## Normenanker
 
-- § 611a BGB
-- § 623 BGB
-- §§ 1, 4, 7 KSchG
-- § 102 BetrVG
-- §§ 1, 3, 7 AGG
+- Paragraf 611a BGB
+- Paragraf 623 BGB
+- Paragrafen 1, 4, 7 KSchG
+- Paragraf 102 BetrVG
+- Paragrafen 1, 3, 7 AGG
 
 ## Rechtsprechungsanker und Quellenhygiene
 

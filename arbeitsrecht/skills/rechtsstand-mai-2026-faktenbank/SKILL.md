@@ -20,8 +20,8 @@ description: "Faktenbank und Quellen-Gate für aktuelle arbeitsrechtliche Aussag
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsstand Mai 2026 — Faktenbank Arbeitsrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -30,7 +30,7 @@ description: "Faktenbank und Quellen-Gate für aktuelle arbeitsrechtliche Aussag
 
 | Thema | Gesicherter Anker | Tragende Aussage für den | Freie Quelle |
 |---|---|---|---|
-| Mindesturlaub und Vergleich | BAG, Urteil vom 03.06.2025, 9 AZR 104/24 | Auf gesetzlichen Mindesturlaub kann während des bestehenden Arbeitsverhältnisses nicht wirksam durch gerichtlichen Vergleich verzichtet werden; § 13 Abs. 1 Satz 3 BUrlG sperrt Abweichungen zu Lasten des Arbeitnehmers. | https://www.bundesarbeitsgericht.de/entscheidung/9-azr-104-24/ |
+| Mindesturlaub und Vergleich | BAG, Urteil vom 03.06.2025, 9 AZR 104/24 | Auf gesetzlichen Mindesturlaub kann während des bestehenden Arbeitsverhältnisses nicht wirksam durch gerichtlichen Vergleich verzichtet werden; Paragraf 13 Abs. 1 Satz 3 BUrlG sperrt Abweichungen zu Lasten des Arbeitnehmers. | https://www.bundesarbeitsgericht.de/entscheidung/9-azr-104-24/ |
 | Entgeltgleichheit / Paarvergleich | BAG, Urteil vom 23.10.2025, 8 AZR 300/24 | Für den Anspruch auf gleiches Entgelt kann ein Paarvergleich genügen; bei geringerer Vergütung einer Frau für gleiche oder gleichwertige Arbeit greift die Vermutung einer Benachteiligung wegen des Geschlechts. | https://www.bundesarbeitsgericht.de/entscheidung/8-azr-300-24/ |
 | Freistellungsklausel und Dienstwagen | BAG, Urteil vom 25.03.2026, 5 AZR 108/25 | Eine AGB-Klausel, die den Arbeitgeber im gekündigten Arbeitsverhältnis pauschal zur Freistellung und zum Widerruf der Dienstwagennutzung berechtigt, kann unangemessen sein; konkrete Interessenabwägung nötig. | https://www.bundesarbeitsgericht.de/presse/wirksamkeit-einer-freistellungsklausel-widerruf-der-dienstwagennutzung/ |
 | Status Honorarlehrkraft | BSG, Urteil vom 05.11.2024, B 12 BA 3/23 R | Statusprüfung bleibt einzelfallbezogen; Vertragsbezeichnung und Parteiwille tragen nicht, wenn tatsächliche Eingliederung und fehlendes Unternehmerrisiko für Beschäftigung sprechen. | https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2024/2024_11_05_B_12_BA_03_23_R.html |
@@ -40,11 +40,11 @@ description: "Faktenbank und Quellen-Gate für aktuelle arbeitsrechtliche Aussag
 
 | Thema | Normen | Workflow-Hinweis |
 |---|---|---|
-| Kündigungsschutz | §§ 1, 4, 7, 9, 10, 12, 17, 18 KSchG; §§ 622, 626 BGB; § 102 BetrVG | Erst Frist/Zugang und Sonderkündigungsschutz sichern, dann Grund, Sozialauswahl, Betriebsrat, Massenentlassung, Weiterbeschäftigung und Vergleichsdruck prüfen. |
-| Befristung und Schriftform | § 14 Abs. 4, §§ 16, 17 TzBfG; §§ 126, 126a, 623 BGB | Befristungsabrede vor Arbeitsbeginn schriftlich oder mit wirksamer QES; Scan/einfache Signatur reicht nicht. Dreiwochenfrist ab vereinbartem Ende. |
-| Urlaub | §§ 1, 3, 7, 13 BUrlG | Mindesturlaub nicht durch Vergleich im laufenden Arbeitsverhältnis preisgeben; bei Beendigung Urlaubsabgeltung getrennt prüfen. |
-| AGG / Equal Pay | §§ 1, 7, 15, 22 AGG; EntgTranspG | Erst Vergleichsperson und gleiche/gleichwertige Arbeit, dann Vermutung, Rechtfertigung, Fristen und Auskunfts-/Dokumentationslage. |
-| Status/Scheinselbständigkeit | § 611a BGB; §§ 7, 7a, 28p SGB IV; § 266a StGB | Tatsächliche Durchführung vor Vertragstext; bei hohem Risiko DRV-Statusfeststellung, SV-Nachberechnung und Strafbarkeitsrisiko getrennt dokumentieren. |
+| Kündigungsschutz | Paragrafen 1, 4, 7, 9, 10, 12, 17, 18 KSchG; Paragrafen 622, 626 BGB; Paragraf 102 BetrVG | Erst Frist/Zugang und Sonderkündigungsschutz sichern, dann Grund, Sozialauswahl, Betriebsrat, Massenentlassung, Weiterbeschäftigung und Vergleichsdruck prüfen. |
+| Befristung und Schriftform | Paragraf 14 Abs. 4, Paragrafen 16, 17 TzBfG; Paragrafen 126, 126a, 623 BGB | Befristungsabrede vor Arbeitsbeginn schriftlich oder mit wirksamer QES; Scan/einfache Signatur reicht nicht. Dreiwochenfrist ab vereinbartem Ende. |
+| Urlaub | Paragrafen 1, 3, 7, 13 BUrlG | Mindesturlaub nicht durch Vergleich im laufenden Arbeitsverhältnis preisgeben; bei Beendigung Urlaubsabgeltung getrennt prüfen. |
+| AGG / Equal Pay | Paragrafen 1, 7, 15, 22 AGG; EntgTranspG | Erst Vergleichsperson und gleiche/gleichwertige Arbeit, dann Vermutung, Rechtfertigung, Fristen und Auskunfts-/Dokumentationslage. |
+| Status/Scheinselbständigkeit | Paragraf 611a BGB; Paragrafen 7, 7a, 28p SGB IV; Paragraf 266a StGB | Tatsächliche Durchführung vor Vertragstext; bei hohem Risiko DRV-Statusfeststellung, SV-Nachberechnung und Strafbarkeitsrisiko getrennt dokumentieren. |
 | Arbeitszeit und Mindestlohn | ArbZG, MiLoG, NachwG, EFZG | Bei Arbeitszeit immer Aufzeichnung, Bereitschaft/Überstunden, Ausschlussfristen, Mindestlohnfestigkeit und Beweislast getrennt prüfen. |
 
 ## Ausgabe-Standard

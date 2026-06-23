@@ -32,7 +32,7 @@ Arbeitgeber lässt die Kuendigung durch einen **Boten** uebergeben (interner Mit
 
 ## Beweiswert
 
-- Bote ist Zeuge im Sinne § 373 ZPO.
+- Bote ist Zeuge im Sinne Paragraf 373 ZPO.
 - Persoenliche Wahrnehmung als unmittelbarer Beweis.
 - BAG-Linie: Zeugenbeweis durch Boten = staerker als Anscheinsbeweis.
 

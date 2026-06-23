@@ -20,9 +20,9 @@ description: "Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang 
 
 ## Norm
 
-- **§ 4 Satz 1 KSchG**: 3 Wochen ab Zugang.
-- **§ 5 KSchG**: nachtraegliche Zulassung bei unverschuldeter Fristversaeumnis.
-- **§ 7 KSchG**: Fiktion der Wirksamkeit nach Frist.
+- **Paragraf 4 Satz 1 KSchG**: 3 Wochen ab Zugang.
+- **Paragraf 5 KSchG**: nachtraegliche Zulassung bei unverschuldeter Fristversaeumnis.
+- **Paragraf 7 KSchG**: Fiktion der Wirksamkeit nach Frist.
 
 ## Strategie bei streitigem Zugang
 
@@ -31,13 +31,13 @@ description: "Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang 
 - Lieber zu frueh klagen als zu spaet.
 - Bei spaeterem Zugang kann Klage immer noch wirksam sein.
 
-### Hilfsweise: Antrag nach § 5 KSchG
+### Hilfsweise: Antrag nach Paragraf 5 KSchG
 - Wenn Frist tatsaechlich verpasst: nachtraegliche Zulassung.
 - Voraussetzung: unverschuldet (z. B. Krankenhausaufenthalt, Auslandsreise mit Krankheit).
 - Frist: 2 Wochen nach Wegfall des Hindernisses.
 
-### Allgemeine Feststellungsklage § 256 ZPO
-- Bei Zweifel über Zugang: parallel zur § 4-KSchG-Klage Antrag auf Feststellung, dass Arbeitsverhaeltnis fortbesteht.
+### Allgemeine Feststellungsklage Paragraf 256 ZPO
+- Bei Zweifel über Zugang: parallel zur Paragraf 4-KSchG-Klage Antrag auf Feststellung, dass Arbeitsverhaeltnis fortbesteht.
 
 ## Streit über Zugang im Prozess
 
@@ -60,4 +60,4 @@ description: "Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang 
 1. Wann wurde Kuendigung erhalten?
 2. Wann hat Arbeitnehmer Kenntnis?
 3. 3-Wochen-Frist laufend?
-4. Hilfsweise § 5 KSchG?
+4. Hilfsweise Paragraf 5 KSchG?

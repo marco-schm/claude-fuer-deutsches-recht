@@ -20,8 +20,8 @@ description: "Implementierungsplanungs-Framework für internationale Einstellung
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Internationale Expansion — Referenz-Skill (Arbeitsrecht)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -30,16 +30,16 @@ description: "Implementierungsplanungs-Framework für internationale Einstellung
 
 **Kernvorschriften:**
 
-- §§ 1–19 AÜG: Arbeitnehmerüberlassungsgesetz — Erlaubnispflicht, 18-Monats-Grenze
- (§ 1 Abs. 1b AÜG), Equal-Pay (§ 8 AÜG); relevant wenn EOR als Struktur gewählt wird
-- § 7 SGB IV: Beschäftigungsverhältnis; Scheinselbständigkeit — bei Freelancer- oder
+- Paragrafen 1–19 AÜG: Arbeitnehmerüberlassungsgesetz — Erlaubnispflicht, 18-Monats-Grenze
+ (Paragraf 1 Abs. 1b AÜG), Equal-Pay (Paragraf 8 AÜG); relevant wenn EOR als Struktur gewählt wird
+- Paragraf 7 SGB IV: Beschäftigungsverhältnis; Scheinselbständigkeit — bei Freelancer- oder
  Contractor-Konstellationen zu prüfen
-- § 611a BGB: Arbeitnehmerbegriff; Abgrenzung zu selbständiger Tätigkeit
+- Paragraf 611a BGB: Arbeitnehmerbegriff; Abgrenzung zu selbständiger Tätigkeit
 - Art. 8 Rom I-VO (VO EG 593/2008): Arbeitsvertragsstatut — Rechtswahl darf nicht zum
  Entzug zwingender Schutzvorschriften des Beschäftigungsstaats führen
 - Art. 45 AEUV, RL 96/71/EG (Entsenderichtlinie), RL 2018/957/EU: Arbeitnehmerfreizügigkeit,
  Entsendung innerhalb der EU
-- DSGVO / § 26 BDSG: Beschäftigtendatenschutz; Datentransfer in Drittstaaten
+- DSGVO / Paragraf 26 BDSG: Beschäftigtendatenschutz; Datentransfer in Drittstaaten
  (Art. 44 ff. DSGVO) bei Daten über EU-Arbeitnehmer an nicht-EU-Muttergesellschaft
 
 **Leitentscheidungen:**
@@ -48,13 +48,13 @@ description: "Implementierungsplanungs-Framework für internationale Einstellung
  Arbeitnehmerbegriff bei grenzüberschreitenden Tätigkeiten; Indizien für
  Weisungsgebundenheit — maßgeblich für Contractor- vs. Arbeitnehmerstatus
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- Rechtsfolgen fehlender AÜG-Erlaubnis; Fiktionswirkung nach § 10 Abs. 1 AÜG
+ Rechtsfolgen fehlender AÜG-Erlaubnis; Fiktionswirkung nach Paragraf 10 Abs. 1 AÜG
  bei unerlaubter Arbeitnehmerüberlassung
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 - AÜG: Erlaubnispflicht, Höchstüberlassungsdauer und Equal Pay nach Gesetz, Tariftext und frei verifizierter Rechtsprechung prüfen.
-- Arbeitnehmerstatus: § 611a BGB, § 7a SGB IV und frei verifizierte BAG-/BSG-Rechtsprechung; keine Kommentarzitate aus Modellwissen.
+- Arbeitnehmerstatus: Paragraf 611a BGB, Paragraf 7a SGB IV und frei verifizierte BAG-/BSG-Rechtsprechung; keine Kommentarzitate aus Modellwissen.
 - Grenzüberschreitende Arbeitsverhältnisse: Art. 8 Rom I-VO, AÜG, Entsende-/SV-Regeln und amtliche Quellen prüfen; keine Handbuchzitate aus Modellwissen.
 
 ## Ablauf
@@ -112,8 +112,8 @@ leiten.
 
 **AÜG-Compliance-Hinweis (bei EOR-Konstellationen zwingend prüfen):**
 Wenn der EOR im Verhältnis zur deutschen Muttergesellschaft als Verleiher
-fungiert, kann die AÜG-Erlaubnispflicht (§ 1 AÜG) ausgelöst werden.
-18-Monats-Grenze (§ 1 Abs. 1b AÜG) und Equal-Pay-Gebot (§ 8 AÜG nach 9 Monaten)
+fungiert, kann die AÜG-Erlaubnispflicht (Paragraf 1 AÜG) ausgelöst werden.
+18-Monats-Grenze (Paragraf 1 Abs. 1b AÜG) und Equal-Pay-Gebot (Paragraf 8 AÜG nach 9 Monaten)
 laufen auch bei EOR-Strukturen.
 
 **Betriebsstättenrisiko-Flag (an Steuerberatung leiten):**
@@ -384,7 +384,7 @@ Fragen für CFO/Steuerberatung]
 ## Quellenpflicht
 
 Jede Ausgabe zu AÜG-Konstellationen zitiert:
-- §§ 1, 8, 10 AÜG, § 7 SGB IV, Art. 8 Rom I-VO
+- Paragrafen 1, 8, 10 AÜG, Paragraf 7 SGB IV, Art. 8 Rom I-VO
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - AÜG: Erlaubnispflicht, Höchstüberlassungsdauer und Equal Pay nach Gesetz, Tariftext und frei verifizierter Rechtsprechung prüfen.
 
@@ -394,12 +394,12 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Befund WRONG_TOPIC + falsches Datum + falsche Zeitschrift → Eintrag gelöscht.
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- Statusfeststellungsverfahren nach § 7a SGB IV; Gesamtbetrachtung aller Beschäftigungsmerkmale"
+ Statusfeststellungsverfahren nach Paragraf 7a SGB IV; Gesamtbetrachtung aller Beschäftigungsmerkmale"
 Tatsächliche Entscheidung (dejure.org):
  Datum: 29.06.2021 (nicht 29.03.2022)
- Thema: Krankenversicherung — Familienversicherung — Gesamteinkommen (§ 10 SGB V)
+ Thema: Krankenversicherung — Familienversicherung — Gesamteinkommen (Paragraf 10 SGB V)
  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- Kein Bezug zu § 7a SGB IV / Statusfeststellung.
+ Kein Bezug zu Paragraf 7a SGB IV / Statusfeststellung.
 Eintrag vollständig entfernt; bei Bedarf passendes Statusfeststellungs-AZ recherchieren.
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=29.06.2021&Aktenzeichen=B+12+KR+2%2F20+R
 -->

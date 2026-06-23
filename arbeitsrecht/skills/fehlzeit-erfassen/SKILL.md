@@ -20,8 +20,8 @@ description: "Neue Abwesenheit oder neuen Urlaubseintrag im Register anlegen –
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `/arbeitsrecht:fehlzeit-erfassen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -63,29 +63,29 @@ Je nach Abwesenheitstyp:
 
 **Krankheit (EFZG):**
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- BEM-Prüfdatum: ab 6-wöchiger AU innerhalb von 12 Monaten (§ 167 Abs. 2 SGB IX)
+- BEM-Prüfdatum: ab 6-wöchiger AU innerhalb von 12 Monaten (Paragraf 167 Abs. 2 SGB IX)
 - Wenn gleiche Erkrankung: Neuer EFZG-Anspruch? Letzter AU-Zeitraum prüfen.
 
 **Urlaub (BUrlG):**
-- Verfallsdatum: 31.12. des laufenden Jahres (§ 7 Abs. 3 S. 1 BUrlG) bzw. 31.03. des Folgejahres bei Übertragung
+- Verfallsdatum: 31.12. des laufenden Jahres (Paragraf 7 Abs. 3 S. 1 BUrlG) bzw. 31.03. des Folgejahres bei Übertragung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Resturlaub berechnen: Gesamtanspruch − genommene Tage
 
 **Mutterschutz (MuSchG):**
-- Schutzfrist-Beginn: 6 Wochen vor errechnetem Entbindungstermin (§ 3 MuSchG)
-- Schutzfrist-Ende: 8 Wochen nach Entbindung (§ 3 Abs. 2 MuSchG; 12 Wochen bei Frühgeburt)
-- Kündigungsschutz-Ende: 4 Monate nach Entbindung (§ 17 Abs. 1 S. 1 Nr. 1 MuSchG)
+- Schutzfrist-Beginn: 6 Wochen vor errechnetem Entbindungstermin (Paragraf 3 MuSchG)
+- Schutzfrist-Ende: 8 Wochen nach Entbindung (Paragraf 3 Abs. 2 MuSchG; 12 Wochen bei Frühgeburt)
+- Kündigungsschutz-Ende: 4 Monate nach Entbindung (Paragraf 17 Abs. 1 S. 1 Nr. 1 MuSchG)
 
 **Elternzeit (BEEG):**
-- Anmeldefrist geprüft? (7 Wochen vor Beginn; § 16 Abs. 1 BEEG)
+- Anmeldefrist geprüft? (7 Wochen vor Beginn; Paragraf 16 Abs. 1 BEEG)
 - Elternzeit-Ende: 3. Geburtstag des Kindes als maximale Frist
-- Kündigungsschutz-Ende: Ende der Elternzeit (§ 18 Abs. 1 BEEG)
-- Teilzeit-Anspruch: Ab Beginn der Elternzeit (§ 15 Abs. 6 BEEG)
+- Kündigungsschutz-Ende: Ende der Elternzeit (Paragraf 18 Abs. 1 BEEG)
+- Teilzeit-Anspruch: Ab Beginn der Elternzeit (Paragraf 15 Abs. 6 BEEG)
 
 **Pflegezeit (PflegeZG):**
-- Max. 6 Monate (§ 3 Abs. 1 PflegeZG)
-- Kündigungsschutz: ab Ankündigung bis 4 Wochen nach Ende (§ 5 PflegeZG)
-- Ankündigungsfrist: 10 Arbeitstage vor Beginn (§ 3 Abs. 3 PflegeZG)
+- Max. 6 Monate (Paragraf 3 Abs. 1 PflegeZG)
+- Kündigungsschutz: ab Ankündigung bis 4 Wochen nach Ende (Paragraf 5 PflegeZG)
+- Ankündigungsfrist: 10 Arbeitstage vor Beginn (Paragraf 3 Abs. 3 PflegeZG)
 
 ### 4. Eintrag schreiben
 
@@ -112,11 +112,11 @@ Register-Eintrag anlegen in `~/.claude/plugins/config/claude-fuer-deutsches-rech
 
 Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-buergerliches-recht.md`.
 
-- § 3 EFZG (6-Wochen-Fortzahlung), § 5 EFZG (Nachweispflicht)
-- § 3, 7 BUrlG (Mindesturlaub, Übertragung, Verfall)
-- § 3 MuSchG (Schutzfristen), § 17 MuSchG (Kündigungsschutz)
-- §§ 15–18 BEEG (Elternzeit, Anmeldung, Kündigungsschutz)
-- § 167 Abs. 2 SGB IX (BEM-Pflicht)
+- Paragraf 3 EFZG (6-Wochen-Fortzahlung), Paragraf 5 EFZG (Nachweispflicht)
+- Paragraf 3, 7 BUrlG (Mindesturlaub, Übertragung, Verfall)
+- Paragraf 3 MuSchG (Schutzfristen), Paragraf 17 MuSchG (Kündigungsschutz)
+- Paragrafen 15–18 BEEG (Elternzeit, Anmeldung, Kündigungsschutz)
+- Paragraf 167 Abs. 2 SGB IX (BEM-Pflicht)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beispiele
@@ -132,4 +132,4 @@ Anmeldung liegt schriftlich vor (10.12.2024). Rückkehr geplant 01.02.2026.
 - **BEEG-Anmeldung nachträglich** – Elternzeit kann nicht rückwirkend beantragt werden; Anmeldedatum prüfen.
 - **Mehrere Abwesenheitsperioden bei gleicher Erkrankung** – EFZG-Neuanspruch-Prüfung nicht vergessen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **Anonymisierung** – auch im internen Register: Mitarbeiter-IDs statt Namen verwenden; § 26 BDSG.
+- **Anonymisierung** – auch im internen Register: Mitarbeiter-IDs statt Namen verwenden; Paragraf 26 BDSG.

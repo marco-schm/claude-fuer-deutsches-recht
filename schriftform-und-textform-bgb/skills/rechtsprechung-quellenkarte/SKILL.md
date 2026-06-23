@@ -11,9 +11,9 @@ Diese Quellenkarte sichert für **Schriftform/Textform BGB** jede tragende Aussa
 
 ## Tragende Normen (live prüfen)
 
-- **§§ 126, 126a, 126b BGB** — amtlichen Stand vor tragender Aussage prüfen
-- **§ 127 BGB** — amtlichen Stand vor tragender Aussage prüfen
-- **§ 130 BGB Zugang** — amtlichen Stand vor tragender Aussage prüfen
+- **Paragrafen 126, 126a, 126b BGB** — amtlichen Stand vor tragender Aussage prüfen
+- **Paragraf 127 BGB** — amtlichen Stand vor tragender Aussage prüfen
+- **Paragraf 130 BGB Zugang** — amtlichen Stand vor tragender Aussage prüfen
 
 ## Zuständige Spruchkörper und Behörden
 

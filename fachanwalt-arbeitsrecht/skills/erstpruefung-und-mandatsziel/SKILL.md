@@ -20,8 +20,8 @@ description: "Fachanwalt Erstprüfung und Mandatsziel: systematische Erstaufnahm
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Fachanwalt Erstprüfung und Mandatsziel` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -31,11 +31,11 @@ Wenn ein Mandat vorliegt oder angeboten wird, folgende Punkte klären:
 
 1. **Wer ist der Mandant?** Name, Stellung (Arbeitnehmer, Arbeitgeber, Betriebsrat, Gewerkschaft)?
 2. **Was ist das Kernproblem?** Kündigung, Vergütung, Diskriminierung, Betriebsverfassung, Vertragsgestaltung?
-3. **Gibt es laufende Fristen?** 3-Wochen-Frist § 4 KSchG, § 17 TzBfG, AGG-Frist § 15 Abs. 4 AGG?
+3. **Gibt es laufende Fristen?** 3-Wochen-Frist Paragraf 4 KSchG, Paragraf 17 TzBfG, AGG-Frist Paragraf 15 Abs. 4 AGG?
 4. **Interessenkonflikt?** Vertritt die Kanzlei oder die Fachanwältin/den Fachanwalt bereits die Gegenseite?
 5. **Was ist das Ziel des Mandanten?** Bestandsschutz, Abfindung, Schadensersatz, Vertragsänderung?
 
-## Phase 1: Interessenkonflikt-Prüfung (§ 43a BRAO, § 3 BORA)
+## Phase 1: Interessenkonflikt-Prüfung (Paragraf 43a BRAO, Paragraf 3 BORA)
 
 ### Prüfpflicht
 Vor jeder Mandatsannahme muss geprüft werden:
@@ -43,7 +43,7 @@ Vor jeder Mandatsannahme muss geprüft werden:
 - Hat ein Anwalt der Kanzlei früher die Gegenseite beraten?
 - Gibt es sonstige Interessenkollisionen (Eigeninteressen, familiäre Verbindungen)?
 
-**Rechtsfolge Verstoß:** § 356 StGB (Parteiverrat); berufsrechtliche Sanktionen; Anwaltsvertrag nichtig.
+**Rechtsfolge Verstoß:** Paragraf 356 StGB (Parteiverrat); berufsrechtliche Sanktionen; Anwaltsvertrag nichtig.
 
 ### Dokumentation
 Interessenkonflikt-Check in der Kanzleisoftware; schriftliche Bestätigung der Prüfung in der Akte.
@@ -66,9 +66,9 @@ Interessenkonflikt-Check in der Kanzleisoftware; schriftliche Bestätigung der P
 | Kündigung erhalten? Datum? | |
 
 ### Fristenüberblick (sofort beim Erstgespräch)
-- Liegt eine Kündigung vor? → § 4 KSchG-Frist berechnen
-- Ist das Befristungsende abgelaufen? → § 17 TzBfG-Frist
-- Diskriminierungsfall? → § 15 Abs. 4 AGG-Frist (2 Monate)
+- Liegt eine Kündigung vor? → Paragraf 4 KSchG-Frist berechnen
+- Ist das Befristungsende abgelaufen? → Paragraf 17 TzBfG-Frist
+- Diskriminierungsfall? → Paragraf 15 Abs. 4 AGG-Frist (2 Monate)
 
 ## Phase 3: Mandatsziel und Interessenlage
 
@@ -103,16 +103,16 @@ Interessenkonflikt-Check in der Kanzleisoftware; schriftliche Bestätigung der P
 ### Rot — Schwache Position
 - KSchG nicht anwendbar (Betriebsgröße unter Schwelle, kurze Betriebszugehörigkeit)
 - Kündigung formal korrekt; Kündigungsgrund stark (schweres Fehlverhalten mit Beweisen)
-- Klagefrist bereits abgelaufen; § 7 KSchG-Fiktion
+- Klagefrist bereits abgelaufen; Paragraf 7 KSchG-Fiktion
 
 ## Phase 5: Mandatsumfang und Kostenhinweis
 
 ### RVG-Werte im Arbeitsrecht
-- Streitwert Kündigungsschutzklage: § 42 Abs. 2 GKG = 1 Vierteljahresverdienst
+- Streitwert Kündigungsschutzklage: Paragraf 42 Abs. 2 GKG = 1 Vierteljahresverdienst
 - Abfindungsvergleich: Streitwert kann höher sein (abhängig von Vergleichswert)
-- Beratungsgebühr: nach RVG § 34 frei vereinbar oder nach Stundensatz
+- Beratungsgebühr: nach RVG Paragraf 34 frei vereinbar oder nach Stundensatz
 
-### Kostenhinweis-Pflicht (§ 49b BRAO, § 3a RVG)
+### Kostenhinweis-Pflicht (Paragraf 49b BRAO, Paragraf 3a RVG)
 Vor Mandatsannahme: Hinweis auf voraussichtliche Kosten; Vergütungsvereinbarung schriftlich wenn von RVG-Sätzen abgewichen wird.
 
 ### Rechtsschutzversicherung

@@ -1,9 +1,9 @@
 ---
 name: kuendigungsschutzklage
-description: "Prüft und entwirft eine Kündigungsschutzklage nach § 4 KSchG: Lädt, wenn ein Arbeitnehmer eine ordentliche oder außerordentliche Kündigung anfechten will, die 3-Wochen-Frist droht oder ein Entwur..."
+description: "Prüft und entwirft eine Kündigungsschutzklage nach Paragraf 4 KSchG: Lädt, wenn ein Arbeitnehmer eine ordentliche oder außerordentliche Kündigung anfechten will, die 3-Wochen-Frist droht oder ein Entwur..."
 ---
 
-# Prüft und entwirft eine Kündigungsschutzklage nach § 4 KSchG
+# Prüft und entwirft eine Kündigungsschutzklage nach Paragraf 4 KSchG
 
 
 ## Arbeitsweg
@@ -14,21 +14,21 @@ description: "Prüft und entwirft eine Kündigungsschutzklage nach § 4 KSchG: L
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Prüft und entwirft eine Kündigungsschutzklage nach § 4 KSchG. Lädt, wenn ein Arbeitnehmer eine ordentliche oder außerordentliche Kündigung anfechten will, die 3-Wochen-Frist droht oder ein Entwurf des Klageantrags, der Klagebegründung und der Sozialauswahl benötigt wird.
+**Fokus:** Prüft und entwirft eine Kündigungsschutzklage nach Paragraf 4 KSchG. Lädt, wenn ein Arbeitnehmer eine ordentliche oder außerordentliche Kündigung anfechten will, die 3-Wochen-Frist droht oder ein Entwurf des Klageantrags, der Klagebegründung und der Sozialauswahl benötigt wird.
 
-### Kündigungsschutzklage (§ 4 KSchG)
+### Kündigungsschutzklage (Paragraf 4 KSchG)
 
 ## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kündigungsschutzklage (§ 4 KSchG)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kündigungsschutzklage (Paragraf 4 KSchG)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Zweck
 
-Unterstützt bei der Prüfung und dem Entwurf einer Kündigungsschutzklage nach § 4 KSchG. Er dient Rechtsanwältinnen und Rechtsanwälten, die ein Mandat zur Überprüfung einer Arbeitgeberkündigung führen, sowie der internen Fallanalyse. Kernproblem ist regelmäßig die **3-Wochen-Klagefrist** (§ 4 Satz 1 KSchG), die ab Zugang der Kündigung läuft und bei Versäumung zum Verlust des Kündigungsschutzrechts führt (§ 7 KSchG). Der Skill erfasst sowohl ordentliche als auch außerordentliche Kündigungen, die Sozialauswahl, die Betriebsratsanhörung und die gerichtliche Geltendmachung.
+Unterstützt bei der Prüfung und dem Entwurf einer Kündigungsschutzklage nach Paragraf 4 KSchG. Er dient Rechtsanwältinnen und Rechtsanwälten, die ein Mandat zur Überprüfung einer Arbeitgeberkündigung führen, sowie der internen Fallanalyse. Kernproblem ist regelmäßig die **3-Wochen-Klagefrist** (Paragraf 4 Satz 1 KSchG), die ab Zugang der Kündigung läuft und bei Versäumung zum Verlust des Kündigungsschutzrechts führt (Paragraf 7 KSchG). Der Skill erfasst sowohl ordentliche als auch außerordentliche Kündigungen, die Sozialauswahl, die Betriebsratsanhörung und die gerichtliche Geltendmachung.
 
 ## Eingaben
 
@@ -36,10 +36,10 @@ Für eine vollständige Bearbeitung werden benötigt:
 
 1. **Kündigungsschreiben** (Text oder Scan) – Datum der Ausfertigung und des Zugangs
 2. **Arbeitsverhältnis**: Beginn, Beendigungsdatum laut Kündigung, Vollzeit/Teilzeit
-3. **Betriebsgröße**: Anzahl der wahlberechtigten Arbeitnehmer (§ 1 Abs. 1 KSchG: regelmäßig mehr als 10)
-4. **Kündigungstyp**: ordentlich (§ 1 KSchG) oder außerordentlich (§ 626 BGB)
+3. **Betriebsgröße**: Anzahl der wahlberechtigten Arbeitnehmer (Paragraf 1 Abs. 1 KSchG: regelmäßig mehr als 10)
+4. **Kündigungstyp**: ordentlich (Paragraf 1 KSchG) oder außerordentlich (Paragraf 626 BGB)
 5. **Kündigungsgrund**: betriebsbedingt, personenbedingt oder verhaltensbedingt
-6. **Betriebsrat vorhanden?** Falls ja: Anhörungsunterlagen (§ 102 BetrVG)
+6. **Betriebsrat vorhanden?** Falls ja: Anhörungsunterlagen (Paragraf 102 BetrVG)
 7. **Sozialauswahl** (bei betriebsbedingter Kündigung): vergleichbare Arbeitnehmer, Sozialdaten (Alter, Betriebszugehörigkeit, Unterhaltspflichten, Schwerbehinderung)
 8. **Bisherige Abmahnungen** (Datum, Inhalt)
 9. **Sonderkündigungsschutz**: Schwangerschaft, Elternzeit, Schwerbehinderung, BR-/JAV-Mitgliedschaft
@@ -48,16 +48,16 @@ Für eine vollständige Bearbeitung werden benötigt:
 
 ### Kernvorschriften
 
-- § 4 Satz 1 KSchG: Klagefrist 3 Wochen ab Zugang der Kündigung (absolute Ausschlussfrist, keine Hemmung)
-- § 7 KSchG: Fiktionswirkung – Kündigung gilt als rechtswirksam, wenn nicht rechtzeitig Klage erhoben
-- § 1 Abs. 1 KSchG: Geltungsbereich (6 Monate Wartezeit, Betrieb > 10 AN)
-- § 1 Abs. 2 KSchG: Soziale Rechtfertigung (betriebs-, personen-, verhaltensbedingt)
-- § 1 Abs. 3 KSchG: Sozialauswahl bei betriebsbedingter Kündigung
-- § 626 Abs. 1 BGB: Außerordentliche Kündigung aus wichtigem Grund
-- § 626 Abs. 2 BGB: 2-Wochen-Frist für außerordentliche Kündigung
-- § 102 BetrVG: Anhörung des Betriebsrats vor jeder Kündigung
-- §§ 46 ff. ArbGG: Zuständigkeit und Verfahren Arbeitsgericht
-- § 256 ZPO: Feststellungsklage (entsprechend anwendbar über § 46 Abs. 2 ArbGG)
+- Paragraf 4 Satz 1 KSchG: Klagefrist 3 Wochen ab Zugang der Kündigung (absolute Ausschlussfrist, keine Hemmung)
+- Paragraf 7 KSchG: Fiktionswirkung – Kündigung gilt als rechtswirksam, wenn nicht rechtzeitig Klage erhoben
+- Paragraf 1 Abs. 1 KSchG: Geltungsbereich (6 Monate Wartezeit, Betrieb > 10 AN)
+- Paragraf 1 Abs. 2 KSchG: Soziale Rechtfertigung (betriebs-, personen-, verhaltensbedingt)
+- Paragraf 1 Abs. 3 KSchG: Sozialauswahl bei betriebsbedingter Kündigung
+- Paragraf 626 Abs. 1 BGB: Außerordentliche Kündigung aus wichtigem Grund
+- Paragraf 626 Abs. 2 BGB: 2-Wochen-Frist für außerordentliche Kündigung
+- Paragraf 102 BetrVG: Anhörung des Betriebsrats vor jeder Kündigung
+- Paragrafen 46 ff. ArbGG: Zuständigkeit und Verfahren Arbeitsgericht
+- Paragraf 256 ZPO: Feststellungsklage (entsprechend anwendbar über Paragraf 46 Abs. 2 ArbGG)
 
 ### Leitentscheidungen (BGH-Stil, Stand Mai 2026)
 
@@ -65,19 +65,19 @@ Für eine vollständige Bearbeitung werden benötigt:
  BAG, Urteile vom 01.04.2026 - 6 AZR 152/22 und 6 AZR 157/22: Fehlende oder verfruehte (vor Abschluss der BR-Konsultation eingereichte) Massenentlassungsanzeige fuehrt zur Unwirksamkeit aller davon erfassten Kuendigungen; keine Heilung nach Kuendigungsausspruch. Quelle: dejure.org-Vernetzung; BAG-Pressemitteilung "Massenentlassung - Rechtsfolge von Fehlern im Anzeigeverfahren". Zugehoeriger EuGH: 30.10.2025 - C-134/24 und C-402/24.
 
 - **Freistellungsklausel im Arbeitsvertrag:**
- BAG, Urteil vom 25.03.2026 - 5 AZR 108/25: Pauschale formularmäßige Freistellungsklausel benachteiligt den Arbeitnehmer unangemessen (§ 307 Abs. 1 Satz 1 BGB); der Beschäftigungsanspruch ueberwiegt das pauschale Freistellungsinteresse. Quelle: dejure.org-Vernetzung.
+ BAG, Urteil vom 25.03.2026 - 5 AZR 108/25: Pauschale formularmäßige Freistellungsklausel benachteiligt den Arbeitnehmer unangemessen (Paragraf 307 Abs. 1 Satz 1 BGB); der Beschäftigungsanspruch ueberwiegt das pauschale Freistellungsinteresse. Quelle: dejure.org-Vernetzung.
 
 - **Mindesturlaubsverzicht im Prozessvergleich:**
- BAG, Urteil vom 03.06.2025 - 9 AZR 104/24: Pauschale Erledigungsklausel erfasst den gesetzlichen Mindesturlaub im laufenden Arbeitsverhaeltnis nicht wirksam; § 13 Abs. 1 Satz 3 BUrlG i.V.m. RL 2003/88/EG. Quelle: dejure.org-Vernetzung.
+ BAG, Urteil vom 03.06.2025 - 9 AZR 104/24: Pauschale Erledigungsklausel erfasst den gesetzlichen Mindesturlaub im laufenden Arbeitsverhaeltnis nicht wirksam; Paragraf 13 Abs. 1 Satz 3 BUrlG i.V.m. RL 2003/88/EG. Quelle: dejure.org-Vernetzung.
 
 - **Equal Pay / Paarvergleich:**
- BAG, Urteil vom 23.10.2025 - 8 AZR 300/24: Paarvergleich mit einem einzelnen Vergleichskollegen des anderen Geschlechts genuegt für die Vermutung nach § 22 AGG; Mediane oder Vergleichsgruppengroessen sind irrelevant. Quelle: dejure.org-Vernetzung.
+ BAG, Urteil vom 23.10.2025 - 8 AZR 300/24: Paarvergleich mit einem einzelnen Vergleichskollegen des anderen Geschlechts genuegt für die Vermutung nach Paragraf 22 AGG; Mediane oder Vergleichsgruppengroessen sind irrelevant. Quelle: dejure.org-Vernetzung.
 
 - **DSGVO-Schadensersatz bei verspaeteter Auskunft:**
  BAG, Urteil vom 20.02.2025 - 8 AZR 61/24: "Stoergefuehl" allein begruendet keinen Schadensersatzanspruch nach Art. 82 DSGVO; konkrete Kontrollverlust-Furcht oder tatsaechlicher Schaden erforderlich. Quelle: dejure.org-Vernetzung; Volltext-PDF auf bundesarbeitsgericht.de.
 
 - **Arbeitszeiterfassung:**
- BAG, Beschluss vom 13.09.2022 - 1 ABR 22/21: Pflicht des Arbeitgebers zur Erfassung der gesamten Arbeitszeit aus § 3 Abs. 2 Nr. 1 ArbSchG. Quelle: dejure.org-Vernetzung.
+ BAG, Beschluss vom 13.09.2022 - 1 ABR 22/21: Pflicht des Arbeitgebers zur Erfassung der gesamten Arbeitszeit aus Paragraf 3 Abs. 2 Nr. 1 ArbSchG. Quelle: dejure.org-Vernetzung.
 
 - **NachweisG-Schadensersatz:**
  BAG, Urteil vom 22.09.2022 - 8 AZR 4/21: Bei Verstoss gegen NachwG kann der Arbeitnehmer Schadensersatz verlangen, soweit die Pflichtverletzung kausal für den Schaden war; Anspruch nicht auf Bussgeldhoehe begrenzt. Quelle: dejure.org-Vernetzung.
@@ -96,22 +96,22 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### Schritt 1 – Fristprüfung (KRITISCH, SOFORT)
 
 1. Zugangsdatum der Kündigung feststellen (Zeugen, Einschreiben-Rückschein, Übergabe-Quittung).
-2. Klagefrist berechnen: 3 Wochen ab Zugang, §§ 4, 7 KSchG; keine Hemmung möglich.
-3. Falls Frist abgelaufen: Nachzulassungsantrag nach § 5 KSchG prüfen (unverschuldete Versäumung, z. B. Krankheit, Abwesenheit); Frist: 2 Wochen nach Wegfall des Hindernisses.
-4. Mandanten sofort über Fristablauf und Konsequenzen (§ 7 KSchG) belehren; Belehrung dokumentieren.
+2. Klagefrist berechnen: 3 Wochen ab Zugang, Paragrafen 4, 7 KSchG; keine Hemmung möglich.
+3. Falls Frist abgelaufen: Nachzulassungsantrag nach Paragraf 5 KSchG prüfen (unverschuldete Versäumung, z. B. Krankheit, Abwesenheit); Frist: 2 Wochen nach Wegfall des Hindernisses.
+4. Mandanten sofort über Fristablauf und Konsequenzen (Paragraf 7 KSchG) belehren; Belehrung dokumentieren.
 
 ### Schritt 2 – Geltungsbereich KSchG
 
-- Wartezeit ≥ 6 Monate (§ 1 Abs. 1 KSchG)?
-- Betriebsgröße: mehr als 10 Arbeitnehmer i. S. v. § 23 Abs. 1 KSchG (Teilzeit anteilig)?
-- Falls KSchG nicht anwendbar: allgemeiner Kündigungsschutz (§§ 138, 242 BGB), Sonderkündigungsschutz (MuSchG, BEEG, SGB IX, § 15 KSchG) gesondert prüfen.
+- Wartezeit ≥ 6 Monate (Paragraf 1 Abs. 1 KSchG)?
+- Betriebsgröße: mehr als 10 Arbeitnehmer i. S. v. Paragraf 23 Abs. 1 KSchG (Teilzeit anteilig)?
+- Falls KSchG nicht anwendbar: allgemeiner Kündigungsschutz (Paragrafen 138, 242 BGB), Sonderkündigungsschutz (MuSchG, BEEG, SGB IX, Paragraf 15 KSchG) gesondert prüfen.
 
-### Schritt 3 – Prüfung der sozialen Rechtfertigung (§ 1 KSchG)
+### Schritt 3 – Prüfung der sozialen Rechtfertigung (Paragraf 1 KSchG)
 
 **A. Betriebsbedingte Kündigung**
 - Unternehmerische Entscheidung? Dauerhafter Wegfall des Beschäftigungsbedarfs?
 - Weiterbeschäftigungsmöglichkeit (freier Arbeitsplatz, ggf. nach Änderungskündigung)?
-- Sozialauswahl § 1 Abs. 3 KSchG: Kreis der vergleichbaren Arbeitnehmer bestimmen, Sozialpunkte (Alter, Betriebszugehörigkeit, Unterhaltspflichten, Schwerbehinderung) ermitteln, Ausnahmen (Leistungsträger § 1 Abs. 3 Satz 2 KSchG).
+- Sozialauswahl Paragraf 1 Abs. 3 KSchG: Kreis der vergleichbaren Arbeitnehmer bestimmen, Sozialpunkte (Alter, Betriebszugehörigkeit, Unterhaltspflichten, Schwerbehinderung) ermitteln, Ausnahmen (Leistungsträger Paragraf 1 Abs. 3 Satz 2 KSchG).
 
 **B. Personenbedingte Kündigung**
 - Negative Prognose (dauerhafter Leistungsausfall), Erheblichkeit, Interessenabwägung.
@@ -120,23 +120,23 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **C. Verhaltensbedingte Kündigung**
 - Pflichtverletzung (schuldhaft), Abmahnung als Voraussetzung (Warn- und Rügefunktion), negative Prognose, Verhältnismäßigkeit.
 
-### Schritt 4 – Betriebsratsanhörung (§ 102 BetrVG)
+### Schritt 4 – Betriebsratsanhörung (Paragraf 102 BetrVG)
 
 - BR vor Ausspruch der Kündigung angehört?
 - Inhalt der Mitteilung vollständig (Sozialdaten, Kündigungsgrund, Art der Kündigung)?
 - Frist eingehalten (1 Woche ordentlich, 3 Tage außerordentlich)?
-- Widerspruch des BR nach § 102 Abs. 3 BetrVG → Weiterbeschäftigungsanspruch § 102 Abs. 5 BetrVG.
-- Fehler der BR-Anhörung → Kündigung unwirksam (§ 102 Abs. 1 Satz 3 BetrVG).
+- Widerspruch des BR nach Paragraf 102 Abs. 3 BetrVG → Weiterbeschäftigungsanspruch Paragraf 102 Abs. 5 BetrVG.
+- Fehler der BR-Anhörung → Kündigung unwirksam (Paragraf 102 Abs. 1 Satz 3 BetrVG).
 
-### Schritt 5 – Außerordentliche Kündigung (§ 626 BGB)
+### Schritt 5 – Außerordentliche Kündigung (Paragraf 626 BGB)
 
-- Wichtiger Grund i. S. v. § 626 Abs. 1 BGB: Unzumutbarkeit der Fortsetzung bis Ablauf der ordentlichen Frist?
-- 2-Wochen-Frist § 626 Abs. 2 BGB: ab Kenntnis des Kündigungsberechtigten; Fristversäumung → Kündigung unwirksam.
+- Wichtiger Grund i. S. v. Paragraf 626 Abs. 1 BGB: Unzumutbarkeit der Fortsetzung bis Ablauf der ordentlichen Frist?
+- 2-Wochen-Frist Paragraf 626 Abs. 2 BGB: ab Kenntnis des Kündigungsberechtigten; Fristversäumung → Kündigung unwirksam.
 - Interessenabwägung: alle Umstände des Einzelfalls (Betriebszugehörigkeit, Vorleben, Art und Schwere der Pflichtverletzung).
 
 ### Schritt 6 – Klageschrift verfassen
 
-**Rubrum:** Arbeitsgericht [Ort] (§ 46 Abs. 2 ArbGG i. V. m. § 253 ZPO), Kläger = Arbeitnehmer, Beklagte = Arbeitgeberin.
+**Rubrum:** Arbeitsgericht [Ort] (Paragraf 46 Abs. 2 ArbGG i. V. m. Paragraf 253 ZPO), Kläger = Arbeitnehmer, Beklagte = Arbeitgeberin.
 
 **Klageanträge (Feststellungsklage):**
 ```
@@ -146,7 +146,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 2. [Hilfsweise: Es wird festgestellt, dass das Arbeitsverhältnis auch nicht durch
  andere Beendigungsgründe endet, sondern über den [Datum] hinaus fortbesteht.]
 
-3. [Weiterbeschäftigungsantrag nach § 102 Abs. 5 BetrVG / allg. Weiterbeschäftigung
+3. [Weiterbeschäftigungsantrag nach Paragraf 102 Abs. 5 BetrVG / allg. Weiterbeschäftigung
  bis Rechtskraft des Urteils, soweit Widerspruch des BR oder schutzwürdiges Interesse.]
 ```
 
@@ -160,9 +160,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ### Schritt 7 – Einreichung und Gütetermin
 
-- Klage beim örtlich zuständigen Arbeitsgericht (§ 48 ArbGG i. V. m. §§ 12 ff. ZPO, § 29 ZPO: Erfüllungsort des Arbeitsvertrags).
-- Gütetermin within 2 Wochen (§ 54 ArbGG): aktive Vorbereitung auf Einigung; Abfindungsüberlegungen nach § 9, 10 KSchG.
-- Kammertermin bei Nichteinigung (§ 57 ArbGG).
+- Klage beim örtlich zuständigen Arbeitsgericht (Paragraf 48 ArbGG i. V. m. Paragrafen 12 ff. ZPO, Paragraf 29 ZPO: Erfüllungsort des Arbeitsvertrags).
+- Gütetermin within 2 Wochen (Paragraf 54 ArbGG): aktive Vorbereitung auf Einigung; Abfindungsüberlegungen nach Paragraf 9, 10 KSchG.
+- Kammertermin bei Nichteinigung (Paragraf 57 ArbGG).
 
 ## Beispiel
 
@@ -173,26 +173,26 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Ergebnis:** Die Kündigung dürfte sozial ungerechtfertigt sein, weil die Sozialauswahl fehlerhaft erscheint.
 
 **Bewertung:**
-*1. Geltungsbereich KSchG:* Die Wartezeit von 6 Monaten (§ 1 Abs. 1 KSchG) ist mit 8 Jahren erfüllt. Die Betriebsgröße von 85 Arbeitnehmern überschreitet den Schwellenwert des § 23 Abs. 1 KSchG. Das KSchG ist anwendbar.
+*1. Geltungsbereich KSchG:* Die Wartezeit von 6 Monaten (Paragraf 1 Abs. 1 KSchG) ist mit 8 Jahren erfüllt. Die Betriebsgröße von 85 Arbeitnehmern überschreitet den Schwellenwert des Paragraf 23 Abs. 1 KSchG. Das KSchG ist anwendbar.
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**Klagefrist:** Die 3-Wochen-Frist nach § 4 KSchG läuft bis zum 06.05.2025. Klage ist sofort einzureichen.
+**Klagefrist:** Die 3-Wochen-Frist nach Paragraf 4 KSchG läuft bis zum 06.05.2025. Klage ist sofort einzureichen.
 
 ## Risiken und typische Fehler
 
 | Risiko | Konsequenz | Gegenmittel |
 |---|---|---|
-| Fristversäumung § 4 KSchG | § 7 KSchG: Kündigung gilt als wirksam | Sofortprüfung Zugangsdatum; Klage vor Fristablauf einreichen |
+| Fristversäumung Paragraf 4 KSchG | Paragraf 7 KSchG: Kündigung gilt als wirksam | Sofortprüfung Zugangsdatum; Klage vor Fristablauf einreichen |
 | Kein Hinweis auf BR-Anhörungsfehler | Einwand geht verloren | Anhörungsunterlagen immer anfordern |
-| KSchG nicht anwendbar (Kleinbetrieb) | Kein Kündigungsschutz nach § 1 KSchG | Betriebsgröße, allg. Schutz §§ 138, 242 BGB prüfen |
+| KSchG nicht anwendbar (Kleinbetrieb) | Kein Kündigungsschutz nach Paragraf 1 KSchG | Betriebsgröße, allg. Schutz Paragrafen 138, 242 BGB prüfen |
 | Fehlende Abmahnung bei verhaltensbedingter Kündigung | Unverhältnismäßigkeit → Unwirksamkeit | Abmahnungshistorie vollständig aufklären |
-| Versäumte 2-Wochen-Frist § 626 Abs. 2 BGB | Außerordentliche Kündigung unwirksam | Frist immer gesondert prüfen |
-| Mandant ohne Anwalt im Gütetermin | Schlechte Verhandlungsposition | Anwaltliche Vertretung empfehlen (Kostenrisiko §§ 12a ArbGG) |
-| Vertraulichkeit / § 203 StGB | Strafbarkeit bei unbefugter Datenweitergabe | Mandantendaten nur in zulässigen Systemen verarbeiten |
-| Berufsrechtliche Pflichten (§ 43a BRAO) | Haftungs- und Berufsrechtsrisiko | Fristenkontrolle, Dokumentation, Belehrungspflichten |
+| Versäumte 2-Wochen-Frist Paragraf 626 Abs. 2 BGB | Außerordentliche Kündigung unwirksam | Frist immer gesondert prüfen |
+| Mandant ohne Anwalt im Gütetermin | Schlechte Verhandlungsposition | Anwaltliche Vertretung empfehlen (Kostenrisiko Paragrafen 12a ArbGG) |
+| Vertraulichkeit / Paragraf 203 StGB | Strafbarkeit bei unbefugter Datenweitergabe | Mandantendaten nur in zulässigen Systemen verarbeiten |
+| Berufsrechtliche Pflichten (Paragraf 43a BRAO) | Haftungs- und Berufsrechtsrisiko | Fristenkontrolle, Dokumentation, Belehrungspflichten |
 
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
@@ -207,7 +207,7 @@ Ein erstmaliges Auskunftsersuchen kann ausnahmsweise nach Art. 12 Abs. 5 S. 2 DS
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Prozessuale Koordination:**
-- Auskunftsklage nach Art. 15 DSGVO ist vor dem **Landgericht** einzuklagen (§ 44 BDSG i.V.m. Art. 79 DSGVO); das Arbeitsgericht ist nicht zuständig.
+- Auskunftsklage nach Art. 15 DSGVO ist vor dem **Landgericht** einzuklagen (Paragraf 44 BDSG i.V.m. Art. 79 DSGVO); das Arbeitsgericht ist nicht zuständig.
 - Bei parallelem KSchG-Verfahren (Arbeitsgericht) und DSGVO-Auskunftsverfahren (Landgericht) Prozesstaktik koordinieren.
 - Unberechtigte Ablehnung eines legitimen Auskunftsersuchens kann eigenständigen Schadensersatzanspruch nach Art. 82 DSGVO auslösen — auch ohne rechtswidrige Verarbeitung.
 - Frist: Art. 12 Abs. 3 DSGVO — Antwort innerhalb eines Monats ab Eingang des Ersuchens; Verzögerung muss begründet und kommuniziert werden.

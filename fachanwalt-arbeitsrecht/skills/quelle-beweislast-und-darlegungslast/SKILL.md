@@ -1,9 +1,9 @@
 ---
 name: quelle-beweislast-und-darlegungslast
-description: "Quellenregel, Beweislast und Darlegungslast im Arbeitsrecht: abgestufte Darlegungslast BAG-Linie, Normenübersicht zu Beweislastverteilungen, Umkehr nach AGG § 22, zulässige und unzulässige Fundstellen, Quellenprotokoll für Schriftsätze: Quellenregel, Bewei..."
+description: "Quellenregel, Beweislast und Darlegungslast im Arbeitsrecht: abgestufte Darlegungslast BAG-Linie, Normenübersicht zu Beweislastverteilungen, Umkehr nach AGG Paragraf 22, zulässige und unzulässige Fundstellen, Quellenprotokoll für Schriftsätze: Quellenregel, Bewei..."
 ---
 
-# Quellenregel, Beweislast und Darlegungslast im Arbeitsrecht: abgestufte Darlegungslast BAG-Linie, Normenübersicht zu Beweislastverteilungen, Umkehr nach AGG § 22, zulässige und unzulässige Fundstellen, Quellenprotokoll für Schriftsätze.
+# Quellenregel, Beweislast und Darlegungslast im Arbeitsrecht: abgestufte Darlegungslast BAG-Linie, Normenübersicht zu Beweislastverteilungen, Umkehr nach AGG Paragraf 22, zulässige und unzulässige Fundstellen, Quellenprotokoll für Schriftsätze.
 
 
 ## Arbeitsweg
@@ -14,14 +14,14 @@ description: "Quellenregel, Beweislast und Darlegungslast im Arbeitsrecht: abges
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Quellenregel, Beweislast und Darlegungslast im Arbeitsrecht: abgestufte Darlegungslast BAG-Linie, Normenübersicht zu Beweislastverteilungen, Umkehr nach AGG § 22, zulässige und unzulässige Fundstellen, Quellenprotokoll für Schriftsätze.
+**Fokus:** Quellenregel, Beweislast und Darlegungslast im Arbeitsrecht: abgestufte Darlegungslast BAG-Linie, Normenübersicht zu Beweislastverteilungen, Umkehr nach AGG Paragraf 22, zulässige und unzulässige Fundstellen, Quellenprotokoll für Schriftsätze.
 
 ### Spezial: Quelle, Beweislast und Darlegungslast
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Quelle, Beweislast und Darlegungslast` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -41,7 +41,7 @@ Jede Partei, die eine für sie günstige Rechtsfolge geltend macht, hat die Vora
 
 Darlegen = substantiierter Tatsachenvortrag so, dass das Gericht den behaupteten Sachverhalt als möglicherweise zutreffend betrachten kann.
 
-Beweisen = Überzeugung des Gerichts von der Richtigkeit der behaupteten Tatsache (§ 286 ZPO: volle Überzeugung).
+Beweisen = Überzeugung des Gerichts von der Richtigkeit der behaupteten Tatsache (Paragraf 286 ZPO: volle Überzeugung).
 
 ### Abgestufte Darlegungslast (BAG-Linie)
 Das BAG hat eine abgestufte Darlegungslast für viele arbeitsrechtliche Konstellationen entwickelt:
@@ -59,19 +59,19 @@ Das BAG hat eine abgestufte Darlegungslast für viele arbeitsrechtliche Konstell
 
 | Frage | Beweislastträger | Norm |
 |---|---|---|
-| Zugang der Kündigung | Arbeitgeber | § 130 BGB |
-| Schriftform der Kündigung | Arbeitgeber | § 623 BGB |
-| Klagefrist gewahrt | Arbeitnehmer | § 4 KSchG |
-| KSchG-Anwendbarkeit (Betriebsgröße) | Arbeitgeber (nach Bestreiten) | § 23 KSchG |
-| Kündigungsgrund betriebsbedingt | Arbeitgeber | § 1 Abs. 2 KSchG |
-| Sozialauswahl korrekt | Arbeitgeber (nach Rüge) | § 1 Abs. 3 KSchG |
-| BR-Anhörung ordnungsgemäß | Arbeitgeber | § 102 BetrVG |
-| Sonderkündigungsschutz (Vorliegen) | Arbeitnehmer | §§ 17 MuSchG, 18 BEEG etc. |
-| Diskriminierungsindizien | Arbeitnehmer (Glaubhaftmachung) | § 22 AGG |
-| Keine Diskriminierung | Arbeitgeber (nach Indizienvortrag) | § 22 AGG |
-| Sachgrund Befristung | Arbeitgeber | § 14 Abs. 1 TzBfG |
-| Massenentlassung korrekt angezeigt | Arbeitgeber | § 17 KSchG |
-| Vollmacht des Kündigenden | Arbeitgeber (bei Rüge) | § 174 BGB |
+| Zugang der Kündigung | Arbeitgeber | Paragraf 130 BGB |
+| Schriftform der Kündigung | Arbeitgeber | Paragraf 623 BGB |
+| Klagefrist gewahrt | Arbeitnehmer | Paragraf 4 KSchG |
+| KSchG-Anwendbarkeit (Betriebsgröße) | Arbeitgeber (nach Bestreiten) | Paragraf 23 KSchG |
+| Kündigungsgrund betriebsbedingt | Arbeitgeber | Paragraf 1 Abs. 2 KSchG |
+| Sozialauswahl korrekt | Arbeitgeber (nach Rüge) | Paragraf 1 Abs. 3 KSchG |
+| BR-Anhörung ordnungsgemäß | Arbeitgeber | Paragraf 102 BetrVG |
+| Sonderkündigungsschutz (Vorliegen) | Arbeitnehmer | Paragrafen 17 MuSchG, 18 BEEG etc. |
+| Diskriminierungsindizien | Arbeitnehmer (Glaubhaftmachung) | Paragraf 22 AGG |
+| Keine Diskriminierung | Arbeitgeber (nach Indizienvortrag) | Paragraf 22 AGG |
+| Sachgrund Befristung | Arbeitgeber | Paragraf 14 Abs. 1 TzBfG |
+| Massenentlassung korrekt angezeigt | Arbeitgeber | Paragraf 17 KSchG |
+| Vollmacht des Kündigenden | Arbeitgeber (bei Rüge) | Paragraf 174 BGB |
 
 ## Quellenregel für Schriftsätze
 
@@ -81,7 +81,7 @@ Das BAG hat eine abgestufte Darlegungslast für viele arbeitsrechtliche Konstell
 - [gesetze-im-internet.de](https://www.gesetze-im-internet.de) für deutsches Bundesrecht
 - [eur-lex.europa.eu](https://eur-lex.europa.eu) für EU-Recht
 - [bverfg.de](https://www.bverfg.de) für BVerfG-Normprüfung
-- **Format:** „§ [Nummer] [Gesetz] in der Fassung vom [Datum]"
+- **Format:** „Paragraf [Nummer] [Gesetz] in der Fassung vom [Datum]"
 
 **Stufe 2 — Rechtsprechung (nur mit Verifikation):**
 - [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de) für BAG
@@ -106,7 +106,7 @@ Das BAG hat eine abgestufte Darlegungslast für viele arbeitsrechtliche Konstell
 QUELLENPROTOKOLL — [Schriftsatz/Memo/Brief vom Datum]
 
 Normzitate:
-1. § [Norm] [Gesetz] — geprüft auf gesetze-im-internet.de, Stand [Datum]
+1. Paragraf [Norm] [Gesetz] — geprüft auf gesetze-im-internet.de, Stand [Datum]
 2. ...
 
 Rechtsprechung:

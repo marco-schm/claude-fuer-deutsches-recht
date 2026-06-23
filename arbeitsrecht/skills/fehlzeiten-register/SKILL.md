@@ -20,8 +20,8 @@ description: "Überprüft offene Abwesenheiten und Fristen – Urlaubsanspruch (
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `/arbeitsrecht:fehlzeiten-register` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -40,29 +40,29 @@ Falls HRIS verbunden: Abwesenheitsdaten abrufen. Falls nicht: `urlaubsregister.y
 ### 2. Fristen-Check für jede offene Abwesenheit
 
 **A – Urlaub (BUrlG):**
-- Gesetzlicher Mindesturlaub: 20 Werktage (§ 3 Abs. 1 BUrlG bei 5-Tage-Woche) bzw. 24 Werktage (§ 3 Abs. 1 BUrlG bei 6-Tage-Woche)
+- Gesetzlicher Mindesturlaub: 20 Werktage (Paragraf 3 Abs. 1 BUrlG bei 5-Tage-Woche) bzw. 24 Werktage (Paragraf 3 Abs. 1 BUrlG bei 6-Tage-Woche)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **Wartefrist:** Voller Urlaubsanspruch erst nach 6-monatigem Bestehen (§ 4 BUrlG); vorher anteiliger Anspruch (§ 5 BUrlG)
-- **Urlaubsabgeltung** bei Beendigung des Arbeitsverhältnisses (§ 7 Abs. 4 BUrlG); steuer- und sozialversicherungspflichtig
+- **Wartefrist:** Voller Urlaubsanspruch erst nach 6-monatigem Bestehen (Paragraf 4 BUrlG); vorher anteiliger Anspruch (Paragraf 5 BUrlG)
+- **Urlaubsabgeltung** bei Beendigung des Arbeitsverhältnisses (Paragraf 7 Abs. 4 BUrlG); steuer- und sozialversicherungspflichtig
 
 **B – Entgeltfortzahlung (EFZG):**
-- 6-Wochen-Frist pro Erkrankung (§ 3 Abs. 1 EFZG)
-- **Beginn neuer Anspruch bei gleicher Krankheit:** Erst nach 6-monatiger Unterbrechung oder 12-Monats-Zeitraum seit letzter AU (§ 3 Abs. 1 S. 2 EFZG)
+- 6-Wochen-Frist pro Erkrankung (Paragraf 3 Abs. 1 EFZG)
+- **Beginn neuer Anspruch bei gleicher Krankheit:** Erst nach 6-monatiger Unterbrechung oder 12-Monats-Zeitraum seit letzter AU (Paragraf 3 Abs. 1 S. 2 EFZG)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **Wiedereingliederung (stufenweise):** § 74 SGB V, § 28 SGB IX; Anspruch auf Zustimmung zur stufenweisen Wiedereingliederung
+- **Wiedereingliederung (stufenweise):** Paragraf 74 SGB V, Paragraf 28 SGB IX; Anspruch auf Zustimmung zur stufenweisen Wiedereingliederung
 
 **C – Mutterschutz (MuSchG):**
-- **Beschäftigungsverbote** (§§ 3–6 MuSchG): 6 Wochen vor dem errechneten Entbindungstermin (§ 3 MuSchG), 8 Wochen nach der Entbindung (§ 3 Abs. 2 MuSchG; bei Frühgeburten: 12 Wochen)
-- **Kündigungsschutz** (§ 17 MuSchG): Während Schwangerschaft bis 4 Monate nach Entbindung; Ausnahme nur mit behördlicher Genehmigung
-- **Mutterschaftsgeld:** Kassenleistung; Arbeitgeberanteil über Arbeitgeberzuschuss (§ 20 MuSchG)
-- **Fristen im Tracker:** Errechneter Entbindungstermin → Fristberechnung Schutzfrist-Ende; Mitteilungspflicht Arbeitnehmer § 15 MuSchG
+- **Beschäftigungsverbote** (Paragrafen 3–6 MuSchG): 6 Wochen vor dem errechneten Entbindungstermin (Paragraf 3 MuSchG), 8 Wochen nach der Entbindung (Paragraf 3 Abs. 2 MuSchG; bei Frühgeburten: 12 Wochen)
+- **Kündigungsschutz** (Paragraf 17 MuSchG): Während Schwangerschaft bis 4 Monate nach Entbindung; Ausnahme nur mit behördlicher Genehmigung
+- **Mutterschaftsgeld:** Kassenleistung; Arbeitgeberanteil über Arbeitgeberzuschuss (Paragraf 20 MuSchG)
+- **Fristen im Tracker:** Errechneter Entbindungstermin → Fristberechnung Schutzfrist-Ende; Mitteilungspflicht Arbeitnehmer Paragraf 15 MuSchG
 
 **D – Elternzeit (BEEG):**
-- Anspruch bis 3 Jahre je Kind (§ 15 Abs. 2 BEEG); 24 Monate zwischen 3. und 8. Geburtstag
-- **Anmeldefrist:** 7 Wochen vor Beginn (§ 16 Abs. 1 BEEG); bei Elternzeit ab Geburt: 7 Wochen vor Beginn; kann nicht rückwirkend genommen werden
-- **Kündigungsschutz** (§ 18 BEEG): Ab Anmeldung der Elternzeit bis zum Ende; Ausnahme § 18 Abs. 1 S. 2 BEEG (besondere Fälle)
-- **Teilzeit in Elternzeit** (§ 15 Abs. 6–7 BEEG): Bis 30 h/Woche; Arbeitgeber kann nur bei dringenden betrieblichen Gründen ablehnen
-- **Elterngeld:** BEEG §§ 1–13 – keine arbeitsrechtliche Pflicht des Arbeitgebers, aber Informationspflicht
+- Anspruch bis 3 Jahre je Kind (Paragraf 15 Abs. 2 BEEG); 24 Monate zwischen 3. und 8. Geburtstag
+- **Anmeldefrist:** 7 Wochen vor Beginn (Paragraf 16 Abs. 1 BEEG); bei Elternzeit ab Geburt: 7 Wochen vor Beginn; kann nicht rückwirkend genommen werden
+- **Kündigungsschutz** (Paragraf 18 BEEG): Ab Anmeldung der Elternzeit bis zum Ende; Ausnahme Paragraf 18 Abs. 1 S. 2 BEEG (besondere Fälle)
+- **Teilzeit in Elternzeit** (Paragraf 15 Abs. 6–7 BEEG): Bis 30 h/Woche; Arbeitgeber kann nur bei dringenden betrieblichen Gründen ablehnen
+- **Elterngeld:** BEEG Paragrafen 1–13 – keine arbeitsrechtliche Pflicht des Arbeitgebers, aber Informationspflicht
 
 ### 3. Alerts nur bei Handlungsbedarf
 
@@ -96,12 +96,12 @@ Aktive Abwesenheiten: 8 gesamt | Handlungsbedarf: 2
 
 🟠 ZEITNAH HANDELN
  MA-0047 (Projektmanagerin) – Elternzeit-Anmeldung – Frist: 03.02.2025
- → Elternzeitanmeldung mit 7-Wochen-Frist (§ 16 Abs. 1 BEEG) liegt noch nicht vor.
+ → Elternzeitanmeldung mit 7-Wochen-Frist (Paragraf 16 Abs. 1 BEEG) liegt noch nicht vor.
  Bitte Mitarbeiterin erinnern und Antrag schriftlich bestätigen.
 
 🟡 AUF DEM RADAR
  MA-0031 (Vertrieb) – EFZG-Erschöpfung (gleiche Erkrankung) – 05.03.2025
- → 6. Krankheitswoche bei derselben Erkrankung. BEM prüfen (§ 167 Abs. 2 SGB IX).
+ → 6. Krankheitswoche bei derselben Erkrankung. BEM prüfen (Paragraf 167 Abs. 2 SGB IX).
  EFZG-Anspruch erschöpft sich am 05.03.2025.
 
 🟢 Unauffällig (6 Fälle) – keine Handlung erforderlich.
@@ -112,4 +112,4 @@ Aktive Abwesenheiten: 8 gesamt | Handlungsbedarf: 2
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **BEEG-Anmeldefrist verpasst** – Elternzeit kann nicht rückwirkend genommen werden; späteste Anmeldung 7 Wochen vor Beginn.
 - **BEM-Pflicht vor Kündigung** – ohne BEM erhöhte Darlegungslast des Arbeitgebers bei krankheitsbedingter Kündigung.
-- **Mutterschutzfristen falsch berechnet** – bei Mehrlingsbirth oder Frühgeburt gelten abweichende Schutzfristen (§ 3 Abs. 2 S. 2 MuSchG: 12 Wochen statt 8 Wochen).
+- **Mutterschutzfristen falsch berechnet** – bei Mehrlingsbirth oder Frühgeburt gelten abweichende Schutzfristen (Paragraf 3 Abs. 2 S. 2 MuSchG: 12 Wochen statt 8 Wochen).

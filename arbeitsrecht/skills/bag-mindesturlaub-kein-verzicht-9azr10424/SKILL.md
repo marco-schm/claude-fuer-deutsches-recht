@@ -20,8 +20,8 @@ description: "Bag Mindesturlaub Kein Verzicht 9azr10424: ordnet Normen, Nutzeran
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsprechung live prüfen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -32,8 +32,8 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 
 ## Leitentscheidung
 
-- BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (Kein wirksamer Verzicht auf den gesetzlichen Mindesturlaub im laufenden Arbeitsverhaeltnis durch Prozessvergleich; § 13 Abs. 1 Satz 3 BUrlG i.V.m. RL 2003/88/EG).
-- Tragende Aussage: Eine Vereinbarung in einem gerichtlichen Vergleich, wonach der gesetzliche Mindesturlaub "in natura gewaehrt" gilt, ist nichtig, soweit der Arbeitnehmer den Urlaub waehrend des laufenden Arbeitsverhaeltnisses (insbesondere bei Arbeitsunfaehigkeit) nicht tatsaechlich nehmen kann. Erst mit Beendigung des Arbeitsverhaeltnisses entsteht der Urlaubsabgeltungsanspruch nach § 7 Abs. 4 BUrlG und ist dann grundsätzlich dispositiv.
+- BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (Kein wirksamer Verzicht auf den gesetzlichen Mindesturlaub im laufenden Arbeitsverhaeltnis durch Prozessvergleich; Paragraf 13 Abs. 1 Satz 3 BUrlG i.V.m. RL 2003/88/EG).
+- Tragende Aussage: Eine Vereinbarung in einem gerichtlichen Vergleich, wonach der gesetzliche Mindesturlaub "in natura gewaehrt" gilt, ist nichtig, soweit der Arbeitnehmer den Urlaub waehrend des laufenden Arbeitsverhaeltnisses (insbesondere bei Arbeitsunfaehigkeit) nicht tatsaechlich nehmen kann. Erst mit Beendigung des Arbeitsverhaeltnisses entsteht der Urlaubsabgeltungsanspruch nach Paragraf 7 Abs. 4 BUrlG und ist dann grundsätzlich dispositiv.
 - Offene Quelle: dejure.org, Vernetzung BAG 03.06.2025 - 9 AZR 104/24; BAG-Pressemitteilung "Kein Urlaubsverzicht durch Prozessvergleich".
 - Vorinstanz: LAG (laut Drittberichten, Verifizierung in dejure-Vernetzung sinnvoll).
 

@@ -20,8 +20,8 @@ description: "Bag Equal Pay Paarvergleich 8azr30024: ordnet Normen, Nutzerangabe
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsprechung live prüfen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -32,7 +32,7 @@ Dieser Skill ist ein Live-Research-für Equal-Pay-Fälle mit Paarvergleich. Er d
 
 ## Leitentscheidung
 
-- BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Paarvergleich bei Entgeltdiskriminierung; Vorinstanz LAG Baden-Württemberg). Tragende Aussage: Es genügt, dass die Klägerin substantiiert darlegt, dass ein einzelner Kollege des anderen Geschlechts für gleiche oder gleichwertige Arbeit eine hoehere Vergütung erhaelt, um die Vermutung der geschlechtsbezogenen Entgeltdiskriminierung (§ 22 AGG) auszuloesen; auf Mediane oder Vergleichsgruppengroessen kommt es nicht an. Selbst der bestverdienende maennliche Kollege kann als Vergleichsperson herangezogen werden.
+- BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Paarvergleich bei Entgeltdiskriminierung; Vorinstanz LAG Baden-Württemberg). Tragende Aussage: Es genügt, dass die Klägerin substantiiert darlegt, dass ein einzelner Kollege des anderen Geschlechts für gleiche oder gleichwertige Arbeit eine hoehere Vergütung erhaelt, um die Vermutung der geschlechtsbezogenen Entgeltdiskriminierung (Paragraf 22 AGG) auszuloesen; auf Mediane oder Vergleichsgruppengroessen kommt es nicht an. Selbst der bestverdienende maennliche Kollege kann als Vergleichsperson herangezogen werden.
 - Offene Quelle: dejure.org, Vernetzung BAG 23.10.2025 - 8 AZR 300/24; Pressemitteilung BAG (Entscheidungen Online).
 - Status: Volltextveroeffentlichung gemäß Aussagen Drittquellen noch ausstehend - bei Schriftsatz vor Versand prüfen, ob Volltext inzwischen verfuegbar ist.
 
@@ -55,7 +55,7 @@ Für Arbeitnehmerinnen bedeutet die Entscheidung: Der Auskunftsanspruch nach Par
 
 ## Argumentationslinie im Schriftsatz
 
-Tragender Punkt: Nach BAG 23.10.2025 - 8 AZR 300/24 genuegt ein Paarvergleich mit einem einzigen Kollegen des anderen Geschlechts, um die Vermutung des § 22 AGG auszuloesen. Mediane, Durchschnittsbetrachtungen oder Verhandlungsgeschick rechtfertigen die Differenz nicht pauschal. Der Arbeitgeber muss konkret und nachvollziehbar geschlechtsneutrale, objektive Gruende für die konkrete Differenz darlegen und beweisen.
+Tragender Punkt: Nach BAG 23.10.2025 - 8 AZR 300/24 genuegt ein Paarvergleich mit einem einzigen Kollegen des anderen Geschlechts, um die Vermutung des Paragraf 22 AGG auszuloesen. Mediane, Durchschnittsbetrachtungen oder Verhandlungsgeschick rechtfertigen die Differenz nicht pauschal. Der Arbeitgeber muss konkret und nachvollziehbar geschlechtsneutrale, objektive Gruende für die konkrete Differenz darlegen und beweisen.
 
 ## Typische Arbeitgeber-Einwände und Reaktion
 

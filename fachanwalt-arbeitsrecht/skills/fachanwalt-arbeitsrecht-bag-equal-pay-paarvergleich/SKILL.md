@@ -17,7 +17,7 @@ description: "Workflow-Skill zu fachanwalt arbeitsrecht bag equal pay paarvergle
 
 Leitentscheidung: BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Anspruch auf Entgeltdifferenz wegen Geschlechtsdiskriminierung - Paarvergleich).
 
-Tragende Aussage: Zur Begruendung der Vermutung einer geschlechtsbezogenen Entgeltdiskriminierung (§ 22 AGG) genuegt der Paarvergleich mit einer einzelnen Person des anderen Geschlechts, die fuer gleiche oder gleichwertige Arbeit ein hoeheres Entgelt erhaelt. Auf Mediane, Vergleichsgruppengroessen oder Durchschnittsbetrachtungen kommt es nicht an. Auch der bestverdienende maennliche Kollege kann als Vergleichsperson herangezogen werden.
+Tragende Aussage: Zur Begruendung der Vermutung einer geschlechtsbezogenen Entgeltdiskriminierung (Paragraf 22 AGG) genuegt der Paarvergleich mit einer einzelnen Person des anderen Geschlechts, die fuer gleiche oder gleichwertige Arbeit ein hoeheres Entgelt erhaelt. Auf Mediane, Vergleichsgruppengroessen oder Durchschnittsbetrachtungen kommt es nicht an. Auch der bestverdienende maennliche Kollege kann als Vergleichsperson herangezogen werden.
 
 Offene Quelle: dejure.org, Vernetzung BAG 23.10.2025 - 8 AZR 300/24; BAG-Pressemitteilung (Entscheidungen Online). Vorinstanz: LAG Baden-Wuerttemberg. Status: Bei Volltextverwendung im Schriftsatz vorher Volltext-Verfuegbarkeit pruefen.
 
@@ -84,7 +84,7 @@ Praxishinweis Direktwirkung: Eine unmittelbare Anwendbarkeit der Richtlinie komm
 Folgerungen fuer die Beratung:
 
 - Bei Mandanten gegen oeffentliche Arbeitgeber (Bund, Laender, Kommunen, Anstalten und Koerperschaften des oeffentlichen Rechts) kann ab dem 08.06.2026 unmittelbar auf die hinreichend bestimmten Pflichten der Richtlinie 2023/970 (insb. Art. 5, Art. 7) gestuetzt werden, falls bis dahin keine fristgemaesse Umsetzung erfolgt ist.
-- Bei privaten Arbeitgebern ist Anspruchsgrundlage weiterhin das EntgTranspG bzw. § 611a BGB i.V.m. Art. 157 AEUV; die Richtlinie wirkt nur mittelbar ueber die Pflicht zur richtlinienkonformen Auslegung (EuGH, Urt. v. 13.11.1990 – C-106/89, Marleasing). Das Argumentationspotenzial liegt darin, unbestimmte Rechtsbegriffe des EntgTranspG (z. B. "gleichwertige Arbeit", Auskunftsumfang) im Lichte von Art. 4 und Art. 7 der Richtlinie aufzuladen.
+- Bei privaten Arbeitgebern ist Anspruchsgrundlage weiterhin das EntgTranspG bzw. Paragraf 611a BGB i.V.m. Art. 157 AEUV; die Richtlinie wirkt nur mittelbar ueber die Pflicht zur richtlinienkonformen Auslegung (EuGH, Urt. v. 13.11.1990 – C-106/89, Marleasing). Das Argumentationspotenzial liegt darin, unbestimmte Rechtsbegriffe des EntgTranspG (z. B. "gleichwertige Arbeit", Auskunftsumfang) im Lichte von Art. 4 und Art. 7 der Richtlinie aufzuladen.
 - Etwaige Staatshaftungsansprueche bei Nichtumsetzung gegen die Bundesrepublik bleiben unberuehrt (EuGH, Urt. v. 19.11.1991 – C-6/90 und C-9/90, Francovich).
 
 Quelle: https://eur-lex.europa.eu/eli/dir/2023/970/oj
@@ -92,11 +92,11 @@ Quelle: https://eur-lex.europa.eu/eli/dir/2023/970/oj
 ## Paragrafenkette
 
 - Art. 157 AEUV — Gleiches Entgelt für gleiche Arbeit
-- § 3 EntgTranspG — Verbot unmittelbarer Entgeltbenachteiligung
-- § 7 EntgTranspG — Anspruch auf gleiches Entgelt
-- § 10 EntgTranspG — Auskunftsanspruch
-- § 15 AGG — Entschädigung (Frist zwei Monate)
-- § 22 AGG — Beweislastverteilung
+- Paragraf 3 EntgTranspG — Verbot unmittelbarer Entgeltbenachteiligung
+- Paragraf 7 EntgTranspG — Anspruch auf gleiches Entgelt
+- Paragraf 10 EntgTranspG — Auskunftsanspruch
+- Paragraf 15 AGG — Entschädigung (Frist zwei Monate)
+- Paragraf 22 AGG — Beweislastverteilung
 
 ## Quellenregel
 

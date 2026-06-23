@@ -20,8 +20,8 @@ description: "Berufung beim Landesarbeitsgericht und Revision beim BAG: Fristen 
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Berufung und Revision: LAG und BAG` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -30,19 +30,19 @@ description: "Berufung beim Landesarbeitsgericht und Revision beim BAG: Fristen 
 
 1. Wann wurde das Urteil zugestellt? (Berufungsfrist: 1 Monat ab Zustellung)
 2. Was ist der Berufungsbeschwerdewert? (> 600 EUR oder Kündigung? → Berufung statthaft)
-3. Ist ein Anwalt bereits mandatiert? (Anwaltszwang ab LAG zwingend, § 11 Abs. 4 ArbGG)
+3. Ist ein Anwalt bereits mandatiert? (Anwaltszwang ab LAG zwingend, Paragraf 11 Abs. 4 ArbGG)
 4. Welche Fehler hat das Erstgericht gemacht? → Schwerpunkt der Berufungsbegründung festlegen
 5. Lohnt sich die Berufung wirtschaftlich? (Kostenrisiko ab zweiter Instanz!)
 
 ## Zentrale Normen
 
-- § 64 ArbGG — Berufung beim LAG; Statthaftigkeit und Beschwerdewert
-- § 66 ArbGG — Berufungs- und Begründungsfristen (je 1 Monat/2 Monate)
-- § 11 Abs. 4 ArbGG — Anwaltszwang ab zweiter Instanz (LAG)
-- § 72 ArbGG — Revisionszulassung und Zulassungsgründe
-- § 72a ArbGG — Nichtzulassungsbeschwerde
-- § 74 ArbGG — Revisionsfristen (1 Monat/2 Monate)
-- § 12a ArbGG — Keine Kostenerstattung erste Instanz; ab LAG gilt ZPO-Kostenrecht
+- Paragraf 64 ArbGG — Berufung beim LAG; Statthaftigkeit und Beschwerdewert
+- Paragraf 66 ArbGG — Berufungs- und Begründungsfristen (je 1 Monat/2 Monate)
+- Paragraf 11 Abs. 4 ArbGG — Anwaltszwang ab zweiter Instanz (LAG)
+- Paragraf 72 ArbGG — Revisionszulassung und Zulassungsgründe
+- Paragraf 72a ArbGG — Nichtzulassungsbeschwerde
+- Paragraf 74 ArbGG — Revisionsfristen (1 Monat/2 Monate)
+- Paragraf 12a ArbGG — Keine Kostenerstattung erste Instanz; ab LAG gilt ZPO-Kostenrecht
 
 ## Aktuelle Rechtsprechung
 
@@ -52,12 +52,12 @@ description: "Berufung beim Landesarbeitsgericht und Revision beim BAG: Fristen 
 
 ### Voraussetzungen der Berufung
 
-Gegen Urteile des Arbeitsgerichts kann Berufung beim zuständigen Landesarbeitsgericht eingelegt werden (§ 64 ArbGG).
+Gegen Urteile des Arbeitsgerichts kann Berufung beim zuständigen Landesarbeitsgericht eingelegt werden (Paragraf 64 ArbGG).
 
 **Zulässigkeit der Berufung:**
-- Statthaft, wenn der Beschwerdewert 600 EUR übersteigt (§ 64 Abs. 2 lit. b ArbGG) **oder**
-- Das Arbeitsgericht die Berufung ausdrücklich zugelassen hat (§ 64 Abs. 2 lit. a ArbGG) **oder**
-- Streit über Kündigung nach §§ 4, 7 KSchG (Berufung immer statthaft, § 64 Abs. 2 lit. c ArbGG)
+- Statthaft, wenn der Beschwerdewert 600 EUR übersteigt (Paragraf 64 Abs. 2 lit. b ArbGG) **oder**
+- Das Arbeitsgericht die Berufung ausdrücklich zugelassen hat (Paragraf 64 Abs. 2 lit. a ArbGG) **oder**
+- Streit über Kündigung nach Paragrafen 4, 7 KSchG (Berufung immer statthaft, Paragraf 64 Abs. 2 lit. c ArbGG)
 
 ### Fristen (Berufung) — AUSSCHLUSSFRISTEN
 
@@ -66,15 +66,15 @@ Gegen Urteile des Arbeitsgerichts kann Berufung beim zuständigen Landesarbeitsg
 | Berufungsfrist | 1 Monat | Zustellung des Urteils |
 | Berufungsbegründungsfrist | 2 Monate | Zustellung des Urteils |
 
-**Wichtig:** Beide Fristen sind Ausschlussfristen — keine Verlängerung nach Ablauf, keine Wiedereinsetzung (außer bei unverschuldetem Hindernis nach § 233 ZPO).
+**Wichtig:** Beide Fristen sind Ausschlussfristen — keine Verlängerung nach Ablauf, keine Wiedereinsetzung (außer bei unverschuldetem Hindernis nach Paragraf 233 ZPO).
 
 ### Anwaltszwang ab Berufung
 
-Ab der zweiten Instanz (LAG) besteht **Anwaltszwang** (§ 11 Abs. 4 ArbGG). Ohne Anwalt ist die Berufung unzulässig.
+Ab der zweiten Instanz (LAG) besteht **Anwaltszwang** (Paragraf 11 Abs. 4 ArbGG). Ohne Anwalt ist die Berufung unzulässig.
 
 ### Berufungsbegründung — Anforderungen
 
-Die Berufungsbegründung (§ 64 Abs. 6 ArbGG i.V.m. § 520 Abs. 3 ZPO) muss:
+Die Berufungsbegründung (Paragraf 64 Abs. 6 ArbGG i.V.m. Paragraf 520 Abs. 3 ZPO) muss:
 - Auf den konkreten Fall zugeschnitten sein
 - Die Angriffe gegen die erstinstanzliche Begründung konkret benennen
 - Entweder die unrichtige Anwendung einer Rechtsnorm oder konkrete unrichtige Tatsachenfeststellungen rügen
@@ -91,9 +91,9 @@ Ab dem LAG gilt das normale ZPO-Kostenrecht — die unterlegene Partei trägt di
 
 ### Zulassung der Revision
 
-Die Revision zum Bundesarbeitsgericht (BAG) ist nur statthaft, wenn sie das LAG ausdrücklich zugelassen hat (§ 72 ArbGG) oder die Nichtzulassungsbeschwerde erfolgreich ist.
+Die Revision zum Bundesarbeitsgericht (BAG) ist nur statthaft, wenn sie das LAG ausdrücklich zugelassen hat (Paragraf 72 ArbGG) oder die Nichtzulassungsbeschwerde erfolgreich ist.
 
-**Zulassungsgründe (§ 72 Abs. 2 ArbGG):**
+**Zulassungsgründe (Paragraf 72 Abs. 2 ArbGG):**
 
 | Grund | Anforderung |
 |---|---|
@@ -110,7 +110,7 @@ Die Revision zum Bundesarbeitsgericht (BAG) ist nur statthaft, wenn sie das LAG 
 
 ### Nichtzulassungsbeschwerde
 
-Lässt das LAG die Revision nicht zu, kann **Nichtzulassungsbeschwerde** eingelegt werden (§ 72a ArbGG) — Frist: 1 Monat ab Zustellung des Urteils. Die Beschwerde muss die Zulassungsgründe substantiiert darlegen.
+Lässt das LAG die Revision nicht zu, kann **Nichtzulassungsbeschwerde** eingelegt werden (Paragraf 72a ArbGG) — Frist: 1 Monat ab Zustellung des Urteils. Die Beschwerde muss die Zulassungsgründe substantiiert darlegen.
 
 ## Entscheidungsbaum: Welches Rechtsmittel?
 
@@ -118,16 +118,16 @@ Lässt das LAG die Revision nicht zu, kann **Nichtzulassungsbeschwerde** eingele
 Erstinstanzliches Urteil des ArbG erhalten?
 └─ Ja → Berufung prüfen:
  ├─ Beschwerdewert > 600 EUR? → Ja: Berufung statthaft
- ├─ Kündigung streitig (§ 4 KSchG)? → Ja: immer statthaft
+ ├─ Kündigung streitig (Paragraf 4 KSchG)? → Ja: immer statthaft
  └─ Arbeitsgericht hat Berufung zugelassen? → Ja: statthaft
 
  Frist läuft: 1 Monat Einlegung, 2 Monate Begründung
- Anwalt mandatieren (Anwaltszwang § 11 Abs. 4 ArbGG)!
+ Anwalt mandatieren (Anwaltszwang Paragraf 11 Abs. 4 ArbGG)!
 
 LAG-Urteil erhalten?
 └─ Revision prüfen:
- ├─ LAG hat Revision zugelassen? → § 72 ArbGG
- └─ Nein: Nichtzulassungsbeschwerde (§ 72a ArbGG) prüfen
+ ├─ LAG hat Revision zugelassen? → Paragraf 72 ArbGG
+ └─ Nein: Nichtzulassungsbeschwerde (Paragraf 72a ArbGG) prüfen
  → Grundsatz, Divergenz oder Verfahrensrüge?
  → Frist: 1 Monat ab Zustellung
 ```

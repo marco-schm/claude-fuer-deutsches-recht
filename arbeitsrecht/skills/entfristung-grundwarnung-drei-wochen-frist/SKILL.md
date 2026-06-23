@@ -1,9 +1,9 @@
 ---
 name: entfristung-grundwarnung-drei-wochen-frist
-description: "Grundwarnung Entfristungsklage: § 17 TzBfG drei Wochen ab vereinbartem Vertragsende: absolute Ausschlussfrist; § 17 Satz 2 TzBfG i.V.m. § 7 KSchG Fiktion Wirksamkeit der Be..."
+description: "Grundwarnung Entfristungsklage: Paragraf 17 TzBfG drei Wochen ab vereinbartem Vertragsende: absolute Ausschlussfrist; Paragraf 17 Satz 2 TzBfG i.V.m. Paragraf 7 KSchG Fiktion Wirksamkeit der Be..."
 ---
 
-# Grundwarnung Entfristungsklage: § 17 TzBfG drei Wochen ab vereinbartem Vertragsende
+# Grundwarnung Entfristungsklage: Paragraf 17 TzBfG drei Wochen ab vereinbartem Vertragsende
 
 
 ## Arbeitsweg
@@ -14,36 +14,36 @@ description: "Grundwarnung Entfristungsklage: § 17 TzBfG drei Wochen ab vereinb
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Grundwarnung Entfristungsklage: § 17 TzBfG drei Wochen ab vereinbartem Vertragsende; absolute Ausschlussfrist; § 17 Satz 2 TzBfG i.V.m. § 7 KSchG Fiktion Wirksamkeit der Befristung bei Fristversaeumnis; Fristberechnung; nachtraegliche Zulassung.
+**Fokus:** Grundwarnung Entfristungsklage: Paragraf 17 TzBfG drei Wochen ab vereinbartem Vertragsende; absolute Ausschlussfrist; Paragraf 17 Satz 2 TzBfG i.V.m. Paragraf 7 KSchG Fiktion Wirksamkeit der Befristung bei Fristversaeumnis; Fristberechnung; nachtraegliche Zulassung.
 
-### Grundwarnung: Dreiwochenfrist § 17 TzBfG
+### Grundwarnung: Dreiwochenfrist Paragraf 17 TzBfG
 
 ## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Grundwarnung: Dreiwochenfrist § 17 TzBfG` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Grundwarnung: Dreiwochenfrist Paragraf 17 TzBfG` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Zentrale Normen
 
-- § 17 TzBfG — Klagefrist 3 Wochen ab vereinbartem Vertragsende
-- § 7 KSchG (analog) — Fiktionswirkung bei Fristversäumnis (Befristung gilt als wirksam)
-- § 5 KSchG (analog) — Nachträgliche Zulassung bei unverschuldeter Versäumnis
-- §§ 187, 188 BGB — Fristberechnung
-- § 193 BGB — Verlängerung bei Wochenende/Feiertag
-- § 15 Abs. 5 TzBfG — Unbefristetes Arbeitsverhältnis bei Weiterbeschäftigung ohne Widerspruch
+- Paragraf 17 TzBfG — Klagefrist 3 Wochen ab vereinbartem Vertragsende
+- Paragraf 7 KSchG (analog) — Fiktionswirkung bei Fristversäumnis (Befristung gilt als wirksam)
+- Paragraf 5 KSchG (analog) — Nachträgliche Zulassung bei unverschuldeter Versäumnis
+- Paragrafen 187, 188 BGB — Fristberechnung
+- Paragraf 193 BGB — Verlängerung bei Wochenende/Feiertag
+- Paragraf 15 Abs. 5 TzBfG — Unbefristetes Arbeitsverhältnis bei Weiterbeschäftigung ohne Widerspruch
 
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Die Norm — § 17 TzBfG (vollständig)
+## Die Norm — Paragraf 17 TzBfG (vollständig)
 
 > **Satz 1:** Will der Arbeitnehmer geltend machen, dass die Befristung eines Arbeitsvertrags rechtsunwirksam ist, so muss er innerhalb von drei Wochen nach dem vereinbarten Ende des befristeten Arbeitsvertrags Klage beim Arbeitsgericht auf Feststellung erheben, dass das Arbeitsverhältnis auf Grund der Befristung nicht beendet ist.
 >
-> **Satz 2:** Die §§ 5 bis 7 des Kündigungsschutzgesetzes gelten entsprechend.
+> **Satz 2:** Die Paragrafen 5 bis 7 des Kündigungsschutzgesetzes gelten entsprechend.
 
 ## Schritt-für-Schritt-Prüfung der Frist
 
@@ -54,9 +54,9 @@ Die Frist beginnt mit dem **vereinbarten** Ende des Arbeitsvertrags (laut Vertra
 **Fristbeginn-Entscheidungsbaum:**
 ```
 Vertrag sagt: "befristet bis 31.03.2025"
-→ Fristbeginn: 01.04.2025 (§ 187 Abs. 1 BGB — Anfangstag zählt nicht)
-→ Fristende: 22.04.2025 um 24:00 Uhr (3 × 7 Tage = 21 Tage, §§ 188 Abs. 2, 187 Abs. 1 BGB)
-→ Fällt 22.04.2025 auf Samstag/Sonntag/Feiertag: nächster Werktag (§ 193 BGB)
+→ Fristbeginn: 01.04.2025 (Paragraf 187 Abs. 1 BGB — Anfangstag zählt nicht)
+→ Fristende: 22.04.2025 um 24:00 Uhr (3 × 7 Tage = 21 Tage, Paragrafen 188 Abs. 2, 187 Abs. 1 BGB)
+→ Fällt 22.04.2025 auf Samstag/Sonntag/Feiertag: nächster Werktag (Paragraf 193 BGB)
 ```
 
 **Besonderheit Weiterbeschäftigung:**
@@ -65,7 +65,7 @@ Arbeitnehmer wird nach dem 31.03.2025 noch weiterbeschäftigt → Frist läuft t
 ### Schritt 2: Fristende berechnen
 
 ```
-Fristende = Vereinbartes Vertragsende + 1 Tag (§ 187 Abs. 1 BGB) + 21 Tage
+Fristende = Vereinbartes Vertragsende + 1 Tag (Paragraf 187 Abs. 1 BGB) + 21 Tage
 
 Beispiel:
  Vereinbartes Ende: 31.03.2025
@@ -76,10 +76,10 @@ Beispiel:
 ### Schritt 3: Versäumnis feststellen?
 
 **Ist die Frist bereits abgelaufen?**
-- Ja → § 7 KSchG analog: Befristung gilt als wirksam. Nur noch nachträgliche Zulassung (§ 5 KSchG) möglich.
+- Ja → Paragraf 7 KSchG analog: Befristung gilt als wirksam. Nur noch nachträgliche Zulassung (Paragraf 5 KSchG) möglich.
 - Nein → Sofort Klage erheben (Skill: `entfristung-klageschrift-laie-baustein` oder `entfristung-klageschrift-anwalt-baustein`)
 
-### Schritt 4: Nachträgliche Zulassung prüfen (§ 5 KSchG analog)
+### Schritt 4: Nachträgliche Zulassung prüfen (Paragraf 5 KSchG analog)
 
 Falls Frist versäumt:
 - War die Versäumnis unverschuldet? (z.B. schwere Krankheit, Naturkatastrophe, fehlerhafter Behördenrat)
@@ -93,8 +93,8 @@ Falls Frist versäumt:
 Ist Frist noch nicht abgelaufen?
 ├── Ja → Klage sofort einreichen → entfristung-klageschrift-laie/anwalt-baustein
 └── Nein → War Versäumnis unverschuldet?
- ├── Ja → Antrag auf nachträgliche Zulassung (§ 5 KSchG) + Klage gleichzeitig
- └── Nein → Befristung gilt als wirksam (§ 7 KSchG) — kein Rechtsmittel mehr
+ ├── Ja → Antrag auf nachträgliche Zulassung (Paragraf 5 KSchG) + Klage gleichzeitig
+ └── Nein → Befristung gilt als wirksam (Paragraf 7 KSchG) — kein Rechtsmittel mehr
 ```
 
 ## Sofortprüfungs-Checkliste (Abfrage an Nutzer)

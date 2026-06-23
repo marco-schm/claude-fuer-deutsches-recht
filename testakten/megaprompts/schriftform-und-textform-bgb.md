@@ -1452,14 +1452,14 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 - Stand: 05/2026
 - BGB §§ 125-130 in geltender Fassung
-- TzBfG § 14 Abs. 4 in geltender Fassung. Änderung durch das Vierte Buerokratieentlastungsgesetz (BGBl. 2024 I Nr. 323 vom 29.10.2024): seit 01.01.2025 grundsätzlich Textform für Befristungsabrede, soweit kein Tarifvertrag entgegensteht.
+- TzBfG § 14 Abs. 4 in geltender Fassung: Die normale Befristungsabrede bleibt schriftformpflichtig. Papieroriginal mit eigenhändiger Unterschrift beider Parteien oder echte qES nach § 126a BGB; Textform, E-Mail, Scan und einfache elektronische Signatur reichen nicht. Die BEG-IV-Erleichterung betrifft insbesondere Altersgrenzenabreden nach § 41 Abs. 2 SGB VI und darf nicht auf § 14 TzBfG übertragen werden.
 - § 130e ZPO (eingefuehrt 17.07.2024) und § 46h ArbGG in geltender Fassung.
 - VO (EU) Nr. 910/2014 (eIDAS-VO).
 - Leitlinien Rechtsprechung 2024/2025:
  - BGH, Urt. v. 27.11.2024 – Az. VIII ZR 159/23 — qES und Zugang vor Einfuehrung § 130e ZPO. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.11.2024&Aktenzeichen=VIII+ZR+159/23
  - BGH, Urt. v. 06.03.2025 – Az. I ZR 32/24 und Az. I ZR 138/24 — Halbteilungsgrundsatz § 656c und § 656d BGB beim Maklervertrag.
  - LAG Berlin-Brandenburg, Urt. v. 16.03.2022 – Az. 23 Sa 1133/21 — eingescannte Unterschrift wahrt § 14 Abs. 4 TzBfG nicht.
- - ArbG Gera, Urt. v. 03.07.2024 – Az. 2 Ca 936/23 — DocuSign-qES wahrt § 14 Abs. 4 TzBfG.
+ - ArbG Gera, Urt. v. 07.03.2024 – Az. 2 Ca 936/23 — echte DocuSign-qES wahrt § 14 Abs. 4 TzBfG, wenn die Voraussetzungen des § 126a BGB belegt sind.
 
 ---
 
@@ -2183,7 +2183,7 @@ Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristungsabreden nach 
 
 ### Linie 3: Qualifizierte elektronische Signatur — wirksam (ArbG Gera)
 
-- ArbG Gera, Urt. v. 03.07.2024 – Az. 2 Ca 936/23 — qES per DocuSign-qES wahrt die Schriftform des § 14 Abs. 4 TzBfG; § 623 BGB greift nur für Kuendigung und Aufhebungsvertrag und sperrt die elektronische Form dort, nicht aber bei der Befristungsabrede selbst. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=ArbG+Gera&Datum=03.07.2024&Aktenzeichen=2+Ca+936/23
+- ArbG Gera, Urt. v. 07.03.2024 – Az. 2 Ca 936/23 — qES per DocuSign-qES wahrt die Schriftform des § 14 Abs. 4 TzBfG, wenn die Voraussetzungen des § 126a BGB belegt sind; § 623 BGB greift nur für Kuendigung und Aufhebungsvertrag und sperrt die elektronische Form dort, nicht aber bei der Befristungsabrede selbst. Quelle: https://landesrecht.thueringen.de/bsth/document/NJRE001572108
 - Eine über DocuSign eingesetzte qualifizierte elektronische Signatur (qES) erfüllt die Voraussetzungen des § 126a BGB.
 - Damit ist die Schriftform nach § 14 Abs. 4 TzBfG durch die elektronische Form ersetzt.
 - Die Befristungsabrede ist formwirksam.
@@ -2191,7 +2191,7 @@ Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristungsabreden nach 
 
 ### Hinweis zum Vierten Buerokratieentlastungsgesetz (BEG IV)
 
-Mit dem Vierten Buerokratieentlastungsgesetz (BGBl. 2024 I Nr. 323 vom 29.10.2024) wurde § 14 Abs. 4 TzBfG mit Wirkung ab 01.01.2025 dahin ergaenzt, dass die Befristungsabrede grundsätzlich in Textform abgeschlossen werden kann, sofern kein Tarifvertrag entgegensteht. Für das Schriftformerfordernis bei Befristungen vor 2025 sowie für Faelle, in denen das Tarifrecht weiterhin Schriftform verlangt, bleibt die qES-Rechtsprechung relevant. Quelle: https://www.gvw.com/aktuelles/blog/detail/buerokratieentlastungsgesetz-beschlossen-weg-frei-für-digitale-arbeitsvertraege
+Das Vierte Buerokratieentlastungsgesetz hat die normale Befristungsabrede nach § 14 Abs. 4 TzBfG nicht in die Textform verschoben. Textform-Erleichterungen betreffen insbesondere Altersgrenzenabreden nach § 41 Abs. 2 SGB VI. Für Befristungen nach § 14 TzBfG bleibt es bei Papieroriginal oder echter qES; Textform, E-Mail, Scan und einfache elektronische Signatur genügen nicht.
 
 ### Was bedeutet das praktisch?
 
@@ -2334,4 +2334,3 @@ Befristungsende Klage erheben (§ 17 TzBfG — Entfristungsklage).
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
-

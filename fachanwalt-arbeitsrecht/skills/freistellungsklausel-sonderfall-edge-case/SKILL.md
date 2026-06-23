@@ -20,8 +20,8 @@ description: "Freistellungsklausel im Arbeitsvertrag: BAG 5 AZR 108/25 (pauschal
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Freistellungsklausel — Sonderfall und Edge Cases` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -38,14 +38,14 @@ Wenn ein Sachverhalt mit Freistellungsklausel vorliegt, zuerst klären:
 ## BAG 5 AZR 108/25 (25.03.2026) — Paradigmenwechsel
 
 ### Kernsatz des BAG
-Das BAG hat entschieden, dass eine formularvertragliche pauschale Freistellungsklausel, die den Arbeitgeber berechtigt, den Arbeitnehmer jederzeit und ohne Angabe von Gründen freizustellen, nach § 307 Abs. 1 Satz 1 BGB unwirksam ist.
+Das BAG hat entschieden, dass eine formularvertragliche pauschale Freistellungsklausel, die den Arbeitgeber berechtigt, den Arbeitnehmer jederzeit und ohne Angabe von Gründen freizustellen, nach Paragraf 307 Abs. 1 Satz 1 BGB unwirksam ist.
 
 **Begründung:** Eine solche Klausel benachteiligt den Arbeitnehmer unangemessen, weil sie ohne sachliche Rechtfertigung in seine berufliche Entwicklung und seinen Beschäftigungsanspruch eingreift.
 
 **Quellenregel:** BAG 5 AZR 108/25, Pressemitteilung vom 25.03.2026 auf [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de); [dejure.org](https://dejure.org)-Vernetzung. Urteilstext live prüfen.
 
 ### Konsequenzen für bestehende Verträge
-- Bestehende pauschale Freistellungsklauseln sind nach § 307 Abs. 1 Satz 1 BGB unwirksam
+- Bestehende pauschale Freistellungsklauseln sind nach Paragraf 307 Abs. 1 Satz 1 BGB unwirksam
 - Unwirksamkeit der Klausel bedeutet: Arbeitgeber kann nicht mehr auf die Klausel gestützt freistellen
 - Stattdessen: Freistellung nur bei konkretem Anlasstatbestand und nach Interessenabwägung
 
@@ -74,7 +74,7 @@ Während einer bezahlten Freistellung kann Urlaub gewährt werden, wenn:
 ### BAG 9 AZR 104/24 (03.06.2025) — kein Urlaubsverzicht durch Prozessvergleich
 Das BAG hat entschieden, dass auf gesetzlichen Mindesturlaub im laufenden Arbeitsverhältnis nicht durch Prozessvergleich verzichtet werden kann. Das betrifft auch Abgeltungsklauseln in Aufhebungsverträgen, die Urlaubsabgeltung pauschal mitregeln.
 
-**Konsequenz:** Jede Abgeltungsklausel muss sicherstellen, dass der gesetzliche Mindesturlaub (§ 3 BUrlG: 24 Werktage) tatsächlich abgegolten wird — und zwar zum Zeitpunkt der Beendigung.
+**Konsequenz:** Jede Abgeltungsklausel muss sicherstellen, dass der gesetzliche Mindesturlaub (Paragraf 3 BUrlG: 24 Werktage) tatsächlich abgegolten wird — und zwar zum Zeitpunkt der Beendigung.
 
 ## Edge Cases
 
@@ -83,7 +83,7 @@ Während einer Freistellung kann der Arbeitnehmer keine Konkurrenztätigkeit auf
 
 ### Edge Case 2: Freistellung und Krankmeldung während der Freistellung
 - EFZG: Entgeltfortzahlungsanspruch bei Krankheit besteht auch während Freistellung (6 Wochen)
-- Der Urlaubsabzug für die Freistellungszeit kann bei Krankheit nicht durchgeführt werden (§ 9 BUrlG: Krankentage sind keine Urlaubstage)
+- Der Urlaubsabzug für die Freistellungszeit kann bei Krankheit nicht durchgeführt werden (Paragraf 9 BUrlG: Krankentage sind keine Urlaubstage)
 
 ### Edge Case 3: Einseitige Freistellung ohne Klausel
 Ohne wirksame Klausel oder triftigen Grund kann der Arbeitgeber nicht einseitig freistellen. Konsequenz: Weiterbeschäftigungsanspruch des Arbeitnehmers; Klage auf Beschäftigung möglich.
@@ -95,7 +95,7 @@ Bei Aufhebungsverträgen: explizite Freistellungsklausel vereinbaren; Urlaubsabr
 
 | Prüfpunkt | Ergebnis | Konsequenz |
 |---|---|---|
-| Liegt eine formularvertragliche Klausel vor? | Ja/Nein | Ja → AGB-Kontrolle § 307 BGB |
+| Liegt eine formularvertragliche Klausel vor? | Ja/Nein | Ja → AGB-Kontrolle Paragraf 307 BGB |
 | Enthält die Klausel einen Anlasstatbestand? | Ja/Nein | Nein → nach BAG 5 AZR 108/25 unwirksam |
 | Ist Vergütungsfortzahlung geregelt? | Ja/Nein | Nein → Risiko für AG |
 | Ist Urlaubsverrechnung transparent? | Ja/Nein | Nein → Urlaubsanspruch bleibt offen |

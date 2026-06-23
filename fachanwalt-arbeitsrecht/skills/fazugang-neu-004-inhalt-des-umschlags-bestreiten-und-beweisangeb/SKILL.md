@@ -20,8 +20,8 @@ description: "Bestreiten des Inhalts eines zugestellten Umschlags: zulässige Ei
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Zugang — Inhalt des Umschlags bestreiten und Beweisangebot` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -40,7 +40,7 @@ Wenn ein Sachverhalt vorliegt, zuerst klären:
 Der Arbeitgeber muss beweisen, dass das Kündigungsschreiben mit Originalunterschrift in dem zugestellten Umschlag enthalten war. Beweisaufnahme ist schwer, wenn kein Zeuge dabei war.
 
 ### Zulässigkeit des Bestreitens
-Es ist prozessual grundsätzlich zulässig, den Inhalt eines zugegangenen Umschlags zu bestreiten (§ 138 ZPO: Wahrheitspflicht gilt, aber Bestreiten ist erlaubt, solange keine eigene positive Falschangabe gemacht wird). Ein pauschales „Der Umschlag war leer" ohne jede Konkretisierung gilt jedoch als unzulässiges Bestreiten mit Nichtwissen nach § 138 Abs. 4 ZPO, da die Person weiß, was sie in dem ihr zugegangenen Umschlag vorgefunden hat.
+Es ist prozessual grundsätzlich zulässig, den Inhalt eines zugegangenen Umschlags zu bestreiten (Paragraf 138 ZPO: Wahrheitspflicht gilt, aber Bestreiten ist erlaubt, solange keine eigene positive Falschangabe gemacht wird). Ein pauschales „Der Umschlag war leer" ohne jede Konkretisierung gilt jedoch als unzulässiges Bestreiten mit Nichtwissen nach Paragraf 138 Abs. 4 ZPO, da die Person weiß, was sie in dem ihr zugegangenen Umschlag vorgefunden hat.
 
 **Grenze:** Das bewusst wahrheitswidrige Bestreiten des Inhalts kann als Urkundenfälschung oder Prozessbetrug gewertet werden, wenn der Arbeitnehmer tatsächlich die Kündigung erhalten hat. Mandanten klar über dieses Risiko aufklären.
 
@@ -56,7 +56,7 @@ Es ist prozessual grundsätzlich zulässig, den Inhalt eines zugegangenen Umschl
 - Beweismittel: Das zugestellte Dokument aufbewahren; sofort schriftlich reklamieren
 
 ### Fall 3: Umschlag enthielt Kündigung ohne Originalunterschrift
-- Kopie, Faksimile, eingescannte Unterschrift → § 623 BGB-Verstoß → Nichtigkeit
+- Kopie, Faksimile, eingescannte Unterschrift → Paragraf 623 BGB-Verstoß → Nichtigkeit
 - Beweismittel: Original aufbewahren; Mängel sofort rügen
 
 ### Fall 4: Kündigung enthielt keinen vollständigen Kündigungstext (nur Unterschrift, kein Datum etc.)

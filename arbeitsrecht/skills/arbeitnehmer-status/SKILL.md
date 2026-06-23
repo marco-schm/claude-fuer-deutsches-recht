@@ -1,9 +1,9 @@
 ---
 name: arbeitnehmer-status
-description: "Statusfeststellung für eine geplante Beschäftigung - Abgrenzung Arbeitnehmer/Selbständiger nach § 611a BGB, Scheinselbständigkeit, Clearingverfahren § 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs: Statusfeststellung für eine geplante Beschäftigung - Abgrenzu..."
+description: "Statusfeststellung für eine geplante Beschäftigung - Abgrenzung Arbeitnehmer/Selbständiger nach Paragraf 611a BGB, Scheinselbständigkeit, Clearingverfahren Paragraf 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs: Statusfeststellung für eine geplante Beschäftigung - Abgrenzu..."
 ---
 
-# Statusfeststellung für eine geplante Beschäftigung - Abgrenzung Arbeitnehmer/Selbständiger nach § 611a BGB, Scheinselbständigkeit, Clearingverfahren § 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs
+# Statusfeststellung für eine geplante Beschäftigung - Abgrenzung Arbeitnehmer/Selbständiger nach Paragraf 611a BGB, Scheinselbständigkeit, Clearingverfahren Paragraf 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs
 
 
 ## Arbeitsweg
@@ -14,21 +14,21 @@ description: "Statusfeststellung für eine geplante Beschäftigung - Abgrenzung 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Statusfeststellung für eine geplante Beschäftigung - Abgrenzung Arbeitnehmer/Selbständiger nach § 611a BGB, Scheinselbständigkeit, Clearingverfahren § 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs. Werkvertrag). Ausschließlich prospektiv - für bestehende Verhältnisse Aussenberater einschalten.
+**Fokus:** Statusfeststellung für eine geplante Beschäftigung - Abgrenzung Arbeitnehmer/Selbständiger nach Paragraf 611a BGB, Scheinselbständigkeit, Clearingverfahren Paragraf 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs. Werkvertrag). Ausschließlich prospektiv - für bestehende Verhältnisse Aussenberater einschalten.
 
 ### /arbeitsrecht:arbeitnehmer-status
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `/arbeitsrecht:arbeitnehmer-status` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Zweck
 
-Scheinselbständigkeit ist eines der teuersten Risiken im deutschen Arbeitsrecht. Nachentrichtung von Sozialversicherungsbeiträgen bis zu 4 Jahren rückwirkend (§ 25 SGB IV), Steuernachzahlungen, Bußgelder — und das Arbeitsverhältnis entsteht kraft Gesetzes (§ 10 AÜG bei unerlaubter Überlassung; ggf. § 611a BGB bei fehlerhafter Klassifizierung). Prüfe prospektiv, ob die geplante Struktur hält.
+Scheinselbständigkeit ist eines der teuersten Risiken im deutschen Arbeitsrecht. Nachentrichtung von Sozialversicherungsbeiträgen bis zu 4 Jahren rückwirkend (Paragraf 25 SGB IV), Steuernachzahlungen, Bußgelder — und das Arbeitsverhältnis entsteht kraft Gesetzes (Paragraf 10 AÜG bei unerlaubter Überlassung; ggf. Paragraf 611a BGB bei fehlerhafter Klassifizierung). Prüfe prospektiv, ob die geplante Struktur hält.
 
 ## Triage-Frage — vor der Prüfung klären
 
@@ -37,7 +37,7 @@ Bevor losgelegt wird, kläre:
 2. Handelt es sich um eine Einzelperson oder eine Gesellschaft als Auftragnehmer?
 3. Wie viele Auftraggeber hat der Auftragnehmer aktuell?
 4. Werden eigene Betriebsmittel eingesetzt?
-5. Soll ein Clearingverfahren nach § 7a SGB IV eingeleitet werden?
+5. Soll ein Clearingverfahren nach Paragraf 7a SGB IV eingeleitet werden?
 
 ## Eingaben
 
@@ -48,14 +48,14 @@ Bevor losgelegt wird, kläre:
 
 ## Zentrale Anspruchsgrundlagen & Normen
 
-- **§ 611a BGB** — Arbeitnehmereigenschaft; Gesamtbildbetrachtung; vertragliche Bezeichnung unerheblich
-- **§ 7 Abs. 1 SGB IV** — sozialversicherungsrechtlicher Beschäftigungsbegriff; Weisungsgebundenheit und Eingliederung als Anknüpfungspunkte
-- **§ 7a SGB IV** — Clearingverfahren Deutsche Rentenversicherung Bund
-- **§ 25 SGB IV** — rückwirkende Nachzahlungspflicht bis 4 Jahre (bei Vorsatz 30 Jahre)
-- **§ 28e SGB IV** — Haftung des Auftraggebers für nicht abgeführte Sozialversicherungsbeiträge
-- **§ 266a StGB** — Vorenthalten und Veruntreuen von Arbeitsentgelt; Strafbarkeit bei Vorsatz
-- **§§ 1, 10 AÜG** — Erlaubnispflicht Arbeitnehmerüberlassung; Entstehung des Arbeitsverhältnisses bei fehlender Erlaubnis kraft Gesetzes
-- **§ 1 Abs. 1b AÜG** — Höchstüberlassungsdauer 18 Monate
+- **Paragraf 611a BGB** — Arbeitnehmereigenschaft; Gesamtbildbetrachtung; vertragliche Bezeichnung unerheblich
+- **Paragraf 7 Abs. 1 SGB IV** — sozialversicherungsrechtlicher Beschäftigungsbegriff; Weisungsgebundenheit und Eingliederung als Anknüpfungspunkte
+- **Paragraf 7a SGB IV** — Clearingverfahren Deutsche Rentenversicherung Bund
+- **Paragraf 25 SGB IV** — rückwirkende Nachzahlungspflicht bis 4 Jahre (bei Vorsatz 30 Jahre)
+- **Paragraf 28e SGB IV** — Haftung des Auftraggebers für nicht abgeführte Sozialversicherungsbeiträge
+- **Paragraf 266a StGB** — Vorenthalten und Veruntreuen von Arbeitsentgelt; Strafbarkeit bei Vorsatz
+- **Paragrafen 1, 10 AÜG** — Erlaubnispflicht Arbeitnehmerüberlassung; Entstehung des Arbeitsverhältnisses bei fehlender Erlaubnis kraft Gesetzes
+- **Paragraf 1 Abs. 1b AÜG** — Höchstüberlassungsdauer 18 Monate
 
 ## Aktuelle Rechtsprechung
 
@@ -72,13 +72,13 @@ Bevor losgelegt wird, kläre:
 
 ## Ablauf
 
-### Schritt 1 – Arbeitnehmereigenschaft (§ 611a BGB)
+### Schritt 1 – Arbeitnehmereigenschaft (Paragraf 611a BGB)
 
-Seit 01.04.2017 kodifiziert (§ 611a BGB):
+Seit 01.04.2017 kodifiziert (Paragraf 611a BGB):
 
 **Arbeitnehmer** ist, wer aufgrund eines privatrechtlichen Vertrags **im Dienste eines anderen** zu **weisungsgebundener, fremdbestimmter Arbeit** verpflichtet ist. Maßgeblich ist das Gesamtbild; kein einzelnes Merkmal ist allein entscheidend.
 
-**Weisungsgebundenheit** (§ 611a Abs. 1 S. 2 BGB):
+**Weisungsgebundenheit** (Paragraf 611a Abs. 1 S. 2 BGB):
 - Inhalt, Durchführung, Zeit, Dauer oder Ort der Tätigkeit
 - In den Betrieb eingegliedert?
 - Eigene unternehmerische Entscheidungsfreiheit? (eigene Betriebsmittel, eigenes unternehmerisches Risiko)
@@ -100,28 +100,28 @@ Seit 01.04.2017 kodifiziert (§ 611a BGB):
 | Betriebsmittel werden gestellt | Eigene Haftung für Ergebnis |
 | Vergütung als festes Gehalt | Vergütung nach Projektergebnis |
 
-### Schritt 2 – Sozialversicherungsrechtliche Bewertung (§ 7 SGB IV)
+### Schritt 2 – Sozialversicherungsrechtliche Bewertung (Paragraf 7 SGB IV)
 
-Gem. § 7 Abs. 1 SGB IV ist Beschäftigung die **nichtselbständige Arbeit**, insbesondere in einem Arbeitsverhältnis. Anhaltspunkte: Weisungsgebundenheit und Eingliederung (§ 7 Abs. 1 S. 2 SGB IV). Der SV-Begriff deckt sich weitgehend mit § 611a BGB, ist aber eigenständig auszulegen.
+Gem. Paragraf 7 Abs. 1 SGB IV ist Beschäftigung die **nichtselbständige Arbeit**, insbesondere in einem Arbeitsverhältnis. Anhaltspunkte: Weisungsgebundenheit und Eingliederung (Paragraf 7 Abs. 1 S. 2 SGB IV). Der SV-Begriff deckt sich weitgehend mit Paragraf 611a BGB, ist aber eigenständig auszulegen.
 
-**Clearingverfahren § 7a SGB IV:**
+**Clearingverfahren Paragraf 7a SGB IV:**
 - Jede der Beteiligten (Arbeitnehmer, Auftraggeber) kann vor Aufnahme der Tätigkeit Feststellung des Erwerbsstatus bei der **Deutsche Rentenversicherung Bund (Clearingstelle)** beantragen.
 - Dauer: ca. 3–6 Monate
-- Bei negativem Bescheid (Scheinselbständigkeit festgestellt): Nachzahlung Sozialversicherungsbeiträge bis zu 4 Jahre rückwirkend (§ 25 SGB IV); bei Vorsatz: 30 Jahre.
+- Bei negativem Bescheid (Scheinselbständigkeit festgestellt): Nachzahlung Sozialversicherungsbeiträge bis zu 4 Jahre rückwirkend (Paragraf 25 SGB IV); bei Vorsatz: 30 Jahre.
 - **Empfehlung bei Grenzfällen:** Clearingverfahren proaktiv nutzen, bevor Tätigkeit beginnt.
 
-### Schritt 3 – AÜG-Abgrenzung (§§ 1 ff. AÜG)
+### Schritt 3 – AÜG-Abgrenzung (Paragrafen 1 ff. AÜG)
 
 Falls Dienstleistung durch Dritte (Werkvertrag, Dienstleistungsvertrag):
 
 **Echte Arbeitnehmerüberlassung (AÜG):**
-- Erlaubnispflichtig (§ 1 AÜG)
-- Höchstüberlassungsdauer: 18 Monate (§ 1 Abs. 1b AÜG)
-- Equal Pay nach § 8 AÜG ab Monat 10 (tariflich verlängerbar bis 15 Monate)
-- Kein "verdeckter" Arbeitnehmer – Offenlegungspflicht in Vertrag (§ 1 Abs. 1 S. 5 AÜG)
+- Erlaubnispflichtig (Paragraf 1 AÜG)
+- Höchstüberlassungsdauer: 18 Monate (Paragraf 1 Abs. 1b AÜG)
+- Equal Pay nach Paragraf 8 AÜG ab Monat 10 (tariflich verlängerbar bis 15 Monate)
+- Kein "verdeckter" Arbeitnehmer – Offenlegungspflicht in Vertrag (Paragraf 1 Abs. 1 S. 5 AÜG)
 
 **Scheinselbständigkeit bei Werkvertrag:**
-Wenn der Auftragnehmer nach Weisungen des Auftraggebers in dessen Betrieb eingegliedert ist, liegt verdeckte Arbeitnehmerüberlassung vor. Bei fehlender AÜG-Erlaubnis: Arbeitsverhältnis entsteht kraft Gesetzes (§ 10 Abs. 1 AÜG).
+Wenn der Auftragnehmer nach Weisungen des Auftraggebers in dessen Betrieb eingegliedert ist, liegt verdeckte Arbeitnehmerüberlassung vor. Bei fehlender AÜG-Erlaubnis: Arbeitsverhältnis entsteht kraft Gesetzes (Paragraf 10 Abs. 1 AÜG).
 
 **10 Prüfpunkte Werkvertrag vs. Arbeitnehmerüberlassung:**
 1. Schuldet Auftragnehmer einen Werkerfolg oder Dienste?
@@ -145,7 +145,7 @@ Wenn der Auftragnehmer nach Weisungen des Auftraggebers in dessen Betrieb eingeg
 🟡 **Grenzfall – Gestaltungsempfehlungen:**
 - Vertrag überarbeiten: Werkvertrag mit klarem Werkerfolg und Gewährleistung
 - Eingliederung reduzieren: keine fixen Arbeitszeiten, kein Büro beim Auftraggeber, eigene IT
-- Clearingverfahren § 7a SGB IV einleiten
+- Clearingverfahren Paragraf 7a SGB IV einleiten
 
 🔴 **Blockierend – Neustrukturierung oder reguläre Einstellung:**
 - Vollständige Eingliederung in Betrieb, feste Arbeitszeiten, kein eigenes unternehmerisches Risiko
@@ -157,18 +157,18 @@ Wenn der Auftragnehmer nach Weisungen des Auftraggebers in dessen Betrieb eingeg
 
 ```
 STATUSFESTSTELLUNG – [Tätigkeitsbeschreibung] – [Datum]
-VERTRAULICH – MANDATSGEHEIMNIS – § 43a Abs. 2 BRAO
+VERTRAULICH – MANDATSGEHEIMNIS – Paragraf 43a Abs. 2 BRAO
 
 Ergebnis: [Selbständig / Grenzfall / Arbeitnehmerstatus wahrscheinlich]
 
-I. § 611a BGB Gesamtbild
+I. Paragraf 611a BGB Gesamtbild
  Indizien für Arbeitnehmer: [Liste]
  Indizien für Selbständigen: [Liste]
  Gesamtbewertung: [Ergebnis]
 
-II. § 7 SGB IV (SV-rechtlich)
+II. Paragraf 7 SGB IV (SV-rechtlich)
  Nachzahlungsrisiko: [Betrag] bei [N] Jahren rückwirkend
- Strafbarkeit § 266a StGB: [ja / nein / Prüfen]
+ Strafbarkeit Paragraf 266a StGB: [ja / nein / Prüfen]
 
 III. AÜG-Relevanz (falls gegeben)
  Erlaubnis vorhanden: [ja / nein]
@@ -193,9 +193,9 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Risiken / typische Fehler
 
-- **Vertrag vs. Praxis:** § 611a Abs. 1 S. 5 BGB – Wie der Vertrag heißt, ist unerheblich; entscheidend ist die tatsächliche Durchführung.
-- **Rückwirkende Sozialversicherungspflicht** – bis 4 Jahre (§ 25 SGB IV), bei Vorsatz 30 Jahre.
-- **AÜG ohne Erlaubnis** – führt zur Entstehung eines Arbeitsverhältnisses kraft Gesetzes (§ 10 AÜG); erhebliche Haftungsrisiken.
+- **Vertrag vs. Praxis:** Paragraf 611a Abs. 1 S. 5 BGB – Wie der Vertrag heißt, ist unerheblich; entscheidend ist die tatsächliche Durchführung.
+- **Rückwirkende Sozialversicherungspflicht** – bis 4 Jahre (Paragraf 25 SGB IV), bei Vorsatz 30 Jahre.
+- **AÜG ohne Erlaubnis** – führt zur Entstehung eines Arbeitsverhältnisses kraft Gesetzes (Paragraf 10 AÜG); erhebliche Haftungsrisiken.
 - **Prospektiver Charakter** – dieses Plugin prüft nur geplante Strukturen; für bestehende Verhältnisse unbedingt Außenberater und ggf. Clearingstelle einschalten.
 - **Gesamtbild-Falle:** Selbst wenn 7 von 10 Kriterien für Selbständigkeit sprechen, kann das Gesamtbild dennoch Arbeitnehmerstatus ergeben, wenn die überwiegende Weisungsgebundenheit faktisch vorliegt.
 

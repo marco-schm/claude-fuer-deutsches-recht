@@ -15,34 +15,34 @@ description: "Anwalts-Dashboard Fachanwalt Arbeitsrecht: Sofort-Triage als Tabel
 | --- | --- | --- |
 | Rolle | Wen vertrete ich? (Mandant · Gegenseite · Mehrere) | Mandantenmail, Vertretungsbestellung |
 | Verfahrensstand | Vorprozessual · außergerichtlich · Klage · Rechtsmittel · Vollstreckung | Vorhandene Schriftsätze, Eingangsstempel |
-| Eilfrist | **§ 4 KSchG: 3 Wochen** ab Zugang Kündigung. Daneben § 626 II BGB (außerordentlich, 2 Wochen ab Kenntnis), § 15 IV AGG (2 Monate Geltendmachung), § 17 KSchG (Massenentlassungsanzeige), § 9 MuSchG, § 613a VI BGB (1 Monat Widerspruch). | Frist aus Zugangs-/Kenntnisdatum berechnen |
-| Hauptanspruch | Kündigungsschutz §§ 1, 4, 7 KSchG · Lohn §§ 611a, 614, 615 BGB (Annahmeverzug) · Schadensersatz §§ 280 I, 823 BGB · AGG-Entschädigung §§ 7, 15 AGG · Betriebsübergang § 613a BGB. | Sachverhaltsabgleich mit Tatbestandsmerkmalen |
-| Zuständigkeit | Arbeitsgericht am Arbeitsort (§ 48 ArbGG, § 17 ZPO). Streitwert KSchG-Klage: 1/4 Bruttojahresgehalt (§ 42 II GKG). | Gesetz, Vertrag, Gerichtsstandsklausel |
+| Eilfrist | **Paragraf 4 KSchG: 3 Wochen** ab Zugang Kündigung. Daneben Paragraf 626 II BGB (außerordentlich, 2 Wochen ab Kenntnis), Paragraf 15 IV AGG (2 Monate Geltendmachung), Paragraf 17 KSchG (Massenentlassungsanzeige), Paragraf 9 MuSchG, Paragraf 613a VI BGB (1 Monat Widerspruch). | Frist aus Zugangs-/Kenntnisdatum berechnen |
+| Hauptanspruch | Kündigungsschutz Paragrafen 1, 4, 7 KSchG · Lohn Paragrafen 611a, 614, 615 BGB (Annahmeverzug) · Schadensersatz Paragrafen 280 I, 823 BGB · AGG-Entschädigung Paragrafen 7, 15 AGG · Betriebsübergang Paragraf 613a BGB. | Sachverhaltsabgleich mit Tatbestandsmerkmalen |
+| Zuständigkeit | Arbeitsgericht am Arbeitsort (Paragraf 48 ArbGG, Paragraf 17 ZPO). Streitwert KSchG-Klage: 1/4 Bruttojahresgehalt (Paragraf 42 II GKG). | Gesetz, Vertrag, Gerichtsstandsklausel |
 
 ## Risiko-Ampel
 
 - **Frist:** 🔴 Kündigung mit laufender 3-Wochen-Frist: heute Klageschrift. 🟠 Aufhebungsvertrag mit Widerrufsoption: 14 Tage prüfen. 🟢 Lohnklage ohne Verfallsklausel.
-- **Beweislage:** 🟠 Zugang der Kündigung trägt der Arbeitgeber (§ 130 BGB); Zustellungsnachweis sichern. 🔴 Bei mündlicher Kündigung: Zeugen organisieren.
-- **Wirtschaftlich:** 🔴 Lohnverlust > 3 Monate + Verlust SV-Pflicht: Eilantrag Weiterbeschäftigung (§ 102 V BetrVG) prüfen. 🟠 Abfindung ≈ 0,5 Monatsgehälter pro BJ als Verhandlungsstart.
+- **Beweislage:** 🟠 Zugang der Kündigung trägt der Arbeitgeber (Paragraf 130 BGB); Zustellungsnachweis sichern. 🔴 Bei mündlicher Kündigung: Zeugen organisieren.
+- **Wirtschaftlich:** 🔴 Lohnverlust > 3 Monate + Verlust SV-Pflicht: Eilantrag Weiterbeschäftigung (Paragraf 102 V BetrVG) prüfen. 🟠 Abfindung ≈ 0,5 Monatsgehälter pro BJ als Verhandlungsstart.
 
 ## Anschluss-Skills (Router)
 
 | Wenn der Fall trägt … | dann Skill | Erwartung |
 | --- | --- | --- |
 | **Kündigung erhalten — Schutzklage prüfen** | `ar-kuendigungspruefung-workflow` | Klageschrift mit Anträgen, Streitwertangabe, Antrag auf vorläufige Weiterbeschäftigung |
-| Aufhebungsvertrag angeboten | `ar-aufhebungsvertrag-praxis` | Risikomatrix, Abfindungs-Range, Sperrzeit § 159 SGB III |
-| Befristung soll geprüft werden | `befristung-tzbfg` | Sachgrund- vs. sachgrundlose Befristung, Anschlussverbot § 14 II 2 TzBfG |
+| Aufhebungsvertrag angeboten | `ar-aufhebungsvertrag-praxis` | Risikomatrix, Abfindungs-Range, Sperrzeit Paragraf 159 SGB III |
+| Befristung soll geprüft werden | `befristung-tzbfg` | Sachgrund- vs. sachgrundlose Befristung, Anschlussverbot Paragraf 14 II 2 TzBfG |
 | Betriebsrats-Beteiligung streitig | `beteiligung-betriebsrat-102-betrvg` | Anhörungsfehler, Heilung, Folge der Unwirksamkeit |
-| Betriebsübergang im Raum | `ar-betriebsuebergang-spezial` | Widerspruchsfrist § 613a VI BGB (1 Monat), Informationsanspruch |
+| Betriebsübergang im Raum | `ar-betriebsuebergang-spezial` | Widerspruchsfrist Paragraf 613a VI BGB (1 Monat), Informationsanspruch |
 
 ## Norm-Radar (live verifizieren)
 
-- **§ 4 KSchG** — 3-Wochen-Frist Kündigungsschutzklage
-- **§ 626 BGB** — außerordentliche Kündigung, 2-Wochen-Frist Abs. 2
-- **§ 1 KSchG** — Sozialwidrigkeit; KSchG-Anwendung ab 10 AN (Kleinbetrieb)
-- **§§ 611a, 615 BGB** — Arbeitsvertrag, Annahmeverzug
-- **§ 613a BGB** — Betriebsübergang; Widerspruchsrecht Abs. 6
-- **§ 102 BetrVG** — Anhörung Betriebsrat; Folge der Unwirksamkeit
+- **Paragraf 4 KSchG** — 3-Wochen-Frist Kündigungsschutzklage
+- **Paragraf 626 BGB** — außerordentliche Kündigung, 2-Wochen-Frist Abs. 2
+- **Paragraf 1 KSchG** — Sozialwidrigkeit; KSchG-Anwendung ab 10 AN (Kleinbetrieb)
+- **Paragrafen 611a, 615 BGB** — Arbeitsvertrag, Annahmeverzug
+- **Paragraf 613a BGB** — Betriebsübergang; Widerspruchsrecht Abs. 6
+- **Paragraf 102 BetrVG** — Anhörung Betriebsrat; Folge der Unwirksamkeit
 
 ## Genau eine Rückfrage (nur wenn nötig)
 
@@ -52,10 +52,10 @@ Wenn die Akte die Frage selbst beantwortet, **diese überspringen** und direkt d
 
 ## Leitentscheidungs-Anker (Such-Wegweiser, keine fertigen Zitate)
 
-- **Kündigungsschutz § 1 KSchG; Sozialwidrigkeit** — BAG 2. Senat — *live verifizieren auf* `bundesarbeitsgericht.de`
-- **Betriebsübergang § 613a BGB; Identitätswahrung** — BAG 8. Senat (Spijkers-/Süzen-Linie) — *live verifizieren auf* `bundesarbeitsgericht.de + EuGH curia.europa.eu`
-- **Befristung ohne Sachgrund; Vorbeschäftigung § 14 II 2 TzBfG** — BAG 7. Senat; BVerfG 1. Senat — *live verifizieren auf* `bundesarbeitsgericht.de + bundesverfassungsgericht.de`
-- **AGG-Entschädigung § 15 II; 2-Monats-Frist** — BAG 8. Senat — *live verifizieren auf* `bundesarbeitsgericht.de`
+- **Kündigungsschutz Paragraf 1 KSchG; Sozialwidrigkeit** — BAG 2. Senat — *live verifizieren auf* `bundesarbeitsgericht.de`
+- **Betriebsübergang Paragraf 613a BGB; Identitätswahrung** — BAG 8. Senat (Spijkers-/Süzen-Linie) — *live verifizieren auf* `bundesarbeitsgericht.de + EuGH curia.europa.eu`
+- **Befristung ohne Sachgrund; Vorbeschäftigung Paragraf 14 II 2 TzBfG** — BAG 7. Senat; BVerfG 1. Senat — *live verifizieren auf* `bundesarbeitsgericht.de + bundesverfassungsgericht.de`
+- **AGG-Entschädigung Paragraf 15 II; 2-Monats-Frist** — BAG 8. Senat — *live verifizieren auf* `bundesarbeitsgericht.de`
 
 > Diese Anker sind Sucheinstieg. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle prüfen und Datum, Aktenzeichen, Randnummer abklären. Kuratierte Anker-Sammlung in `references/leitentscheidungen-anker.md`.
 

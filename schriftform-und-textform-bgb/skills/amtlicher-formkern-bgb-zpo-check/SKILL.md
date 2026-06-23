@@ -1,6 +1,6 @@
 ---
 name: amtlicher-formkern-bgb-zpo-check
-description: "Amtlicher Formkern-Check für BGB und ZPO: trennt Schriftform, Textform, elektronische Form, qES, beA/EGVP, § 130e ZPO, Zustellung, Zugang und Beweiskraft elektronischer Dokumente im Schriftform Und Textform Bgb."
+description: "Amtlicher Formkern-Check für BGB und ZPO: trennt Schriftform, Textform, elektronische Form, qES, beA/EGVP, Paragraf 130e ZPO, Zustellung, Zugang und Beweiskraft elektronischer Dokumente im Schriftform Und Textform Bgb."
 ---
 
 # Amtlicher Formkern BGB/ZPO
@@ -16,19 +16,19 @@ description: "Amtlicher Formkern-Check für BGB und ZPO: trennt Schriftform, Tex
 ## Prüfschritte
 
 1. Erklärung bestimmen: Vertrag, Kündigung, Bürgschaft, Rücktritt, Anfechtung, Schriftsatzerklärung.
-2. Formerfordernis bestimmen: § 126, § 126a, § 126b, § 127, § 128 oder § 129 BGB; Spezialnorm prüfen.
-3. Zugang prüfen: § 130 BGB oder Zustellungsregime der ZPO.
-4. Prozesspfad prüfen: §§ 130a, 130d, 130e, 173, 189 ZPO.
-5. Beweiswert prüfen: § 371a ZPO, Versandjournal, eEB, Zustellungsurkunde, Botenprotokoll, Validierungsbericht.
+2. Formerfordernis bestimmen: Paragraf 126, Paragraf 126a, Paragraf 126b, Paragraf 127, Paragraf 128 oder Paragraf 129 BGB; Spezialnorm prüfen.
+3. Zugang prüfen: Paragraf 130 BGB oder Zustellungsregime der ZPO.
+4. Prozesspfad prüfen: Paragrafen 130a, 130d, 130e, 173, 189 ZPO.
+5. Beweiswert prüfen: Paragraf 371a ZPO, Versandjournal, eEB, Zustellungsurkunde, Botenprotokoll, Validierungsbericht.
 
 ## Entscheidungsmatrix
 
 | Frage | BGB | ZPO |
 | --- | --- | --- |
-| Ist die Erklärung formwirksam? | §§ 125-129 BGB | § 130e ZPO nur bei konkretem Anwendungsbereich |
-| Ist sie zugegangen? | § 130 BGB | §§ 166-190 ZPO bei Zustellung |
-| Ist elektronisch eingereicht? | § 126a BGB nur bei qES als materielle Form | §§ 130a, 130d ZPO |
-| Ist der Beweis stark genug? | Urkunde, Zeuge, Bote | § 371a ZPO, Zustellungsnachweis |
+| Ist die Erklärung formwirksam? | Paragrafen 125-129 BGB | Paragraf 130e ZPO nur bei konkretem Anwendungsbereich |
+| Ist sie zugegangen? | Paragraf 130 BGB | Paragrafen 166-190 ZPO bei Zustellung |
+| Ist elektronisch eingereicht? | Paragraf 126a BGB nur bei qES als materielle Form | Paragrafen 130a, 130d ZPO |
+| Ist der Beweis stark genug? | Urkunde, Zeuge, Bote | Paragraf 371a ZPO, Zustellungsnachweis |
 
 ## Referenz
 
@@ -38,18 +38,18 @@ Nutze `references/amtlicher-formkern-bgb-zpo.md`.
 
 ### Kuratierte Normen-Bibliothek
 
-- § 46h ArbGG
-- § 14 TzBfG
-- § 16 TzBfG
-- § 15 GmbHG
-- § 46c ArbGG
-- § 17 TzBfG
-- § 16a BeurkG
-- § 23a GVG
-- § 113 FamFG
-- § 2 HRG
-- § 4 HRG
-- § 7 HRG
+- Paragraf 46h ArbGG
+- Paragraf 14 TzBfG
+- Paragraf 16 TzBfG
+- Paragraf 15 GmbHG
+- Paragraf 46c ArbGG
+- Paragraf 17 TzBfG
+- Paragraf 16a BeurkG
+- Paragraf 23a GVG
+- Paragraf 113 FamFG
+- Paragraf 2 HRG
+- Paragraf 4 HRG
+- Paragraf 7 HRG
 
 ### Leitentscheidungen
 

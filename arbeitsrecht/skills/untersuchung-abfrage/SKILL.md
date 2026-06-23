@@ -20,8 +20,8 @@ description: "Beantwortet Fragen gegen ein laufendes Untersuchungsprotokoll — 
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Untersuchungsprotokoll-Abfrage (Arbeitsrecht)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -35,15 +35,15 @@ description: "Beantwortet Fragen gegen ein laufendes Untersuchungsprotokoll — 
 
 **Kernvorschriften:**
 
-- § 626 BGB: Wichtiger Grund für außerordentliche Kündigung — Abfragen
+- Paragraf 626 BGB: Wichtiger Grund für außerordentliche Kündigung — Abfragen
  des Protokolls helfen, den Tatverdacht zu verdichten oder zu widerlegen
-- § 22 AGG: Beweislastverteilung bei Diskriminierungsvorwürfen — bei
+- Paragraf 22 AGG: Beweislastverteilung bei Diskriminierungsvorwürfen — bei
  AGG-Sachverhalt strukturierte Protokollauswertung als Basis für
  Enthaftungsnachweis des Arbeitgebers
-- § 1 Abs. 2 KSchG: Soziale Rechtfertigung der Kündigung — Abfragen der
+- Paragraf 1 Abs. 2 KSchG: Soziale Rechtfertigung der Kündigung — Abfragen der
  Stärke der Beweislage je Untersuchungsfrage hilft, Wirksamkeitsrisiken
  einer verhaltens- oder personenbedingten Kündigung zu bewerten
-- § 26 BDSG: Verarbeitungszweck — Protokollabfragen dienen ausschließlich
+- Paragraf 26 BDSG: Verarbeitungszweck — Protokollabfragen dienen ausschließlich
  dem Untersuchungszweck; kein Zweckwechsel ohne neue Rechtsgrundlage
 
 **Leitentscheidungen:**
@@ -63,11 +63,11 @@ description: "Beantwortet Fragen gegen ein laufendes Untersuchungsprotokoll — 
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-- § 626 BGB: Zwei-Wochen-Frist, Verdachtskündigung und Anhörung nur mit verifizierter BAG-Rechtsprechung oder Nutzerquelle vertiefen.
+- Paragraf 626 BGB: Zwei-Wochen-Frist, Verdachtskündigung und Anhörung nur mit verifizierter BAG-Rechtsprechung oder Nutzerquelle vertiefen.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
  Darlegungs- und Beweislast des Arbeitgebers; Nachschieben von
  Kündigungsgründen
-- AGG: §§ 12, 15, 22 AGG anhand Gesetz, Nutzerquelle und frei verifizierter Rechtsprechung prüfen.
+- AGG: Paragrafen 12, 15, 22 AGG anhand Gesetz, Nutzerquelle und frei verifizierter Rechtsprechung prüfen.
 
 ## Ablauf
 
@@ -116,7 +116,7 @@ Für jede Untersuchungsfrage: höchstbewertete Protokolleinträge, dokumentarisc
 Bestätigungen und ungelöste Widersprüche — frageweise strukturiert.
 
 **Reife-Abfrage** (Verdachtsgrad für Kündigung):
-Für eine Verdachtskündigung nach § 626 BGB: Protokolleinträge nach
+Für eine Verdachtskündigung nach Paragraf 626 BGB: Protokolleinträge nach
 objektiver Schwere und Dringlichkeit des Verdachts auswerten. Anhörung
 der beschuldigten Person dokumentiert? Falls nicht: flaggen.
 
@@ -167,15 +167,15 @@ Handlungsbedarf: Frau Schmidt als Zeugin befragen (Checkliste Punkt 3 — noch o
  harmonisiert werden. Sie müssen direkt benannt werden — der Anwalt
  entscheidet, welcher Version geglaubt wird.
 - **Zweckbindung beachten**: Protokolldaten dürfen nur für Untersuchungs-
- zwecke genutzt werden (§ 26 BDSG). Keine Weitergabe für andere Zwecke
+ zwecke genutzt werden (Paragraf 26 BDSG). Keine Weitergabe für andere Zwecke
  ohne neue Rechtsgrundlage.
 
 ## Quellenpflicht
 
 Bei Abfragen zur Beweislage für Kündigung zitieren:
-- § 626 BGB (Tatverdacht / Wichtiger Grund)
+- Paragraf 626 BGB (Tatverdacht / Wichtiger Grund)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Bei AGG-Sachverhalt: § 22 AGG und frei verifizierte BAG-Rechtsprechung
+- Bei AGG-Sachverhalt: Paragraf 22 AGG und frei verifizierte BAG-Rechtsprechung
 
 Detaillierter Abfrageprozess, Zitierregeln und Lückendokumentations-Templates
 befinden sich in der Referenz-Skill `interne-untersuchung` — diese vor
@@ -190,5 +190,5 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 ## Triage — vor der Protokollabfrage klären
 
 1. Welche Art der Abfrage ist gewünscht (Sachverhalts-, Widerspruchs-, Deckungsabfrage oder Stärkeabfrage)?
-2. Ist eine Kündigung in der Schwebe? → Dann Reife-Abfrage nach § 626 BGB-Schwellenwert
-3. Liegt ein AGG-relevanter Sachverhalt vor? → Besondere Sorgfalt bei § 22 AGG-Beweislast
+2. Ist eine Kündigung in der Schwebe? → Dann Reife-Abfrage nach Paragraf 626 BGB-Schwellenwert
+3. Liegt ein AGG-relevanter Sachverhalt vor? → Besondere Sorgfalt bei Paragraf 22 AGG-Beweislast

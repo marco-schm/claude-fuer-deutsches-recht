@@ -1,6 +1,6 @@
 ---
 name: prozessablauf-papier-vs-elektronisch
-description: "Kanzlei oder Mandant muss zwischen Papier, qES, Textform, beA-Schriftsatz oder Formfiktion wählen. Prüft Originalunterschrift, qES-Direktversand, § 130e ZPO, § 46h ArbGG, Textform per E-Mail, Zustellung und Beweisarchitektur. Output: konkrete Prozessabläufe und Entscheidungsmatrix im Schriftform..."
+description: "Kanzlei oder Mandant muss zwischen Papier, qES, Textform, beA-Schriftsatz oder Formfiktion wählen. Prüft Originalunterschrift, qES-Direktversand, Paragraf 130e ZPO, Paragraf 46h ArbGG, Textform per E-Mail, Zustellung und Beweisarchitektur. Output: konkrete Prozessabläufe und Entscheidungsmatrix im Schriftform..."
 ---
 
 # Prozessablauf — Papier vs. Elektronisch
@@ -16,31 +16,31 @@ description: "Kanzlei oder Mandant muss zwischen Papier, qES, Textform, beA-Schr
 ## Triage — kläre vor dem Workflow
 
 1. **Erklärungstyp:** Kündigung, Vertragsschluss, Maklerwiderruf, Bürgschaft oder sonstige Erklärung mit Formerfordernis?
-2. **Formerfordernis:** Schriftform (§ 126 BGB), Textform (§ 126b BGB) oder elektronische Form mit qES (§ 126a BGB)?
+2. **Formerfordernis:** Schriftform (Paragraf 126 BGB), Textform (Paragraf 126b BGB) oder elektronische Form mit qES (Paragraf 126a BGB)?
 3. **Empfänger und Weg:** Direktzustellung, E-Mail, beA/EGVP, gerichtliche Zustellung oder Mitteilung?
 4. **Zugangsrisiko:** Welcher Versandweg bietet den sichersten Zugangsbeweis (Bote, Einschreiben/Rückschein, qES-Protokoll)?
 5. **Dringlichkeit:** Gilt eine Frist, bei der der Zugang beweissicher vor Fristablauf erfolgen muss?
 
 ## Zentrale Normen (ergänzend)
-- § 126 BGB (Schriftform — Originalunterschrift)
-- § 126a BGB (Elektronische Form — qES)
-- § 126b BGB (Textform — dauerhafter Datenträger)
-- § 127 BGB (Vertragliche Formvorschriften)
-- § 130 BGB (Zugang empfangsbeduerftiger Willenserklärungen)
-- § 130a ZPO (elektronisches Dokument im Zivilprozess)
-- § 130e ZPO (Formfiktion bei elektronischen vorbereitenden Schriftsätzen)
-- § 46h ArbGG (arbeitsgerichtliche Formfiktion)
-- § 371a ZPO (Beweiskraft elektronischer Dokumente mit qES)
+- Paragraf 126 BGB (Schriftform — Originalunterschrift)
+- Paragraf 126a BGB (Elektronische Form — qES)
+- Paragraf 126b BGB (Textform — dauerhafter Datenträger)
+- Paragraf 127 BGB (Vertragliche Formvorschriften)
+- Paragraf 130 BGB (Zugang empfangsbeduerftiger Willenserklärungen)
+- Paragraf 130a ZPO (elektronisches Dokument im Zivilprozess)
+- Paragraf 130e ZPO (Formfiktion bei elektronischen vorbereitenden Schriftsätzen)
+- Paragraf 46h ArbGG (arbeitsgerichtliche Formfiktion)
+- Paragraf 371a ZPO (Beweiskraft elektronischer Dokumente mit qES)
 
 ## Rechtsprechung
 Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Rechtsgrundlagen
 
-- §§ 126-126b BGB — Formvorschriften
-- § 130 BGB — Zugang
-- §§ 130a, 130e ZPO — elektronischer Schriftsatz und Formfiktion
-- § 46h ArbGG — arbeitsgerichtliche Formfiktion
+- Paragrafen 126-126b BGB — Formvorschriften
+- Paragraf 130 BGB — Zugang
+- Paragrafen 130a, 130e ZPO — elektronischer Schriftsatz und Formfiktion
+- Paragraf 46h ArbGG — arbeitsgerichtliche Formfiktion
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Referenzanker: `references/amtlicher-formkern-bgb-zpo.md`
 - Fachmodul: `amtlicher-formkern-bgb-zpo-check`
@@ -70,7 +70,7 @@ Schritt 3: Übergabe / Versand
  → Rückschein aufbewahren (beweist Übergabe, nicht Inhalt)
  → Kopie des Dokuments in Akte
 
- Option C — Gerichtlicher Gerichtsvollzieher (§ 132 BGB):
+ Option C — Gerichtlicher Gerichtsvollzieher (Paragraf 132 BGB):
  → Bei streitigem Empfänger: Antrag auf Zustellung durch GV
  → Kostenpflichtig, aber höchster Beweiswert
 
@@ -79,7 +79,7 @@ Schritt 4: Zugang dokumentieren
  → Datum des Zugangs festhalten
 ```
 
-### Prozess B — qES-Dokument (elektronische Form § 126a BGB)
+### Prozess B — qES-Dokument (elektronische Form Paragraf 126a BGB)
 
 ```
 Schritt 1: Dokument erstellen
@@ -113,15 +113,15 @@ Schritt 5: qES-Validierungsprotokoll erstellen
 
 ```
 Schritt 1: Anwendungsbereich klären
- → Zivilprozess: § 130e ZPO
- → Arbeitsgericht: § 46h ArbGG
+ → Zivilprozess: Paragraf 130e ZPO
+ → Arbeitsgericht: Paragraf 46h ArbGG
  → andere Prozessordnung: ausdrückliche Grundlage suchen
 
 Schritt 2: Erklärung im Schriftsatz formulieren
  → Willenserklärung klar und unübersehbar aufnehmen
  → nicht nur Tatsachenvortrag oder Rechtsansicht
  → Erklärungsträger und Vertretung offenlegen
- → Vollmacht und § 174 BGB gesondert absichern
+ → Vollmacht und Paragraf 174 BGB gesondert absichern
 
 Schritt 3: elektronisch einreichen
  → qES oder einfache Signatur plus sicherer Übermittlungsweg
@@ -131,15 +131,15 @@ Schritt 3: elektronisch einreichen
 Schritt 4: Zustellung oder Mitteilung nachweisen
  → gerichtliche Zustellung, eEB oder Mitteilung dokumentieren
  → Datum und Empfänger eindeutig in der Akte erfassen
- → bei Alt-Fällen vor 17.07.2024 nicht rückwirkend mit § 130e arbeiten
+ → bei Alt-Fällen vor 17.07.2024 nicht rückwirkend mit Paragraf 130e arbeiten
 
 Schritt 5: Ergebnis trennen
  → prozessual ordnungsgemäß eingereicht
- → materielle Form direkt durch qES oder fiktiv durch § 130e/§ 46h
+ → materielle Form direkt durch qES oder fiktiv durch Paragraf 130e/Paragraf 46h
  → Zugang und Fristbeginn dokumentiert
 ```
 
-### Prozess C — Textform per E-Mail (§ 126b BGB)
+### Prozess C — Textform per E-Mail (Paragraf 126b BGB)
 
 ```
 Schritt 1: E-Mail verfassen
@@ -161,7 +161,7 @@ Schritt 4: Physische Sicherung der E-Mail
  → In Mandantenakte archivieren
 ```
 
-### Prozess D — WhatsApp-Textform (§ 126b BGB, Sicherung)
+### Prozess D — WhatsApp-Textform (Paragraf 126b BGB, Sicherung)
 
 ```
 Schritt 1: WhatsApp-Nachricht senden
@@ -193,7 +193,7 @@ Schritt 4: Risikobewertung
 | Maklervertrag Wohnraum | Textform | E-Mail | Ja |
 | Bürgschaft | Schriftform | Papier + Unterschrift | qES nur nach Spezialprüfung |
 | Arbeitsbefristung | Schriftform | Papier vor Arbeitsbeginn | qES möglich, aber technisch streng |
-| Kündigung Arbeitsvertrag | Schriftform | Papier | direkt elektronisch nein; § 46h ArbGG als Prozesspfad prüfen |
+| Kündigung Arbeitsvertrag | Schriftform | Papier | direkt elektronisch nein; Paragraf 46h ArbGG als Prozesspfad prüfen |
 | Mieterhöhung | Textform | E-Mail | Ja |
 
 ### Musterschreiben Boten-Quittung
@@ -214,6 +214,6 @@ von [Name Überbringer] folgendes Dokument erhalten zu haben:
 
 - **qES per E-Mail und Spam**: Das qES-Dokument landet im Spam-Ordner des Empfängers — technisch zugegangen, aber Nachweis des Zugangs schwierig. Eingangsbestätigung ist unverzichtbar.
 - **Papierausdruck des qES-Dokuments**: Wenn der Empfänger das qES-PDF ausdruckt, verliert die Signatur ihre Prüfbarkeit — das ist sein Problem, nicht das des Absenders. Aber: Beweislast für den Zugang trägt der Erklärende.
-- **beA mit einfacher Signatur**: Prozessual kann das genügen; materiell trägt es nur über eine gesetzliche Formfiktion wie § 130e ZPO oder § 46h ArbGG.
-- **Schriftsatzkündigung vor 17.07.2024**: Alt-Fälle dürfen nicht vorschnell nach § 130e ZPO gelöst werden. Dort bleibt die BGH-Linie zum prüfbaren qES-Zugang maßgeblich.
+- **beA mit einfacher Signatur**: Prozessual kann das genügen; materiell trägt es nur über eine gesetzliche Formfiktion wie Paragraf 130e ZPO oder Paragraf 46h ArbGG.
+- **Schriftsatzkündigung vor 17.07.2024**: Alt-Fälle dürfen nicht vorschnell nach Paragraf 130e ZPO gelöst werden. Dort bleibt die BGH-Linie zum prüfbaren qES-Zugang maßgeblich.
 - **WhatsApp-Geräteaustausch**: Nach Gerätewechsel können WhatsApp-Nachrichten verloren gehen, wenn kein Backup aktiviert war. Für Beweiszwecke: Screenshots und Chat-Export sofort nach der Erklärung sichern.

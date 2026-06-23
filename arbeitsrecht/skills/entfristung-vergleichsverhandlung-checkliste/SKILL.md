@@ -34,8 +34,8 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vergleichsverhandlung: Checkliste Entfristungsklage` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -45,18 +45,18 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 1. Will der Mandant Weiterbeschäftigung (unbefristetes Arbeitsverhältnis) oder Beendigung mit Abfindung?
 2. Welche Abfindungsuntergrenze ist akzeptabel?
 3. Stehen offene Urlaubstage, Überstunden oder Gehaltsansprüche aus?
-4. Sperrzeit-Risiko: Auf wessen Veranlassung wird das AV beendet? (§ 159 SGB III)
+4. Sperrzeit-Risiko: Auf wessen Veranlassung wird das AV beendet? (Paragraf 159 SGB III)
 5. Wird ein qualifiziertes Zeugnis benötigt? Welche Note?
 6. Erledigungsklausel: Gibt es weitere offene Ansprüche aus dem Arbeitsverhältnis?
 
 ## Zentrale Normen
 
-- §§ 9, 10 KSchG i.V.m. § 17 Satz 2 TzBfG — Auflösungsantrag auf Abfindung
-- § 7 Abs. 4 BUrlG — Urlaubsabgeltung bei Beendigung
-- § 615 BGB — Annahmeverzugslohn bei Weiterbeschäftigungsverweigerung
-- § 159 SGB III — Sperrzeit bei Aufhebungsvertrag auf eigene Veranlassung
-- § 34 EStG — Fünftel-Regelung für Abfindungen (steuerliche Behandlung prüfen)
-- § 109 GewO — Zeugnisanspruch
+- Paragrafen 9, 10 KSchG i.V.m. Paragraf 17 Satz 2 TzBfG — Auflösungsantrag auf Abfindung
+- Paragraf 7 Abs. 4 BUrlG — Urlaubsabgeltung bei Beendigung
+- Paragraf 615 BGB — Annahmeverzugslohn bei Weiterbeschäftigungsverweigerung
+- Paragraf 159 SGB III — Sperrzeit bei Aufhebungsvertrag auf eigene Veranlassung
+- Paragraf 34 EStG — Fünftel-Regelung für Abfindungen (steuerliche Behandlung prüfen)
+- Paragraf 109 GewO — Zeugnisanspruch
 
 ## Aktuelle Rechtsprechung
 
@@ -85,18 +85,18 @@ Häufigere Vergleichsvariante: Beide Seiten einigen sich auf eine Beendigung des
 **2. Abfindung**
 - Höhe der Abfindung (Orientierung an KüSchK-Faustformel auch hier möglich)
 - Fälligkeit und Zahlungsweg
-- Steuer- und sozialversicherungsrechtliche Behandlung (§ 34 EStG Fünftel-Regelung prüfen)
+- Steuer- und sozialversicherungsrechtliche Behandlung (Paragraf 34 EStG Fünftel-Regelung prüfen)
 
 **3. Freistellung**
 - Ab wann? Unwiderruflich oder widerruflich?
 - Anrechnung offener Urlaub auf Freistellung?
 
 **4. Urlaubsabgeltung**
-- Offene Urlaubstage ermitteln und abgelten (§ 7 Abs. 4 BUrlG)
+- Offene Urlaubstage ermitteln und abgelten (Paragraf 7 Abs. 4 BUrlG)
 
 **5. Vergütung für Zeitraum nach vereinbartem Befristungsende**
 - Falls Weiterbeschäftigung bis Vergleichsdatum: Vergütung regeln
-- Falls keine Weiterbeschäftigung: Annahmeverzugslohn § 615 BGB
+- Falls keine Weiterbeschäftigung: Annahmeverzugslohn Paragraf 615 BGB
 
 **6. Zeugnis**
 - Welche Note wird erteilt?

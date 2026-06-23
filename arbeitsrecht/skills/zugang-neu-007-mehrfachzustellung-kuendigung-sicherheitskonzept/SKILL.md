@@ -20,7 +20,7 @@ description: "Arbeitsrecht: Mehrfachzustellung Kündigung Sicherheitskonzept mit
 
 ## Hintergrund
 
-Wegen der hohen Beweislast (Arbeitgeber muss Zugang beweisen) und der 3-Wochen-Frist § 4 KSchG ist Mehrfachzustellung Best Practice.
+Wegen der hohen Beweislast (Arbeitgeber muss Zugang beweisen) und der 3-Wochen-Frist Paragraf 4 KSchG ist Mehrfachzustellung Best Practice.
 
 ## Empfohlene Kombinationen
 
@@ -33,7 +33,7 @@ Wegen der hohen Beweislast (Arbeitgeber muss Zugang beweisen) und der 3-Wochen-F
 - Einschreiben mit Rueckschein zusaetzlich (falls Empfangsbestaetigung verloren).
 
 ### Kombi 3: Bote + Notar
-- Notar zustellt nach §§ 132-135 ZPO analog.
+- Notar zustellt nach Paragrafen 132-135 ZPO analog.
 - Beste Beweisqualitaet (öffentliche Urkunde).
 
 ## Risiko der Mehrfachzustellung

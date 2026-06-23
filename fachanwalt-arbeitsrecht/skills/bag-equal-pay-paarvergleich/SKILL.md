@@ -20,8 +20,8 @@ description: "Fachanwalt Arbeitsrecht Bag Equal Pay Paarvergleich: ordnet Normen
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsprechung live prüfen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -38,7 +38,7 @@ description: "Fachanwalt Arbeitsrecht Bag Equal Pay Paarvergleich: ordnet Normen
 
 Leitentscheidung: BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Anspruch auf Entgeltdifferenz wegen Geschlechtsdiskriminierung - Paarvergleich).
 
-Tragende Aussage: Zur Begruendung der Vermutung einer geschlechtsbezogenen Entgeltdiskriminierung (§ 22 AGG) genuegt der Paarvergleich mit einer einzelnen Person des anderen Geschlechts, die für gleiche oder gleichwertige Arbeit ein hoeheres Entgelt erhaelt. Auf Mediane, Vergleichsgruppengroessen oder Durchschnittsbetrachtungen kommt es nicht an. Auch der bestverdienende maennliche Kollege kann als Vergleichsperson herangezogen werden.
+Tragende Aussage: Zur Begruendung der Vermutung einer geschlechtsbezogenen Entgeltdiskriminierung (Paragraf 22 AGG) genuegt der Paarvergleich mit einer einzelnen Person des anderen Geschlechts, die für gleiche oder gleichwertige Arbeit ein hoeheres Entgelt erhaelt. Auf Mediane, Vergleichsgruppengroessen oder Durchschnittsbetrachtungen kommt es nicht an. Auch der bestverdienende maennliche Kollege kann als Vergleichsperson herangezogen werden.
 
 Offene Quelle: dejure.org, Vernetzung BAG 23.10.2025 - 8 AZR 300/24; BAG-Pressemitteilung (Entscheidungen Online). Vorinstanz: LAG Baden-Wuerttemberg. Status: Bei Volltextverwendung im Schriftsatz vorher Volltext-Verfuegbarkeit prüfen.
 
@@ -105,7 +105,7 @@ Praxishinweis Direktwirkung: Eine unmittelbare Anwendbarkeit der Richtlinie komm
 Folgerungen für die Beratung:
 
 - Bei Mandanten gegen öffentliche Arbeitgeber (Bund, Länder, Kommunen, Anstalten und Koerperschaften des öffentlichen Rechts) kann ab dem 08.06.2026 unmittelbar auf die hinreichend bestimmten Pflichten der Richtlinie 2023/970 (insb. Art. 5, Art. 7) gestuetzt werden, falls bis dahin keine fristgemaesse Umsetzung erfolgt ist.
-- Bei privaten Arbeitgebern ist Anspruchsgrundlage weiterhin das EntgTranspG bzw. § 611a BGB i.V.m. Art. 157 AEUV; die Richtlinie wirkt nur mittelbar über die Pflicht zur richtlinienkonformen Auslegung (EuGH, Urt. v. 13.11.1990 – C-106/89, Marleasing). Das Argumentationspotenzial liegt darin, unbestimmte Rechtsbegriffe des EntgTranspG (z. B. "gleichwertige Arbeit", Auskunftsumfang) im Lichte von Art. 4 und Art. 7 der Richtlinie aufzuladen.
+- Bei privaten Arbeitgebern ist Anspruchsgrundlage weiterhin das EntgTranspG bzw. Paragraf 611a BGB i.V.m. Art. 157 AEUV; die Richtlinie wirkt nur mittelbar über die Pflicht zur richtlinienkonformen Auslegung (EuGH, Urt. v. 13.11.1990 – C-106/89, Marleasing). Das Argumentationspotenzial liegt darin, unbestimmte Rechtsbegriffe des EntgTranspG (z. B. "gleichwertige Arbeit", Auskunftsumfang) im Lichte von Art. 4 und Art. 7 der Richtlinie aufzuladen.
 - Etwaige Staatshaftungsansprueche bei Nichtumsetzung gegen die Bundesrepublik bleiben unberuehrt (EuGH, Urt. v. 19.11.1991 – C-6/90 und C-9/90, Francovich).
 
 Quelle: https://eur-lex.europa.eu/eli/dir/2023/970/oj
@@ -113,8 +113,8 @@ Quelle: https://eur-lex.europa.eu/eli/dir/2023/970/oj
 ## Paragrafenkette
 
 - Art. 157 AEUV — Gleiches Entgelt für gleiche Arbeit
-- § 3 EntgTranspG — Verbot unmittelbarer Entgeltbenachteiligung
-- § 7 EntgTranspG — Anspruch auf gleiches Entgelt
-- § 10 EntgTranspG — Auskunftsanspruch
-- § 15 AGG — Entschädigung (Frist zwei Monate)
-- § 22 AGG — Beweislastverteilung
+- Paragraf 3 EntgTranspG — Verbot unmittelbarer Entgeltbenachteiligung
+- Paragraf 7 EntgTranspG — Anspruch auf gleiches Entgelt
+- Paragraf 10 EntgTranspG — Auskunftsanspruch
+- Paragraf 15 AGG — Entschädigung (Frist zwei Monate)
+- Paragraf 22 AGG — Beweislastverteilung

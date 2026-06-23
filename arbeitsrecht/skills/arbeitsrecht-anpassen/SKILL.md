@@ -42,8 +42,8 @@ Den relevanten Abschnitt in der Konfigurationsdatei isolieren, die Änderung dur
 
 **Besonderheiten:**
 - **Neuer Standort / Bundesland:** Eskalationstabelle um das neue Bundesland ergänzen. Auf besondere Landesgesetze hinweisen (z.B. Bayerisches Urlaubsgesetz, abweichendes Landesdatenschutzrecht). KSchG-Schwellenwert neu berechnen.
-- **Neuer Tarifvertrag:** Nachwirkung (§ 4 Abs. 5 TVG) und Günstigkeitsprinzip (§ 4 Abs. 3 TVG) berücksichtigen. Ggf. Hinweis auf Allgemeinverbindlichkeit (§ 5 TVG).
-- **Betriebsrat neu eingetragen:** § 102 BetrVG-Verpflichtung in Eskalationstabelle aufnehmen; Hinweis auf § 99 BetrVG (Einstellung) und § 87 BetrVG (Mitbestimmung).
+- **Neuer Tarifvertrag:** Nachwirkung (Paragraf 4 Abs. 5 TVG) und Günstigkeitsprinzip (Paragraf 4 Abs. 3 TVG) berücksichtigen. Ggf. Hinweis auf Allgemeinverbindlichkeit (Paragraf 5 TVG).
+- **Betriebsrat neu eingetragen:** Paragraf 102 BetrVG-Verpflichtung in Eskalationstabelle aufnehmen; Hinweis auf Paragraf 99 BetrVG (Einstellung) und Paragraf 87 BetrVG (Mitbestimmung).
 - **Eskalationskontakt:** Nur dieses Feld ändern; Risikologik bleibt.
 
 ### 4. Änderung schreiben und bestätigen
@@ -56,7 +56,7 @@ Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodi
 
 Relevante Normen je nach Änderungsbereich:
 - Neues Bundesland: Landesurlaubsgesetze, LDSG des Landes, ggf. Tarifvertrag mit Landesbezug
-- Betriebsrat: BetrVG §§ 1, 87, 99, 102, 111 ff.
+- Betriebsrat: BetrVG Paragrafen 1, 87, 99, 102, 111 ff.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
@@ -104,4 +104,4 @@ Wir sind seit Januar diesem Jahr an den Tarifvertrag Einzelhandel NRW gebunden.
 
 - **Landesrecht übersehen.** Bayern, Brandenburg und andere Länder haben eigene Urlaubsgesetze mit abweichenden Mindesturlaubstagen. Bei neuem Bundesland immer Landesspezifika prüfen.
 - **Tarifbindung durch Bezugnahmeklausel.** Auch ohne Verbandsmitgliedschaft kann ein Tarifvertrag vertraglich einbezogen sein. Prüfen, ob neue Tarifbindung auch bestehende Verträge erfasst.
-- **Betriebsrat-Zuständigkeit.** Bei neuem Betriebsrat: § 102 BetrVG gilt für JEDE Kündigung, § 99 BetrVG für jede Einstellung – sofort in Eskalationstabelle aufnehmen.
+- **Betriebsrat-Zuständigkeit.** Bei neuem Betriebsrat: Paragraf 102 BetrVG gilt für JEDE Kündigung, Paragraf 99 BetrVG für jede Einstellung – sofort in Eskalationstabelle aufnehmen.

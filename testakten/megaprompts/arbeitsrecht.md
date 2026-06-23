@@ -1519,7 +1519,8 @@ Befristung geplant?
 
 Schriftform (§ 14 Abs. 4 TzBfG)?
 ├── Eigenhändige Unterschrift auf Originaldokument vor Arbeitsaufnahme → OK
-├── Digitale Signatur (DocuSign/E-Mail) → FORMUNWIRKSAM → § 16 TzBfG: unbefristet
+├── Echte qES beider Parteien nach § 126a BGB vor Arbeitsaufnahme → OK, Zertifikat und Zeitstempel sichern
+├── E-Mail, Scan, einfache elektronische Signatur oder Signaturportal ohne qES → FORMUNWIRKSAM → § 16 TzBfG: unbefristet
 └── Unterschrift erst nach Arbeitsaufnahme → FORMUNWIRKSAM
 ```
 
@@ -1914,4 +1915,3 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
-

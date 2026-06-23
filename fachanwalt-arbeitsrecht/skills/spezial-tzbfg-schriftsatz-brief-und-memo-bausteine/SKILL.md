@@ -35,6 +35,12 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Pflichtbaustein für Entfristungsschriftsätze
+
+Wenn der Schriftsatz, Mandantenbrief oder Aktenvermerk eine Befristungsabrede angreift oder absichert, muss der Formpunkt eigenständig ausformuliert werden: Die Befristung bedarf nach Paragraf 14 Abs. 4 TzBfG zu ihrer Wirksamkeit der Schriftform. Die Schriftform ist durch Wet-Ink-Papieroriginal nach Paragraf 126 BGB oder durch echte qualifizierte elektronische Signatur beider Parteien nach Paragraf 126a BGB zu wahren. E-Mail, Scan, Signaturbild, einfache elektronische Signatur, fortgeschrittene Signatur ohne qualifiziertes Zertifikat und Standard-DocuSign/Adobe-Sign ohne qES-Stufe genügen nicht. Bei Formmangel ist die Befristung unwirksam; das Arbeitsverhältnis gilt nach Paragraf 16 Satz 1 TzBfG als unbefristet. Der Angriff erfolgt über Paragraf 17 TzBfG binnen drei Wochen nach dem vereinbarten Befristungsende.
+
+Anker für die Begründung: ArbG Berlin, Urt. v. 28.09.2021 - 36 Ca 15296/20; LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21; ArbG Gera, Urt. v. 07.03.2024 - 2 Ca 936/23.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

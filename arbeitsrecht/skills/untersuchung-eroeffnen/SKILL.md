@@ -20,8 +20,8 @@ description: "Eröffnet eine neue interne Untersuchungssache — führt die Sach
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Untersuchungseröffnung (Arbeitsrecht)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -36,22 +36,22 @@ description: "Eröffnet eine neue interne Untersuchungssache — führt die Sach
 
 **Kernvorschriften:**
 
-- § 26 BDSG: Verarbeitung von Beschäftigtendaten zur Aufdeckung von
+- Paragraf 26 BDSG: Verarbeitung von Beschäftigtendaten zur Aufdeckung von
  Straftaten oder schwerwiegenden Pflichtverletzungen — Erforderlichkeit
  und Verhältnismäßigkeit als Voraussetzung; Protokolldaten sind
  Beschäftigtendaten
-- §§ 34, 36, 37 HinSchG: Hinweisgeberschutzgesetz — Vertraulichkeit der
+- Paragrafen 34, 36, 37 HinSchG: Hinweisgeberschutzgesetz — Vertraulichkeit der
  Identität der hinweisgebenden Person; Verbot von Repressalien; interne
  Meldestelle; Dokumentationspflichten
-- § 87 Abs. 1 Nr. 6 BetrVG: Mitbestimmung bei technischen
+- Paragraf 87 Abs. 1 Nr. 6 BetrVG: Mitbestimmung bei technischen
  Überwachungseinrichtungen — vor Kommunikationsauswertungen klären
-- § 82 Abs. 2 BetrVG: Recht des Arbeitnehmers, ein Betriebsratsmitglied
+- Paragraf 82 Abs. 2 BetrVG: Recht des Arbeitnehmers, ein Betriebsratsmitglied
  zu Besprechungen über Beschwerden hinzuzuziehen
-- §§ 84, 85 BetrVG: Beschwerderecht des Arbeitnehmers; Behandlung durch
+- Paragrafen 84, 85 BetrVG: Beschwerderecht des Arbeitnehmers; Behandlung durch
  den Betriebsrat
-- § 626 Abs. 2 BGB: Zwei-Wochen-Frist — Dokumentation des ersten
+- Paragraf 626 Abs. 2 BGB: Zwei-Wochen-Frist — Dokumentation des ersten
  Kenntniszeitpunkts ab Eröffnung kritisch
-- §§ 3 ff. AGG: Diskriminierungsverbote — bei AGG-relevantem Sachverhalt
+- Paragrafen 3 ff. AGG: Diskriminierungsverbote — bei AGG-relevantem Sachverhalt
  strukturierte Untersuchung als Enthaftungsvoraussetzung
 
 **Leitentscheidungen:**
@@ -60,7 +60,7 @@ description: "Eröffnet eine neue interne Untersuchungssache — führt die Sach
  Verdachtskündigung — umfassende Sachaufklärung vor Kündigung zwingend;
  Untersuchungspflicht des Arbeitgebers; Dokumentationsanforderungen
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- Beginn der Zwei-Wochen-Frist des § 626 Abs. 2 BGB — Fristbeginn erst
+ Beginn der Zwei-Wochen-Frist des Paragraf 626 Abs. 2 BGB — Fristbeginn erst
  nach ausreichender Sachaufklärung; Pflicht, Ermittlungen zügig zu führen;
  mutwillige Verzögerung kann Verwirkung begründen
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -69,9 +69,9 @@ description: "Eröffnet eine neue interne Untersuchungssache — führt die Sach
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-- Beschäftigtendatenschutz: § 26 BDSG, Art. 5 und 6 DSGVO; Fachliteratur nur mit Nutzerquelle oder verifiziertem Live-Zugriff.
-- § 626 BGB: Zwei-Wochen-Frist, Verdachtskündigung und Anhörung nur mit verifizierter BAG-Rechtsprechung oder Nutzerquelle vertiefen.
-- AGG: §§ 12, 15, 22 AGG anhand Gesetz, Nutzerquelle und frei verifizierter Rechtsprechung prüfen.
+- Beschäftigtendatenschutz: Paragraf 26 BDSG, Art. 5 und 6 DSGVO; Fachliteratur nur mit Nutzerquelle oder verifiziertem Live-Zugriff.
+- Paragraf 626 BGB: Zwei-Wochen-Frist, Verdachtskündigung und Anhörung nur mit verifizierter BAG-Rechtsprechung oder Nutzerquelle vertiefen.
+- AGG: Paragrafen 12, 15, 22 AGG anhand Gesetz, Nutzerquelle und frei verifizierter Rechtsprechung prüfen.
 
 ## Ablauf
 
@@ -103,17 +103,17 @@ Alle Schritte aus Modus 1 der Referenz-Skill vollständig ausführen:
 Sachverhaltserfassung in einem Block, Quellencheckliste je nach Untersuchungstyp
 generieren und dem Anwalt vorlegen, Protokolldateien anlegen.
 
-**§ 82 Abs. 2 BetrVG-Hinweis:**
+**Paragraf 82 Abs. 2 BetrVG-Hinweis:**
 Wenn ein Arbeitnehmer zu Gesprächen geladen wird, die seine Beschwerde
 oder seine Stellung im Untersuchungsverfahren berühren: Hinweisen, dass
-er nach § 82 Abs. 2 BetrVG das Recht hat, ein Betriebsratsmitglied
+er nach Paragraf 82 Abs. 2 BetrVG das Recht hat, ein Betriebsratsmitglied
 hinzuzuziehen. Dies protokollieren.
 
 **Schritt 5 — Erstes Protokolldatum sichern**
 
 Datum und Uhrzeit der Eröffnung im Protokoll festhalten. Dies ist bei
 einer eventuellen Verdachtskündigung der Ausgangszeitpunkt für die
-Fristberechnung nach § 626 Abs. 2 BGB (Frist beginnt mit sicherer
+Fristberechnung nach Paragraf 626 Abs. 2 BGB (Frist beginnt mit sicherer
 Kenntnis, nicht mit bloßem Verdacht — aber Aufklärung ist zügig
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -132,7 +132,7 @@ Belästigungsbeschwerde gegen Abteilungsleiter in der Hamburger Niederlassung.
 Beispiel-Ausgabe nach Sachverhaltserfassung (Betriebsrat-Flag):
 
 > Hinweis: Die beschuldigte Person ist Betriebsratsmitglied. Kündigung
-> erfordert Zustimmung des Betriebsrats (§ 103 BetrVG) oder gerichtliche
+> erfordert Zustimmung des Betriebsrats (Paragraf 103 BetrVG) oder gerichtliche
 > Ersetzung. Dies ändert den weiteren Verfahrensablauf wesentlich —
 > Protokoll anpassen und externen Arbeitsrechtler einbinden.
 
@@ -140,29 +140,29 @@ Beispiel-Ausgabe nach Sachverhaltserfassung (Betriebsrat-Flag):
 
 - **Anwaltsleitung unklar**: Ohne klare Anwaltsleitung ist der Schutzstatus
  der Untersuchungsunterlagen fraglich. Vor Anlegen der ersten Datei klären.
-- **§ 626 Abs. 2 BGB-Uhr läuft**: Die Frist beginnt bei sicherer Kenntnis.
+- **Paragraf 626 Abs. 2 BGB-Uhr läuft**: Die Frist beginnt bei sicherer Kenntnis.
  Mutwillige Verzögerung der Untersuchung kann dazu führen, dass die
  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **§ 82 Abs. 2 BetrVG versäumt**: Wenn dem Arbeitnehmer das Recht auf
+- **Paragraf 82 Abs. 2 BetrVG versäumt**: Wenn dem Arbeitnehmer das Recht auf
  Hinzuziehung eines Betriebsratsmitglieds nicht mitgeteilt wird, kann
  dies das Verfahren belasten.
 - **HinSchG-Vertraulichkeit**: Bei Hinweisgebersachen ist die Identität der
- hinweisgebenden Person streng vertraulich zu halten (§ 8 Abs. 1 HinSchG).
+ hinweisgebenden Person streng vertraulich zu halten (Paragraf 8 Abs. 1 HinSchG).
  Protokolleinträge so gestalten, dass die Identität nicht für Unbefugte
  erkennbar ist.
 - **Betriebsrat-Sonderstatus**: Beschuldigte Betriebsratsmitglieder
- genießen besonderen Schutz (§ 103 BetrVG). Früh klären.
+ genießen besonderen Schutz (Paragraf 103 BetrVG). Früh klären.
 
 ## Quellenpflicht
 
 Bei jeder Eröffnung zitieren:
-- § 26 BDSG (Datenschutz, Verhältnismäßigkeit)
-- §§ 34, 36, 37 HinSchG (bei Hinweisgebersachen)
-- § 82 Abs. 2, §§ 84, 85 BetrVG (Betriebsratsrechte)
-- § 626 Abs. 2 BGB (Fristbeginn-Dokumentation)
+- Paragraf 26 BDSG (Datenschutz, Verhältnismäßigkeit)
+- Paragrafen 34, 36, 37 HinSchG (bei Hinweisgebersachen)
+- Paragraf 82 Abs. 2, Paragrafen 84, 85 BetrVG (Betriebsratsrechte)
+- Paragraf 626 Abs. 2 BGB (Fristbeginn-Dokumentation)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Beschäftigtendatenschutz: § 26 BDSG, Art. 5 und 6 DSGVO; Fachliteratur nur mit Nutzerquelle oder verifiziertem Live-Zugriff.
+- Beschäftigtendatenschutz: Paragraf 26 BDSG, Art. 5 und 6 DSGVO; Fachliteratur nur mit Nutzerquelle oder verifiziertem Live-Zugriff.
 
 Detaillierte Sachverhaltserfassung, Quellenchecklisten-Vorlagen und
 Protokolldateiformate befinden sich in der Referenz-Skill
@@ -177,7 +177,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 ## Triage — vor der Eröffnung klären
 
 1. Ist die Untersuchung anwaltsgeleitet? (→ legal privilege, Schutzstatus klären)
-2. Handelt es sich um einen HinSchG-Sachverhalt? (→ § 8 HinSchG Vertraulichkeit)
-3. Liegt ein Betriebsratsmitglied als Beschuldigte/r vor? (→ § 103 BetrVG beachten)
+2. Handelt es sich um einen HinSchG-Sachverhalt? (→ Paragraf 8 HinSchG Vertraulichkeit)
+3. Liegt ein Betriebsratsmitglied als Beschuldigte/r vor? (→ Paragraf 103 BetrVG beachten)
 4. Schwerbehindert? Werdende Mutter? (→ besonderer Kündigungsschutz)
-5. § 626 Abs. 2 BGB-Uhr: Datum/Uhrzeit der Eröffnung festhalten
+5. Paragraf 626 Abs. 2 BGB-Uhr: Datum/Uhrzeit der Eröffnung festhalten

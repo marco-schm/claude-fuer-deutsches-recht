@@ -1,9 +1,9 @@
 ---
 name: zugang-empfangsbeduerftiger-formgerechter
-description: "Mandant fragt: Wann gilt Kündigung Mahnung oder sonstige Erklärung als zugegangen und ab wann laeuft die Frist? § 130 BGB Zugang. Prüfraster: Machtbereichslehre Möglichkeit der Kenntnisnahme Zugangsvereitelung Annahmeverweigerung Briefkasten-Grundsaetze abweichende Grundsaetze Unternehmen mit Ein..."
+description: "Mandant fragt: Wann gilt Kündigung Mahnung oder sonstige Erklärung als zugegangen und ab wann laeuft die Frist? Paragraf 130 BGB Zugang. Prüfraster: Machtbereichslehre Möglichkeit der Kenntnisnahme Zugangsvereitelung Annahmeverweigerung Briefkasten-Grundsaetze abweichende Grundsaetze Unternehmen mit Ein..."
 ---
 
-# Zugang empfangsbedürftiger Willenserklärungen § 130 BGB
+# Zugang empfangsbedürftiger Willenserklärungen Paragraf 130 BGB
 
 ## Arbeitsweg
 
@@ -15,11 +15,11 @@ description: "Mandant fragt: Wann gilt Kündigung Mahnung oder sonstige Erkläru
 
 ## Rechtsgrundlagen
 
-- **§ 130 Abs. 1 S. 1 BGB** — Willenserklärung wird wirksam, sobald sie dem Empfänger zugeht (unter Abwesenden)
-- **§ 130 Abs. 1 S. 2 BGB** — Widerruf: wirksam, wenn Widerruf nicht später als die Erklärung zugeht
-- **§ 130 Abs. 2 BGB** — Zugang auch wenn Erklärende bereits gestorben oder geschäftsunfähig geworden
-- **§ 130 Abs. 3 BGB** — Nicht-empfangsbedürftige Willenserklärungen (z. B. Testament) ausgenommen
-- **§ 132 BGB** — Zugang durch Zustellung (gerichtliche Zustellung als Zugangsersatz)
+- **Paragraf 130 Abs. 1 S. 1 BGB** — Willenserklärung wird wirksam, sobald sie dem Empfänger zugeht (unter Abwesenden)
+- **Paragraf 130 Abs. 1 S. 2 BGB** — Widerruf: wirksam, wenn Widerruf nicht später als die Erklärung zugeht
+- **Paragraf 130 Abs. 2 BGB** — Zugang auch wenn Erklärende bereits gestorben oder geschäftsunfähig geworden
+- **Paragraf 130 Abs. 3 BGB** — Nicht-empfangsbedürftige Willenserklärungen (z. B. Testament) ausgenommen
+- **Paragraf 132 BGB** — Zugang durch Zustellung (gerichtliche Zustellung als Zugangsersatz)
 
 ## BGH-Linie
 
@@ -41,7 +41,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Zugangsvereitelung
 
-Wer den Zugang vereitelt (z. B. Briefkasten zugeklebt, Empfangsbekenntnis verweigert, E-Mail-Postfach gelöscht), muss sich so behandeln lassen, als ob die Erklärung zugegangen wäre — § 242 BGB, Treuwidrigkeitseinwand.
+Wer den Zugang vereitelt (z. B. Briefkasten zugeklebt, Empfangsbekenntnis verweigert, E-Mail-Postfach gelöscht), muss sich so behandeln lassen, als ob die Erklärung zugegangen wäre — Paragraf 242 BGB, Treuwidrigkeitseinwand.
 
 ### Annahmeverweigerung
 
@@ -93,7 +93,7 @@ Option B — Elektronisch (qES):
  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Option C — Gerichtliche Zustellung:
- Bei streitigem Verhältnis: Antrag auf Zustellung nach § 132 BGB möglich.
+ Bei streitigem Verhältnis: Antrag auf Zustellung nach Paragraf 132 BGB möglich.
 ```
 
 ### Checkliste Zugangsnachweis

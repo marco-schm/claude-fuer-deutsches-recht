@@ -11,14 +11,14 @@ Arbeitnehmer fordert Loeschung 7 Jahre alter Abmahnung wegen unentschuldigten Fe
 
 ## Normenanker
 
-- § 102 BetrVG
-- § 17 KSchG
-- § 4 KSchG
-- § 14 TzBfG
-- § 1 KSchG
-- § 17 TzBfG
-- § 15 AGG
-- § 22 AGG
+- Paragraf 102 BetrVG
+- Paragraf 17 KSchG
+- Paragraf 4 KSchG
+- Paragraf 14 TzBfG
+- Paragraf 1 KSchG
+- Paragraf 17 TzBfG
+- Paragraf 15 AGG
+- Paragraf 22 AGG
 
 ## Rechtsprechungsanker und Quellenhygiene
 
@@ -46,18 +46,18 @@ Verbrauch der Warnfunktion nach langer beanstandungsfreier Zeit; Anspruch nach P
 
 ### Kuratierte Normen-Bibliothek
 
-- § 102 BetrVG
-- § 17 KSchG
-- § 4 KSchG
-- § 14 TzBfG
-- § 1 KSchG
-- § 17 TzBfG
-- § 15 AGG
-- § 22 AGG
-- § 5 KSchG
-- § 66 ArbGG
-- § 54 ArbGG
-- § 23 KSchG
+- Paragraf 102 BetrVG
+- Paragraf 17 KSchG
+- Paragraf 4 KSchG
+- Paragraf 14 TzBfG
+- Paragraf 1 KSchG
+- Paragraf 17 TzBfG
+- Paragraf 15 AGG
+- Paragraf 22 AGG
+- Paragraf 5 KSchG
+- Paragraf 66 ArbGG
+- Paragraf 54 ArbGG
+- Paragraf 23 KSchG
 
 ### Leitentscheidungen
 

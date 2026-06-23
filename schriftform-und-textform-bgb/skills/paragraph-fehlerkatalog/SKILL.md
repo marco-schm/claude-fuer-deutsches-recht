@@ -35,9 +35,9 @@ Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Schriftform/Textform BGB** 
 - **Diagnose:** Arbeit mit Entwurfs- oder Altfassung statt der maßgeblichen Version
 - **Heilung:** Versionsstand und Datum jedes Dokuments prüfen; maßgebliche Fassung in der Akte markieren
 
-### 5. Normzitat ohne Fassungsprüfung (§§ 126, 126a, 126b BGB)
+### 5. Normzitat ohne Fassungsprüfung (Paragrafen 126, 126a, 126b BGB)
 
-- **Symptom:** Normzitat ohne Fassungsprüfung (§§ 126, 126a, 126b BGB)
+- **Symptom:** Normzitat ohne Fassungsprüfung (Paragrafen 126, 126a, 126b BGB)
 - **Diagnose:** Zitierte Norm wurde geändert, verschoben oder aufgehoben
 - **Heilung:** Vor Abgabe jeden Paragraphen gegen gesetze-im-internet.de prüfen; Übergangsvorschriften beachten
 
@@ -51,7 +51,7 @@ Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Schriftform/Textform BGB** 
 
 - **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
 - **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag
-- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (§ 43a Abs. 2 BRAO, § 203 StGB)
+- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (Paragraf 43a Abs. 2 BRAO, Paragraf 203 StGB)
 
 ## Ausgabe
 

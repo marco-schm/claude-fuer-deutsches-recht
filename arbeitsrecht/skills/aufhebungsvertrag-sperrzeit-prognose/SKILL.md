@@ -20,8 +20,8 @@ description: "Aufhebungsvertrag Sperrzeit Prognose: ordnet Normen, Nutzerangaben
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Aufhebungsvertrag — Sperrzeit-Prognose` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -36,29 +36,29 @@ description: "Aufhebungsvertrag Sperrzeit Prognose: ordnet Normen, Nutzerangaben
 - Soziale Gründe Arbeitnehmer (Familie Krankheit Pflege)
 - Bisheriger Schriftverkehr
 
-## Schritt 1 — Sperrzeit § 159 SGB III Grundlage
+## Schritt 1 — Sperrzeit Paragraf 159 SGB III Grundlage
 
-### Tatbestand § 159 Abs. 1 Nr. 1 SGB III
+### Tatbestand Paragraf 159 Abs. 1 Nr. 1 SGB III
 
 - **Lösung des Beschäftigungs-Verhältnisses** durch Arbeitnehmer
 - Beispiele: Eigen-Kündigung, Aufhebungsvertrag mit Initiative Arbeitnehmer
 
-### Konkretisierung § 159 Abs. 1 Satz 2 SGB III
+### Konkretisierung Paragraf 159 Abs. 1 Satz 2 SGB III
 
 - "Wer das Beschäftigungs-Verhältnis durch Aufhebungsvertrag löst"
 - Auch beim Arbeitgeber-Initiierten Aufhebungsvertrag — wenn Arbeitnehmer mit-wirkt
-- BSG, Urteil vom 12.07.2006 - B 11a AL 47/05 R: Der Abschluss eines Aufhebungsvertrags zur Abwendung einer rechtmäßigen, drohenden ordentlichen betriebsbedingten Kuendigung des Arbeitgebers kann einen wichtigen Grund i.S.d. § 144 SGB III a.F. (heute § 159 SGB III) darstellen, wenn dem Arbeitnehmer die Hinnahme der Kuendigung nicht zuzumuten ist und die Kuendigungsfrist eingehalten wird. Quelle: dejure.org, Vernetzung BSG 12.07.2006 - B 11a AL 47/05 R.
+- BSG, Urteil vom 12.07.2006 - B 11a AL 47/05 R: Der Abschluss eines Aufhebungsvertrags zur Abwendung einer rechtmäßigen, drohenden ordentlichen betriebsbedingten Kuendigung des Arbeitgebers kann einen wichtigen Grund i.S.d. Paragraf 144 SGB III a.F. (heute Paragraf 159 SGB III) darstellen, wenn dem Arbeitnehmer die Hinnahme der Kuendigung nicht zuzumuten ist und die Kuendigungsfrist eingehalten wird. Quelle: dejure.org, Vernetzung BSG 12.07.2006 - B 11a AL 47/05 R.
 - BSG, Urteil vom 02.05.2012 - B 11 AL 6/11 R: Praezisierung zum Prüfumfang "objektiv rechtmäßige Kuendigung". Quelle: dejure.org, Vernetzung BSG 02.05.2012 - B 11 AL 6/11 R.
-- Massgeblich daneben: Fachliche Weisungen der Bundesagentur für Arbeit zu § 159 SGB III (Stand 01.01.2024, fortlaufend gueltig).
+- Massgeblich daneben: Fachliche Weisungen der Bundesagentur für Arbeit zu Paragraf 159 SGB III (Stand 01.01.2024, fortlaufend gueltig).
 
 ### Folge Sperrzeit
 
 - **12 Wochen** Standard
 - **6 Wochen** bei besonderer Härte
 - **3 Wochen** bei eingeschränkter Härte
-- **Anspruchs-Minderung** § 148 SGB III um Sperrzeit-Dauer
+- **Anspruchs-Minderung** Paragraf 148 SGB III um Sperrzeit-Dauer
 
-## Schritt 2 — Wichtiger Grund — Sperrzeit-Vermeidung § 159 Abs. 1 Nr. 1
+## Schritt 2 — Wichtiger Grund — Sperrzeit-Vermeidung Paragraf 159 Abs. 1 Nr. 1
 
 ### Definition
 
@@ -132,11 +132,11 @@ Unter EUR 8.000: erhöhtes Risiko
 
 ### Hinweis Steuer Fünftelregelung
 
-- **Seit 2025** durch das Wachstumschancen-Gesetz **kein LSt-Abzug** mehr durch Arbeitgeber nach der Fünftelregelung (§ 34 EStG)
+- **Seit 2025** durch das Wachstumschancen-Gesetz **kein LSt-Abzug** mehr durch Arbeitgeber nach der Fünftelregelung (Paragraf 34 EStG)
 - Vergünstigung wird **nur noch im Veranlagungs-Verfahren** durch das Finanzamt gewährt
 - Liquiditäts-Effekt: zunächst voller LSt-Abzug, Rückerstattung erst mit Steuerbescheid
 
-## Schritt 4 — Ruhenszeit § 158 SGB III
+## Schritt 4 — Ruhenszeit Paragraf 158 SGB III
 
 ### Tatbestand
 
@@ -146,7 +146,7 @@ Unter EUR 8.000: erhöhtes Risiko
 
 ### Berechnung
 
-- **Anrechnungs-Betrag** der Abfindung nach § 158 Abs. 2 SGB III (alters- und beschäftigungsdauer-abhängiger Vomhundert-Satz, **kein pauschaler Freibetrag** wie früher EUR 7.500 — gilt nicht mehr)
+- **Anrechnungs-Betrag** der Abfindung nach Paragraf 158 Abs. 2 SGB III (alters- und beschäftigungsdauer-abhängiger Vomhundert-Satz, **kein pauschaler Freibetrag** wie früher EUR 7.500 — gilt nicht mehr)
 - Anrechnungs-Quote sinkt mit Lebensalter und Betriebszugehörigkeit
 - **Letztes Brutto-Monatsgehalt** als Divisor zur Bestimmung der Ruhens-Dauer
 - Höchst-Ruhenszeit: ein Jahr
@@ -162,7 +162,7 @@ Unter EUR 8.000: erhöhtes Risiko
 Abfindung: EUR 30.000
 Letztes Brutto-Monatsgehalt: EUR 4.000
 
-Ruhens-Zeit nach § 158 Abs. 2 SGB III
+Ruhens-Zeit nach Paragraf 158 Abs. 2 SGB III
 (Vomhundert-Satz je nach Alter und Beschäftigungs-Dauer):
 Anrechnungs-Quote 50 v. H. (mittleres Lebensalter):
 30.000 × 0,50 / 4.000 = ca. 3,75 Monate Ruhenszeit
@@ -201,7 +201,7 @@ Gesamt: ca. 6 Monate ALG-Verschiebung
 #### Variante B: Aufhebungsvertrag
 
 - **Vorteil:** Klare Beendigung
-- **Vorteil:** Steuer-Vorteil Fünftelregelung § 34 EStG
+- **Vorteil:** Steuer-Vorteil Fünftelregelung Paragraf 34 EStG
 - **Nachteil:** Sperrzeit-Risiko
 
 #### Variante C: Eigenkündigung
@@ -239,25 +239,25 @@ Die Arbeitgeberin beabsichtigte den Ausspruch einer
 ordentlichen betriebsbedingten Kuendigung, da
 [Sachverhalt: Restrukturierung Stellen-Wegfall etc.].
 
-Im Rahmen der Sozialauswahl gemäss § 1 Abs. 3 KSchG
+Im Rahmen der Sozialauswahl gemäss Paragraf 1 Abs. 3 KSchG
 wäre die Arbeitnehmerin betroffen gewesen.
 
 Zur Vermeidung eines Kuendigungsschutzprozesses und
 mit Rücksicht auf die Sozialauswahl-Konstellation
 schliessen die Parteien folgende Aufhebungsvereinbarung:
 
-§ 1 Beendigung
+Paragraf 1 Beendigung
 Das Arbeitsverhältnis endet einvernehmlich zum
 [Datum] aufgrund von Gründen aus dem Bereich der
 Arbeitgeberin.
 
-§ 2 Abfindung
+Paragraf 2 Abfindung
 Die Arbeitgeberin zahlt der Arbeitnehmerin eine
-Abfindung in entsprechender Anwendung der §§ 9 10
+Abfindung in entsprechender Anwendung der Paragrafen 9 10
 KSchG in Höhe von EUR [Betrag], gestaffelt nach
 Lebensalter und Beschäftigungsdauer.
 
-§ 3 Sperrzeit-Vermeidung
+Paragraf 3 Sperrzeit-Vermeidung
 Die Parteien erklären gegenseitig, dass die Beendigung
 allein aus Gründen aus dem Bereich der Arbeitgeberin
 erfolgt, ohne dass der Arbeitnehmerin ein wichtiger
@@ -268,7 +268,7 @@ betriebsbedingte Kuendigung war Anlass des Vertrags.
 ### Klage-Verzichts-Klausel
 
 ```
-§ 4 Klage-Verzicht
+Paragraf 4 Klage-Verzicht
 Die Parteien sind sich einig, dass mit dieser
 Aufhebungsvereinbarung alle gegenseitigen Ansprüche
 aus dem beendeten Arbeitsverhältnis abgegolten sind.
@@ -277,24 +277,24 @@ aus dem beendeten Arbeitsverhältnis abgegolten sind.
 ### Steuer-Hinweis
 
 ```
-§ 5 Steuerliche Behandlung
+Paragraf 5 Steuerliche Behandlung
 Die Abfindung wird als Entlassungs-Entschädigung im
-Sinne von § 24 Nr. 1 EStG behandelt. Die Voraussetzungen
-der Fünftelregelung § 34 EStG sind eingehalten.
+Sinne von Paragraf 24 Nr. 1 EStG behandelt. Die Voraussetzungen
+der Fünftelregelung Paragraf 34 EStG sind eingehalten.
 ```
 
 ## Schritt 7 — Bei Sperrzeit-Bescheid AfA
 
 ### Widerspruch
 
-- **Ein Monat** ab Bekanntgabe, § 84 Abs. 1 SGB X (Vorverfahren §§ 78 ff. SGG)
+- **Ein Monat** ab Bekanntgabe, Paragraf 84 Abs. 1 SGB X (Vorverfahren Paragrafen 78 ff. SGG)
 - Vorlage Beweismittel wichtiger Grund
 - Sozialauswahl-Argumentation
 
 ### Klage SG
 
 - Bei Widerspruchs-Bescheid abgelehnt
-- **Ein Monat** Klage-Frist § 87 Abs. 1 SGG (drei Monate wäre § 88 SGG Untätigkeitsklage)
+- **Ein Monat** Klage-Frist Paragraf 87 Abs. 1 SGG (drei Monate wäre Paragraf 88 SGG Untätigkeitsklage)
 - Skill `pkh-erfolgsaussicht-pruefen`
 
 ## Schritt 8 — Verzahnung mit anderen Skills
@@ -357,12 +357,12 @@ und die Empfehlung verstanden habe."
 
 ## Quellen
 
-- SGB III §§ 158 159
-- SGG §§ 87 88
-- SGB X § 84
-- KSchG §§ 9 10
-- EStG §§ 24 34
+- SGB III Paragrafen 158 159
+- SGG Paragrafen 87 88
+- SGB X Paragraf 84
+- KSchG Paragrafen 9 10
+- EStG Paragrafen 24 34
 - BSG, Urteil vom 12.07.2006 - B 11a AL 47/05 R: wichtiger Grund bei drohender betriebsbedingter Kuendigung (dejure.org-Vernetzung).
 - BSG, Urteil vom 02.05.2012 - B 11 AL 6/11 R: Prüfdichte für rechtmäßige drohende Kuendigung (dejure.org-Vernetzung).
-- Fachliche Weisungen der Bundesagentur für Arbeit zu § 159 SGB III (Stand 01.01.2024, fortlaufend gueltig; arbeitsagentur.de).
+- Fachliche Weisungen der Bundesagentur für Arbeit zu Paragraf 159 SGB III (Stand 01.01.2024, fortlaufend gueltig; arbeitsagentur.de).
 - Quellenregel: Literatur (z.B. Krodel) nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

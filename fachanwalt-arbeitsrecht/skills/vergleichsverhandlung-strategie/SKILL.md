@@ -20,8 +20,8 @@ description: "Vergleichsverhandlungs-Strategie für Individual- und kollektives 
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vergleichsverhandlung und Einigung im Individual- und kollektives Arbeitsrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -90,11 +90,11 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 7. **Verschwiegenheit** (wenn von einer Partei gewuenscht).
 8. **Steuerliche Behandlung** ggf. ausdruecklich, sonst Hinweis auf Steuerberatung.
 9. **Salvatorische Klausel und Schriftform.**
-10. **Vollstreckungstitel-Ersatz:** notarielle Beurkundung, Anwaltsvergleich nach § 796a ZPO, oder Schiedsvergleich.
+10. **Vollstreckungstitel-Ersatz:** notarielle Beurkundung, Anwaltsvergleich nach Paragraf 796a ZPO, oder Schiedsvergleich.
 
 ### Bei Prozessvergleich
 
-- Protokollvergleich nach § 794 Abs. 1 Nr. 1 ZPO (Vollstreckungstitel kraft Protokollierung).
+- Protokollvergleich nach Paragraf 794 Abs. 1 Nr. 1 ZPO (Vollstreckungstitel kraft Protokollierung).
 - Widerrufsvorbehalt mit klarer Frist.
 - Kostenregelung: ueblich Kostenaufhebung, ggf. Quote.
 - Beteiligung der Streithelfer/Nebenintervenienten beachten.
@@ -158,10 +158,10 @@ Im Bereich Individual- und kollektives Arbeitsrecht oft uebersehen:
 
 ## Vollstreckbarkeit
 
-- **Anwaltsvergleich nach § 796a ZPO:** anwaltlich beurkundeter Vergleich, mit Vollstreckungsklausel des Gerichts = Vollstreckungstitel.
+- **Anwaltsvergleich nach Paragraf 796a ZPO:** anwaltlich beurkundeter Vergleich, mit Vollstreckungsklausel des Gerichts = Vollstreckungstitel.
 - **Notarieller Vergleich:** als Schuldanerkenntnis mit Vollstreckungsunterwerfung.
-- **Prozessvergleich:** § 794 Abs. 1 Nr. 1 ZPO, sofort vollstreckbar.
-- **Schiedsvergleich:** Vollstreckbarerklaerung nach §§ 1054, 1060 ZPO.
+- **Prozessvergleich:** Paragraf 794 Abs. 1 Nr. 1 ZPO, sofort vollstreckbar.
+- **Schiedsvergleich:** Vollstreckbarerklaerung nach Paragrafen 1054, 1060 ZPO.
 
 ## Vergleichs-Reichweite und Abgeltungsklausel
 
@@ -179,14 +179,14 @@ Klassische Stolperfalle in Individual- und kollektives Arbeitsrecht:
 ## Aktuelle Rechtsprechung (Stand Mai 2026) - vergleichsrelevante Querbezuege
 
 - **BAG, 03.06.2025 - 9 AZR 104/24** (kein Urlaubsverzicht durch Prozessvergleich): Pauschale Erledigungs- und Abgeltungsklauseln im Vergleich erfassen den gesetzlichen Mindesturlaub im laufenden Arbeitsverhaeltnis nicht wirksam. Empfehlung: in Vergleichsformulierung den gesetzlichen Mindesturlaub gesondert ausweisen. Quelle: dejure.org-Vernetzung; BAG-Pressemitteilung "Kein Urlaubsverzicht durch Prozessvergleich".
-- **BAG, 25.03.2026 - 5 AZR 108/25** (Freistellungsklausel): Freistellungsregelungen im Vergleich konkret und mit Anlasstatbestand formulieren, nicht pauschal; sonst Risiko der AGB-rechtlichen Unwirksamkeit (§ 307 BGB). Quelle: dejure.org-Vernetzung.
-- **BSG, 12.07.2006 - B 11a AL 47/05 R** (Sperrzeit-Vermeidung): Aufhebungsvereinbarung/Vergleich zur Abwendung einer drohenden objektiv rechtmäßigen betriebsbedingten Kuendigung begruendet wichtigen Grund i.S.d. § 159 SGB III bei eingehaltener Kuendigungsfrist und marktueblicher Abfindung. Quelle: dejure.org-Vernetzung.
+- **BAG, 25.03.2026 - 5 AZR 108/25** (Freistellungsklausel): Freistellungsregelungen im Vergleich konkret und mit Anlasstatbestand formulieren, nicht pauschal; sonst Risiko der AGB-rechtlichen Unwirksamkeit (Paragraf 307 BGB). Quelle: dejure.org-Vernetzung.
+- **BSG, 12.07.2006 - B 11a AL 47/05 R** (Sperrzeit-Vermeidung): Aufhebungsvereinbarung/Vergleich zur Abwendung einer drohenden objektiv rechtmäßigen betriebsbedingten Kuendigung begruendet wichtigen Grund i.S.d. Paragraf 159 SGB III bei eingehaltener Kuendigungsfrist und marktueblicher Abfindung. Quelle: dejure.org-Vernetzung.
 - Vor Schriftsatzverwendung jeweils Volltext und ggf. neuere Rechtsprechung in offenen Quellen prüfen.
 
 ## Paragrafenkette
 
-- § 779 BGB — Vergleich
-- § 796a ZPO — Anwaltsvergleich (vollstreckbarer Titel)
-- § 794 Abs. 1 Nr. 1 ZPO — Prozessvergleich
-- §§ 195, 199 BGB — Verjährung (Ansprüche aus Vergleich drei Jahre)
-- § 138 BGB — Sittenwidrigkeit; § 123 BGB — Anfechtung
+- Paragraf 779 BGB — Vergleich
+- Paragraf 796a ZPO — Anwaltsvergleich (vollstreckbarer Titel)
+- Paragraf 794 Abs. 1 Nr. 1 ZPO — Prozessvergleich
+- Paragrafen 195, 199 BGB — Verjährung (Ansprüche aus Vergleich drei Jahre)
+- Paragraf 138 BGB — Sittenwidrigkeit; Paragraf 123 BGB — Anfechtung

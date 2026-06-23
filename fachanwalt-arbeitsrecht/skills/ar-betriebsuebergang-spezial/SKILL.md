@@ -1,9 +1,9 @@
 ---
 name: ar-betriebsuebergang-spezial
-description: "Betriebsübergang § 613a BGB im M&A-Kontext: Asset-Deal vs: Share-Deal, identitätswahrender Übergang (EuGH/BAG-Linie), Unterrichtungsschreiben Mindestinhalt, Widerspruchsrecht 1 Monat, Haftungsfolgen..."
+description: "Betriebsübergang Paragraf 613a BGB im M&A-Kontext: Asset-Deal vs: Share-Deal, identitätswahrender Übergang (EuGH/BAG-Linie), Unterrichtungsschreiben Mindestinhalt, Widerspruchsrecht 1 Monat, Haftungsfolgen..."
 ---
 
-# Betriebsübergang § 613a BGB im M&A-Kontext: Asset-Deal vs
+# Betriebsübergang Paragraf 613a BGB im M&A-Kontext: Asset-Deal vs
 
 
 ## Arbeitsweg
@@ -14,14 +14,14 @@ description: "Betriebsübergang § 613a BGB im M&A-Kontext: Asset-Deal vs: Share
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Betriebsübergang § 613a BGB im M&A-Kontext: Asset-Deal vs. Share-Deal, identitätswahrender Übergang (EuGH/BAG-Linie), Unterrichtungsschreiben Mindestinhalt, Widerspruchsrecht 1 Monat, Haftungsfolgen, Tarif- und Betriebsvereinbarungskontinuität.
+**Fokus:** Betriebsübergang Paragraf 613a BGB im M&A-Kontext: Asset-Deal vs. Share-Deal, identitätswahrender Übergang (EuGH/BAG-Linie), Unterrichtungsschreiben Mindestinhalt, Widerspruchsrecht 1 Monat, Haftungsfolgen, Tarif- und Betriebsvereinbarungskontinuität.
 
-### AR: Betriebsübergang § 613a BGB (Spezial)
+### AR: Betriebsübergang Paragraf 613a BGB (Spezial)
 
 ## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `AR: Betriebsübergang § 613a BGB (Spezial)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `AR: Betriebsübergang Paragraf 613a BGB (Spezial)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -29,7 +29,7 @@ description: "Betriebsübergang § 613a BGB im M&A-Kontext: Asset-Deal vs: Share
 ## Einstieg
 Wenn Unterlagen (Kaufvertrag, Unterrichtungsschreiben, Arbeitsverträge) vorliegen, diese zuerst auswerten. Minimalfragen:
 
-1. **Transaktionsstruktur:** Asset-Deal (Übergang des Betriebs/Betriebsteils) oder Share-Deal (Gesellschafterebene, kein § 613a BGB)?
+1. **Transaktionsstruktur:** Asset-Deal (Übergang des Betriebs/Betriebsteils) oder Share-Deal (Gesellschafterebene, kein Paragraf 613a BGB)?
 2. **Identitätsfrage:** Welche Ressourcen gehen über — Mitarbeiter, Betriebsmittel, Kundenstamm, Organisation, Know-how? (Spector-Kriterien)
 3. **Unterrichtungsschreiben:** Liegt es vor? Welchen Inhalt hat es? Formfehler erkennbar?
 4. **Frist:** Wann wurde unterrichtet? Läuft die Widerspruchsfrist noch?
@@ -55,13 +55,13 @@ Der Übergang einer „wirtschaftlichen Einheit" erfordert das Fortbestehen ihre
 
 | Merkmal | Asset-Deal | Share-Deal |
 |---|---|---|
-| § 613a BGB anwendbar? | Ja, wenn wirtschaftliche Einheit übergeht | Nein (Gesellschaft bleibt identisch) |
+| Paragraf 613a BGB anwendbar? | Ja, wenn wirtschaftliche Einheit übergeht | Nein (Gesellschaft bleibt identisch) |
 | Arbeitsverhältnisse | Gehen kraft Gesetzes über | Bleiben unverändert |
-| Widerspruchsrecht Arbeitnehmer | § 613a Abs. 6 BGB: 1 Monat ab Unterrichtung | Kein Widerspruchsrecht |
+| Widerspruchsrecht Arbeitnehmer | Paragraf 613a Abs. 6 BGB: 1 Monat ab Unterrichtung | Kein Widerspruchsrecht |
 | Haftung | Gesamtschuldnerische Haftung alter und neuer Inhaber | Gesellschaft haftet weiter |
-| Tarif | Weitergelten nach § 613a Abs. 1 Satz 2 BGB (1 Jahr Veränderungssperre) | Keine Änderung |
+| Tarif | Weitergelten nach Paragraf 613a Abs. 1 Satz 2 BGB (1 Jahr Veränderungssperre) | Keine Änderung |
 
-## Unterrichtungsschreiben § 613a Abs. 5 BGB
+## Unterrichtungsschreiben Paragraf 613a Abs. 5 BGB
 
 ### Mindestinhalt (zwingend)
 1. Datum und Grund des Übergangs
@@ -74,7 +74,7 @@ Ein unvollständiges oder fehlerhaftes Unterrichtungsschreiben setzt die Widersp
 
 **BAG-Linie:** BAG hat in mehreren Entscheidungen die Anforderungen an den Inhalt des Unterrichtungsschreibens konkretisiert. Aktuelle BAG-Rechtsprechung vor Ausgabe live prüfen.
 
-## Widerspruchsrecht § 613a Abs. 6 BGB
+## Widerspruchsrecht Paragraf 613a Abs. 6 BGB
 
 ### Frist
 - 1 Monat ab vollständiger und korrekter Unterrichtung (schriftlich)
@@ -83,7 +83,7 @@ Ein unvollständiges oder fehlerhaftes Unterrichtungsschreiben setzt die Widersp
 ### Widerspruchsfolge
 - Arbeitsverhältnis verbleibt beim veräußernden Arbeitgeber
 - Wenn dort kein Arbeitsplatz mehr vorhanden: betriebsbedingte Kündigung möglich
-- Sozialauswahl nach § 1 Abs. 3 KSchG dann auf verbleibende Belegschaft bezogen
+- Sozialauswahl nach Paragraf 1 Abs. 3 KSchG dann auf verbleibende Belegschaft bezogen
 - Kein Anspruch auf Abfindung allein durch Widerspruch
 
 ### Strategie für Arbeitnehmer
@@ -92,10 +92,10 @@ Ein unvollständiges oder fehlerhaftes Unterrichtungsschreiben setzt die Widersp
 
 ## Tarif- und Betriebsvereinbarungskontinuität
 
-### Tarifbindung § 613a Abs. 1 Satz 2–4 BGB
+### Tarifbindung Paragraf 613a Abs. 1 Satz 2–4 BGB
 - Tarifvertragliche Rechte und Pflichten gelten beim Erwerber fort, wenn kein anderer Tarifvertrag gilt
 - 1-Jahres-Veränderungssperre: Innerhalb eines Jahres keine Verschlechterung der Arbeitsbedingungen, die auf dem Tarifvertrag beruhen
-- Nach Ablauf: Änderungsvereinbarung möglich; Tarifvertrag wirkt nachwirkend (§ 4 Abs. 5 TVG)
+- Nach Ablauf: Änderungsvereinbarung möglich; Tarifvertrag wirkt nachwirkend (Paragraf 4 Abs. 5 TVG)
 
 ### Betriebsvereinbarungen
 - BV gilt fort als Einzelvertrag, wenn kein Betriebsrat beim Erwerber vorhanden
@@ -105,13 +105,13 @@ Ein unvollständiges oder fehlerhaftes Unterrichtungsschreiben setzt die Widersp
 
 | Schritt | Prüfpunkt | Norm |
 |---|---|---|
-| 1 | Transaktionsstruktur: Asset oder Share? | § 613a BGB |
+| 1 | Transaktionsstruktur: Asset oder Share? | Paragraf 613a BGB |
 | 2 | Identitätswahrender Übergang? Spector-Kriterien | EuGH Rs. C-13/95 |
-| 3 | Unterrichtungsschreiben vollständig? | § 613a Abs. 5 BGB |
-| 4 | Widerspruchsfrist abgelaufen? | § 613a Abs. 6 BGB |
-| 5 | Tarif- und BV-Kontinuität geklärt? | § 613a Abs. 1 BGB |
-| 6 | Haftung neuer/alter Inhaber? | § 613a Abs. 2 BGB |
-| 7 | Betriebsrat unterrichtet (§ 111 BetrVG)? | §§ 111 ff. BetrVG |
+| 3 | Unterrichtungsschreiben vollständig? | Paragraf 613a Abs. 5 BGB |
+| 4 | Widerspruchsfrist abgelaufen? | Paragraf 613a Abs. 6 BGB |
+| 5 | Tarif- und BV-Kontinuität geklärt? | Paragraf 613a Abs. 1 BGB |
+| 6 | Haftung neuer/alter Inhaber? | Paragraf 613a Abs. 2 BGB |
+| 7 | Betriebsrat unterrichtet (Paragraf 111 BetrVG)? | Paragrafen 111 ff. BetrVG |
 
 ## Anschluss-Skills
 - `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` wenn Massenentlassungen im Zusammenhang stehen

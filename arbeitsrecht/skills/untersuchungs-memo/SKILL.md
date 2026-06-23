@@ -20,8 +20,8 @@ description: "Entwirft den vertraulichen Untersuchungsvermerk aus dem Untersuchu
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Untersuchungsvermerk (Arbeitsrecht)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -36,17 +36,17 @@ description: "Entwirft den vertraulichen Untersuchungsvermerk aus dem Untersuchu
 
 **Kernvorschriften:**
 
-- § 626 BGB: Außerordentliche Kündigung aus wichtigem Grund; Zwei-Wochen-Frist
- des § 626 Abs. 2 BGB — der Vermerk dokumentiert den Zeitpunkt der
+- Paragraf 626 BGB: Außerordentliche Kündigung aus wichtigem Grund; Zwei-Wochen-Frist
+ des Paragraf 626 Abs. 2 BGB — der Vermerk dokumentiert den Zeitpunkt der
  gesicherten Kenntnis als Fristbeginn
-- §§ 1, 2 KSchG: Allgemeiner Kündigungsschutz — Vermerk als Grundlage für
+- Paragrafen 1, 2 KSchG: Allgemeiner Kündigungsschutz — Vermerk als Grundlage für
  verhaltens- oder personenbedingte Kündigung; Sozialauswahl dokumentieren
-- § 102 BetrVG: Anhörung des Betriebsrats vor jeder Kündigung — Vermerk
+- Paragraf 102 BetrVG: Anhörung des Betriebsrats vor jeder Kündigung — Vermerk
  liefert die Tatsachengrundlage für die BR-Anhörung
-- § 26 BDSG: Beschäftigtendatenschutz; Verhältnismäßigkeit der Datenerhebung
+- Paragraf 26 BDSG: Beschäftigtendatenschutz; Verhältnismäßigkeit der Datenerhebung
  und -verarbeitung — Vermerk muss belegen, dass die Untersuchung verhältnismäßig
  war
-- § 22 AGG: Beweislastverteilung bei Diskriminierungsvorwürfen — bei
+- Paragraf 22 AGG: Beweislastverteilung bei Diskriminierungsvorwürfen — bei
  AGG-relevantem Sachverhalt dokumentiert der Vermerk, warum keine unzulässige
  Benachteiligung vorliegt
 
@@ -66,8 +66,8 @@ description: "Entwirft den vertraulichen Untersuchungsvermerk aus dem Untersuchu
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-- § 626 BGB: Zwei-Wochen-Frist, Verdachtskündigung und Anhörung nur mit verifizierter BAG-Rechtsprechung oder Nutzerquelle vertiefen.
-- § 102 BetrVG: Betriebsratsanhörung nach Gesetz und frei verifizierter Rechtsprechung prüfen; keine Kommentarzitate aus Modellwissen.
+- Paragraf 626 BGB: Zwei-Wochen-Frist, Verdachtskündigung und Anhörung nur mit verifizierter BAG-Rechtsprechung oder Nutzerquelle vertiefen.
+- Paragraf 102 BetrVG: Betriebsratsanhörung nach Gesetz und frei verifizierter Rechtsprechung prüfen; keine Kommentarzitate aus Modellwissen.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
  Verhaltensbedingte Kündigung — Pflichtverletzung, Interessenabwägung,
  Dokumentationsstandards
@@ -87,9 +87,9 @@ nicht erfüllt ist:
 - Einträge für Beschwerdeführer/in und Beschuldigte/n vorhanden
 - Hochprioritäre offene Quellenchecklisten-Punkte flaggen (nicht blockieren)
 - Anhörung der beschuldigten Person dokumentiert (Pflichtvoraussetzung
- für Verdachtskündigung nach § 626 BGB)
+ für Verdachtskündigung nach Paragraf 626 BGB)
 
-**§ 102 BetrVG-Hinweis:** Der Vermerk stellt die Tatsachengrundlage für eine
+**Paragraf 102 BetrVG-Hinweis:** Der Vermerk stellt die Tatsachengrundlage für eine
 etwaige BR-Anhörung bereit. Enthält der Vermerk keine vollständige
 Sachverhaltsdarstellung, kann eine auf dieser Basis erteilte BR-Anhörung
 fehlerhaft sein und die Kündigung unwirksam machen.
@@ -98,7 +98,7 @@ fehlerhaft sein und die Kündigung unwirksam machen.
 
 Falls hochprioritäre Quellen auf der Checkliste noch offen sind:
 explizit benennen, aber nicht blockieren. Anwalt entscheidet, ob der
-Entwurf trotzdem erstellt werden soll (z. B. wegen § 626 Abs. 2 BGB-Frist).
+Entwurf trotzdem erstellt werden soll (z. B. wegen Paragraf 626 Abs. 2 BGB-Frist).
 
 **Schritt 4 — Aktualisierung eines bestehenden Entwurfs**
 
@@ -145,7 +145,7 @@ Beispiel-Ausgabe bei erster Erstellung mit fehlendem Hochprioritäts-Punkt:
 
 > Warnung: Quellencheckliste: Punkt 2 (Anhörung Beschuldigte/r) ist noch
 > offen und als hochprioritär markiert. Bei einer Verdachtskündigung nach
-> § 626 BGB ist die vorherige Anhörung der beschuldigten Person zwingende
+> Paragraf 626 BGB ist die vorherige Anhörung der beschuldigten Person zwingende
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 > Entwurf trotzdem erstellen? (Antwort: ja/nein)
 
@@ -154,7 +154,7 @@ Beispiel-Ausgabe bei erster Erstellung mit fehlendem Hochprioritäts-Punkt:
 - **Anhörung fehlt**: Ohne vorherige Anhörung der beschuldigten Person vor
  Aussprechen einer Verdachtskündigung ist die Kündigung in der Regel
  unwirksam. Anhörungsdokumentation gehört zwingend in den Vermerk.
-- **§ 626 Abs. 2 BGB-Frist versäumt**: Vermerk muss Kenntnisdatum klar
+- **Paragraf 626 Abs. 2 BGB-Frist versäumt**: Vermerk muss Kenntnisdatum klar
  dokumentieren. Spätere Unklarheit über den Fristbeginn kann zur
  Unwirksamkeit der Kündigung führen.
 - **BR-Anhörung auf unvollständigem Vermerk**: Eine BR-Anhörung, die nur
@@ -172,10 +172,10 @@ Beispiel-Ausgabe bei erster Erstellung mit fehlendem Hochprioritäts-Punkt:
 ## Quellenpflicht
 
 Jede Ausgabe zum Verdachtskündigungsverfahren zitiert:
-- § 626 BGB (wichtiger Grund), § 626 Abs. 2 BGB (Frist)
-- § 102 BetrVG (BR-Anhörung)
+- Paragraf 626 BGB (wichtiger Grund), Paragraf 626 Abs. 2 BGB (Frist)
+- Paragraf 102 BetrVG (BR-Anhörung)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- § 626 BGB: Zwei-Wochen-Frist, Verdachtskündigung und Anhörung nur mit verifizierter BAG-Rechtsprechung oder Nutzerquelle vertiefen.
+- Paragraf 626 BGB: Zwei-Wochen-Frist, Verdachtskündigung und Anhörung nur mit verifizierter BAG-Rechtsprechung oder Nutzerquelle vertiefen.
 
 Detaillierte Vermerkstruktur, Glaubwürdigkeitsbewertungsrahmen und
 Aktualisierungsregeln befinden sich in der Referenz-Skill
@@ -191,5 +191,5 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 1. Wie weit ist die Untersuchung fortgeschritten? (Alle Hauptzeugen befragt? Schlüsseldokumente gesichtet?)
 2. Wurde die beschuldigte Person angehört? (→ Pflichtvoraussetzung Verdachtskündigung)
-3. Ist ein Betriebsrat zu informieren? (§ 102 BetrVG als nächster Schritt nach Vermerk)
-4. Dient der Vermerk als Grundlage für eine fristlose Kündigung? → § 626 Abs. 2 BGB-Frist läuft!
+3. Ist ein Betriebsrat zu informieren? (Paragraf 102 BetrVG als nächster Schritt nach Vermerk)
+4. Dient der Vermerk als Grundlage für eine fristlose Kündigung? → Paragraf 626 Abs. 2 BGB-Frist läuft!

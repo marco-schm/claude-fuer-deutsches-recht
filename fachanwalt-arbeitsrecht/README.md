@@ -36,6 +36,14 @@ Konvention: [`references/anwalts-dashboard-konvention.md`](../references/anwalts
 
 Plugin Fachanwalt für Arbeitsrecht nach FAO § 10. Orientierung, Kündigungsschutzklage, Betriebsratsanhörung, Befristung. Schnittstellen zum Plugin `arbeitsrecht` (operative Mandatsführung) und `kanzlei-allgemein`.
 
+## Befristung: Schriftform, qES und Entfristungsrisiko
+
+Bei jeder Befristungsabrede ist § 14 Abs. 4 TzBfG als harter Form-Stop vor alle Sachgrund- und Vorbeschäftigungsfragen zu ziehen. Zulässig sind nur Papieroriginale mit eigenhändiger Unterschrift beider Vertragsparteien oder die elektronische Form mit echter qualifizierter elektronischer Signatur beider Parteien nach § 126a BGB. Eine E-Mail, ein Scan, ein Unterschriftsbild, eine einfache elektronische Signatur, eine fortgeschrittene Signatur ohne qualifiziertes Zertifikat oder ein Standard-Signaturportal ohne qES-Stufe wahrt die Form nicht.
+
+Fehlt die Form, gilt der Arbeitsvertrag nach § 16 Satz 1 TzBfG als unbefristet. Für Arbeitnehmer läuft die Befristungskontrollklage nach § 17 TzBfG drei Wochen ab dem vereinbarten Befristungsende. Arbeitsvertragsmuster und Mandantenmemos müssen diese Rechtsfolge ausdrücklich nennen und die Signaturdokumentation als Belegposition abfragen.
+
+Rechtsprechungsanker: ArbG Berlin, Urteil vom 28.09.2021 - 36 Ca 15296/20; LAG Berlin-Brandenburg, Urteil vom 16.03.2022 - 23 Sa 1133/21; ArbG Gera, Urteil vom 07.03.2024 - 2 Ca 936/23.
+
 ## Installation in Claude Code
 
 1. ZIP herunterladen (Link oben).

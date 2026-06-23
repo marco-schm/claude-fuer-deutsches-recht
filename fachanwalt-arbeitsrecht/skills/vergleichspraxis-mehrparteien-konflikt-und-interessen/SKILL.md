@@ -1,9 +1,9 @@
 ---
 name: vergleichspraxis-mehrparteien-konflikt-und-interessen
-description: "Vergleichspraxis bei Mehrparteienkonstellationen und komplexen Interessenlagen: Dreiparteienvergleich (AG, AN, BR), Sozialplanverhandlung, Interessenausgleich § 111 BetrVG, Vergleich mit Namensliste § 1 Abs: Vergleichspraxis bei Mehrparteienkonstellationen..."
+description: "Vergleichspraxis bei Mehrparteienkonstellationen und komplexen Interessenlagen: Dreiparteienvergleich (AG, AN, BR), Sozialplanverhandlung, Interessenausgleich Paragraf 111 BetrVG, Vergleich mit Namensliste Paragraf 1 Absatz Vergleichspraxis bei Mehrparteienkonstellationen..."
 ---
 
-# Vergleichspraxis bei Mehrparteienkonstellationen und komplexen Interessenlagen: Dreiparteienvergleich (AG, AN, BR), Sozialplanverhandlung, Interessenausgleich § 111 BetrVG, Vergleich mit Namensliste § 1 Abs
+# Vergleichspraxis bei Mehrparteienkonstellationen und komplexen Interessenlagen: Dreiparteienvergleich (AG, AN, BR), Sozialplanverhandlung, Interessenausgleich Paragraf 111 BetrVG, Vergleich mit Namensliste Paragraf 1 Abs
 
 
 ## Arbeitsweg
@@ -14,14 +14,14 @@ description: "Vergleichspraxis bei Mehrparteienkonstellationen und komplexen Int
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Vergleichspraxis bei Mehrparteienkonstellationen und komplexen Interessenlagen: Dreiparteienvergleich (AG, AN, BR), Sozialplanverhandlung, Interessenausgleich § 111 BetrVG, Vergleich mit Namensliste § 1 Abs. 5 KSchG, kollektive und individuelle Vergleichsstrategie.
+**Fokus:** Vergleichspraxis bei Mehrparteienkonstellationen und komplexen Interessenlagen: Dreiparteienvergleich (AG, AN, BR), Sozialplanverhandlung, Interessenausgleich Paragraf 111 BetrVG, Vergleich mit Namensliste Paragraf 1 Abs. 5 KSchG, kollektive und individuelle Vergleichsstrategie.
 
 ### Spezial: Vergleichspraxis — Mehrparteien, Konflikt und Interessen
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Vergleichspraxis — Mehrparteien, Konflikt und Interessen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -32,7 +32,7 @@ Wenn eine Mehrparteien- oder komplexe Vergleichskonstellation vorliegt, zuerst k
 1. **Wer sind die Beteiligten?** AG, AN(e), BR, Gewerkschaft, Insolvenzverwalter?
 2. **Einzel- oder Massenfall?** Einzelkündigung oder Betriebsänderung mit vielen betroffenen AN?
 3. **Kollektiv- und Individualrechts-Schnittmenge:** Sozialplan, Interessenausgleich und individuelle Vergleiche gleichzeitig?
-4. **Welche Fristen laufen?** Klagefrist, Konsultationsfrist BR, Sperrzeit § 17 KSchG?
+4. **Welche Fristen laufen?** Klagefrist, Konsultationsfrist BR, Sperrzeit Paragraf 17 KSchG?
 5. **Was ist der Verhandlungsrahmen?** Gibt es bereits einen Sozialplan?
 
 ## Individualvergleich im Gütermin
@@ -46,24 +46,24 @@ Im Gütermin schließen AG und AN einen Vergleich. Inhalt:
 - Ausgleichsklausel
 
 ### Vergleichsformel (Individualvergleich — Standard)
-> „Die Parteien sind sich einig, dass das zwischen ihnen bestehende Arbeitsverhältnis durch ordentliche arbeitgeberseitige Kündigung vom [Datum] mit Ablauf des [Beendigungsdatum] sein Ende gefunden hat. Die Beklagte zahlt dem Kläger zur Abgeltung aller gegenseitigen Ansprüche aus dem Arbeitsverhältnis und seiner Beendigung eine Abfindung gemäß §§ 9, 10 KSchG in Höhe von [Betrag] brutto, fällig zum [Datum]. Die Beklagte verpflichtet sich, dem Kläger ein qualifiziertes Zeugnis mit der Bewertung [gut / sehr gut] auszustellen. Die Klage wird zurückgenommen. Die Kosten des Verfahrens trägt jede Partei selbst."
+> „Die Parteien sind sich einig, dass das zwischen ihnen bestehende Arbeitsverhältnis durch ordentliche arbeitgeberseitige Kündigung vom [Datum] mit Ablauf des [Beendigungsdatum] sein Ende gefunden hat. Die Beklagte zahlt dem Kläger zur Abgeltung aller gegenseitigen Ansprüche aus dem Arbeitsverhältnis und seiner Beendigung eine Abfindung gemäß Paragrafen 9, 10 KSchG in Höhe von [Betrag] brutto, fällig zum [Datum]. Die Beklagte verpflichtet sich, dem Kläger ein qualifiziertes Zeugnis mit der Bewertung [gut / sehr gut] auszustellen. Die Klage wird zurückgenommen. Die Kosten des Verfahrens trägt jede Partei selbst."
 
 ## Dreiparteien-Konstellation: AG, AN, Betriebsrat
 
 ### Wann entsteht eine Dreiparteien-Konstellation?
-- BR-Mitglied soll entlassen werden: § 103 BetrVG (Zustimmung des BR erforderlich); ggf. Beschlussverfahren zur Zustimmungsersetzung
-- Massenentlassung: BR muss nach §§ 111, 17 KSchG konsultiert werden; gleichzeitig individuelle Kündigungen
-- BR-Einwand nach § 102 Abs. 3 BetrVG: Weiterbeschäftigungsanspruch des AN
+- BR-Mitglied soll entlassen werden: Paragraf 103 BetrVG (Zustimmung des BR erforderlich); ggf. Beschlussverfahren zur Zustimmungsersetzung
+- Massenentlassung: BR muss nach Paragrafen 111, 17 KSchG konsultiert werden; gleichzeitig individuelle Kündigungen
+- BR-Einwand nach Paragraf 102 Abs. 3 BetrVG: Weiterbeschäftigungsanspruch des AN
 
 ### Verhandlungsstrategie bei BR-Einwand
-1. BR-Einwand nach § 102 Abs. 3 Nr. 3 BetrVG (Weiterbeschäftigung auf anderem Arbeitsplatz) schriftlich
-2. AN-Seite: Weiterbeschäftigungsklage (§ 102 Abs. 5 BetrVG) parallel zur KSchG-Klage möglich
+1. BR-Einwand nach Paragraf 102 Abs. 3 Nr. 3 BetrVG (Weiterbeschäftigung auf anderem Arbeitsplatz) schriftlich
+2. AN-Seite: Weiterbeschäftigungsklage (Paragraf 102 Abs. 5 BetrVG) parallel zur KSchG-Klage möglich
 3. Verhandlung: AG, AN und BR können gemeinsam eine Lösung aushandeln (Versetzung, Abfindung, Änderungskündigung)
 4. Tripartite Einigung: AG zahlt Abfindung; BR zieht Einwand zurück; AN nimmt Klage zurück
 
-## Sozialplan und Interessenausgleich (§§ 111, 112 BetrVG)
+## Sozialplan und Interessenausgleich (Paragrafen 111, 112 BetrVG)
 
-### Voraussetzungen § 111 BetrVG
+### Voraussetzungen Paragraf 111 BetrVG
 Bei Betriebsänderung (ab bestimmten Schwellen: Entlassung von ≥ 5 % der AN oder mindestens 25 AN in 30 Tagen u.a.) muss AG den BR rechtzeitig unterrichten und mit ihm über Interessenausgleich und Sozialplan verhandeln.
 
 ### Interessenausgleich vs. Sozialplan
@@ -71,10 +71,10 @@ Bei Betriebsänderung (ab bestimmten Schwellen: Entlassung von ≥ 5 % der AN od
 | Aspekt | Interessenausgleich | Sozialplan |
 |---|---|---|
 | Inhalt | Ob, wann, wie die Betriebsänderung durchgeführt wird | Ausgleich oder Milderung der wirtschaftlichen Nachteile |
-| Erzwingbar? | Nein (nicht erzwingbar; Einigungsstelle kann nur empfehlen) | Ja (Einigungsstelle kann erzwingen, § 112 Abs. 4 BetrVG) |
-| Namensliste | Möglich: § 1 Abs. 5 KSchG — Abschlussmöglichkeit | — |
+| Erzwingbar? | Nein (nicht erzwingbar; Einigungsstelle kann nur empfehlen) | Ja (Einigungsstelle kann erzwingen, Paragraf 112 Abs. 4 BetrVG) |
+| Namensliste | Möglich: Paragraf 1 Abs. 5 KSchG — Abschlussmöglichkeit | — |
 
-### Namensliste § 1 Abs. 5 KSchG
+### Namensliste Paragraf 1 Abs. 5 KSchG
 In einem Interessenausgleich können die zu entlassenden Arbeitnehmer namentlich aufgeführt werden. Rechtsfolge: Es wird vermutet, dass die Kündigung dringlich betrieblich bedingt und die Sozialauswahl korrekt ist. Nur grobe Fehler führen zur Unwirksamkeit.
 
 **Wichtig:** Die Namensliste im Interessenausgleich entfaltet keine absolute Unwiderleglichkeit; AN kann grobe Fehler bei der Sozialauswahl oder bei der Betriebsänderung selbst rügen.
@@ -84,7 +84,7 @@ In einem Interessenausgleich können die zu entlassenden Arbeitnehmer namentlich
 ### Für den Arbeitgeber
 1. Interessenausgleich mit BR verhandeln; Namensliste als Risikominderungsinstrument
 2. Sozialplan mit attraktiven Abfindungsformeln verhandeln (Anreiz für Akzeptanz)
-3. Klagefristenmanagement: Alle Kündigungen gleichzeitig aussprechen; § 17 KSchG beachten
+3. Klagefristenmanagement: Alle Kündigungen gleichzeitig aussprechen; Paragraf 17 KSchG beachten
 4. Angebot von Abfindungsprogrammen (freiwillig vor Kündigung) zur Reduzierung der Klagewelle
 
 ### Für den Arbeitnehmer
@@ -99,11 +99,11 @@ In einem Interessenausgleich können die zu entlassenden Arbeitnehmer namentlich
 |---|---|---|
 | Arbeitgeber | Schnelle Abwicklung, Planungssicherheit, geringe Kosten | Schnelles Verfahrensende; Abfindung als Gesamtpaket |
 | Arbeitnehmer | Maximale Abfindung, gutes Zeugnis, Sperrzeit-Vermeidung | Klagefrist als Verhandlungsdruck; BR-Einwand als Zusatzhebel |
-| Betriebsrat | Schutz der Belegschaft, guter Sozialplan, Weiterbeschäftigung | Verweigerung Zustimmung § 99/103 BetrVG; Einigungsstelle |
+| Betriebsrat | Schutz der Belegschaft, guter Sozialplan, Weiterbeschäftigung | Verweigerung Zustimmung Paragraf 99/103 BetrVG; Einigungsstelle |
 | Gewerkschaft | Tariflicher Rahmen, Mitgliederbindung | Tarifsozialplan; Streikrecht im Kollektivstreit |
 
 ## Anschluss-Skills
-- `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` für § 17 KSchG-Tiefenprüfung
+- `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` für Paragraf 17 KSchG-Tiefenprüfung
 - `fachanwalt-arbeitsrecht-betriebsratsanhoerung` für BR-Rechte
 - `vergleichsverhandlung-strategie` für Verhandlungstaktik im Gütermin
 

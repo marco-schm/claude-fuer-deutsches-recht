@@ -20,8 +20,8 @@ description: "KSchG Risikoampel: systematische Bewertung der Kündigung nach bet
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: KSchG Risikoampel und Gegenargumente` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -32,28 +32,28 @@ Wenn eine Kündigung vorliegt, die unter das KSchG fällt:
 1. **Art der Kündigung:** Betriebsbedingt, personenbedingt oder verhaltensbedingt?
 2. **Formelle Vollständigkeit:** Schriftform, Zugang, BR-Anhörung, Sonderkündigungsschutz?
 3. **Beweislage:** Welche Dokumentation hat der Arbeitgeber? Was bestreitet der Arbeitnehmer?
-4. **Fristen:** Ist die 3-Wochen-Frist § 4 KSchG noch offen?
+4. **Fristen:** Ist die 3-Wochen-Frist Paragraf 4 KSchG noch offen?
 
 ## Risikoampel — Formelle Voraussetzungen
 
-### Schriftform § 623 BGB
+### Schriftform Paragraf 623 BGB
 | Befund | Ampel | Gegenargument Gegenseite |
 |---|---|---|
 | Originale Unterschrift vorhanden | Grün | — |
-| Faksimile-Stempel / Kopie | Rot | Kündigung nichtig § 125 BGB; kein Fristlauf |
+| Faksimile-Stempel / Kopie | Rot | Kündigung nichtig Paragraf 125 BGB; kein Fristlauf |
 | E-Mail / WhatsApp / Fax | Rot | Wie Faksimile |
-| Fehlende Vollmacht (§ 174 BGB) | Rot (wenn sofort gerügt) | Zurückweisungsrecht unverzüglich |
+| Fehlende Vollmacht (Paragraf 174 BGB) | Rot (wenn sofort gerügt) | Zurückweisungsrecht unverzüglich |
 
-### BR-Anhörung § 102 BetrVG
+### BR-Anhörung Paragraf 102 BetrVG
 | Befund | Ampel | Möglicher Angriff |
 |---|---|---|
 | BR angehört, vollständige Gründe | Grün | — |
 | BR nicht angehört | Rot | Unwirksamkeit unabhängig vom materiellen Grund |
 | Anhörung unvollständig (Sozialdaten fehlen) | Gelb-Rot | Unwirksamkeit; AG muss vollständig darlegen |
-| BR hat Einwände erhoben | Gelb | Weiterbeschäftigungsanspruch § 102 Abs. 5 BetrVG |
+| BR hat Einwände erhoben | Gelb | Weiterbeschäftigungsanspruch Paragraf 102 Abs. 5 BetrVG |
 | Kein BR vorhanden | Grün (für AG) | AN-Angriff nicht möglich |
 
-### Massenentlassung § 17 KSchG
+### Massenentlassung Paragraf 17 KSchG
 | Befund | Ampel | Risiko |
 |---|---|---|
 | Schwellenwert nicht erreicht | Grün | — |
@@ -71,12 +71,12 @@ Wenn eine Kündigung vorliegt, die unter das KSchG fällt:
 | Keine Dokumentation | Gelb | AN: konkrete Maßnahme nicht bewiesen |
 | Arbeitsplatz besteht faktisch weiter | Rot | AN: kein dringendes Erfordernis |
 
-### Sozialauswahl § 1 Abs. 3 KSchG
+### Sozialauswahl Paragraf 1 Abs. 3 KSchG
 | Befund | Ampel | Angriffspunkt |
 |---|---|---|
 | Vergleichsgruppe korrekt bestimmt; Sozialpunkte berechnet | Grün | AN: andere Arbeitnehmer vergleichbar |
 | Keine Dokumentation der Auswahl | Gelb-Rot | AN: Auswahl sozialwidrig; AG muss offenlegen |
-| Leistungsträger herausgenommen (§ 1 Abs. 3 Satz 2 KSchG) | Gelb | Herausnahme muss begründet sein |
+| Leistungsträger herausgenommen (Paragraf 1 Abs. 3 Satz 2 KSchG) | Gelb | Herausnahme muss begründet sein |
 
 ### Weiterbeschäftigungsmöglichkeit
 | Befund | Ampel | Angriffspunkt |
@@ -126,7 +126,7 @@ Wenn eine Kündigung vorliegt, die unter das KSchG fällt:
 - `ar-kuendigungspruefung-workflow` für Schritt-für-Schritt-Prüfung
 - `fachanwalt-arbeitsrecht-kuendigungsschutzklage` für Klageschrift
 - `ar-abfindungs-rechner-modular` für Abfindungsberechnung
-- `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` für § 17 KSchG-Details
+- `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` für Paragraf 17 KSchG-Details
 
 ## Was dieser Arbeitsgang nicht macht
 - Keine abschließende Kündigungsschutzprüfung ohne vollständige Dokumentenvorlage.

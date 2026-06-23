@@ -14,14 +14,14 @@ description: "Unternehmen wird verkauft oder Betrieb geht auf neuen Inhaber übe
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Unternehmen wird verkauft oder Betrieb geht auf neuen Inhaber über und Arbeitnehmer fragen nach Rechten oder Kündigungsschutz. Prüfraster Identitätswahrung wirtschaftliche Einheit EuGH-Suezen-Kriterien § 613a BGB. Pflicht zur Unterrichtung § 613a Abs. 5 BGB schriftlich vollständig. Widerspruchsrecht Arbeitnehmer § 613a Abs. 6 BGB Frist ein Monat. Haftung Erwerber und Veraeusserer § 613a Abs. 2 BGB gesamtschuldnerisch. Kündigungsverbot § 613a Abs. 4 BGB wegen Betriebsuebergang. Output Prüf-Memo Übergangsprotokoll BR-Beteiligung § 111 BetrVG Interessenausgleich Sozialplan.
+**Fokus:** Unternehmen wird verkauft oder Betrieb geht auf neuen Inhaber über und Arbeitnehmer fragen nach Rechten oder Kündigungsschutz. Prüfraster Identitätswahrung wirtschaftliche Einheit EuGH-Suezen-Kriterien Paragraf 613a BGB. Pflicht zur Unterrichtung Paragraf 613a Abs. 5 BGB schriftlich vollständig. Widerspruchsrecht Arbeitnehmer Paragraf 613a Abs. 6 BGB Frist ein Monat. Haftung Erwerber und Veraeusserer Paragraf 613a Abs. 2 BGB gesamtschuldnerisch. Kündigungsverbot Paragraf 613a Abs. 4 BGB wegen Betriebsuebergang. Output Prüf-Memo Übergangsprotokoll BR-Beteiligung Paragraf 111 BetrVG Interessenausgleich Sozialplan.
 
-### Betriebsübergang § 613a BGB prüfen
+### Betriebsübergang Paragraf 613a BGB prüfen
 
 ## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Betriebsübergang § 613a BGB prüfen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Betriebsübergang Paragraf 613a BGB prüfen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -31,7 +31,7 @@ description: "Unternehmen wird verkauft oder Betrieb geht auf neuen Inhaber übe
 Bevor losgelegt wird, kläre:
 1. Handelt es sich um einen Asset Deal, Share Deal oder Outsourcing?
 2. Wird Personal mitübernommen oder nur Funktionen?
-3. Besteht ein Betriebsrat (Mitbestimmung § 111 BetrVG)?
+3. Besteht ein Betriebsrat (Mitbestimmung Paragraf 111 BetrVG)?
 4. Sind Tarifverträge anwendbar, die auf den Erwerber übergehen sollen?
 5. Welche Schlüsselpersonen könnten widersprechen?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
@@ -49,14 +49,14 @@ Bevor losgelegt wird, kläre:
 
 ## Zentrale Anspruchsgrundlagen & Normen
 
-- **§ 613a Abs. 1 BGB** — Eintrittswirkung des Erwerbers in Rechte und Pflichten
-- **§ 613a Abs. 2 BGB** — gesamtschuldnerische Haftung Erwerber/Veräußerer (Veräußerer haftet 1 Jahr für vorher fällig gewordene Ansprüche)
-- **§ 613a Abs. 4 BGB** — Kündigungsverbot wegen Betriebsübergangs (beidseitig)
-- **§ 613a Abs. 5 BGB** — Pflicht zur schriftlichen Unterrichtung der Arbeitnehmer
-- **§ 613a Abs. 6 BGB** — Widerspruchsrecht; Frist: 1 Monat ab Zugang der Unterrichtung
-- **§§ 111, 112, 113 BetrVG** — Unterrichtung und Beratung Betriebsrat; Interessenausgleich; Sozialplan; Nachteilsausgleich bei Verletzung
-- **§§ 322 ff., 324 UmwG** — Umwandlungsrecht; § 613a entsprechend anwendbar bei Spaltung und Verschmelzung
-- **§ 125 InsO** — erleichterte Kündigung im Insolvenzverfahren; § 613a BGB gilt auch in Insolvenz
+- **Paragraf 613a Abs. 1 BGB** — Eintrittswirkung des Erwerbers in Rechte und Pflichten
+- **Paragraf 613a Abs. 2 BGB** — gesamtschuldnerische Haftung Erwerber/Veräußerer (Veräußerer haftet 1 Jahr für vorher fällig gewordene Ansprüche)
+- **Paragraf 613a Abs. 4 BGB** — Kündigungsverbot wegen Betriebsübergangs (beidseitig)
+- **Paragraf 613a Abs. 5 BGB** — Pflicht zur schriftlichen Unterrichtung der Arbeitnehmer
+- **Paragraf 613a Abs. 6 BGB** — Widerspruchsrecht; Frist: 1 Monat ab Zugang der Unterrichtung
+- **Paragrafen 111, 112, 113 BetrVG** — Unterrichtung und Beratung Betriebsrat; Interessenausgleich; Sozialplan; Nachteilsausgleich bei Verletzung
+- **Paragrafen 322 ff., 324 UmwG** — Umwandlungsrecht; Paragraf 613a entsprechend anwendbar bei Spaltung und Verschmelzung
+- **Paragraf 125 InsO** — erleichterte Kündigung im Insolvenzverfahren; Paragraf 613a BGB gilt auch in Insolvenz
 
 ## Aktuelle Rechtsprechung
 
@@ -80,22 +80,22 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Entscheidungsbaum:**
 - Werden Maschinen, Räume und wesentliches Personal übertragen? → Ja: Betriebsübergang wahrscheinlich → weiter zu Schritt 2
-- Geht nur die Funktion über, ohne Personal und Betriebsmittel? → Nein: bloße Funktionsnachfolge, kein § 613a BGB
+- Geht nur die Funktion über, ohne Personal und Betriebsmittel? → Nein: bloße Funktionsnachfolge, kein Paragraf 613a BGB
 - Personalintensive Dienstleistung (Reinigung, Bewachung, Pflege)? → Übernahme des wesentlichen Personals entscheidend (EuGH, Süzen)
 
 **Fallgruppen:**
 - **Asset Deal / Maschinenbau** — typisch Betriebsübergang: Maschinen, Räume, Personal, Kundenstamm
-- **IT-Outsourcing** — je nach Konstellation; bei reiner Funktionsnachfolge ohne Personal kein § 613a
-- **Reinigungsfirma-Wechsel** — häufig kein § 613a (Personal wird nicht übernommen)
-- **ICT / Software / Know-how-zentral** — häufig § 613a auch ohne Maschinen-Übergang
+- **IT-Outsourcing** — je nach Konstellation; bei reiner Funktionsnachfolge ohne Personal kein Paragraf 613a
+- **Reinigungsfirma-Wechsel** — häufig kein Paragraf 613a (Personal wird nicht übernommen)
+- **ICT / Software / Know-how-zentral** — häufig Paragraf 613a auch ohne Maschinen-Übergang
 
-### Schritt 2 — Folgen: Eintrittswirkung § 613a Abs. 1 BGB
+### Schritt 2 — Folgen: Eintrittswirkung Paragraf 613a Abs. 1 BGB
 
 - Erwerber tritt in **Rechte und Pflichten** der Arbeitsverhältnisse ein (Kontinuität von Lohn, Urlaub, Betriebszugehörigkeit)
-- Tarifvertrag — bei Verbandsmitgliedschaft Erwerber: dynamische Weitergeltung; sonst: statische Weitergeltung nach § 613a Abs. 1 S. 2 BGB für 1 Jahr
-- Betriebsvereinbarungen — statische Weitergeltung 1 Jahr nach § 613a Abs. 1 S. 2 BGB
+- Tarifvertrag — bei Verbandsmitgliedschaft Erwerber: dynamische Weitergeltung; sonst: statische Weitergeltung nach Paragraf 613a Abs. 1 S. 2 BGB für 1 Jahr
+- Betriebsvereinbarungen — statische Weitergeltung 1 Jahr nach Paragraf 613a Abs. 1 S. 2 BGB
 
-### Schritt 3 — Unterrichtungspflicht § 613a Abs. 5 BGB
+### Schritt 3 — Unterrichtungspflicht Paragraf 613a Abs. 5 BGB
 
 **Form und Inhalt — Mindestanforderungen:**
 - Schriftlich; an jeden betroffenen Arbeitnehmer persönlich
@@ -105,13 +105,13 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
  - Grund des Übergangs
  - Rechtliche, wirtschaftliche und soziale Folgen für die Arbeitnehmer
  - Vorgesehene Maßnahmen
- - Widerspruchsrecht mit Frist (§ 613a Abs. 6 BGB)
+ - Widerspruchsrecht mit Frist (Paragraf 613a Abs. 6 BGB)
 
 **Folge fehlerhafter Unterrichtung:**
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Schadensersatz bei schuldhafter Verletzung
 
-### Schritt 4 — Widerspruchsrecht § 613a Abs. 6 BGB
+### Schritt 4 — Widerspruchsrecht Paragraf 613a Abs. 6 BGB
 
 - Frist: **1 Monat** ab Zugang der ordnungsgemäßen Unterrichtung
 - Bei fehlerhafter Unterrichtung: Frist läuft nicht
@@ -119,24 +119,24 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - Veräußerer kann bei fehlender Beschäftigungsmöglichkeit betriebsbedingt kündigen
 - Strategisches Risiko: Schlüsselpersonen können widersprechen → Kommunikationsstrategie vor Vollzug wichtig
 
-### Schritt 5 — Kündigungsverbot § 613a Abs. 4 BGB
+### Schritt 5 — Kündigungsverbot Paragraf 613a Abs. 4 BGB
 
 - Kündigung **wegen** des Betriebsübergangs ist unwirksam — beidseitig (Veräußerer und Erwerber)
 - Kündigungen aus anderen Gründen (personenbedingt, verhaltensbedingt, betriebsbedingt aus anderen Gründen) bleiben möglich
 - Beweislast: Arbeitgeber muss nachweisen, dass die Kündigung nicht wegen des Übergangs ausgesprochen wurde
 
-### Schritt 6 — Haftung § 613a Abs. 2 BGB
+### Schritt 6 — Haftung Paragraf 613a Abs. 2 BGB
 
 - Erwerber haftet für alle nach Übergang fälligen Ansprüche
 - Veräußerer haftet **1 Jahr** gesamtschuldnerisch für **vor** Übergang fällig gewordene Ansprüche
 - Erwerber haftet auch für vorher fällig gewordene Ansprüche nach der Eintrittstheorie
 
-### Schritt 7 — Betriebsrat-Information § 111 BetrVG
+### Schritt 7 — Betriebsrat-Information Paragraf 111 BetrVG
 
 - Bei Betriebsänderung (> 20 Arbeitnehmer betroffen): Unterrichtungs- und Beratungspflicht
-- Interessenausgleich (§ 112 BetrVG): Verhandlungspflicht, kein Einigungszwang
-- Sozialplan (§ 112 BetrVG): Einigungszwang über Leistungen an betroffene Arbeitnehmer; erzwingbar über Einigungsstelle
-- Nachteilsausgleich nach § 113 BetrVG bei Verletzung der Interessenausgleichspflicht
+- Interessenausgleich (Paragraf 112 BetrVG): Verhandlungspflicht, kein Einigungszwang
+- Sozialplan (Paragraf 112 BetrVG): Einigungszwang über Leistungen an betroffene Arbeitnehmer; erzwingbar über Einigungsstelle
+- Nachteilsausgleich nach Paragraf 113 BetrVG bei Verletzung der Interessenausgleichspflicht
 
 ### Schritt 8 — Praktische Schritte
 
@@ -144,10 +144,10 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 |---|---|---|
 | Identifikation übergehender Bereich | Berater, Mandant | Vor Vertragsunterzeichnung |
 | Personalliste fertigen | HR Veräußerer | Mehrere Wochen vor Closing |
-| Unterrichtungs-Entwurf § 613a Abs. 5 | Berater | 3–4 Wochen vor Closing |
+| Unterrichtungs-Entwurf Paragraf 613a Abs. 5 | Berater | 3–4 Wochen vor Closing |
 | Unterrichtung versenden | Veräußerer / Erwerber | Vor Closing |
 | Widerspruchsfrist abwarten | — | 1 Monat ab Unterrichtung |
-| Betriebsrat-Information § 111 BetrVG | Veräußerer | Rechtzeitig vor Vollzug |
+| Betriebsrat-Information Paragraf 111 BetrVG | Veräußerer | Rechtzeitig vor Vollzug |
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -155,10 +155,10 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Arbeitnehmer will Betriebsuebergang anfechten | Widerspruchserklaerung nach § 613a Abs. 6 BGB; Template unten |
+| Standard — Arbeitnehmer will Betriebsuebergang anfechten | Widerspruchserklaerung nach Paragraf 613a Abs. 6 BGB; Template unten |
 | Variante A — Arbeitnehmer will beim neuen Betriebsinhaber bleiben | Uebergang hinnehmen; nur Konditionen-Prüfung sicherstellen |
 | Variante B — Betriebsuebergang rechtlich zweifelhaft | Feststellungsklage vorbereiten; Uebergang bestreiten |
-| Variante C — Insolvenz des alten Inhabers | § 613a Abs. 1 S. 4 BGB Sonderregelung prüfen; kurzfristige Handlung empfohlen |
+| Variante C — Insolvenz des alten Inhabers | Paragraf 613a Abs. 1 S. 4 BGB Sonderregelung prüfen; kurzfristige Handlung empfohlen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -168,15 +168,15 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ```
 BETRIEBSÜBERGANGSANALYSE – [Transaktion] – [Datum]
-VERTRAULICH – § 43a Abs. 2 BRAO
+VERTRAULICH – Paragraf 43a Abs. 2 BRAO
 
-Ergebnis: [§ 613a BGB anwendbar / nicht anwendbar / Grenzfall]
+Ergebnis: [Paragraf 613a BGB anwendbar / nicht anwendbar / Grenzfall]
 
 I. Tatbestand Identitätswahrung
  Sieben-Punkte-Ergebnis: [Übersicht]
  Gesamtbewertung: [Betriebsübergang ja/nein/wahrscheinlich]
 
-II. Unterrichtungspflicht § 613a Abs. 5 BGB
+II. Unterrichtungspflicht Paragraf 613a Abs. 5 BGB
  Entwurf: [angehängt / zu erstellen]
  Fristablauf Widerspruch: [Datum]
 
@@ -184,7 +184,7 @@ III. Widerspruchsrisiko
  Identifizierte Schlüsselpersonen: [Liste]
  Empfehlung Kommunikationsstrategie: [konkret]
 
-IV. Haftungsabgrenzung § 613a Abs. 2 BGB
+IV. Haftungsabgrenzung Paragraf 613a Abs. 2 BGB
  Risiken Veräußerer: [Forderungen aus Zeitraum vor Übergang]
  Risiken Erwerber: [Eintrittstheorie, Summe]
 
@@ -215,6 +215,6 @@ Handlungsempfehlungen:
 
 Zitierstandard: `../references/zitierweise.md`.
 
-- § 613a BGB; §§ 111–113 BetrVG; §§ 322 ff. UmwG; § 125 InsO
+- Paragraf 613a BGB; Paragrafen 111–113 BetrVG; Paragrafen 322 ff. UmwG; Paragraf 125 InsO
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

@@ -1,9 +1,9 @@
 ---
 name: aufhebungsvertrag-sperrzeit
-description: "Aufhebungsvertrag mit Sperrzeit-Vermeidung nach § 159 SGB III bei Eigeninitiative oder drohender Kündigung: Anwendungsfall Arbeitgeber und Arbeitnehm..."
+description: "Aufhebungsvertrag mit Sperrzeit-Vermeidung nach Paragraf 159 SGB III bei Eigeninitiative oder drohender Kündigung: Anwendungsfall Arbeitgeber und Arbeitnehm..."
 ---
 
-# Aufhebungsvertrag mit Sperrzeit-Vermeidung nach § 159 SGB III bei Eigeninitiative oder drohender Kündigung
+# Aufhebungsvertrag mit Sperrzeit-Vermeidung nach Paragraf 159 SGB III bei Eigeninitiative oder drohender Kündigung
 
 
 ## Arbeitsweg
@@ -14,14 +14,14 @@ description: "Aufhebungsvertrag mit Sperrzeit-Vermeidung nach § 159 SGB III bei
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Aufhebungsvertrag mit Sperrzeit-Vermeidung nach § 159 SGB III bei Eigeninitiative oder drohender Kündigung. Anwendungsfall Arbeitgeber und Arbeitnehmer wollen Arbeitsverhältnis auflösen ohne Sperrzeit für Arbeitslosengeld. Normen § 159 SGB III wichtiger Grund Sperrzeitentscheidung § 623 BGB Schriftform § 14 KSchG Klagefrist. Prüfraster Initiativseite wichtiger Grund Abfindung Steuerpflicht Fuenftelregelung Krankenversicherung Wettbewerbsverbot Outplacement. Output Aufhebungsvertrags-Entwurf mit Sperrzeitlegitimerung Steuerklauseln und Verhandlungsstrategie. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg.
+**Fokus:** Aufhebungsvertrag mit Sperrzeit-Vermeidung nach Paragraf 159 SGB III bei Eigeninitiative oder drohender Kündigung. Anwendungsfall Arbeitgeber und Arbeitnehmer wollen Arbeitsverhältnis auflösen ohne Sperrzeit für Arbeitslosengeld. Normen Paragraf 159 SGB III wichtiger Grund Sperrzeitentscheidung Paragraf 623 BGB Schriftform Paragraf 14 KSchG Klagefrist. Prüfraster Initiativseite wichtiger Grund Abfindung Steuerpflicht Fuenftelregelung Krankenversicherung Wettbewerbsverbot Outplacement. Output Aufhebungsvertrags-Entwurf mit Sperrzeitlegitimerung Steuerklauseln und Verhandlungsstrategie. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg.
 
 ### Aufhebungsvertrag mit Sperrzeit-Vermeidung
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Aufhebungsvertrag mit Sperrzeit-Vermeidung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -41,11 +41,11 @@ description: "Aufhebungsvertrag mit Sperrzeit-Vermeidung nach § 159 SGB III bei
 
 ### Konstellation A: Drohende ordentliche AG-Kündigung
 
-Rechtsprechungsstand: BSG, Urteil vom 12.07.2006 - B 11a AL 47/05 R: Aufhebungsvertrag zur Abwendung einer drohenden, objektiv rechtmäßigen ordentlichen betriebsbedingten Kuendigung des AG bei eingehaltener Kuendigungsfrist begruendet wichtigen Grund i.S.d. § 159 SGB III. Quelle: dejure.org, Vernetzung BSG 12.07.2006 - B 11a AL 47/05 R.
+Rechtsprechungsstand: BSG, Urteil vom 12.07.2006 - B 11a AL 47/05 R: Aufhebungsvertrag zur Abwendung einer drohenden, objektiv rechtmäßigen ordentlichen betriebsbedingten Kuendigung des AG bei eingehaltener Kuendigungsfrist begruendet wichtigen Grund i.S.d. Paragraf 159 SGB III. Quelle: dejure.org, Vernetzung BSG 12.07.2006 - B 11a AL 47/05 R.
 
 - AG hätte ordentlich kündigen können (KSchG-relevanter Grund: betrieblich, personal, verhaltensbedingt)
 - Beendigungszeitpunkt nicht früher als bei ordentlicher Kündigung
-- Abfindung **nicht höher** als 0,5 Brutto-Monatsentgelte pro Beschäftigungsjahr (Fachliche Weisungen BA zu § 159 SGB III, Stand 01.01.2024, arbeitsagentur.de)
+- Abfindung **nicht höher** als 0,5 Brutto-Monatsentgelte pro Beschäftigungsjahr (Fachliche Weisungen BA zu Paragraf 159 SGB III, Stand 01.01.2024, arbeitsagentur.de)
 
 **Folge**: keine Sperrzeit.
 
@@ -70,7 +70,7 @@ Abfindung = 0,5 Brutto-Monatsentgelte × Beschaeftigungsjahre
 
 **Verhandlungs-Spielraum**: 0,75-1,5 Brutto-Monatsgehaelter pro Jahr bei aelteren AN oder schwacher AG-Position.
 
-## 4) Steuer: Fünftel-Regelung § 34 EStG
+## 4) Steuer: Fünftel-Regelung Paragraf 34 EStG
 
 - Abfindung kann nach **Fünftel-Regelung** versteuert werden, wenn Zusammenballung
 - Voraussetzung: Abfindung in einem VZ ausgezahlt
@@ -140,7 +140,7 @@ Der vorliegende Entwurf entspricht den gesetzlichen Mindestanforderungen zur Spe
 
 ### Schritt 4 — Abschluss
 
-- Schriftform zwingend (§ 623 BGB)
+- Schriftform zwingend (Paragraf 623 BGB)
 - Notar: nicht erforderlich
 - Sofort an BA als Arbeitslosmeldung (3 Monate vor Ende empfohlen)
 
@@ -154,10 +154,10 @@ Der vorliegende Entwurf entspricht den gesetzlichen Mindestanforderungen zur Spe
 
 ## 9) BSG-Linien
 
-- **BSG, Urteil vom 12.07.2006 - B 11a AL 47/05 R**: Aufhebungsvertrag zur Abwendung einer drohenden, objektiv rechtmäßigen betriebsbedingten Kuendigung des Arbeitgebers begruendet wichtigen Grund i.S.d. § 144 SGB III a.F. (= heute § 159 SGB III), sofern die Hinnahme der Kuendigung dem Arbeitnehmer nicht zuzumuten ist und die Kuendigungsfrist eingehalten wird. Quelle: dejure.org, Vernetzung BSG 12.07.2006 - B 11a AL 47/05 R.
+- **BSG, Urteil vom 12.07.2006 - B 11a AL 47/05 R**: Aufhebungsvertrag zur Abwendung einer drohenden, objektiv rechtmäßigen betriebsbedingten Kuendigung des Arbeitgebers begruendet wichtigen Grund i.S.d. Paragraf 144 SGB III a.F. (= heute Paragraf 159 SGB III), sofern die Hinnahme der Kuendigung dem Arbeitnehmer nicht zuzumuten ist und die Kuendigungsfrist eingehalten wird. Quelle: dejure.org, Vernetzung BSG 12.07.2006 - B 11a AL 47/05 R.
 - **BSG, Urteil vom 02.05.2012 - B 11 AL 6/11 R**: Praezisierung der Anforderungen an die "objektive Rechtmaessigkeit" der drohenden Kuendigung; die Drohung muss konkret und ernsthaft sein. Quelle: dejure.org, Vernetzung BSG 02.05.2012 - B 11 AL 6/11 R.
 - **BSG, Urteil vom 17.11.2005 - B 11a/11 AL 69/04 R**: Sondernutzen für leitende Angestellte; vermeidende Aufhebungsvereinbarung. Quelle: dejure.org.
-- Fachliche Weisungen der Bundesagentur für Arbeit zu § 159 SGB III (Stand 01.01.2024, fortlaufend gueltig; arbeitsagentur.de).
+- Fachliche Weisungen der Bundesagentur für Arbeit zu Paragraf 159 SGB III (Stand 01.01.2024, fortlaufend gueltig; arbeitsagentur.de).
 - Praxisliterature und neueres BSG-Aktenzeichen ohne offene Quelle nicht zitieren.
 
 ## Anschluss
@@ -170,12 +170,12 @@ Der vorliegende Entwurf entspricht den gesetzlichen Mindestanforderungen zur Spe
 
 - BSG, 12.07.2006 - B 11a AL 47/05 R: wichtiger Grund bei drohender objektiv rechtmäßiger betriebsbedingter Kuendigung mit eingehaltener Frist. Quelle: dejure.org.
 - BSG, 02.05.2012 - B 11 AL 6/11 R: Drohung muss konkret und ernsthaft sein. Quelle: dejure.org.
-- Hinweis: Weitere BSG-Entscheidungen (Q4/2025 - Q2/2026) konnten zum Stand der Aktualisierung nicht über dejure.org/openjur.de mit Volltext und konkretem Aktenzeichen verifiziert werden. Anwaltlicher Beratungsstandard: Prüfung der jeweils aktuellen Fachlichen Weisungen der BA zu § 159 SGB III.
+- Hinweis: Weitere BSG-Entscheidungen (Q4/2025 - Q2/2026) konnten zum Stand der Aktualisierung nicht über dejure.org/openjur.de mit Volltext und konkretem Aktenzeichen verifiziert werden. Anwaltlicher Beratungsstandard: Prüfung der jeweils aktuellen Fachlichen Weisungen der BA zu Paragraf 159 SGB III.
 
 ## Paragrafenkette
 
-- § 159 SGB III — Sperrzeit
-- § 158 SGB III — Ruhen bei Abfindung (wenn Kündigungsfrist nicht eingehalten)
-- § 623 BGB — Schriftform Aufhebungsvertrag
-- § 34 EStG — Fünftel-Regelung
-- § 138 BGB — Sittenwidrigkeit; § 123 BGB — Anfechtung
+- Paragraf 159 SGB III — Sperrzeit
+- Paragraf 158 SGB III — Ruhen bei Abfindung (wenn Kündigungsfrist nicht eingehalten)
+- Paragraf 623 BGB — Schriftform Aufhebungsvertrag
+- Paragraf 34 EStG — Fünftel-Regelung
+- Paragraf 138 BGB — Sittenwidrigkeit; Paragraf 123 BGB — Anfechtung

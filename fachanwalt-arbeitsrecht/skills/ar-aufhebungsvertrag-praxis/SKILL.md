@@ -1,9 +1,9 @@
 ---
 name: ar-aufhebungsvertrag-praxis
-description: "Aufhebungsvertrag in der Praxis: Sperrzeit ALG I § 159 SGB III, steuerliche Fünftelregelung § 34 EStG, AGB-Kontrolle von Klauseln §§ 305 ff: Aufhebungsvertrag in der Praxis: Sperrzeit ALG I § 159 SGB III, steuerliche Fünftelregelung § 34 EStG, AGB-Kontrolle..."
+description: "Aufhebungsvertrag in der Praxis: Sperrzeit ALG I Paragraf 159 SGB III, steuerliche Fünftelregelung Paragraf 34 EStG, AGB-Kontrolle von Klauseln Paragrafen 305 ff: Aufhebungsvertrag in der Praxis: Sperrzeit ALG I Paragraf 159 SGB III, steuerliche Fünftelregelung Paragraf 34 EStG, AGB-Kontrolle..."
 ---
 
-# Aufhebungsvertrag in der Praxis: Sperrzeit ALG I § 159 SGB III, steuerliche Fünftelregelung § 34 EStG, AGB-Kontrolle von Klauseln §§ 305 ff
+# Aufhebungsvertrag in der Praxis: Sperrzeit ALG I Paragraf 159 SGB III, steuerliche Fünftelregelung Paragraf 34 EStG, AGB-Kontrolle von Klauseln Paragrafen 305 ff
 
 
 ## Arbeitsweg
@@ -14,14 +14,14 @@ description: "Aufhebungsvertrag in der Praxis: Sperrzeit ALG I § 159 SGB III, s
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Aufhebungsvertrag in der Praxis: Sperrzeit ALG I § 159 SGB III, steuerliche Fünftelregelung § 34 EStG, AGB-Kontrolle von Klauseln §§ 305 ff. BGB, Widerrufsrecht, Verzicht auf KSchG-Klage, Klauselrisiken. Prüfraster für Verhandlung und Mandantenleitfaden.
+**Fokus:** Aufhebungsvertrag in der Praxis: Sperrzeit ALG I Paragraf 159 SGB III, steuerliche Fünftelregelung Paragraf 34 EStG, AGB-Kontrolle von Klauseln Paragrafen 305 ff. BGB, Widerrufsrecht, Verzicht auf KSchG-Klage, Klauselrisiken. Prüfraster für Verhandlung und Mandantenleitfaden.
 
 ### AR: Aufhebungsvertrag in der Praxis
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `AR: Aufhebungsvertrag in der Praxis` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -38,19 +38,19 @@ Wenn Vertragsentwurf vorliegt, diesen zuerst auswerten. Minimalfragen für die e
 ## Rechtliche Grundstruktur
 
 ### Vertragscharakter
-Der Aufhebungsvertrag ist ein privatrechtlicher Auflösungsvertrag nach §§ 311, 241 BGB; er bedarf der Schriftform analog § 623 BGB (str., aber h.M. und risikoarme Praxis). Formfehler → Nichtigkeit nach § 125 BGB.
+Der Aufhebungsvertrag ist ein privatrechtlicher Auflösungsvertrag nach Paragrafen 311, 241 BGB; er bedarf der Schriftform analog Paragraf 623 BGB (str., aber h.M. und risikoarme Praxis). Formfehler → Nichtigkeit nach Paragraf 125 BGB.
 
-### AGB-Kontrolle §§ 305–310 BGB
-Arbeitgeberformulare unterliegen der Inhaltskontrolle nach § 307 BGB. Typische unwirksame Klauseln:
+### AGB-Kontrolle Paragrafen 305–310 BGB
+Arbeitgeberformulare unterliegen der Inhaltskontrolle nach Paragraf 307 BGB. Typische unwirksame Klauseln:
 - Pauschale „Abgeltung aller gegenseitigen Ansprüche" ohne Auflistung, wenn Restlöhne unklar sind
 - Rückzahlungsklauseln für Fortbildungskosten ohne angemessene Staffelung (BAG-Linie)
-- Wettbewerbsverbote ohne Karenzentschädigungsregelung (§§ 74 ff. HGB analog)
+- Wettbewerbsverbote ohne Karenzentschädigungsregelung (Paragrafen 74 ff. HGB analog)
 - Verfallklauseln, die laufende Ansprüche rückwirkend vernichten
 
 ### Widerrufsrecht
-Kein gesetzliches Widerrufsrecht beim Aufhebungsvertrag im Arbeitsverhältnis. Eine kurze Bedenkzeit (mind. 1 Woche, besser schriftlich vereinbart) empfiehlt sich zur Vermeidung von Arglistanfechtung. Bei Abschluss „unter Druck" → Anfechtung nach § 123 BGB prüfen.
+Kein gesetzliches Widerrufsrecht beim Aufhebungsvertrag im Arbeitsverhältnis. Eine kurze Bedenkzeit (mind. 1 Woche, besser schriftlich vereinbart) empfiehlt sich zur Vermeidung von Arglistanfechtung. Bei Abschluss „unter Druck" → Anfechtung nach Paragraf 123 BGB prüfen.
 
-## Sperrzeitrisiko § 159 SGB III
+## Sperrzeitrisiko Paragraf 159 SGB III
 
 ### Kernregel
 Wer das Arbeitsverhältnis selbst beendet oder durch vertragswidriges Verhalten Anlass zur Kündigung gegeben hat, riskiert eine Sperrzeit von bis zu 12 Wochen.
@@ -63,7 +63,7 @@ Die Bundesagentur für Arbeit prüft eigenständig, ob ein wichtiger Grund vorla
 
 **Formulierungsregel im Vertrag:** Aufhebungsvertrag auf Initiative des Arbeitgebers klar dokumentieren; „Einvernehmlichkeit" ohne Ursachenbenennung ist gefährlich.
 
-### Ruhenszeitraum § 158 SGB III
+### Ruhenszeitraum Paragraf 158 SGB III
 Zahlt der Arbeitgeber eine Abfindung und wird die ordentliche Kündigungsfrist nicht eingehalten oder unterschritten, ruht der ALG-I-Anspruch für einen errechneten Zeitraum. Faustregel: Abfindung ÷ täglichem Bemessungsentgelt = Ruhetage (vereinfacht).
 
 **Quellenregel:** Dienstanweisungen der BA und aktuelle Merkblätter live prüfen auf bundesagentur.de; keine modellwissensbasierten Rechenformeln ohne aktuellen Quellenbeleg.
@@ -76,7 +76,7 @@ Zahlt der Arbeitgeber eine Abfindung und wird die ordentliche Kündigungsfrist n
 | Zeugnisnote | Schlechtere Note als bisher faktisch ausgegeben → Anfechtungsansatz | „gut"-Note mindestens Zielvereinbarung, besser schriftlich fixieren |
 | Freistellungsklausel | Pauschale Klausel unwirksam (BAG 5 AZR 108/25) | Anlassbezogen formulieren, Vergütungsfortzahlung klar regeln |
 | Rückzahlungsklausel Fortbildung | Ohne Staffelung unwirksam (BAG-Linie) | Gestaffelte Rückzahlungspflicht nach Verbleibdauer |
-| Wettbewerbsverbot | Ohne Karenzentschädigung nichtig (§ 74 Abs. 2 HGB analog) | Karenzentschädigung ≥ 50 % der letzten Vergütung vereinbaren |
+| Wettbewerbsverbot | Ohne Karenzentschädigung nichtig (Paragraf 74 Abs. 2 HGB analog) | Karenzentschädigung ≥ 50 % der letzten Vergütung vereinbaren |
 | Geheimhaltungsklausel | Zu weit → AGB-Kontrolle; Whistleblowing nach HinSchG nicht ausschließbar | Auf Geschäftsgeheimnisse i.S.d. GeschGehG begrenzen |
 
 ## Mandantenleitfaden: Entscheidungsmatrix
@@ -90,12 +90,12 @@ Zahlt der Arbeitgeber eine Abfindung und wird die ordentliche Kündigungsfrist n
 
 ## Prüfschema Aufhebungsvertrag
 
-1. **Schriftform** (§ 623 BGB analog) gewahrt?
+1. **Schriftform** (Paragraf 623 BGB analog) gewahrt?
 2. **Anfechtungsrisiken:** Druck, Täuschung, unzureichende Bedenkzeit?
-3. **AGB-Kontrolle:** Wer hat formuliert? Klauseln nach § 307 BGB prüfen.
+3. **AGB-Kontrolle:** Wer hat formuliert? Klauseln nach Paragraf 307 BGB prüfen.
 4. **Abfindungsbetrag:** Angemessen im Verhältnis zum Kündigungsrisiko?
 5. **Sperrzeitgestaltung:** Initiative, Formulierung, Beratungsprotokoll?
-6. **Steuer:** Fünftelregelung § 34 EStG; Brutto- oder Nettovereinbarung?
+6. **Steuer:** Fünftelregelung Paragraf 34 EStG; Brutto- oder Nettovereinbarung?
 7. **Zeugnis:** Inhalt, Note, Ausstellungsfrist vereinbart?
 8. **Offene Ansprüche:** Überstunden, Urlaubsabgeltung, Boni, variable Vergütung explizit geregelt?
 9. **Vollständigkeitsklausel:** Welche Ansprüche sind wirklich erfasst?

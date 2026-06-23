@@ -38,7 +38,7 @@ description: "Arbeitsrecht: Hausbriefkasten Leerungszeiten und Zugang mit konkre
 ## Wichtig für Klagefrist
 
 - Beispiel: Einwurf Samstag 14:00 Uhr; Zugang Montag.
-- 3-Wochen-Frist § 4 KSchG laeuft ab Montag.
+- 3-Wochen-Frist Paragraf 4 KSchG laeuft ab Montag.
 
 ## Streitfaelle
 

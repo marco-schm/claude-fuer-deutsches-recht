@@ -21,7 +21,7 @@ description: "Workflow-Skill zu fachanwalt arbeitsrecht bag freistellungsklausel
 
 Leitentscheidung: BAG, Urteil vom 25.03.2026 - 5 AZR 108/25 (Wirksamkeit einer Freistellungsklausel; Widerruf der Dienstwagennutzung).
 
-Tragende Aussage: Eine vom Arbeitgeber vorformulierte (formularmaessige) Klausel, die diesen ohne weitere Voraussetzungen berechtigt, den Arbeitnehmer nach Ausspruch einer Kuendigung bis zum Ablauf der Kuendigungsfrist von der Arbeitsleistung unter Fortzahlung der Verguetung freizustellen, ist nach § 307 Abs. 1 Satz 1 BGB unwirksam. Der verfassungsrechtlich geschuetzte Beschaeftigungsanspruch des Arbeitnehmers ueberwiegt das pauschale Freistellungsinteresse. Eine Freistellung verlangt einen konkreten Anlasstatbestand (z.B. Geheimhaltungs-, Konkurrenz- oder Vertrauensschutz) und Interessenabwaegung im Einzelfall.
+Tragende Aussage: Eine vom Arbeitgeber vorformulierte (formularmaessige) Klausel, die diesen ohne weitere Voraussetzungen berechtigt, den Arbeitnehmer nach Ausspruch einer Kuendigung bis zum Ablauf der Kuendigungsfrist von der Arbeitsleistung unter Fortzahlung der Verguetung freizustellen, ist nach Paragraf 307 Abs. 1 Satz 1 BGB unwirksam. Der verfassungsrechtlich geschuetzte Beschaeftigungsanspruch des Arbeitnehmers ueberwiegt das pauschale Freistellungsinteresse. Eine Freistellung verlangt einen konkreten Anlasstatbestand (z.B. Geheimhaltungs-, Konkurrenz- oder Vertrauensschutz) und Interessenabwaegung im Einzelfall.
 
 Offene Quelle: dejure.org, Vernetzung BAG 25.03.2026 - 5 AZR 108/25; BAG-Pressemitteilung "Wirksamkeit einer Freistellungsklausel - Widerruf der Dienstwagennutzung". Status: Volltext zum Stand der Bearbeitung noch nicht voll veroeffentlicht - vor Schriftsatzverwendung Volltext pruefen.
 
@@ -31,10 +31,10 @@ Der Beschäftigungsanspruch des Arbeitnehmers darf nur mit verifizierter Rechtsp
 
 | Norm | Inhalt |
 |---|---|
-| § 307 Abs. 1 BGB | AGB-Inhaltskontrolle: unangemessene Benachteiligung |
-| § 307 Abs. 2 Nr. 1 BGB | Abweichung vom wesentlichen Grundgedanken der gesetzlichen Regelung |
-| § 615 BGB | Annahmeverzug: AG schuldet Vergütung bei verweigerter Beschäftigung |
-| § 611a BGB | Beschäftigungspflicht als vertragliche Hauptpflicht |
+| Paragraf 307 Abs. 1 BGB | AGB-Inhaltskontrolle: unangemessene Benachteiligung |
+| Paragraf 307 Abs. 2 Nr. 1 BGB | Abweichung vom wesentlichen Grundgedanken der gesetzlichen Regelung |
+| Paragraf 615 BGB | Annahmeverzug: AG schuldet Vergütung bei verweigerter Beschäftigung |
+| Paragraf 611a BGB | Beschäftigungspflicht als vertragliche Hauptpflicht |
 | Art. 1, 2 GG | Persönlichkeitsrecht und allgemeines Persönlichkeitsrecht als Grundlage des Beschäftigungsanspruchs |
 
 ### Leitentscheidungen
@@ -95,16 +95,16 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ```
 Die Beklagte hat das Arbeitsverhältnis am [Datum] gekündigt
-und die Klägerin gleichzeitig unter Hinweis auf § [X] des
+und die Klägerin gleichzeitig unter Hinweis auf Paragraf [X] des
 Arbeitsvertrags von der Arbeitsleistung freigestellt.
 
-Die in § [X] enthaltene Klausel ist eine formularmaessige
+Die in Paragraf [X] enthaltene Klausel ist eine formularmaessige
 Standardklausel, die den Arbeitgeber pauschal und ohne
 weitere Voraussetzung zur einseitigen Freistellung
 berechtigen soll. Diese Klausel ist nach der Rechtsprechung
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 unwirksam, weil sie die Klägerin unangemessen benachteiligt
-im Sinne des § 307 Abs. 1 BGB.
+im Sinne des Paragraf 307 Abs. 1 BGB.
 
 Konkrete tragfaehige Gründe fuer eine Freistellung legt die
 Beklagte nicht dar. Pauschale Hinweise genuegen nicht.
@@ -114,7 +114,7 @@ nach verifizierter Rechtsprechung besteht bis zum Ablauf der
 Kuendigungsfrist am [Datum] fort.
 
 Die Beklagte befindet sich seit [Datum der Freistellung]
-in Annahmeverzug nach § 615 BGB.
+in Annahmeverzug nach Paragraf 615 BGB.
 ```
 
 ## Schriftsatzbaustein — Annahmeverzug-Antrag
@@ -157,26 +157,26 @@ berechnet sich wie folgt: [Monat x Brutto-Monatsgehalt].
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge bei Fehler |
 |---|---|---|---|
-| 1 | Freistellungsklausel im AV vorhanden? | § 307 BGB | Nur Einzelfall-Freistellung möglich |
+| 1 | Freistellungsklausel im AV vorhanden? | Paragraf 307 BGB | Nur Einzelfall-Freistellung möglich |
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| 3 | Konkreter Freistellungsgrund? (Tabelle oben) | § 307 Abs. 1 BGB | Ohne Grund: Freistellung unwirksam |
+| 3 | Konkreter Freistellungsgrund? (Tabelle oben) | Paragraf 307 Abs. 1 BGB | Ohne Grund: Freistellung unwirksam |
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| 5 | AG in Annahmeverzug? | § 615 BGB | Vergütungspflicht trotz Freistellung |
-| 6 | Wettbewerbsverbot relevant? | §§ 74 ff. HGB | Bei nachvertr. Wettbewerbsverbot: Karenzentschädigung |
+| 5 | AG in Annahmeverzug? | Paragraf 615 BGB | Vergütungspflicht trotz Freistellung |
+| 6 | Wettbewerbsverbot relevant? | Paragrafen 74 ff. HGB | Bei nachvertr. Wettbewerbsverbot: Karenzentschädigung |
 
 ## Fristen
 
 | Frist | Dauer | Rechtsgrundlage |
 |---|---|---|
-| Annahmeverzug | Ab Zeitpunkt der Freistellung, wenn kein Grund | § 615 BGB |
+| Annahmeverzug | Ab Zeitpunkt der Freistellung, wenn kein Grund | Paragraf 615 BGB |
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| Schadensersatz bei unwirksamer Freistellung | 3 Jahre | §§ 195, 199 BGB |
+| Schadensersatz bei unwirksamer Freistellung | 3 Jahre | Paragrafen 195, 199 BGB |
 
 ## Streitwert und Kosten
 
-- **Weiterbeschäftigungsantrag**: Bruttomonatsverdienst (§ 42 Abs. 2 GKG).
+- **Weiterbeschäftigungsantrag**: Bruttomonatsverdienst (Paragraf 42 Abs. 2 GKG).
 - **Annahmeverzug-Anspruch**: Summe der ausstehenden Vergütung.
-- **Erste Instanz**: § 12a ArbGG — keine Kostenerstattung.
+- **Erste Instanz**: Paragraf 12a ArbGG — keine Kostenerstattung.
 - **Wirtschaftlicher Hauptwert**: meist im Vergleich (Abfindungs-Erhöhung wegen Beschäftigungsanspruch).
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -196,6 +196,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Quellen
 
-- BGB §§ 307, 615, 611a
+- BGB Paragrafen 307, 615, 611a
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

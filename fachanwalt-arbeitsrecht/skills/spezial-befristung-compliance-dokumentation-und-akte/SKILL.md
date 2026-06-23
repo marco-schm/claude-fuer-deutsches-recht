@@ -35,6 +35,12 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Befristungs-Formkern für die Akte
+
+Jeder Compliance-Vermerk zu einer Befristung muss gesondert dokumentieren, wie Paragraf 14 Abs. 4 TzBfG eingehalten wurde. Formwirksam ist nur das Papieroriginal mit eigenhändiger Unterschrift beider Parteien nach Paragraf 126 BGB oder eine echte qualifizierte elektronische Signatur beider Parteien nach Paragraf 126a BGB. Nicht ausreichend sind E-Mail, PDF-Scan, eingescannte Unterschrift, einfache elektronische Signatur, fortgeschrittene Signatur ohne qualifiziertes Zertifikat und Standard-Signaturportale ohne qES-Stufe. Bei elektronischem Abschluss gehören qES-Zertifikat, Signaturprüfbericht, Zeitstempel, Dokumenthash und Zugangsnachweis in die Personalakte.
+
+Rechtsprechungsanker für den Vermerk: ArbG Berlin, Urt. v. 28.09.2021 - 36 Ca 15296/20 (einfache elektronische Signatur nicht ausreichend), LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21 (Scan-Unterschrift nicht ausreichend, keine rückwirkende Heilung), ArbG Gera, Urt. v. 07.03.2024 - 2 Ca 936/23 (echte qES kann genügen). Rechtsfolge bei Formmangel: Befristung unwirksam, Arbeitsverhältnis nach Paragraf 16 Satz 1 TzBfG unbefristet; Befristungskontrollklage nach Paragraf 17 TzBfG binnen drei Wochen ab vereinbartem Ende.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

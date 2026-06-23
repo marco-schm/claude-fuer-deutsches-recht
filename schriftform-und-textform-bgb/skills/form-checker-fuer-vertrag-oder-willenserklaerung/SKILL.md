@@ -1,6 +1,6 @@
 ---
 name: form-checker-fuer-vertrag-oder-willenserklaerung
-description: "Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschrieben wurde sie eingehalten und was passiert wenn nicht? Form-Checker BGB. Prüfraster: gesetzliche vs. gewillkuerte Form Formhierarchie Nichtigkeitsfolge § 125 BGB Heilungsmöglichkeiten Abgrenzung zu Textform Schriftfor..."
+description: "Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschrieben wurde sie eingehalten und was passiert wenn nicht? Form-Checker BGB. Prüfraster: gesetzliche vs. gewillkuerte Form Formhierarchie Nichtigkeitsfolge Paragraf 125 BGB Heilungsmöglichkeiten Abgrenzung zu Textform Schriftfor..."
 ---
 
 # Form-Checker — Vertrag oder Willenserklärung
@@ -16,18 +16,18 @@ description: "Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form 
 ## Triage — kläre vor dem Check
 
 1. **Rechtsgeschäftstyp:** Welches Rechtsgeschäft soll geprüft werden (Kaufvertrag, Mietvertrag, Kündigung, Bürgschaft, Grundstückskauf)?
-2. **Gesetzliches oder vertragliches Formerfordernis:** Ist die Form gesetzlich vorgeschrieben oder nur vertraglich vereinbart (§ 127 BGB)?
-3. **Sanktion:** Was ist die Rechtsfolge bei Formverstoß — Nichtigkeit (§ 125 S. 1 BGB) oder Anfechtbarkeit?
-4. **Heilungsmöglichkeit:** Ist der Formfehler heilbar (Grundstück: § 311b Abs. 1 S. 2 BGB, Bürgschaft: § 766 S. 3 BGB)?
-5. **Elektronische Form:** Kann qES (§ 126a BGB) die Schriftform ersetzen, oder ist die Papierform zwingend?
+2. **Gesetzliches oder vertragliches Formerfordernis:** Ist die Form gesetzlich vorgeschrieben oder nur vertraglich vereinbart (Paragraf 127 BGB)?
+3. **Sanktion:** Was ist die Rechtsfolge bei Formverstoß — Nichtigkeit (Paragraf 125 S. 1 BGB) oder Anfechtbarkeit?
+4. **Heilungsmöglichkeit:** Ist der Formfehler heilbar (Grundstück: Paragraf 311b Abs. 1 S. 2 BGB, Bürgschaft: Paragraf 766 S. 3 BGB)?
+5. **Elektronische Form:** Kann qES (Paragraf 126a BGB) die Schriftform ersetzen, oder ist die Papierform zwingend?
 
 ## Zentrale Normen (ergänzend)
-- § 125 BGB (Nichtigkeit bei Formmangel — gesetzlich und vertraglich)
-- § 127 BGB (Vertragliche Formvorschriften — im Zweifel schwächer als gesetzliche)
-- § 139 BGB (Teilnichtigkeit)
-- § 140 BGB (Umdeutung)
-- § 311b BGB (Grundstück — Heilung)
-- § 623 BGB (Kündigungsschutz Arbeitsrecht — Schriftformzwang)
+- Paragraf 125 BGB (Nichtigkeit bei Formmangel — gesetzlich und vertraglich)
+- Paragraf 127 BGB (Vertragliche Formvorschriften — im Zweifel schwächer als gesetzliche)
+- Paragraf 139 BGB (Teilnichtigkeit)
+- Paragraf 140 BGB (Umdeutung)
+- Paragraf 311b BGB (Grundstück — Heilung)
+- Paragraf 623 BGB (Kündigungsschutz Arbeitsrecht — Schriftformzwang)
 
 ## Rechtsprechung
 1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -37,8 +37,8 @@ description: "Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form 
 
 ## Rechtsgrundlagen
 
-- §§ 125-129 BGB — Formerfordernisse und Sanktionen
-- Spezialgesetze: § 14 Abs. 4 TzBfG, § 623 BGB, § 568 BGB, § 656a BGB, § 550 BGB, § 766 BGB, § 311b BGB u.a.
+- Paragrafen 125-129 BGB — Formerfordernisse und Sanktionen
+- Spezialgesetze: Paragraf 14 Abs. 4 TzBfG, Paragraf 623 BGB, Paragraf 568 BGB, Paragraf 656a BGB, Paragraf 550 BGB, Paragraf 766 BGB, Paragraf 311b BGB u.a.
 
 ## Workflow
 
@@ -50,57 +50,57 @@ SCHRITT 1 — Art des Rechtsgeschäfts identifizieren
 Welches Rechtsgeschäft liegt vor?
 
 → Grundstückskauf / Grundstücksschenkung
- → Notarielle Beurkundung § 311b BGB
+ → Notarielle Beurkundung Paragraf 311b BGB
  → Heilung durch Auflassung + Eintragung
 
 → GmbH-Anteilsübertragung
- → Notarielle Beurkundung § 15 GmbHG
+ → Notarielle Beurkundung Paragraf 15 GmbHG
 
 → Ehevertrag / Scheidungsfolgenvereinbarung
- → Notarielle Beurkundung § 1410 BGB
+ → Notarielle Beurkundung Paragraf 1410 BGB
 
 → Erbvertrag
- → Notarielle Beurkundung § 2276 BGB
+ → Notarielle Beurkundung Paragraf 2276 BGB
 
 → Schenkungsversprechen (nicht sofortige Handschenkung)
- → Notarielle Beurkundung § 518 BGB
+ → Notarielle Beurkundung Paragraf 518 BGB
 
 → Wohnraummiete-Kündigung
- → Schriftform § 568 Abs. 1 BGB
+ → Schriftform Paragraf 568 Abs. 1 BGB
  → qES möglich, aber Zugang mit prüfbarer Signatur erforderlich
  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 → Gewerberaummietvertrag länger als 1 Jahr
- → Schriftform § 550 BGB
+ → Schriftform Paragraf 550 BGB
  → Alle wesentlichen Vertragsbestandteile in Urkunde
 
 → Maklervertrag Wohnraum (Kauf)
- → Textform § 656a BGB
+ → Textform Paragraf 656a BGB
  → E-Mail-Austausch reicht, kein Bereicherungsanspruch bei Verstoß
  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 → Bürgschaft (Nicht-Kaufmann)
- → Schriftform § 766 BGB
+ → Schriftform Paragraf 766 BGB
  → Originalunterschrift Bürge
 
 → Verbraucherdarlehensvertrag
- → Schriftform § 492 BGB
- → Bei Verstoß: § 494 BGB (Anpassungsfolge, keine Nichtigkeit)
+ → Schriftform Paragraf 492 BGB
+ → Bei Verstoß: Paragraf 494 BGB (Anpassungsfolge, keine Nichtigkeit)
 
 → Befristeter Arbeitsvertrag
- → Schriftform vor Arbeitsbeginn § 14 Abs. 4 TzBfG
+ → Schriftform vor Arbeitsbeginn Paragraf 14 Abs. 4 TzBfG
  → Keine Heilung, bei Verstoß: unbefristetes Arbeitsverhältnis
 
 → Kündigung Arbeitsvertrag / Aufhebungsvertrag
- → Schriftform § 623 BGB
+ → Schriftform Paragraf 623 BGB
  → direkte elektronische Form ausgeschlossen
- → Papier empfohlen; im Arbeitsgerichtsverfahren § 46h ArbGG gesondert prüfen
+ → Papier empfohlen; im Arbeitsgerichtsverfahren Paragraf 46h ArbGG gesondert prüfen
 
 → Mieterhöhungsverlangen
- → Textform § 558a Abs. 1 BGB (E-Mail zulässig)
+ → Textform Paragraf 558a Abs. 1 BGB (E-Mail zulässig)
 
 → Verbraucherwiderruf
- → Textform (§ 355 BGB i.V.m. Widerrufsbelehrung)
+ → Textform (Paragraf 355 BGB i.V.m. Widerrufsbelehrung)
 
 → Sonstiger Vertrag ohne spezifische Norm
  → Formfreiheit als Regel
@@ -129,10 +129,10 @@ Keine Formvorschrift:
 
 SCHRITT 3 — Sanktion bei Verstoß
 ──────────────────────────────────
-→ Nichtigkeit § 125 S. 1 BGB (gesetzliche Form)
-→ Nur Zweifelsregel § 125 S. 2 BGB (gewillkürte Form)
-→ Spezialfolge (§ 494 BGB, § 16 TzBfG)
-→ Heilung möglich? (§ 311b Abs. 1 S. 2, § 766 S. 3, § 518 Abs. 2 BGB)
+→ Nichtigkeit Paragraf 125 S. 1 BGB (gesetzliche Form)
+→ Nur Zweifelsregel Paragraf 125 S. 2 BGB (gewillkürte Form)
+→ Spezialfolge (Paragraf 494 BGB, Paragraf 16 TzBfG)
+→ Heilung möglich? (Paragraf 311b Abs. 1 S. 2, Paragraf 766 S. 3, Paragraf 518 Abs. 2 BGB)
 
 SCHRITT 4 — Sicherungs-Workflow
 ──────────────────────────────────
@@ -152,33 +152,33 @@ SCHRITT 4 — Sicherungs-Workflow
 | Grundstückskauf | Notarielle Beurkundung | Notar |
 | GmbH-Anteilsübertragung | Notarielle Beurkundung | Notar |
 | Ehevertrag | Notarielle Beurkundung | Notar |
-| Wohnraummiete-Kündigung | Schriftform § 568 | Papier + Bote |
-| Gewerberaummiete >1 Jahr | Schriftform § 550 | Papier + Urkundeneinheit |
-| Maklervertrag Wohnraum | Textform § 656a | E-Mail + Bestätigung |
-| Bürgschaft | Schriftform § 766 | Papier + Originalunterschrift |
-| Arbeitsbefristung | Schriftform § 14 TzBfG | Papier vor Arbeitsbeginn |
-| Kündigung Arbeitsverhältnis | Schriftform § 623 | Papier + Bote |
-| Mieterhöhung | Textform § 558a | E-Mail |
+| Wohnraummiete-Kündigung | Schriftform Paragraf 568 | Papier + Bote |
+| Gewerberaummiete >1 Jahr | Schriftform Paragraf 550 | Papier + Urkundeneinheit |
+| Maklervertrag Wohnraum | Textform Paragraf 656a | E-Mail + Bestätigung |
+| Bürgschaft | Schriftform Paragraf 766 | Papier + Originalunterschrift |
+| Arbeitsbefristung | Schriftform Paragraf 14 TzBfG | Papier vor Arbeitsbeginn |
+| Kündigung Arbeitsverhältnis | Schriftform Paragraf 623 | Papier + Bote |
+| Mieterhöhung | Textform Paragraf 558a | E-Mail |
 | Verbraucherwiderruf | Textform | E-Mail / Brief |
 
 ### Klausel-Vorschlag allgemein: einfache Schriftformklausel
 
 ```
 Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform
-gemäß § 126 BGB. Dies gilt auch für die Aufhebung dieser Klausel.
+gemäß Paragraf 126 BGB. Dies gilt auch für die Aufhebung dieser Klausel.
 ```
 
 ### Klausel-Vorschlag: qualifizierte Schriftformklausel (doppelt)
 
 ```
 Änderungen und Ergänzungen dieses Vertrages — einschließlich dieser
-Schriftformklausel — bedürfen der Schriftform gemäß § 126 BGB.
+Schriftformklausel — bedürfen der Schriftform gemäß Paragraf 126 BGB.
 Mündliche Nebenabreden sind ausgeschlossen. Auf das Schriftformerfordernis
 kann nur durch eine schriftliche Vereinbarung beider Parteien verzichtet werden.
 ```
 
 ## Fallstricke
 
-- **Formfreiheit vs. Formklausel**: Auch wenn das Gesetz keine Form vorschreibt, kann ein vertraglich vereinbartes Schriftformerfordernis gelten (§ 127 BGB). Immer den Vertrag auf Schriftformklauseln prüfen.
-- **§ 305b BGB**: Individuelle Abreden gehen AGB (einschließlich Schriftformklausel in AGB) vor — auch mündlich. Doppelte Schriftformklausel kann Schutz bieten, ist aber selbst AGB-pflichtig.
+- **Formfreiheit vs. Formklausel**: Auch wenn das Gesetz keine Form vorschreibt, kann ein vertraglich vereinbartes Schriftformerfordernis gelten (Paragraf 127 BGB). Immer den Vertrag auf Schriftformklauseln prüfen.
+- **Paragraf 305b BGB**: Individuelle Abreden gehen AGB (einschließlich Schriftformklausel in AGB) vor — auch mündlich. Doppelte Schriftformklausel kann Schutz bieten, ist aber selbst AGB-pflichtig.
 - **Formhierarchie**: Wer Textform hat, hat noch keine Schriftform. Wer Schriftform hat, hat automatisch auch Textform gewahrt.

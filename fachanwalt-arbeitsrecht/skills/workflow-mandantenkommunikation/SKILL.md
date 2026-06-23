@@ -20,8 +20,8 @@ description: "Mandantenkommunikation im Arbeitsrechtsmandat: Mandantenbriefe, E-
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Workflow: Mandantenkommunikation` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -48,7 +48,7 @@ Wenn eine Kommunikationsaufgabe vorliegt:
 >
 > **Rechtliche Lage:** [Kurze Ersteinschätzung: stark/mittlere/schwache Position]
 >
-> **Kritische Fristen:** Die Klagefrist nach § 4 KSchG läuft bis zum **[Datum]**. Um diese zu wahren, werde ich [Maßnahme] vornehmen.
+> **Kritische Fristen:** Die Klagefrist nach Paragraf 4 KSchG läuft bis zum **[Datum]**. Um diese zu wahren, werde ich [Maßnahme] vornehmen.
 >
 > **Nächste Schritte:** [1. 2. 3.]
 >
@@ -72,7 +72,7 @@ Wenn eine Kommunikationsaufgabe vorliegt:
 >
 > **Meine Einschätzung:** [Kurz: Was bedeutet das für den Prozessausgang?]
 >
-> **Nächster Termin:** [Datum, Ort, Uhrzeit] — Bitte erscheinen Sie persönlich / Ihr Erscheinen ist nicht notwendig (§ 54 ArbGG Gütermin: Mandant darf, muss aber nicht erscheinen).
+> **Nächster Termin:** [Datum, Ort, Uhrzeit] — Bitte erscheinen Sie persönlich / Ihr Erscheinen ist nicht notwendig (Paragraf 54 ArbGG Gütermin: Mandant darf, muss aber nicht erscheinen).
 >
 > Mit freundlichen Grüßen, [Anwalt]"
 
@@ -113,17 +113,17 @@ Wenn eine Kommunikationsaufgabe vorliegt:
 
 | Zeitpunkt | Pflicht | Rechtsgrundlage |
 |---|---|---|
-| Mandatsannahme | Kostenhinweis | § 49b BRAO; § 3a RVG |
-| Mandatsannahme | Interessenkonflikt-Hinweis | § 43a BRAO |
-| Vor Klageeinreichung | Aufklärung über Erfolgsaussichten und Risiken | BORA § 4 |
-| Vor Vergleich | Aufklärung über Vergleichsinhalt und -folgen | BORA § 4 |
-| Vor Berufung | Hinweis auf erhöhte Kosten und Erfolgsaussichten | BORA § 4 |
+| Mandatsannahme | Kostenhinweis | Paragraf 49b BRAO; Paragraf 3a RVG |
+| Mandatsannahme | Interessenkonflikt-Hinweis | Paragraf 43a BRAO |
+| Vor Klageeinreichung | Aufklärung über Erfolgsaussichten und Risiken | BORA Paragraf 4 |
+| Vor Vergleich | Aufklärung über Vergleichsinhalt und -folgen | BORA Paragraf 4 |
+| Vor Berufung | Hinweis auf erhöhte Kosten und Erfolgsaussichten | BORA Paragraf 4 |
 | Laufend | Verfahrensstandsmeldung | Mandatsverhältnis |
 
 ## Gesprächsvorbereitung Gütermin
 
 ### Was muss der Mandant vor dem Gütermin wissen?
-1. Was ist ein Gütermin? (Einigungsgespräch ohne Beweisaufnahme; § 54 ArbGG)
+1. Was ist ein Gütermin? (Einigungsgespräch ohne Beweisaufnahme; Paragraf 54 ArbGG)
 2. Darf der Mandant reden? (Im Gütermin: ja, aber nur auf Zeichen des Anwalts)
 3. Was ist unser Ziel? (Mindestabfindung X, Zeugnisnote Y, Beendigungsdatum Z)
 4. Was ist die Fallback-Position? (Wenn kein Vergleich → Kammertermin)

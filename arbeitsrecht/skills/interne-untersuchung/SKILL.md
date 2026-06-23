@@ -20,8 +20,8 @@ description: "gemeinsames Framework für arbeitsrechtliche interne Untersuchunge
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Interne Untersuchung — Referenz-Skill (Arbeitsrecht)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -36,13 +36,13 @@ description: "gemeinsames Framework für arbeitsrechtliche interne Untersuchunge
 > Schutzcharakter der Unterlagen gefährden. Alle Dateien dort aufbewahren, wo
 > vertrauliche Unterlagen gelagert werden, und jede Weitergabe bewusst entscheiden.
 
-**§ 26 BDSG — Beschäftigtendatenschutz**: Die Verarbeitung personenbezogener
+**Paragraf 26 BDSG — Beschäftigtendatenschutz**: Die Verarbeitung personenbezogener
 Beschäftigtendaten im Rahmen interner Untersuchungen ist nur zulässig, wenn
 sie zur Aufdeckung von Straftaten oder schwerwiegenden Pflichtverletzungen
 erforderlich ist und das schutzwürdige Interesse der betroffenen Arbeitnehmer
 nicht überwiegt. Verhältnismäßigkeit ist bei jedem Schritt zu prüfen.
 
-**Mitbestimmung § 87 Abs. 1 Nr. 6 BetrVG**: Der Einsatz technischer
+**Mitbestimmung Paragraf 87 Abs. 1 Nr. 6 BetrVG**: Der Einsatz technischer
 Überwachungseinrichtungen (z. B. E-Mail-Auswertung, IT-Forensik) unterliegt
 dem Mitbestimmungsrecht des Betriebsrats. Bevor Kommunikationsauswertungen
 vorgenommen werden, ist die Zustimmung des Betriebsrats oder eine
@@ -57,19 +57,19 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 
 **Kernvorschriften:**
 
-- § 26 BDSG: Datenverarbeitung für Zwecke des Beschäftigungsverhältnisses;
+- Paragraf 26 BDSG: Datenverarbeitung für Zwecke des Beschäftigungsverhältnisses;
  Verarbeitung zur Aufdeckung von Straftaten; Verhältnismäßigkeit
 - Art. 5, 6 DSGVO: Rechtmäßigkeit der Verarbeitung; berechtigtes Interesse
  als Verarbeitungsgrundlage
-- § 87 Abs. 1 Nr. 6 BetrVG: Mitbestimmung bei technischen
+- Paragraf 87 Abs. 1 Nr. 6 BetrVG: Mitbestimmung bei technischen
  Überwachungseinrichtungen
-- § 32 BDSG a.F. / § 26 BDSG n.F.: Kontinuität der Rspr. zur
+- Paragraf 32 BDSG a.F. / Paragraf 26 BDSG n.F.: Kontinuität der Rspr. zur
  Beschäftigtendatenverarbeitung
-- § 611a BGB: Arbeitnehmereigenschaft; Mitwirkungspflichten im
+- Paragraf 611a BGB: Arbeitnehmereigenschaft; Mitwirkungspflichten im
  Arbeitsverhältnis
-- § 241 Abs. 2 BGB: Nebenpflichten, insbesondere Auskunftspflicht des
+- Paragraf 241 Abs. 2 BGB: Nebenpflichten, insbesondere Auskunftspflicht des
  Arbeitnehmers im Rahmen des Arbeitsverhältnisses
-- §§ 626, 314 BGB: Außerordentliche Kündigung bei schwerwiegenden
+- Paragrafen 626, 314 BGB: Außerordentliche Kündigung bei schwerwiegenden
  Pflichtverletzungen; Verdachtskündigung
 
 **Leitentscheidungen:**
@@ -90,10 +90,10 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-- § 626 BGB: Zwei-Wochen-Frist, Verdachtskündigung und Anhörung nur mit verifizierter BAG-Rechtsprechung oder Nutzerquelle vertiefen.
-- Beschäftigtendatenschutz: § 26 BDSG, Art. 5 und 6 DSGVO; Fachliteratur nur mit Nutzerquelle oder verifiziertem Live-Zugriff.
-- § 87 Abs. 1 Nr. 6 BetrVG: Mitbestimmung bei technischen Überwachungseinrichtungen; Rechtsprechung nur frei verifiziert zitieren.
-- AGG: §§ 12, 15, 22 AGG anhand Gesetz, Nutzerquelle und frei verifizierter Rechtsprechung prüfen.
+- Paragraf 626 BGB: Zwei-Wochen-Frist, Verdachtskündigung und Anhörung nur mit verifizierter BAG-Rechtsprechung oder Nutzerquelle vertiefen.
+- Beschäftigtendatenschutz: Paragraf 26 BDSG, Art. 5 und 6 DSGVO; Fachliteratur nur mit Nutzerquelle oder verifiziertem Live-Zugriff.
+- Paragraf 87 Abs. 1 Nr. 6 BetrVG: Mitbestimmung bei technischen Überwachungseinrichtungen; Rechtsprechung nur frei verifiziert zitieren.
+- AGG: Paragrafen 12, 15, 22 AGG anhand Gesetz, Nutzerquelle und frei verifizierter Rechtsprechung prüfen.
 
 ---
 
@@ -122,22 +122,22 @@ Frage folgende Punkte in einem einzigen Block ab:
 > - Finanzen: Spesenmanipulation / Beschaffungsunregelmäßigkeiten / Untreue
 > - Führungskraft: Interessenkonflikt / unzulässige Beziehungen /
 > Governance-Verstöße
-> - Hinweisgeber: Vergeltung gegen geschützte Tätigkeit (§§ 34, 36 HinSchG)
+> - Hinweisgeber: Vergeltung gegen geschützte Tätigkeit (Paragrafen 34, 36 HinSchG)
 > - Sonstiges: kurz beschreiben
 >
 > **Vertretung und Betriebsrat**
 > - Ist die beschuldigte Person, die beschwerdeführende Person oder ein
 > erwarteter Zeuge durch einen Betriebsrat vertreten oder durch Tarifvertrag
-> erfasst? (Wenn ja: Informationsrecht des Betriebsrats nach § 102 BetrVG
+> erfasst? (Wenn ja: Informationsrecht des Betriebsrats nach Paragraf 102 BetrVG
 > bei etwaiger Kündigung beachten; kein eigenständiges Teilnahmerecht an
-> Investigativgesprächen, aber § 82 Abs. 2 BetrVG: Arbeitnehmer darf
+> Investigativgesprächen, aber Paragraf 82 Abs. 2 BetrVG: Arbeitnehmer darf
 > Betriebsratsmitglied zur Besprechung über Beschwerde hinzuziehen)
 > - Ist die Gesellschaft ein öffentlich-rechtlicher Arbeitgeber (Behörde,
 > Hochschule, Staatsunternehmen)? (Wenn ja: Besonderheiten des öffentlichen
 > Dienstrechts, ggf. Personalvertretungsgesetz statt BetrVG prüfen)
 
-Wenn Betriebsratsteilnahme-Frage aufgeworfen wird: § 82 Abs. 2 BetrVG,
-§ 84 BetrVG (Beschwerderecht), § 85 BetrVG (Behandlung von Beschwerden)
+Wenn Betriebsratsteilnahme-Frage aufgeworfen wird: Paragraf 82 Abs. 2 BetrVG,
+Paragraf 84 BetrVG (Beschwerderecht), Paragraf 85 BetrVG (Behandlung von Beschwerden)
 recherchieren, bevor Gespräche geführt werden.
 
 ### Schritt 2 — Verzeichnis und Dateien anlegen
@@ -162,7 +162,7 @@ zuletzt_aktualisiert: "[ISO-Datum]"
 
 fragen:
  - "[Frage 1 — aus dem Vorwurf abgeleitet, z. B. 'Liegt eine unzulässige
- Benachteiligung nach § 3 AGG vor?']"
+ Benachteiligung nach Paragraf 3 AGG vor?']"
  - "[Frage 2 falls zutreffend]"
 
 eintraege: []
@@ -208,7 +208,7 @@ quellen:
  notizen: ""
  - id: 4
  quelle: "E-Mail-/Kommunikationsauswertung — Beteiligte, relevanter Zeitraum
- (§ 87 Abs. 1 Nr. 6 BetrVG beachten: Mitbestimmung Betriebsrat)"
+ (Paragraf 87 Abs. 1 Nr. 6 BetrVG beachten: Mitbestimmung Betriebsrat)"
  status: offen
  notizen: ""
  - id: 5
@@ -239,7 +239,7 @@ quellen:
  status: offen
  notizen: ""
  - id: 11
- quelle: "Dokumentation der Anhörungshinweise (§ 82 Abs. 2 BetrVG /
+ quelle: "Dokumentation der Anhörungshinweise (Paragraf 82 Abs. 2 BetrVG /
  Hinweis auf Recht zur Hinzuziehung eines BR-Mitglieds)"
  status: offen
  notizen: ""
@@ -267,7 +267,7 @@ quellen:
  notizen: ""
  - id: 5
  quelle: "E-Mail-/Kommunikationsauswertung — betroffene Person, Genehmiger,
- Gegenparteien (§ 87 Abs. 1 Nr. 6 BetrVG beachten)"
+ Gegenparteien (Paragraf 87 Abs. 1 Nr. 6 BetrVG beachten)"
  status: offen
  notizen: ""
  - id: 6
@@ -318,7 +318,7 @@ quellen:
  notizen: ""
  - id: 6
  quelle: "E-Mail-/Kommunikationsauswertung — betroffene Person, relevante
- Gegenparteien (§ 87 Abs. 1 Nr. 6 BetrVG beachten)"
+ Gegenparteien (Paragraf 87 Abs. 1 Nr. 6 BetrVG beachten)"
  status: offen
  notizen: ""
  - id: 7
@@ -356,7 +356,7 @@ quellen:
  notizen: ""
  - id: 4
  quelle: "Unterlagen zu nachteiligen Maßnahmen gegenüber hinweisgebender
- Person nach der Meldung (§§ 36, 37 HinSchG)"
+ Person nach der Meldung (Paragrafen 36, 37 HinSchG)"
  status: offen
  notizen: ""
  - id: 5
@@ -375,7 +375,7 @@ quellen:
  notizen: ""
  - id: 8
  quelle: "Zeitliche Nähe: Meldetätigkeit zu nachteiliger Maßnahme
- (§ 36 Abs. 2 HinSchG: Beweislastumkehr)"
+ (Paragraf 36 Abs. 2 HinSchG: Beweislastumkehr)"
  status: offen
  notizen: ""
  - id: 9
@@ -403,7 +403,7 @@ Frage (sofern nicht aus dem Kontext klar):
 - Anwaltsnotizen oder Beobachtungen
 - Bestätigung eines Anhörungshinweises
 
-**§ 26 BDSG-Verhältnismäßigkeitsprüfung**: Bei Dokumentenpaketen stets prüfen,
+**Paragraf 26 BDSG-Verhältnismäßigkeitsprüfung**: Bei Dokumentenpaketen stets prüfen,
 ob die Verarbeitung der enthaltenen Beschäftigtendaten zur Aufklärung des
 Vorwurfs erforderlich und verhältnismäßig ist.
 
@@ -427,7 +427,7 @@ relevanter Fund.
 5. Enthält Aussagen, die einem bereits protokollierten Zeugenbericht
  widersprechen — Widerspruch und den betroffenen Protokolleintrag benennen
 6. Enthält sprach- oder inhaltlich sensibles Material: diskriminierende
- Ausdrücke, Drohungen, Bezugnahmen auf geschützte Merkmale (§ 1 AGG),
+ Ausdrücke, Drohungen, Bezugnahmen auf geschützte Merkmale (Paragraf 1 AGG),
  Unregelmäßigkeiten, die dem Vorwurfsmuster entsprechen
 7. Ist ein Dokumententyp, der in früheren Schilderungen erwähnt, aber noch
  nicht im Dokumentensatz aufgetaucht ist → als Beweislücke protokollieren,
@@ -711,10 +711,10 @@ soll sie unterstützen?
 ## Quellenpflicht
 
 Bei jeder Ausgabe zu Untersuchungsverfahren zitieren:
-- § 26 BDSG (Beschäftigtendatenschutz, Verhältnismäßigkeit)
-- § 87 Abs. 1 Nr. 6 BetrVG (Mitbestimmung bei technischer Überwachung)
+- Paragraf 26 BDSG (Beschäftigtendatenschutz, Verhältnismäßigkeit)
+- Paragraf 87 Abs. 1 Nr. 6 BetrVG (Mitbestimmung bei technischer Überwachung)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Beschäftigtendatenschutz: § 26 BDSG, Art. 5 und 6 DSGVO; Fachliteratur nur mit Nutzerquelle oder verifiziertem Live-Zugriff.
-- § 626 BGB: Zwei-Wochen-Frist, Verdachtskündigung und Anhörung nur mit verifizierter BAG-Rechtsprechung oder Nutzerquelle vertiefen.
+- Beschäftigtendatenschutz: Paragraf 26 BDSG, Art. 5 und 6 DSGVO; Fachliteratur nur mit Nutzerquelle oder verifiziertem Live-Zugriff.
+- Paragraf 626 BGB: Zwei-Wochen-Frist, Verdachtskündigung und Anhörung nur mit verifizierter BAG-Rechtsprechung oder Nutzerquelle vertiefen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

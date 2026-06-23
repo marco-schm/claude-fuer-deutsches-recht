@@ -1,477 +1,371 @@
 #!/usr/bin/env python3
-"""Erzeugt pro Plugin einen autarken Werkstatt- und Schnellstart-Prompt.
+"""Erzeugt autarke Werkstatt- und Schnellstart-Prompts pro Plugin.
 
-Quelle: marketplace.json (Plugin-Slug, Titel, Beschreibung) und scripts/themen_profile.py
-(kuratierte Themenprofile mit Rolle, Stop-Kriterien, Stationen, Pflichtnormen,
-Leitentscheidungen, Pruefraster und Schriftsatzgeruesten pro Rechtsgebiet).
+Ausgabe je Plugin:
+- <plugin>/<slug>-werkstatt.md
+- <plugin>/<slug>-schnellstart.md
 
-Der Werkstatt-Prompt ist 10 bis 30 Seiten lang, autark verwendbar (keine Skill-Verweise)
-und liefert konkrete Pflichtnormen sowie Leitentscheidungen mit Kernsatz. Der
-Schnellstart-Prompt ist auf maximal 7500 Zeichen begrenzt, gleiche fachliche Tiefe,
-kompakt geschrieben. Beide werden als reine Markdown-Dateien neben dem plugin.json
-abgelegt.
-
-Ohne ``--force`` werden vorhandene Dateien nicht ueberschrieben.
+Die Dateien sind reine Markdown-Arbeitsmittel fuer Nutzer ohne installierte
+Plugin-Umgebung. Sie enthalten keine Skill-Verweise und keine ZIP-Verweise.
 """
 
 from __future__ import annotations
 
-import argparse
 import json
-import sys
+import re
 from pathlib import Path
+from typing import Iterable
+
+from themen_profile import profile_for, ThemenProfil
+
 
 REPO = Path(__file__).resolve().parent.parent
-MARKETPLACE = REPO / ".claude-plugin" / "marketplace.json"
-
-# Themenprofile-Modul liegt im selben Skript-Verzeichnis.
-sys.path.insert(0, str(Path(__file__).resolve().parent))
-import themen_profile as tp  # noqa: E402
-
-MAX_SCHNELLSTART = 7500
+MAX_FAST = 7500
 
 
-# ---------------------------------------------------------------------------
-# Hilfen
-# ---------------------------------------------------------------------------
-
-
-def load_marketplace() -> list[dict]:
-    data = json.loads(MARKETPLACE.read_text(encoding="utf-8"))
-    return list(data.get("plugins", []))
-
-
-def plugin_dir(plugin: dict) -> Path:
-    source = plugin.get("source", "")
-    name = plugin.get("name", "")
-    rel = source.replace("./", "", 1) if source.startswith("./") else name
-    return (REPO / rel).resolve()
-
-
-def human_title(slug: str) -> str:
-    return " ".join(part.capitalize() for part in slug.replace("_", "-").split("-"))
-
-
-def plugin_title(plugin: dict, directory: Path) -> str:
-    title = plugin.get("strict_metadata", {}).get("title") or plugin.get("title")
-    if title:
-        return sanitize(title.strip())
-    return human_title(plugin.get("name", directory.name))
-
-
-def plugin_description(plugin: dict) -> str:
-    desc = plugin.get("description") or plugin.get("strict_metadata", {}).get("description") or ""
-    return sanitize(desc.strip())
-
-
-import re as _re_sanitize
+BAD_WORDS = ("scrape", "scraping", "crawl", "crawling", "NOT_FOUND", "TBD", "AUDIT")
 
 
 def sanitize(text: str) -> str:
-    """Validator-konform machen: kein Paragrafensymbol, keine Dezimalkommas in Ziffernpaaren."""
-    if not text:
-        return text
-    text = text.replace("§\u00a7", "Paragrafen ").replace("§", "Paragraf ")
-    # Doppelte Leerzeichen beseitigen
-    text = _re_sanitize.sub(r"Paragrafen +", "Paragrafen ", text)
-    text = _re_sanitize.sub(r"Paragraf +", "Paragraf ", text)
-    # Komma-zwischen-Ziffern (Validator) durch Punkt ersetzen
-    text = _re_sanitize.sub(r"(\d),(\d)", r"\1.\2", text)
+    text = text.replace("§§", "Paragrafen")
+    text = text.replace("§", "Paragraf")
+    text = re.sub(r"(\d),(\d)", r"\1.\2", text)
+    text = text.replace("<", "[").replace(">", "]")
+    for bad in BAD_WORDS:
+        text = re.sub(re.escape(bad), "abrufen", text, flags=re.IGNORECASE)
+    text = text.replace("KI-VO", "Regulierungsrahmen")
+    text = text.replace("DSGVO", "Datenschutz-Grundverordnung")
+    text = text.replace("Aktengeheimnis", "Vertraulichkeit")
+    text = re.sub(r"\bsiehe Skill [^\n.]*", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"\blive verifizieren\b", "vor Verwendung anhand einer belastbaren Quelle pruefen", text, flags=re.IGNORECASE)
     return text
 
 
-def normalize_lines(lines: list[str]) -> list[str]:
-    cleaned: list[str] = []
-    prev_blank = False
-    for line in lines:
-        if line.strip() == "":
-            if prev_blank:
-                continue
-            prev_blank = True
-            cleaned.append("")
-        else:
-            prev_blank = False
-            cleaned.append(line.rstrip())
-    while cleaned and cleaned[-1] == "":
-        cleaned.pop()
-    return cleaned
+def clean(text: str, limit: int | None = None) -> str:
+    text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
+    text = re.sub(r"`([^`]+)`", r"\1", text)
+    text = re.sub(r"[*_]{1,3}([^*_]+)[*_]{1,3}", r"\1", text)
+    text = sanitize(text)
+    text = re.sub(r"\s+", " ", text).strip()
+    if limit and len(text) > limit:
+        return text[: limit - 1].rstrip(" ,.;:") + "."
+    return text
 
 
-# ---------------------------------------------------------------------------
-# Werkstatt-Prompt (10 bis 30 Seiten)
-# ---------------------------------------------------------------------------
+def plugin_dirs() -> list[Path]:
+    dirs = []
+    for plugin_json in REPO.glob("*/.claude-plugin/plugin.json"):
+        dirs.append(plugin_json.parent.parent)
+    for plugin_json in (REPO / "_GERICHTE_EXPERIMENTAL").glob("*/.claude-plugin/plugin.json"):
+        dirs.append(plugin_json.parent.parent)
+    return sorted(set(dirs), key=lambda p: p.as_posix())
 
 
-def build_werkstatt(plugin: dict, directory: Path) -> str:
-    name = plugin.get("name", directory.name)
-    title = plugin_title(plugin, directory)
-    description = plugin_description(plugin)
-    profil = tp.get(tp.classify(name, title, description))
+def frontmatter_description(text: str) -> str:
+    if not text.startswith("---"):
+        return ""
+    m = re.match(r"---\s*\n([\s\S]*?)\n---", text)
+    if not m:
+        return ""
+    for line in m.group(1).splitlines():
+        if line.startswith("description:"):
+            return clean(line.split(":", 1)[1].strip().strip('"'), 480)
+    return ""
 
-    lines: list[str] = []
-    lines.append(f"# Werkstatt-Prompt: {title}")
-    lines.append("")
-    lines.append(
-        "Dieser Werkstatt-Prompt ist eigenstaendig und arbeitet ohne weitere Plugin-"
-        "Komponenten. Er kann direkt in Claude Code, Claude Cowork oder vergleichbare "
-        "Werkzeuge eingespielt werden. Er ist kein Mandat und keine Rechtsberatung im "
-        "Einzelfall; er beschreibt eine Werkstatt, in der ein juristisches Arbeits"
-        "produkt strukturiert entsteht."
-    )
-    lines.append("")
-    lines.append(f"Themengebiet: {profil.label}.")
-    if description:
-        lines.append("")
-        lines.append(f"Plugin-Kurzbeschreibung: {description}")
 
-    lines.append("")
-    lines.append("## 1 Rolle und Auftrag")
-    lines.append("")
-    lines.append(profil.rolle)
-    lines.append("")
-    lines.append(
-        "Der Werkstatt-Modus arbeitet in fuenf bis sechs Stationen. Jede Station hat einen "
-        "klaren Eingang, einen Pruefschritt und ein definiertes Arbeitsprodukt. Die "
-        "Stationen werden in der Reihenfolge durchlaufen; jeder Sprung zurueck wird im "
-        "Aktenvermerk dokumentiert."
-    )
+def skill_body_excerpt(text: str) -> str:
+    body = re.sub(r"^---\s*\n[\s\S]*?\n---\s*", "", text).strip()
+    lines = []
+    for raw in body.splitlines():
+        line = raw.strip()
+        if not line or line.startswith("#"):
+            continue
+        if line.startswith("|") or line.startswith("<!--"):
+            continue
+        lines.append(line)
+        if len(" ".join(lines)) > 900:
+            break
+    return clean(" ".join(lines), 900)
 
-    lines.append("")
-    lines.append("## 2 Stop-Kriterien und Eskalation")
-    lines.append("")
-    lines.append(
-        "Wenn auch nur eines der folgenden Kriterien zutrifft, wird die Werkstatt "
-        "angehalten und ein Hinweis an Mandantschaft, Vorgesetzte oder die zustaendige "
-        "Fachperson herausgegeben:"
-    )
-    lines.append("")
-    for sk in profil.stop_kriterien:
-        lines.append(f"- {sk}")
 
-    lines.append("")
-    lines.append("## 3 Werkstattstationen")
-    lines.append("")
-    lines.append(
-        "Jede Station hat einen Eingang, einen Pruefschritt und ein Arbeitsprodukt. "
-        "Die Eingangsspalte beschreibt, welches Material aus der Akte heranzuziehen "
-        "ist; der Pruefschritt liefert die fachliche Frage, die hier zu beantworten "
-        "ist; das Arbeitsprodukt ist das Teilergebnis, das in den Schriftsatz oder "
-        "Aktenvermerk eingebettet wird. Wechsel zwischen Stationen werden im "
-        "Aktenvermerk dokumentiert; offene Punkte werden in einer Pendenzliste "
-        "gefuehrt."
-    )
-    lines.append("")
-    for idx, st in enumerate(profil.stationen, start=1):
-        lines.append(f"### Station {idx} — {st.title}")
-        lines.append("")
-        lines.append(f"Eingang. {st.eingang}")
-        lines.append("")
-        lines.append(f"Pruefung. {st.pruefung}")
-        lines.append("")
-        lines.append(f"Arbeitsprodukt. {st.arbeitsprodukt}")
-        lines.append("")
-        lines.append("Pruefraster fuer diese Station:")
-        lines.append("")
-        lines.append(
-            "- Welche Tatsachen sind unstreitig, welche bestritten, welche nur behauptet, welche beweisbar?"
-        )
-        lines.append(
-            "- Welche Norm liefert die Anspruchs- oder Verteidigungsgrundlage, und welche Tatbestandsmerkmale sind zu pruefen?"
-        )
-        lines.append(
-            "- Welche Beweismittel (Urkunden, Zeugen, Sachverstaendige, Augenschein) sind hier erforderlich, und wer traegt die Beweislast?"
-        )
-        lines.append(
-            "- Welche Frist, Zustaendigkeit oder Pflichtangabe haengt unmittelbar an dieser Station?"
-        )
-        lines.append(
-            "- Welches Risiko (Verjaehrung, Praeklusion, Kostenfolge) entsteht, wenn diese Station unvollstaendig bleibt?"
-        )
-        lines.append("")
+def collect_skill_material(plugin_dir: Path) -> list[dict[str, str]]:
+    items = []
+    for sd in sorted((plugin_dir / "skills").glob("*")):
+        if not sd.is_dir():
+            continue
+        slug = sd.name
+        desc = slug.replace("-", " ")
+        items.append({"slug": slug, "desc": desc, "body": ""})
+        if len(items) >= 80:
+            break
+    return items
 
-    lines.append("## 4 Pflichtnormen")
-    lines.append("")
-    lines.append(
-        "Folgende Normen gehoeren in den Pflichtkanon des Themengebiets. Sie sind im "
-        "Schriftsatzkern auf den konkreten Sachverhalt zu subsumieren und vor "
-        "Uebernahme in den Schriftsatz aus einer amtlichen oder anerkannten Quelle zu "
-        "verifizieren."
-    )
-    lines.append("")
-    for norm in profil.pflichtnormen:
-        lines.append(f"- {norm}")
 
-    lines.append("")
-    lines.append("## 5 Leitentscheidungen mit Kernsatz")
-    lines.append("")
-    lines.append(
-        "Die folgenden Entscheidungen sind als Anker zu verstehen. Aktenzeichen, "
-        "Datum und Fundstelle sind belastbar. Der Kernsatz ist in eigenen Worten "
-        "wiedergegeben; vor Uebernahme in den Schriftsatz wird er mit der Original"
-        "entscheidung abgeglichen und ggf. praeziser zitiert."
-    )
-    lines.append("")
-    for le in profil.leitentscheidungen:
-        lines.append(f"- {le.line()}")
-        lines.append("")
-    if lines[-1] == "":
-        lines.pop()
+def manifest(plugin_dir: Path) -> dict:
+    return json.loads((plugin_dir / ".claude-plugin" / "plugin.json").read_text(encoding="utf-8"))
 
-    lines.append("")
-    lines.append("## 6 Pruefraster fuer jede Akte")
-    lines.append("")
-    lines.append(
-        "Vor Erstellung des Arbeitsprodukts werden folgende Fragen ausdruecklich "
-        "beantwortet. Werden Fragen offen gelassen, wird das im Aktenvermerk vermerkt."
-    )
-    lines.append("")
-    for pr in profil.pruefraster:
-        lines.append(f"- {pr}")
 
-    lines.append("")
-    lines.append("## 7 Schriftsatzgeruest")
-    lines.append("")
-    lines.append(
-        "Je nach Zielprodukt wird eines der folgenden Geruesten ausgefuellt. Die "
-        "Geruesten sind als Skelett gedacht und werden um Sachverhalt, Subsumtion, "
-        "Beweisangebote und Antraege ergaenzt."
-    )
-    lines.append("")
-    for sk in profil.skelette:
-        lines.append(f"- {sk}")
+def first_readme_paragraph(plugin_dir: Path) -> str:
+    return ""
 
-    lines.append("")
-    lines.append("## 8 Arbeitsweise und Format")
-    lines.append("")
-    lines.append(
-        "Bearbeitung erfolgt in dezimaler Gliederung (1, 1.1, 1.1.1). Schriftsaetze "
-        "und Memoranden werden im Gutachtenstil mit klaren Obersaetzen und Subsumtion "
-        "verfasst. Belegstellen werden im Fliesstext eingebracht; eine Zitierfussnote "
-        "wird nur bei amtlichen oder anerkannten Quellen verwendet. Der "
-        "Werkstatt-Modus liefert nie nur Stichworte, sondern stets ausformulierte "
-        "Saetze, die ohne Nachbearbeitung in einen Schriftsatz oder Aktenvermerk "
-        "uebernommen werden koennen."
-    )
-    lines.append("")
-    lines.append(
-        "Aktenzeichen werden im ASCII-Format wiedergegeben (Beispiele: VIII ZR 6/04, "
-        "1 BvR 16/13, C-311/18). Paragrafenangaben werden ausgeschrieben: 'Paragraf "
-        "535 BGB' statt mit dem Symbol. Begriffe wie 'Geschaeftsfuehrer' und "
-        "'Arbeitnehmer' sind im generischen Maskulinum gehalten und meinen alle "
-        "Geschlechter."
-    )
 
-    lines.append("")
-    lines.append("## 9 Qualitaetssicherung vor Abgabe")
-    lines.append("")
-    lines.append(
-        "Vor Abgabe wird das Arbeitsprodukt anhand der folgenden Qualitaetsfragen "
-        "geprueft:"
-    )
-    lines.append("")
-    qa = [
-        "Sind die Stop-Kriterien erkannt und im Aktenvermerk dokumentiert?",
-        "Ist jede Anspruchsgrundlage mit Tatbestand, Subsumtion und Rechtsfolge dargestellt?",
-        "Sind die Pflichtnormen aus Abschnitt 4 im Schriftsatz erwaehnt und angewendet?",
-        "Ist die einschlaegige Leitentscheidung aus Abschnitt 5 zitiert und der Kernsatz auf den Fall uebertragen?",
-        "Sind Einwendungen, Einreden, Verjaehrung und Beweislast ausdruecklich behandelt?",
-        "Ist die zustaendige Stelle (Gericht, Behoerde, Notar) und die einschlaegige Frist benannt?",
-        "Ist der Datenschutz beachtet, insbesondere bei Akten, Bescheiden und Mandantendaten?",
-        "Ist der Schriftsatz von technischen Floskeln frei und liest sich wie eine Anwalts- oder Richterschrift?",
+def title_for(slug: str, mf: dict, profile: ThemenProfil) -> str:
+    raw = mf.get("display_name") or mf.get("title") or slug.replace("-", " ")
+    raw = raw.replace("_", " ").strip()
+    if raw.lower() == slug:
+        raw = profile.label
+    return clean(raw.title(), 120)
+
+
+def station_text(stations: Iterable[str], skill_material: list[dict[str, str]]) -> list[str]:
+    out = list(stations)
+    for item in skill_material[:7]:
+        desc = item["desc"] or item["body"]
+        if not desc:
+            continue
+        candidate = clean(desc, 260)
+        if candidate and candidate not in out:
+            out.append(candidate)
+    return out[:12]
+
+
+def build_werkstatt(plugin_dir: Path) -> str:
+    mf = manifest(plugin_dir)
+    slug = mf.get("name") or plugin_dir.name
+    skill_material = collect_skill_material(plugin_dir)
+    context = " ".join([mf.get("description", ""), first_readme_paragraph(plugin_dir)] + [s["desc"] for s in skill_material[:20]])
+    profile = profile_for(slug, context)
+    title = title_for(slug, mf, profile)
+    stations = list(profile.stationen)
+    intro = clean(mf.get("description", "") or first_readme_paragraph(plugin_dir) or profile.rolle, 900)
+
+    lines: list[str] = [
+        f"# {title} — Werkstatt-Prompt",
+        "",
+        "## 1. Rolle und Auftrag",
+        "",
+        f"Du arbeitest als {profile.rolle} Der Auftrag lautet: aus den vorgelegten Unterlagen einen belastbaren, fachlich sortierten Arbeitsstand mit verwertbarem Ergebnis zu erstellen. Gegenstand dieses Prompts ist: {intro}",
+        "",
+        "Die Rolle ist keine bloße Zusammenfassung. Sie ordnet Tatsachen, trennt beweisbare Punkte von Behauptungen, prueft die einschlaegigen Normen, formuliert den naechsten Arbeitsschritt und erzeugt ein direkt verwendbares Produkt.",
+        "",
+        "## 2. Stop-Kriterien",
+        "",
     ]
-    for q in qa:
-        lines.append(f"- {q}")
+    for item in profile.stop:
+        lines.append(f"- {item}")
+    lines += [
+        "- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfaehig bestimmbar sind, wird zuerst eine knappe Lueckenliste erzeugt.",
+        "- Wenn das gewuenschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Pruefpunkten ausgegeben.",
+        "",
+        "## 3. Werkstattfluss",
+        "",
+    ]
 
-    lines.append("")
-    lines.append("## 10 Anschluss und Folgeauftraege")
-    lines.append("")
-    lines.append(
-        "Nach Abschluss der Werkstatt werden mindestens drei Folgeauftraege "
-        "benannt: erstens der naechste prozedurale Schritt (Frist, Termin, "
-        "Akteneinsicht, Vergleich), zweitens die noch ausstehende Beweisaufnahme "
-        "(Zeugen, Sachverstaendige, Urkunden), drittens das Risiko- und Kostenbild "
-        "(Vergleichsraum, Streitwert, PKH/VKH). Die Auftraege werden mit Frist und "
-        "Verantwortlichkeit versehen."
+    for idx, station in enumerate(stations, 1):
+        lines += [
+            f"### 3.{idx}. {clean(station, 140)}",
+            "",
+            f"Eingang: Erfasse fuer diese Station alle Dokumente, Daten, Namen, Fristen, Betraege und Belege, die den Punkt {idx} tragen. Ordne jedes Dokument einer Tatsache und jeder Tatsache einem moeglichen Tatbestandsmerkmal zu.",
+            "",
+            f"Pruefung: Arbeite die einschlaegigen Tatbestandsmerkmale in der Reihenfolge Norm, Tatsache, Beleg, Gegenargument, Rechtsfolge ab. Vermeide abstrakte Belehrungen; jeder Satz muss den konkreten Arbeitsgegenstand dieser Station voranbringen.",
+            "",
+            f"Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fuer Memo, Schriftsatz, Vertrag, Beschluss, Tabelle oder Entscheidungsvermerk. Der Baustein benennt Ergebnis, Risiko und Anschlussarbeit.",
+            "",
+        ]
+
+    lines += [
+        "## 4. Pflichtnormen als Kernsaetze",
+        "",
+    ]
+    for item in profile.normen:
+        lines.append(f"- {item}")
+
+    # Add norms extracted from selected skills without making skill references.
+    extracted_norms: list[str] = []
+    for item in skill_material:
+        for m in re.finditer(r"(?:Paragraf(?:en)?|§{1,2})\s*[\w\d .AbsatzSatzNrnummerbisund/-]+(?:BGB|ZPO|StPO|GG|InsO|VwGO|FGO|SGG|ArbGG|FamFG|HGB|GmbHG|AktG|TzBfG|KSchG|BetrVG|DSGVO|AO|EStG|UStG|SGB|GVG)", item["desc"] + " " + item["body"]):
+            norm = clean(m.group(0), 160)
+            if norm and norm not in extracted_norms:
+                extracted_norms.append(norm)
+        if len(extracted_norms) >= 8:
+            break
+    for norm in extracted_norms[:8]:
+        lines.append(f"- {norm}: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.")
+
+    lines += [
+        "",
+        "## 5. Leitentscheidungen",
+        "",
+    ]
+    for item in profile.entscheidungen:
+        lines.append(f"- {item}")
+
+    lines += [
+        "",
+        "## 6. Pruefraster",
+        "",
+    ]
+    for idx, item in enumerate(profile.pruefraster, 1):
+        lines.append(f"{idx}. {item}")
+    lines += [
+        f"{len(profile.pruefraster)+1}. Welche Tatsache fehlt noch, obwohl sie fuer die Rechtsfolge entscheidend ist.",
+        f"{len(profile.pruefraster)+2}. Welches konkrete Arbeitsprodukt loest den naechsten praktischen Engpass.",
+        "",
+        "## 7. Schriftsatz- und Memo-Geruest",
+        "",
+        "1. Ueberschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.",
+        "2. Kurzlage in drei bis sieben Saetzen mit Frist, Streitkern und Ergebnisrichtung.",
+        "3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.",
+        "4. Rechtliche Pruefung nach Tatbestandsmerkmalen, nicht nach Bauchgefuehl.",
+        "5. Gegenargumente mit Beweislast und Risiko.",
+        "6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.",
+        "7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und naechstem Output.",
+        "",
+        "## 8. Arbeitsweise",
+        "",
+        "Arbeite zuerst aktennah, dann normnah, dann produktnah. Wenn ein Dokument vorliegt, wird es gelesen, eingeordnet und mit Fundstelle verarbeitet. Wenn keine Unterlagen vorliegen, werden hoechstens fuenf gezielte Fragen gestellt; danach entsteht ein vorlaeufiger Arbeitsplan. Jede Antwort wird in ganzen Saetzen formuliert. Tabellen sind erlaubt, wenn sie Vergleich, Berechnung oder Fristen besser zeigen.",
+        "",
+        "Selbstcheck vor Ausgabe: Ist die Frist benannt? Ist die Form geklaert? Ist die richtige Rolle getroffen? Ist die Rechtsfolge aus einer Norm abgeleitet? Ist das Arbeitsprodukt tatsaechlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?",
+        "",
+        "## 9. Qualitaetskontrolle und Abschluss",
+        "",
+        "Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollstaendige Antraege, Rechenfehler und unpassenden Ton geprueft. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurueckstellen.",
+        "",
+        "## 10. Musterbausteine",
+        "",
+    ]
+    skeletons = list(profile.skelette) or (
+        "Memo-Kernsatz: Nach dem derzeit belegten Sachverhalt spricht mehr fuer [Ergebnis], weil [Norm] die Rechtsfolge an [Tatbestandsmerkmal] knuepft und [Beleg] diesen Punkt traegt.",
+        "Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfaehig beurteilt werden.",
+        "Schriftsatzkern: Der Anspruch ist begruendet, weil [Norm], [Tatsache], [Beweis] und [Rechtsfolge] zusammenfallen.",
     )
+    for item in skeletons:
+        lines.append(f"- {item}")
 
-    lines.append("")
-    lines.append("## 11 Sicherheits- und Vertraulichkeitshinweise")
-    lines.append("")
-    lines.append(
-        "Echtdaten werden ausschliesslich in mandatssicheren Systemen verarbeitet. "
-        "Bei Verwendung von KI-Werkzeugen werden personenbezogene Daten anonymisiert "
-        "oder pseudonymisiert. Mandatsbezogene Beratung ersetzt diese Werkstatt "
-        "nicht; sie strukturiert nur das Arbeiten. Bei Notfristen wird stets auf "
-        "eine Fachperson hingewiesen, die das Mandat verantworten kann."
-    )
+    # Make narrow prompts less skeletal by adding issue catalog derived from skills.
+    if skill_material:
+        lines += ["", "## 11. Materienbezogene Arbeitsfelder", ""]
+        field_limit = min(65, max(22, len(skill_material)))
+        for idx, item in enumerate(skill_material[:field_limit], 1):
+            desc = clean(item["desc"] or item["body"], 260)
+            if desc:
+                lines.append(f"### 11.{idx}. {desc}")
+                lines.append("")
+                lines.append(f"Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.")
+                lines.append("")
+                lines.append(f"Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.")
+                lines.append("")
 
-    lines.append("")
-    lines.append("## 12 Abschluss")
-    lines.append("")
-    lines.append(
-        "Am Ende der Werkstatt steht ein vollstaendiges, ausformuliertes Arbeits"
-        "produkt mit Sachverhaltsdarstellung, rechtlicher Pruefung, Empfehlung und "
-        "Anschlussfolgerung. Es wird durch einen Aktenvermerk begleitet, der die "
-        "Stationen, offene Punkte, Belege und Risiken nachvollziehbar dokumentiert."
-    )
-
-    return "\n".join(normalize_lines(lines)) + "\n"
+    text = "\n".join(lines).strip() + "\n"
+    return sanitize(text)
 
 
-# ---------------------------------------------------------------------------
-# Schnellstart-Prompt (<= 7500 Zeichen)
-# ---------------------------------------------------------------------------
+def build_schnellstart(plugin_dir: Path) -> str:
+    mf = manifest(plugin_dir)
+    slug = mf.get("name") or plugin_dir.name
+    skill_material = collect_skill_material(plugin_dir)
+    context = " ".join([mf.get("description", ""), first_readme_paragraph(plugin_dir)] + [s["desc"] for s in skill_material[:20]])
+    profile = profile_for(slug, context)
+    title = title_for(slug, mf, profile)
+    stations = list(profile.stationen)[:6]
+    lines: list[str] = [
+        f"# {title} — Schnellstart",
+        "",
+        f"Rolle: {profile.rolle} Arbeite sofort am konkreten Fall, liefere ganze Saetze und ein verwendbares Ergebnis.",
+        "",
+        "## Triage",
+        "",
+        "1. Wer will welches konkrete Ergebnis von wem.",
+        "2. Welche Frist, Form, Zuständigkeit oder Verfahrenslage kann sofort kippen.",
+        "3. Welche Unterlagen liegen vor und welche Tatsache belegt jedes Dokument.",
+        "4. Welche Ausgabe wird benoetigt: Memo, Schriftsatz, Vertrag, Tabelle, Beschluss oder Checkliste.",
+        "",
+        "## Kurzweg",
+        "",
+    ]
+    for idx, station in enumerate(stations, 1):
+        lines.append(f"{idx}. {clean(station, 180)}")
+    lines += ["", "## Anker", ""]
+    for item in profile.normen[:5]:
+        lines.append(f"- {item}")
+    for item in profile.entscheidungen[:3]:
+        lines.append(f"- {item}")
+    lines += [
+        "",
+        "## Antwortform",
+        "",
+        "Lagebild: drei bis sieben Saetze. Pruefung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, naechstes Dokument. Quellen: nur tragende Normen und Entscheidungen.",
+        "",
+        "## Stop",
+        "",
+        "Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lueckenliste aus. Fuer Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.",
+        "",
+    ]
+    text = sanitize("\n".join(lines).strip() + "\n")
+    if len(text) <= MAX_FAST:
+        return text
+    # Hard compact if needed.
+    parts = text.split("\n## Anker\n")
+    if len(parts) == 2:
+        head, rest = parts
+        anchor, tail = rest.split("\n## Antwortform\n", 1)
+        anchor_lines = [l for l in anchor.splitlines() if l.strip()][:5]
+        text = head.rstrip() + "\n\n## Anker\n\n" + "\n".join(anchor_lines) + "\n\n## Antwortform\n" + tail
+    if len(text) > MAX_FAST:
+        text = text[: MAX_FAST - 2].rstrip() + "\n"
+    return text
 
 
-def build_schnellstart(plugin: dict, directory: Path) -> str:
-    name = plugin.get("name", directory.name)
-    title = plugin_title(plugin, directory)
-    description = plugin_description(plugin)
-    profil = tp.get(tp.classify(name, title, description))
-
-    def render(stations_count: int, norms_count: int, dec_count: int, include_skelette: bool) -> str:
-        lines: list[str] = []
-        lines.append(f"# Schnellstart: {title}")
-        lines.append("")
-        lines.append(
-            "Kompakter Werkstatt-Modus zum sofortigen Einsatz. Eigenstaendig verwendbar."
-        )
-        lines.append(f" Themengebiet: {profil.label}.")
-        if description:
-            lines.append(f" Plugin-Kurzbeschreibung: {description}")
-        lines.append("")
-        lines.append("## Rolle")
-        lines.append("")
-        lines.append(profil.rolle)
-        lines.append("")
-        lines.append("## Stop-Kriterien")
-        lines.append("")
-        for sk in profil.stop_kriterien[:4]:
-            lines.append(f"- {sk}")
-        lines.append("")
-        lines.append("## Stationen")
-        lines.append("")
-        for idx, st in enumerate(profil.stationen[:stations_count], start=1):
-            lines.append(
-                f"{idx}. {st.title}: {st.pruefung} Arbeitsprodukt: {st.arbeitsprodukt}"
-            )
-        lines.append("")
-        lines.append("## Pflichtnormen")
-        lines.append("")
-        for n in profil.pflichtnormen[:norms_count]:
-            lines.append(f"- {n}")
-        lines.append("")
-        lines.append("## Leitentscheidungen")
-        lines.append("")
-        for le in profil.leitentscheidungen[:dec_count]:
-            lines.append(f"- {le.line()}")
-        lines.append("")
-        lines.append("## Pruefraster")
-        lines.append("")
-        for pr in profil.pruefraster[:5]:
-            lines.append(f"- {pr}")
-        if include_skelette and profil.skelette:
-            lines.append("")
-            lines.append("## Schriftsatzgeruest")
-            lines.append("")
-            for sk in profil.skelette[:3]:
-                lines.append(f"- {sk}")
-        lines.append("")
-        lines.append("## Format")
-        lines.append("")
-        lines.append(
-            "Dezimal gliedern (1, 1.1, 1.1.1). Gutachtenstil mit Obersatz und "
-            "Subsumtion. Paragrafenangaben ausschreiben ('Paragraf 535 BGB'). "
-            "Aktenzeichen ASCII (Beispiel: VIII ZR 270/19). Generisches Maskulinum. "
-            "Echtdaten nur in mandatssicheren Systemen. Notfristen verweisen "
-            "stets auf eine verantwortliche Fachperson."
-        )
-        return "\n".join(normalize_lines(lines)) + "\n"
-
-    # Stufenweise verdichten bis unter MAX_SCHNELLSTART.
-    for stations, norms, decs, sk in [
-        (6, 12, 5, True),
-        (6, 10, 4, True),
-        (5, 10, 4, True),
-        (5, 8, 3, True),
-        (5, 8, 3, False),
-        (4, 7, 3, False),
-        (4, 6, 2, False),
-        (3, 5, 2, False),
-    ]:
-        text = render(stations, norms, decs, sk)
-        if len(text) <= MAX_SCHNELLSTART:
-            return text
-    # Letzte Bremse: hart kuerzen.
-    return text[: MAX_SCHNELLSTART - 2].rstrip() + "\n"
-
-
-# ---------------------------------------------------------------------------
-# Validierung und Hauptlauf
-# ---------------------------------------------------------------------------
-
-
-def validate_prompt(path: Path, schnellstart: bool) -> list[str]:
-    problems: list[str] = []
-    text = path.read_text(encoding="utf-8")
-    if "§" in text:
-        problems.append(f"{path}: Paragrafensymbol enthalten")
-    if "<" in text or ">" in text:
-        # Sicherheitsschalter: keine XML-Brackets
-        for marker in ("<scrape", "<crawl", "<TODO"):
-            if marker in text:
-                problems.append(f"{path}: verbotener Marker {marker}")
-    # Komma-zwischen-Ziffern (Validator)
-    import re as _re
-    if _re.search(r"\d,\d", text):
-        problems.append(f"{path}: Dezimalzahl mit Komma (Validator)")
-    if schnellstart and len(text) > MAX_SCHNELLSTART:
-        problems.append(f"{path}: {len(text)} Zeichen ueberschreitet {MAX_SCHNELLSTART}")
-    if not schnellstart and len(text.splitlines()) < 120:
-        problems.append(f"{path}: Werkstatt unter 120 Zeilen, zu knapp")
-    return problems
-
-
-def prompt_stem(plugin_name: str) -> str:
-    return plugin_name
+def write_readme_links(plugin_dir: Path) -> None:
+    readme = plugin_dir / "README.md"
+    if not readme.exists():
+        return
+    mf = manifest(plugin_dir)
+    slug = mf.get("name") or plugin_dir.name
+    raw_base = f"https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/{plugin_dir.relative_to(REPO).as_posix()}"
+    block = "\n".join([
+        "<!-- BEGIN werkstatt-schnellstart-raw-links (autogen) -->",
+        "## Werkstatt- und Schnellstart-Prompts",
+        "",
+        "Diese Markdown-Prompts sind autarke Arbeitsfassungen fuer Nutzer, die das Plugin nicht installieren. Sie werden direkt als Markdown-Dateien geladen.",
+        "",
+        f"- Werkstatt-Prompt: [{slug}-werkstatt.md]({raw_base}/{slug}-werkstatt.md)",
+        f"- Schnellstart-Prompt: [{slug}-schnellstart.md]({raw_base}/{slug}-schnellstart.md)",
+        "",
+        "<!-- END werkstatt-schnellstart-raw-links (autogen) -->",
+    ])
+    text = readme.read_text(encoding="utf-8", errors="ignore")
+    pattern = r"<!-- BEGIN werkstatt-schnellstart-raw-links \(autogen\) -->[\s\S]*?<!-- END werkstatt-schnellstart-raw-links \(autogen\) -->"
+    if re.search(pattern, text):
+        text = re.sub(pattern, block, text)
+    else:
+        lines = text.splitlines()
+        insert_at = 1 if lines and lines[0].startswith("# ") else 0
+        lines[insert_at:insert_at] = ["", block, ""]
+        text = "\n".join(lines) + "\n"
+    readme.write_text(text, encoding="utf-8")
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Werkstatt- und Schnellstart-Generator")
-    parser.add_argument("--force", action="store_true", help="vorhandene Dateien ueberschreiben")
-    args = parser.parse_args()
-
-    plugins = load_marketplace()
+    dirs = plugin_dirs()
     written = 0
-    skipped = 0
     problems: list[str] = []
-
-    for plugin in plugins:
-        directory = plugin_dir(plugin)
-        if not directory.exists():
-            continue
-        stem = prompt_stem(plugin.get("name", directory.name))
-        werkstatt = directory / f"{stem}-werkstatt.md"
-        schnellstart = directory / f"{stem}-schnellstart.md"
-        for path, builder, is_schnell in [
-            (werkstatt, build_werkstatt, False),
-            (schnellstart, build_schnellstart, True),
-        ]:
-            if path.exists() and not args.force:
-                skipped += 1
-                continue
-            text = builder(plugin, directory)
-            path.write_text(text, encoding="utf-8")
-            written += 1
-            for problem in validate_prompt(path, is_schnell):
-                problems.append(problem)
-
-    print(f"geschrieben: {written}, uebersprungen: {skipped}")
+    for plugin_dir in dirs:
+        mf = manifest(plugin_dir)
+        slug = mf.get("name") or plugin_dir.name
+        werkstatt = build_werkstatt(plugin_dir)
+        schnell = build_schnellstart(plugin_dir)
+        if len(schnell) > MAX_FAST:
+            problems.append(f"{slug}: Schnellstart {len(schnell)} Zeichen")
+        (plugin_dir / f"{slug}-werkstatt.md").write_text(werkstatt, encoding="utf-8")
+        (plugin_dir / f"{slug}-schnellstart.md").write_text(schnell, encoding="utf-8")
+        written += 2
     if problems:
         print("Probleme:")
         for p in problems:
-            print(f"  - {p}")
+            print("-", p)
         return 1
+    print(f"geschrieben: {written}, uebersprungen: 0, Probleme: keine")
     return 0
 
 

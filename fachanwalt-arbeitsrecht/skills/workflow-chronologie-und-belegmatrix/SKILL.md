@@ -20,8 +20,8 @@ description: "Chronologie und Belegmatrix für arbeitsrechtliche Mandate: zeitli
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Workflow: Chronologie und Belegmatrix` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -48,7 +48,7 @@ Wenn Unterlagen oder ein Sachverhaltsbericht vorliegen:
 | TT.MM.JJJJ | Ablauf BR-Anhörungsfrist (1 Woche) | BR | BR-Stellungnahme? | Fehlt |
 | TT.MM.JJJJ | Ausspruch der Kündigung | AG | Kündigungsschreiben (K4) | — |
 | TT.MM.JJJJ | Zugang der Kündigung | AN | Beweisvermerk (K5)? | Fehlt |
-| TT.MM.JJJJ + 3W | Ablauf Klagefrist § 4 KSchG | — | — | KRITISCH |
+| TT.MM.JJJJ + 3W | Ablauf Klagefrist Paragraf 4 KSchG | — | — | KRITISCH |
 | TT.MM.JJJJ | Einreichung Klageschrift | Anwalt | Klageschrift (K6) | — |
 | TT.MM.JJJJ | Gütermin | ArbG | Protokoll | — |
 
@@ -60,13 +60,13 @@ Wenn Unterlagen oder ein Sachverhaltsbericht vorliegen:
 |---|---|---|---|---|
 | Arbeitsvertrag | [Datum] | Betriebszugehörigkeit, Vergütung, Fristen | ? | K1 |
 | Abmahnung(en) | [Datum] | Vorwarnung; verhaltensbedingte Kündigung | ? | K2 |
-| BR-Anhörungsschreiben | [Datum] | § 102 BetrVG ordnungsgemäß? | ? | K3 |
+| BR-Anhörungsschreiben | [Datum] | Paragraf 102 BetrVG ordnungsgemäß? | ? | K3 |
 | BR-Stellungnahme | [Datum] | Einwand oder Zustimmungsfiktion | ? | K4 |
 | Kündigungsschreiben (Original) | [Datum] | Schriftform; Inhalt; Kündigungsfrist | ? | K5 |
 | Beweisvermerk Zugang | [Datum] | Zugangszeitpunkt | ? | K6 |
-| Sozialdaten des Mandanten | — | Sozialauswahl § 1 Abs. 3 KSchG | ? | K7 |
+| Sozialdaten des Mandanten | — | Sozialauswahl Paragraf 1 Abs. 3 KSchG | ? | K7 |
 | Vergleichsliste Vergleichsgruppe | — | Sozialauswahl: andere AN | ? | K8 |
-| Massenentlassungsanzeige | [Datum] | § 17 KSchG | ? | K9 |
+| Massenentlassungsanzeige | [Datum] | Paragraf 17 KSchG | ? | K9 |
 
 ## Lückenanalyse — Output-Format
 
@@ -84,12 +84,12 @@ FEHLENDE BELEGE (kritisch):
 [weitere ...]
 
 FEHLENDE BELEGE (mittel):
-✗ Zweite Abmahnung → Personalakte beim AG anfordern (§ 83 BetrVG analog)
+✗ Zweite Abmahnung → Personalakte beim AG anfordern (Paragraf 83 BetrVG analog)
 [weitere ...]
 
 BESCHAFFUNGSWEGE:
-1. Personalakte: § 83 BetrVG (bei vorhandenem BR) oder § 630 BGB-analog (AN-Anspruch)
-2. BA-Unterlagen: § 17 KSchG-Anzeige → BA-Auskunft anfordern
+1. Personalakte: Paragraf 83 BetrVG (bei vorhandenem BR) oder Paragraf 630 BGB-analog (AN-Anspruch)
+2. BA-Unterlagen: Paragraf 17 KSchG-Anzeige → BA-Auskunft anfordern
 3. Behördenakten: Integrationsamt-Zustimmung → Akteneinsicht beantragen
 ```
 
@@ -103,7 +103,7 @@ BESCHAFFUNGSWEGE:
 **Priorität 2 — nach Klageeinreichung:**
 - Vollständige Belegsammlung über Auskunftsansprüche
 - BR-Protokolle anfordern
-- Sozialauswahl-Unterlagen anfordern (Namensliste § 1 Abs. 3 Satz 1 KSchG)
+- Sozialauswahl-Unterlagen anfordern (Namensliste Paragraf 1 Abs. 3 Satz 1 KSchG)
 
 **Priorität 3 — für Kammertermin:**
 - Expertengutachten (wenn nötig)

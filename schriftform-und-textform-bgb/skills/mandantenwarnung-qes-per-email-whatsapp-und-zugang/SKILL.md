@@ -21,9 +21,9 @@ description: "Mandantenwarnung Qes Per Email Whatsapp Und Zugang: ordnet Normen,
 ## Rechtsgrundlagen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **§ 568 Abs. 1 BGB** — Schriftform Wohnraummiete-Kündigung
-- **§ 126a Abs. 1 BGB** — qES als Schriftformersatz
-- **§ 130 Abs. 1 BGB** — Zugang empfangsbedürftiger Willenserklärungen
+- **Paragraf 568 Abs. 1 BGB** — Schriftform Wohnraummiete-Kündigung
+- **Paragraf 126a Abs. 1 BGB** — qES als Schriftformersatz
+- **Paragraf 130 Abs. 1 BGB** — Zugang empfangsbedürftiger Willenserklärungen
 
 ## BGH-Linie
 

@@ -20,8 +20,8 @@ description: "Prüft eine geplante Änderung des Personalhandbuchs auf Folgewirk
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Personalhandbuch-Aktualisierung (Arbeitsrecht)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -38,18 +38,18 @@ description: "Prüft eine geplante Änderung des Personalhandbuchs auf Folgewirk
 
 **Kernvorschriften:**
 
-- § 87 BetrVG: Erzwingbares Mitbestimmungsrecht des Betriebsrats bei
+- Paragraf 87 BetrVG: Erzwingbares Mitbestimmungsrecht des Betriebsrats bei
  Ordnung des Betriebs, Arbeitszeit, Urlaub, betrieblichem Datenschutz u. a.
  — Handbuchänderungen in diesen Bereichen erfordern Betriebsratszustimmung
  oder Einigungsstellenverfahren
-- § 77 BetrVG: Betriebsvereinbarungen — Vorrang und Ablösung;
- Nachwirkung gekündigter Betriebsvereinbarungen (§ 77 Abs. 6 BetrVG)
-- §§ 305 ff. BGB: AGB-Kontrolle für vorformulierte Arbeitsbedingungen;
- Inhaltskontrolle nach § 307 BGB; Transparenzgebot § 307 Abs. 1 S. 2 BGB
-- § 2 NachwG: Nachweispflicht wesentlicher Arbeitsbedingungen;
+- Paragraf 77 BetrVG: Betriebsvereinbarungen — Vorrang und Ablösung;
+ Nachwirkung gekündigter Betriebsvereinbarungen (Paragraf 77 Abs. 6 BetrVG)
+- Paragrafen 305 ff. BGB: AGB-Kontrolle für vorformulierte Arbeitsbedingungen;
+ Inhaltskontrolle nach Paragraf 307 BGB; Transparenzgebot Paragraf 307 Abs. 1 S. 2 BGB
+- Paragraf 2 NachwG: Nachweispflicht wesentlicher Arbeitsbedingungen;
  Änderungen sind dem Arbeitnehmer spätestens am ersten Tag nach Wirksamwerden
  schriftlich mitzuteilen
-- §§ 611a, 613 BGB: Arbeitsvertragliche Einbindung von Handbuchregelungen
+- Paragrafen 611a, 613 BGB: Arbeitsvertragliche Einbindung von Handbuchregelungen
  durch Bezugnahmeklauseln
 
 **Leitentscheidungen:**
@@ -57,14 +57,14 @@ description: "Prüft eine geplante Änderung des Personalhandbuchs auf Folgewirk
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Wirksame Einbeziehung von Personalhandbuch-Regelungen durch Bezugnahmeklausel
  im Arbeitsvertrag; AGB-Kontrolle; Maßstab der überraschenden Klausel
- nach § 305c Abs. 1 BGB
+ nach Paragraf 305c Abs. 1 BGB
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Verschlechterung einer durch betriebliche Übung entstandenen
  Leistungsverpflichtung — einseitige Abänderung unwirksam; Änderungskündigung
  als richtiger Weg; Vertrauensschutz der Arbeitnehmer
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Mitbestimmung des Betriebsrats bei einseitiger Änderung betrieblicher
- Regelungen, die in den Bereich des § 87 BetrVG fallen; Einigungsstellenverfahren
+ Regelungen, die in den Bereich des Paragraf 87 BetrVG fallen; Einigungsstellenverfahren
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
@@ -111,14 +111,14 @@ Wird er durch die Änderung falsch oder unvollständig? Kennzeichne Konflikte.
 **Schritt 4 — Mitbestimmungsprüfung**
 
 Prüfe, ob die geplante Änderung in den Bereich eines Mitbestimmungstatbestands
-nach § 87 BetrVG fällt (insbesondere Nr. 1 Ordnung des Betriebs, Nr. 2/3
+nach Paragraf 87 BetrVG fällt (insbesondere Nr. 1 Ordnung des Betriebs, Nr. 2/3
 Arbeitszeit, Nr. 5 Urlaub, Nr. 6 Überwachungstechnik, Nr. 10
 Entlohnungsgrundsätze). Falls ja:
 
-> Mitbestimmungshinweis: Diese Änderung berührt [Tatbestand § 87 Abs. 1
+> Mitbestimmungshinweis: Diese Änderung berührt [Tatbestand Paragraf 87 Abs. 1
 > Nr. X BetrVG]. Eine wirksame Einführung ohne Zustimmung des Betriebsrats
 > ist nicht möglich. Optionen: (1) Zustimmung des Betriebsrats einholen,
-> (2) Einigungsstellenverfahren nach § 76 BetrVG.
+> (2) Einigungsstellenverfahren nach Paragraf 76 BetrVG.
 
 **Schritt 5 — Prüfung standortspezifischer Besonderheiten**
 
@@ -141,7 +141,7 @@ erfordern. Nicht blockieren — kennzeichnen.
 **Schritt 7 — Nachweispflicht**
 
 Prüfe, ob die geänderte Regelung eine "wesentliche Arbeitsbedingung" i. S. d.
-§ 2 Abs. 1 NachwG darstellt. Falls ja: Informationspflicht gegenüber den
+Paragraf 2 Abs. 1 NachwG darstellt. Falls ja: Informationspflicht gegenüber den
 betroffenen Arbeitnehmern spätestens am Tag nach Wirksamwerden.
 
 ## Handbuchänderung: [Abschnitt]
@@ -155,7 +155,7 @@ betroffenen Arbeitnehmern spätestens am Tag nach Wirksamwerden.
 | [Name] | [wie] | Ja/Nein | [was] |
 
 ### Mitbestimmung
-[Falls § 87 BetrVG betroffen: Tatbestand und erforderliches Vorgehen]
+[Falls Paragraf 87 BetrVG betroffen: Tatbestand und erforderliches Vorgehen]
 [Falls nicht betroffen: "Kein erzwingbares Mitbestimmungsrecht betroffen"]
 
 ### Standortspezifische Auswirkungen
@@ -167,15 +167,15 @@ betroffenen Arbeitnehmern spätestens am Tag nach Wirksamwerden.
 [Falls Leistungsreduzierung: Kennzeichnung + rechtliche Risikoeinschätzung]
 
 ### Nachweispflicht
-[Falls § 2 NachwG betroffen: Information an Arbeitnehmer erforderlich]
+[Falls Paragraf 2 NachwG betroffen: Information an Arbeitnehmer erforderlich]
 
 ### Freigabe-Checkliste
 - [ ] Querverweise angepasst
 - [ ] Betriebsvereinbarungen aktualisiert (falls erforderlich)
-- [ ] Betriebsrat involviert (falls § 87 BetrVG betroffen)
+- [ ] Betriebsrat involviert (falls Paragraf 87 BetrVG betroffen)
 - [ ] Leistungsversprechen-Frage geklärt (falls Reduzierung)
 - [ ] Versionsnummer und Datum aktualisiert
-- [ ] Mitarbeiterinformation gemäß § 2 NachwG (falls erforderlich)
+- [ ] Mitarbeiterinformation gemäß Paragraf 2 NachwG (falls erforderlich)
 ```
 
 ## Beispiel
@@ -189,22 +189,22 @@ Ausgabe der Skill:
 
 > Leistungsversprechen-Check: Die Reduzierung des Jahresurlaubs unterschreitet
 > den bisher im Handbuch versprochenen Wert. Sofern die 30-Tage-Regelung durch
-> betriebliche Übung (§ 611a BGB i. V. m. Grundsatz der betrieblichen Übung)
+> betriebliche Übung (Paragraf 611a BGB i. V. m. Grundsatz der betrieblichen Übung)
 > oder vertragliche Bezugnahme bindend ist, bedarf die Änderung entweder der
 > individuellen Zustimmung jedes betroffenen Arbeitnehmers oder einer
-> Änderungskündigung (§§ 2, 4 KSchG). Mitbestimmung des Betriebsrats nach
-> § 87 Abs. 1 Nr. 5 BetrVG ist zu prüfen.
+> Änderungskündigung (Paragrafen 2, 4 KSchG). Mitbestimmung des Betriebsrats nach
+> Paragraf 87 Abs. 1 Nr. 5 BetrVG ist zu prüfen.
 
 ## Risiken und typische Fehler
 
-- **Mitbestimmung vergessen**: Änderungen in Bereichen des § 87 BetrVG
+- **Mitbestimmung vergessen**: Änderungen in Bereichen des Paragraf 87 BetrVG
  ohne Betriebsratsinhaber sind unwirksam — auch wenn sie sachlich gerechtfertigt sind.
 - **Betriebliche Übung unterschätzt**: Was über Jahre konsistent gewährt wurde,
  kann bindend sein — auch ohne ausdrücklichen Vertrag.
 - **NachwG-Frist versäumt**: Änderungen wesentlicher Arbeitsbedingungen müssen
  spätestens am nächsten Arbeitstag schriftlich mitgeteilt werden.
 - **AGB-Kontrolle nicht geprüft**: Vorformulierte Handbuchklauseln unterliegen
- §§ 305 ff. BGB; überraschende oder unangemessen belastende Klauseln sind
+ Paragrafen 305 ff. BGB; überraschende oder unangemessen belastende Klauseln sind
  unwirksam.
 - **Standortspezifika übersehen**: Betriebsvereinbarungen an einzelnen
  Standorten können bundesweite Handbuchregelungen einschränken oder erweitern.
@@ -213,10 +213,10 @@ Ausgabe der Skill:
 
 Jede Ausgabe dieser Skill muss bei mitbestimmungsrelevanten Änderungen zitieren:
 
-- § 87 BetrVG (Mitbestimmungstatbestand), § 77 BetrVG (Betriebsvereinbarung)
-- § 2 NachwG (Nachweispflicht)
-- §§ 305 ff. BGB (AGB-Kontrolle)
+- Paragraf 87 BetrVG (Mitbestimmungstatbestand), Paragraf 77 BetrVG (Betriebsvereinbarung)
+- Paragraf 2 NachwG (Nachweispflicht)
+- Paragrafen 305 ff. BGB (AGB-Kontrolle)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- § 87 Abs. 1 Nr. 6 BetrVG: Mitbestimmung bei technischen Überwachungseinrichtungen; Rechtsprechung nur frei verifiziert zitieren.
+- Paragraf 87 Abs. 1 Nr. 6 BetrVG: Mitbestimmung bei technischen Überwachungseinrichtungen; Rechtsprechung nur frei verifiziert zitieren.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

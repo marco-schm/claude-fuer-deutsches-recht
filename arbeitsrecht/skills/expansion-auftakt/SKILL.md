@@ -20,8 +20,8 @@ description: "Startet die Planung einer Neueinstellung in einem weiteren Bundesl
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Expansions-Kickoff (Arbeitsrecht)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -40,10 +40,10 @@ description: "Startet die Planung einer Neueinstellung in einem weiteren Bundesl
 
 **Kernvorschriften:**
 
-- §§ 611a, 613 BGB: Arbeitnehmereigenschaft, Unübertragbarkeit der Arbeitsleistung
-- § 7 SGB IV: Beschäftigungsverhältnis, Scheinselbständigkeit
-- §§ 1–19 AÜG: Arbeitnehmerüberlassungsgesetz — Erlaubnispflicht, Höchstüberlassungsdauer (§ 1 Abs. 1b AÜG: 18 Monate), Equal-Pay-Gebot (§ 8 AÜG)
-- §§ 17, 18 KSchG: Massenentlassungsanzeige (relevant ab bestimmtem Schwellenwert)
+- Paragrafen 611a, 613 BGB: Arbeitnehmereigenschaft, Unübertragbarkeit der Arbeitsleistung
+- Paragraf 7 SGB IV: Beschäftigungsverhältnis, Scheinselbständigkeit
+- Paragrafen 1–19 AÜG: Arbeitnehmerüberlassungsgesetz — Erlaubnispflicht, Höchstüberlassungsdauer (Paragraf 1 Abs. 1b AÜG: 18 Monate), Equal-Pay-Gebot (Paragraf 8 AÜG)
+- Paragrafen 17, 18 KSchG: Massenentlassungsanzeige (relevant ab bestimmtem Schwellenwert)
 - Art. 8 Rom I-VO: Arbeitsvertragsstatut bei grenzüberschreitenden Verhältnissen
 - RL 2008/104/EG: Leiharbeits-Richtlinie
 
@@ -53,7 +53,7 @@ description: "Startet die Planung einer Neueinstellung in einem weiteren Bundesl
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-- Arbeitnehmerstatus: § 611a BGB, § 7a SGB IV und frei verifizierte BAG-/BSG-Rechtsprechung; keine Kommentarzitate aus Modellwissen.
+- Arbeitnehmerstatus: Paragraf 611a BGB, Paragraf 7a SGB IV und frei verifizierte BAG-/BSG-Rechtsprechung; keine Kommentarzitate aus Modellwissen.
 - AÜG: Erlaubnispflicht, Höchstüberlassungsdauer und Equal Pay nach Gesetz, Tariftext und frei verifizierter Rechtsprechung prüfen.
 - AÜG/Equal Pay: Gesetz, Tariftext und freie Rechtsprechung nutzen; Fachliteratur nur mit Nutzerquelle.
 - Grenzüberschreitende Arbeitsverhältnisse: Art. 8 Rom I-VO, AÜG, Entsende-/SV-Regeln und amtliche Quellen prüfen; keine Handbuchzitate aus Modellwissen.
@@ -123,14 +123,14 @@ Ausgabe bei Einstellung von zwei Vertriebsmitarbeitern in Polen:
 
 ## Risiken und typische Fehler
 
-- **Scheinselbständigkeit § 7 SGB IV**: Freie Mitarbeiter im Ausland, die
+- **Scheinselbständigkeit Paragraf 7 SGB IV**: Freie Mitarbeiter im Ausland, die
  faktisch weisungsgebunden und eingegliedert sind, gelten als Arbeitnehmer.
  Nachzahlungsrisiko Sozialversicherung bis zu vier Jahre rückwirkend.
 - **AÜG-Falle bei EOR**: Wird ein EOR ohne AÜG-Erlaubnis genutzt und liegt
  echte Arbeitnehmerüberlassung vor, kann kraft Gesetzes ein Arbeitsverhältnis
- zum Entleiher entstehen (§ 10 Abs. 1 AÜG).
+ zum Entleiher entstehen (Paragraf 10 Abs. 1 AÜG).
 - **18-Monats-Grenze**: Die gesetzliche Höchstüberlassungsdauer beträgt
- 18 Monate (§ 1 Abs. 1b AÜG). Überschreitung ohne tarifvertragliche Ausnahme
+ 18 Monate (Paragraf 1 Abs. 1b AÜG). Überschreitung ohne tarifvertragliche Ausnahme
  ist bußgeldbewehrt.
 - **Fehlende Vorabklärung Betriebsstättenrisiko**: Vertriebsmitarbeiter mit
  Vertretungsmacht können in vielen Ländern steuerlich eine Betriebsstätte
@@ -144,7 +144,7 @@ Ausgabe bei Einstellung von zwei Vertriebsmitarbeitern in Polen:
 
 Jede Ausgabe dieser Skill muss bei Structural-Empfehlungen zitieren:
 
-- § 7 SGB IV (Scheinselbständigkeit), §§ 1, 8, 10 AÜG
+- Paragraf 7 SGB IV (Scheinselbständigkeit), Paragrafen 1, 8, 10 AÜG
 - Art. 8 Rom I-VO bei grenzüberschreitenden Konstellationen
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - AÜG: Erlaubnispflicht, Höchstüberlassungsdauer und Equal Pay nach Gesetz, Tariftext und frei verifizierter Rechtsprechung prüfen.

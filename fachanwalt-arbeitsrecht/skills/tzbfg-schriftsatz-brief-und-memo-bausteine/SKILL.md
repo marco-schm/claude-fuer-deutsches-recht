@@ -1,9 +1,9 @@
 ---
 name: tzbfg-schriftsatz-brief-und-memo-bausteine
-description: "TzBfG Schriftsatz-, Brief- und Memo-Bausteine: Klageschrift Entfristungsklage § 17 TzBfG, Klageantrag, Sachverhaltsaufbau, Beweisangebote, Mandantenbrief zur Befristungsbeendigung, Arbeitgeberantwortbrief, Vergleichsformel: TzBfG Schriftsatz-, Brief- und M..."
+description: "TzBfG Schriftsatz-, Brief- und Memo-Bausteine: Klageschrift Entfristungsklage Paragraf 17 TzBfG, Klageantrag, Sachverhaltsaufbau, Beweisangebote, Mandantenbrief zur Befristungsbeendigung, Arbeitgeberantwortbrief, Vergleichsformel: TzBfG Schriftsatz-, Brief- und M..."
 ---
 
-# TzBfG Schriftsatz-, Brief- und Memo-Bausteine: Klageschrift Entfristungsklage § 17 TzBfG, Klageantrag, Sachverhaltsaufbau, Beweisangebote, Mandantenbrief zur Befristungsbeendigung, Arbeitgeberantwortbrief, Vergleichsformel.
+# TzBfG Schriftsatz-, Brief- und Memo-Bausteine: Klageschrift Entfristungsklage Paragraf 17 TzBfG, Klageantrag, Sachverhaltsaufbau, Beweisangebote, Mandantenbrief zur Befristungsbeendigung, Arbeitgeberantwortbrief, Vergleichsformel.
 
 
 ## Arbeitsweg
@@ -14,14 +14,14 @@ description: "TzBfG Schriftsatz-, Brief- und Memo-Bausteine: Klageschrift Entfri
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** TzBfG Schriftsatz-, Brief- und Memo-Bausteine: Klageschrift Entfristungsklage § 17 TzBfG, Klageantrag, Sachverhaltsaufbau, Beweisangebote, Mandantenbrief zur Befristungsbeendigung, Arbeitgeberantwortbrief, Vergleichsformel.
+**Fokus:** TzBfG Schriftsatz-, Brief- und Memo-Bausteine: Klageschrift Entfristungsklage Paragraf 17 TzBfG, Klageantrag, Sachverhaltsaufbau, Beweisangebote, Mandantenbrief zur Befristungsbeendigung, Arbeitgeberantwortbrief, Vergleichsformel.
 
 ### Spezial: TzBfG — Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: TzBfG — Schriftsatz-, Brief- und Memo-Bausteine` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -30,11 +30,11 @@ description: "TzBfG Schriftsatz-, Brief- und Memo-Bausteine: Klageschrift Entfri
 Wenn eine TzBfG-Konstellation vorliegt, zuerst klären:
 
 1. **Was ist der Sachverhalt?** Sachgrundbefristung oder sachgrundlose Befristung? Verlängerungen?
-2. **Ist die 3-Wochen-Frist noch offen?** (§ 17 TzBfG: 3 Wochen ab vereinbartem Ende)
+2. **Ist die 3-Wochen-Frist noch offen?** (Paragraf 17 TzBfG: 3 Wochen ab vereinbartem Ende)
 3. **Welches Dokument wird gebraucht?** Klageschrift, Mandantenbrief, Vergleich, Memo?
 4. **Was ist das Ziel?** Entfristung (Weiterbeschäftigung) oder Vergleich mit Abfindung?
 
-## Baustein 1: Klageschrift Entfristungsklage (§ 17 TzBfG)
+## Baustein 1: Klageschrift Entfristungsklage (Paragraf 17 TzBfG)
 
 ### Antrag
 > „Es wird beantragt: Festzustellen, dass das zwischen den Parteien bestehende Arbeitsverhältnis nicht durch die Befristung gemäß Arbeitsvertrag vom [Datum] zum [Beendigungsdatum] beendet worden ist."
@@ -56,10 +56,11 @@ welcher Sachgrund behauptet wird / ob sachgrundlose Befristung]
 
 III. Fehlende Schriftform / fehlender Sachgrund / Anschlussverbot
 [Konkrete Angriffspunkte:]
-- Schriftform § 14 Abs. 4 TzBfG: [Vertrag wurde nach Dienstantritt unterzeichnet /
- keine Originalunterschrift / etc.]
-- Kein Sachgrund § 14 Abs. 1 TzBfG: [konkret warum der behauptete Sachgrund nicht vorliegt]
-- Anschlussverbot § 14 Abs. 2 Satz 2 TzBfG: [wenn Vorbeschäftigung vorhanden]
+- Schriftform Paragraf 14 Abs. 4 TzBfG: [Vertrag wurde nach Dienstantritt unterzeichnet /
+ keine Originalunterschrift / nur E-Mail, PDF-Scan oder einfache elektronische Signatur /
+ keine qualifizierte elektronische Signatur nach Paragraf 126a BGB / etc.]
+- Kein Sachgrund Paragraf 14 Abs. 1 TzBfG: [konkret warum der behauptete Sachgrund nicht vorliegt]
+- Anschlussverbot Paragraf 14 Abs. 2 Satz 2 TzBfG: [wenn Vorbeschäftigung vorhanden]
 
 IV. Beweisangebote
 [Urkunden: Vertrag als Anlage K1; Verlängerungsvereinbarungen als Anlage K2 usw.]
@@ -67,7 +68,7 @@ IV. Beweisangebote
 ```
 
 ### Klagefrist-Hinweis (in der Klageschrift)
-> „Die Klage ist fristgerecht erhoben. Das Arbeitsverhältnis endete am [Datum]; die Klageschrift ist am [Datum] beim Arbeitsgericht [Ort] eingegangen und damit innerhalb der Dreiwochenfrist des § 17 TzBfG."
+> „Die Klage ist fristgerecht erhoben. Das Arbeitsverhältnis endete am [Datum]; die Klageschrift ist am [Datum] beim Arbeitsgericht [Ort] eingegangen und damit innerhalb der Dreiwochenfrist des Paragraf 17 TzBfG."
 
 ## Baustein 2: Mandantenbrief — Befristungsbeendigung (Informationsschreiben)
 
@@ -77,7 +78,7 @@ IV. Beweisangebote
 >
 > Ihr befristetes Arbeitsverhältnis endet am [Datum]. Nach meiner Prüfung bestehen folgende Möglichkeiten:
 >
-> 1. Entfristungsklage (§ 17 TzBfG): Wenn die Befristung unwirksam ist [wegen: Schriftformmangel / fehlendem Sachgrund / Anschlussverbot], haben Sie die Möglichkeit, beim Arbeitsgericht [Ort] Klage zu erheben. Die Klagefrist beträgt **3 Wochen ab dem [Beendigungsdatum]**, also bis spätestens **[Fristablauf]**.
+> 1. Entfristungsklage (Paragraf 17 TzBfG): Wenn die Befristung unwirksam ist [wegen: Schriftformmangel / fehlendem Sachgrund / Anschlussverbot], haben Sie die Möglichkeit, beim Arbeitsgericht [Ort] Klage zu erheben. Die Klagefrist beträgt **3 Wochen ab dem [Beendigungsdatum]**, also bis spätestens **[Fristablauf]**.
 >
 > 2. Verhandlung mit dem Arbeitgeber: Alternativ können wir versuchen, mit dem Arbeitgeber eine Verlängerung oder einen Aufhebungsvertrag mit Abfindung zu verhandeln.
 >
@@ -95,7 +96,7 @@ unterzeichnet (Beleg: Anlage B1: Vertrag mit Datum; Anlage B2: Arbeitsbeginn-Nac
 Zu II: Der Sachgrund [Vertretung / Erprobung / etc.] ist erfüllt, weil:
 [konkrete Darlegung des Sachgrunds]
 
-Zu III: Das Anschlussverbot des § 14 Abs. 2 Satz 2 TzBfG ist nicht verletzt, weil:
+Zu III: Das Anschlussverbot des Paragraf 14 Abs. 2 Satz 2 TzBfG ist nicht verletzt, weil:
 [keine Vorbeschäftigung / unterbrochene Vorbeschäftigung > 3 Jahre — aktuelle BAG-Linie prüfen]
 ```
 
@@ -118,10 +119,17 @@ Verlängerungen: [Anzahl, Daten]
 Vorbeschäftigung: [ja/nein; wenn ja: wann, wie lange]
 
 Prüfung:
-1. Schriftform (§ 14 Abs. 4 TzBfG): [OK / Fehler: beschreiben]
-2. Sachgrund (§ 14 Abs. 1 TzBfG): [vorhanden/fehlend: begründen]
-3. Anschlussverbot (§ 14 Abs. 2 Satz 2 TzBfG): [Vorbeschäftigung? Wie lange zurück?]
-4. Klagefrist (§ 17 TzBfG): [Fristablauf: Datum]
+1. Schriftform (Paragraf 14 Abs. 4 TzBfG): [OK / Fehler: beschreiben]
+   Form-Stop: Papieroriginal mit eigenhändiger Unterschrift beider Parteien
+   oder echte qES beider Parteien nach Paragraf 126a BGB. E-Mail, Scan,
+   einfache elektronische Signatur, fortgeschrittene Signatur ohne
+   qualifiziertes Zertifikat und Standard-DocuSign/Adobe-Sign ohne qES
+   reichen nicht. Anker: ArbG Berlin, 28.09.2021 - 36 Ca 15296/20;
+   LAG Berlin-Brandenburg, 16.03.2022 - 23 Sa 1133/21; ArbG Gera,
+   07.03.2024 - 2 Ca 936/23.
+2. Sachgrund (Paragraf 14 Abs. 1 TzBfG): [vorhanden/fehlend: begründen]
+3. Anschlussverbot (Paragraf 14 Abs. 2 Satz 2 TzBfG): [Vorbeschäftigung? Wie lange zurück?]
+4. Klagefrist (Paragraf 17 TzBfG): [Fristablauf: Datum]
 
 Ergebnis: Klage [empfehlenswert / nicht empfehlenswert] — weil: [Begründung]
 Nächster Schritt: [Klageschrift bis Datum / Mandantengespräch / Verhandlungsversuch]

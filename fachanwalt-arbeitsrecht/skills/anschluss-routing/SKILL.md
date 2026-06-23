@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Fachanwalt Arbeitsrecht: wählt den nächsten Spezial-Skill nach Engpass (§ 4 KSchG 3 Wochen Kündigungsschutzklage, Arbeitsvertrag, Kündigung, Aufhebungsvertrag), dokumentiert Router-Entscheidung mit Begründung."
+description: "Anschluss-Routing für Fachanwalt Arbeitsrecht: wählt den nächsten Spezial-Skill nach Engpass (Paragraf 4 KSchG 3 Wochen Kündigungsschutzklage, Arbeitsvertrag, Kündigung, Aufhebungsvertrag), dokumentiert Router-Entscheidung mit Begründung."
 ---
 
 # Anschluss-Routing
@@ -45,18 +45,18 @@ Dieses Anschluss-Routing für **Fachanwalt Arbeitsrecht** wählt nach dem ersten
 
 ### Kuratierte Normen-Bibliothek
 
-- § 102 BetrVG
-- § 17 KSchG
-- § 4 KSchG
-- § 14 TzBfG
-- § 1 KSchG
-- § 17 TzBfG
-- § 15 AGG
-- § 22 AGG
-- § 5 KSchG
-- § 66 ArbGG
-- § 54 ArbGG
-- § 23 KSchG
+- Paragraf 102 BetrVG
+- Paragraf 17 KSchG
+- Paragraf 4 KSchG
+- Paragraf 14 TzBfG
+- Paragraf 1 KSchG
+- Paragraf 17 TzBfG
+- Paragraf 15 AGG
+- Paragraf 22 AGG
+- Paragraf 5 KSchG
+- Paragraf 66 ArbGG
+- Paragraf 54 ArbGG
+- Paragraf 23 KSchG
 
 ### Leitentscheidungen
 

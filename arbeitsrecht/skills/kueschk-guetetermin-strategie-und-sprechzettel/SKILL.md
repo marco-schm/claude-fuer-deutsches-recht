@@ -1,9 +1,9 @@
 ---
 name: kueschk-guetetermin-strategie-und-sprechzettel
-description: "Guetetermin nach § 54 ArbGG: Ablauf und Funktion: was sagen und was nicht sagen; Sprechzettel-Template für den Guetetermin; Vergleichsbereitschaft signalisieren ohne Positionen aufzugeben; typische Richter-F..."
+description: "Guetetermin nach Paragraf 54 ArbGG: Ablauf und Funktion: was sagen und was nicht sagen; Sprechzettel-Template für den Guetetermin; Vergleichsbereitschaft signalisieren ohne Positionen aufzugeben; typische Richter-F..."
 ---
 
-# Guetetermin nach § 54 ArbGG: Ablauf und Funktion
+# Guetetermin nach Paragraf 54 ArbGG: Ablauf und Funktion
 
 
 ## Arbeitsweg
@@ -14,33 +14,33 @@ description: "Guetetermin nach § 54 ArbGG: Ablauf und Funktion: was sagen und w
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Guetetermin nach § 54 ArbGG: Ablauf und Funktion; was sagen und was nicht sagen; Sprechzettel-Template für den Guetetermin; Vergleichsbereitschaft signalisieren ohne Positionen aufzugeben; typische Richter-Fragen.
+**Fokus:** Guetetermin nach Paragraf 54 ArbGG: Ablauf und Funktion; was sagen und was nicht sagen; Sprechzettel-Template für den Guetetermin; Vergleichsbereitschaft signalisieren ohne Positionen aufzugeben; typische Richter-Fragen.
 
 ### Gütetermin: Strategie und Sprechzettel
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gütetermin: Strategie und Sprechzettel` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Triage zu Beginn — kläre vor dem Gütetermin
 
-1. Ist der Gütetermin der erste Verhandlungstermin? (Regel: § 54 ArbGG)
+1. Ist der Gütetermin der erste Verhandlungstermin? (Regel: Paragraf 54 ArbGG)
 2. Ist der Arbeitgeber anwaltlich vertreten? (Beeinflusst Vergleichsstrategie)
 3. Was ist das Vergleichsziel des Mandanten? (Abfindung / Weiterbeschäftigung / Zeugniskorrektur?)
-4. Wurde die Drei-Wochen-Frist § 4 KSchG gewahrt?
+4. Wurde die Drei-Wochen-Frist Paragraf 4 KSchG gewahrt?
 5. Hat die Gegenseite bereits eine Klageerwiderung eingereicht?
 
 ## Zentrale Normen
 
-- § 54 ArbGG — Güteverhandlung als erster Verhandlungstermin; vor dem Vorsitzenden allein
-- § 55 ArbGG — Vergleich im Gütetermin: rechtsverbindlich und vollstreckbar
-- § 11 Abs. 1 ArbGG — kein Anwaltszwang in erster Instanz (Ausnahme: Sprungrevision)
-- § 57 ArbGG — Kammertermin nach erfolglosem Gütetermin
-- § 9 KSchG — Auflösungsantrag des Arbeitnehmers (bei Misserfolg im Gütetermin prüfen)
+- Paragraf 54 ArbGG — Güteverhandlung als erster Verhandlungstermin; vor dem Vorsitzenden allein
+- Paragraf 55 ArbGG — Vergleich im Gütetermin: rechtsverbindlich und vollstreckbar
+- Paragraf 11 Abs. 1 ArbGG — kein Anwaltszwang in erster Instanz (Ausnahme: Sprungrevision)
+- Paragraf 57 ArbGG — Kammertermin nach erfolglosem Gütetermin
+- Paragraf 9 KSchG — Auflösungsantrag des Arbeitnehmers (bei Misserfolg im Gütetermin prüfen)
 
 ## Aktuelle Rechtsprechung
 
@@ -48,12 +48,12 @@ description: "Guetetermin nach § 54 ArbGG: Ablauf und Funktion: was sagen und w
 
 ## Was ist der Gütetermin?
 
-- Erster Verhandlungstermin nach § 54 ArbGG
+- Erster Verhandlungstermin nach Paragraf 54 ArbGG
 - Findet **vor dem Vorsitzenden allein** statt (nicht mit Beisitzern)
 - Ziel: gütliche Einigung, Vergleich
 - Kein Urteil im Gütetermin möglich
 - Beide Parteien müssen persönlich erscheinen (bei Laien) oder durch Bevollmächtigte vertreten sein
-- Kein Anwaltszwang für erste Instanz (§ 11 Abs. 1 ArbGG)
+- Kein Anwaltszwang für erste Instanz (Paragraf 11 Abs. 1 ArbGG)
 
 ## Ablauf des Gütetermins (typisch)
 

@@ -7,8 +7,8 @@ description: "Ausgabe vollständige Klageschrift mit Pflicht-Disclaimer-Kopf fü
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Ausgabe: Vollständige Klageschrift mit Pflicht-Disclaimer (Laie)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -22,9 +22,9 @@ description: "Ausgabe vollständige Klageschrift mit Pflicht-Disclaimer-Kopf fü
 Dieses Dokument ist ein Entwurf, der mit Hilfe eines KI-gestützten Rechtshilfesystems erstellt wurde. Es begründet kein Mandatsverhältnis. Das System übernimmt keine rechtliche Verantwortung und haftet nicht.
 
 **Du könntest auf der falschen Wiese unterwegs sein.** Prüfe zwingend:
-- Bist du länger als sechs Monate beschäftigt? (§ 1 Abs. 1 KSchG)
-- Hat dein Betrieb mehr als zehn Arbeitnehmer? (§ 23 KSchG)
-- Gilt die Drei-Wochen-Frist nach § 4 KSchG? — Sie läuft ab Zugang der Kündigung.
+- Bist du länger als sechs Monate beschäftigt? (Paragraf 1 Abs. 1 KSchG)
+- Hat dein Betrieb mehr als zehn Arbeitnehmer? (Paragraf 23 KSchG)
+- Gilt die Drei-Wochen-Frist nach Paragraf 4 KSchG? — Sie läuft ab Zugang der Kündigung.
 
 **Dringende Empfehlung:** Suche sofort einen Rechtsanwalt oder eine Rechtsanwältin auf.
 
@@ -54,7 +54,7 @@ gegen
 
 — Beklagte/r —
 
-**Streitwert:** vorläufig [3 × MONATSLOHN] EUR (§ 42 Abs. 2 GKG)
+**Streitwert:** vorläufig [3 × MONATSLOHN] EUR (Paragraf 42 Abs. 2 GKG)
 
 ---
 
@@ -83,7 +83,7 @@ Am [ZUGANGSDATUM] habe ich das Kündigungsschreiben der Beklagten erhalten (Anla
 [HIER BEGRÜNDUNG NACH TATSÄCHLICHEM GRUND EINTRAGEN:]
 
 **Option A — Keine Sozialauswahl (betriebsbedingt):**
-Eine ordnungsgemäße Sozialauswahl gemäß § 1 Abs. 3 KSchG wurde nicht durchgeführt. Der Kollege/die Kollegin [NAME, falls bekannt] weist geringere Sozialdaten auf als ich, wurde aber weiterbeschäftigt.
+Eine ordnungsgemäße Sozialauswahl gemäß Paragraf 1 Abs. 3 KSchG wurde nicht durchgeführt. Der Kollege/die Kollegin [NAME, falls bekannt] weist geringere Sozialdaten auf als ich, wurde aber weiterbeschäftigt.
 
 **Option B — Keine Abmahnung (verhaltensbedingt):**
 Eine Abmahnung als notwendige Voraussetzung wurde nicht ausgesprochen. Die Kündigung ist daher unverhältnismäßig.
@@ -113,9 +113,9 @@ ____________________________
 ## Triage zu Beginn — kläre vor Ausgabe der vollständigen Klageschrift
 
 1. Wurden alle vorgelagerten Prüfschritte abgearbeitet?
- - KSchG-Anwendbarkeit (§ 23 KSchG, § 1 Abs. 1 KSchG) ✓/✗
- - Frist und Zugang (§ 4 KSchG) ✓/✗
- - Formfehler (§§ 623, 174 BGB) ✓/✗
+ - KSchG-Anwendbarkeit (Paragraf 23 KSchG, Paragraf 1 Abs. 1 KSchG) ✓/✗
+ - Frist und Zugang (Paragraf 4 KSchG) ✓/✗
+ - Formfehler (Paragrafen 623, 174 BGB) ✓/✗
  - Sonderkündigungsschutz ✓/✗
 2. Liegt der Kündigungsgrund (betriebsbedingt/verhaltensbedingt/personenbedingt) fest?
 3. Wurde der Laien-Disclaimer-Kopf (`kueschk-grundwarnung-falsche-wiese-und-haftung`) bereits ausgegeben?
@@ -134,12 +134,12 @@ Step 7: Einreichungshinweise ausgeben
 
 ## Zentrale Normen
 
-- **§ 4 KSchG** — Klagefrist drei Wochen (absolute Ausschlussfrist)
-- **§ 256 ZPO** — Feststellungsklage, Feststellungsinteresse
-- **§ 42 Abs. 2 GKG** — Streitwert drei Bruttomonatsgehalt bei Kündigungsschutz
-- **§ 46 Abs. 2 ArbGG i.V.m. §§ 495, 495a ZPO** — Verfahrensvorschriften Arbeitsgericht
-- **§ 11 Abs. 1 ArbGG** — Kein Anwaltszwang erste Instanz
-- **§ 46 Abs. 2 ArbGG i.V.m. § 496 ZPO** — Klage kann zu Protokoll der Geschäftsstelle erklärt werden
+- **Paragraf 4 KSchG** — Klagefrist drei Wochen (absolute Ausschlussfrist)
+- **Paragraf 256 ZPO** — Feststellungsklage, Feststellungsinteresse
+- **Paragraf 42 Abs. 2 GKG** — Streitwert drei Bruttomonatsgehalt bei Kündigungsschutz
+- **Paragraf 46 Abs. 2 ArbGG i.V.m. Paragrafen 495, 495a ZPO** — Verfahrensvorschriften Arbeitsgericht
+- **Paragraf 11 Abs. 1 ArbGG** — Kein Anwaltszwang erste Instanz
+- **Paragraf 46 Abs. 2 ArbGG i.V.m. Paragraf 496 ZPO** — Klage kann zu Protokoll der Geschäftsstelle erklärt werden
 
 ## Aktuelle Rechtsprechung
 

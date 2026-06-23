@@ -1,9 +1,9 @@
 ---
 name: entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung
-description: "Sachgrundlose Befristung nach § 14 Abs: 2 TzBfG: zwei Jahre Gesamtdauer; dreimal verlaengerbar; Vorbeschaeftigungsverbot; BVerfG-Entscheidung 2018; BAG-Folgerechtsprechung; Karenzzeit-Diskussion; Rechtsfolge § 16 TzBfG."
+description: "Sachgrundlose Befristung nach Paragraf 14 Absatz 2 TzBfG: zwei Jahre Gesamtdauer; dreimal verlaengerbar; Vorbeschaeftigungsverbot; BVerfG-Entscheidung 2018; BAG-Folgerechtsprechung; Karenzzeit-Diskussion; Rechtsfolge Paragraf 16 TzBfG."
 ---
 
-# Sachgrundlose Befristung nach § 14 Abs
+# Sachgrundlose Befristung nach Paragraf 14 Abs
 
 
 ## Arbeitsweg
@@ -14,14 +14,14 @@ description: "Sachgrundlose Befristung nach § 14 Abs: 2 TzBfG: zwei Jahre Gesam
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Sachgrundlose Befristung nach § 14 Abs. 2 TzBfG: zwei Jahre Gesamtdauer; dreimal verlaengerbar; Vorbeschaeftigungsverbot; BVerfG-Entscheidung 2018; BAG-Folgerechtsprechung; Karenzzeit-Diskussion; Rechtsfolge § 16 TzBfG.
+**Fokus:** Sachgrundlose Befristung nach Paragraf 14 Abs. 2 TzBfG: zwei Jahre Gesamtdauer; dreimal verlaengerbar; Vorbeschaeftigungsverbot; BVerfG-Entscheidung 2018; BAG-Folgerechtsprechung; Karenzzeit-Diskussion; Rechtsfolge Paragraf 16 TzBfG.
 
-### Sachgrundlose Befristung — § 14 Abs. 2 TzBfG und Vorbeschäftigungsverbot
+### Sachgrundlose Befristung — Paragraf 14 Abs. 2 TzBfG und Vorbeschäftigungsverbot
 
 ## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sachgrundlose Befristung — § 14 Abs. 2 TzBfG und Vorbeschäftigungsverbot` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sachgrundlose Befristung — Paragraf 14 Abs. 2 TzBfG und Vorbeschäftigungsverbot` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -36,12 +36,12 @@ description: "Sachgrundlose Befristung nach § 14 Abs: 2 TzBfG: zwei Jahre Gesam
 
 ## Zentrale Normen
 
-- § 14 Abs. 2 Satz 1 TzBfG — Sachgrundlose Befristung (max. 2 Jahre, max. 3 Verlängerungen)
-- § 14 Abs. 2 Satz 2 TzBfG — Vorbeschäftigungsverbot
-- § 14 Abs. 2a TzBfG — Sonderregel Neugründungsphase (erste 4 Jahre)
-- § 14 Abs. 3 TzBfG — Ältere Arbeitnehmer (ab 52 Jahre)
-- § 16 Satz 1 TzBfG — Rechtsfolge bei Verstoß: Vertrag gilt als unbefristet
-- § 17 TzBfG — 3-Wochen-Klagefrist
+- Paragraf 14 Abs. 2 Satz 1 TzBfG — Sachgrundlose Befristung (max. 2 Jahre, max. 3 Verlängerungen)
+- Paragraf 14 Abs. 2 Satz 2 TzBfG — Vorbeschäftigungsverbot
+- Paragraf 14 Abs. 2a TzBfG — Sonderregel Neugründungsphase (erste 4 Jahre)
+- Paragraf 14 Abs. 3 TzBfG — Ältere Arbeitnehmer (ab 52 Jahre)
+- Paragraf 16 Satz 1 TzBfG — Rechtsfolge bei Verstoß: Vertrag gilt als unbefristet
+- Paragraf 17 TzBfG — 3-Wochen-Klagefrist
 
 ## Aktuelle Rechtsprechung
 
@@ -49,13 +49,13 @@ description: "Sachgrundlose Befristung nach § 14 Abs: 2 TzBfG: zwei Jahre Gesam
 
 ## Voraussetzungen der sachgrundlosen Befristung
 
-Nach § 14 Abs. 2 Satz 1 TzBfG ist eine sachgrundlose Befristung zulässig wenn:
+Nach Paragraf 14 Abs. 2 Satz 1 TzBfG ist eine sachgrundlose Befristung zulässig wenn:
 1. Gesamtdauer des Arbeitsverhältnisses **≤ 2 Jahre** (alle aufeinanderfolgenden Verträge zusammengerechnet)
 2. **Höchstens dreimalige Verlängerung** innerhalb dieser 2 Jahre
 
 **Beide Voraussetzungen müssen erfüllt sein.** Eine vierte Verlängerung ist unzulässig, auch wenn Gesamtdauer noch unter 2 Jahren liegt.
 
-## Das Vorbeschäftigungsverbot § 14 Abs. 2 Satz 2 TzBfG
+## Das Vorbeschäftigungsverbot Paragraf 14 Abs. 2 Satz 2 TzBfG
 
 **Kern:** Die sachgrundlose Befristung ist nicht zulässig, wenn mit demselben Arbeitgeber **bereits zuvor** ein befristetes oder unbefristetes Arbeitsverhältnis bestanden hat.
 
@@ -64,14 +64,14 @@ Nach § 14 Abs. 2 Satz 1 TzBfG ist eine sachgrundlose Befristung zulässig wenn:
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Betrieb oder Unternehmen? Herrschende Meinung: Arbeitgeber-bezogen (Unternehmen), nicht betriebsbezogen
 
-## Prüfungsschema § 14 Abs. 2 TzBfG
+## Prüfungsschema Paragraf 14 Abs. 2 TzBfG
 
 ```
 Schritt 1: Gesamtdauer aller Verträge ≤ 2 Jahre?
- └── Nein → UNZULÄSSIG (§ 16 TzBfG: unbefristet)
+ └── Nein → UNZULÄSSIG (Paragraf 16 TzBfG: unbefristet)
 
 Schritt 2: Anzahl Verlängerungen ≤ 3?
- └── Nein → UNZULÄSSIG (§ 16 TzBfG: unbefristet)
+ └── Nein → UNZULÄSSIG (Paragraf 16 TzBfG: unbefristet)
 
 Schritt 3: Frühere Beschäftigung beim selben Arbeitgeber?
  └── Nein → Sachgrundlose Befristung ZULÄSSIG
@@ -95,10 +95,10 @@ Schritt 4: Ausnahme nach BVerfG 2018 — sehr lange zurückliegend oder ganz and
 
 ## Rechtsfolge bei Verstoß
 
-Ist § 14 Abs. 2 TzBfG verletzt (Vorbeschäftigung, Überschreitung Dauer oder Verlängerungsanzahl):
-- § 16 Satz 1 TzBfG: Vertrag gilt als **auf unbestimmte Zeit geschlossen**
-- 3-Wochen-Frist nach § 17 TzBfG muss eingehalten werden
-- Nach Fristversäumnis: Fiktionswirkung (§ 7 KSchG analog) — Befristung gilt als wirksam
+Ist Paragraf 14 Abs. 2 TzBfG verletzt (Vorbeschäftigung, Überschreitung Dauer oder Verlängerungsanzahl):
+- Paragraf 16 Satz 1 TzBfG: Vertrag gilt als **auf unbestimmte Zeit geschlossen**
+- 3-Wochen-Frist nach Paragraf 17 TzBfG muss eingehalten werden
+- Nach Fristversäumnis: Fiktionswirkung (Paragraf 7 KSchG analog) — Befristung gilt als wirksam
 
 ---
 

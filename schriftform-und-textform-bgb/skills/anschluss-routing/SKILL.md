@@ -45,18 +45,18 @@ Dieses Anschluss-Routing für **Schriftform Und Textform Bgb** wählt nach dem e
 
 ### Kuratierte Normen-Bibliothek
 
-- § 46h ArbGG
-- § 14 TzBfG
-- § 16 TzBfG
-- § 15 GmbHG
-- § 46c ArbGG
-- § 17 TzBfG
-- § 16a BeurkG
-- § 23a GVG
-- § 113 FamFG
-- § 2 HRG
-- § 4 HRG
-- § 7 HRG
+- Paragraf 46h ArbGG
+- Paragraf 14 TzBfG
+- Paragraf 16 TzBfG
+- Paragraf 15 GmbHG
+- Paragraf 46c ArbGG
+- Paragraf 17 TzBfG
+- Paragraf 16a BeurkG
+- Paragraf 23a GVG
+- Paragraf 113 FamFG
+- Paragraf 2 HRG
+- Paragraf 4 HRG
+- Paragraf 7 HRG
 
 ### Leitentscheidungen
 

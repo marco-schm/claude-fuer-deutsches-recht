@@ -26,13 +26,13 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
 - `Art. 12 Abs. 1 GG` — Berufswahl- und Ausbildungsbezug.
 - `Art. 3 Abs. 1 GG` — Gleichbehandlung und Bewertungsfairness.
-- `§ 2 HRG` — Aufgaben der Hochschulen.
-- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
-- `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
-- `§ 16 HRG` — Prüfungsordnungen.
-- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
+- `Paragraf 2 HRG` — Aufgaben der Hochschulen.
+- `Paragraf 4 HRG` — Freiheit von Forschung, Lehre und Studium.
+- `Paragraf 7 HRG` — Ziel des Studiums.
+- `Paragraf 15 HRG` — Prüfungen und Leistungspunktsystem.
+- `Paragraf 16 HRG` — Prüfungsordnungen.
+- `Paragraf 70 Abs. 1 VwGO` — Widerspruchsfrist.
+- `Paragraf 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 

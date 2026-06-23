@@ -3,7 +3,7 @@ name: textform-paragraph-verteidigungsstrategie
 description: "Textform Paragraph 126b BGB Dauerhafter Datentraeger: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Schriftform Und Textform Bgb."
 ---
 
-# Textform § 126b BGB — Dauerhafter Datenträger
+# Textform Paragraf 126b BGB — Dauerhafter Datenträger
 
 ## Arbeitsweg
 
@@ -15,25 +15,25 @@ description: "Textform Paragraph 126b BGB Dauerhafter Datentraeger: ordnet Norme
 
 ## Rechtsgrundlagen
 
-- **§ 126b BGB** — Textform: Erklärung in Textform muss
+- **Paragraf 126b BGB** — Textform: Erklärung in Textform muss
  - in einer lesbaren Schrift abgegeben sein
  - die Person des Erklärenden nennen
  - den Abschluss der Erklärung erkennbar machen (z. B. durch Wiedergabe des Namens oder Signatur)
  - auf einem dauerhaften Datenträger abgegeben oder zugegangen sein
 
-- **§ 126b S. 2 BGB** — Dauerhafter Datenträger: Mittel, das es dem Empfänger ermöglicht, eine inhaltlich unveränderte Erklärung für einen angemessenen Zeitraum zu speichern und zu reproduzieren
+- **Paragraf 126b S. 2 BGB** — Dauerhafter Datenträger: Mittel, das es dem Empfänger ermöglicht, eine inhaltlich unveränderte Erklärung für einen angemessenen Zeitraum zu speichern und zu reproduzieren
 
-- **Umsetzung EU-Recht**: Verbraucherrichtlinien fordern Textform vielfach als Mindeststandard (§ 356 BGB, §§ 481 ff. BGB, § 492 BGB).
+- **Umsetzung EU-Recht**: Verbraucherrichtlinien fordern Textform vielfach als Mindeststandard (Paragraf 356 BGB, Paragrafen 481 ff. BGB, Paragraf 492 BGB).
 
 ## BGH-Linie
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Der BGH hat in der Leitentscheidung zum Maklervertrag § 656a BGB bestätigt:
+Der BGH hat in der Leitentscheidung zum Maklervertrag Paragraf 656a BGB bestätigt:
 
-> **Lehrsatz**: E-Mail-Austausch kann die Textform des § 126b BGB erfüllen. Dabei können Erklärungen auf getrennten Datenträgern (separate E-Mails) stehen — eine körperliche Einheit ist nicht erforderlich. Ein konkludenter Abschluss eines Maklervertrags ist möglich, wenn aus dem Gesamtkontext der E-Mails der Vertragsschluss-Wille hinreichend deutlich wird.
+> **Lehrsatz**: E-Mail-Austausch kann die Textform des Paragraf 126b BGB erfüllen. Dabei können Erklärungen auf getrennten Datenträgern (separate E-Mails) stehen — eine körperliche Einheit ist nicht erforderlich. Ein konkludenter Abschluss eines Maklervertrags ist möglich, wenn aus dem Gesamtkontext der E-Mails der Vertragsschluss-Wille hinreichend deutlich wird.
 
-> **Kritischer Lehrsatz**: Bei Verstoß gegen die Textform des § 656a BGB ist nicht nur der Maklervertrag unwirksam — auch ein Bereicherungsanspruch auf Rückgewähr bereits gezahlter Provision ist nach dem Schutzzweck des § 656a BGB ausgeschlossen.
+> **Kritischer Lehrsatz**: Bei Verstoß gegen die Textform des Paragraf 656a BGB ist nicht nur der Maklervertrag unwirksam — auch ein Bereicherungsanspruch auf Rückgewähr bereits gezahlter Provision ist nach dem Schutzzweck des Paragraf 656a BGB ausgeschlossen.
 
 ## Workflow
 
@@ -62,17 +62,17 @@ Der Erklärungsabschluss kann durch Wiedergabe des Namens am Ende, Grußformel m
 
 ### Textform vs. Schriftform — Abgrenzungstabelle
 
-| Merkmal | Textform § 126b BGB | Schriftform § 126 BGB |
+| Merkmal | Textform Paragraf 126b BGB | Schriftform Paragraf 126 BGB |
 |---------|--------------------|-----------------------|
 | Eigenhändige Unterschrift | Nicht erforderlich | Erforderlich |
 | Papierdokument | Nicht erforderlich | Erforderlich (Original) |
 | E-Mail | Erfüllt Textform | Erfüllt Schriftform nicht |
-| qES | Nicht erforderlich | Ersetzt Schriftform (§ 126a) |
+| qES | Nicht erforderlich | Ersetzt Schriftform (Paragraf 126a) |
 | WhatsApp | Erfüllt Textform (bei Speicherbarkeit) | Nein |
 
 ## Templates
 
-### Textform-konforme E-Mail für Maklervertrag (§ 656a BGB)
+### Textform-konforme E-Mail für Maklervertrag (Paragraf 656a BGB)
 
 ```
 Betreff: Maklerauftrag Immobilie [Adresse] — Auftragsbestätigung
@@ -92,10 +92,10 @@ Mit freundlichen Grüßen
 [Datum]
 ```
 
-### Textform-Bestätigung für Mieterhöhung (§ 558a BGB)
+### Textform-Bestätigung für Mieterhöhung (Paragraf 558a BGB)
 
 ```
-Betreff: Mieterhöhung gemäß § 558 BGB — [Wohnungsadresse]
+Betreff: Mieterhöhung gemäß Paragraf 558 BGB — [Wohnungsadresse]
 
 Sehr geehrte(r) Herr/Frau [Name],
 

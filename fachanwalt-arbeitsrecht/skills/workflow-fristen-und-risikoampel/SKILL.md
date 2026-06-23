@@ -20,8 +20,8 @@ description: "Fristen und Risikoampel: vollständige Fristenübersicht für arbe
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Workflow: Fristen und Risikoampel` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -32,7 +32,7 @@ Wenn ein Sachverhalt oder eine Akte vorliegt:
 1. **Welche Fristauslöser gibt es?** (Zugangsdatum Kündigung, Beendigungsdatum Befristung, Urteilszustellung?)
 2. **Wie viele Tage bis zum Fristablauf?**
 3. **Sind alle Fristen im Kalender?**
-4. **Gibt es bereits abgelaufene Fristen?** (§ 7 KSchG-Fiktion; § 5 KSchG-Antrag noch möglich?)
+4. **Gibt es bereits abgelaufene Fristen?** (Paragraf 7 KSchG-Fiktion; Paragraf 5 KSchG-Antrag noch möglich?)
 
 ## Fristenübersicht — Vollständige Tabelle
 
@@ -40,26 +40,26 @@ Wenn ein Sachverhalt oder eine Akte vorliegt:
 
 | Frist | Norm | Länge | Fristbeginn | Folge bei Versäumnis |
 |---|---|---|---|---|
-| Kündigungsschutzklage | § 4 KSchG | 3 Wochen | Zugang der Kündigung | § 7 KSchG: Kündigung gilt als wirksam |
-| Entfristungsklage | § 17 TzBfG | 3 Wochen | Vereinbartes Vertragsende | Befristung gilt als wirksam |
-| AGG-Geltendmachung | § 15 Abs. 4 AGG | 2 Monate | Kenntnis der Benachteiligung | Anspruchsverlust |
-| Berufung LAG | § 66 Abs. 1 ArbGG | 1 Monat | Urteilszustellung | Rechtskraft |
-| Berufungsbegründung | § 66 Abs. 1 ArbGG | 2 Monate | Urteilszustellung | Verwerfung |
-| Revision BAG | § 74 Abs. 1 ArbGG | 1 Monat | Urteilszustellung | Rechtskraft |
-| Revisionsbegründung | § 74 Abs. 1 ArbGG | 2 Monate | Urteilszustellung | Verwerfung |
-| Nachträgliche Klagezulassung | § 5 KSchG | 2 Wochen | Wegfall des Hindernisses | Kein nachträglicher Schutz |
-| Wahlanfechtung BR | § 19 Abs. 2 BetrVG | 2 Wochen | Bekanntmachung Ergebnis | Anfechtungsrecht verfristet |
+| Kündigungsschutzklage | Paragraf 4 KSchG | 3 Wochen | Zugang der Kündigung | Paragraf 7 KSchG: Kündigung gilt als wirksam |
+| Entfristungsklage | Paragraf 17 TzBfG | 3 Wochen | Vereinbartes Vertragsende | Befristung gilt als wirksam |
+| AGG-Geltendmachung | Paragraf 15 Abs. 4 AGG | 2 Monate | Kenntnis der Benachteiligung | Anspruchsverlust |
+| Berufung LAG | Paragraf 66 Abs. 1 ArbGG | 1 Monat | Urteilszustellung | Rechtskraft |
+| Berufungsbegründung | Paragraf 66 Abs. 1 ArbGG | 2 Monate | Urteilszustellung | Verwerfung |
+| Revision BAG | Paragraf 74 Abs. 1 ArbGG | 1 Monat | Urteilszustellung | Rechtskraft |
+| Revisionsbegründung | Paragraf 74 Abs. 1 ArbGG | 2 Monate | Urteilszustellung | Verwerfung |
+| Nachträgliche Klagezulassung | Paragraf 5 KSchG | 2 Wochen | Wegfall des Hindernisses | Kein nachträglicher Schutz |
+| Wahlanfechtung BR | Paragraf 19 Abs. 2 BetrVG | 2 Wochen | Bekanntmachung Ergebnis | Anfechtungsrecht verfristet |
 
 ### Materiell-rechtliche Fristen
 
 | Frist | Norm | Länge | Fristbeginn | Folge |
 |---|---|---|---|---|
-| Außerordentliche Kündigung (AG) | § 626 Abs. 2 BGB | 2 Wochen | Kenntnis des Kündigungsgrundes | Kündigungsrecht verwirkt |
-| Vollmachtsrüge | § 174 BGB | Unverzüglich (< 1 Woche) | Empfang ohne beigefügte Vollmacht | Verwirkung |
-| BR-Anhörung ordentlich | § 102 Abs. 2 BetrVG | 1 Woche | AG unterrichtet BR | Fiktive Zustimmung |
-| BR-Anhörung außerordentlich | § 102 Abs. 2 BetrVG | 3 Tage | AG unterrichtet BR | Fiktive Zustimmung |
+| Außerordentliche Kündigung (AG) | Paragraf 626 Abs. 2 BGB | 2 Wochen | Kenntnis des Kündigungsgrundes | Kündigungsrecht verwirkt |
+| Vollmachtsrüge | Paragraf 174 BGB | Unverzüglich (< 1 Woche) | Empfang ohne beigefügte Vollmacht | Verwirkung |
+| BR-Anhörung ordentlich | Paragraf 102 Abs. 2 BetrVG | 1 Woche | AG unterrichtet BR | Fiktive Zustimmung |
+| BR-Anhörung außerordentlich | Paragraf 102 Abs. 2 BetrVG | 3 Tage | AG unterrichtet BR | Fiktive Zustimmung |
 | Ausschlussfristen Vertrag/TV | je nach Vereinbarung | 1–3 Monate (typisch) | Fälligkeit des Anspruchs | Anspruchsverlust |
-| Verjährung Lohnansprüche | §§ 195, 199 BGB | 3 Jahre | Jahresende der Fälligkeit | Verjährung |
+| Verjährung Lohnansprüche | Paragrafen 195, 199 BGB | 3 Jahre | Jahresende der Fälligkeit | Verjährung |
 
 ## Risikoampel nach Verbleibenden Tagen
 
@@ -67,25 +67,25 @@ Wenn ein Sachverhalt oder eine Akte vorliegt:
 
 | Frist | Verbleibende Tage | Ampel |
 |---|---|---|
-| Klagefrist § 4 KSchG | ≤ 5 Tage | Rot |
-| AGG-Frist § 15 Abs. 4 AGG | ≤ 10 Tage | Rot |
-| Vollmachtsrüge § 174 BGB | Sofort | Rot |
+| Klagefrist Paragraf 4 KSchG | ≤ 5 Tage | Rot |
+| AGG-Frist Paragraf 15 Abs. 4 AGG | ≤ 10 Tage | Rot |
+| Vollmachtsrüge Paragraf 174 BGB | Sofort | Rot |
 | Außerordentliche Kündigung AG | ≤ 3 Tage bis Kündigungsausspruch | Rot |
 
 ### Gelb — dringlich, innerhalb einer Woche handeln
 
 | Frist | Verbleibende Tage | Ampel |
 |---|---|---|
-| Klagefrist § 4 KSchG | 6–14 Tage | Gelb |
-| AGG-Frist § 15 Abs. 4 AGG | 11–21 Tage | Gelb |
-| Berufungsfrist § 66 ArbGG | ≤ 7 Tage | Gelb |
+| Klagefrist Paragraf 4 KSchG | 6–14 Tage | Gelb |
+| AGG-Frist Paragraf 15 Abs. 4 AGG | 11–21 Tage | Gelb |
+| Berufungsfrist Paragraf 66 ArbGG | ≤ 7 Tage | Gelb |
 
 ### Grün — ausreichend Zeit, aber im Blick behalten
 
 | Frist | Verbleibende Tage | Ampel |
 |---|---|---|
-| Klagefrist § 4 KSchG | 15–21 Tage | Grün (mit Hinweis) |
-| Berufungsfrist § 66 ArbGG | 8–30 Tage | Grün |
+| Klagefrist Paragraf 4 KSchG | 15–21 Tage | Grün (mit Hinweis) |
+| Berufungsfrist Paragraf 66 ArbGG | 8–30 Tage | Grün |
 | Ausschlussfrist Vertrag | > 21 Tage | Grün |
 
 ## Wiedervorlagensystem — Empfehlungen
@@ -96,7 +96,7 @@ Wenn ein Sachverhalt oder eine Akte vorliegt:
 - **1 Tag vor Fristablauf:** Letzte Kontrolle; beA-Einreichung rechtzeitig
 
 ### Fristenverlängerung
-- Berufungsbegründungsfrist (§ 66 Abs. 1 Satz 5 ArbGG): auf Antrag verlängerbar
+- Berufungsbegründungsfrist (Paragraf 66 Abs. 1 Satz 5 ArbGG): auf Antrag verlängerbar
 - Revisionsbegründungsfrist: auf Antrag verlängerbar
 
 ## Fristenblatt-Vorlage
@@ -108,7 +108,7 @@ Mandat: [Kurzbeschreibung]
 Anwalt: [Name]
 
 LAUFENDE FRISTEN:
-1. Klagefrist § 4 KSchG: [Datum] ← KRITISCH
+1. Klagefrist Paragraf 4 KSchG: [Datum] ← KRITISCH
  Zugangsdatum Kündigung: [Datum]
 
 2. [Weitere Frist]: [Datum]

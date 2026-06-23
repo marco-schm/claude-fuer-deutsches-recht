@@ -1,9 +1,9 @@
 ---
 name: kuendigungs-pruefung
-description: "Rechtliche Prüfung einer ordentlichen oder außerordentlichen Kündigung – KSchG (allgemeiner und besonderer Kündigungsschutz), § 102 BetrVG (Betriebsratsanhörung), §§ 622 und 626 BGB (Fristen und wichtiger Grund), Sozialauswahl § 1 Abs: Rechtliche Prüfung ei..."
+description: "Rechtliche Prüfung einer ordentlichen oder außerordentlichen Kündigung – KSchG (allgemeiner und besonderer Kündigungsschutz), Paragraf 102 BetrVG (Betriebsratsanhörung), Paragrafen 622 und 626 BGB (Fristen und wichtiger Grund), Sozialauswahl Paragraf 1 Absatz Rechtliche Prüfung ei..."
 ---
 
-# Rechtliche Prüfung einer ordentlichen oder außerordentlichen Kündigung – KSchG (allgemeiner und besonderer Kündigungsschutz), § 102 BetrVG (Betriebsratsanhörung), §§ 622 und 626 BGB (Fristen und wichtiger Grund), Sozialauswahl § 1 Abs
+# Rechtliche Prüfung einer ordentlichen oder außerordentlichen Kündigung – KSchG (allgemeiner und besonderer Kündigungsschutz), Paragraf 102 BetrVG (Betriebsratsanhörung), Paragrafen 622 und 626 BGB (Fristen und wichtiger Grund), Sozialauswahl Paragraf 1 Abs
 
 
 ## Arbeitsweg
@@ -14,14 +14,14 @@ description: "Rechtliche Prüfung einer ordentlichen oder außerordentlichen Kü
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Rechtliche Prüfung einer ordentlichen oder außerordentlichen Kündigung – KSchG (allgemeiner und besonderer Kündigungsschutz), § 102 BetrVG (Betriebsratsanhörung), §§ 622 und 626 BGB (Fristen und wichtiger Grund), Sozialauswahl § 1 Abs. 3 KSchG, Sonderkündigungsschutz (MuSchG, BEEG, SGB IX, § 15 KSchG).
+**Fokus:** Rechtliche Prüfung einer ordentlichen oder außerordentlichen Kündigung – KSchG (allgemeiner und besonderer Kündigungsschutz), Paragraf 102 BetrVG (Betriebsratsanhörung), Paragrafen 622 und 626 BGB (Fristen und wichtiger Grund), Sozialauswahl Paragraf 1 Abs. 3 KSchG, Sonderkündigungsschutz (MuSchG, BEEG, SGB IX, Paragraf 15 KSchG).
 
 ### /arbeitsrecht:kündigungs-prüfung
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `/arbeitsrecht:kündigungs-prüfung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -30,15 +30,15 @@ description: "Rechtliche Prüfung einer ordentlichen oder außerordentlichen Kü
 
 - Kündigungsanlass (betriebsbedingt / verhaltensbedingt / personenbedingt)
 - Angaben zum Arbeitnehmer: Beschäftigungsdauer, Position, Gehaltsgruppe, Familienstand (für Sozialauswahl), Schwerbehinderung, Betriebsratsmandat, Schwangerschaft/Elternzeit
-- Angaben zum Betrieb: Mitarbeiterzahl (KSchG § 23), Betriebsrat vorhanden?
+- Angaben zum Betrieb: Mitarbeiterzahl (KSchG Paragraf 23), Betriebsrat vorhanden?
 - Vorherige Abmahnungen? (für verhaltensbedingte Kündigung)
 - `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` → Kündigungsregeln, Eskalation
 
 ## Ablauf
 
-### 1. Vorprüfung: Anwendungsbereich KSchG (§ 23 KSchG)
+### 1. Vorprüfung: Anwendungsbereich KSchG (Paragraf 23 KSchG)
 
-**Schwellenwert:** KSchG gilt für Arbeitnehmer, die länger als 6 Monate beschäftigt sind (§ 1 Abs. 1 KSchG), wenn im Betrieb **mehr als 10 Arbeitnehmer** i.S.d. § 23 KSchG beschäftigt sind (Vollzeitkräfte zählen voll; Teilzeitkräfte bis 20 h = 0,5; bis 30 h = 0,75; Leiharbeitnehmer ohne Berücksichtigung).
+**Schwellenwert:** KSchG gilt für Arbeitnehmer, die länger als 6 Monate beschäftigt sind (Paragraf 1 Abs. 1 KSchG), wenn im Betrieb **mehr als 10 Arbeitnehmer** i.S.d. Paragraf 23 KSchG beschäftigt sind (Vollzeitkräfte zählen voll; Teilzeitkräfte bis 20 h = 0,5; bis 30 h = 0,75; Leiharbeitnehmer ohne Berücksichtigung).
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -48,37 +48,37 @@ Bei Vorliegen eines der folgenden Merkmale: **🔴 Blockierend – sofortige Esk
 
 | Schutztatbestand | Norm | Anforderung |
 |---|---|---|
-| Schwangerschaft / Mutterschutz | § 17 MuSchG | Zustimmung zuständige Behörde (Amt für Arbeitsschutz) vor Ausspruch |
-| Elternzeit | § 18 BEEG | Zustimmung zuständige Behörde; Ausnahme bei schwerwiegenden Gründen § 18 Abs. 1 S. 2 BEEG |
-| Schwerbehinderte / Gleichgestellte | § 168 SGB IX | Zustimmung Inklusionsamt (früher: Integrationsamt) vor Ausspruch; 3-Wochen-Antragsfrist |
-| Betriebsratsmitglied, Wahlvorstand u.a. | § 15 KSchG | Ordentliche Kündigung ausgeschlossen; ao. Kündigung § 103 BetrVG (BR-Zustimmung) |
-| Datenschutzbeauftragter | § 38 Abs. 2 BDSG i.V.m. § 6 Abs. 4 BDSG | Kündigungsschutz während Amtszeit + 1 Jahr danach |
-| Elternzeitbeantragung | § 18 Abs. 1 BEEG | Beginnt ab Antragstellung |
-| Pflegezeit | § 5 PflegeZG | Schutz wie BEEG |
+| Schwangerschaft / Mutterschutz | Paragraf 17 MuSchG | Zustimmung zuständige Behörde (Amt für Arbeitsschutz) vor Ausspruch |
+| Elternzeit | Paragraf 18 BEEG | Zustimmung zuständige Behörde; Ausnahme bei schwerwiegenden Gründen Paragraf 18 Abs. 1 S. 2 BEEG |
+| Schwerbehinderte / Gleichgestellte | Paragraf 168 SGB IX | Zustimmung Inklusionsamt (früher: Integrationsamt) vor Ausspruch; 3-Wochen-Antragsfrist |
+| Betriebsratsmitglied, Wahlvorstand u.a. | Paragraf 15 KSchG | Ordentliche Kündigung ausgeschlossen; ao. Kündigung Paragraf 103 BetrVG (BR-Zustimmung) |
+| Datenschutzbeauftragter | Paragraf 38 Abs. 2 BDSG i.V.m. Paragraf 6 Abs. 4 BDSG | Kündigungsschutz während Amtszeit + 1 Jahr danach |
+| Elternzeitbeantragung | Paragraf 18 Abs. 1 BEEG | Beginnt ab Antragstellung |
+| Pflegezeit | Paragraf 5 PflegeZG | Schutz wie BEEG |
 
-### 3. Betriebsratsanhörung (§ 102 BetrVG)
+### 3. Betriebsratsanhörung (Paragraf 102 BetrVG)
 
-Falls Betriebsrat vorhanden: **Jede Kündigung vor Ausspruch anhören.** Ohne ordnungsgemäße Anhörung ist die Kündigung unwirksam (§ 102 Abs. 1 S. 3 BetrVG).
+Falls Betriebsrat vorhanden: **Jede Kündigung vor Ausspruch anhören.** Ohne ordnungsgemäße Anhörung ist die Kündigung unwirksam (Paragraf 102 Abs. 1 S. 3 BetrVG).
 
 Checkliste:
 - Ist der BR schriftlich informiert worden?
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Frist abgewartet? (ordentlich: 1 Woche; außerordentlich: 3 Tage; § 102 Abs. 2 BetrVG)
-- Ordnungsgemäße Bedenken des BR beachtet (keine Vetorechte bei ordentlicher Kündigung, aber Widerspruch nach § 102 Abs. 3 BetrVG gibt Weiterbeschäftigungsanspruch § 102 Abs. 5 BetrVG)
+- Frist abgewartet? (ordentlich: 1 Woche; außerordentlich: 3 Tage; Paragraf 102 Abs. 2 BetrVG)
+- Ordnungsgemäße Bedenken des BR beachtet (keine Vetorechte bei ordentlicher Kündigung, aber Widerspruch nach Paragraf 102 Abs. 3 BetrVG gibt Weiterbeschäftigungsanspruch Paragraf 102 Abs. 5 BetrVG)
 
 Verweis auf separaten Skill: `/arbeitsrecht:betriebsrat-anhörung`
 
-### 4. Prüfung des Kündigungsgrunds (§ 1 KSchG)
+### 4. Prüfung des Kündigungsgrunds (Paragraf 1 KSchG)
 
 **A – Betriebsbedingte Kündigung:**
 
 1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 2. **Wegfall des Arbeitsplatzes:** Konkret und dauerhaft; bloße Umsatzrückgänge genügen nicht
-3. **Weiterbeschäftigung auf freiem vergleichbaren Arbeitsplatz** ausgeschlossen (§ 1 Abs. 2 S. 2 KSchG)
-4. **Sozialauswahl (§ 1 Abs. 3 KSchG)** – zentraler Prüfpunkt (siehe unten)
+3. **Weiterbeschäftigung auf freiem vergleichbaren Arbeitsplatz** ausgeschlossen (Paragraf 1 Abs. 2 S. 2 KSchG)
+4. **Sozialauswahl (Paragraf 1 Abs. 3 KSchG)** – zentraler Prüfpunkt (siehe unten)
 5. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**Sozialauswahl (§ 1 Abs. 3 KSchG):**
+**Sozialauswahl (Paragraf 1 Abs. 3 KSchG):**
 
 Unter vergleichbaren Arbeitnehmern müssen die sozial am wenigsten schutzwürdigen entlassen werden. Kriterien:
 - Betriebszugehörigkeit
@@ -88,7 +88,7 @@ Unter vergleichbaren Arbeitnehmern müssen die sozial am wenigsten schutzwürdig
 
 Prüfschema:
 1. Vergleichsgruppe bilden (gleiche Hierarchieebene, austauschbar durch Einarbeitung ≤ 3 Monate)
-2. Sozialpunkte berechnen (§ 1 Abs. 3 S. 1 KSchG; keine gesetzliche Punktetabelle – Betriebsvereinbarung oder Interessenausgleich empfohlen)
+2. Sozialpunkte berechnen (Paragraf 1 Abs. 3 S. 1 KSchG; keine gesetzliche Punktetabelle – Betriebsvereinbarung oder Interessenausgleich empfohlen)
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **B – Verhaltensbedingte Kündigung:**
@@ -106,9 +106,9 @@ Verweis auf separaten Skill: `/arbeitsrecht:abmahnung-arbeitsrecht`
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### 5. Kündigungsfristen (§ 622 BGB / Tarifvertrag)
+### 5. Kündigungsfristen (Paragraf 622 BGB / Tarifvertrag)
 
-| Beschäftigungsdauer | Frist (§ 622 Abs. 2 BGB) |
+| Beschäftigungsdauer | Frist (Paragraf 622 Abs. 2 BGB) |
 |---|---|
 | 0–2 Jahre | 4 Wochen zum 15. oder Monatsende |
 | 2–5 Jahre | 1 Monat zum Monatsende |
@@ -123,9 +123,9 @@ Tarifvertragliche Abweichungen prüfen! Ggf. günstigere Individualvereinbarung.
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### 6. Abfindungsangebot (§ 1a KSchG)
+### 6. Abfindungsangebot (Paragraf 1a KSchG)
 
-Arbeitgeber kann mit der Kündigung eine Abfindung nach § 1a KSchG anbieten (0,5 Monatsgehalt × Beschäftigungsjahre), wenn Arbeitnehmer keine Klage erhebt. Dies schließt Wiedereinstellungsansprüche aus.
+Arbeitgeber kann mit der Kündigung eine Abfindung nach Paragraf 1a KSchG anbieten (0,5 Monatsgehalt × Beschäftigungsjahre), wenn Arbeitnehmer keine Klage erhebt. Dies schließt Wiedereinstellungsansprüche aus.
 
 ### 7. DSGVO-Auskunftsersuchen als Druckmittel im Kündigungskontext
 
@@ -145,7 +145,7 @@ Hürden sind **hoch**: Das Auskunftsrecht ist ein Grundrecht (Art. 8 GRCh); Ausn
 **Praxishinweise für den Arbeitgeber:**
 - DSGVO-Auskunft fristgerecht innerhalb eines Monats beantworten (Art. 12 Abs. 3 DSGVO); unberechtigte Ablehnung kann eigenständigen Schadensersatzanspruch nach Art. 82 DSGVO auslösen.
 - Dokumentation für Missbrauchseinwand anlegen: Datum Kündigung, Datum Auskunftsantrag, Vorliegen von Legal-Tech-Vollmacht, Muster bei anderen Mitarbeitern.
-- Parallellauf Kündigungsschutzverfahren und DSGVO-Auskunftsstreit im Blick behalten: Zuständiges Gericht für Auskunftsklage ist nach Art. 79 DSGVO i.V.m. § 44 BDSG das Landgericht (nicht das Arbeitsgericht); Koordinierung der Prozesstaktik erforderlich.
+- Parallellauf Kündigungsschutzverfahren und DSGVO-Auskunftsstreit im Blick behalten: Zuständiges Gericht für Auskunftsklage ist nach Art. 79 DSGVO i.V.m. Paragraf 44 BDSG das Landgericht (nicht das Arbeitsgericht); Koordinierung der Prozesstaktik erforderlich.
 
 Querverweis: `datenschutzrecht/skills/dsgvo-auskunft/SKILL.md` (soweit.
 
@@ -154,8 +154,8 @@ Querverweis: `datenschutzrecht/skills/dsgvo-auskunft/SKILL.md` (soweit.
 Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-buergerliches-recht.md`.
 
 Wesentliche Quellen:
-- Dörner/Vossen, in: KR, 13. Aufl. 2022, § 1 KSchG Rn. 1 ff. (Sozialauswahl)
-- Becker/Wolff, in: APS, 6. Aufl. 2021, § 1 KSchG Rn. 500 ff. (betriebsbedingte Kündigung)
+- Dörner/Vossen, in: KR, 13. Aufl. 2022, Paragraf 1 KSchG Rn. 1 ff. (Sozialauswahl)
+- Becker/Wolff, in: APS, 6. Aufl. 2021, Paragraf 1 KSchG Rn. 500 ff. (betriebsbedingte Kündigung)
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -165,7 +165,7 @@ Strukturierte Kündigungsprüfung als Memo:
 
 ```
 KÜNDIGUNGSPRÜFUNG – [Arbeitnehmer-ID/Position] – [Datum]
-VERTRAULICH – MANDATSGEHEIMNIS – § 43a Abs. 2 BRAO
+VERTRAULICH – MANDATSGEHEIMNIS – Paragraf 43a Abs. 2 BRAO
 
 Ergebnis: [🟢 Kündigung rechtlich möglich / 🟡 Kündigung möglich mit Auflagen / 🔴 Kündigung nicht empfohlen]
 
@@ -174,14 +174,14 @@ Ergebnis: [🟢 Kündigung rechtlich möglich / 🟡 Kündigung möglich mit Auf
 I. KSchG-Anwendungsbereich [🟢 / 🟡 / N/A]
 II. Sonderkündigungsschutz-Check [🟢 / 🔴 Flag: ...]
 III. Betriebsratsanhörung [🟢 / 🔴 ausstehend]
-IV. Kündigungsgrund (§ 1 KSchG) [🟢 / 🟡 / 🔴]
+IV. Kündigungsgrund (Paragraf 1 KSchG) [🟢 / 🟡 / 🔴]
  Typ: [betriebsbedingt / verhaltensbedingt / personenbedingt]
  Begründung: ...
 V. Sozialauswahl (falls bb.) [🟢 / 🟡 / 🔴]
  Vergleichsgruppe: [N AN]
  Sozialpunkte: [Tabelle]
 VI. Kündigungsfrist [Frist]
-VII. Abfindungsangebot (optional) [§ 1a KSchG Betrag]
+VII. Abfindungsangebot (optional) [Paragraf 1a KSchG Betrag]
 
 Offene Flaggen: [Liste mit [prüfen]-Markierungen]
 Eskalation: [ja/nein – Begründung]
@@ -205,17 +205,17 @@ Wie weiter? [Entscheidungsbaum]
 
 *Ergebnis (Urteilsstil):*
 
-Die beabsichtigte Kündigung ist der des Arbeitnehmers C am ehesten begründbar. In der Sozialauswahl nach § 1 Abs. 3 KSchG sind alle drei Arbeitnehmer in eine Vergleichsgruppe einzustellen (gleiche Funktion, Austauschbarkeit gegeben). Arbeitnehmer B genießt Sonderkündigungsschutz nach § 168 SGB IX; eine Kündigung erfordert Zustimmung des Inklusionsamts (🔴 Blockierend). A und C stehen im direkten Auswahlvergleich: Die längere Betriebszugehörigkeit von A (10 Jahre), sein Lebensalter (45 J.) und die Unterhaltsverpflichtungen (2 Kinder) überwiegen die Schutzwürdigkeit von C (8 Jahre, 55 Jahre, 1 Kind). C ist nach Sozialpunkten am wenigsten schutzwürdig – Kündigung sozialauswahl-konform, wenn Interessenausgleich dokumentiert wird.
+Die beabsichtigte Kündigung ist der des Arbeitnehmers C am ehesten begründbar. In der Sozialauswahl nach Paragraf 1 Abs. 3 KSchG sind alle drei Arbeitnehmer in eine Vergleichsgruppe einzustellen (gleiche Funktion, Austauschbarkeit gegeben). Arbeitnehmer B genießt Sonderkündigungsschutz nach Paragraf 168 SGB IX; eine Kündigung erfordert Zustimmung des Inklusionsamts (🔴 Blockierend). A und C stehen im direkten Auswahlvergleich: Die längere Betriebszugehörigkeit von A (10 Jahre), sein Lebensalter (45 J.) und die Unterhaltsverpflichtungen (2 Kinder) überwiegen die Schutzwürdigkeit von C (8 Jahre, 55 Jahre, 1 Kind). C ist nach Sozialpunkten am wenigsten schutzwürdig – Kündigung sozialauswahl-konform, wenn Interessenausgleich dokumentiert wird.
 
-🟠 Empfehlung: Vor Ausspruch formlose (da kein BR vorhanden) Kündigung und schriftliche Sozialauswahldokumentation erstellen. Abfindungsangebot gem. § 1a KSchG erwägen.
+🟠 Empfehlung: Vor Ausspruch formlose (da kein BR vorhanden) Kündigung und schriftliche Sozialauswahldokumentation erstellen. Abfindungsangebot gem. Paragraf 1a KSchG erwägen.
 
 ## Risiken / typische Fehler
 
-- **Massenentlassungsanzeige vergessen** (§§ 17–18 KSchG) – führt zur Unwirksamkeit aller Kündigungen; Schwellenwerte im Blick behalten.
-- **Betriebsratsanhörung inhaltlich unvollständig** – fehlende Angaben zur Person oder zum Kündigungsgrund machen Anhörung unwirksam (§ 102 Abs. 1 S. 3 BetrVG).
+- **Massenentlassungsanzeige vergessen** (Paragrafen 17–18 KSchG) – führt zur Unwirksamkeit aller Kündigungen; Schwellenwerte im Blick behalten.
+- **Betriebsratsanhörung inhaltlich unvollständig** – fehlende Angaben zur Person oder zum Kündigungsgrund machen Anhörung unwirksam (Paragraf 102 Abs. 1 S. 3 BetrVG).
 - **Sonderkündigungsschutz übersehen** – insbesondere bei Betriebsratsmitgliedern, Schwangeren, Elternzeitnehmenden.
-- **Sozialauswahl ohne Dokumentation** – bei Klagefrist-Ablauf (§ 4 KSchG) kaum nachrüstbar; immer schriftlich begründen.
-- **2-Wochen-Frist § 626 Abs. 2 BGB** – beginnt mit positiver Kenntnis des Kündigungsberechtigten, nicht mit vager Vermutung.
+- **Sozialauswahl ohne Dokumentation** – bei Klagefrist-Ablauf (Paragraf 4 KSchG) kaum nachrüstbar; immer schriftlich begründen.
+- **2-Wochen-Frist Paragraf 626 Abs. 2 BGB** – beginnt mit positiver Kenntnis des Kündigungsberechtigten, nicht mit vager Vermutung.
 - **BEM nicht durchgeführt** – erhöhte Darlegungslast; vor krankheitsbedingter Kündigung dokumentieren.
 
 ## Aktuelle BAG-Linie 2025/2026 (live verifizieren vor Schriftsatzverwendung)

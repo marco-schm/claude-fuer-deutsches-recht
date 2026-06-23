@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg
-description: "Gueteverhandlung im Arbeitsgerichtsverfahren nach § 54 ArbGG mit Auflösungsantrag und Abfindungsstrategie. Anwendungsfall Guetetermin steht an und Vergleich oder Auflösungsantrag soll vorbereitet werden. Normen § 54 ArbGG Gueteverfahren § 9 KSchG Auflösungsantrag § 10 KSchG Abfindungsobergrenzen § 159 SGB III Sperrzeit-Vermeidung. Prüfraster Abfindungsstrategie halbes-Bruttogehalt-Faustformel Vergleichsformulierung Sperrzeit-Klausel Protokollniederschrift Kostenregelung. Output Vergleichsvorschlag-Schreiben Verhandlungsskript Protokoll-Entwurf und Sperrzeit-Formulierungstipp. Abgrenzung zu fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit und vergleichsverhandlung-strategie."
+description: "Gueteverhandlung im Arbeitsgerichtsverfahren nach Paragraf 54 ArbGG mit Auflösungsantrag und Abfindungsstrategie. Anwendungsfall Guetetermin steht an und Vergleich oder Auflösungsantrag soll vorbereitet werden. Normen Paragraf 54 ArbGG Gueteverfahren Paragraf 9 KSchG Auflösungsantrag Paragraf 10 KSchG Abfindungsobergrenzen Paragraf 159 SGB III Sperrzeit-Vermeidung. Prüfraster Abfindungsstrategie halbes-Bruttogehalt-Faustformel Vergleichsformulierung Sperrzeit-Klausel Protokollniederschrift Kostenregelung. Output Vergleichsvorschlag-Schreiben Verhandlungsskript Protokoll-Entwurf und Sperrzeit-Formulierungstipp. Abgrenzung zu fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit und vergleichsverhandlung-strategie."
 ---
 
 # Güte-Verhandlung Arbeitsgericht / Abfindungs-Vergleich
 
 ## Zweck
 
-Arbeitsrechtliche Vergleichsverhandlung im Güte-Verfahren § 54 ArbGG (ca. 90 % aller arbeitsrechtlichen Verfahren enden im Vergleich). Schwerpunkt Abfindungs-Strategie, BA-Sperrzeit-konforme Formulierung, Mediations-Sonderfälle.
+Arbeitsrechtliche Vergleichsverhandlung im Güte-Verfahren Paragraf 54 ArbGG (ca. 90 % aller arbeitsrechtlichen Verfahren enden im Vergleich). Schwerpunkt Abfindungs-Strategie, BA-Sperrzeit-konforme Formulierung, Mediations-Sonderfälle.
 
 ## Eingaben
 
@@ -21,14 +21,14 @@ Arbeitsrechtliche Vergleichsverhandlung im Güte-Verfahren § 54 ArbGG (ca. 90 %
 
 ## Rechtlicher Rahmen
 
-- **§ 54 ArbGG** — Güteverhandlung (Pflicht-Termin)
-- **§ 9 KSchG** — Auflösung des Arbeitsverhältnisses durch Urteil gegen Abfindung (auf Antrag, wenn Fortsetzung unzumutbar)
-- **§ 10 KSchG** — Abfindungsobergrenzen (Regelfall bis 12 Monatsverdienste; bei langer Betriebszugehörigkeit oder höherem Alter bis 15 bzw. 18 Monatsverdienste)
-- **§ 1a KSchG** — Abfindungsanspruch bei betriebsbed. Kündigung (Hinweis im Kündigungsschreiben)
-- **§ 159 SGB III** — Sperrzeit bei Aufhebungsvertrag (12 Wochen)
+- **Paragraf 54 ArbGG** — Güteverhandlung (Pflicht-Termin)
+- **Paragraf 9 KSchG** — Auflösung des Arbeitsverhältnisses durch Urteil gegen Abfindung (auf Antrag, wenn Fortsetzung unzumutbar)
+- **Paragraf 10 KSchG** — Abfindungsobergrenzen (Regelfall bis 12 Monatsverdienste; bei langer Betriebszugehörigkeit oder höherem Alter bis 15 bzw. 18 Monatsverdienste)
+- **Paragraf 1a KSchG** — Abfindungsanspruch bei betriebsbed. Kündigung (Hinweis im Kündigungsschreiben)
+- **Paragraf 159 SGB III** — Sperrzeit bei Aufhebungsvertrag (12 Wochen)
 - **DurchführungsAnweisungen BA** zur Faustformel (0,5 Brutto/Beschäft.-Jahr)
-- **§ 1 TVG** — Tarifliche Abfindungsregelungen
-- **§ 779 BGB** — Vergleich
+- **Paragraf 1 TVG** — Tarifliche Abfindungsregelungen
+- **Paragraf 779 BGB** — Vergleich
 
 ### Leitentscheidungen
 
@@ -42,14 +42,14 @@ Arbeitsrechtliche Vergleichsverhandlung im Güte-Verfahren § 54 ArbGG (ca. 90 %
 
 - Anwalt-Schreiben mit Kündigungs-Beanstandung + Vergleichsangebot
 - Frist 7-14 Tage
-- Bei Erfolg: außergerichtlicher Aufhebungsvergleich; Klagefrist § 4 KSchG gewahrt durch eventuelle Klage-Bereitschaft
+- Bei Erfolg: außergerichtlicher Aufhebungsvergleich; Klagefrist Paragraf 4 KSchG gewahrt durch eventuelle Klage-Bereitschaft
 
-### Pfad 2 — Güte-Verhandlung § 54 ArbGG
+### Pfad 2 — Güte-Verhandlung Paragraf 54 ArbGG
 
 - Pflicht-Termin nach Klageerhebung
 - Erörterung durch Vorsitzenden allein (ohne ehrenamtliche Richter)
 - Vergleichsvorschlag durch Vorsitzenden
-- Niederschrift = vollstreckbar nach § 794 Abs. 1 Nr. 1 ZPO
+- Niederschrift = vollstreckbar nach Paragraf 794 Abs. 1 Nr. 1 ZPO
 
 ### Pfad 3 — Mediation in Sonderfällen
 
@@ -80,10 +80,10 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Abfindungsverhandlung in Güteverhandlung | Vergleichsverhandlung nach § 54 ArbGG; Klausel-Katalog unten |
+| Standard — Abfindungsverhandlung in Güteverhandlung | Vergleichsverhandlung nach Paragraf 54 ArbGG; Klausel-Katalog unten |
 | Variante A — AG signalisiert Vergleichsbereitschaft vor Termin | Vorab-Settlement vor Güteverhandlung um Streitwert zu reduzieren; außergerichtlicher Vergleich anstreben |
 | Variante B — Mandant will tatsächlich zurück an den Arbeitsplatz | Standhafte Bestandsforderung; kein Abfindungsangebot annehmen ohne Bestandsprüfung |
-| Variante C — Mandant zieht Annahmeverzugslohn der Abfindung vor | Auflaufende Annahmeverzugslohn-Strategie statt Einmalabfindung; § 615 BGB Anspruch sichern |
+| Variante C — Mandant zieht Annahmeverzugslohn der Abfindung vor | Auflaufende Annahmeverzugslohn-Strategie statt Einmalabfindung; Paragraf 615 BGB Anspruch sichern |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzulösen — nicht das Mandat in das Schema zu pressen.
 
@@ -91,7 +91,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ```
 1. Beendigung [Datum]
-2. Abfindung EUR [...] in entsprechender Anwendung der Abfindungsregeln §§ 9 und 10 KSchG
+2. Abfindung EUR [...] in entsprechender Anwendung der Abfindungsregeln Paragrafen 9 und 10 KSchG
 3. Freistellung Abfindung mit Anrechnung Resturlaub
 4. Zeugnis: mindestens "gut", Schluesselformulierungen [konkret]
 5. Erledigungs-Klausel: saemtliche Anspruche aus Arbeitsverhaeltnis erledigt
@@ -133,26 +133,26 @@ Verfahren ohne Einschränkung fortgeführt.
 
 ## Quellen und Updates
 
-Stand: 05/2026. § 54 ArbGG, KSchG, SGB III. BAG-Linien zur Faustformel. Bei BAG-Linien-Bildung zur HinSchG-Repressalie-Beweislastumkehr separat.
+Stand: 05/2026. Paragraf 54 ArbGG, KSchG, SGB III. BAG-Linien zur Faustformel. Bei BAG-Linien-Bildung zur HinSchG-Repressalie-Beweislastumkehr separat.
 
 ## Aktuelle Rechtsprechung (Stand Mai 2026)
 
 Vergleichs- und abfindungsrelevante Leitentscheidungen:
 
 - **BAG, 03.06.2025 - 9 AZR 104/24**: Pauschale Erledigungsklausel im Vergleich erfasst den gesetzlichen Mindesturlaub nicht; Mindesturlaub gesondert ausweisen. Quelle: dejure.org-Vernetzung.
-- **BAG, 25.03.2026 - 5 AZR 108/25**: Pauschale Freistellungsklausel unwirksam (§ 307 BGB); im Vergleich konkret formulieren. Quelle: dejure.org-Vernetzung.
+- **BAG, 25.03.2026 - 5 AZR 108/25**: Pauschale Freistellungsklausel unwirksam (Paragraf 307 BGB); im Vergleich konkret formulieren. Quelle: dejure.org-Vernetzung.
 - **BSG, 12.07.2006 - B 11a AL 47/05 R**: Sperrzeit-Vermeidung bei drohender, objektiv rechtmaessiger betriebsbedingter Kuendigung und eingehaltener Frist; Faustformel-Abfindung (0,25 - 0,5 BMG/Beschaeftigungsjahr) marktueblich. Quelle: dejure.org-Vernetzung.
 - Faustformel zur Abfindung: 0,5 BMG x Beschaeftigungsjahre (KSchG-Verhandlungsmaszstab); Verhandlungsspielraum 0,25 - 1,5 BMG je nach Prozesschance, Bestandsrisiko und Alter / Schwerbehinderung.
 - Vor Vergleichsabschluss aktuelle Rechtsprechung in offenen Quellen pruefen.
 
 ## Paragrafenkette
 
-- § 54 ArbGG — Gütetermin (Pflicht)
-- § 9 KSchG — Auflösungsantrag
-- § 10 KSchG — Abfindungsobergrenzen (12/15/18 Monatsverdienste)
-- § 1a KSchG — gesetzlicher Abfindungsanspruch bei betriebsbedingter Kündigung
-- § 779 BGB — Vergleich
-- § 794 Abs. 1 Nr. 1 ZPO — vollstreckbarer Prozessvergleich
+- Paragraf 54 ArbGG — Gütetermin (Pflicht)
+- Paragraf 9 KSchG — Auflösungsantrag
+- Paragraf 10 KSchG — Abfindungsobergrenzen (12/15/18 Monatsverdienste)
+- Paragraf 1a KSchG — gesetzlicher Abfindungsanspruch bei betriebsbedingter Kündigung
+- Paragraf 779 BGB — Vergleich
+- Paragraf 794 Abs. 1 Nr. 1 ZPO — vollstreckbarer Prozessvergleich
 
 ## Quellenregel
 

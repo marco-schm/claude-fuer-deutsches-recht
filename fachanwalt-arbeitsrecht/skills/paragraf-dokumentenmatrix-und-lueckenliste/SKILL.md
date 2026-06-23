@@ -20,8 +20,8 @@ description: "Paragraf-Dokumentenmatrix und Lückenliste: für jeden Streitgegen
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Paragraf-Dokumentenmatrix und Lückenliste` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -38,43 +38,43 @@ Wenn ein Sachverhalt vorliegt, zuerst bestimmen:
 
 | Dokument | Zweck | Norm | Vorhanden? | Beschaffungsweg |
 |---|---|---|---|---|
-| Kündigungsschreiben (Original) | Schriftformprüfung, Zugangsbeweis | § 623 BGB | ? | Mandant mitbringen lassen |
-| Arbeitsvertrag | KSchG-Anwendbarkeit, Kündigungsfristen | §§ 611a, 622 BGB | ? | Mandant |
-| Nachweis Dienstbeginn | Betriebszugehörigkeit (§ 1 KSchG) | § 1 KSchG | ? | Zeugnisse, Personalakte |
-| Nachweis Betriebsgröße | § 23 KSchG-Schwelle | § 23 KSchG | ? | Handelsregister, Mandant |
-| BR-Anhörungsschreiben | § 102 BetrVG-Prüfung | § 102 BetrVG | ? | AG anfordern / einstweilig |
-| BR-Stellungnahme | Einwände des BR | § 102 Abs. 3 BetrVG | ? | AG anfordern |
-| Sozialdaten-Vergleich | Sozialauswahl § 1 Abs. 3 KSchG | § 1 Abs. 3 KSchG | ? | Namensliste anfordern |
-| Massenentlassungsanzeige | § 17 KSchG-Prüfung | § 17 KSchG | ? | BA oder AG |
-| Sonderkündigungsschutz-Nachweis | Zustimmungsbescheid | §§ 17 MuSchG, 168 SGB IX | ? | Behörde/Mandant |
+| Kündigungsschreiben (Original) | Schriftformprüfung, Zugangsbeweis | Paragraf 623 BGB | ? | Mandant mitbringen lassen |
+| Arbeitsvertrag | KSchG-Anwendbarkeit, Kündigungsfristen | Paragrafen 611a, 622 BGB | ? | Mandant |
+| Nachweis Dienstbeginn | Betriebszugehörigkeit (Paragraf 1 KSchG) | Paragraf 1 KSchG | ? | Zeugnisse, Personalakte |
+| Nachweis Betriebsgröße | Paragraf 23 KSchG-Schwelle | Paragraf 23 KSchG | ? | Handelsregister, Mandant |
+| BR-Anhörungsschreiben | Paragraf 102 BetrVG-Prüfung | Paragraf 102 BetrVG | ? | AG anfordern / einstweilig |
+| BR-Stellungnahme | Einwände des BR | Paragraf 102 Abs. 3 BetrVG | ? | AG anfordern |
+| Sozialdaten-Vergleich | Sozialauswahl Paragraf 1 Abs. 3 KSchG | Paragraf 1 Abs. 3 KSchG | ? | Namensliste anfordern |
+| Massenentlassungsanzeige | Paragraf 17 KSchG-Prüfung | Paragraf 17 KSchG | ? | BA oder AG |
+| Sonderkündigungsschutz-Nachweis | Zustimmungsbescheid | Paragrafen 17 MuSchG, 168 SGB IX | ? | Behörde/Mandant |
 
 ## Matrix 2: Befristung (TzBfG)
 
 | Dokument | Zweck | Norm | Vorhanden? | Beschaffungsweg |
 |---|---|---|---|---|
-| Befristeter Arbeitsvertrag | Schriftformprüfung, Sachgrund | §§ 14 Abs. 4, 14 Abs. 1 TzBfG | ? | Mandant |
-| Alle Verlängerungsvereinbarungen | Anschlussverbot, Verlängerungsanzahl | § 14 Abs. 2 TzBfG | ? | Mandant, Personalakte |
-| Nachweis Vorbeschäftigung | Anschlussverbot § 14 Abs. 2 Satz 2 | § 14 Abs. 2 Satz 2 TzBfG | ? | AG, frühere Verträge |
-| Sachgrunddokumentation | Vertretung, Erprobung, etc. | § 14 Abs. 1 TzBfG | ? | AG anfordern |
-| Datum Vertragsunterzeichnung | Schriftform vor Dienstantritt | § 14 Abs. 4 TzBfG | ? | Vertrag selbst |
+| Befristeter Arbeitsvertrag | Schriftformprüfung, Sachgrund | Paragrafen 14 Abs. 4, 14 Abs. 1 TzBfG | ? | Mandant |
+| Alle Verlängerungsvereinbarungen | Anschlussverbot, Verlängerungsanzahl | Paragraf 14 Abs. 2 TzBfG | ? | Mandant, Personalakte |
+| Nachweis Vorbeschäftigung | Anschlussverbot Paragraf 14 Abs. 2 Satz 2 | Paragraf 14 Abs. 2 Satz 2 TzBfG | ? | AG, frühere Verträge |
+| Sachgrunddokumentation | Vertretung, Erprobung, etc. | Paragraf 14 Abs. 1 TzBfG | ? | AG anfordern |
+| Datum Vertragsunterzeichnung | Schriftform vor Dienstantritt | Paragraf 14 Abs. 4 TzBfG | ? | Vertrag selbst |
 
 ## Matrix 3: Abfindung / Aufhebungsvertrag
 
 | Dokument | Zweck | Norm | Vorhanden? | Beschaffungsweg |
 |---|---|---|---|---|
-| Aufhebungsvertrag (Entwurf/Original) | Klauselprüfung, Sperrzeitgestaltung | §§ 623 BGB, 159 SGB III | ? | Mandant |
+| Aufhebungsvertrag (Entwurf/Original) | Klauselprüfung, Sperrzeitgestaltung | Paragrafen 623 BGB, 159 SGB III | ? | Mandant |
 | Letzte Gehaltsabrechnung | Brutto-Monatsverdienst für Abfindungsberechnung | Faustformel | ? | Mandant |
-| Nachweis Beschäftigungsdauer | Abfindungsfaktor | § 10 KSchG | ? | Vertrag, Arbeitsbescheinigung |
-| BA-Bescheid / Merkblatt | Sperrzeitrisiko | § 159 SGB III | ? | bundesagentur.de |
-| Steuerberatungsdokumente | Fünftelregelung | § 34 EStG | ? | Steuerberater |
+| Nachweis Beschäftigungsdauer | Abfindungsfaktor | Paragraf 10 KSchG | ? | Vertrag, Arbeitsbescheinigung |
+| BA-Bescheid / Merkblatt | Sperrzeitrisiko | Paragraf 159 SGB III | ? | bundesagentur.de |
+| Steuerberatungsdokumente | Fünftelregelung | Paragraf 34 EStG | ? | Steuerberater |
 
 ## Matrix 4: Vergütung / Lohn
 
 | Dokument | Zweck | Norm | Vorhanden? | Beschaffungsweg |
 |---|---|---|---|---|
-| Arbeitsvertrag / Tarifvertrag | Vergütungsanspruch | §§ 611a, 614 BGB; TVG | ? | Mandant, TV live prüfen |
-| Gehaltsabrechnungen | Tatsächliche Zahlungen | § 108 GewO | ? | Mandant |
-| Arbeitszeitnachweise | Überstunden | § 3 ArbZG | ? | Mandant (eigene Aufzeichnungen) |
+| Arbeitsvertrag / Tarifvertrag | Vergütungsanspruch | Paragrafen 611a, 614 BGB; TVG | ? | Mandant, TV live prüfen |
+| Gehaltsabrechnungen | Tatsächliche Zahlungen | Paragraf 108 GewO | ? | Mandant |
+| Arbeitszeitnachweise | Überstunden | Paragraf 3 ArbZG | ? | Mandant (eigene Aufzeichnungen) |
 | MiLoG-Nachweis | Mindestlohn | MiLoG; aktuellen Satz live prüfen | ? | Lohnabrechnung vs. MiLo-Satz |
 | Ausschlussfristen-Regelung | Fristversäumnis | Vertrag, TV | ? | Vertrag, TV |
 
@@ -82,20 +82,20 @@ Wenn ein Sachverhalt vorliegt, zuerst bestimmen:
 
 | Dokument | Zweck | Norm | Vorhanden? | Beschaffungsweg |
 |---|---|---|---|---|
-| Bewerbungsunterlagen / Absage | Indizien für Diskriminierung | § 22 AGG | ? | Mandant |
-| Stellenausschreibung | Diskriminierendes Merkmal | § 11 AGG | ? | Archiv, Webseite |
-| E-Mails/Protokolle | Diskriminierungs-Belege | § 22 AGG | ? | Mandant |
+| Bewerbungsunterlagen / Absage | Indizien für Diskriminierung | Paragraf 22 AGG | ? | Mandant |
+| Stellenausschreibung | Diskriminierendes Merkmal | Paragraf 11 AGG | ? | Archiv, Webseite |
+| E-Mails/Protokolle | Diskriminierungs-Belege | Paragraf 22 AGG | ? | Mandant |
 | Vergleichsperson-Nachweis | Paarvergleich | BAG 8 AZR 300/24 | ? | Mandant, AN-Kolleg/-in |
-| Geltendmachungsschreiben | 2-Monats-Frist § 15 Abs. 4 AGG | § 15 Abs. 4 AGG | ? | Erstellen |
+| Geltendmachungsschreiben | 2-Monats-Frist Paragraf 15 Abs. 4 AGG | Paragraf 15 Abs. 4 AGG | ? | Erstellen |
 
 ## Matrix 6: Betriebsrat
 
 | Dokument | Zweck | Norm | Vorhanden? | Beschaffungsweg |
 |---|---|---|---|---|
-| Nachweis Betriebsratsgründung/Wahl | Existenz und Legitimation | §§ 1, 7 ff. BetrVG | ? | Wählerverzeichnis, Protokoll |
-| Geschäftsordnung BR | BR-Verfahren | § 36 BetrVG | ? | BR-Unterlagen |
-| Betriebsvereinbarung (aktuell) | Mitbestimmungsgegenstand | §§ 87 ff. BetrVG | ? | HR, Betriebsrat |
-| Protokolle BR-Sitzung | Beschlussfassung | §§ 30, 34 BetrVG | ? | BR-Protokoll anfordern |
+| Nachweis Betriebsratsgründung/Wahl | Existenz und Legitimation | Paragrafen 1, 7 ff. BetrVG | ? | Wählerverzeichnis, Protokoll |
+| Geschäftsordnung BR | BR-Verfahren | Paragraf 36 BetrVG | ? | BR-Unterlagen |
+| Betriebsvereinbarung (aktuell) | Mitbestimmungsgegenstand | Paragrafen 87 ff. BetrVG | ? | HR, Betriebsrat |
+| Protokolle BR-Sitzung | Beschlussfassung | Paragrafen 30, 34 BetrVG | ? | BR-Protokoll anfordern |
 
 ## Lückenlisten-Output-Format
 
@@ -107,7 +107,7 @@ Nach Ausfüllen der Matrix:
 - [Dokument] → von [Quelle] anfordern bis [Datum]
 
 **Fehlt — schwer zu beschaffen (Rechtsbehelfe prüfen):**
-- [Dokument] → ggf. durch Auskunftsanspruch (§ 15 DSGVO, § 83 BetrVG) oder gerichtliche Vorlage (§ 142 ZPO)
+- [Dokument] → ggf. durch Auskunftsanspruch (Paragraf 15 DSGVO, Paragraf 83 BetrVG) oder gerichtliche Vorlage (Paragraf 142 ZPO)
 
 ## Anschluss-Skills
 - `workflow-unterlagen-lueckenliste` für detaillierte Unterlagenprüfung

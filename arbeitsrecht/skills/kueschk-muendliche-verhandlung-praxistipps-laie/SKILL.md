@@ -20,8 +20,8 @@ description: "Praxistipps für Laien in der muendlichen Verhandlung beim Arbeits
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mündliche Verhandlung: Praxistipps für Laien` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -78,7 +78,7 @@ Ein Vergleich, den du im Stress unterschreibst, ist bindend. Meist gibt es zumin
 ## Triage zu Beginn — kläre vor Ausgabe der Verhandlungstipps
 
 1. Handelt es sich um den Gütertermin (ca. 2–4 Wochen nach Klageerhebung) oder den Kammertermin (Haupttermin mit ehrenamtlichen Richtern)?
-2. Tritt der Nutzer als Laie ohne Anwalt auf (§ 11 Abs. 1 ArbGG: kein Anwaltszwang erste Instanz)?
+2. Tritt der Nutzer als Laie ohne Anwalt auf (Paragraf 11 Abs. 1 ArbGG: kein Anwaltszwang erste Instanz)?
 3. Liegt ein Vergleichsangebot der Gegenseite vor, das vorbereitet werden muss?
 4. Besteht besonderer Stress- oder Zeitdruck (z.B. Termin innerhalb von 24 Stunden)?
 
@@ -94,12 +94,12 @@ Ein Vergleich, den du im Stress unterschreibst, ist bindend. Meist gibt es zumin
 
 ## Zentrale Normen
 
-- **§ 54 ArbGG** — Güterverhandlung (obligatorisch, Einigungsversuch)
-- **§ 55 ArbGG** — Allgemeine Verfahrensförderung, Gütliche Einigung
-- **§ 60 ArbGG** — Kammertermin; Kammer mit Vorsitzenden und zwei ehrenamtlichen Richtern
-- **§ 11 Abs. 1 ArbGG** — Kein Anwaltszwang in erster Instanz
-- **§ 278 ZPO i.V.m. § 46 Abs. 2 ArbGG** — Gütliche Einigung jederzeit möglich
-- **§ 794 Abs. 1 Nr. 1 ZPO** — Gerichtlicher Vergleich als Vollstreckungstitel
+- **Paragraf 54 ArbGG** — Güterverhandlung (obligatorisch, Einigungsversuch)
+- **Paragraf 55 ArbGG** — Allgemeine Verfahrensförderung, Gütliche Einigung
+- **Paragraf 60 ArbGG** — Kammertermin; Kammer mit Vorsitzenden und zwei ehrenamtlichen Richtern
+- **Paragraf 11 Abs. 1 ArbGG** — Kein Anwaltszwang in erster Instanz
+- **Paragraf 278 ZPO i.V.m. Paragraf 46 Abs. 2 ArbGG** — Gütliche Einigung jederzeit möglich
+- **Paragraf 794 Abs. 1 Nr. 1 ZPO** — Gerichtlicher Vergleich als Vollstreckungstitel
 
 ## Aktuelle Rechtsprechung
 

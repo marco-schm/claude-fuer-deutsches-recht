@@ -1,9 +1,9 @@
 ---
 name: befristung-compliance-dokumentation-und-akte
-description: "Befristungscompliance und Aktenführung: TzBfG §§ 14–17, Schriftformzwang vor Dienstantritt, Sachgrundbefristung-Dokumentation, Anschlussverbot § 14 Abs: Befristungscompliance und Aktenführung: TzBfG §§ 14–17, Schriftformzwang vor Dienstantritt, Sachgrundbef..."
+description: "Befristungscompliance und Aktenführung: TzBfG Paragrafen 14–17, Schriftformzwang vor Dienstantritt, Sachgrundbefristung-Dokumentation, Anschlussverbot Paragraf 14 Absatz Befristungscompliance und Aktenführung: TzBfG Paragrafen 14–17, Schriftformzwang vor Dienstantritt, Sachgrundbef..."
 ---
 
-# Befristungscompliance und Aktenführung: TzBfG §§ 14–17, Schriftformzwang vor Dienstantritt, Sachgrundbefristung-Dokumentation, Anschlussverbot § 14 Abs
+# Befristungscompliance und Aktenführung: TzBfG Paragrafen 14–17, Schriftformzwang vor Dienstantritt, Sachgrundbefristung-Dokumentation, Anschlussverbot Paragraf 14 Abs
 
 
 ## Arbeitsweg
@@ -14,14 +14,14 @@ description: "Befristungscompliance und Aktenführung: TzBfG §§ 14–17, Schri
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Befristungscompliance und Aktenführung: TzBfG §§ 14–17, Schriftformzwang vor Dienstantritt, Sachgrundbefristung-Dokumentation, Anschlussverbot § 14 Abs. 2 Satz 2 TzBfG, Kettenbefristung, Entfristungsklage-Frist § 17 TzBfG.
+**Fokus:** Befristungscompliance und Aktenführung: TzBfG Paragrafen 14–17, Schriftformzwang vor Dienstantritt, Sachgrundbefristung-Dokumentation, Anschlussverbot Paragraf 14 Abs. 2 Satz 2 TzBfG, Kettenbefristung, Entfristungsklage-Frist Paragraf 17 TzBfG.
 
 ### Spezial: Befristung — Compliance, Dokumentation und Akte
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Befristung — Compliance, Dokumentation und Akte` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -30,28 +30,35 @@ description: "Befristungscompliance und Aktenführung: TzBfG §§ 14–17, Schri
 Wenn ein befristeter Arbeitsvertrag oder eine Verlängerungsvereinbarung vorliegt, zuerst prüfen:
 
 1. **Schriftform:** Befristungsabrede schriftlich vereinbart und vor Dienstantritt unterzeichnet?
-2. **Sachgrund oder ohne Sachgrund?** § 14 Abs. 1 (mit Sachgrund) oder § 14 Abs. 2 (sachgrundlos)?
+2. **Sachgrund oder ohne Sachgrund?** Paragraf 14 Abs. 1 (mit Sachgrund) oder Paragraf 14 Abs. 2 (sachgrundlos)?
 3. **Vorbeschäftigung:** War der Arbeitnehmer schon früher beim gleichen Arbeitgeber beschäftigt?
 4. **Laufzeit und Verlängerungen:** Wie oft und wie lange wurde befristet?
-5. **Klagefrist:** Ist das Arbeitsverhältnis bereits beendet? Wenn ja: 3-Wochen-Frist § 17 TzBfG?
+5. **Klagefrist:** Ist das Arbeitsverhältnis bereits beendet? Wenn ja: 3-Wochen-Frist Paragraf 17 TzBfG?
 
-## § 14 Abs. 4 TzBfG — Schriftform als Wirksamkeitsvoraussetzung
+## Paragraf 14 Abs. 4 TzBfG — Schriftform als Wirksamkeitsvoraussetzung
 
 ### Grundregel
-Die Befristung eines Arbeitsvertrages bedarf zu ihrer Wirksamkeit der Schriftform (§ 14 Abs. 4 TzBfG i.V.m. § 126 BGB). Die Befristungsabrede muss schriftlich vereinbart sein, bevor der Arbeitnehmer seine Arbeit aufnimmt.
+Die Befristung eines Arbeitsvertrages bedarf zu ihrer Wirksamkeit der Schriftform (Paragraf 14 Abs. 4 TzBfG i.V.m. Paragraf 126 BGB). Die Befristungsabrede muss schriftlich vereinbart sein, bevor der Arbeitnehmer seine Arbeit aufnimmt. Zulässig ist entweder ein Papieroriginal mit eigenhändiger Unterschrift beider Parteien oder die elektronische Form nach Paragraf 126a BGB mit echter qualifizierter elektronischer Signatur beider Parteien. E-Mail, PDF-Scan, eingescannte Unterschrift, einfache Signatur, fortgeschrittene Signatur ohne qualifiziertes Zertifikat und Standard-Signaturportal ohne qES reichen nicht.
+
+### Rechtsprechungsanker elektronische Unterzeichnung
+- ArbG Berlin, Urt. v. 28.09.2021 - 36 Ca 15296/20: Elektronische Unterzeichnung ohne qES erfüllt Paragraf 14 Abs. 4 TzBfG nicht.
+- LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21: Scan-Unterschrift wahrt die Schriftform nicht; spätere Originalunterzeichnung heilt nicht rückwirkend.
+- ArbG Gera, Urt. v. 07.03.2024 - 2 Ca 936/23: Echte qES beider Parteien kann die Schriftform ersetzen; Signaturzertifikat, Prüfprotokoll und Zeitstempel in der Personalakte sichern.
 
 ### Kritische Praxis-Fehler
 - **Fehler 1:** Schriftlicher Vertrag wird dem Arbeitnehmer nach Arbeitsbeginn zugesandt — dann ist die Befristungsabrede unwirksam, obwohl der Vertrag schriftlich ist.
 - **Fehler 2:** Verlängerungsvereinbarung erst nach Ablauf der bisherigen Befristung unterzeichnet — dann ist die Verlängerung eine Neubefristung ohne Schriftform.
 - **Fehler 3:** Nur der Arbeitgeber unterzeichnet; Arbeitnehmer unterschreibt später — dann liegt kein Vertragsschluss vor Dienstantritt vor.
+- **Fehler 4:** HR nutzt eine Signaturplattform, aber nur die einfache oder fortgeschrittene Signaturstufe; ohne qES ist die Befristung formunwirksam.
 
 ### Dokumentations-Checkliste Schriftform
 - [ ] Befristungsabrede im Vertrag eindeutig bezeichnet?
 - [ ] Vertragsschluss (beidseitige Unterschrift) vor Aufnahme der Tätigkeit?
+- [ ] Bei elektronischem Abschluss: qES beider Parteien, qualifiziertes Zertifikat, Signaturprüfbericht, Zeitstempel und Dokumentbezug archiviert?
 - [ ] Bei Verlängerung: neue Vereinbarung vor Ablauf des alten Vertrages?
 - [ ] Kopie des unterzeichneten Vertrages in der Akte?
 
-## § 14 Abs. 1 TzBfG — Sachgrundbefristung
+## Paragraf 14 Abs. 1 TzBfG — Sachgrundbefristung
 
 ### Zulässige Sachgründe (nicht abschließend)
 1. Vorübergehender betrieblicher Bedarf
@@ -65,19 +72,19 @@ Die Befristung eines Arbeitsvertrages bedarf zu ihrer Wirksamkeit der Schriftfor
 
 ### Dokumentationsanforderungen je Sachgrund
 
-**Vertretungsbefristung (§ 14 Abs. 1 Nr. 3 TzBfG):**
+**Vertretungsbefristung (Paragraf 14 Abs. 1 Nr. 3 TzBfG):**
 - Vertretener Arbeitnehmer und Grund für dessen Abwesenheit im Vertrag oder in der Personalakte dokumentieren
 - BAG-Linie: Indirekte Vertretung ist zulässig (organisatorischer Zusammenhang genügt), aber der Zusammenhang muss nachvollziehbar sein
 - Kettenbefristungen bei Vertretungen: Ab einer gewissen Anzahl und Dauer kann das BAG missbräuchliche Gestaltung annehmen (live prüfen)
 
-**Erprobung (§ 14 Abs. 1 Nr. 5 TzBfG):**
+**Erprobung (Paragraf 14 Abs. 1 Nr. 5 TzBfG):**
 - Maximal 6 Monate als Richtwert; danach fehlt objektiver Erprobungszweck
 - Keine Wiederholung der Erprobung für denselben Arbeitnehmer bei gleicher Stelle
 
-## § 14 Abs. 2 TzBfG — Sachgrundlose Befristung
+## Paragraf 14 Abs. 2 TzBfG — Sachgrundlose Befristung
 
 ### Voraussetzungen
-- Keine vorherige Beschäftigung beim gleichen Arbeitgeber (§ 14 Abs. 2 Satz 2 TzBfG: Anschlussverbot)
+- Keine vorherige Beschäftigung beim gleichen Arbeitgeber (Paragraf 14 Abs. 2 Satz 2 TzBfG: Anschlussverbot)
 - Maximaldauer: 2 Jahre
 - Maximale Verlängerungen: 3 Mal innerhalb der 2 Jahre
 
@@ -93,12 +100,12 @@ Das Anschlussverbot gilt nach BAG-Entscheidung von 2011 für jede frühere Besch
 ### Achtung: Verlängerung ist keine inhaltliche Änderung
 Eine Verlängerung der sachgrundlosen Befristung ist nur zulässig, wenn ausschließlich die Dauer verlängert wird. Jede inhaltliche Änderung (andere Stelle, höheres Gehalt, andere Abteilung) macht die Verlängerung zu einer Neubefristung — die dann einen Sachgrund benötigt.
 
-## § 17 TzBfG — Entfristungsklage und Frist
+## Paragraf 17 TzBfG — Entfristungsklage und Frist
 
 ### Dreiwöchige Klagefrist
 Arbeitnehmer, der die Wirksamkeit der Befristung angreifen will, muss innerhalb von 3 Wochen nach dem vereinbarten Ende des befristeten Arbeitsverhältnisses Klage auf Feststellung erheben, dass das Arbeitsverhältnis aufgrund der Befristung nicht beendet ist.
 
-**Fristversäumnis:** Befristung gilt als wirksam (§ 17 TzBfG analog § 7 KSchG).
+**Fristversäumnis:** Befristung gilt als wirksam (Paragraf 17 TzBfG analog Paragraf 7 KSchG).
 
 ### Kettenbefristung und Missbrauchsprüfung
 BAG-Linie: Bei Kettenbefristungen prüft das BAG, ob eine missbräuchliche Gestaltung vorliegt. Indizien:
@@ -114,7 +121,7 @@ BAG-Linie: Bei Kettenbefristungen prüft das BAG, ob eine missbräuchliche Gesta
 | Befristungsvertrag | Schriftliche Befristungsabrede, Sachgrund (wenn vorhanden), Dauer | Personalakte, unbegrenzt |
 | Verlängerungsvereinbarung | Nur Zeitverlängerung; vor Ablauf unterzeichnet | Personalakte |
 | Vorbeschäftigungsprüfung | Ergebnis der Prüfung (keine Vorbeschäftigung) | Personalakte |
-| BR-Information § 99 BetrVG | Zustimmung oder Fiktion bei befristeter Einstellung | Gremienakte |
+| BR-Information Paragraf 99 BetrVG | Zustimmung oder Fiktion bei befristeter Einstellung | Gremienakte |
 
 ## Anschluss-Skills
 - `fachanwalt-arbeitsrecht-befristung-tzbfg` für Tiefenprüfung Befristungsrecht

@@ -1,9 +1,9 @@
 ---
 name: kueschk-anwendbarkeit-kschg-pruefen
-description: "Prüft Anwendbarkeit des Kündigungsschutzgesetzes: Wartezeit sechs Monate nach § 1 Abs: 1 KSchG; Schwellenwert zehn Arbeitnehmer nach § 23 KSchG; Berechnung von Teilzeitkr..."
+description: "Prüft Anwendbarkeit des Kündigungsschutzgesetzes: Wartezeit sechs Monate nach Paragraf 1 Absatz 1 KSchG; Schwellenwert zehn Arbeitnehmer nach Paragraf 23 KSchG; Berechnung von Teilzeitkr..."
 ---
 
-# Prüft Anwendbarkeit des Kündigungsschutzgesetzes: Wartezeit sechs Monate nach § 1 Abs
+# Prüft Anwendbarkeit des Kündigungsschutzgesetzes: Wartezeit sechs Monate nach Paragraf 1 Abs
 
 
 ## Arbeitsweg
@@ -14,34 +14,34 @@ description: "Prüft Anwendbarkeit des Kündigungsschutzgesetzes: Wartezeit sech
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Prüft Anwendbarkeit des Kündigungsschutzgesetzes: Wartezeit sechs Monate nach § 1 Abs. 1 KSchG; Schwellenwert zehn Arbeitnehmer nach § 23 KSchG; Berechnung von Teilzeitkraeften und Auszubildenden; allgemeiner Kündigungsschutz bei Nichtanwendbarkeit.
+**Fokus:** Prüft Anwendbarkeit des Kündigungsschutzgesetzes: Wartezeit sechs Monate nach Paragraf 1 Abs. 1 KSchG; Schwellenwert zehn Arbeitnehmer nach Paragraf 23 KSchG; Berechnung von Teilzeitkraeften und Auszubildenden; allgemeiner Kündigungsschutz bei Nichtanwendbarkeit.
 
 ### KSchG-Anwendbarkeit prüfen
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `KSchG-Anwendbarkeit prüfen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Triage zu Beginn — kläre sofort
 
-1. Wann begann das Arbeitsverhältnis? (6-Monats-Wartezeit nach § 1 Abs. 1 KSchG)
-2. Wie viele Arbeitnehmer beschäftigt der Betrieb? (Schwellenwert > 10 nach § 23 Abs. 1 KSchG)
+1. Wann begann das Arbeitsverhältnis? (6-Monats-Wartezeit nach Paragraf 1 Abs. 1 KSchG)
+2. Wie viele Arbeitnehmer beschäftigt der Betrieb? (Schwellenwert > 10 nach Paragraf 23 Abs. 1 KSchG)
 3. Gibt es mehrere Betriebe im Unternehmen? (Betriebs- nicht Unternehmensbezug!)
-4. Bestehen Sonderkündigungsschutzmechanismen unabhängig vom KSchG? (MuSchG, BEEG, SGB IX, § 15 KSchG)
-5. Wann wurde die Kündigung zugestellt? (§ 4 KSchG-Frist läuft auch ohne KSchG-Anwendbarkeit für Sonderschutz)
+4. Bestehen Sonderkündigungsschutzmechanismen unabhängig vom KSchG? (MuSchG, BEEG, SGB IX, Paragraf 15 KSchG)
+5. Wann wurde die Kündigung zugestellt? (Paragraf 4 KSchG-Frist läuft auch ohne KSchG-Anwendbarkeit für Sonderschutz)
 
 ## Zentrale Normen
 
-- § 1 Abs. 1 KSchG — Wartezeit 6 Monate ununterbrochen
-- § 23 Abs. 1 KSchG — Schwellenwert: regelmäßig mehr als 10 Arbeitnehmer
-- § 23 Abs. 1 Satz 2 KSchG — Auszubildende zählen nicht
-- § 5 Abs. 3 BetrVG — leitende Angestellte: eigene Regelungen, kein BetrVG
-- §§ 138, 242 BGB — allgemeiner Kündigungsschutz (Treu und Glauben, Sittenwidrigkeit)
-- §§ 17, 18 MuSchG; § 18 BEEG; § 168 SGB IX — Sonderkündigungsschutz unabhängig von KSchG
+- Paragraf 1 Abs. 1 KSchG — Wartezeit 6 Monate ununterbrochen
+- Paragraf 23 Abs. 1 KSchG — Schwellenwert: regelmäßig mehr als 10 Arbeitnehmer
+- Paragraf 23 Abs. 1 Satz 2 KSchG — Auszubildende zählen nicht
+- Paragraf 5 Abs. 3 BetrVG — leitende Angestellte: eigene Regelungen, kein BetrVG
+- Paragrafen 138, 242 BGB — allgemeiner Kündigungsschutz (Treu und Glauben, Sittenwidrigkeit)
+- Paragrafen 17, 18 MuSchG; Paragraf 18 BEEG; Paragraf 168 SGB IX — Sonderkündigungsschutz unabhängig von KSchG
 
 ## Aktuelle Rechtsprechung
 
@@ -49,7 +49,7 @@ description: "Prüft Anwendbarkeit des Kündigungsschutzgesetzes: Wartezeit sech
 
 ## Schritt-für-Schritt-Prüfung
 
-### Schritt 1: Wartezeit § 1 Abs. 1 KSchG
+### Schritt 1: Wartezeit Paragraf 1 Abs. 1 KSchG
 
 Das KSchG gilt nur bei Arbeitsverhältnis **länger als 6 Monate** ohne Unterbrechung.
 
@@ -66,7 +66,7 @@ Dauer: [MONATE]
  > 6 Monate → weiter zu Schritt 2
 ```
 
-### Schritt 2: Betriebsgröße § 23 Abs. 1 KSchG
+### Schritt 2: Betriebsgröße Paragraf 23 Abs. 1 KSchG
 
 KSchG gilt nur wenn **regelmäßig mehr als 10 Arbeitnehmer** im Betrieb beschäftigt.
 
@@ -74,8 +74,8 @@ KSchG gilt nur wenn **regelmäßig mehr als 10 Arbeitnehmer** im Betrieb beschä
 - Vollzeitkräfte (> 30 Std./Woche): zählen als 1.0
 - Teilzeitkräfte bis 30 Std./Woche: zählen als 0.75
 - Teilzeitkräfte bis 20 Std./Woche: zählen als 0.5
-- Auszubildende: zählen **nicht** (§ 23 Abs. 1 Satz 2 KSchG)
-- Leitende Angestellte (§ 5 Abs. 3 BetrVG): zählen nicht für BetrVG, aber für KSchG ja
+- Auszubildende: zählen **nicht** (Paragraf 23 Abs. 1 Satz 2 KSchG)
+- Leitende Angestellte (Paragraf 5 Abs. 3 BetrVG): zählen nicht für BetrVG, aber für KSchG ja
 
 **Beispielrechnung:**
 ```
@@ -96,17 +96,17 @@ Unabhängig von KSchG-Anwendbarkeit bestehen Sonderkündigungsschutz-Mechanismen
 
 | Schutztatbestand | Norm | Auch im Kleinbetrieb? |
 |---|---|---|
-| Schwangerschaft / Mutterschutz | § 17 MuSchG | JA |
-| Elternzeit | § 18 BEEG | JA |
-| Schwerbehinderung | § 168 SGB IX | JA |
-| Betriebsratsmitglied | § 15 KSchG | JA |
-| HinSchG-Meldung | § 33 HinSchG | JA |
+| Schwangerschaft / Mutterschutz | Paragraf 17 MuSchG | JA |
+| Elternzeit | Paragraf 18 BEEG | JA |
+| Schwerbehinderung | Paragraf 168 SGB IX | JA |
+| Betriebsratsmitglied | Paragraf 15 KSchG | JA |
+| HinSchG-Meldung | Paragraf 33 HinSchG | JA |
 
-### Schritt 5: Allgemeiner Kündigungsschutz § 242 BGB
+### Schritt 5: Allgemeiner Kündigungsschutz Paragraf 242 BGB
 
 Bei Nichtanwendbarkeit des KSchG: Kündigung muss trotzdem Grundsätze von Treu und Glauben wahren. Angriffspunkte:
-- Diskriminierung (§§ 1-7 AGG)
-- Sittenwidrigkeit (§ 138 BGB)
+- Diskriminierung (Paragrafen 1-7 AGG)
+- Sittenwidrigkeit (Paragraf 138 BGB)
 - Verstoss gegen Art. 12 GG (grundkündigungsschutz im Kleinbetrieb)
 
 ## Ergebnistabelle

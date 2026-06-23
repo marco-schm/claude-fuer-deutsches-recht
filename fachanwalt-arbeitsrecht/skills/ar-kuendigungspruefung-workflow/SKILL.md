@@ -1,6 +1,6 @@
 ---
 name: ar-kuendigungspruefung-workflow
-description: "Kündigungsprüfung: Schritt-für-Schritt vom Zugang der Kündigung bis zur Klageerhebung oder Vergleichsstrategie: Schriftform § 623 BGB, KSchG-Anwe..."
+description: "Kündigungsprüfung: Schritt-für-Schritt vom Zugang der Kündigung bis zur Klageerhebung oder Vergleichsstrategie: Schriftform Paragraf 623 BGB, KSchG-Anwe..."
 ---
 
 # Kündigungsprüfung: Schritt-für-Schritt vom Zugang der Kündigung bis zur Klageerhebung oder Vergleichsstrategie
@@ -14,14 +14,14 @@ description: "Kündigungsprüfung: Schritt-für-Schritt vom Zugang der Kündigun
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Kündigungsprüfung: Schritt-für-Schritt vom Zugang der Kündigung bis zur Klageerhebung oder Vergleichsstrategie. Schriftform § 623 BGB, KSchG-Anwendbarkeit § 23, Betriebsratsanhörung § 102 BetrVG, Sozialauswahl § 1 Abs. 3 KSchG, Sonderkündigungsschutz, Massenentlassung § 17 KSchG.
+**Fokus:** Kündigungsprüfung: Schritt-für-Schritt vom Zugang der Kündigung bis zur Klageerhebung oder Vergleichsstrategie. Schriftform Paragraf 623 BGB, KSchG-Anwendbarkeit Paragraf 23, Betriebsratsanhörung Paragraf 102 BetrVG, Sozialauswahl Paragraf 1 Abs. 3 KSchG, Sonderkündigungsschutz, Massenentlassung Paragraf 17 KSchG.
 
 ### AR: Kündigungsprüfung — Workflow
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `AR: Kündigungsprüfung — Workflow` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -30,13 +30,13 @@ description: "Kündigungsprüfung: Schritt-für-Schritt vom Zugang der Kündigun
 Bei Eingang einer Kündigung gelten folgende Prioritäten in dieser Reihenfolge:
 
 1. **Zugang sichern:** Genaues Zugangsdatum (Briefkasteneinwurf, persönliche Übergabe) mit Beweismittel dokumentieren.
-2. **Frist berechnen:** 3 Wochen ab Zugang = Klagefrist § 4 KSchG. Datum im Kalender markieren.
-3. **Schriftform prüfen:** Liegt eine eigenhändig unterzeichnete Originalurkunde vor (§ 623 BGB)? E-Mail, Fax, WhatsApp = nichtig (§ 125 BGB).
+2. **Frist berechnen:** 3 Wochen ab Zugang = Klagefrist Paragraf 4 KSchG. Datum im Kalender markieren.
+3. **Schriftform prüfen:** Liegt eine eigenhändig unterzeichnete Originalurkunde vor (Paragraf 623 BGB)? E-Mail, Fax, WhatsApp = nichtig (Paragraf 125 BGB).
 4. **Mandantenentscheidung zeitnah:** Klage, Aufhebungsverhandlung oder Klageverzicht?
 
 ## Phase 1: Formelle Prüfung
 
-### A) Schriftform § 623 BGB
+### A) Schriftform Paragraf 623 BGB
 - Original-Unterschrift des Kündigungsberechtigten zwingend
 - Faksimile-Stempel genügt nicht
 - Elektronische Übermittlung genügt nicht
@@ -44,10 +44,10 @@ Bei Eingang einer Kündigung gelten folgende Prioritäten in dieser Reihenfolge:
 
 ### B) Kündigungsberechtigter
 - Wer hat unterzeichnet? Ist die Person zur Kündigung bevollmächtigt?
-- Bei Vollmacht: War die Vollmacht im Original beigefügt (§ 174 BGB)? Zurückweisung sofort nach Empfang!
+- Bei Vollmacht: War die Vollmacht im Original beigefügt (Paragraf 174 BGB)? Zurückweisung sofort nach Empfang!
 - Bei Organen (GF, Vorstand): Vertretungsberechtigung aus Handelsregister prüfen
 
-### C) Zugang § 130 BGB
+### C) Zugang Paragraf 130 BGB
 - Persönliche Übergabe: Zugang sofort
 - Briefkasteneinwurf: Zugang wenn Leerung üblicherweise zu erwarten war (BAG-Linie: bis 17/18 Uhr am selben Tag, danach am nächsten Werktag)
 - Urlaub, Krankheit, Auslandsaufenthalt: Zugang dennoch, wenn Kenntnisnahmemöglichkeit besteht
@@ -56,39 +56,39 @@ Bei Eingang einer Kündigung gelten folgende Prioritäten in dieser Reihenfolge:
 
 | Merkmal | Norm | Prüfung |
 |---|---|---|
-| Betriebsgröße > 10 VZÄ | § 23 KSchG | Vollzeitkräfte + anteilig Teilzeit; Leiharbeitnehmer? (BAG-Linie) |
-| Betriebszugehörigkeit > 6 Monate | § 1 Abs. 1 KSchG | Probezeiten, Vorbeschäftigung beim selben Arbeitgeber |
-| Betrieb im Geltungsbereich | § 23 KSchG | Deutsches Arbeitsverhältnis |
+| Betriebsgröße > 10 VZÄ | Paragraf 23 KSchG | Vollzeitkräfte + anteilig Teilzeit; Leiharbeitnehmer? (BAG-Linie) |
+| Betriebszugehörigkeit > 6 Monate | Paragraf 1 Abs. 1 KSchG | Probezeiten, Vorbeschäftigung beim selben Arbeitgeber |
+| Betrieb im Geltungsbereich | Paragraf 23 KSchG | Deutsches Arbeitsverhältnis |
 
-Wenn KSchG nicht anwendbar: allgemeiner Kündigungsschutz (§ 242 BGB, § 138 BGB, Maßregelungsverbot § 612a BGB) prüfen.
+Wenn KSchG nicht anwendbar: allgemeiner Kündigungsschutz (Paragraf 242 BGB, Paragraf 138 BGB, Maßregelungsverbot Paragraf 612a BGB) prüfen.
 
 ## Phase 3: Sonderkündigungsschutz
 
 | Schutz | Norm | Voraussetzung |
 |---|---|---|
-| Schwangerschaft / Mutterschutz | § 17 MuSchG | Behördliche Zustimmung Landesamt zwingend |
-| Elternzeit | § 18 BEEG | Behördliche Zustimmung zwingend (Ausnahmen eng) |
-| Schwerbehinderung | § 168 SGB IX | Zustimmung Integrationsamt zwingend |
-| Betriebsratsmitglied | §§ 15 KSchG, 103 BetrVG | BR-Zustimmung oder gerichtliche Ersetzung |
-| Datenschutzbeauftragter | § 38 BDSG | Besonderer Kündigungsschutz |
-| Wahlvorstand / Kandidaten | § 15 KSchG | Schutz ab Bekanntmachung der Wahl |
+| Schwangerschaft / Mutterschutz | Paragraf 17 MuSchG | Behördliche Zustimmung Landesamt zwingend |
+| Elternzeit | Paragraf 18 BEEG | Behördliche Zustimmung zwingend (Ausnahmen eng) |
+| Schwerbehinderung | Paragraf 168 SGB IX | Zustimmung Integrationsamt zwingend |
+| Betriebsratsmitglied | Paragrafen 15 KSchG, 103 BetrVG | BR-Zustimmung oder gerichtliche Ersetzung |
+| Datenschutzbeauftragter | Paragraf 38 BDSG | Besonderer Kündigungsschutz |
+| Wahlvorstand / Kandidaten | Paragraf 15 KSchG | Schutz ab Bekanntmachung der Wahl |
 
 **Konsequenz:** Fehlt eine behördliche Zustimmung → Kündigung ist schwebend unwirksam oder nichtig.
 
-## Phase 4: Betriebsratsanhörung § 102 BetrVG
+## Phase 4: Betriebsratsanhörung Paragraf 102 BetrVG
 
 ### Checkliste
 - [ ] Ist ein Betriebsrat vorhanden?
 - [ ] Wurde dieser vor Ausspruch der Kündigung angehört?
 - [ ] Enthielt das Anhörungsschreiben: Name des Arbeitnehmers, Art der Kündigung, Kündigungsgründe, Sozialdaten?
-- [ ] Wurde die Frist eingehalten (ordentlich: 1 Woche; außerordentlich: 3 Tage; § 102 Abs. 2 BetrVG)?
+- [ ] Wurde die Frist eingehalten (ordentlich: 1 Woche; außerordentlich: 3 Tage; Paragraf 102 Abs. 2 BetrVG)?
 - [ ] Hat der BR Einwände erhoben? Wenn ja: wurden sie beachtet?
 
 **Rechtsfolge Fehler:** Kündigung ist unwirksam — unabhängig vom materiellen Kündigungsgrund.
 
-## Phase 5: Massenentlassungsanzeige § 17 KSchG
+## Phase 5: Massenentlassungsanzeige Paragraf 17 KSchG
 
-### Schwellenwerte (§ 17 Abs. 1 KSchG)
+### Schwellenwerte (Paragraf 17 Abs. 1 KSchG)
 | Betriebsgröße | Entlassungen innerhalb 30 Tagen |
 |---|---|
 | 21–59 AN | ≥ 6 |
@@ -97,13 +97,13 @@ Wenn KSchG nicht anwendbar: allgemeiner Kündigungsschutz (§ 242 BGB, § 138 BG
 
 **Neue BAG/EuGH-Linie (BAG 6 AZR 152/22, EuGH C-134/24):** Anzeige muss nach Abschluss der BR-Konsultation, aber vor Ausspruch der Kündigungen erfolgen. Fehler = Unwirksamkeit aller betroffenen Kündigungen, keine Heilung möglich.
 
-## Phase 6: Soziale Rechtfertigung § 1 KSchG
+## Phase 6: Soziale Rechtfertigung Paragraf 1 KSchG
 
 ### Betriebsbedingt
 1. Unternehmerische Entscheidung (Wegfall des Arbeitsplatzes)
 2. Dringende betriebliche Erfordernis
 3. Keine anderweitige Beschäftigungsmöglichkeit
-4. **Sozialauswahl § 1 Abs. 3 KSchG:** Betriebszugehörigkeit, Lebensalter, Unterhaltspflichten, Schwerbehinderung — Vergleichsgruppe nach Austauschbarkeit
+4. **Sozialauswahl Paragraf 1 Abs. 3 KSchG:** Betriebszugehörigkeit, Lebensalter, Unterhaltspflichten, Schwerbehinderung — Vergleichsgruppe nach Austauschbarkeit
 
 ### Verhaltensbedingt
 1. Pflichtverletzung (nachweisbar)
@@ -129,7 +129,7 @@ Wenn KSchG nicht anwendbar: allgemeiner Kündigungsschutz (§ 242 BGB, § 138 BG
 ## Anschluss-Skills
 - `fachanwalt-arbeitsrecht-kuendigungsschutzklage` für Klageschrift und Verfahrensstrategie
 - `ar-abfindungs-rechner-modular` für Abfindungsberechnung
-- `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` für § 17 KSchG-Tiefenprüfung
+- `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` für Paragraf 17 KSchG-Tiefenprüfung
 - `fazugang-neu-001-kuendigung-durch-boten-beweisvermerk-und-prozessstrategie` für Zugangsfragen
 
 ## Was dieser Arbeitsgang nicht macht

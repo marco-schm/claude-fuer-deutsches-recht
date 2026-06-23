@@ -20,8 +20,8 @@ description: "Datum, Formular, Portal und Einreichung im arbeitsrechtlichen Verf
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Datum, Formular, Portal und Einreichung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -39,24 +39,24 @@ Wenn eine Einreichung ansteht, zuerst klären:
 
 | Frist | Norm | Berechnung | Konsequenz bei Versäumnis |
 |---|---|---|---|
-| Kündigungsschutzklage | § 4 KSchG | 3 Wochen ab Zugang; § 188 BGB | § 7 KSchG-Fiktion |
-| Entfristungsklage | § 17 TzBfG | 3 Wochen ab Vertragsende | Befristung gilt als wirksam |
-| AGG-Geltendmachung | § 15 Abs. 4 AGG | 2 Monate ab Kenntnis | Anspruchsverlust |
-| Berufung ArbGG | § 66 ArbGG | 1 Monat ab Zustellung | Rechtskraft |
-| Berufungsbegründung | § 66 ArbGG | 2 Monate ab Zustellung | Verwerfung |
-| Revision BAG | § 74 ArbGG | 1 Monat ab Zustellung | Rechtskraft |
-| Revisionsbegründung BAG | § 74 ArbGG | 2 Monate ab Zustellung | Verwerfung |
-| Aussperrungsanzeige | § 19 AÜG | sofort | Ordnungswidrigkeit |
-| Massenentlassungsanzeige | § 17 KSchG | vor Ausspruch der Kündigung | Unwirksamkeit aller Kündigungen |
+| Kündigungsschutzklage | Paragraf 4 KSchG | 3 Wochen ab Zugang; Paragraf 188 BGB | Paragraf 7 KSchG-Fiktion |
+| Entfristungsklage | Paragraf 17 TzBfG | 3 Wochen ab Vertragsende | Befristung gilt als wirksam |
+| AGG-Geltendmachung | Paragraf 15 Abs. 4 AGG | 2 Monate ab Kenntnis | Anspruchsverlust |
+| Berufung ArbGG | Paragraf 66 ArbGG | 1 Monat ab Zustellung | Rechtskraft |
+| Berufungsbegründung | Paragraf 66 ArbGG | 2 Monate ab Zustellung | Verwerfung |
+| Revision BAG | Paragraf 74 ArbGG | 1 Monat ab Zustellung | Rechtskraft |
+| Revisionsbegründung BAG | Paragraf 74 ArbGG | 2 Monate ab Zustellung | Verwerfung |
+| Aussperrungsanzeige | Paragraf 19 AÜG | sofort | Ordnungswidrigkeit |
+| Massenentlassungsanzeige | Paragraf 17 KSchG | vor Ausspruch der Kündigung | Unwirksamkeit aller Kündigungen |
 
 ## Elektronischer Rechtsverkehr — beA
 
-### Pflicht zur elektronischen Einreichung (§ 130a ZPO i.V.m. § 46g ArbGG)
+### Pflicht zur elektronischen Einreichung (Paragraf 130a ZPO i.V.m. Paragraf 46g ArbGG)
 Seit 01.01.2022 sind Rechtsanwälte verpflichtet, Schriftsätze an das Arbeitsgericht über das beA (besonderes elektronisches Anwaltspostfach) einzureichen.
 
 ### Anforderungen
 - Qualifizierte elektronische Signatur (qeS) des Anwalts auf dem Schriftsatz oder
-- Einfache Signatur und Versand aus dem beA des verantwortenden Anwalts (§ 130a Abs. 3 ZPO)
+- Einfache Signatur und Versand aus dem beA des verantwortenden Anwalts (Paragraf 130a Abs. 3 ZPO)
 - Format: PDF/A-1 oder PDF/A-2 empfohlen
 
 ### Technische Anforderungen
@@ -67,25 +67,25 @@ Seit 01.01.2022 sind Rechtsanwälte verpflichtet, Schriftsätze an das Arbeitsge
 Eingang beim Empfängergericht am Tag des Sendens gilt als fristgerecht, wenn die Sendung vor 24 Uhr des letzten Fristtages eingeht (Eingangszeitstempel). **Technische Probleme des eigenen Systems** entlasten nicht; nur technische Störung beim Gericht oder des EGVP-Netzes.
 
 ### beA-Notfalleinreichung
-Bei technischem Ausfall des beA: sofortige Einreichung per Telefax mit gleichzeitiger Dokumentation der Störung. Anforderungen an glaubhaftmachende Darlegung (§ 130a Abs. 6 ZPO).
+Bei technischem Ausfall des beA: sofortige Einreichung per Telefax mit gleichzeitiger Dokumentation der Störung. Anforderungen an glaubhaftmachende Darlegung (Paragraf 130a Abs. 6 ZPO).
 
 ## Formulare und Portale
 
 ### Klageschrift Arbeitsgericht
 - Kein Pflichtformular; formfreie Klageschrift ausreichend
 - Mindestinhalt: Gericht, Parteien, Antrag, Sachverhalt, Rechtsausführungen, Beweisangebote, Unterschrift
-- Arbeitsgericht: Kein Anwaltszwang in erster Instanz (§ 11 Abs. 1 ArbGG)
+- Arbeitsgericht: Kein Anwaltszwang in erster Instanz (Paragraf 11 Abs. 1 ArbGG)
 
-### Massenentlassungsanzeige § 17 KSchG — BA-Portal
-- Formular: Bundesagentur für Arbeit, Formular „Anzeige nach § 17 KSchG"
+### Massenentlassungsanzeige Paragraf 17 KSchG — BA-Portal
+- Formular: Bundesagentur für Arbeit, Formular „Anzeige nach Paragraf 17 KSchG"
 - Einreichung bei der zuständigen Agentur für Arbeit (nach Betriebssitz)
-- **Seit EuGH C-134/24 und BAG 6 AZR 152/22:** Anzeige muss nach Abschluss der BR-Konsultation erfolgen; Nachweis der Konsultation (§ 17 Abs. 3 KSchG) beifügen
+- **Seit EuGH C-134/24 und BAG 6 AZR 152/22:** Anzeige muss nach Abschluss der BR-Konsultation erfolgen; Nachweis der Konsultation (Paragraf 17 Abs. 3 KSchG) beifügen
 - Portal: ba.de (Arbeitgeber-Services); Formular live auf bundesagentur.de prüfen
 
-### Zustimmungsantrag Integrationsamt (§ 168 SGB IX)
+### Zustimmungsantrag Integrationsamt (Paragraf 168 SGB IX)
 - Bei Kündigung schwerbehinderter Menschen: Antrag beim zuständigen Integrationsamt (Landesamt für Soziales)
 - Portal: Je nach Bundesland unterschiedlich; direkt beim Integrationsamt des Bundeslandes erkundigen
-- Frist: kein gesetzlicher Freistellungsanspruch des AG; Behörde hat 2 Wochen (§ 171 SGB IX), sonst Fiktion
+- Frist: kein gesetzlicher Freistellungsanspruch des AG; Behörde hat 2 Wochen (Paragraf 171 SGB IX), sonst Fiktion
 
 ### Anzeige beim Landesamt (Sonderkündigungsschutz)
 - Schwangere: Genehmigung beim Landesamt für Arbeitsschutz / Gewerbeaufsicht
@@ -103,15 +103,15 @@ Bei technischem Ausfall des beA: sofortige Einreichung per Telefax mit gleichzei
 - [ ] Eingangsbestätigung speichern
 
 ### Berufungsschrift LAG
-- [ ] Frist: 1 Monat ab Urteilszustellung (§ 66 ArbGG)
+- [ ] Frist: 1 Monat ab Urteilszustellung (Paragraf 66 ArbGG)
 - [ ] Formelle Berufungsanträge
-- [ ] Anwalt zwingend (§ 11 Abs. 4 ArbGG ab LAG)
+- [ ] Anwalt zwingend (Paragraf 11 Abs. 4 ArbGG ab LAG)
 - [ ] Berufungsbegründungsfrist: 2 Monate (ggf. Verlängerung beantragen)
 
 ## Anschluss-Skills
 - `workflow-fristen-und-risikoampel` für Fristenmanagement
 - `spezial-fao-fristen-form-und-zuständigkeit` für weitere Verfahrensfragen
-- `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` für § 17 KSchG-Details
+- `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` für Paragraf 17 KSchG-Details
 
 ## Was dieser Arbeitsgang nicht macht
 - Keine technische Hilfe für beA-Einrichtung oder -Betrieb.

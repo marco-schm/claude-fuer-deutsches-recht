@@ -1,6 +1,6 @@
 ---
 name: dokumentations-und-beweisarchitektur
-description: "Anwalt oder Kanzlei muss sicherstellen dass Formerklärungen beweissicher dokumentiert und archiviert werden. Beweissicherung Willenserklärungen Formrecht. Prüfraster: Zugang § 130 BGB nachweisen Originalurkunden aufbewahren qES-Validierungsprotokolle ersetzendes Scannen TR-RESISCAN Langzeitarchiv..."
+description: "Anwalt oder Kanzlei muss sicherstellen dass Formerklärungen beweissicher dokumentiert und archiviert werden. Beweissicherung Willenserklärungen Formrecht. Prüfraster: Zugang Paragraf 130 BGB nachweisen Originalurkunden aufbewahren qES-Validierungsprotokolle ersetzendes Scannen TR-RESISCAN Langzeitarchiv..."
 ---
 
 # Dokumentations- und Beweisarchitektur
@@ -16,18 +16,18 @@ description: "Anwalt oder Kanzlei muss sicherstellen dass Formerklärungen bewei
 ## Triage — kläre vor der Dokumentation
 
 1. **Erklärungsart:** Welche Willenserklärung oder welcher Vertragsschluss soll beweissicher dokumentiert werden (Kündigung, Bürgschaft, Mietvertrag)?
-2. **Formerfordernis:** Gilt Schriftform (§ 126 BGB), Textform (§ 126b BGB), qES (§ 126a BGB) oder Formfreiheit?
+2. **Formerfordernis:** Gilt Schriftform (Paragraf 126 BGB), Textform (Paragraf 126b BGB), qES (Paragraf 126a BGB) oder Formfreiheit?
 3. **Zugangsbeleg:** Wie wird der Zugang beim Empfänger nachgewiesen (Bote, Einschreiben, qES-Protokoll)?
 4. **Archivierungspflicht:** Wie lange müssen die Unterlagen aufbewahrt werden (steuerlich, handelsrechtlich, prozessual)?
 5. **Ersatz-Scan:** Soll die Originalurkunde nach TR-RESISCAN eingescannt und vernichtet werden?
 
 ## Zentrale Normen (ergänzend)
-- § 127 BGB (Abweichende Formvorschriften)
-- § 415 ZPO (Beweiskraft öffentlicher Urkunden)
-- § 416 ZPO (Beweiskraft privater Urkunden)
-- § 419 ZPO (Vorlegungspflicht für Urkunden)
-- § 420 ZPO (Pflicht zur Urkundenvorlage — Originalpflicht)
-- § 257 HGB (Aufbewahrungspflichten kaufmännischer Unterlagen)
+- Paragraf 127 BGB (Abweichende Formvorschriften)
+- Paragraf 415 ZPO (Beweiskraft öffentlicher Urkunden)
+- Paragraf 416 ZPO (Beweiskraft privater Urkunden)
+- Paragraf 419 ZPO (Vorlegungspflicht für Urkunden)
+- Paragraf 420 ZPO (Pflicht zur Urkundenvorlage — Originalpflicht)
+- Paragraf 257 HGB (Aufbewahrungspflichten kaufmännischer Unterlagen)
 
 ## Rechtsprechung
 1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -35,12 +35,12 @@ description: "Anwalt oder Kanzlei muss sicherstellen dass Formerklärungen bewei
 
 ## Rechtsgrundlagen
 
-- **§ 130 BGB** — Zugang: Beweislast beim Erklärenden
-- **§ 416 ZPO** — Privaturkunde: voller Beweis für Echtheit der Unterschrift bei Anerkennung
-- **§ 440 ZPO** — Echtheitsbezeugung öffentlicher Urkunden
+- **Paragraf 130 BGB** — Zugang: Beweislast beim Erklärenden
+- **Paragraf 416 ZPO** — Privaturkunde: voller Beweis für Echtheit der Unterschrift bei Anerkennung
+- **Paragraf 440 ZPO** — Echtheitsbezeugung öffentlicher Urkunden
 - **TR-RESISCAN** — BSI Technische Richtlinie 03138: ersetzendes Scannen von Papierdokumenten
 - **eIDAS-Verordnung** VO (EU) Nr. 910/2014 — qualifizierte elektronische Signatur
-- **§ 298 Abs. 3 ZPO** — Transfervermerk bei Gerichtsausdrucken (kein Zugangsersatz)
+- **Paragraf 298 Abs. 3 ZPO** — Transfervermerk bei Gerichtsausdrucken (kein Zugangsersatz)
 
 ## BGH-Linie
 
@@ -53,9 +53,9 @@ Der Erklärende trägt die Beweislast für den Zugang seiner Willenserklärung b
 
 ### Originalurkunde und Beweiskraft
 
-**§ 416 ZPO**: Privaturkunden, die die Unterschrift des Ausstellers tragen, begründen vollen Beweis dafür, dass die Erklärung so abgegeben wurde, wenn die Echtheit der Unterschrift vom Empfänger anerkannt oder nachgewiesen wird.
+**Paragraf 416 ZPO**: Privaturkunden, die die Unterschrift des Ausstellers tragen, begründen vollen Beweis dafür, dass die Erklärung so abgegeben wurde, wenn die Echtheit der Unterschrift vom Empfänger anerkannt oder nachgewiesen wird.
 
-**Originalurkunde**: Für den Beweis ist die Vorlage des Originals (§ 420 ZPO) in der Regel erforderlich, nicht lediglich einer Kopie.
+**Originalurkunde**: Für den Beweis ist die Vorlage des Originals (Paragraf 420 ZPO) in der Regel erforderlich, nicht lediglich einer Kopie.
 
 ## Workflow
 

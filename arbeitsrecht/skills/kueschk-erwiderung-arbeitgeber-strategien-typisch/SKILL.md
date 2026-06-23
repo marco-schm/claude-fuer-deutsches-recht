@@ -20,8 +20,8 @@ description: "Typische Verteidigungsstrategien des Arbeitgebers im Kündigungssc
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Typische Arbeitgeber-Strategien im Kündigungsschutzprozess` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -36,12 +36,12 @@ description: "Typische Verteidigungsstrategien des Arbeitgebers im Kündigungssc
 
 ## Zentrale Normen
 
-- § 1 Abs. 2, Abs. 3 KSchG — Darlegungs- und Beweislast bei betriebsbedingter Kündigung und Sozialauswahl
-- § 23 Abs. 1 KSchG — Schwellenwert für KSchG-Anwendbarkeit (> 10 Arbeitnehmer)
-- § 102 BetrVG — Betriebsratsanhörung; Beweislast des Arbeitgebers für ordnungsgemäße Anhörung
-- § 174 BGB — Vollmachtsrüge; Zurückweisung unverzüglich nach Zugang
-- § 138 ZPO — Substantiierungsgebot; pauschales Bestreiten unbeachtlich bei substantiiertem Vortrag der Gegenseite
-- § 12 KSchG — Einseitige Lösung nach neuem Job (Schutz gegen Rückkehrpflicht)
+- Paragraf 1 Abs. 2, Abs. 3 KSchG — Darlegungs- und Beweislast bei betriebsbedingter Kündigung und Sozialauswahl
+- Paragraf 23 Abs. 1 KSchG — Schwellenwert für KSchG-Anwendbarkeit (> 10 Arbeitnehmer)
+- Paragraf 102 BetrVG — Betriebsratsanhörung; Beweislast des Arbeitgebers für ordnungsgemäße Anhörung
+- Paragraf 174 BGB — Vollmachtsrüge; Zurückweisung unverzüglich nach Zugang
+- Paragraf 138 ZPO — Substantiierungsgebot; pauschales Bestreiten unbeachtlich bei substantiiertem Vortrag der Gegenseite
+- Paragraf 12 KSchG — Einseitige Lösung nach neuem Job (Schutz gegen Rückkehrpflicht)
 
 ## Aktuelle Rechtsprechung
 
@@ -61,7 +61,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Taktik:** Arbeitgeberanwalt bestreitet pauschal alle Behauptungen des Arbeitnehmers — "Wird bestritten."
 
-**Was das bedeutet:** Pauschalbestreiten ist unbeachtlich, wenn der Arbeitnehmer zuvor substantiiert vorgetragen hat (§ 138 Abs. 2 ZPO). Es erhöht aber den Druck auf den Arbeitnehmer, jeden Vortrag mit Beweisen zu unterlegen.
+**Was das bedeutet:** Pauschalbestreiten ist unbeachtlich, wenn der Arbeitnehmer zuvor substantiiert vorgetragen hat (Paragraf 138 Abs. 2 ZPO). Es erhöht aber den Druck auf den Arbeitnehmer, jeden Vortrag mit Beweisen zu unterlegen.
 
 **Vorbereitung:** Konkrete Tatsachenbehauptungen mit Beweisangeboten verbinden. Nicht nur "es gab keine Sozialauswahl" — sondern konkret: Kollegin K (Sozialdaten: Alter X, Betriebszugehörigkeit Y, keine Unterhaltspflichten) hätte statt mir entlassen werden müssen.
 
@@ -74,8 +74,8 @@ Ein umgangssprachlicher Begriff für eine bestimmte Prozessstrategie: Der Arbeit
 **Risiko für den Arbeitnehmer:** Wenn der Arbeitnehmer während des laufenden Verfahrens einen neuen Arbeitsplatz annimmt und der Arbeitgeber dann im späten Verfahrensverlauf **nachgibt** (d.h. die Kündigung für unwirksam erklärt), muss der Arbeitnehmer theoretisch zurück in den alten Betrieb — obwohl er längst woanders beschäftigt ist.
 
 **Gegenmaßnahmen:**
-- § 12 KSchG prüfen: Einseitige Lösung nach Aufnahme neuen Jobs (1 Woche Frist nach Rechtskraft)
-- § 9 KSchG-Auflösungsantrag im Kammertermin stellen
+- Paragraf 12 KSchG prüfen: Einseitige Lösung nach Aufnahme neuen Jobs (1 Woche Frist nach Rechtskraft)
+- Paragraf 9 KSchG-Auflösungsantrag im Kammertermin stellen
 - Vergleich mit klarem Beendigungsdatum anstreben
 
 ## Strategie 4: Vergleichsdruck aufbauen
@@ -88,13 +88,13 @@ Ein umgangssprachlicher Begriff für eine bestimmte Prozessstrategie: Der Arbeit
 
 **Taktik:** Arbeitgeber behauptet, die Sozialauswahl sei ordnungsgemäß durchgeführt worden, und reicht nachträglich Sozialdaten-Tabellen ein.
 
-**Gegenmaßnahme:** § 1 Abs. 3 Satz 1 KSchG verlangt Darlegung auf Verlangen des Arbeitnehmers. Der Arbeitnehmer kann die Kriterien angreifen. Arbeitgeber trägt Beweislast für ordnungsgemäße Sozialauswahl (§ 1 Abs. 3 Satz 3 KSchG).
+**Gegenmaßnahme:** Paragraf 1 Abs. 3 Satz 1 KSchG verlangt Darlegung auf Verlangen des Arbeitnehmers. Der Arbeitnehmer kann die Kriterien angreifen. Arbeitgeber trägt Beweislast für ordnungsgemäße Sozialauswahl (Paragraf 1 Abs. 3 Satz 3 KSchG).
 
 ## Strategie 6: Außerordentliche Kündigung nachschieben
 
 **Taktik:** Nach Erhebung der Klage spricht Arbeitgeber eine außerordentliche Kündigung aus, um die Sachlage zu erschweren.
 
-**Gegenmaßnahme:** Auch gegen diese Kündigung innerhalb von **drei Wochen** Klage erheben (§ 4 KSchG). Sonst gilt die außerordentliche Kündigung nach § 7 KSchG als wirksam. Den Folge-Antrag als punktuellen Feststellungsantrag einreichen.
+**Gegenmaßnahme:** Auch gegen diese Kündigung innerhalb von **drei Wochen** Klage erheben (Paragraf 4 KSchG). Sonst gilt die außerordentliche Kündigung nach Paragraf 7 KSchG als wirksam. Den Folge-Antrag als punktuellen Feststellungsantrag einreichen.
 
 ## Entscheidungsbaum: Reaktion auf Klageerwiderung
 
@@ -124,18 +124,18 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ### Kuratierte Normen-Bibliothek
 
-- § 14 TzBfG
-- § 102 BetrVG
-- § 4 KSchG
-- § 1 KSchG
-- § 17 TzBfG
-- § 26 BDSG
-- § 12 KSchG
-- § 9 KSchG
-- § 7 KSchG
-- § 15 AGG
-- § 23 KSchG
-- § 22 AGG
+- Paragraf 14 TzBfG
+- Paragraf 102 BetrVG
+- Paragraf 4 KSchG
+- Paragraf 1 KSchG
+- Paragraf 17 TzBfG
+- Paragraf 26 BDSG
+- Paragraf 12 KSchG
+- Paragraf 9 KSchG
+- Paragraf 7 KSchG
+- Paragraf 15 AGG
+- Paragraf 23 KSchG
+- Paragraf 22 AGG
 
 ### Leitentscheidungen
 

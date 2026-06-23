@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Schriftform/Textform BGB: ordnet Rolle (Vertragsparteien), markiert Frist (Form vor Wirksamkeit), wählt Norm (§§ 126/126a und 126b BGB, § 127 BGB, § 130 BGB Zugang) und Zuständigkeit (Zivilgerichte), leitet zum passenden Spezial-Skill."
+description: "Einstieg, Triage und Routing für Schriftform/Textform BGB: ordnet Rolle (Vertragsparteien), markiert Frist (Form vor Wirksamkeit), wählt Norm (Paragrafen 126/126a und 126b BGB, Paragraf 127 BGB, Paragraf 130 BGB Zugang) und Zuständigkeit (Zivilgerichte), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing

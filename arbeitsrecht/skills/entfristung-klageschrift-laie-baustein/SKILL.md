@@ -20,15 +20,15 @@ description: "Schritt-für-Schritt Klageschrift Entfristungsklage für Laien: Ru
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Klageschrift Entfristungsklage — Laien-Baustein` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Triage zu Beginn — kläre vor dem Ausfüllen der Vorlage
 
-1. Wann endet der Vertrag laut Urkunde? (§ 17 TzBfG-Frist läuft ab diesem Datum)
+1. Wann endet der Vertrag laut Urkunde? (Paragraf 17 TzBfG-Frist läuft ab diesem Datum)
 2. Welcher Unwirksamkeitsgrund liegt vor? (Schriftformmangel / kein Sachgrund / Vorbeschäftigung)
 3. Hast du eine Kopie des Arbeitsvertrags? (als Anlage K 1 beifügen)
 4. Hast du einen Beleg für die Art der Unterzeichnung? (E-Mail, Screenshot Signier-Portal)
@@ -37,11 +37,11 @@ description: "Schritt-für-Schritt Klageschrift Entfristungsklage für Laien: Ru
 
 ## Zentrale Normen
 
-- § 17 TzBfG — Klagefrist 3 Wochen ab vereinbartem Vertragsende (absolute Ausschlussfrist)
-- §§ 14 Abs. 4, 16 TzBfG — Schriftformerfordernis und Rechtsfolge Unwirksamkeit
-- § 14 Abs. 2 Satz 2 TzBfG — Vorbeschäftigungsverbot
-- § 42 Abs. 2 GKG — Streitwert (3 Monatsverdienste)
-- § 11 Abs. 1 ArbGG — kein Anwaltszwang in erster Instanz
+- Paragraf 17 TzBfG — Klagefrist 3 Wochen ab vereinbartem Vertragsende (absolute Ausschlussfrist)
+- Paragrafen 14 Abs. 4, 16 TzBfG — Schriftformerfordernis und Rechtsfolge Unwirksamkeit
+- Paragraf 14 Abs. 2 Satz 2 TzBfG — Vorbeschäftigungsverbot
+- Paragraf 42 Abs. 2 GKG — Streitwert (3 Monatsverdienste)
+- Paragraf 11 Abs. 1 ArbGG — kein Anwaltszwang in erster Instanz
 
 ## Wichtige Rechtsprechung (für Begründung verwendbar)
 
@@ -68,7 +68,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 Dieses Dokument ist ein Entwurf. Es begründet kein Mandatsverhältnis. Das System übernimmt keine rechtliche Verantwortung.
 
-**Drei-Wochen-Frist § 17 TzBfG:** Klage muss innerhalb von drei Wochen **nach dem vereinbarten Vertragsende** beim Arbeitsgericht eingehen. Fristversäumnis führt nach § 7 KSchG analog zur Wirksamkeit der Befristung.
+**Drei-Wochen-Frist Paragraf 17 TzBfG:** Klage muss innerhalb von drei Wochen **nach dem vereinbarten Vertragsende** beim Arbeitsgericht eingehen. Fristversäumnis führt nach Paragraf 7 KSchG analog zur Wirksamkeit der Befristung.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
 
@@ -90,7 +90,7 @@ gegen
 
 — Beklagte/r —
 
-**Streitwert:** Vorläufig [3 × MONATSLOHN] EUR (§ 42 Abs. 2 GKG)
+**Streitwert:** Vorläufig [3 × MONATSLOHN] EUR (Paragraf 42 Abs. 2 GKG)
 
 ---
 
@@ -120,14 +120,14 @@ Die Befristung ist aus folgendem Grund unwirksam:
 
 [HIER BEGRÜNDUNG EINTRAGEN — Bausteine:]
 
-**Option A — Schriftformmangel (§ 14 Abs. 4 TzBfG):**
-Die Befristungsabrede wurde nicht in der nach § 14 Abs. 4 TzBfG erforderlichen Schriftform (§ 126 BGB) vereinbart. Der Arbeitsvertrag wurde [BESCHREIBUNG: z.B. per E-Mail zugesandt / über die Plattform DocuSign unterzeichnet / nur eingescannt übermittelt]. Eine eigenhändige Unterschrift auf einer Originalurkunde liegt nicht vor. Gemäß § 16 Satz 1 TzBfG gilt der Arbeitsvertrag daher als auf unbestimmte Zeit geschlossen.
+**Option A — Schriftformmangel (Paragraf 14 Abs. 4 TzBfG):**
+Die Befristungsabrede wurde nicht in der nach Paragraf 14 Abs. 4 TzBfG erforderlichen Schriftform (Paragraf 126 BGB) vereinbart. Der Arbeitsvertrag wurde [BESCHREIBUNG: z.B. per E-Mail zugesandt / über die Plattform DocuSign unterzeichnet / nur eingescannt übermittelt]. Eine eigenhändige Unterschrift auf einer Originalurkunde liegt nicht vor. Gemäß Paragraf 16 Satz 1 TzBfG gilt der Arbeitsvertrag daher als auf unbestimmte Zeit geschlossen.
 
-**Option B — Fehlender Sachgrund (§ 14 Abs. 1 TzBfG):**
-Ein Sachgrund für die Befristung nach § 14 Abs. 1 TzBfG liegt nicht vor. [ERLÄUTERN WARUM — z.B.: Ein vorübergehender Beschäftigungsbedarf war nicht gegeben; die Beklagte beschäftigt auch nach dem vereinbarten Vertragsende Arbeitnehmer in gleicher Position].
+**Option B — Fehlender Sachgrund (Paragraf 14 Abs. 1 TzBfG):**
+Ein Sachgrund für die Befristung nach Paragraf 14 Abs. 1 TzBfG liegt nicht vor. [ERLÄUTERN WARUM — z.B.: Ein vorübergehender Beschäftigungsbedarf war nicht gegeben; die Beklagte beschäftigt auch nach dem vereinbarten Vertragsende Arbeitnehmer in gleicher Position].
 
-**Option C — Verstoß gegen Vorbeschäftigungsverbot (§ 14 Abs. 2 Satz 2 TzBfG):**
-Ich war bereits vor diesem befristeten Vertrag bei der Beklagten beschäftigt ([ZEITRAUM DER VORBESCHÄFTIGUNG]), sodass das Vorbeschäftigungsverbot des § 14 Abs. 2 Satz 2 TzBfG verletzt ist.
+**Option C — Verstoß gegen Vorbeschäftigungsverbot (Paragraf 14 Abs. 2 Satz 2 TzBfG):**
+Ich war bereits vor diesem befristeten Vertrag bei der Beklagten beschäftigt ([ZEITRAUM DER VORBESCHÄFTIGUNG]), sodass das Vorbeschäftigungsverbot des Paragraf 14 Abs. 2 Satz 2 TzBfG verletzt ist.
 
 **IV. Beweisangebote**
 

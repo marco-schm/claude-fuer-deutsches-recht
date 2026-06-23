@@ -21,8 +21,8 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `/arbeitsrecht:arbeitsrecht-kaltstart-interview` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -68,11 +68,11 @@ Alle folgenden Fragen in einem einzigen Prompt stellen:
 >
 > - Bundesländer (mit ca. Mitarbeiterzahl je Bundesland)
 > - Ausländische Standorte (für Entsendung/AÜG-Prüfung)
-> - Gesamtmitarbeiterzahl (maßgeblich für KSchG-Schwellenwert § 23 KSchG: > 10 AN)
+> - Gesamtmitarbeiterzahl (maßgeblich für KSchG-Schwellenwert Paragraf 23 KSchG: > 10 AN)
 > - Remote-first oder überwiegend Präsenz?
 
 Aus den Angaben ermitteln:
-- Gilt das KSchG allgemein? (§ 23 KSchG: > 10 AN, Beschäftigung > 6 Monate)
+- Gilt das KSchG allgemein? (Paragraf 23 KSchG: > 10 AN, Beschäftigung > 6 Monate)
 - Tarifbindung? Welche Tarifverträge?
 - Betriebsrat vorhanden? Ggf. Sprecherausschuss (SprAuG)?
 - Besondere Kündigungsschutzträger im Betrieb? (Schwerbehinderte, Betriebsratsmitglieder, Datenschutzbeauftragte)
@@ -82,7 +82,7 @@ Aus den Angaben ermitteln:
 > - Wann prüft die Rechtsabteilung Einstellungen? (alle / nur Führungskräfte / nur bei Befristung)
 > - Gibt es ein Standard-Arbeitsvertragsmuster?
 > - Wann prüft die Rechtsabteilung Kündigungen? (alle / nur bei KSchG / RIF / Führungskräfte)
-> - Standard-Abfindungsformel? (0,5 × Bruttomonatsgehalt × Beschäftigungsjahre nach § 1a KSchG oder Einzelvereinbarung)
+> - Standard-Abfindungsformel? (0,5 × Bruttomonatsgehalt × Beschäftigungsjahre nach Paragraf 1a KSchG oder Einzelvereinbarung)
 > - Aufhebungsvertrag als Standard? Musterstandort?
 
 **Teil 4 – Seed-Dokumente**
@@ -111,13 +111,13 @@ Alle gesammelten Informationen in `~/.claude/plugins/config/claude-fuer-deutsche
 ## Quellen und Zitierweise
 
 Einschlägige Normen für die Eskalationstabelle:
-- KSchG § 23 (Schwellenwert > 10 AN), § 1 (Kündigungsschutz), § 17 (Massenentlassung)
-- BetrVG § 102 (BR-Anhörung vor Kündigung), § 99 (Zustimmung bei Einstellung)
-- SGB IX § 168 (Zustimmung Inklusionsamt bei Schwerbehinderung)
-- MuSchG § 17 (Kündigungsverbot Schwangerschaft)
-- BEEG § 18 (Kündigungsverbot Elternzeit)
-- KSchG § 15 (Sonderkündigungsschutz BR-Mitglieder)
-- BDSG § 26 (Beschäftigtendatenschutz)
+- KSchG Paragraf 23 (Schwellenwert > 10 AN), Paragraf 1 (Kündigungsschutz), Paragraf 17 (Massenentlassung)
+- BetrVG Paragraf 102 (BR-Anhörung vor Kündigung), Paragraf 99 (Zustimmung bei Einstellung)
+- SGB IX Paragraf 168 (Zustimmung Inklusionsamt bei Schwerbehinderung)
+- MuSchG Paragraf 17 (Kündigungsverbot Schwangerschaft)
+- BEEG Paragraf 18 (Kündigungsverbot Elternzeit)
+- KSchG Paragraf 15 (Sonderkündigungsschutz BR-Mitglieder)
+- BDSG Paragraf 26 (Beschäftigtendatenschutz)
 
 Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-buergerliches-recht.md`.
 
@@ -142,9 +142,9 @@ Standorte:
 
 Eskalationstabelle:
  Betriebsbedingte Kündigung → immer GC + Außenberater
- Kündigung Schwerbehinderte → immer Inklusionsamt § 168 SGB IX
- Kündigung BR-Mitglied → immer § 15 KSchG prüfen, GC
- Kündigung Schwangerschaft → § 17 MuSchG Zustimmung Behörde
+ Kündigung Schwerbehinderte → immer Inklusionsamt Paragraf 168 SGB IX
+ Kündigung BR-Mitglied → immer Paragraf 15 KSchG prüfen, GC
+ Kündigung Schwangerschaft → Paragraf 17 MuSchG Zustimmung Behörde
  [...]
 
 Seed-Dokumente gelesen: [N]
@@ -178,6 +178,6 @@ Konfiguration gespeichert: ~/.claude/plugins/config/claude-fuer-deutsches-recht/
 ## Risiken / typische Fehler
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **Tarifbindung übersehen.** Nachwirkung (§ 4 Abs. 5 TVG), Allgemeinverbindlicherklärung (§ 5 TVG) oder Bezugnahmeklausel im Arbeitsvertrag können Tarifrecht anwendbar machen, ohne Verbandsmitgliedschaft.
-- **Betriebsrat-Situation unklar.** Betriebsrat kann auch in kleinen Betrieben (ab 5 wahlberechtigten AN) gewählt werden (§ 1 BetrVG). Auf § 102 BetrVG hinweisen, sobald Kündigung im Raum steht.
-- **Datenschutz bei Seed-Dokumenten.** Kündigungsunterlagen sind personenbezogen; § 26 BDSG. Anonymisierung oder Pseudonymisierung empfehlen.
+- **Tarifbindung übersehen.** Nachwirkung (Paragraf 4 Abs. 5 TVG), Allgemeinverbindlicherklärung (Paragraf 5 TVG) oder Bezugnahmeklausel im Arbeitsvertrag können Tarifrecht anwendbar machen, ohne Verbandsmitgliedschaft.
+- **Betriebsrat-Situation unklar.** Betriebsrat kann auch in kleinen Betrieben (ab 5 wahlberechtigten AN) gewählt werden (Paragraf 1 BetrVG). Auf Paragraf 102 BetrVG hinweisen, sobald Kündigung im Raum steht.
+- **Datenschutz bei Seed-Dokumenten.** Kündigungsunterlagen sind personenbezogen; Paragraf 26 BDSG. Anonymisierung oder Pseudonymisierung empfehlen.

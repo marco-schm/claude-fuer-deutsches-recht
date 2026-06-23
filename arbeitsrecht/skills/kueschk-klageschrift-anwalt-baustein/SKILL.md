@@ -20,33 +20,33 @@ description: "Anwaltliche Klageschrift Kündigungsschutzklage: Klageschrift mit 
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Klageschrift — Anwaltliche Version` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Triage zu Beginn — kläre vor Klageschrifterstellung
 
-1. Drei-Wochen-Frist § 4 KSchG gewahrt? (Zugang + 21 Tage)
-2. KSchG anwendbar? (§ 23 KSchG: > 10 Arbeitnehmer; § 1 Abs. 1 KSchG: > 6 Monate)
+1. Drei-Wochen-Frist Paragraf 4 KSchG gewahrt? (Zugang + 21 Tage)
+2. KSchG anwendbar? (Paragraf 23 KSchG: > 10 Arbeitnehmer; Paragraf 1 Abs. 1 KSchG: > 6 Monate)
 3. Sonderkündigungsschutz vorhanden? (Schwangerschaft, BR-Mitglied, SGB IX etc.)
-4. Formfehler vorhanden? (§ 623 BGB; § 174 BGB; § 102 BetrVG)
+4. Formfehler vorhanden? (Paragraf 623 BGB; Paragraf 174 BGB; Paragraf 102 BetrVG)
 5. Welcher Haupt-Angriffspunkt? (Formfehler / KSchG-Anwendbarkeit / materieller Grund)
 6. Weiterbeschäftigungsantrag stellen? (nur wenn Mandant tatsächlich zurück will)
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
-- § 4 Satz 1 KSchG — Klagefrist 3 Wochen ab Zugang
-- § 7 KSchG — Fiktion der Wirksamkeit bei Fristversäumnis
-- § 1 Abs. 2 KSchG — Soziale Rechtfertigung (betriebs-, personen-, verhaltensbedingt)
-- § 23 Abs. 1 KSchG — Geltungsbereich (> 10 Arbeitnehmer)
-- § 102 BetrVG — BR-Anhörung; Unwirksamkeit ohne ordnungsgemäße Anhörung
-- § 623 BGB — Schriftformerfordernis Kündigung
-- § 42 Abs. 2 GKG — Streitwert: 3 Bruttomonatsgehalter
-- § 12a ArbGG — kein Kostenerstattungsanspruch erste Instanz
-- § 256 ZPO — allgemeiner Feststellungsantrag (sog. Schleppnetz)
+- Paragraf 4 Satz 1 KSchG — Klagefrist 3 Wochen ab Zugang
+- Paragraf 7 KSchG — Fiktion der Wirksamkeit bei Fristversäumnis
+- Paragraf 1 Abs. 2 KSchG — Soziale Rechtfertigung (betriebs-, personen-, verhaltensbedingt)
+- Paragraf 23 Abs. 1 KSchG — Geltungsbereich (> 10 Arbeitnehmer)
+- Paragraf 102 BetrVG — BR-Anhörung; Unwirksamkeit ohne ordnungsgemäße Anhörung
+- Paragraf 623 BGB — Schriftformerfordernis Kündigung
+- Paragraf 42 Abs. 2 GKG — Streitwert: 3 Bruttomonatsgehalter
+- Paragraf 12a ArbGG — kein Kostenerstattungsanspruch erste Instanz
+- Paragraf 256 ZPO — allgemeiner Feststellungsantrag (sog. Schleppnetz)
 
 ## Aktuelle Rechtsprechung
 
@@ -56,11 +56,11 @@ description: "Anwaltliche Klageschrift Kündigungsschutzklage: Klageschrift mit 
 ## Vorprüfung (Checkliste)
 
 Vor Einreichung sicherstellen:
-- [ ] Drei-Wochen-Frist § 4 KSchG gewahrt
-- [ ] KSchG-Geltungsbereich geprüft (§§ 1, 23 KSchG)
+- [ ] Drei-Wochen-Frist Paragraf 4 KSchG gewahrt
+- [ ] KSchG-Geltungsbereich geprüft (Paragrafen 1, 23 KSchG)
 - [ ] Sonderkündigungsschutz geprüft
-- [ ] Formfehler geprüft (§§ 623 BGB, 174 BGB, 102 BetrVG)
-- [ ] Mandant über Kostenrisiko belehrt (§ 12a ArbGG: kein Kostenerstattungsanspruch erste Instanz)
+- [ ] Formfehler geprüft (Paragrafen 623 BGB, 174 BGB, 102 BetrVG)
+- [ ] Mandant über Kostenrisiko belehrt (Paragraf 12a ArbGG: kein Kostenerstattungsanspruch erste Instanz)
 - [ ] Vollmacht vorliegen
 
 ## Strategische Optionen (vor dem Template entscheiden)
@@ -70,7 +70,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Kuendigungsschutzklage fachgerecht erheben | Klageschrift-Muster unten; Drei-Wochen-Frist absolut einhalten |
-| Variante A — Mandant will Abfindung nicht Weiterbeschaeftigung | Aufloeungsantrag § 9 KSchG einbeziehen; kooperativen Schlussabsatz nutzen |
+| Variante A — Mandant will Abfindung nicht Weiterbeschaeftigung | Aufloeungsantrag Paragraf 9 KSchG einbeziehen; kooperativen Schlussabsatz nutzen |
 | Variante B — starke Unwirksamkeitsgruende (BR-Fehler) | Auf guten Vergleich hinarbeiten statt streitigem Verfahren |
 | Variante C — Betriebsrat nicht beteiligt | Unwirksamkeit fast sicher; Klage als Verhandlungsmasse einsetzen |
 
@@ -100,7 +100,7 @@ gegen
 
 — Beklagte —
 
-**Streitwert:** Vorläufig [3 × BMONAT] EUR (§ 42 Abs. 2 GKG, drei Bruttomonatslöhne)
+**Streitwert:** Vorläufig [3 × BMONAT] EUR (Paragraf 42 Abs. 2 GKG, drei Bruttomonatslöhne)
 
 ---
 
@@ -108,14 +108,14 @@ gegen
 
 Der Kläger beantragt:
 
-1. Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die Kündigung der Beklagten vom [DATUM], zugegangen am [DATUM], nicht aufgelöst worden ist (§ 4 Satz 1 KSchG).
+1. Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die Kündigung der Beklagten vom [DATUM], zugegangen am [DATUM], nicht aufgelöst worden ist (Paragraf 4 Satz 1 KSchG).
 
-2. Es wird festgestellt, dass das Arbeitsverhältnis der Parteien auch nicht durch andere Beendigungsgründe aufgelöst worden ist, sondern über den [DATUM] hinaus zu unveränderten Bedingungen fortbesteht (§ 256 ZPO — allgemeiner Feststellungsantrag, sog. Schleppnetz).
+2. Es wird festgestellt, dass das Arbeitsverhältnis der Parteien auch nicht durch andere Beendigungsgründe aufgelöst worden ist, sondern über den [DATUM] hinaus zu unveränderten Bedingungen fortbesteht (Paragraf 256 ZPO — allgemeiner Feststellungsantrag, sog. Schleppnetz).
 
 1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 [Hilfsweise zu Antrag 3:]
-3a. [Hilfsweise: Weiterbeschäftigung nach § 102 Abs. 5 BetrVG, sofern BR-Widerspruch vorliegt]
+3a. [Hilfsweise: Weiterbeschäftigung nach Paragraf 102 Abs. 5 BetrVG, sofern BR-Widerspruch vorliegt]
 
 ---
 
@@ -123,15 +123,15 @@ Der Kläger beantragt:
 
 **A. Sachverhalt**
 
-Der Kläger ist seit dem [DATUM] bei der Beklagten beschäftigt (Bl. [X] d.A., Anlage K 1). Das monatliche Bruttogehalt beläuft sich auf [BETRAG] EUR. Der Betrieb der Beklagten beschäftigt regelmäßig mehr als zehn Arbeitnehmer i.S.d. § 23 Abs. 1 KSchG.
+Der Kläger ist seit dem [DATUM] bei der Beklagten beschäftigt (Bl. [X] d.A., Anlage K 1). Das monatliche Bruttogehalt beläuft sich auf [BETRAG] EUR. Der Betrieb der Beklagten beschäftigt regelmäßig mehr als zehn Arbeitnehmer i.S.d. Paragraf 23 Abs. 1 KSchG.
 
 Am [DATUM] erhielt der Kläger die Kündigung der Beklagten (Anlage K 2). Die Kündigung wurde zum [DATUM] ausgesprochen.
 
 **B. Anwendbarkeit des KSchG**
 
-Das KSchG ist gemäß § 1 Abs. 1 KSchG anwendbar. Die Wartezeit von sechs Monaten ist mit einer Beschäftigungszeit seit [DATUM] erfüllt. Die Betriebsgröße überschreitet die Schwelle des § 23 Abs. 1 KSchG.
+Das KSchG ist gemäß Paragraf 1 Abs. 1 KSchG anwendbar. Die Wartezeit von sechs Monaten ist mit einer Beschäftigungszeit seit [DATUM] erfüllt. Die Betriebsgröße überschreitet die Schwelle des Paragraf 23 Abs. 1 KSchG.
 
-**C. Fehlende soziale Rechtfertigung (§ 1 Abs. 2 KSchG)**
+**C. Fehlende soziale Rechtfertigung (Paragraf 1 Abs. 2 KSchG)**
 
 [HIER EINZUFÜGEN — betriebsbedingt / personenbedingt / verhaltensbedingt — je nach Fall:]
 

@@ -1,9 +1,9 @@
 ---
 name: fazugang-neu-007-arbeitnehmerverteidigung-zugang-bestreiten-ohne
-description: "Arbeitnehmerverteidigung: Zugang bestreiten ohne unwahre Behauptungen — zulässige Einwände, Beweislastverteilung, § 138 ZPO-Wahrheitspflicht, Strategie für Fristverteidigung, nachträgliche Zulassung § 5 KSchG: Arbeitnehmerverteidigung: Zugang bestreiten oh..."
+description: "Arbeitnehmerverteidigung: Zugang bestreiten ohne unwahre Behauptungen — zulässige Einwände, Beweislastverteilung, Paragraf 138 ZPO-Wahrheitspflicht, Strategie für Fristverteidigung, nachträgliche Zulassung Paragraf 5 KSchG: Arbeitnehmerverteidigung: Zugang bestreiten oh..."
 ---
 
-# Arbeitnehmerverteidigung: Zugang bestreiten ohne unwahre Behauptungen — zulässige Einwände, Beweislastverteilung, § 138 ZPO-Wahrheitspflicht, Strategie für Fristverteidigung, nachträgliche Zulassung § 5 KSchG.
+# Arbeitnehmerverteidigung: Zugang bestreiten ohne unwahre Behauptungen — zulässige Einwände, Beweislastverteilung, Paragraf 138 ZPO-Wahrheitspflicht, Strategie für Fristverteidigung, nachträgliche Zulassung Paragraf 5 KSchG.
 
 
 ## Arbeitsweg
@@ -14,14 +14,14 @@ description: "Arbeitnehmerverteidigung: Zugang bestreiten ohne unwahre Behauptun
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Arbeitnehmerverteidigung: Zugang bestreiten ohne unwahre Behauptungen — zulässige Einwände, Beweislastverteilung, § 138 ZPO-Wahrheitspflicht, Strategie für Fristverteidigung, nachträgliche Zulassung § 5 KSchG.
+**Fokus:** Arbeitnehmerverteidigung: Zugang bestreiten ohne unwahre Behauptungen — zulässige Einwände, Beweislastverteilung, Paragraf 138 ZPO-Wahrheitspflicht, Strategie für Fristverteidigung, nachträgliche Zulassung Paragraf 5 KSchG.
 
 ### Arbeitnehmerverteidigung — Zugang bestreiten ohne Unwahrheit
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Arbeitnehmerverteidigung — Zugang bestreiten ohne Unwahrheit` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -37,11 +37,11 @@ Wenn ein Sachverhalt vorliegt, zuerst klären:
 
 ## Rechtlicher Rahmen
 
-### § 138 ZPO — Wahrheitspflicht
-Jede Partei im Prozess ist verpflichtet, wahrheitsgemäß vorzutragen (§ 138 Abs. 1 ZPO). Wissentlich falsche Tatsachenbehauptungen sind prozesswidrig und können strafrechtliche Konsequenzen haben (§ 263 StGB bei Vermögensvorteil durch Prozessbetrug).
+### Paragraf 138 ZPO — Wahrheitspflicht
+Jede Partei im Prozess ist verpflichtet, wahrheitsgemäß vorzutragen (Paragraf 138 Abs. 1 ZPO). Wissentlich falsche Tatsachenbehauptungen sind prozesswidrig und können strafrechtliche Konsequenzen haben (Paragraf 263 StGB bei Vermögensvorteil durch Prozessbetrug).
 
 **Was ist zulässig:**
-- Tatsachen mit Nichtwissen bestreiten, wenn die eigene Wahrnehmung begrenzt war (§ 138 Abs. 4 ZPO)
+- Tatsachen mit Nichtwissen bestreiten, wenn die eigene Wahrnehmung begrenzt war (Paragraf 138 Abs. 4 ZPO)
 - Wahre Tatsachen vortragen, die den Zugangszeitpunkt in Frage stellen
 - Beweislast des Arbeitgebers einfordern
 
@@ -63,19 +63,19 @@ Jede Partei im Prozess ist verpflichtet, wahrheitsgemäß vorzutragen (§ 138 Ab
 - Behauptung: Briefkasten war während der Abwesenheit nicht zugänglich, keine bevollmächtigte Person
 
 ### Strategie 3: Schriftformfehler aufzeigen
-- War die Kündigung original unterschrieben? (§ 623 BGB)
-- War der Unterzeichner befugt? Vollmacht im Original beigefügt? (§ 174 BGB)
-- **Wichtig:** Zurückweisung der mangelhaften Vollmacht sofort nach Empfang (§ 174 Satz 2 BGB: „unverzüglich")
+- War die Kündigung original unterschrieben? (Paragraf 623 BGB)
+- War der Unterzeichner befugt? Vollmacht im Original beigefügt? (Paragraf 174 BGB)
+- **Wichtig:** Zurückweisung der mangelhaften Vollmacht sofort nach Empfang (Paragraf 174 Satz 2 BGB: „unverzüglich")
 
 ### Strategie 4: Beweislast des Arbeitgebers einfordern
 - Arbeitgeber muss Zugangszeitpunkt und -art beweisen
 - Fehlen Beweisvermerk, Zeuge oder Sendungsverfolgung → Arbeitgeber hat ein Beweisproblem
 - Sachvortrag: „Den Vortrag des Arbeitgebers zum Zugangsdatum bestreite ich mit Nichtwissen, da mir hierzu keine Wahrnehmung vorliegt."
 
-### Strategie 5: Nachträgliche Zulassung § 5 KSchG beantragen
+### Strategie 5: Nachträgliche Zulassung Paragraf 5 KSchG beantragen
 - Wenn die Klagefrist tatsächlich unverschuldet versäumt wurde (z.B. Klinikaufenthalt, Ausland ohne Kenntnis vom Zugang)
 - Antrag innerhalb von 2 Wochen nach Wegfall des Hindernisses
-- Glaubhaftmachung der Umstände (§ 5 Abs. 2 KSchG)
+- Glaubhaftmachung der Umstände (Paragraf 5 Abs. 2 KSchG)
 
 ## Abgrenzung zulässiger Einwand vs. unzulässige Behauptung
 
@@ -85,8 +85,8 @@ Jede Partei im Prozess ist verpflichtet, wahrheitsgemäß vorzutragen (§ 138 Ab
 | „Der Briefkasten war durch [dokumentiertes Ereignis] nicht zugänglich" | Ja | Wahrheitsgemäße Tatsache |
 | „Der Arbeitgeber hat keinen ausreichenden Zugangsbeweis" | Ja | Rechtliche Schlussfolgerung aus Beweislage |
 | „Ich war bis [Datum] im Urlaub" (wahr, mit Belegen) | Ja | Wahrheitsgemäß, belegbar |
-| „Ich habe den Brief nie erhalten" (obwohl man ihn hat) | Nein | § 138 ZPO; ggf. § 263 StGB |
-| „Der Umschlag war leer" (obwohl Kündigung enthalten war) | Nein | § 138 ZPO; ggf. § 263 StGB |
+| „Ich habe den Brief nie erhalten" (obwohl man ihn hat) | Nein | Paragraf 138 ZPO; ggf. Paragraf 263 StGB |
+| „Der Umschlag war leer" (obwohl Kündigung enthalten war) | Nein | Paragraf 138 ZPO; ggf. Paragraf 263 StGB |
 
 ## Mandantengespräch: Aufklärungspflicht
 
@@ -100,7 +100,7 @@ Der Anwalt ist verpflichtet, den Mandanten über die Wahrheitspflicht im Prozess
 | Klage beim Arbeitsgericht einreichen | Möglichst früh, jedenfalls vor Fristablauf |
 | Zugangsdatum im Prozess bestreiten | In der Klageschrift oder spätestens im Gütetermin |
 | Beweise für Abwesenheit sichern | Sofort (Belege sammeln) |
-| § 5 KSchG-Antrag | Innerhalb 2 Wochen nach Wegfall des Hindernisses |
+| Paragraf 5 KSchG-Antrag | Innerhalb 2 Wochen nach Wegfall des Hindernisses |
 
 ## Anschluss-Skills
 - `fazugang-neu-005-kuendigungsfrist-berechnen-bei-unsicherem-zugang` für Fristberechnung

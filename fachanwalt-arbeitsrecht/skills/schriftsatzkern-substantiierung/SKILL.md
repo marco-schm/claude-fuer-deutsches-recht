@@ -20,8 +20,8 @@ description: "Substantiierter Schriftsatzkern für Kündigungsschutzklage, Befri
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Schriftsatzkern und Substantiierung im Individual- und kollektives Arbeitsrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -64,7 +64,7 @@ Der Substantiierungs-Kern; pro Anspruchsgrundlage in KSchG, TzBfG, BetrVG, BGB, 
 
 Anspruchsaufbau klassisch:
 
-1. **Anspruchsgrundlage** nennen (z.B. § X iVm § Y).
+1. **Anspruchsgrundlage** nennen (z.B. Paragraf X iVm Paragraf Y).
 2. **Tatbestandsmerkmale** durchgehen; jedes Merkmal wird gegen den Tatsachenvortrag gespiegelt.
 3. **Einwendungen** der Gegenseite vorwegnehmen und entkraeften.
 4. **Rechtsprechungs-Verweise:** BAG/BGH/BVerfG/EuGH/BFH je nach Fachgebiet; bei Individual- und kollektives Arbeitsrecht typischerweise die letzte hoechstrichterliche Linie zitieren.
@@ -74,10 +74,10 @@ Anspruchsaufbau klassisch:
 
 Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 
-- Urkundenbeweis: konkrete Anlage Kxx benennen, Inhalt nicht nur "Vertrag" sondern "Vertrag vom TT.MM.JJJJ, dort § X Abs. Y, Anlage K1".
+- Urkundenbeweis: konkrete Anlage Kxx benennen, Inhalt nicht nur "Vertrag" sondern "Vertrag vom TT.MM.JJJJ, dort Paragraf X Abs. Y, Anlage K1".
 - Zeugenbeweis: Name, ladungsfaehige Anschrift, Beweisthema in einem Satz.
 - Sachverstaendigenbeweis: ggf. Privatgutachten mit anfuegen, gerichtliches Gutachten beantragen.
-- Parteivernehmung als letzte Stufe, mit Antrag § 448 ZPO und Indiziengeruest.
+- Parteivernehmung als letzte Stufe, mit Antrag Paragraf 448 ZPO und Indiziengeruest.
 - Inaugenscheinnahme: bei Sache vor Ort (Mietraum, Baustelle, Fahrzeug, Hardware).
 
 ### F. Anlagenverzeichnis
@@ -92,7 +92,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 - **Pauschaltatsachen** ohne konkrete Daten ("seit Jahren", "regelmaessig", "in mehreren Faellen") werden vom Gericht uebergangen.
 - **Beweisangebot zur falschen Tatsache:** Beweisthema deckt nur Teilaussage ab.
 - **Selbst-widersprueche** zwischen Schriftsatz und Anlage ("Im Vertrag steht doch was anderes").
-- **Verspaeteter Vortrag** § 296 ZPO/§ 87b VwGO: Rueglich-Fristen beachten, Verschulden vermeiden.
+- **Verspaeteter Vortrag** Paragraf 296 ZPO/Paragraf 87b VwGO: Rueglich-Fristen beachten, Verschulden vermeiden.
 - **Anspruchskonkurrenz** zwischen mehreren Grundlagen: nicht eine wegfallen lassen.
 
 ## Prüfkette vor Versand
@@ -167,7 +167,7 @@ Typische Antraege in Individual- und kollektives Arbeitsrecht (Kuendigungsschutz
 - Privatgutachten als Anlage K vorlegen + zugleich gerichtliches Gutachten beantragen.
 - Verfahrensoekonomie: Sachverstaendigen-Kosten frueh mit Mandantin besprechen.
 
-### Parteivernehmung (§ 448 ZPO)
+### Parteivernehmung (Paragraf 448 ZPO)
 
 - Letzte Stufe, nur wenn andere Beweismittel ausgeschoepft.
 - Indiziengeruest vortragen, das eine gewisse Wahrscheinlichkeit der Behauptung tragt.
@@ -233,8 +233,8 @@ Vor Schriftsatzverwendung jeweils Volltext und ggf. neuere Rechtsprechung in off
 
 ## Paragrafenkette Schriftsatz-Grundlagen
 
-- § 130 ZPO — Inhalt vorbereitender Schriftsätze
-- § 130a ZPO i.V.m. § 46c ArbGG — Elektronisches Dokument, beA-Einreichung
-- § 138 ZPO — Wahrheitspflicht und vollständige Tatsachenangabe
-- § 296 ZPO — Verspäteter Vortrag (mit Präklusion)
-- § 86 Abs. 2 ArbGG — Präklusion im Arbeitsgerichtsverfahren
+- Paragraf 130 ZPO — Inhalt vorbereitender Schriftsätze
+- Paragraf 130a ZPO i.V.m. Paragraf 46c ArbGG — Elektronisches Dokument, beA-Einreichung
+- Paragraf 138 ZPO — Wahrheitspflicht und vollständige Tatsachenangabe
+- Paragraf 296 ZPO — Verspäteter Vortrag (mit Präklusion)
+- Paragraf 86 Abs. 2 ArbGG — Präklusion im Arbeitsgerichtsverfahren

@@ -9,16 +9,16 @@ description: "Prozessablauf: Mandantenkommunikation und Entscheidungsvorlage."
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-- `§ 1353 Abs. 1 BGB` — eheliche Lebensgemeinschaft.
-- `§ 1360 BGB` — Familienunterhalt.
-- `§ 1565 Abs. 1 BGB` — Scheidung.
-- `§ 1570 BGB` — Betreuungsunterhalt.
-- `§ 1601 BGB` — Verwandtenunterhalt.
-- `§ 1626 Abs. 1 BGB` — elterliche Sorge.
-- `§ 1671 BGB` — Sorgerechtsuebertragung.
-- `§ 1684 BGB` — Umgangsrecht.
-- `§ 23a Abs. 1 GVG` — Familiengerichtsbarkeit.
-- `§ 113 FamFG` — Verfahrensregeln in Familienstreitsachen.
+- `Paragraf 1353 Abs. 1 BGB` — eheliche Lebensgemeinschaft.
+- `Paragraf 1360 BGB` — Familienunterhalt.
+- `Paragraf 1565 Abs. 1 BGB` — Scheidung.
+- `Paragraf 1570 BGB` — Betreuungsunterhalt.
+- `Paragraf 1601 BGB` — Verwandtenunterhalt.
+- `Paragraf 1626 Abs. 1 BGB` — elterliche Sorge.
+- `Paragraf 1671 BGB` — Sorgerechtsuebertragung.
+- `Paragraf 1684 BGB` — Umgangsrecht.
+- `Paragraf 23a Abs. 1 GVG` — Familiengerichtsbarkeit.
+- `Paragraf 113 FamFG` — Verfahrensregeln in Familienstreitsachen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 

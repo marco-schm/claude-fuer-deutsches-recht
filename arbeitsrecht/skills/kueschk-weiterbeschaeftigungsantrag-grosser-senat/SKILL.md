@@ -28,14 +28,14 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Weiterbeschaeftigungsantrag nach BAG Großer Senat 1985: Voraussetzungen des allgemeinen Weiterbeschaeftigungsanspruchs; Vor- und Nachteile aus Arbeitnehmersicht; Vollstreckung; Unterschied zum § 102 Abs. 5 BetrVG Anspruch.
+**Fokus:** Weiterbeschaeftigungsantrag nach BAG Großer Senat 1985: Voraussetzungen des allgemeinen Weiterbeschaeftigungsanspruchs; Vor- und Nachteile aus Arbeitnehmersicht; Vollstreckung; Unterschied zum Paragraf 102 Abs. 5 BetrVG Anspruch.
 
 ### Weiterbeschäftigungsantrag — Großer Senat BAG 1985
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Weiterbeschäftigungsantrag — Großer Senat BAG 1985` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -60,15 +60,15 @@ Das Interesse des Arbeitnehmers an tatsächlicher Beschäftigung überwiegt in d
 ## Triage zu Beginn — kläre vor Beratung zum Weiterbeschaeftigungsantrag
 
 1. Hat das Arbeitsgericht die Kündigung bereits erstinstanzlich für unwirksam erklärt?
-2. Besteht ein Betriebsrat, der der Kündigung ordnungsgemäß widersprochen hat (§ 102 Abs. 5 BetrVG)?
+2. Besteht ein Betriebsrat, der der Kündigung ordnungsgemäß widersprochen hat (Paragraf 102 Abs. 5 BetrVG)?
 3. Will der Arbeitnehmer tatsächlich in den Betrieb zurück (keine Stricken-Situation)?
 4. Ist eine tatsächliche Beschäftigungsmöglichkeit noch vorhanden (Stelle nicht abgebaut)?
 
 **Entscheidungsbaum Weiterbeschaeftigungsantrag:**
 ```
-BR-Widerspruch vorhanden? → § 102 Abs. 5 BetrVG (sofort ab Klage, ohne Ersturteil)
+BR-Widerspruch vorhanden? → Paragraf 102 Abs. 5 BetrVG (sofort ab Klage, ohne Ersturteil)
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Rueckkehr nicht gewünscht? → Kein WBA stellen; § 12 KSchG oder Vergleich prüfen
+Rueckkehr nicht gewünscht? → Kein WBA stellen; Paragraf 12 KSchG oder Vergleich prüfen
 Arbeitgeber kann überwiegende Gegeninteressen darlegen? → Antrag abweisbar
 ```
 
@@ -77,11 +77,11 @@ Arbeitgeber kann überwiegende Gegeninteressen darlegen? → Antrag abweisbar
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Unterschied: § 102 Abs. 5 BetrVG
+## Unterschied: Paragraf 102 Abs. 5 BetrVG
 
-Besteht ein Betriebsrat und hat er der Kündigung ordnungsgemäß widersprochen, hat der Arbeitnehmer nach § 102 Abs. 5 BetrVG einen gesetzlichen Weiterbeschäftigungsanspruch — **sofort ab Klageerhebung**, ohne dass er erstinstanzlich obsiegen müsste.
+Besteht ein Betriebsrat und hat er der Kündigung ordnungsgemäß widersprochen, hat der Arbeitnehmer nach Paragraf 102 Abs. 5 BetrVG einen gesetzlichen Weiterbeschäftigungsanspruch — **sofort ab Klageerhebung**, ohne dass er erstinstanzlich obsiegen müsste.
 
-| | BAG GS 1985 | § 102 Abs. 5 BetrVG |
+| | BAG GS 1985 | Paragraf 102 Abs. 5 BetrVG |
 |---|---|---|
 | Voraussetzung | Erstinstanzlicher Sieg | BR-Widerspruch + Klage |
 | Zeitpunkt | Nach Urteil | Ab Klageerhebung |
@@ -95,15 +95,15 @@ Besteht ein Betriebsrat und hat er der Kündigung ordnungsgemäß widersprochen,
 - Erhöht Druck auf Arbeitgeber zur Vergleichsbereitschaft
 
 **Nachteile:**
-- Risiko: Wenn Arbeitgeber im Berufungsverfahren obsiegt, muss Arbeitnehmer zurückzahlen (Annahmeverzugslohn § 615 BGB vs. tatsächliches Gehalt — Differenz kann entstehen)
+- Risiko: Wenn Arbeitgeber im Berufungsverfahren obsiegt, muss Arbeitnehmer zurückzahlen (Annahmeverzugslohn Paragraf 615 BGB vs. tatsächliches Gehalt — Differenz kann entstehen)
 - Logistik: Rückkehr in den Betrieb kann belastend sein (Konflikte, Isolation)
 - Arbeitgeber kann Weiterbeschäftigung durch Vollstreckungsgegenklage abwehren
 
-**Praxishinweis:** Den Weiterbeschäftigungsantrag sollte man nur stellen, wenn man tatsächlich zurück in den Betrieb will. Wer bereits einen neuen Job hat, sollte § 12 KSchG prüfen.
+**Praxishinweis:** Den Weiterbeschäftigungsantrag sollte man nur stellen, wenn man tatsächlich zurück in den Betrieb will. Wer bereits einen neuen Job hat, sollte Paragraf 12 KSchG prüfen.
 
 ## Vollstreckung
 
-Bei Verurteilung zur Weiterbeschäftigung: Vollstreckung nach § 888 ZPO (Zwangsgeld oder Zwangshaft), da unvertretbare Handlung.
+Bei Verurteilung zur Weiterbeschäftigung: Vollstreckung nach Paragraf 888 ZPO (Zwangsgeld oder Zwangshaft), da unvertretbare Handlung.
 
 ---
 

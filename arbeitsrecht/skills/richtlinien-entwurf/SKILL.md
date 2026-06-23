@@ -20,8 +20,8 @@ description: "Entwirft eine betriebliche Regelung (Richtlinie, Betriebsordnung, 
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Richtlinien-Entwurf (Arbeitsrecht)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -39,26 +39,26 @@ description: "Entwirft eine betriebliche Regelung (Richtlinie, Betriebsordnung, 
 
 **Kernvorschriften:**
 
-- § 87 BetrVG: Erzwingbares Mitbestimmungsrecht des Betriebsrats —
- Regelungen in den Bereichen § 87 Abs. 1 Nr. 1–13 (u. a. Ordnung des
+- Paragraf 87 BetrVG: Erzwingbares Mitbestimmungsrecht des Betriebsrats —
+ Regelungen in den Bereichen Paragraf 87 Abs. 1 Nr. 1–13 (u. a. Ordnung des
  Betriebs, Arbeitszeit, Urlaub, Datenschutz, Vergütungsgrundsätze)
  können nicht ohne Zustimmung des Betriebsrats eingeführt werden
-- § 77 BetrVG: Betriebsvereinbarungen — Vorrang und Ablöseprinzip;
- Nachwirkung (§ 77 Abs. 6 BetrVG); günstigerer Tarifvertrag geht vor
-- §§ 305 ff. BGB: AGB-Kontrolle für vorformulierte Arbeitsbedingungen;
- § 305c Abs. 1 BGB: Verbot überraschender Klauseln; § 307 BGB:
+- Paragraf 77 BetrVG: Betriebsvereinbarungen — Vorrang und Ablöseprinzip;
+ Nachwirkung (Paragraf 77 Abs. 6 BetrVG); günstigerer Tarifvertrag geht vor
+- Paragrafen 305 ff. BGB: AGB-Kontrolle für vorformulierte Arbeitsbedingungen;
+ Paragraf 305c Abs. 1 BGB: Verbot überraschender Klauseln; Paragraf 307 BGB:
  Inhaltskontrolle; Transparenzgebot
-- § 2 NachwG: Schriftliche Mitteilung wesentlicher Arbeitsbedingungen
+- Paragraf 2 NachwG: Schriftliche Mitteilung wesentlicher Arbeitsbedingungen
  bei erstmaliger Vereinbarung und bei Änderungen
-- §§ 3 ff. AGG: Diskriminierungsverbote — Regelungen dürfen keine
+- Paragrafen 3 ff. AGG: Diskriminierungsverbote — Regelungen dürfen keine
  unmittelbaren oder mittelbaren Benachteiligungen wegen geschützter
  Merkmale enthalten oder bewirken
 - ArbZG: Arbeitszeitgesetz — Regelungen zur Arbeitszeit dürfen
- gesetzliche Höchstgrenzen (§ 3 ArbZG: 8 Stunden täglich, maximal
- 10 Stunden) und Ruhezeiten (§ 5 ArbZG) nicht unterschreiten
-- § 26 BDSG / Art. 88 DSGVO: Beschäftigtendatenschutz — Regelungen zur
+ gesetzliche Höchstgrenzen (Paragraf 3 ArbZG: 8 Stunden täglich, maximal
+ 10 Stunden) und Ruhezeiten (Paragraf 5 ArbZG) nicht unterschreiten
+- Paragraf 26 BDSG / Art. 88 DSGVO: Beschäftigtendatenschutz — Regelungen zur
  Überwachung, Zugriffsrechten oder Kommunikation erfordern
- Datenschutzprüfung und ggf. Betriebsvereinbarung nach § 26 BDSG
+ Datenschutzprüfung und ggf. Betriebsvereinbarung nach Paragraf 26 BDSG
 
 **Leitentscheidungen:**
 
@@ -68,7 +68,7 @@ description: "Entwirft eine betriebliche Regelung (Richtlinie, Betriebsordnung, 
  Änderungskündigung als erforderliches Instrument
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Mitbestimmungspflicht bei einseitiger Änderung betrieblicher Regelungen
- in § 87 BetrVG-Bereichen; Einigungsstellenverfahren bei Scheitern der
+ in Paragraf 87 BetrVG-Bereichen; Einigungsstellenverfahren bei Scheitern der
  Einigung
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
@@ -98,21 +98,21 @@ Handbuch-Standort, Tarifbindungen, bestehende Betriebsvereinbarungen.
 **Schritt 3 — Mitbestimmungsprüfung**
 
 Prüfe, ob die geplante Regelung in einen Mitbestimmungstatbestand des
-§ 87 Abs. 1 BetrVG fällt:
+Paragraf 87 Abs. 1 BetrVG fällt:
 
 | Regelungsthema | Mitbestimmungstatbestand |
 |---|---|
-| Ordnung des Betriebs, Verhaltensregeln | § 87 Abs. 1 Nr. 1 BetrVG |
-| Beginn/Ende der täglichen Arbeitszeit, Pausen | § 87 Abs. 1 Nr. 2, 3 BetrVG |
-| Urlaubsplanung, -grundsätze | § 87 Abs. 1 Nr. 5 BetrVG |
-| Einführung von Überwachungstechnik (IT, Zeiterfassung) | § 87 Abs. 1 Nr. 6 BetrVG |
-| Unfallverhütung, Gesundheitsschutz | § 87 Abs. 1 Nr. 7 BetrVG |
-| Grundsätze des betrieblichen Lohngestaltung | § 87 Abs. 1 Nr. 10 BetrVG |
-| Mobile Arbeit / Homeoffice | § 87 Abs. 1 Nr. 1, 2, 6 BetrVG |
+| Ordnung des Betriebs, Verhaltensregeln | Paragraf 87 Abs. 1 Nr. 1 BetrVG |
+| Beginn/Ende der täglichen Arbeitszeit, Pausen | Paragraf 87 Abs. 1 Nr. 2, 3 BetrVG |
+| Urlaubsplanung, -grundsätze | Paragraf 87 Abs. 1 Nr. 5 BetrVG |
+| Einführung von Überwachungstechnik (IT, Zeiterfassung) | Paragraf 87 Abs. 1 Nr. 6 BetrVG |
+| Unfallverhütung, Gesundheitsschutz | Paragraf 87 Abs. 1 Nr. 7 BetrVG |
+| Grundsätze des betrieblichen Lohngestaltung | Paragraf 87 Abs. 1 Nr. 10 BetrVG |
+| Mobile Arbeit / Homeoffice | Paragraf 87 Abs. 1 Nr. 1, 2, 6 BetrVG |
 
 Falls Mitbestimmung ausgelöst: explizit flaggen und empfohlenes Vorgehen
 angeben (Einholung Betriebsratszustimmung oder Einigungsstellenverfahren
-nach § 76 BetrVG).
+nach Paragraf 76 BetrVG).
 
 **Schritt 4 — Jurisdiktioneller Scan**
 
@@ -126,9 +126,9 @@ betriebsvereinbarungsbasierte Anforderungen zu diesem Thema?
 |---|---|
 | Arbeitszeitregelungen | ArbZG-Mindestanforderungen; Branchentarifverträge (z. B. BAP/iGZ für Zeitarbeit) |
 | Urlaubsansprüche | Tarifvertragliche Mehrurlaubs-Ansprüche; BUrlG-Mindest |
-| Mobiles Arbeiten | Betriebsvereinbarungen; § 87 Abs. 1 Nr. 1, 2, 6 BetrVG |
+| Mobiles Arbeiten | Betriebsvereinbarungen; Paragraf 87 Abs. 1 Nr. 1, 2, 6 BetrVG |
 | Überstundenregelungen | ArbZG-Grenzen; TV-Mehrarbeitszuschläge |
-| Datenschutz am Arbeitsplatz | § 26 BDSG; Betriebsvereinbarung als Rechtsgrundlage |
+| Datenschutz am Arbeitsplatz | Paragraf 26 BDSG; Betriebsvereinbarung als Rechtsgrundlage |
 | Außertarifliche Zulagen | Gleichbehandlungsgrundsatz; AGG |
 | Kündigung / Abfindung | KSchG; TV-Abfindungsregelungen |
 
@@ -152,9 +152,9 @@ Das ist eine Betriebsregelung, kein Vertrag.
 
 **Datenschutzprüfung:** Falls die Regelung die Verarbeitung von
 Beschäftigtendaten vorsieht oder ermöglicht (z. B. IT-Monitoring,
-Zeiterfassung, Zugangskontrolle): Rechtsgrundlage nach § 26 BDSG und
+Zeiterfassung, Zugangskontrolle): Rechtsgrundlage nach Paragraf 26 BDSG und
 ggf. DSFA nach Art. 35 DSGVO prüfen. Bei automatisierter Überwachung
-ist eine Betriebsvereinbarung als Rechtsgrundlage nach § 26 Abs. 4 BDSG
+ist eine Betriebsvereinbarung als Rechtsgrundlage nach Paragraf 26 Abs. 4 BDSG
 der sichere Weg.
 
 **Schritt 6 — Standortspezifische Ergänzungen**
@@ -181,7 +181,7 @@ Ergänzungen knapp halten — nur Abweichendes; Kernregelung nicht wiederholen.
  nach drei gleichförmigen Wiederholungen — Disclaimer-Klausel wenn nötig,
  aber als eigenständigen Abschnitt, nicht als Fußnote.)
 - AGG-Konformität: Enthält die Regelung mittelbare Benachteiligungen wegen
- geschützter Merkmale nach § 1 AGG?
+ geschützter Merkmale nach Paragraf 1 AGG?
 
 ## Kernregelung
 
@@ -216,9 +216,9 @@ Ergänzungen knapp halten — nur Abweichendes; Kernregelung nicht wiederholen.
 
 ## Entwurfsnotizen (intern — vor Einpflegen ins Handbuch entfernen)
 
-- **Mitbestimmung:** [Tatbestand § 87 BetrVG — betroffene Nr. / nicht betroffen]
+- **Mitbestimmung:** [Tatbestand Paragraf 87 BetrVG — betroffene Nr. / nicht betroffen]
 - **Betriebsrat-Vorgehen:** [Zustimmung erforderlich / Einigungsstellenverfahren]
-- **Datenschutz:** [§ 26 BDSG-Prüfung, DSFA erforderlich ja/nein]
+- **Datenschutz:** [Paragraf 26 BDSG-Prüfung, DSFA erforderlich ja/nein]
 - **Jurisdiktioneller Scan:** [welche Standorte geprüft, wo Varianz]
 - **Kollisionen mit bestehendem Handbuch:** [keine | Liste]
 - **Recht derzeit im Wandel:** [Themen, die in Bewegung sind]
@@ -232,7 +232,7 @@ Standorten in Hamburg und München, Tarifbindung nach TV Gesamtmetall.
 
 Ausgabe (Auszug Entwurfsnotizen):
 
-> Mitbestimmung: Mobile-Arbeit-Regelung berührt § 87 Abs. 1 Nr. 1 BetrVG
+> Mitbestimmung: Mobile-Arbeit-Regelung berührt Paragraf 87 Abs. 1 Nr. 1 BetrVG
 > (Ordnung des Betriebs), Nr. 2 BetrVG (Beginn/Ende der Arbeitszeit) und
 > Nr. 6 BetrVG (IT-Überwachung bei Homeoffice-Zeiterfassung).
 > Betriebsrat-Zustimmung oder Abschluss einer Betriebsvereinbarung ist
@@ -243,47 +243,47 @@ Ausgabe (Auszug Entwurfsnotizen):
 >
 > Datenschutz: Falls die Regelung IT-Monitoring im Homeoffice vorsieht
 > (z. B. Aktivitätstracking), ist eine Betriebsvereinbarung als
-> Rechtsgrundlage nach § 26 Abs. 4 BDSG erforderlich und eine DSFA
+> Rechtsgrundlage nach Paragraf 26 Abs. 4 BDSG erforderlich und eine DSFA
 > nach Art. 35 DSGVO zu prüfen.
 
 ## Risiken und typische Fehler
 
-- **Mitbestimmung übergangen**: Eine in § 87 BetrVG-Bereichen eingeführte
+- **Mitbestimmung übergangen**: Eine in Paragraf 87 BetrVG-Bereichen eingeführte
  Regelung ohne Betriebsratszustimmung ist unwirksam, auch wenn der Inhalt
  sachlich gerechtfertigt ist.
 - **Betriebliche Übung**: Was dreimal gleichförmig gewährt wurde, kann
  bindend werden. Neuregelungen, die bisher praxisübliche Leistungen
  einschränken, brauchen entweder individuelle Zustimmung oder
  Änderungskündigung.
-- **AGB-Falle**: Vorformulierte Arbeitsbedingungen unterliegen § 307 BGB.
+- **AGB-Falle**: Vorformulierte Arbeitsbedingungen unterliegen Paragraf 307 BGB.
  Überraschende oder unverhältnismäßig belastende Klauseln sind unwirksam.
 - **NachwG versäumt**: Wenn die Regelung wesentliche Arbeitsbedingungen
  ändert, ist schriftliche Mitteilung an die betroffenen Arbeitnehmer
- nach § 2 NachwG erforderlich.
+ nach Paragraf 2 NachwG erforderlich.
 - **AGG-Konformität nicht geprüft**: Regelungen können mittelbar
  diskriminierend wirken (z. B. Teilzeitausschlüsse, die überwiegend
- Frauen treffen). § 3 Abs. 2 AGG beachten.
+ Frauen treffen). Paragraf 3 Abs. 2 AGG beachten.
 - **Datenschutz nicht eingeplant**: Technische Überwachungsmaßnahmen
- ohne Betriebsvereinbarung und DSFA können nach § 26 BDSG und
- § 87 Abs. 1 Nr. 6 BetrVG unzulässig sein.
+ ohne Betriebsvereinbarung und DSFA können nach Paragraf 26 BDSG und
+ Paragraf 87 Abs. 1 Nr. 6 BetrVG unzulässig sein.
 
 ## Quellenpflicht
 
 Jede Ausgabe dieser Skill zitiert je nach Relevanz:
 
-- § 87 BetrVG (Mitbestimmung), § 77 BetrVG (Betriebsvereinbarung)
-- §§ 305 ff. BGB (AGB-Kontrolle), § 307 BGB (Inhaltskontrolle)
-- § 2 NachwG (Nachweispflicht)
-- § 26 BDSG, Art. 88 DSGVO (Beschäftigtendatenschutz)
+- Paragraf 87 BetrVG (Mitbestimmung), Paragraf 77 BetrVG (Betriebsvereinbarung)
+- Paragrafen 305 ff. BGB (AGB-Kontrolle), Paragraf 307 BGB (Inhaltskontrolle)
+- Paragraf 2 NachwG (Nachweispflicht)
+- Paragraf 26 BDSG, Art. 88 DSGVO (Beschäftigtendatenschutz)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- § 87 Abs. 1 Nr. 6 BetrVG: Mitbestimmung bei technischen Überwachungseinrichtungen; Rechtsprechung nur frei verifiziert zitieren.
+- Paragraf 87 Abs. 1 Nr. 6 BetrVG: Mitbestimmung bei technischen Überwachungseinrichtungen; Rechtsprechung nur frei verifiziert zitieren.
 
 > **Entwurf, keine geltende Regelung.** Dieser Entwurf ist ein Arbeitsdokument
 > für die anwaltliche Überprüfung. Eine Betriebsregelung oder Richtlinie, die
 > tatsächlich gilt, hat arbeitsrechtliche Bindungswirkung — in bestimmten
 > Bereichen als vertragliche Vereinbarung, durch betriebliche Übung oder
 > als Betriebsvereinbarung. Ein in der jeweiligen Jurisdiktion zugelassener
-> Rechtsanwalt oder Syndikusrechtsanwalt (§ 46 BRAO) prüft, überarbeitet
+> Rechtsanwalt oder Syndikusrechtsanwalt (Paragraf 46 BRAO) prüft, überarbeitet
 > und trägt die fachliche Verantwortung, bevor die Regelung in Kraft tritt.
 > Nicht ohne Freigabe verteilen oder einführen.
 

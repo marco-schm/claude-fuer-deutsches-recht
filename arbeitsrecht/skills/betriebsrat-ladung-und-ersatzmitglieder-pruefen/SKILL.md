@@ -20,19 +20,19 @@ description: "Betriebsrat Ladung Und Ersatzmitglieder Prüfen: ordnet Normen, Nu
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Betriebsrat — Ladung und Ersatzmitglieder prüfen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Rechtsgrundlagen
 
-- **§ 25 Abs. 2 BetrVG** — Reihenfolge der nachrückenden Ersatzmitglieder; gehört zu den wesentlichen und unverzichtbaren Verfahrensvorschriften
-- **§ 29 Abs. 2 BetrVG** — Einberufung und Ladung; Tagesordnung; Ladung von Ersatzmitgliedern
-- **§ 33 BetrVG** — Beschlussfähigkeit; Mehrheitsbeschluss
-- **§ 24 BetrVG** — Erlöschen der Mitgliedschaft
-- **§ 25 Abs. 1 BetrVG** — Nachrücken in den Betriebsrat
+- **Paragraf 25 Abs. 2 BetrVG** — Reihenfolge der nachrückenden Ersatzmitglieder; gehört zu den wesentlichen und unverzichtbaren Verfahrensvorschriften
+- **Paragraf 29 Abs. 2 BetrVG** — Einberufung und Ladung; Tagesordnung; Ladung von Ersatzmitgliedern
+- **Paragraf 33 BetrVG** — Beschlussfähigkeit; Mehrheitsbeschluss
+- **Paragraf 24 BetrVG** — Erlöschen der Mitgliedschaft
+- **Paragraf 25 Abs. 1 BetrVG** — Nachrücken in den Betriebsrat
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -40,10 +40,10 @@ description: "Betriebsrat Ladung Und Ersatzmitglieder Prüfen: ordnet Normen, Nu
 
 Ein Betriebsratsbeschluss ist nur wirksam, wenn das Gremium ordnungsgemäß zusammengesetzt war. Schwerpunkte:
 
-1. **Wer war ordentliches Mitglied?** (Wahlperiode, etwaige Erlöschen-Tatbestände nach § 24 BetrVG)
-2. **Wer war geladen?** (§ 29 Abs. 2 BetrVG — rechtzeitig, mit Tagesordnung)
+1. **Wer war ordentliches Mitglied?** (Wahlperiode, etwaige Erlöschen-Tatbestände nach Paragraf 24 BetrVG)
+2. **Wer war geladen?** (Paragraf 29 Abs. 2 BetrVG — rechtzeitig, mit Tagesordnung)
 3. **Wer war verhindert?** (Krankheit, Urlaub, dienstliche Abwesenheit, Interessenkollision)
-4. **Wer hätte als Ersatzmitglied nachrücken müssen?** (§ 25 Abs. 2 BetrVG — Nachrückreihenfolge)
+4. **Wer hätte als Ersatzmitglied nachrücken müssen?** (Paragraf 25 Abs. 2 BetrVG — Nachrückreihenfolge)
 5. **Wer hat tatsächlich teilgenommen?**
 6. **Stimmen Ladung, Verhinderung und tatsächliche Besetzung überein?**
 
@@ -72,7 +72,7 @@ Für jedes ordentliche Mitglied:
  → Krankheit (kurzfristig, wann genau bekannt geworden?)
  → Dienstliche Abwesenheit
  → Befangenheit / Interessenkollision in einer Tagesordnungs-Sache
- → Erlöschen der Mitgliedschaft (§ 24 BetrVG)
+ → Erlöschen der Mitgliedschaft (Paragraf 24 BetrVG)
 □ Wann wurde die Verhinderung bekannt?
  → Vor dem Sitzungstag: rechtzeitige Nachladung möglich → war erforderlich
  → Am Sitzungstag: Beurteilungsspielraum des Vorsitzenden
@@ -80,7 +80,7 @@ Für jedes ordentliche Mitglied:
 □ Dokumentierte Mitteilung der Verhinderung?
 ```
 
-### Schritt 3: Nachrückreihenfolge prüfen (§ 25 Abs. 2 BetrVG)
+### Schritt 3: Nachrückreihenfolge prüfen (Paragraf 25 Abs. 2 BetrVG)
 
 Bei Verhinderung muss das **richtige** Ersatzmitglied geladen werden:
 
@@ -90,18 +90,18 @@ Bei Verhinderung muss das **richtige** Ersatzmitglied geladen werden:
  verhinderte ordentliche Mitglied (Listentreue)
  → Mehrheitswahl: Ersatzmitglieder nach Stimmenzahl
 □ Innerhalb der Liste: Reihenfolge nach dem festgestellten Wahlergebnis
-□ Geschlechterquote (§ 15 Abs. 2 BetrVG) — Minderheitsgeschlecht
+□ Geschlechterquote (Paragraf 15 Abs. 2 BetrVG) — Minderheitsgeschlecht
  muss bei der Nachrückreihenfolge beachtet werden
 □ Ist das richtige Ersatzmitglied geladen worden?
 □ Ist das richtige Ersatzmitglied erschienen?
 □ Hat es an der Abstimmung teilgenommen?
 ```
 
-### Schritt 4: Quorum und Mehrheit (§ 33 BetrVG)
+### Schritt 4: Quorum und Mehrheit (Paragraf 33 BetrVG)
 
 ```
 □ War der Betriebsrat beschlussfähig?
- (mehr als die Hälfte der Mitglieder anwesend, § 33 Abs. 2 BetrVG)
+ (mehr als die Hälfte der Mitglieder anwesend, Paragraf 33 Abs. 2 BetrVG)
 □ Wurde der Beschluss mit Mehrheit der abgegebenen Stimmen gefasst?
 □ Stimmenthaltungen korrekt behandelt (zählen nicht als Ja-Stimme)?
 ```
@@ -112,11 +112,11 @@ Bei Verhinderung muss das **richtige** Ersatzmitglied geladen werden:
 □ Alle vorstehenden Punkte erfüllt?
  → Beschluss wirksam
 
-□ Verstoß gegen Nachrückreihenfolge (§ 25 Abs. 2 BetrVG)?
+□ Verstoß gegen Nachrückreihenfolge (Paragraf 25 Abs. 2 BetrVG)?
  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  → ABER: Heilung möglich (→ Skill `betriebsrat-beschluss-heilung-nachtraeglich`)
 
-□ Verstoß gegen Ladungsvorschriften (§ 29 Abs. 2 BetrVG)?
+□ Verstoß gegen Ladungsvorschriften (Paragraf 29 Abs. 2 BetrVG)?
  → Grundsätzlich Unwirksamkeit
  → Heilung durch neuen Beschluss möglich (→ Heilungs-Skill)
 
@@ -149,6 +149,6 @@ Bei Verhinderung muss das **richtige** Ersatzmitglied geladen werden:
 2. Verhinderung erfassen (Schritt 2) → bestätigt, Krankschreibung vom Vortag
 3. Nachrückreihenfolge prüfen (Schritt 3) → Tatsächlich hätte Z geladen werden müssen, X stand erst danach
 4. Quorum (Schritt 4) → war auch ohne X erreicht, aber X hat mitgestimmt
-5. Bewertung (Schritt 5) → Beschluss **unwirksam** wegen § 25 Abs. 2 BetrVG
+5. Bewertung (Schritt 5) → Beschluss **unwirksam** wegen Paragraf 25 Abs. 2 BetrVG
 
 **Folge**: Wechsel zum Skill `betriebsrat-beschluss-heilung-nachtraeglich` — kann der Betriebsrat den Beschluss in einer Folgesitzung nachträglich heilen?

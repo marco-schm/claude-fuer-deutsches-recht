@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit
-description: "Aufhebungsvertrag mit Sperrzeit-Vermeidung nach § 159 SGB III bei Eigeninitiative oder drohender Kündigung. Anwendungsfall Arbeitgeber und Arbeitnehmer wollen Arbeitsverhältnis auflösen ohne Sperrzeit für Arbeitslosengeld. Normen § 159 SGB III wichtiger Grund Sperrzeitentscheidung § 623 BGB Schriftform § 14 KSchG Klagefrist. Prüfraster Initiativseite wichtiger Grund Abfindung Steuerpflicht Fuenftelregelung Krankenversicherung Wettbewerbsverbot Outplacement. Output Aufhebungsvertrags-Entwurf mit Sperrzeitlegitimerung Steuerklauseln und Verhandlungsstrategie. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg."
+description: "Aufhebungsvertrag mit Sperrzeit-Vermeidung nach Paragraf 159 SGB III bei Eigeninitiative oder drohender Kündigung. Anwendungsfall Arbeitgeber und Arbeitnehmer wollen Arbeitsverhältnis auflösen ohne Sperrzeit für Arbeitslosengeld. Normen Paragraf 159 SGB III wichtiger Grund Sperrzeitentscheidung Paragraf 623 BGB Schriftform Paragraf 14 KSchG Klagefrist. Prüfraster Initiativseite wichtiger Grund Abfindung Steuerpflicht Fuenftelregelung Krankenversicherung Wettbewerbsverbot Outplacement. Output Aufhebungsvertrags-Entwurf mit Sperrzeitlegitimerung Steuerklauseln und Verhandlungsstrategie. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg."
 ---
 
 # Aufhebungsvertrag mit Sperrzeit-Vermeidung
 
 ## Zweck
 
-Aufhebungsvertrag so gestalten, dass Mandant **keine 12-Wochen-Sperrzeit** durch die Bundesagentur für Arbeit erleidet (§ 159 SGB III).
+Aufhebungsvertrag so gestalten, dass Mandant **keine 12-Wochen-Sperrzeit** durch die Bundesagentur für Arbeit erleidet (Paragraf 159 SGB III).
 
 ## 1) Eingangs-Abfrage
 
@@ -24,11 +24,11 @@ Aufhebungsvertrag so gestalten, dass Mandant **keine 12-Wochen-Sperrzeit** durch
 
 ### Konstellation A: Drohende ordentliche AG-Kündigung
 
-Rechtsprechungsstand: BSG, Urteil vom 12.07.2006 - B 11a AL 47/05 R: Aufhebungsvertrag zur Abwendung einer drohenden, objektiv rechtmaessigen ordentlichen betriebsbedingten Kuendigung des AG bei eingehaltener Kuendigungsfrist begruendet wichtigen Grund i.S.d. § 159 SGB III. Quelle: dejure.org, Vernetzung BSG 12.07.2006 - B 11a AL 47/05 R.
+Rechtsprechungsstand: BSG, Urteil vom 12.07.2006 - B 11a AL 47/05 R: Aufhebungsvertrag zur Abwendung einer drohenden, objektiv rechtmaessigen ordentlichen betriebsbedingten Kuendigung des AG bei eingehaltener Kuendigungsfrist begruendet wichtigen Grund i.S.d. Paragraf 159 SGB III. Quelle: dejure.org, Vernetzung BSG 12.07.2006 - B 11a AL 47/05 R.
 
 - AG hätte ordentlich kündigen koennen (KSchG-relevanter Grund: betrieblich, personal, verhaltensbedingt)
 - Beendigungszeitpunkt nicht früher als bei ordentlicher Kündigung
-- Abfindung **nicht höher** als 0,5 Brutto-Monatsentgelte pro Beschaeftigungsjahr (Fachliche Weisungen BA zu § 159 SGB III, Stand 01.01.2024, arbeitsagentur.de)
+- Abfindung **nicht höher** als 0,5 Brutto-Monatsentgelte pro Beschaeftigungsjahr (Fachliche Weisungen BA zu Paragraf 159 SGB III, Stand 01.01.2024, arbeitsagentur.de)
 
 **Folge**: keine Sperrzeit.
 
@@ -53,7 +53,7 @@ Abfindung = 0,5 Brutto-Monatsentgelte × Beschaeftigungsjahre
 
 **Verhandlungs-Spielraum**: 0,75-1,5 Brutto-Monatsgehaelter pro Jahr bei aelteren AN oder schwacher AG-Position.
 
-## 4) Steuer: Fünftel-Regelung § 34 EStG
+## 4) Steuer: Fünftel-Regelung Paragraf 34 EStG
 
 - Abfindung kann nach **Fünftel-Regelung** versteuert werden, wenn Zusammenballung
 - Voraussetzung: Abfindung in einem VZ ausgezahlt
@@ -123,7 +123,7 @@ Der vorliegende Entwurf entspricht den gesetzlichen Mindestanforderungen zur Spe
 
 ### Schritt 4 — Abschluss
 
-- Schriftform zwingend (§ 623 BGB)
+- Schriftform zwingend (Paragraf 623 BGB)
 - Notar: nicht erforderlich
 - Sofort an BA als Arbeitslosmeldung (3 Monate vor Ende empfohlen)
 
@@ -137,10 +137,10 @@ Der vorliegende Entwurf entspricht den gesetzlichen Mindestanforderungen zur Spe
 
 ## 9) BSG-Linien
 
-- **BSG, Urteil vom 12.07.2006 - B 11a AL 47/05 R**: Aufhebungsvertrag zur Abwendung einer drohenden, objektiv rechtmaessigen betriebsbedingten Kuendigung des Arbeitgebers begruendet wichtigen Grund i.S.d. § 144 SGB III a.F. (= heute § 159 SGB III), sofern die Hinnahme der Kuendigung dem Arbeitnehmer nicht zuzumuten ist und die Kuendigungsfrist eingehalten wird. Quelle: dejure.org, Vernetzung BSG 12.07.2006 - B 11a AL 47/05 R.
+- **BSG, Urteil vom 12.07.2006 - B 11a AL 47/05 R**: Aufhebungsvertrag zur Abwendung einer drohenden, objektiv rechtmaessigen betriebsbedingten Kuendigung des Arbeitgebers begruendet wichtigen Grund i.S.d. Paragraf 144 SGB III a.F. (= heute Paragraf 159 SGB III), sofern die Hinnahme der Kuendigung dem Arbeitnehmer nicht zuzumuten ist und die Kuendigungsfrist eingehalten wird. Quelle: dejure.org, Vernetzung BSG 12.07.2006 - B 11a AL 47/05 R.
 - **BSG, Urteil vom 02.05.2012 - B 11 AL 6/11 R**: Praezisierung der Anforderungen an die "objektive Rechtmaessigkeit" der drohenden Kuendigung; die Drohung muss konkret und ernsthaft sein. Quelle: dejure.org, Vernetzung BSG 02.05.2012 - B 11 AL 6/11 R.
 - **BSG, Urteil vom 17.11.2005 - B 11a/11 AL 69/04 R**: Sondernutzen fuer leitende Angestellte; vermeidende Aufhebungsvereinbarung. Quelle: dejure.org.
-- Fachliche Weisungen der Bundesagentur fuer Arbeit zu § 159 SGB III (Stand 01.01.2024, fortlaufend gueltig; arbeitsagentur.de).
+- Fachliche Weisungen der Bundesagentur fuer Arbeit zu Paragraf 159 SGB III (Stand 01.01.2024, fortlaufend gueltig; arbeitsagentur.de).
 - Praxisliterature und neueres BSG-Aktenzeichen ohne offene Quelle nicht zitieren.
 
 ## Anschluss
@@ -153,15 +153,15 @@ Der vorliegende Entwurf entspricht den gesetzlichen Mindestanforderungen zur Spe
 
 - BSG, 12.07.2006 - B 11a AL 47/05 R: wichtiger Grund bei drohender objektiv rechtmaessiger betriebsbedingter Kuendigung mit eingehaltener Frist. Quelle: dejure.org.
 - BSG, 02.05.2012 - B 11 AL 6/11 R: Drohung muss konkret und ernsthaft sein. Quelle: dejure.org.
-- Hinweis: Weitere BSG-Entscheidungen (Q4/2025 - Q2/2026) konnten zum Stand der Aktualisierung nicht ueber dejure.org/openjur.de mit Volltext und konkretem Aktenzeichen verifiziert werden. Anwaltlicher Beratungsstandard: Pruefung der jeweils aktuellen Fachlichen Weisungen der BA zu § 159 SGB III.
+- Hinweis: Weitere BSG-Entscheidungen (Q4/2025 - Q2/2026) konnten zum Stand der Aktualisierung nicht ueber dejure.org/openjur.de mit Volltext und konkretem Aktenzeichen verifiziert werden. Anwaltlicher Beratungsstandard: Pruefung der jeweils aktuellen Fachlichen Weisungen der BA zu Paragraf 159 SGB III.
 
 ## Paragrafenkette
 
-- § 159 SGB III — Sperrzeit
-- § 158 SGB III — Ruhen bei Abfindung (wenn Kündigungsfrist nicht eingehalten)
-- § 623 BGB — Schriftform Aufhebungsvertrag
-- § 34 EStG — Fünftel-Regelung
-- § 138 BGB — Sittenwidrigkeit; § 123 BGB — Anfechtung
+- Paragraf 159 SGB III — Sperrzeit
+- Paragraf 158 SGB III — Ruhen bei Abfindung (wenn Kündigungsfrist nicht eingehalten)
+- Paragraf 623 BGB — Schriftform Aufhebungsvertrag
+- Paragraf 34 EStG — Fünftel-Regelung
+- Paragraf 138 BGB — Sittenwidrigkeit; Paragraf 123 BGB — Anfechtung
 
 ## Quellenregel
 

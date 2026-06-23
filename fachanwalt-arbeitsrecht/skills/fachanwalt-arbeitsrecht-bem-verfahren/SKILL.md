@@ -3,7 +3,7 @@ name: fachanwalt-arbeitsrecht-bem-verfahren
 description: "Workflow-Skill zu fachanwalt arbeitsrecht bem verfahren. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
 ---
 
-# BEM-Verfahren § 167 II SGB IX
+# BEM-Verfahren Paragraf 167 II SGB IX
 
 ## Zweck
 
@@ -18,15 +18,15 @@ Das Betriebliche Eingliederungs-Management (BEM) ist Pflicht bei mehr als 6 Woch
 5. AN reagiert/teilnahme?
 6. Aktueller Zustand: Wiedereingliederung möglich?
 
-## 2) Pflicht des Arbeitgebers § 167 II SGB IX
+## 2) Pflicht des Arbeitgebers Paragraf 167 II SGB IX
 
-> "Sind Beschaeftigte innerhalb eines Jahres laenger als sechs Wochen ununterbrochen oder wiederholt arbeitsunfähig, klärt der Arbeitgeber mit der zuständigen Interessenvertretung im Sinne des § 176, bei schwerbehinderten Menschen außerdem mit der Schwerbehindertenvertretung, mit Zustimmung und Beteiligung der betroffenen Person die Möglichkeiten, wie die Arbeitsunfähigkeit möglichst überwunden werden und mit welchen Leistungen oder Hilfen erneuter Arbeitsunfähigkeit vorgebeugt und der Arbeitsplatz erhalten werden kann (betriebliches Eingliederungsmanagement)."
+> "Sind Beschaeftigte innerhalb eines Jahres laenger als sechs Wochen ununterbrochen oder wiederholt arbeitsunfähig, klärt der Arbeitgeber mit der zuständigen Interessenvertretung im Sinne des Paragraf 176, bei schwerbehinderten Menschen außerdem mit der Schwerbehindertenvertretung, mit Zustimmung und Beteiligung der betroffenen Person die Möglichkeiten, wie die Arbeitsunfähigkeit möglichst überwunden werden und mit welchen Leistungen oder Hilfen erneuter Arbeitsunfähigkeit vorgebeugt und der Arbeitsplatz erhalten werden kann (betriebliches Eingliederungsmanagement)."
 
 ## 3) Wirksamkeit der personenbedingten Kündigung
 
 ### BAG-Linie
 
-- **BAG, Urteil vom 20.11.2014 - 2 AZR 755/13**: Der Arbeitgeber traegt die Initiativlast zur Durchfuehrung des BEM (§ 167 Abs. 2 SGB IX); er muss den Arbeitnehmer ueber Ziele, Art und Umfang der zu erhebenden Daten unterrichten. Quelle: dejure.org-Vernetzung BAG 20.11.2014 - 2 AZR 755/13.
+- **BAG, Urteil vom 20.11.2014 - 2 AZR 755/13**: Der Arbeitgeber traegt die Initiativlast zur Durchfuehrung des BEM (Paragraf 167 Abs. 2 SGB IX); er muss den Arbeitnehmer ueber Ziele, Art und Umfang der zu erhebenden Daten unterrichten. Quelle: dejure.org-Vernetzung BAG 20.11.2014 - 2 AZR 755/13.
 - **BAG, Urteil vom 10.12.2009 - 2 AZR 400/08**: BEM ist zwar keine formelle Wirksamkeitsvoraussetzung der Kuendigung, aber faktisch entscheidend; Arbeitgeber ohne BEM hat erhebliche Darlegungslast, dass auch ein BEM die Kuendigung nicht haette verhindern koennen. Quelle: dejure.org-Vernetzung BAG 10.12.2009 - 2 AZR 400/08.
 - **BAG, Urteil vom 18.11.2021 - 2 AZR 138/21**: Auch nach abgeschlossenem BEM ist grundsaetzlich ein erneutes BEM durchzufuehren, wenn der Arbeitnehmer innerhalb eines Jahres wieder mehr als 6 Wochen arbeitsunfaehig war. Quelle: dejure.org-Vernetzung.
 - **BAG, Urteil vom 15.12.2022 - 2 AZR 162/22**: Die Zustimmung des Integrationsamts zur krankheitsbedingten Kuendigung schwerbehinderter Menschen entbindet den Arbeitgeber nicht von der BEM-Pflicht; sie begruendet auch keine Vermutung, dass ein BEM die Kuendigung nicht haette verhindern koennen. Quelle: dejure.org-Vernetzung BAG 15.12.2022 - 2 AZR 162/22.
@@ -54,14 +54,14 @@ Ohne BEM = Kündigungsschutzklage **gewinnbar** in 80-90 % der Fälle.
 - Anpassung Arbeitsplatz (Stuhl, Hilfsmittel, Telearbeit)
 - Änderung Arbeitszeit (Teilzeit, Schicht)
 - Versetzung intern
-- Wiedereingliederung **Hamburger Modell** § 74 SGB V iVm § 28 SGB IX
+- Wiedereingliederung **Hamburger Modell** Paragraf 74 SGB V iVm Paragraf 28 SGB IX
 
 ### Schritt 4 — Umsetzung und Evaluation
 
 - Dokumentation
 - Nach 6-12 Monaten Review
 
-## 5) Zustimmung Integrationsamt bei Schwerbehinderten § 168 SGB IX
+## 5) Zustimmung Integrationsamt bei Schwerbehinderten Paragraf 168 SGB IX
 
 - Bei Schwerbehinderten zwingend **vor Kündigung** Zustimmung Integrationsamt
 - Frist Integrationsamt: 1 Monat (Verlängerung möglich)
@@ -69,7 +69,7 @@ Ohne BEM = Kündigungsschutzklage **gewinnbar** in 80-90 % der Fälle.
 
 ## 6) AN-Strategie bei Kündigung trotz fehlendem BEM
 
-### Schritt 1 — Klage binnen 3 Wochen nach Zugang (§ 4 KSchG)
+### Schritt 1 — Klage binnen 3 Wochen nach Zugang (Paragraf 4 KSchG)
 
 - Verfahrensvermerk: AG hat BEM nicht durchgeführt
 
@@ -118,7 +118,7 @@ Ohne BEM = Kündigungsschutzklage **gewinnbar** in 80-90 % der Fälle.
 ## 10) Honorar
 
 - BEM-Begleitung: pauschal oder Stundensatz
-- Kündigungsschutzklage: § 42 II GKG (3 Brutto-Monatsgehaelter Streitwert)
+- Kündigungsschutzklage: Paragraf 42 II GKG (3 Brutto-Monatsgehaelter Streitwert)
 - Vergleich oft mit Abfindungs-Quote
 
 ## Anschluss
@@ -137,11 +137,11 @@ Ohne BEM = Kündigungsschutzklage **gewinnbar** in 80-90 % der Fälle.
 
 ## Paragrafenkette
 
-- § 167 Abs. 2 SGB IX — BEM-Pflicht ab sechs Wochen AU
-- § 168 SGB IX — Zustimmung Integrationsamt bei Schwerbehinderten
-- § 1 Abs. 2 KSchG — personenbedingte Kündigung (Ultima Ratio nach BEM)
-- § 84 SGB IX a.F. / § 167 SGB IX n.F. — Wiedereingliederung
-- § 69 SGB IX — Feststellung Schwerbehinderung
+- Paragraf 167 Abs. 2 SGB IX — BEM-Pflicht ab sechs Wochen AU
+- Paragraf 168 SGB IX — Zustimmung Integrationsamt bei Schwerbehinderten
+- Paragraf 1 Abs. 2 KSchG — personenbedingte Kündigung (Ultima Ratio nach BEM)
+- Paragraf 84 SGB IX a.F. / Paragraf 167 SGB IX n.F. — Wiedereingliederung
+- Paragraf 69 SGB IX — Feststellung Schwerbehinderung
 
 ## Quellenregel
 

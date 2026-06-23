@@ -21,7 +21,7 @@ description: "Mandantenkorrespondenz Form Und Zugang Templates: ordnet Normen, N
 ## Rechtsgrundlagen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- §§ 126a, 126b, 130, 568, 656a BGB
+- Paragrafen 126a, 126b, 130, 568, 656a BGB
 
 ## Templates
 
@@ -167,7 +167,7 @@ laufen ab Zugang der Kündigung.
 ### Template 4 — Checkliste Maklervertrag-E-Mail (Käufer)
 
 ```
-CHECKLISTE — Maklervertrag per E-Mail (§ 656a BGB)
+CHECKLISTE — Maklervertrag per E-Mail (Paragraf 656a BGB)
 
 Haben Sie einen Maklervertrag für den Kauf einer Wohnung oder eines
 Einfamilienhauses per E-Mail geschlossen?
@@ -188,7 +188,7 @@ Bitte prüfen Sie:
 
 Bedeutung:
 
-Wenn die Textform des § 656a BGB nicht gewahrt wurde, ist der
+Wenn die Textform des Paragraf 656a BGB nicht gewahrt wurde, ist der
 Maklervertrag nichtig. Der Makler kann keine Provision verlangen.
 Eine bereits gezahlte Provision können Sie möglicherweise zurückfordern.
 
@@ -210,7 +210,7 @@ anbei erhalten Sie die Kündigung des Mietverhältnisses über die
 Wohnung [Adresse] als PDF-Dokument.
 
 Das Dokument ist mit einer qualifizierten elektronischen Signatur
-nach § 126a BGB versehen, die die gesetzliche Schriftform des
+nach Paragraf 126a BGB versehen, die die gesetzliche Schriftform des
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Bitte beachten Sie:

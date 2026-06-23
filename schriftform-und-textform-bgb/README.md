@@ -39,6 +39,12 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 Umfassender Workflow-Organisator für Schriftform- und Textform-Erfordernisse im deutschen Zivilrecht. Das Plugin trennt Papierform, qES, Textform, beA/ERV, gerichtliche Zustellung und prozessuale Formfiktion und bietet kanzleitaugliche Orientierung für alle wesentlichen Formerfordernisse des BGB.
 
+## Arbeitsrechtlicher Form-Sonderfall: Befristung
+
+Die Befristungsabrede nach § 14 Abs. 4 TzBfG bleibt ein strenger Schriftformfall. Textform nach § 126b BGB, E-Mail, PDF-Scan, eingescannte Unterschrift, einfache elektronische Signatur und nicht qualifizierte Signaturportal-Workflows genügen nicht. Formwirksam sind nur Papieroriginale mit eigenhändiger Unterschrift beider Parteien oder eine echte qES beider Parteien nach § 126a BGB, jeweils vor Arbeitsaufnahme.
+
+Der Formmangel führt nicht nur zu einem Beweisproblem, sondern materiell zu § 16 Satz 1 TzBfG: Die Befristung ist unwirksam und der Arbeitsvertrag gilt als unbefristet. Die gerichtliche Kontrolle läuft über § 17 TzBfG. Leitanker für die Skillarbeit sind ArbG Berlin, Urteil vom 28.09.2021 - 36 Ca 15296/20, LAG Berlin-Brandenburg, Urteil vom 16.03.2022 - 23 Sa 1133/21, und ArbG Gera, Urteil vom 07.03.2024 - 2 Ca 936/23.
+
 ### Leitentscheidungen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

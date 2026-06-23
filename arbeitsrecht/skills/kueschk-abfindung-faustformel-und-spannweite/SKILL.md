@@ -14,34 +14,34 @@ description: "Abfindung Kündigungsschutzklage: Faustformel halbes Bruttomonatsg
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Abfindung Kündigungsschutzklage: Faustformel halbes Bruttomonatsgehalt pro Beschäftigungsjahr; Spannweite von einem Viertel bis zu einem ganzen Bruttomonatsgehalt; Einflussfaktoren; steuerliche Behandlung Fuenftel-Regelung § 34 EStG; keine gesetzliche Abfindungspflicht außer §§ 1a und 9 KSchG.
+**Fokus:** Abfindung Kündigungsschutzklage: Faustformel halbes Bruttomonatsgehalt pro Beschäftigungsjahr; Spannweite von einem Viertel bis zu einem ganzen Bruttomonatsgehalt; Einflussfaktoren; steuerliche Behandlung Fuenftel-Regelung Paragraf 34 EStG; keine gesetzliche Abfindungspflicht außer Paragrafen 1a und 9 KSchG.
 
 ### Abfindung: Faustformel und Spannweite
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Abfindung: Faustformel und Spannweite` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Triage zu Beginn — kläre vor der Abfindungsberechnung
 
-1. Besteht ein gesetzlicher Abfindungsanspruch? (nur § 1a KSchG bei Verzicht auf Klage; § 9 KSchG bei Auflösungsantrag — selten)
+1. Besteht ein gesetzlicher Abfindungsanspruch? (nur Paragraf 1a KSchG bei Verzicht auf Klage; Paragraf 9 KSchG bei Auflösungsantrag — selten)
 2. Wie stark ist die Rechtsposition des Arbeitnehmers? (Fehler bei BR-Anhörung / Sozialauswahl / Sonderkündigungsschutz?)
-3. Wie viele volle Beschäftigungsjahre liegen vor? (Halbjahre werden aufgerundet bei § 10 Abs. 3 KSchG)
+3. Wie viele volle Beschäftigungsjahre liegen vor? (Halbjahre werden aufgerundet bei Paragraf 10 Abs. 3 KSchG)
 4. Wie hoch ist das monatliche Bruttogehalt? (inklusive regelmäßiger Zulagen)
-5. Sperrzeit-Risiko: Auf wessen Veranlassung wird das AV beendet? (§ 159 SGB III)
+5. Sperrzeit-Risiko: Auf wessen Veranlassung wird das AV beendet? (Paragraf 159 SGB III)
 
 ## Zentrale Normen
 
-- § 9 KSchG — Auflösungsantrag mit Abfindung (Arbeitnehmer oder Arbeitgeber; selten praktiziert)
-- § 10 KSchG — Abfindungshöhe: max. 12 Monatsverdienste (18 bei > 50 Jahren + > 15 Jahren; 15 bei > 55 Jahren + > 20 Jahren)
-- § 1a KSchG — Abfindungsangebot bei Verzicht auf Klage: 0.5 Monatsverdienste × Beschäftigungsjahre
-- § 34 EStG — Fünftel-Regelung für außerordentliche Einkünfte (Abfindungen)
-- § 158 SGB III — Ruhenszeitraum bei Abfindung und vorzeitiger Beendigung (Sperrzeit-ähnlicher Effekt)
-- § 159 SGB III — Sperrzeit bei Eigenkündigung oder Aufhebungsvertrag auf eigene Veranlassung
+- Paragraf 9 KSchG — Auflösungsantrag mit Abfindung (Arbeitnehmer oder Arbeitgeber; selten praktiziert)
+- Paragraf 10 KSchG — Abfindungshöhe: max. 12 Monatsverdienste (18 bei > 50 Jahren + > 15 Jahren; 15 bei > 55 Jahren + > 20 Jahren)
+- Paragraf 1a KSchG — Abfindungsangebot bei Verzicht auf Klage: 0.5 Monatsverdienste × Beschäftigungsjahre
+- Paragraf 34 EStG — Fünftel-Regelung für außerordentliche Einkünfte (Abfindungen)
+- Paragraf 158 SGB III — Ruhenszeitraum bei Abfindung und vorzeitiger Beendigung (Sperrzeit-ähnlicher Effekt)
+- Paragraf 159 SGB III — Sperrzeit bei Eigenkündigung oder Aufhebungsvertrag auf eigene Veranlassung
 
 ## Aktuelle Rechtsprechung
 
@@ -70,7 +70,7 @@ Die Faustformel ist kein Gesetz — sie ist ein Verhandlungsausgangspunkt:
 | Starke Arbeitgeberposition (KSchG kaum anwendbar) | 0.25 bis 0.5 Bruttomonatsgehälter |
 | Ausgewogene Situation (Kündigung angreifbar) | 0.5 bis 0.75 Bruttomonatsgehälter |
 | Starke Arbeitnehmerposition (klare Fehler, Sonderschutz) | 0.75 bis 1.0 Bruttomonatsgehälter |
-| Sonderkündigungsschutz-Fälle (§ 15 KSchG, MuSchG, SGB IX) | Kann deutlich über 1.0 liegen |
+| Sonderkündigungsschutz-Fälle (Paragraf 15 KSchG, MuSchG, SGB IX) | Kann deutlich über 1.0 liegen |
 
 **Einflussfaktoren auf die Abfindungshöhe:**
 - Stärke der rechtlichen Position (je klarer die Unwirksamkeit, desto höher)
@@ -85,16 +85,16 @@ Die Faustformel ist kein Gesetz — sie ist ein Verhandlungsausgangspunkt:
 
 Abfindungen sind grundsätzlich **steuerpflichtig** (kein Steuerfreibetrag mehr seit 2006).
 
-**Fünftel-Regelung § 34 EStG:**
+**Fünftel-Regelung Paragraf 34 EStG:**
 Die Abfindung wird als außerordentliche Einkunft behandelt: Steuerlast berechnet sich so, als wäre die Abfindung auf 5 Jahre verteilt (fiktive Verteilung). In der Praxis führt dies oft zu spürbarer Steuerersparnis.
 
-> Wichtig: Fünftel-Regelung gilt nur wenn Abfindung als Entschädigung für entgangene Einnahmen geleistet wird (§ 24 Nr. 1 EStG i.V.m. § 34 EStG). Steuerberater einbinden!
+> Wichtig: Fünftel-Regelung gilt nur wenn Abfindung als Entschädigung für entgangene Einnahmen geleistet wird (Paragraf 24 Nr. 1 EStG i.V.m. Paragraf 34 EStG). Steuerberater einbinden!
 
 ### Sozialversicherung
 
 Abfindungen sind grundsätzlich **nicht sozialversicherungspflichtig** — sofern sie als Entschädigungsleistung für Arbeitsplatzverlust gezahlt werden.
 
-**Achtung § 158 SGB III (Ruhenszeitraum):** Bei Zahlung einer Abfindung und Beendigung des AV vor Ablauf der Kündigungsfrist kann das ALG-I ruhen. Mandant über Sperrzeit-Risiko informieren.
+**Achtung Paragraf 158 SGB III (Ruhenszeitraum):** Bei Zahlung einer Abfindung und Beendigung des AV vor Ablauf der Kündigungsfrist kann das ALG-I ruhen. Mandant über Sperrzeit-Risiko informieren.
 
 ## Output-Template — Abfindungsberechnung
 
@@ -117,8 +117,8 @@ Empfohlene Verhandlungsspanne:
  Obere Grenze (0.75): [BETRAG] Euro brutto
  (falls starke Rechtsposition: bis [BETRAG] Euro brutto)
 
-Steuerhinweis: Fünftel-Regelung § 34 EStG prüfen (Steuerberater einbinden)
-Sperrzeit-Hinweis: § 158-159 SGB III prüfen (Agentur für Arbeit informieren)
+Steuerhinweis: Fünftel-Regelung Paragraf 34 EStG prüfen (Steuerberater einbinden)
+Sperrzeit-Hinweis: Paragraf 158-159 SGB III prüfen (Agentur für Arbeit informieren)
 ```
 
 ---

@@ -1,9 +1,9 @@
 ---
 name: entgeltgleichheit-paarvergleich-agg-entgtranspg
-description: "Setzt BAG 23.10.2025 - 8 AZR 300/24 in einen arbeitsrechtlichen Prüffür Equal Pay, variable Vergütung, Vergleichsperson, § 22 AGG, EntgTranspG und Dokumentationsstrategie um: Setzt BAG 23.10.2025 - 8 AZR 300/24 in einen arbeitsrechtlichen Prüffür Equal Pay..."
+description: "Setzt BAG 23.10.2025 - 8 AZR 300/24 in einen arbeitsrechtlichen Prüffür Equal Pay, variable Vergütung, Vergleichsperson, Paragraf 22 AGG, EntgTranspG und Dokumentationsstrategie um: Setzt BAG 23.10.2025 - 8 AZR 300/24 in einen arbeitsrechtlichen Prüffür Equal Pay..."
 ---
 
-# Setzt BAG 23.10.2025 - 8 AZR 300/24 in einen arbeitsrechtlichen Prüffür Equal Pay, variable Vergütung, Vergleichsperson, § 22 AGG, EntgTranspG und Dokumentationsstrategie um.
+# Setzt BAG 23.10.2025 - 8 AZR 300/24 in einen arbeitsrechtlichen Prüffür Equal Pay, variable Vergütung, Vergleichsperson, Paragraf 22 AGG, EntgTranspG und Dokumentationsstrategie um.
 
 
 ## Arbeitsweg
@@ -14,15 +14,15 @@ description: "Setzt BAG 23.10.2025 - 8 AZR 300/24 in einen arbeitsrechtlichen Pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Setzt BAG 23.10.2025 - 8 AZR 300/24 in einen arbeitsrechtlichen Prüffür Equal Pay, variable Vergütung, Vergleichsperson, § 22 AGG, EntgTranspG und Dokumentationsstrategie um.
+**Fokus:** Setzt BAG 23.10.2025 - 8 AZR 300/24 in einen arbeitsrechtlichen Prüffür Equal Pay, variable Vergütung, Vergleichsperson, Paragraf 22 AGG, EntgTranspG und Dokumentationsstrategie um.
 
 ### Entgeltgleichheit: Paarvergleich, Bonus, Phantom Shares und Beweislast
 
 ## Verifizierter Kern
-BAG, Urteil vom 23.10.2025 - 8 AZR 300/24, bundesarbeitsgericht.de: Eine Entgeltgleichheitsklage kann auf eine einzelne Vergleichsperson des anderen Geschlechts gestützt werden; bei Entgeltgleichheit gilt eine unionsrechtlich geprägte Beweislastlogik über § 22 AGG, ohne dass schon überwiegende Wahrscheinlichkeit verlangt wird.
+BAG, Urteil vom 23.10.2025 - 8 AZR 300/24, bundesarbeitsgericht.de: Eine Entgeltgleichheitsklage kann auf eine einzelne Vergleichsperson des anderen Geschlechts gestützt werden; bei Entgeltgleichheit gilt eine unionsrechtlich geprägte Beweislastlogik über Paragraf 22 AGG, ohne dass schon überwiegende Wahrscheinlichkeit verlangt wird.
 
 ## Normenradar
-Art. 157 AEUV, RL 2006/54/EG, AGG §§ 1, 7, 15, 22, EntgTranspG §§ 3, 5, 7, BGB § 611a, ggf. BetrVG § 87 Abs. 1 Nr. 10/11, variable Vergütung, Bonusplan, Aktien-/Phantom-Share-Regelwerk.
+Art. 157 AEUV, RL 2006/54/EG, AGG Paragrafen 1, 7, 15, 22, EntgTranspG Paragrafen 3, 5, 7, BGB Paragraf 611a, ggf. BetrVG Paragraf 87 Abs. 1 Nr. 10/11, variable Vergütung, Bonusplan, Aktien-/Phantom-Share-Regelwerk.
 
 ## Prüfprogramm
 1. **Vergleichsarbeit:** gleiche oder gleichwertige Arbeit, Job Level, tatsächliche Aufgaben, Verantwortung, Erfahrung, Standort, Vollzeit/Teilzeit.

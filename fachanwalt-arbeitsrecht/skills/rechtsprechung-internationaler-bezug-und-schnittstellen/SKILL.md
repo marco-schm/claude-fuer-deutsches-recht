@@ -20,8 +20,8 @@ description: "Internationaler Bezug im Arbeitsrecht: EuGH-Rechtsprechung (Massen
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Rechtsprechung — Internationaler Bezug und Schnittstellen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -40,33 +40,33 @@ Wenn ein Sachverhalt mit internationalem Bezug oder einer EU-Rechtsfrage vorlieg
 
 **EuGH C-134/24 / C-402/24 (30.10.2025):** Massenentlassungsanzeige ist Wirksamkeitsvoraussetzung. Fehler bei der Anzeige führen zur Unwirksamkeit der Kündigungen; keine Heilung nach Kündigungsausspruch. Die Anzeige muss vor Ausspruch der Kündigungen bei der zuständigen Behörde eingegangen sein.
 
-**Umsetzung in Deutschland:** § 17 KSchG; Konsequenz aus BAG 6 AZR 152/22 und EuGH-Linie: Anzeige nach Abschluss der BR-Konsultation, vor Ausspruch der Kündigungen.
+**Umsetzung in Deutschland:** Paragraf 17 KSchG; Konsequenz aus BAG 6 AZR 152/22 und EuGH-Linie: Anzeige nach Abschluss der BR-Konsultation, vor Ausspruch der Kündigungen.
 
 **Quellenregel:** EuGH-Urteile via [curia.europa.eu](https://curia.europa.eu); BAG via [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
 
 ### 2. Betriebsübergang — RL 2001/23/EG (Übergangsrichtlinie)
 
 - EuGH-Linie (Spector Rs. C-13/95 — Süzen und Nachfolgeentscheidungen): wirtschaftliche Einheit muss ihre Identität wahren; Kriterien für betriebsmittelintensive vs. dienstleistungsintensive Branchen unterschiedlich
-- Umsetzung in Deutschland: § 613a BGB
-- Haftungsfolgen: gesamtschuldnerische Haftung alter und neuer Inhaber (§ 613a Abs. 2 BGB)
+- Umsetzung in Deutschland: Paragraf 613a BGB
+- Haftungsfolgen: gesamtschuldnerische Haftung alter und neuer Inhaber (Paragraf 613a Abs. 2 BGB)
 
 ### 3. Urlaubsrecht — RL 2003/88/EG (Arbeitszeitrichtlinie)
 
 - **EuGH-Urteile:** Kein Verfall des Urlaubs ohne Hinweis des Arbeitgebers (Schultz-Hoff, King, Kreuziger); Deutschland hat dies im BUrlG durch BAG-Rechtsprechung umgesetzt
 - **BAG 9 AZR 104/24 (03.06.2025):** Kein Urlaubsverzicht durch Prozessvergleich
-- Umsetzung in Deutschland: §§ 1–13 BUrlG; BAG hat die EuGH-Linie integriert
+- Umsetzung in Deutschland: Paragrafen 1–13 BUrlG; BAG hat die EuGH-Linie integriert
 
 ### 4. Gleichbehandlung / Diskriminierung
 
 - **RL 2006/54/EG** (Gleichbehandlung bei Beschäftigung, Geschlecht): Umsetzung durch AGG
 - **RL 2000/43/EG** (Rassendiskriminierung), **RL 2000/78/EG** (allgemeiner Rahmen): ebenfalls AGG
-- **EuGH zur Beweislast:** Indizienvortrag genügt; Arbeitgeber muss widerlegen (umgesetzt in § 22 AGG)
+- **EuGH zur Beweislast:** Indizienvortrag genügt; Arbeitgeber muss widerlegen (umgesetzt in Paragraf 22 AGG)
 - **EU-Lohntransparenz-RL 2023/970:** Umsetzung bis 7. Juni 2026; aktuellen Stand live prüfen
 
 ### 5. Befristung — RL 1999/70/EG (Befristungsrichtlinie)
 
 - **Kettenbefristungsverbot:** RL schreibt Maßnahmen gegen Missbrauch vor; BAG hat Missbrauchsprüfung entwickelt
-- **EuGH zu Betriebsratsmitgliedern:** BAG 7 AZR 50/24 (18.06.2025) nach EuGH-Vorlage: § 14 Abs. 2 TzBfG gilt auch für BR-Mitglieder; Verweigerung des Folgevertrags wegen BR-Mandat = Schadensersatz
+- **EuGH zu Betriebsratsmitgliedern:** BAG 7 AZR 50/24 (18.06.2025) nach EuGH-Vorlage: Paragraf 14 Abs. 2 TzBfG gilt auch für BR-Mitglieder; Verweigerung des Folgevertrags wegen BR-Mandat = Schadensersatz
 
 ## Internationales Privatrecht — Rom I-VO Art. 8
 
@@ -88,17 +88,17 @@ Entsendendes Unternehmen muss Entsendung bei der ZKA (Zentrale Kontrolle der Sch
 
 | EuGH-Verfahren | Streitfrage | Deutsche Norm | Status |
 |---|---|---|---|
-| C-134/24 | Massenentlassung: Wirksamkeitsvoraussetzung | § 17 KSchG | Entschieden 30.10.2025 |
-| C-13/95 (Süzen) | Betriebsübergang: Identitätskriterien | § 613a BGB | Grundlegendes Urteil |
-| Schultz-Hoff | Urlaubsverfall bei Krankheit | § 7 BUrlG | Umgesetzt in BAG-Linie |
-| King | Urlaubsanspruch bei fehlendem Hinweis | § 7 BUrlG | Umgesetzt in BAG-Linie |
+| C-134/24 | Massenentlassung: Wirksamkeitsvoraussetzung | Paragraf 17 KSchG | Entschieden 30.10.2025 |
+| C-13/95 (Süzen) | Betriebsübergang: Identitätskriterien | Paragraf 613a BGB | Grundlegendes Urteil |
+| Schultz-Hoff | Urlaubsverfall bei Krankheit | Paragraf 7 BUrlG | Umgesetzt in BAG-Linie |
+| King | Urlaubsanspruch bei fehlendem Hinweis | Paragraf 7 BUrlG | Umgesetzt in BAG-Linie |
 
 **Wichtig:** Vor Ausgabe von EuGH-Aktenzeichen stets verifizieren auf [curia.europa.eu](https://curia.europa.eu). Keine Aktenzeichen aus Modellwissen ohne Verifikation.
 
 ## Anschluss-Skills
 - `spezial-rechtsprechung-livecheck-arbeitsrecht` für Live-Verifikation von Urteilen
-- `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` für § 17 KSchG-Details
-- `ar-betriebsuebergang-spezial` für § 613a BGB
+- `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` für Paragraf 17 KSchG-Details
+- `ar-betriebsuebergang-spezial` für Paragraf 613a BGB
 
 ## Was dieser Arbeitsgang nicht macht
 - Keine umfassende Beratung zu internationalem Arbeitsrecht in Drittstaaten (USA, Großbritannien etc.).

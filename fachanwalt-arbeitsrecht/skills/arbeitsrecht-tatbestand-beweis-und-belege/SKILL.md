@@ -1,9 +1,9 @@
 ---
 name: arbeitsrecht-tatbestand-beweis-und-belege
-description: "Tatbestand, Beweis und Belege im Arbeitsrechtsprozess: Darlegungs- und Beweislastverteilung nach Normen, abgestufte Darlegungslast BAG-Linie, Beweismittel im Arbeitsgerichtsverfahren, DSGVO-konforme Beweiserhebung § 26 BDSG: Tatbestand, Beweis und Belege i..."
+description: "Tatbestand, Beweis und Belege im Arbeitsrechtsprozess: Darlegungs- und Beweislastverteilung nach Normen, abgestufte Darlegungslast BAG-Linie, Beweismittel im Arbeitsgerichtsverfahren, DSGVO-konforme Beweiserhebung Paragraf 26 BDSG: Tatbestand, Beweis und Belege i..."
 ---
 
-# Tatbestand, Beweis und Belege im Arbeitsrechtsprozess: Darlegungs- und Beweislastverteilung nach Normen, abgestufte Darlegungslast BAG-Linie, Beweismittel im Arbeitsgerichtsverfahren, DSGVO-konforme Beweiserhebung § 26 BDSG.
+# Tatbestand, Beweis und Belege im Arbeitsrechtsprozess: Darlegungs- und Beweislastverteilung nach Normen, abgestufte Darlegungslast BAG-Linie, Beweismittel im Arbeitsgerichtsverfahren, DSGVO-konforme Beweiserhebung Paragraf 26 BDSG.
 
 
 ## Arbeitsweg
@@ -14,14 +14,14 @@ description: "Tatbestand, Beweis und Belege im Arbeitsrechtsprozess: Darlegungs-
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Tatbestand, Beweis und Belege im Arbeitsrechtsprozess: Darlegungs- und Beweislastverteilung nach Normen, abgestufte Darlegungslast BAG-Linie, Beweismittel im Arbeitsgerichtsverfahren, DSGVO-konforme Beweiserhebung § 26 BDSG.
+**Fokus:** Tatbestand, Beweis und Belege im Arbeitsrechtsprozess: Darlegungs- und Beweislastverteilung nach Normen, abgestufte Darlegungslast BAG-Linie, Beweismittel im Arbeitsgerichtsverfahren, DSGVO-konforme Beweiserhebung Paragraf 26 BDSG.
 
 ### Spezial: Tatbestand, Beweis und Belege im Arbeitsrecht
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Tatbestand, Beweis und Belege im Arbeitsrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -52,32 +52,32 @@ Das BAG hat für viele arbeitsrechtliche Konstellationen eine „abgestufte Darl
 | Streitpunkt | Beweislast |
 |---|---|
 | Zugang der Kündigung | Arbeitgeber |
-| Schriftform § 623 BGB | Arbeitgeber |
-| Betriebsgröße § 23 KSchG | Arbeitgeber (bei Bestreiten) |
+| Schriftform Paragraf 623 BGB | Arbeitgeber |
+| Betriebsgröße Paragraf 23 KSchG | Arbeitgeber (bei Bestreiten) |
 | Betriebszugehörigkeit | Arbeitnehmer |
 | Kündigungsgrund (allgemein) | Arbeitgeber |
 | Betriebsbedingt: dringendes Erfordernis | Arbeitgeber |
-| Sozialauswahl § 1 Abs. 3 KSchG | Arbeitgeber (nach Rüge des AN) |
-| BR-Anhörung § 102 BetrVG | Arbeitgeber |
+| Sozialauswahl Paragraf 1 Abs. 3 KSchG | Arbeitgeber (nach Rüge des AN) |
+| BR-Anhörung Paragraf 102 BetrVG | Arbeitgeber |
 | Sonderkündigungsschutz | Arbeitnehmer (Vorliegen des Schutztatbestands) |
-| Massenentlassungsanzeige § 17 KSchG | Arbeitgeber |
+| Massenentlassungsanzeige Paragraf 17 KSchG | Arbeitgeber |
 
 ### Befristung TzBfG
 
 | Streitpunkt | Beweislast |
 |---|---|
-| Sachgrund § 14 Abs. 1 TzBfG | Arbeitgeber |
-| Schriftform § 14 Abs. 4 TzBfG | Arbeitgeber |
-| Anschlussverbot § 14 Abs. 2 Satz 2 TzBfG | Arbeitgeber |
-| Klagefrist § 17 TzBfG gewahrt | Arbeitnehmer |
+| Sachgrund Paragraf 14 Abs. 1 TzBfG | Arbeitgeber |
+| Schriftform Paragraf 14 Abs. 4 TzBfG | Arbeitgeber |
+| Anschlussverbot Paragraf 14 Abs. 2 Satz 2 TzBfG | Arbeitgeber |
+| Klagefrist Paragraf 17 TzBfG gewahrt | Arbeitnehmer |
 
 ### Diskriminierung AGG
 
 | Streitpunkt | Beweislast |
 |---|---|
-| Indizien für Benachteiligung (§ 22 AGG) | Arbeitnehmer (Glaubhaftmachung) |
+| Indizien für Benachteiligung (Paragraf 22 AGG) | Arbeitnehmer (Glaubhaftmachung) |
 | Rechtfertigung der Benachteiligung | Arbeitgeber (nach Indizienvortrag) |
-| Einhaltung der Ausschlussfrist § 15 Abs. 4 AGG | Arbeitnehmer |
+| Einhaltung der Ausschlussfrist Paragraf 15 Abs. 4 AGG | Arbeitnehmer |
 
 ### Vergütung / Mindestlohn
 
@@ -89,34 +89,34 @@ Das BAG hat für viele arbeitsrechtliche Konstellationen eine „abgestufte Darl
 
 ## Beweismittel im Arbeitsgerichtsverfahren
 
-### Zulässige Beweismittel (§ 46 Abs. 2 ArbGG i.V.m. ZPO)
-- Urkunden (§§ 415 ff. ZPO): Arbeitsvertrag, Abmahnung, Kündigung, Protokolle, E-Mails
-- Zeugen (§§ 373 ff. ZPO): Kollegen, HR-Mitarbeiter, externe Boten
-- Parteivernehmung (§§ 445 ff. ZPO): selten angeordnet, aber möglich
-- Sachverständige (§§ 402 ff. ZPO): bei Fragen medizinischer Eignung, technischer Fragen
+### Zulässige Beweismittel (Paragraf 46 Abs. 2 ArbGG i.V.m. ZPO)
+- Urkunden (Paragrafen 415 ff. ZPO): Arbeitsvertrag, Abmahnung, Kündigung, Protokolle, E-Mails
+- Zeugen (Paragrafen 373 ff. ZPO): Kollegen, HR-Mitarbeiter, externe Boten
+- Parteivernehmung (Paragrafen 445 ff. ZPO): selten angeordnet, aber möglich
+- Sachverständige (Paragrafen 402 ff. ZPO): bei Fragen medizinischer Eignung, technischer Fragen
 
 ### Elektronische Beweismittel (E-Mails, Chats, Screenshots)
-- Zulässig als Urkundenbeweis wenn ausgedruckt (§ 416 ZPO: Privaturkunde)
+- Zulässig als Urkundenbeweis wenn ausgedruckt (Paragraf 416 ZPO: Privaturkunde)
 - Beweiswert: Inhalt unstreitig oder Echtheit bestätigt
 - DSGVO-Frage: Wurden sie rechtmäßig erhoben?
 
-## DSGVO-konforme Beweiserhebung § 26 BDSG
+## DSGVO-konforme Beweiserhebung Paragraf 26 BDSG
 
 ### Grundregel
-Datenerhebung im Arbeitsverhältnis ist nur zulässig, wenn sie zur Durchführung oder Beendigung des Beschäftigungsverhältnisses erforderlich ist oder ein berechtigtes Interesse vorliegt (§ 26 Abs. 1 BDSG).
+Datenerhebung im Arbeitsverhältnis ist nur zulässig, wenn sie zur Durchführung oder Beendigung des Beschäftigungsverhältnisses erforderlich ist oder ein berechtigtes Interesse vorliegt (Paragraf 26 Abs. 1 BDSG).
 
 ### Videoüberwachung
-- Offene Videoüberwachung: Hinweis erforderlich; Mitbestimmung BR (§ 87 Abs. 1 Nr. 6 BetrVG)
+- Offene Videoüberwachung: Hinweis erforderlich; Mitbestimmung BR (Paragraf 87 Abs. 1 Nr. 6 BetrVG)
 - Heimliche Videoüberwachung: nur bei konkretem Verdacht einer schwerwiegenden Straftat; Verhältnismäßigkeit
 - BAG zur heimlichen Videoüberwachung: Verwertungsverbot bei unverhältnismäßigem Eingriff
 
 ### GPS-Ortung, Keylogger, E-Mail-Überwachung
 - Grundsätzlich nur mit Einwilligung oder aufgrund von BetrV-Grundlagen
 - Verwertungsverbot: Rechtswidrig erlangte Beweise können einem Beweisverwertungsverbot unterliegen; BAG-Abwägung im Einzelfall
-- **Aktuelle BAG-Linie zu § 26 BDSG und Verwertungsverboten vor Ausgabe live prüfen**
+- **Aktuelle BAG-Linie zu Paragraf 26 BDSG und Verwertungsverboten vor Ausgabe live prüfen**
 
 ### DSGVO-Auskunftsanspruch als Beweismittel
-- § 15 DSGVO: Betroffenenauskunft kann im Prozess zur Ermittlung von Beweismitteln genutzt werden
+- Paragraf 15 DSGVO: Betroffenenauskunft kann im Prozess zur Ermittlung von Beweismitteln genutzt werden
 - BAG 8 AZR 61/24 (20.02.2025): Kein DSGVO-Schadensersatz allein wegen „Störgefühls"; überprüfbarer Kontrollverlust erforderlich
 
 ## Lückentafel — Checkliste fehlende Belege
@@ -125,7 +125,7 @@ Datenerhebung im Arbeitsverhältnis ist nur zulässig, wenn sie zur Durchführun
 |---|---|---|---|
 | Zugang Kündigung | ? | ? | Beweisvermerk, Zeugen |
 | BR-Anhörung | ? | ? | Protokoll anfordern |
-| Sozialauswahl | ? | ? | Namensliste § 1 Abs. 3 Satz 1 KSchG anfordern |
+| Sozialauswahl | ? | ? | Namensliste Paragraf 1 Abs. 3 Satz 1 KSchG anfordern |
 | Kündigungsgründe | ? | ? | Begründungsschreiben, Personalakte |
 
 ## Anschluss-Skills

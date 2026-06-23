@@ -20,8 +20,8 @@ description: "Fachanwalt Arbeitsrecht Betriebsratsbeschluss Heilung: ordnet Norm
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt Arbeitsrecht — Betriebsratsbeschluss-Heilung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -30,16 +30,16 @@ description: "Fachanwalt Arbeitsrecht Betriebsratsbeschluss Heilung: ordnet Norm
 
 - Betriebsrat mandatiert einen Anwalt für ein Beschlussverfahren; Arbeitgeber rügt den Beschluss.
 - Mandatierungs- oder Anrufungsbeschluss des Betriebsrats ist formal fehlerhaft.
-- Anwaltskostenfreistellung nach § 40 Abs. 1 BetrVG soll durchgesetzt werden.
+- Anwaltskostenfreistellung nach Paragraf 40 Abs. 1 BetrVG soll durchgesetzt werden.
 - Heilung durch nachträglichen Beschluss ist möglich oder bereits durchgeführt.
 
 ## Mandantenfragen — Kaltstart
 
 1. **Welcher Beschluss soll gerichtlich umgesetzt werden?** — Wortlaut, Datum, Tagesordnungspunkt sichern; Protokoll als Primärdokument.
-2. **Wer war ordentliches Mitglied zum Zeitpunkt der Sitzung?** — Vollständige Mitgliederliste nach § 9 BetrVG erforderlich.
+2. **Wer war ordentliches Mitglied zum Zeitpunkt der Sitzung?** — Vollständige Mitgliederliste nach Paragraf 9 BetrVG erforderlich.
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-4. **Wer ist als Ersatzmitglied nachgerückt?** — Richtigkeit der Nachrückliste nach § 25 Abs. 2 BetrVG; Geschlechterquote § 15 Abs. 2 BetrVG eingehalten?
-5. **Wurde Quorum erreicht?** — § 33 Abs. 2 BetrVG: Mehrheit der Betriebsratsmitglieder muss anwesend sein.
+4. **Wer ist als Ersatzmitglied nachgerückt?** — Richtigkeit der Nachrückliste nach Paragraf 25 Abs. 2 BetrVG; Geschlechterquote Paragraf 15 Abs. 2 BetrVG eingehalten?
+5. **Wurde Quorum erreicht?** — Paragraf 33 Abs. 2 BetrVG: Mehrheit der Betriebsratsmitglieder muss anwesend sein.
 6. **Wurde die Anwaltsbeauftragung in derselben Sitzung beschlossen?** — Getrennte Beschlüsse über Hauptsache und Mandatierung können unterschiedliche Mängel aufweisen.
 7. **Wann hat der Arbeitgeber den Mangel gerügt?** — Heilung auch noch während des laufenden Verfahrens möglich; Zeitpunkt bestimmt die Verfahrens-Taktik.
 8. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -49,13 +49,13 @@ description: "Fachanwalt Arbeitsrecht Betriebsratsbeschluss Heilung: ordnet Norm
 
 | Norm | Inhalt |
 |---|---|
-| § 25 Abs. 2 BetrVG | Ersatzmitglieder-Nachrückreihenfolge; Verletzung = wesentlicher Verfahrensmangel |
-| § 29 Abs. 2 BetrVG | Ladung zu Betriebsratssitzung; Form, Inhalt, Frist |
-| § 33 Abs. 2 BetrVG | Beschlussfähigkeit: Mehrheit der BR-Mitglieder anwesend |
-| § 33 Abs. 1 BetrVG | Beschlussfassung: Mehrheit der anwesenden Mitglieder |
-| § 15 Abs. 2 BetrVG | Geschlechterquote im Betriebsrat |
-| § 40 Abs. 1 BetrVG | Kostenfreistellung Anwaltskosten durch Arbeitgeber |
-| § 184 Abs. 1 BGB | Rückwirkung der Genehmigung auf Vornahme des genehmigten Rechtsgeschäfts |
+| Paragraf 25 Abs. 2 BetrVG | Ersatzmitglieder-Nachrückreihenfolge; Verletzung = wesentlicher Verfahrensmangel |
+| Paragraf 29 Abs. 2 BetrVG | Ladung zu Betriebsratssitzung; Form, Inhalt, Frist |
+| Paragraf 33 Abs. 2 BetrVG | Beschlussfähigkeit: Mehrheit der BR-Mitglieder anwesend |
+| Paragraf 33 Abs. 1 BetrVG | Beschlussfassung: Mehrheit der anwesenden Mitglieder |
+| Paragraf 15 Abs. 2 BetrVG | Geschlechterquote im Betriebsrat |
+| Paragraf 40 Abs. 1 BetrVG | Kostenfreistellung Anwaltskosten durch Arbeitgeber |
+| Paragraf 184 Abs. 1 BGB | Rückwirkung der Genehmigung auf Vornahme des genehmigten Rechtsgeschäfts |
 
 ### Leitentscheidungen
 
@@ -69,14 +69,14 @@ description: "Fachanwalt Arbeitsrecht Betriebsratsbeschluss Heilung: ordnet Norm
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge bei Verstoß |
 |---|---|---|---|
-| 1 | Ladung ordnungsgemäß? Form + Frist + Tagesordnung | § 29 Abs. 2 BetrVG | Relativer Mangel; heilbar |
-| 2 | Vorsitzender leitete die Sitzung? | § 26 Abs. 1 BetrVG | Absoluter Mangel |
-| 3 | Beschlussfähigkeit — Mehrheit anwesend? | § 33 Abs. 2 BetrVG | Beschluss nichtig |
-| 4 | Verhinderung ordentlicher Mitglieder bekannt? Wann? | § 25 Abs. 2 BetrVG | Wesentlicher Verfahrensmangel |
+| 1 | Ladung ordnungsgemäß? Form + Frist + Tagesordnung | Paragraf 29 Abs. 2 BetrVG | Relativer Mangel; heilbar |
+| 2 | Vorsitzender leitete die Sitzung? | Paragraf 26 Abs. 1 BetrVG | Absoluter Mangel |
+| 3 | Beschlussfähigkeit — Mehrheit anwesend? | Paragraf 33 Abs. 2 BetrVG | Beschluss nichtig |
+| 4 | Verhinderung ordentlicher Mitglieder bekannt? Wann? | Paragraf 25 Abs. 2 BetrVG | Wesentlicher Verfahrensmangel |
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| 6 | Geschlechterquote eingehalten? | § 15 Abs. 2 BetrVG | Wesentlicher Mangel |
-| 7 | Anwaltsbeauftragung: Erforderlichkeit begründet? | § 40 Abs. 1 BetrVG | Kostentragung entfällt |
-| 8 | Beschlussmehrheit erreicht? | § 33 Abs. 1 BetrVG | Beschluss unwirksam |
+| 6 | Geschlechterquote eingehalten? | Paragraf 15 Abs. 2 BetrVG | Wesentlicher Mangel |
+| 7 | Anwaltsbeauftragung: Erforderlichkeit begründet? | Paragraf 40 Abs. 1 BetrVG | Kostentragung entfällt |
+| 8 | Beschlussmehrheit erreicht? | Paragraf 33 Abs. 1 BetrVG | Beschluss unwirksam |
 
 ## Strategische Triage
 
@@ -89,7 +89,7 @@ Mandatsausübung normal weiterführen. Protokoll und Ladungsnachweise zur Akte n
 Sofort zur **Heilungssitzung** raten, bevor der Arbeitgeber den Mangel rügt:
 
 1. Betriebsrat zur unverzüglichen Einberufung einer Heilungssitzung anhalten.
-2. Tagesordnung präzise formulieren: "Nachträgliche Genehmigung des Beschlusses vom [Datum] gemäß § 184 Abs. 1 BGB zur Beauftragung von Rechtsanwalt [Name]."
+2. Tagesordnung präzise formulieren: "Nachträgliche Genehmigung des Beschlusses vom [Datum] gemäß Paragraf 184 Abs. 1 BGB zur Beauftragung von Rechtsanwalt [Name]."
 3. Korrekte Ladung und Nachrückreihenfolge prüfen und sicherstellen.
 4. Beschluss mit klarem Genehmigungswortlaut formulieren.
 5. Heilungsprotokoll mit Unterschriften aller Anwesenden zur Akte.
@@ -99,7 +99,7 @@ Sofort zur **Heilungssitzung** raten, bevor der Arbeitgeber den Mangel rügt:
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Heilungsbeschluss in ordnungsgemäßer Sitzung fassen.
 - Heilungsbeschluss im Verfahren vortragen (Schriftsatznachreichung oder in der Verhandlung).
-- Heilung wirkt nach § 184 Abs. 1 BGB auf den Zeitpunkt der ursprünglichen Beauftragung zurück.
+- Heilung wirkt nach Paragraf 184 Abs. 1 BGB auf den Zeitpunkt der ursprünglichen Beauftragung zurück.
 - Für die Anwaltskostenfreistellung gilt die Heilung auch noch nach Verfahrensabschluss.
 
 ### Variante D — Mandant zahlt Anwaltsrechnung, Arbeitgeber verweigert Freistellung
@@ -127,20 +127,20 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ```
 Zur Rüge des Antragsgegnervertreters, der Mandatierungs-
-beschluss vom [Datum] sei wegen Verstoßes gegen § 25 Abs. 2
+beschluss vom [Datum] sei wegen Verstoßes gegen Paragraf 25 Abs. 2
 BetrVG unwirksam:
 
 Selbst wenn dies zutreffen sollte — was vorsorglich
 bestritten wird — wäre der Mangel mit Beschluss des
 Betriebsrats vom [Datum Heilung] geheilt. Der Betriebsrat
 hat in ordnungsgemäß geladener und besetzter Sitzung die
-ursprüngliche Mandatierung gemäß § 184 Abs. 1 BGB
+ursprüngliche Mandatierung gemäß Paragraf 184 Abs. 1 BGB
 rückwirkend genehmigt.
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Genehmigung möglich ist und die Erforderlichkeitsprüfung
-nach § 40 Abs. 1 BetrVG durch die Rückwirkung nicht
+nach Paragraf 40 Abs. 1 BetrVG durch die Rückwirkung nicht
 relativiert wird, sofern der nachgeholte Beschluss einen
 zuvor gebildeten Willen verfahrenskonform bestätigt.
 
@@ -164,10 +164,10 @@ Begründung:
 
 2. Auch wenn dieser Beschluss zunächst formell fehlerhaft
  gewesen sein sollte, wurde er mit Beschluss vom
- [Datum Heilung] nach § 184 Abs. 1 BGB rückwirkend
+ [Datum Heilung] nach Paragraf 184 Abs. 1 BGB rückwirkend
  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-3. Die Beauftragung war erforderlich i.S.d. § 40 Abs. 1
+3. Die Beauftragung war erforderlich i.S.d. Paragraf 40 Abs. 1
  BetrVG, weil [konkrete Begründung: Komplexität der
  Rechtsfrage, drohende Nachteile für den Betriebsrat,
  fehlende eigene Sachkunde].
@@ -179,7 +179,7 @@ Begründung:
 - **Heilung ≠ Neuvornahme**: Der Wille muss inhaltlich identisch sein. Bei inhaltlicher Änderung liegt ein neuer Beschluss vor, keine Heilung.
 - **Heilungssitzung selbst mangelfrei**: Eine fehlerhaft einberufene oder falsch besetzte Heilungssitzung heilt nichts.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **Geschlechterquote bei Nachrücken**: § 15 Abs. 2 BetrVG gilt auch für Ersatzmitglieder; falsche Reihenfolge ist eigenständiger Mangel.
+- **Geschlechterquote bei Nachrücken**: Paragraf 15 Abs. 2 BetrVG gilt auch für Ersatzmitglieder; falsche Reihenfolge ist eigenständiger Mangel.
 
 ## Praktische Checkliste bei Erstkontakt mit Betriebsrat
 
@@ -209,16 +209,16 @@ Begründung:
 
 | Frist | Dauer | Rechtsgrundlage |
 |---|---|---|
-| Ladungsfrist Betriebsratssitzung | "rechtzeitig" (mindestens 2 Arbeitstage) | § 29 Abs. 2 BetrVG |
+| Ladungsfrist Betriebsratssitzung | "rechtzeitig" (mindestens 2 Arbeitstage) | Paragraf 29 Abs. 2 BetrVG |
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| Anspruch auf Anwaltskostenfreistellung | 3 Jahre reguläre Verjährung | §§ 195, 199 BGB |
+| Anspruch auf Anwaltskostenfreistellung | 3 Jahre reguläre Verjährung | Paragrafen 195, 199 BGB |
 | Rüge des Arbeitgebers | nicht präkludiert; jederzeit möglich | Keine Ausschluss-Frist |
 
 ## Streitwert und Kosten
 
-- **Hauptsache** (Beschlussverfahren): Streitwert nach § 23 Abs. 3 RVG; typisch 1.000–10.000 EUR.
+- **Hauptsache** (Beschlussverfahren): Streitwert nach Paragraf 23 Abs. 3 RVG; typisch 1.000–10.000 EUR.
 - **Anwaltskostenfreistellung**: Streitwert = Rechnungsbetrag des Rechtsanwalts.
-- **Kostenerstattung im Beschlussverfahren**: § 12a ArbGG — keine Anwalts-Kostenerstattung im ersten Rechtszug; im Beschwerdeverfahren nach § 78 ArbGG.
+- **Kostenerstattung im Beschlussverfahren**: Paragraf 12a ArbGG — keine Anwalts-Kostenerstattung im ersten Rechtszug; im Beschwerdeverfahren nach Paragraf 78 ArbGG.
 - Mandatierungsbeschluss sauber halten spart im Zweifelsfall erheblichen Aufwand im Heilungsverfahren.
 
 ## Strategische Empfehlung
@@ -239,9 +239,9 @@ Begründung:
 
 ## Quellen
 
-- BetrVG §§ 15, 25, 26, 29, 33, 40
-- BGB § 184 Abs. 1
-- ArbGG §§ 12a, 78
+- BetrVG Paragrafen 15, 25, 26, 29, 33, 40
+- BGB Paragraf 184 Abs. 1
+- ArbGG Paragrafen 12a, 78
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Fitting BetrVG-Kommentar; DKKW BetrVG
 

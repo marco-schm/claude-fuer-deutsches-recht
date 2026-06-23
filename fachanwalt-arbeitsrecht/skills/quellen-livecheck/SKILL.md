@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Quellen-Live-Check für Fachanwalt Arbeitsrecht: prüft Normen (BGB §§ 611a ff., 623, KSchG §§ 1/4/7, AGG) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Arbeitsgericht (1. Instanz) und Quellenhygiene nach references/quellenhygiene.md."
+description: "Quellen-Live-Check für Fachanwalt Arbeitsrecht: prüft Normen (BGB Paragrafen 611a ff., 623, KSchG Paragrafen 1/4/7, AGG) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Arbeitsgericht (1. Instanz) und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck

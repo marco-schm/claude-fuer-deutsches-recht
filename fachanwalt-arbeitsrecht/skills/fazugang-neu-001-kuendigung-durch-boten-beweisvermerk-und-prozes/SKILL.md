@@ -20,8 +20,8 @@ description: "Zugang der Kündigung durch Boten: Beweisvermerk-Erstellung, Zeuge
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Zugang der Kündigung durch Boten — Beweisvermerk und Prozessstrategie` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -33,11 +33,11 @@ Wenn ein Sachverhaltsbericht oder Schriftstücke vorliegen, diese zuerst auswert
 2. **Wer hat die Kündigung überbracht?** Unternehmensangehöriger, privater Bote, Paketdienst, Kurier?
 3. **Was ist bewiesen?** Vorhandene Zeugen, schriftliche Vermerke, Quittungen, Fotos?
 4. **Was ist streitig?** Nur der Zeitpunkt oder auch der Inhalt?
-5. **Fristlage:** Liegt die behauptete Frist noch innerhalb der 3-Wochen-Klagefrist § 4 KSchG?
+5. **Fristlage:** Liegt die behauptete Frist noch innerhalb der 3-Wochen-Klagefrist Paragraf 4 KSchG?
 
 ## Rechtsgrundlagen
 
-### Zugang § 130 BGB
+### Zugang Paragraf 130 BGB
 Eine Willenserklärung geht zu, wenn sie so in den Machtbereich des Empfängers gelangt ist, dass dieser unter normalen Umständen von ihr Kenntnis nehmen kann.
 - Bei schriftlicher Kündigung: Einwurf in Briefkasten oder persönliche Übergabe
 - Maßgeblicher Zeitpunkt: nicht die tatsächliche Kenntnisnahme, sondern die Möglichkeit dazu
@@ -92,22 +92,22 @@ Unterschrift Zeuge (falls vorhanden): _______________
 4. Ggf. Notar für besonders kritische Fälle
 
 ### Gerichtsvollzieher-Zustellung
-Alternativ zur Botenzustellung kann der Gerichtsvollzieher beauftragt werden (§§ 132, 133 ZPO analog über den Anwalt; oder Privatzustellung). Vorteil: öffentliche Urkunde mit Beweiskraft des § 418 ZPO.
+Alternativ zur Botenzustellung kann der Gerichtsvollzieher beauftragt werden (Paragrafen 132, 133 ZPO analog über den Anwalt; oder Privatzustellung). Vorteil: öffentliche Urkunde mit Beweiskraft des Paragraf 418 ZPO.
 
 ## Prozessstrategie bei bestrienem Zugang
 
 ### Arbeitgeber — bei Zugangsvortrag des AN zweifelhaft
 - Konkreten Boten-Beweisvermerk in den Prozess einführen
-- Zeugen benennen (§ 373 ZPO)
+- Zeugen benennen (Paragraf 373 ZPO)
 - Wenn nötig: Eidesstattliche Versicherung des Boten vorlegen
 - Gerichtliche Inaugenscheinnahme des Briefkastens beantragen (selten, aber möglich)
-- Hilfsargument: Zugangsvereitelung durch Arbeitnehmer (§ 162 BGB), wenn AN vorsätzlich Zugang verhindert
+- Hilfsargument: Zugangsvereitelung durch Arbeitnehmer (Paragraf 162 BGB), wenn AN vorsätzlich Zugang verhindert
 
 ### Arbeitnehmer — Zugangszeitpunkt anfechten
 - Genaues Datum des Briefkasteneinwurfs bezweifeln (unzureichender Beweisvermerk)
 - Alibi/Urlaub/Krankheit als Beleg für Abwesenheit, aber: Zugang trotzdem möglich (→ Skill fazugang-neu-003)
 - Inhalt des Umschlags bestreiten (→ Skill fazugang-neu-004)
-- Nie pauschal lügen; § 138 ZPO (Wahrheitspflicht); strafrechtliche Implikation bei falschen Angaben
+- Nie pauschal lügen; Paragraf 138 ZPO (Wahrheitspflicht); strafrechtliche Implikation bei falschen Angaben
 
 ## Typische Fallstricke
 

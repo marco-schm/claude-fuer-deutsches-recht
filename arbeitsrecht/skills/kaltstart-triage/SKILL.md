@@ -19,8 +19,8 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Arbeitsrecht — Allgemein` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -29,7 +29,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Arbeitsrecht**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
 
-**Plugin-Fokus:** Arbeitsrecht mit Quellen-Gate `rechtsstand-mai-2026-faktenbank`: BAG/BSG-Linien zu Equal Pay/Paarvergleich, Mindesturlaub, Freistellungsklauseln, Statusfeststellung und Lohn/SV nur mit freier Quelle. Individualkündigung, KSchG-Klage, Drei-Wochen-Frist, Aufhebungsvertrag/Sperrzeit, Abmahnung, Betriebsratsanhörung § 102 BetrVG, TzBfG.
+**Plugin-Fokus:** Arbeitsrecht mit Quellen-Gate `rechtsstand-mai-2026-faktenbank`: BAG/BSG-Linien zu Equal Pay/Paarvergleich, Mindesturlaub, Freistellungsklauseln, Statusfeststellung und Lohn/SV nur mit freier Quelle. Individualkündigung, KSchG-Klage, Drei-Wochen-Frist, Aufhebungsvertrag/Sperrzeit, Abmahnung, Betriebsratsanhörung Paragraf 102 BetrVG, TzBfG.
 
 Wenn der Nutzer noch gar nicht weiss, was eigentlich das arbeitsrechtliche Problem ist, starte mit `arbeitsrecht-problem-sortieren`. Ordne Rolle, Ziel, Fristen, Unterlagen, Konfliktintensitaet und Ausgabeformat, bevor Kündigung, Befristung, Lohn, Betriebsrat oder AGG vertieft werden.
 
@@ -123,36 +123,36 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 | Skill | Wann vorschlagen? |
 |---|---|
-| `abmahnung-arbeitsrecht` | Arbeitgeber will Arbeitnehmer abmahnen oder Arbeitnehmer hat Abmahnung erhalten und will sie anfechten. Prüfraster Warnfunktion Ruegefunktion Dokumentationsfunktion nach BAG-Rspr. § 314 Abs. 2 BGB § 241 Abs. 2 BGB.… |
-| `agg-pruefung-bewerber-und-beschaeftigte` | AGG-Prüfung bei Bewerbung und Beschäftigung: Diskriminierungsmerkmale § 1 AGG, Benachteiligungsverbot § 7 AGG, Entschädigungs- und Schadensersatzansprüche § 15 AGG, Beweislastumkehr § 22 AGG, Geltendmachungsfrist § 15… |
-| `arbeitnehmer-status` | Statusfeststellung für eine geplante Beschäftigung - Abgrenzung Arbeitnehmer/Selbständiger nach § 611a BGB, Scheinselbständigkeit, Clearingverfahren § 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs. Werkvertrag).… |
+| `abmahnung-arbeitsrecht` | Arbeitgeber will Arbeitnehmer abmahnen oder Arbeitnehmer hat Abmahnung erhalten und will sie anfechten. Prüfraster Warnfunktion Ruegefunktion Dokumentationsfunktion nach BAG-Rspr. Paragraf 314 Abs. 2 BGB Paragraf 241 Abs. 2 BGB.… |
+| `agg-pruefung-bewerber-und-beschaeftigte` | AGG-Prüfung bei Bewerbung und Beschäftigung: Diskriminierungsmerkmale Paragraf 1 AGG, Benachteiligungsverbot Paragraf 7 AGG, Entschädigungs- und Schadensersatzansprüche Paragraf 15 AGG, Beweislastumkehr Paragraf 22 AGG, Geltendmachungsfrist Paragraf 15… |
+| `arbeitnehmer-status` | Statusfeststellung für eine geplante Beschäftigung - Abgrenzung Arbeitnehmer/Selbständiger nach Paragraf 611a BGB, Scheinselbständigkeit, Clearingverfahren Paragraf 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs. Werkvertrag).… |
 | `arbeitsrecht-anpassen` | Gezielte Anpassung des Arbeitsrechts-Praxisprofils – Standort-Fußabdruck, Risikoeinstellung, Eskalationskontakte, Einstellungsregeln, Kündigungsregeln, Handbuchpositionen oder Untersuchungseinstellungen ändern, ohne… |
 | `arbeitsrecht-kaltstart-interview` | Ersteinrichtung des Arbeitsrecht-Plugins – ermittelt Standortprofil, Tarifbindung, Betriebsratssituation und Eskalationsregeln aus Personalhandbuch und Kündigungsunterlagen. Ausführen bei Neuinstallation, wenn… |
 | `arbeitsrecht-mandat-arbeitsbereich` | Mandatsakten verwalten – neu anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen. Verhindert, dass Kontext von einem Mandat in ein anderes übergeht. Relevant für Kanzleien mit mehreren Mandanten;… |
-| `aufhebungsvertrag` | Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags. Lädt, wenn ein Arbeitsverhältnis einvernehmlich beendet werden soll – mit Fokus auf Schriftform (§ 623 BGB), Sperrzeit nach § 159 SGB III, Abfindung,… |
-| `aufhebungsvertrag-sperrzeit-prognose` | Mandant hat Aufhebungsvertrag erhalten und fragt ob er Sperrzeit beim Arbeitslosengeld riskiert. Prüfraster wichtiger Grund § 159 SGB III Selbst-Kündigungsaequivalenz. Faustformel Abfindungsschutz 0.25 bis 0.5… |
+| `aufhebungsvertrag` | Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags. Lädt, wenn ein Arbeitsverhältnis einvernehmlich beendet werden soll – mit Fokus auf Schriftform (Paragraf 623 BGB), Sperrzeit nach Paragraf 159 SGB III, Abfindung,… |
+| `aufhebungsvertrag-sperrzeit-prognose` | Mandant hat Aufhebungsvertrag erhalten und fragt ob er Sperrzeit beim Arbeitslosengeld riskiert. Prüfraster wichtiger Grund Paragraf 159 SGB III Selbst-Kündigungsaequivalenz. Faustformel Abfindungsschutz 0.25 bis 0.5… |
 | `rechtsstand-mai-2026-faktenbank` | Quellen-Gate für aktuelle arbeitsrechtliche Aussagen. Vor BAG-/BSG-Zitaten, Statusfeststellung, Urlaub, AGG/Equal Pay, Freistellung, Lohn/SV und Kündigungsfragen laden; gibt nur freie/amtliche Quellenanker aus. |
 | Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| `betriebsrat-anhoerung` | Prüft und dokumentiert die ordnungsgemäße Anhörung des Betriebsrats vor Kündigungen nach § 102 BetrVG. Lädt, wenn die Wirksamkeit einer BR-Anhörung (Inhalt, Fristen, Reaktion des BR) beurteilt oder ein… |
+| `betriebsrat-anhoerung` | Prüft und dokumentiert die ordnungsgemäße Anhörung des Betriebsrats vor Kündigungen nach Paragraf 102 BetrVG. Lädt, wenn die Wirksamkeit einer BR-Anhörung (Inhalt, Fristen, Reaktion des BR) beurteilt oder ein… |
 | Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| `betriebsrat-ladung-und-ersatzmitglieder-pruefen` | Prüfung der ordnungsgemäßen Ladung und Besetzung einer Betriebsratssitzung nach § 29 Abs. 2 BetrVG und § 25 Abs. 2 BetrVG. Wer war geladen, wer war verhindert, wer ist nachgerückt, hat das richtige Ersatzmitglied… |
-| `betriebsuebergang-613a-pruefen` | Unternehmen wird verkauft oder Betrieb geht auf neuen Inhaber über und Arbeitnehmer fragen nach Rechten oder Kündigungsschutz. Prüfraster Identitätswahrung wirtschaftliche Einheit EuGH-Suezen-Kriterien § 613a BGB.… |
+| `betriebsrat-ladung-und-ersatzmitglieder-pruefen` | Prüfung der ordnungsgemäßen Ladung und Besetzung einer Betriebsratssitzung nach Paragraf 29 Abs. 2 BetrVG und Paragraf 25 Abs. 2 BetrVG. Wer war geladen, wer war verhindert, wer ist nachgerückt, hat das richtige Ersatzmitglied… |
+| `betriebsuebergang-613a-pruefen` | Unternehmen wird verkauft oder Betrieb geht auf neuen Inhaber über und Arbeitnehmer fragen nach Rechten oder Kündigungsschutz. Prüfraster Identitätswahrung wirtschaftliche Einheit EuGH-Suezen-Kriterien Paragraf 613a BGB.… |
 | `einstellungspruefung` | Prüfung von Arbeitsvertrag und Befristung bei Neueinstellungen: TzBfG (Sachgrund, Vorbeschaeftigungsverbot), AGG (diskriminierungsfreie Ausschreibung), AUeG (Abgrenzung Arbeitnehmerüberlassung), Nachweisgesetz sowie… |
-| `entfristung-elektronische-signatur-vorsicht` | Elektronische Signaturen und Befristungsabreden: Scan/einfache Signatur genügen nicht; echte QES nach § 126a BGB kann genügen. Prüft DocuSign, Adobe Sign, Zertifikate, Timing und Zugang.… |
-| `entfristung-grundwarnung-drei-wochen-frist` | Grundwarnung Entfristungsklage: § 17 TzBfG drei Wochen ab vereinbartem Vertragsende; absolute Ausschlussfrist; § 17 Satz 2 TzBfG i.V.m. § 7 KSchG Fiktion Wirksamkeit der Befristung bei Fristversaeumnis;… |
+| `entfristung-elektronische-signatur-vorsicht` | Elektronische Signaturen und Befristungsabreden: Scan/einfache Signatur genügen nicht; echte QES nach Paragraf 126a BGB kann genügen. Prüft DocuSign, Adobe Sign, Zertifikate, Timing und Zugang.… |
+| `entfristung-grundwarnung-drei-wochen-frist` | Grundwarnung Entfristungsklage: Paragraf 17 TzBfG drei Wochen ab vereinbartem Vertragsende; absolute Ausschlussfrist; Paragraf 17 Satz 2 TzBfG i.V.m. Paragraf 7 KSchG Fiktion Wirksamkeit der Befristung bei Fristversaeumnis;… |
 | `entfristung-guetetermin-und-kammertermin-sprechzettel` | Sprechzettel für Guetetermin und Kammertermin in der Entfristungsklage: Antragsstellung; Kernargumente Schriftformmangel und Sachgrundmangel; Vergleichsstrategie; Vorbereitung Zeugenvernehmung; Verhandlungsposition;… |
-| `entfristung-klageschrift-anwalt-baustein` | Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag und Hilfsanträgen; Weiterbeschaeftigungsantrag; strukturierte Begründung nach § 14 Abs. 4 TzBfG und Sachgrundprüfung; Beweisangebote im BAG-Zitierstil. |
+| `entfristung-klageschrift-anwalt-baustein` | Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag und Hilfsanträgen; Weiterbeschaeftigungsantrag; strukturierte Begründung nach Paragraf 14 Abs. 4 TzBfG und Sachgrundprüfung; Beweisangebote im BAG-Zitierstil. |
 | `entfristung-klageschrift-laie-baustein` | Schritt-für-Schritt Klageschrift Entfristungsklage für Laien: Rubrum; Feststellungsantrag Unbefristetheit; Begründungsbausteine für Schriftformmangel und fehlenden Sachgrund; Beweisangebote; Pflicht-Disclaimer. |
-| `entfristung-laie-oder-anwalt-frage` | Statusabfrage Entfristungsklage: Anwalt oder Laie; bei Laie Warnungen und Empfehlung anwaltlicher Beratung; kein Mandatsverhältnis; Hinweis auf § 17 TzBfG Drei-Wochen-Frist als kritischste Ausschlussfrist. |
+| `entfristung-laie-oder-anwalt-frage` | Statusabfrage Entfristungsklage: Anwalt oder Laie; bei Laie Warnungen und Empfehlung anwaltlicher Beratung; kein Mandatsverhältnis; Hinweis auf Paragraf 17 TzBfG Drei-Wochen-Frist als kritischste Ausschlussfrist. |
 | `entfristung-output-warnschriftsatz-laie` | Vollständige Klageschrift Entfristungsklage mit Pflicht-Disclaimer für Laien; Zusammenführung aller Bausteine; Ausfuellanleitung; Einreichungshinweise; Dreiwochenfrist-Warnblock prominent am Anfang. |
-| `entfristung-rechtsfolge-16-tzbfg-unbefristet` | Rechtsfolge unwirksamer Befristung nach § 16 Satz 1 TzBfG: Vertrag gilt als auf unbestimmte Zeit geschlossen; Möglichkeit der fruehesten ordentlichen Kündigung zum vereinbarten Ende nach § 16 Satz 2 TzBfG; Ansprüche… |
-| `entfristung-sachgrund-pruefen-14-abs-1` | Sachgrundprüfung Befristung nach § 14 Abs. 1 TzBfG: acht Sachgründe; voruebergehender Bedarf; Vertretung; Erprobung; Eigenart der Leistung; haushaltsmittelbedingte Gründe; gerichtlicher Vergleich; BAG-Rechtsprechung zu… |
-| `entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung` | Sachgrundlose Befristung nach § 14 Abs. 2 TzBfG: zwei Jahre Gesamtdauer; dreimal verlaengerbar; Vorbeschaeftigungsverbot; BVerfG-Entscheidung 2018; BAG-Folgerechtsprechung; Karenzzeit-Diskussion; Rechtsfolge § 16 TzBfG. |
-| `entfristung-sachgrundlos-14-abs-2a-neugruendung` | Sachgrundlose Befristung bei Unternehmensneugründung nach § 14 Abs. 2a TzBfG: vier Jahre Gesamtdauer; Neugründungsprivileg; Voraussetzungen der Neugründung; Abgrenzung zu blossen Unternehmensumstrukturierungen. |
-| `entfristung-sachgrundlos-14-abs-3-aelter-52` | Sachgrundlose Befristung für aeltere Arbeitnehmer nach § 14 Abs. 3 TzBfG: Befristung ab 52 Jahren; Voraussetzung Vorarbeitslosigkeit oder Maßnahme aktiver Arbeitsmarktpolitik; EuGH-Entscheidung zur Vereinbarkeit mit… |
-| `entfristung-schriftform-14-abs-4-erkennen` | KERNSKILL: Schriftform nach § 14 Abs. 4 TzBfG für Befristungsabreden; Papieroriginal oder echte QES; Scan/einfache Signatur genügt nicht; Rechtsfolge § 16 Satz 1 TzBfG Vertrag gilt… |
+| `entfristung-rechtsfolge-16-tzbfg-unbefristet` | Rechtsfolge unwirksamer Befristung nach Paragraf 16 Satz 1 TzBfG: Vertrag gilt als auf unbestimmte Zeit geschlossen; Möglichkeit der fruehesten ordentlichen Kündigung zum vereinbarten Ende nach Paragraf 16 Satz 2 TzBfG; Ansprüche… |
+| `entfristung-sachgrund-pruefen-14-abs-1` | Sachgrundprüfung Befristung nach Paragraf 14 Abs. 1 TzBfG: acht Sachgründe; voruebergehender Bedarf; Vertretung; Erprobung; Eigenart der Leistung; haushaltsmittelbedingte Gründe; gerichtlicher Vergleich; BAG-Rechtsprechung zu… |
+| `entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung` | Sachgrundlose Befristung nach Paragraf 14 Abs. 2 TzBfG: zwei Jahre Gesamtdauer; dreimal verlaengerbar; Vorbeschaeftigungsverbot; BVerfG-Entscheidung 2018; BAG-Folgerechtsprechung; Karenzzeit-Diskussion; Rechtsfolge Paragraf 16 TzBfG. |
+| `entfristung-sachgrundlos-14-abs-2a-neugruendung` | Sachgrundlose Befristung bei Unternehmensneugründung nach Paragraf 14 Abs. 2a TzBfG: vier Jahre Gesamtdauer; Neugründungsprivileg; Voraussetzungen der Neugründung; Abgrenzung zu blossen Unternehmensumstrukturierungen. |
+| `entfristung-sachgrundlos-14-abs-3-aelter-52` | Sachgrundlose Befristung für aeltere Arbeitnehmer nach Paragraf 14 Abs. 3 TzBfG: Befristung ab 52 Jahren; Voraussetzung Vorarbeitslosigkeit oder Maßnahme aktiver Arbeitsmarktpolitik; EuGH-Entscheidung zur Vereinbarkeit mit… |
+| `entfristung-schriftform-14-abs-4-erkennen` | KERNSKILL: Schriftform nach Paragraf 14 Abs. 4 TzBfG für Befristungsabreden; Papieroriginal oder echte QES; Scan/einfache Signatur genügt nicht; Rechtsfolge Paragraf 16 Satz 1 TzBfG Vertrag gilt… |
 | `entfristung-triage-was-will-user` | Einstieg Entfristungsklage-Workflow: Erkennung ob Nutzer Befristungskontrollklage oder Entfristungsklage anstrebt; Abgrenzung zu Kündigungsschutzklage; Überblick Prüfprogramm TzBfG; Weiterleitung zu passenden… |
 | `entfristung-vergleichsverhandlung-checkliste` | Typische Vergleichsbausteine in der Entfristungsklage: Entfristungsbestätigung oder Beendigungsdatum mit Abfindung; Weiterbeschaeftigung oder Aufhebung; Zeugnis; Freistellung; Urlaubsabgeltung; Klageerledigung;… |
 | `expansion-aktualisierung` | Aktualisiert den Status eines laufenden Expansionsprojekts — ermittelt, welche Punkte nun freigegeben sind, kennzeichnet überfällige Positionen und benennt die nächsten Prioritäten. Lädt, wenn seit der letzten Sitzung… |
@@ -163,38 +163,38 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `hinschg-whistleblower-antwort` | Arbeitnehmer hat einen internen Hinweis gegeben oder Unternehmen muss internen Meldekanal einrichten oder Repressalie abwehren. Prüfraster HinSchG seit 2.7.2023 Umsetzung EU-Richtlinie 2019/1937. Pflicht interner… |
 | `internationale-expansion` | Implementierungsplanungs-Framework für internationale Einstellungen — Entscheidungsrahmen AÜG-Modell/EOR vs. eigene Gesellschaft, abteilungsübergreifende Trigger für Steuer/Finance/HR, strukturierter… |
 | `interne-untersuchung` | gemeinsames Framework für arbeitsrechtliche interne Untersuchungen vom Eingang einer Beschwerde bis zum abschließenden Memo — vertrauliches Untersuchungsprotokoll, Dokumentenverarbeitung mit… |
-| `kuendigungs-pruefung` | Rechtliche Prüfung einer ordentlichen oder außerordentlichen Kündigung – KSchG (allgemeiner und besonderer Kündigungsschutz), § 102 BetrVG (Betriebsratsanhörung), §§ 622 und 626 BGB (Fristen und wichtiger Grund),… |
-| `kuendigungsschutzklage` | Prüft und entwirft eine Kündigungsschutzklage nach § 4 KSchG. Lädt, wenn ein Arbeitnehmer eine ordentliche oder außerordentliche Kündigung anfechten will, die 3-Wochen-Frist droht oder ein Entwurf des Klageantrags, der… |
+| `kuendigungs-pruefung` | Rechtliche Prüfung einer ordentlichen oder außerordentlichen Kündigung – KSchG (allgemeiner und besonderer Kündigungsschutz), Paragraf 102 BetrVG (Betriebsratsanhörung), Paragrafen 622 und 626 BGB (Fristen und wichtiger Grund),… |
+| `kuendigungsschutzklage` | Prüft und entwirft eine Kündigungsschutzklage nach Paragraf 4 KSchG. Lädt, wenn ein Arbeitnehmer eine ordentliche oder außerordentliche Kündigung anfechten will, die 3-Wochen-Frist droht oder ein Entwurf des Klageantrags, der… |
 | `kueschk-abfindung-faustformel-und-spannweite` | Abfindung Kündigungsschutzklage: Faustformel halbes Bruttomonatsgehalt pro Beschäftigungsjahr; Spannweite von einem Viertel bis zu einem ganzen Bruttomonatsgehalt; Einflussfaktoren; steuerliche Behandlung… |
-| `kueschk-allgemeiner-und-besonderer-feststellungsantrag` | Erklärung des Unterschieds zwischen dem punktuellen Feststellungsantrag nach § 4 Satz 1 KSchG und dem allgemeinen Feststellungsantrag nach § 256 ZPO als Schleppnetz-Antrag; Formulierungsvorschlaege; warum beide Anträge… |
-| `kueschk-annahmeverzug-loehne-anrechnung-zwischenverdienst` | Annahmeverzugslohn nach § 615 BGB und § 11 KSchG; Anrechnung anderweitigen Verdienstes; boeswiches Unterlassen; Berechnung Nettolohnvorteil; Schadensminderungspflicht; Auswirkung auf Vergleichsdruck; steuerliche… |
-| `kueschk-anwendbarkeit-kschg-pruefen` | Prüft Anwendbarkeit des Kündigungsschutzgesetzes: Wartezeit sechs Monate nach § 1 Abs. 1 KSchG; Schwellenwert zehn Arbeitnehmer nach § 23 KSchG; Berechnung von Teilzeitkraeften und Auszubildenden; allgemeiner… |
-| `kueschk-aufloesungsantrag-arbeitnehmer-9-kschg` | Aufloeungsantrag des Arbeitnehmers nach § 9 KSchG: Voraussetzung der Unzumutbarkeit der Weiterbeschaeftigung; Abfindung nach § 10 KSchG; Antrag-Formulierung; Abgrenzung zu § 12 KSchG; wann sollte man diesen Antrag… |
+| `kueschk-allgemeiner-und-besonderer-feststellungsantrag` | Erklärung des Unterschieds zwischen dem punktuellen Feststellungsantrag nach Paragraf 4 Satz 1 KSchG und dem allgemeinen Feststellungsantrag nach Paragraf 256 ZPO als Schleppnetz-Antrag; Formulierungsvorschlaege; warum beide Anträge… |
+| `kueschk-annahmeverzug-loehne-anrechnung-zwischenverdienst` | Annahmeverzugslohn nach Paragraf 615 BGB und Paragraf 11 KSchG; Anrechnung anderweitigen Verdienstes; boeswiches Unterlassen; Berechnung Nettolohnvorteil; Schadensminderungspflicht; Auswirkung auf Vergleichsdruck; steuerliche… |
+| `kueschk-anwendbarkeit-kschg-pruefen` | Prüft Anwendbarkeit des Kündigungsschutzgesetzes: Wartezeit sechs Monate nach Paragraf 1 Abs. 1 KSchG; Schwellenwert zehn Arbeitnehmer nach Paragraf 23 KSchG; Berechnung von Teilzeitkraeften und Auszubildenden; allgemeiner… |
+| `kueschk-aufloesungsantrag-arbeitnehmer-9-kschg` | Aufloeungsantrag des Arbeitnehmers nach Paragraf 9 KSchG: Voraussetzung der Unzumutbarkeit der Weiterbeschaeftigung; Abfindung nach Paragraf 10 KSchG; Antrag-Formulierung; Abgrenzung zu Paragraf 12 KSchG; wann sollte man diesen Antrag… |
 | `kueschk-berufung-und-revision-lag-bag` | Berufung beim Landesarbeitsgericht und Revision beim BAG: Fristen je einen Monat und zwei Monate; Zulassungsgründe Revision; Kosten ab zweiter Instanz; Divergenzrevision; typische Revisionszulassungsgründe. |
 | `kueschk-erwiderung-arbeitgeber-strategien-typisch` | Typische Verteidigungsstrategien des Arbeitgebers im Kündigungsschutzprozess: Hinhaltetaktik; Stricken-Anwaelte; Nachgeben-Risiko und Rückkehrpflicht; Angriffe auf Fristen und KSchG-Geltungsbereich; Beweislast-Taktik. |
-| `kueschk-formfehler-pruefen` | Formfehler-Prüfung bei Kündigungen: Schriftform § 623 BGB; Vollmachtsruege § 174 BGB bei fehlender Originalvollmacht; Anhörung Betriebsrat § 102 BetrVG; Massenentlassung §§ 17 und 18 KSchG mit Anzeigepflicht bei… |
-| `kueschk-frist-und-zugang-pruefen` | Fristprüfung Kündigungsschutzklage: § 4 KSchG drei Wochen ab Zugang; § 5 KSchG nachtraegliche Klagezulassung bei unverschuldeter Versaeumung; Zugangsbeweis-Fragen; Fristberechnung nach §§ 187 und 188 BGB. |
-| `kueschk-grundwarnung-falsche-wiese-und-haftung` | Pflichtkopf für jeden Kündigungsschutzklage-Schriftsatz: Hinweis auf falsche Wiese und Haftungsausschluss; zentraler Warnblock mit Drei-Wochen-Frist nach § 4 KSchG; wird in jeden Laien-Output eingefuegt. |
-| `kueschk-guetetermin-strategie-und-sprechzettel` | Guetetermin nach § 54 ArbGG: Ablauf und Funktion; was sagen und was nicht sagen; Sprechzettel-Template für den Guetetermin; Vergleichsbereitschaft signalisieren ohne Positionen aufzugeben; typische Richter-Fragen. |
+| `kueschk-formfehler-pruefen` | Formfehler-Prüfung bei Kündigungen: Schriftform Paragraf 623 BGB; Vollmachtsruege Paragraf 174 BGB bei fehlender Originalvollmacht; Anhörung Betriebsrat Paragraf 102 BetrVG; Massenentlassung Paragrafen 17 und 18 KSchG mit Anzeigepflicht bei… |
+| `kueschk-frist-und-zugang-pruefen` | Fristprüfung Kündigungsschutzklage: Paragraf 4 KSchG drei Wochen ab Zugang; Paragraf 5 KSchG nachtraegliche Klagezulassung bei unverschuldeter Versaeumung; Zugangsbeweis-Fragen; Fristberechnung nach Paragrafen 187 und 188 BGB. |
+| `kueschk-grundwarnung-falsche-wiese-und-haftung` | Pflichtkopf für jeden Kündigungsschutzklage-Schriftsatz: Hinweis auf falsche Wiese und Haftungsausschluss; zentraler Warnblock mit Drei-Wochen-Frist nach Paragraf 4 KSchG; wird in jeden Laien-Output eingefuegt. |
+| `kueschk-guetetermin-strategie-und-sprechzettel` | Guetetermin nach Paragraf 54 ArbGG: Ablauf und Funktion; was sagen und was nicht sagen; Sprechzettel-Template für den Guetetermin; Vergleichsbereitschaft signalisieren ohne Positionen aufzugeben; typische Richter-Fragen. |
 | `kueschk-kammertermin-sprechzettel` | Kammertermin Hauptverhandlung im Kündigungsschutzprozess: Sprechzettel mit Anträgen und Reaktionsmustern; Beweismittel-Reihenfolge; Zeugenvernehmung; Auftreten bei Urteilsverkündung; Prozessleitung durch Vorsitzenden. |
 | `kueschk-klageschrift-anwalt-baustein` | Anwaltliche Klageschrift Kündigungsschutzklage: Klageschrift mit Tenor und Hilfsanträgen; Weiterbeschaeftigungsantrag; Anlagen-Checkliste; strukturierte Begründung nach KSchG-Prüfschema; Beweisangebote; BAG-Zitierstil. |
-| `kueschk-klageschrift-laie-baustein` | Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage; punktueller Feststellungsantrag nach § 4 KSchG; allgemeiner Feststellungsantrag; Begründungsbausteine; Beweisangebote; Schritt-für-Schritt zum Selbstausfuellen… |
-| `kueschk-kuendigungsgrund-personen-verhalten-betrieb` | Drei Kündigungsgründe nach § 1 Abs. 2 KSchG: betriebsbedingt mit Sozialauswahl; verhaltensbedingt mit Abmahnungserfordernis; personenbedingt mit Negativprognose; Sonderkündigungsschutz als Querverweis; strukturierte… |
+| `kueschk-klageschrift-laie-baustein` | Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage; punktueller Feststellungsantrag nach Paragraf 4 KSchG; allgemeiner Feststellungsantrag; Begründungsbausteine; Beweisangebote; Schritt-für-Schritt zum Selbstausfuellen… |
+| `kueschk-kuendigungsgrund-personen-verhalten-betrieb` | Drei Kündigungsgründe nach Paragraf 1 Abs. 2 KSchG: betriebsbedingt mit Sozialauswahl; verhaltensbedingt mit Abmahnungserfordernis; personenbedingt mit Negativprognose; Sonderkündigungsschutz als Querverweis; strukturierte… |
 | `kueschk-muendliche-verhandlung-praxistipps-laie` | Praxistipps für Laien in der muendlichen Verhandlung beim Arbeitsgericht: Auftreten; Kleidung; Anrede des Gerichts; Sitzungsverlauf; Verhalten bei Vergleichsvorschlag; Stressbewaeltigung und Dokumentation. |
 | `kueschk-output-warnschriftsatz-laie` | Ausgabe vollständige Klageschrift mit Pflicht-Disclaimer-Kopf für Laien; Zusammenführung aller Bausteine zu einem druckfertigen Schriftsatz; Ausfuellanleitung; Einreichungshinweise für Arbeitsgericht. |
-| `kueschk-paragraph-12-kschg-neuer-job-einseitig` | § 12 KSchG einseitige Lösung nach Aufnahme eines neuen Arbeitsverhältnisses: Erklärungsfrist eine Woche nach Rechtskraft; Rechtsfolge Annahmeverzugslohn ohne Abfindung; Abgrenzung zu § 9 KSchG; Handlungsfristen und… |
+| `kueschk-paragraph-12-kschg-neuer-job-einseitig` | Paragraf 12 KSchG einseitige Lösung nach Aufnahme eines neuen Arbeitsverhältnisses: Erklärungsfrist eine Woche nach Rechtskraft; Rechtsfolge Annahmeverzugslohn ohne Abfindung; Abgrenzung zu Paragraf 9 KSchG; Handlungsfristen und… |
 | `kueschk-replik-arbeitnehmer-baustein` | Reaktion auf die Klageerwiderung des Arbeitgebers: Bestreiten von Behauptungen; Anforderungen an die Substantiierungstiefe; Replik-Baustein mit typischen Gegenargumenten; Beweismittel-Strategie für den Kammertermin. |
-| `kueschk-sonderkuendigungsschutz-checkliste` | Checkliste Sonderkündigungsschutz: Schwangerschaft § 17 MuSchG; Elternzeit § 18 BEEG; Schwerbehinderung §§ 168 ff. SGB IX; Betriebsratsmitglied § 15 KSchG; Datenschutzbeauftragter; Voraussetzungen und behoerdliche… |
-| `kueschk-streitwert-kostenfolge-prozesskostenhilfe` | Streitwert nach § 42 GKG drei Bruttomonatsgehaelter; § 12a ArbGG keine Kostenerstattung erste Instanz; Ausnahme Berufung; Prozesskostenhilfe §§ 114 ff. ZPO für einkommensschwache Parteien; praktische Hinweise zu… |
-| `kueschk-stricken-anwalt-risiko-und-vergleichsdruck` | KERNSKILL: Warnung vor der Stricken-Strategie des Arbeitgeberanwalts; Risiko dass Arbeitgeber spaet nachgibt wenn Arbeitnehmer neuen Job hat und Rückkehrpflicht droht; Aufloeungsantrag § 9 KSchG; § 12 KSchG einseitige… |
+| `kueschk-sonderkuendigungsschutz-checkliste` | Checkliste Sonderkündigungsschutz: Schwangerschaft Paragraf 17 MuSchG; Elternzeit Paragraf 18 BEEG; Schwerbehinderung Paragrafen 168 ff. SGB IX; Betriebsratsmitglied Paragraf 15 KSchG; Datenschutzbeauftragter; Voraussetzungen und behoerdliche… |
+| `kueschk-streitwert-kostenfolge-prozesskostenhilfe` | Streitwert nach Paragraf 42 GKG drei Bruttomonatsgehaelter; Paragraf 12a ArbGG keine Kostenerstattung erste Instanz; Ausnahme Berufung; Prozesskostenhilfe Paragrafen 114 ff. ZPO für einkommensschwache Parteien; praktische Hinweise zu… |
+| `kueschk-stricken-anwalt-risiko-und-vergleichsdruck` | KERNSKILL: Warnung vor der Stricken-Strategie des Arbeitgeberanwalts; Risiko dass Arbeitgeber spaet nachgibt wenn Arbeitnehmer neuen Job hat und Rückkehrpflicht droht; Aufloeungsantrag Paragraf 9 KSchG; Paragraf 12 KSchG einseitige… |
 | `kueschk-triage-laie-oder-anwalt` | KERNEINSTIEG Kündigungsschutzklage: fragt zuerst ob Anwalt oder Verbraucher-Laie; bei Laie ständige Warnungen und dringende Empfehlung anwaltlicher Beratung; kein Mandatsverhältnis; leitet zu passenden Folge-Skills;… |
 | `kueschk-vergleichsverhandlung-checkliste` | Checkliste für Kündigungsschutz-Vergleiche: Beendigungsdatum; Abfindung nach Faustformel; Freistellung und Urlaubsabgeltung; Zeugnisnote und -formulierung; Klageerledigung; Outplacement; Rücklage-Klausel; alle Punkte… |
-| `kueschk-weiterbeschaeftigungsantrag-grosser-senat` | Weiterbeschaeftigungsantrag nach BAG Großer Senat 1985: Voraussetzungen des allgemeinen Weiterbeschaeftigungsanspruchs; Vor- und Nachteile aus Arbeitnehmersicht; Vollstreckung; Unterschied zum § 102 Abs. 5 BetrVG… |
-| `kueschk-zeugnisanspruch-und-vergleich` | Zeugnisanspruch nach § 109 GewO: qualifiziertes Zeugnis; BAG-Mindestnote befriedigend bei fehlender Substantiierung; Formulierungsrisiken und geheime Negativsignale; typische Vergleichsformulierungen für Zeugnisse. |
+| `kueschk-weiterbeschaeftigungsantrag-grosser-senat` | Weiterbeschaeftigungsantrag nach BAG Großer Senat 1985: Voraussetzungen des allgemeinen Weiterbeschaeftigungsanspruchs; Vor- und Nachteile aus Arbeitnehmersicht; Vollstreckung; Unterschied zum Paragraf 102 Abs. 5 BetrVG… |
+| `kueschk-zeugnisanspruch-und-vergleich` | Zeugnisanspruch nach Paragraf 109 GewO: qualifiziertes Zeugnis; BAG-Mindestnote befriedigend bei fehlender Substantiierung; Formulierungsrisiken und geheime Negativsignale; typische Vergleichsformulierungen für Zeugnisse. |
 | `lohn-arbeitszeit-fragen` | Standortbezogene Lohn- und Arbeitszeitfragen – ArbZG (Höchstarbeitszeit, Pausen, Ruhezeiten, Aufzeichnungspflichten), MiLoG (Mindestlohn, Aufzeichnungspflicht), EFZG (Entgeltfortzahlung im Krankheitsfall),… |
-| `lohnsteuer-sozialversicherung` | Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbständigkeit, § 7a SGB IV) und lohnsteuerliche Fragen im Arbeitsverhältnis. Lädt, wenn ein Statusfeststellungsverfahren, Scheinselbständigkeit,… |
+| `lohnsteuer-sozialversicherung` | Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbständigkeit, Paragraf 7a SGB IV) und lohnsteuerliche Fragen im Arbeitsverhältnis. Lädt, wenn ein Statusfeststellungsverfahren, Scheinselbständigkeit,… |
 | `mandat-triage-arbeitsrecht` | Eingangs-Abfrage für arbeitsrechtliche Mandate — Mandant fragt nach Kündigung Aufhebungsvertrag Abmahnung Lohn Urlaub Befristung Betriebsuebergang Diskriminierung oder Betriebsrats-Streit. Klaert Mandantenrolle… |
-| `massenentlassung-17-kschg` | Arbeitgeber plant Entlassung mehrerer Arbeitnehmer und fragt ob Massenentlassungsanzeige erforderlich ist oder Gewerkschaft und Betriebsrat anfechten. Prüfraster § 17 KSchG Schwellenwerte abhaengig von Betriebsgroesse.… |
+| `massenentlassung-17-kschg` | Arbeitgeber plant Entlassung mehrerer Arbeitnehmer und fragt ob Massenentlassungsanzeige erforderlich ist oder Gewerkschaft und Betriebsrat anfechten. Prüfraster Paragraf 17 KSchG Schwellenwerte abhaengig von Betriebsgroesse.… |
 | Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | `richtlinien-entwurf` | Entwirft eine betriebliche Regelung (Richtlinie, Betriebsordnung, Policy) mit standortspezifischen Ergänzungen, wo das Recht oder Tarifverträge abweichende Regeln erfordern. Prüft Mitbestimmungsrechte des Betriebsrats… |
 | `untersuchung-abfrage` | Beantwortet Fragen gegen ein laufendes Untersuchungsprotokoll — was Zeugen gesagt haben, wo Schilderungen im Widerspruch stehen, welche Lücken bestehen, was die stärksten Belege zu jeder Frage sind. Lädt, wenn der… |
@@ -205,48 +205,48 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Arbeitsrecht-Plugin deckt das gesamte Individual- und Kollektivarbeitsrecht für Arbeitgeber und Arbeitnehmer ab: Kuendigungsschutzklage (KSchG), Entfristungsklage (TzBfG), Aufhebungsvertrag, Abmahnung, Betriebsratsanhoerung (§ 102 BetrVG), Betriebsuebergang (§ 613a BGB), Massenentlassung (§ 17 KSchG), AGG-Prüfung, HinSchG-Whistleblower, Mindestlohn, Arbeitszeiterfassung sowie interne Untersuchungen und internationale Expansion. Aktuelle BAG-Rechtsprechung 2025/2026 ist eingearbeitet (Equal Pay, Mindesturlaub-Verzicht, Freistellungsklausel).
+Das Arbeitsrecht-Plugin deckt das gesamte Individual- und Kollektivarbeitsrecht für Arbeitgeber und Arbeitnehmer ab: Kuendigungsschutzklage (KSchG), Entfristungsklage (TzBfG), Aufhebungsvertrag, Abmahnung, Betriebsratsanhoerung (Paragraf 102 BetrVG), Betriebsuebergang (Paragraf 613a BGB), Massenentlassung (Paragraf 17 KSchG), AGG-Prüfung, HinSchG-Whistleblower, Mindestlohn, Arbeitszeiterfassung sowie interne Untersuchungen und internationale Expansion. Aktuelle BAG-Rechtsprechung 2025/2026 ist eingearbeitet (Equal Pay, Mindesturlaub-Verzicht, Freistellungsklausel).
 
 Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbeitgeber- als auch Arbeitnehmer-Mandate betreuen.
 
 ## Wann brauchen Sie diese Skill?
 
-- Ein Mandant hat eine Kuendigung erhalten oder will eine Kuendigung aussprechen und es ist sofort die Drei-Wochen-Frist des § 4 KSchG zu sichern.
-- Ein befristetes Arbeitsverhaeltnis laeuft aus und die Befristung soll angegriffen werden (§ 17 TzBfG: Drei-Wochen-Frist gilt ebenso).
+- Ein Mandant hat eine Kuendigung erhalten oder will eine Kuendigung aussprechen und es ist sofort die Drei-Wochen-Frist des Paragraf 4 KSchG zu sichern.
+- Ein befristetes Arbeitsverhaeltnis laeuft aus und die Befristung soll angegriffen werden (Paragraf 17 TzBfG: Drei-Wochen-Frist gilt ebenso).
 - Ein Aufhebungsvertrag ist vorhanden und Sperrzeit-Risiko sowie steuerliche Behandlung der Abfindung sollen geklaert werden.
-- Ein Betriebsrat soll angehoert werden oder hat einen Widerspruch eingelegt (§ 102 BetrVG).
+- Ein Betriebsrat soll angehoert werden oder hat einen Widerspruch eingelegt (Paragraf 102 BetrVG).
 - Ein Mitarbeiter hat einen Hinweis auf Missstande gemeldet und der HinSchG-Schutz soll beurteilt werden.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **KSchG** — Kuendigungsschutzgesetz; schutzt Arbeitnehmer mit mehr als sechs Monaten Betriebszugehoerigkeit in Betrieben mit mehr als zehn Arbeitnehmern.
-- **TzBfG** — Teilzeit- und Befristungsgesetz; regelt sachgrundgebundene und sachgrundlose Befristungen; Schriftformzwang nach § 14 Abs. 4 TzBfG.
-- **Sozialauswahl** — Pflicht des Arbeitgebers bei betriebsbedingter Kuendigung, die schutzwuerdigsten Arbeitnehmer zu erhalten (§ 1 Abs. 3 KSchG).
-- **Sperrzeit** — vorueberstgehende Verweigerung des Arbeitslosengelds nach § 159 SGB III bei Selbstkuendigung oder Aufhebungsvertrag.
-- **Betriebsrat** — gewaehltes Arbeitnehmer-Gremium; bei Kuendigung ist Anhörung nach § 102 BetrVG Wirksamkeitsvoraussetzung.
-- **Betriebsuebergang** — Uebergang eines Betriebs oder Betriebsteils auf einen neuen Inhaber (§ 613a BGB); Kuendigungsverbot wegen Betriebsuebergangs.
-- **AGG** — Allgemeines Gleichbehandlungsgesetz; verbietet Diskriminierung nach § 1 AGG; Entschaedigungs- und Schadensersatz nach § 15 AGG.
+- **TzBfG** — Teilzeit- und Befristungsgesetz; regelt sachgrundgebundene und sachgrundlose Befristungen; Schriftformzwang nach Paragraf 14 Abs. 4 TzBfG.
+- **Sozialauswahl** — Pflicht des Arbeitgebers bei betriebsbedingter Kuendigung, die schutzwuerdigsten Arbeitnehmer zu erhalten (Paragraf 1 Abs. 3 KSchG).
+- **Sperrzeit** — vorueberstgehende Verweigerung des Arbeitslosengelds nach Paragraf 159 SGB III bei Selbstkuendigung oder Aufhebungsvertrag.
+- **Betriebsrat** — gewaehltes Arbeitnehmer-Gremium; bei Kuendigung ist Anhörung nach Paragraf 102 BetrVG Wirksamkeitsvoraussetzung.
+- **Betriebsuebergang** — Uebergang eines Betriebs oder Betriebsteils auf einen neuen Inhaber (Paragraf 613a BGB); Kuendigungsverbot wegen Betriebsuebergangs.
+- **AGG** — Allgemeines Gleichbehandlungsgesetz; verbietet Diskriminierung nach Paragraf 1 AGG; Entschaedigungs- und Schadensersatz nach Paragraf 15 AGG.
 
 ## Rechtsgrundlagen
 
-- §§ 1 ff. KSchG — Kuendigungsschutz; § 4 KSchG Drei-Wochen-Frist
-- §§ 14 ff. TzBfG — Befristungsrecht; § 17 TzBfG Drei-Wochen-Frist; § 14 Abs. 4 TzBfG Schriftformzwang
-- § 102 BetrVG — Betriebsratsanhoerung vor Kuendigung
-- § 613a BGB — Betriebsuebergang
-- § 622 BGB — Kuendigungsfristen
-- § 626 BGB — Ausserordentliche Kuendigung aus wichtigem Grund
-- § 623 BGB — Schriftformzwang für Kuendigung und Aufhebungsvertrag
-- §§ 1 ff. AGG — Diskriminierungsschutz
-- § 1 MiLoG — Mindestlohn
+- Paragrafen 1 ff. KSchG — Kuendigungsschutz; Paragraf 4 KSchG Drei-Wochen-Frist
+- Paragrafen 14 ff. TzBfG — Befristungsrecht; Paragraf 17 TzBfG Drei-Wochen-Frist; Paragraf 14 Abs. 4 TzBfG Schriftformzwang
+- Paragraf 102 BetrVG — Betriebsratsanhoerung vor Kuendigung
+- Paragraf 613a BGB — Betriebsuebergang
+- Paragraf 622 BGB — Kuendigungsfristen
+- Paragraf 626 BGB — Ausserordentliche Kuendigung aus wichtigem Grund
+- Paragraf 623 BGB — Schriftformzwang für Kuendigung und Aufhebungsvertrag
+- Paragrafen 1 ff. AGG — Diskriminierungsschutz
+- Paragraf 1 MiLoG — Mindestlohn
 - HinSchG — Hinweisgeberschutzgesetz seit 02.07.2023
-- § 17 KSchG — Massenentlassung; Konsultation und Anzeige
+- Paragraf 17 KSchG — Massenentlassung; Konsultation und Anzeige
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klären: Arbeitnehmer, Arbeitgeber, Betriebsrat, Geschäftsführer oder Syndikus?
 2. Phase des Mandats bestimmen: Noch keine Kuendigung (praeventiv), Kuendigung ausgesprochen/erhalten (Fristensicherung), laufendes Verfahren oder Abschluss?
 3. Passenden Skill auswaehlen (siehe Skill-Tour unten).
-4. Eilfristen prüfen: § 4 KSchG drei Wochen ab Zugang der Kuendigung; § 17 TzBfG drei Wochen ab vereinbartem Vertragsende — beide absolute Ausschlussfristen.
+4. Eilfristen prüfen: Paragraf 4 KSchG drei Wochen ab Zugang der Kuendigung; Paragraf 17 TzBfG drei Wochen ab vereinbartem Vertragsende — beide absolute Ausschlussfristen.
 5. Anschluss-Skill bestimmen: Nach Triage zu Kuendigungsschutzklage-Skills, Entfristungsklage-Skills oder Aufhebungsvertrag.
 
 ## Skill-Tour (was gibt es hier?)
@@ -260,44 +260,44 @@ Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbe
 **Kuendigungsschutzklage (kueschk-)**
 - `kueschk-triage-laie-oder-anwalt` — Kerneinstieg: Anwalt oder Laie? Dringende Empfehlung und Routing.
 - `kuendigungs-pruefung` — Rechtliche Prüfung einer ordentlichen oder ausserordentlichen Kuendigung.
-- `kuendigungsschutzklage` — Entwurf der Kuendigungsschutzklage nach § 4 KSchG.
+- `kuendigungsschutzklage` — Entwurf der Kuendigungsschutzklage nach Paragraf 4 KSchG.
 - `kueschk-anwendbarkeit-kschg-pruefen` — Wartezeit (sechs Monate) und Schwellenwert (zehn Arbeitnehmer) prüfen.
-- `kueschk-frist-und-zugang-pruefen` — § 4 KSchG Fristberechnung und Zugangsbeweis.
-- `kueschk-formfehler-pruefen` — Schriftform, Vollmachtsruege § 174 BGB, Betriebsratsanhoerung.
-- `kueschk-kuendigungsgrund-personen-verhalten-betrieb` — Drei Kuendigungsgruende nach § 1 Abs. 2 KSchG prüfen.
+- `kueschk-frist-und-zugang-pruefen` — Paragraf 4 KSchG Fristberechnung und Zugangsbeweis.
+- `kueschk-formfehler-pruefen` — Schriftform, Vollmachtsruege Paragraf 174 BGB, Betriebsratsanhoerung.
+- `kueschk-kuendigungsgrund-personen-verhalten-betrieb` — Drei Kuendigungsgruende nach Paragraf 1 Abs. 2 KSchG prüfen.
 - `kueschk-sonderkuendigungsschutz-checkliste` — Schwangerschaft, Elternzeit, Schwerbehinderung, BR-Mitglied.
 - `kueschk-klageschrift-anwalt-baustein` — Anwaltliche Klageschrift mit Hilfsantraegen und Beweisangeboten.
 - `kueschk-klageschrift-laie-baustein` — Klageschrift-Baustein für Laien mit Warnkopf.
 - `kueschk-output-warnschriftsatz-laie` — Vollstaendige Laien-Klageschrift mit Pflicht-Disclaimer.
 - `kueschk-grundwarnung-falsche-wiese-und-haftung` — Pflichtkopf mit Drei-Wochen-Frist-Hinweis für Laien-Output.
 - `kueschk-allgemeiner-und-besonderer-feststellungsantrag` — Unterschied punktueller und allgemeiner Feststellungsantrag.
-- `kueschk-guetetermin-strategie-und-sprechzettel` — Guetetermin nach § 54 ArbGG: Ablauf und Strategie.
+- `kueschk-guetetermin-strategie-und-sprechzettel` — Guetetermin nach Paragraf 54 ArbGG: Ablauf und Strategie.
 - `kueschk-kammertermin-sprechzettel` — Sprechzettel für Hauptverhandlung im Kuendigungsschutzprozess.
 - `kueschk-muendliche-verhandlung-praxistipps-laie` — Praxistipps für Laien in der muendlichen Verhandlung.
 - `kueschk-erwiderung-arbeitgeber-strategien-typisch` — Typische Verteidigungsstrategien des Arbeitgebers.
 - `kueschk-replik-arbeitnehmer-baustein` — Reaktion auf Klageerwiderung des Arbeitgebers.
-- `kueschk-annahmeverzug-loehne-anrechnung-zwischenverdienst` — Annahmeverzugslohn § 615 BGB und Zwischenverdienst-Anrechnung.
+- `kueschk-annahmeverzug-loehne-anrechnung-zwischenverdienst` — Annahmeverzugslohn Paragraf 615 BGB und Zwischenverdienst-Anrechnung.
 - `kueschk-weiterbeschaeftigungsantrag-grosser-senat` — Weiterbeschaeftigungsantrag nach BAG Großer Senat 1985.
-- `kueschk-aufloesungsantrag-arbeitnehmer-9-kschg` — Aufloeungsantrag § 9 KSchG bei Unzumutbarkeit.
-- `kueschk-paragraph-12-kschg-neuer-job-einseitig` — § 12 KSchG einseitige Loesung nach neuem Arbeitsverhaeltnis.
+- `kueschk-aufloesungsantrag-arbeitnehmer-9-kschg` — Aufloeungsantrag Paragraf 9 KSchG bei Unzumutbarkeit.
+- `kueschk-paragraph-12-kschg-neuer-job-einseitig` — Paragraf 12 KSchG einseitige Loesung nach neuem Arbeitsverhaeltnis.
 - `kueschk-stricken-anwalt-risiko-und-vergleichsdruck` — Warnung vor Stricken-Strategie des Arbeitgeberanwalts.
 - `kueschk-abfindung-faustformel-und-spannweite` — Abfindungs-Faustformel und steuerliche Fuenftel-Regelung.
 - `kueschk-vergleichsverhandlung-checkliste` — Vergleichs-Checkliste: Abfindung, Freistellung, Zeugnis, Erledigungsklausel.
-- `kueschk-zeugnisanspruch-und-vergleich` — Zeugnisanspruch § 109 GewO und Vergleichsformulierungen.
-- `kueschk-streitwert-kostenfolge-prozesskostenhilfe` — Streitwert § 42 GKG, § 12a ArbGG, Prozesskostenhilfe.
+- `kueschk-zeugnisanspruch-und-vergleich` — Zeugnisanspruch Paragraf 109 GewO und Vergleichsformulierungen.
+- `kueschk-streitwert-kostenfolge-prozesskostenhilfe` — Streitwert Paragraf 42 GKG, Paragraf 12a ArbGG, Prozesskostenhilfe.
 - `kueschk-berufung-und-revision-lag-bag` — Berufung beim LAG und Revision beim BAG.
 
 **Entfristungsklage (entfristung-)**
 - `entfristung-triage-was-will-user` — Einstieg: Befristungskontrollklage oder Entfristungsklage?
 - `entfristung-laie-oder-anwalt-frage` — Statusabfrage Anwalt oder Laie für Entfristungsklage.
-- `entfristung-schriftform-14-abs-4-erkennen` — KERNSKILL: Schriftformmangel nach § 14 Abs. 4 TzBfG als Unwirksamkeitsgrund.
+- `entfristung-schriftform-14-abs-4-erkennen` — KERNSKILL: Schriftformmangel nach Paragraf 14 Abs. 4 TzBfG als Unwirksamkeitsgrund.
 - `entfristung-elektronische-signatur-vorsicht` — Scan/einfache Signatur von echter QES trennen; Rechtsfolge bei Formmangel Unbefristetheit.
-- `entfristung-grundwarnung-drei-wochen-frist` — § 17 TzBfG absolute Ausschlussfrist drei Wochen.
-- `entfristung-sachgrund-pruefen-14-abs-1` — Acht Sachgruende nach § 14 Abs. 1 TzBfG prüfen.
+- `entfristung-grundwarnung-drei-wochen-frist` — Paragraf 17 TzBfG absolute Ausschlussfrist drei Wochen.
+- `entfristung-sachgrund-pruefen-14-abs-1` — Acht Sachgruende nach Paragraf 14 Abs. 1 TzBfG prüfen.
 - `entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung` — Sachgrundlose Befristung und Vorbeschaeftigungsverbot.
-- `entfristung-sachgrundlos-14-abs-2a-neugruendung` — Neugründungsprivileg § 14 Abs. 2a TzBfG.
-- `entfristung-sachgrundlos-14-abs-3-aelter-52` — Befristung aelterer Arbeitnehmer nach § 14 Abs. 3 TzBfG.
-- `entfristung-rechtsfolge-16-tzbfg-unbefristet` — Rechtsfolge unwirksamer Befristung nach § 16 TzBfG.
+- `entfristung-sachgrundlos-14-abs-2a-neugruendung` — Neugründungsprivileg Paragraf 14 Abs. 2a TzBfG.
+- `entfristung-sachgrundlos-14-abs-3-aelter-52` — Befristung aelterer Arbeitnehmer nach Paragraf 14 Abs. 3 TzBfG.
+- `entfristung-rechtsfolge-16-tzbfg-unbefristet` — Rechtsfolge unwirksamer Befristung nach Paragraf 16 TzBfG.
 - `entfristung-klageschrift-anwalt-baustein` — Anwaltliche Entfristungs-Klageschrift.
 - `entfristung-klageschrift-laie-baustein` — Entfristungs-Klageschrift für Laien Schritt für Schritt.
 - `entfristung-output-warnschriftsatz-laie` — Vollstaendige Laien-Entfristungs-Klageschrift mit Disclaimer.
@@ -306,17 +306,17 @@ Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbe
 
 **Aufhebungsvertrag und Abmahnung**
 - `aufhebungsvertrag` — Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags.
-- `aufhebungsvertrag-sperrzeit-prognose` — Sperrzeit-Risiko beim Aufhebungsvertrag nach § 159 SGB III.
+- `aufhebungsvertrag-sperrzeit-prognose` — Sperrzeit-Risiko beim Aufhebungsvertrag nach Paragraf 159 SGB III.
 - `abmahnung-arbeitsrecht` — Abmahnungsschreiben oder Gegendarstellung und Widerspruchsschreiben.
 
 **Betriebsrat und kollektives Arbeitsrecht**
-- `betriebsrat-anhoerung` — Betriebsratsanhoerung nach § 102 BetrVG: Inhalt, Fristen, Reaktion.
+- `betriebsrat-anhoerung` — Betriebsratsanhoerung nach Paragraf 102 BetrVG: Inhalt, Fristen, Reaktion.
 - `betriebsrat-beschluss-heilung-nachtraeglich` — Heilung unwirksamer Betriebsratsbeschluesse; BAG 25.09.2024.
 - `betriebsrat-ladung-und-ersatzmitglieder-pruefen` — Ordnungsgemaesse Ladung und Nachrückreihenfolge prüfen.
-- `massenentlassung-17-kschg` — Massenentlassungsanzeige und Konsultation Betriebsrat nach § 17 KSchG.
+- `massenentlassung-17-kschg` — Massenentlassungsanzeige und Konsultation Betriebsrat nach Paragraf 17 KSchG.
 
 **Status, Expansion und Einstellungspruefung**
-- `arbeitnehmer-status` — Statusfeststellung Arbeitnehmer vs. Selbständiger, § 611a BGB, Clearingverfahren.
+- `arbeitnehmer-status` — Statusfeststellung Arbeitnehmer vs. Selbständiger, Paragraf 611a BGB, Clearingverfahren.
 - `einstellungspruefung` — Arbeitsvertrag, Befristung, AGG und Nachweisgesetz bei Neueinstellungen.
 - `expansion-auftakt` — Planung einer Neueinstellung in neuem Bundesland oder Zielland.
 - `expansion-aktualisierung` — Status eines laufenden Expansionsprojekts aktualisieren.
@@ -349,18 +349,18 @@ Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbe
 
 ## Worauf besonders achten
 
-- **Drei-Wochen-Fristen sind absolute Ausschlussfristen**: § 4 KSchG und § 17 TzBfG dulden keine Versaeumnisse; nachtraegliche Klagezulassung nach § 5 KSchG nur bei unverschuldeter Fristversaeumung.
-- **Formzwang bei Kuendigung, Aufhebung und Befristung**: § 623 BGB (Kuendigung/Aufhebungsvertrag) schliesst elektronische Form aus; § 14 Abs. 4 TzBfG verlangt Schriftform, die bei echter QES nach § 126a BGB ersetzt werden kann. Scan/einfache Signatur genügt nicht.
+- **Drei-Wochen-Fristen sind absolute Ausschlussfristen**: Paragraf 4 KSchG und Paragraf 17 TzBfG dulden keine Versaeumnisse; nachtraegliche Klagezulassung nach Paragraf 5 KSchG nur bei unverschuldeter Fristversaeumung.
+- **Formzwang bei Kuendigung, Aufhebung und Befristung**: Paragraf 623 BGB (Kuendigung/Aufhebungsvertrag) schliesst elektronische Form aus; Paragraf 14 Abs. 4 TzBfG verlangt Schriftform, die bei echter QES nach Paragraf 126a BGB ersetzt werden kann. Scan/einfache Signatur genügt nicht.
 - **Betriebsratsanhoerung vor der Kuendigung**: Eine inhaltlich unvollstaendige Anhörung macht die Kuendigung unwirksam; BAG-Anforderungen an Mitteilung von Kuendigungsgrund und Sozialdaten.
-- **Equal Pay Paarvergleich (BAG 23.10.2025)**: Ein einziger besser bezahlter maennlicher Kollege bei gleicher Arbeit begründet bereits die Vermutung des § 22 AGG; Median-Argumente sind nicht mehr ausreichend.
-- **Sperrzeit-Risiko beim Aufhebungsvertrag**: Ohne ausdruecklichen wichtigen Grund im Sinne von § 159 SGB III droht eine 12-woechige Sperrzeit; Abfindungs-Faustformel (0.25 bis 0.5 Bruttogehalt pro Jahr) als Schutz.
+- **Equal Pay Paarvergleich (BAG 23.10.2025)**: Ein einziger besser bezahlter maennlicher Kollege bei gleicher Arbeit begründet bereits die Vermutung des Paragraf 22 AGG; Median-Argumente sind nicht mehr ausreichend.
+- **Sperrzeit-Risiko beim Aufhebungsvertrag**: Ohne ausdruecklichen wichtigen Grund im Sinne von Paragraf 159 SGB III droht eine 12-woechige Sperrzeit; Abfindungs-Faustformel (0.25 bis 0.5 Bruttogehalt pro Jahr) als Schutz.
 
 ## Typische Fehler
 
-- Klagefrist § 4 KSchG als Drei-Wochen-Bitte missverstanden: Die Frist laeuft ab Zugang der Kuendigung, nicht ab Erhalt eines Briefes, und ist strikt.
+- Klagefrist Paragraf 4 KSchG als Drei-Wochen-Bitte missverstanden: Die Frist laeuft ab Zugang der Kuendigung, nicht ab Erhalt eines Briefes, und ist strikt.
 - Betriebsratsanhoerung nach Ausspruch der Kuendigung nachgeholt: Die Anhörung muss vor der Kuendigung abgeschlossen sein; nachtraegliche Heilung ist ausgeschlossen.
-- Aufhebungsvertrag ohne Schriftformkontrolle: § 623 BGB verlangt Schriftform und schliesst elektronische Form aus; muendlich, per E-Mail oder per QES geschlossene Aufhebungsvertraege sind nichtig.
-- AGG-Fristen versaeumt: Entschaedigungsanspruch nach § 15 Abs. 4 AGG verfaellt in zwei Monaten ab Benachteiligung; Frist wird selten beachtet.
+- Aufhebungsvertrag ohne Schriftformkontrolle: Paragraf 623 BGB verlangt Schriftform und schliesst elektronische Form aus; muendlich, per E-Mail oder per QES geschlossene Aufhebungsvertraege sind nichtig.
+- AGG-Fristen versaeumt: Entschaedigungsanspruch nach Paragraf 15 Abs. 4 AGG verfaellt in zwei Monaten ab Benachteiligung; Frist wird selten beachtet.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellen und Aktualitaet

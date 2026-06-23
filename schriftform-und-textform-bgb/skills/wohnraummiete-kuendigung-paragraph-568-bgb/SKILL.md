@@ -3,7 +3,7 @@ name: wohnraummiete-kuendigung-paragraph-568-bgb
 description: "Wohnraummiete Kuendigung Paragraph 568 BGB: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Schriftform Und Textform Bgb."
 ---
 
-# Wohnraummiete-Kündigung — § 568 BGB und Formfragen
+# Wohnraummiete-Kündigung — Paragraf 568 BGB und Formfragen
 
 ## Arbeitsweg
 
@@ -15,41 +15,41 @@ description: "Wohnraummiete Kuendigung Paragraph 568 BGB: ordnet Normen, Nutzera
 
 ## Rechtsgrundlagen
 
-- **§ 568 Abs. 1 BGB** — Kündigung des Wohnraummietverhältnisses: Schriftform erforderlich
-- **§ 573 BGB** — Ordentliche Kündigung durch Vermieter: berechtigtes Interesse
-- **§ 573c BGB** — Kündigungsfristen
-- **§ 569 BGB** — Außerordentliche fristlose Kündigung: Begründungspflicht
-- **§ 126 Abs. 3 BGB** i.V.m. **§ 126a BGB** — Ersatz der Schriftform durch qES
+- **Paragraf 568 Abs. 1 BGB** — Kündigung des Wohnraummietverhältnisses: Schriftform erforderlich
+- **Paragraf 573 BGB** — Ordentliche Kündigung durch Vermieter: berechtigtes Interesse
+- **Paragraf 573c BGB** — Kündigungsfristen
+- **Paragraf 569 BGB** — Außerordentliche fristlose Kündigung: Begründungspflicht
+- **Paragraf 126 Abs. 3 BGB** i.V.m. **Paragraf 126a BGB** — Ersatz der Schriftform durch qES
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **§ 130 BGB** — Zugang der Willenserklärung
+- **Paragraf 130 BGB** — Zugang der Willenserklärung
 
 ## BGH-Linie
 
-### Schriftformerfordernis § 568 Abs. 1 BGB
+### Schriftformerfordernis Paragraf 568 Abs. 1 BGB
 
-Die Kündigung des Wohnraummietverhältnisses bedarf gemäß § 568 Abs. 1 BGB zwingend der Schriftform. Die Schriftform kann nach § 126 Abs. 3 BGB durch die elektronische Form (qES, § 126a BGB) ersetzt werden. Ein ausdrücklicher gesetzlicher Ausschluss der qES-Möglichkeit besteht im Mietrecht — anders als z. B. in § 623 BGB (Arbeitsrecht) — nicht.
+Die Kündigung des Wohnraummietverhältnisses bedarf gemäß Paragraf 568 Abs. 1 BGB zwingend der Schriftform. Die Schriftform kann nach Paragraf 126 Abs. 3 BGB durch die elektronische Form (qES, Paragraf 126a BGB) ersetzt werden. Ein ausdrücklicher gesetzlicher Ausschluss der qES-Möglichkeit besteht im Mietrecht — anders als z. B. in Paragraf 623 BGB (Arbeitsrecht) — nicht.
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Der BGH hat entschieden, dass eine formwirksame qES-Kündigung dem Mieter so zugehen muss, dass er die Signatur selbst prüfen kann. Das qES-Dokument muss elektronisch beim Mieter eingehen. Ein Ausdruck durch das Gericht mit Transfervermerk (§ 298 Abs. 3 ZPO) ersetzt diesen Zugang nicht.
+Der BGH hat entschieden, dass eine formwirksame qES-Kündigung dem Mieter so zugehen muss, dass er die Signatur selbst prüfen kann. Das qES-Dokument muss elektronisch beim Mieter eingehen. Ein Ausdruck durch das Gericht mit Transfervermerk (Paragraf 298 Abs. 3 ZPO) ersetzt diesen Zugang nicht.
 
 ### Begründungspflicht
 
-**Ordentliche Kündigung durch Vermieter** (§ 573 BGB): Berechtigtes Interesse erforderlich (Eigenbedarf, Vertragspflichtverletzung, wirtschaftliche Verwertung). Begründung muss in der Kündigung selbst enthalten sein — Nachschieben von Gründen nur eingeschränkt möglich.
+**Ordentliche Kündigung durch Vermieter** (Paragraf 573 BGB): Berechtigtes Interesse erforderlich (Eigenbedarf, Vertragspflichtverletzung, wirtschaftliche Verwertung). Begründung muss in der Kündigung selbst enthalten sein — Nachschieben von Gründen nur eingeschränkt möglich.
 
-**Außerordentliche fristlose Kündigung** (§ 569 BGB): Wichtiger Grund (z. B. erheblicher Mietrückstand, § 543 Abs. 2 Nr. 3 BGB). Keine gesetzliche Begründungspflicht in der Kündigung selbst, aber Begründung empfehlenswert.
+**Außerordentliche fristlose Kündigung** (Paragraf 569 BGB): Wichtiger Grund (z. B. erheblicher Mietrückstand, Paragraf 543 Abs. 2 Nr. 3 BGB). Keine gesetzliche Begründungspflicht in der Kündigung selbst, aber Begründung empfehlenswert.
 
-**Kündigung durch Mieter**: Schriftform erforderlich (§ 568 Abs. 1 BGB), aber keine Begründungspflicht für ordentliche Kündigung.
+**Kündigung durch Mieter**: Schriftform erforderlich (Paragraf 568 Abs. 1 BGB), aber keine Begründungspflicht für ordentliche Kündigung.
 
 ## Workflow
 
 ### Checkliste Kündigung Wohnraummiete (Vermieter)
 
 ```
-□ Berechtigtes Interesse vorhanden? (§ 573 BGB)
+□ Berechtigtes Interesse vorhanden? (Paragraf 573 BGB)
  → Eigenbedarf? Pflichtverletzung? Wirtschaftliche Verwertung?
 
-□ Kündigungsfrist berechnet? (§ 573c BGB)
+□ Kündigungsfrist berechnet? (Paragraf 573c BGB)
  → bis 5 Jahre Mietdauer: 3 Monate
  → bis 8 Jahre: 6 Monate
  → über 8 Jahre: 9 Monate
@@ -64,7 +64,7 @@ Der BGH hat entschieden, dass eine formwirksame qES-Kündigung dem Mieter so zug
  → Sendebericht sichern
  → Hinweis in E-Mail: rechtliches Dokument mit qES
 
-□ Begründung in der Kündigung enthalten? (§ 573 Abs. 3 BGB)
+□ Begründung in der Kündigung enthalten? (Paragraf 573 Abs. 3 BGB)
 
 □ Zugang des Mieters sichergestellt?
  → Boten-Quittung / Einschreiben-Rückschein / Empfangsbestätigung
@@ -73,11 +73,11 @@ Der BGH hat entschieden, dass eine formwirksame qES-Kündigung dem Mieter so zug
 ### Kündigung durch Mieter — Checkliste
 
 ```
-□ Schriftform gewahrt (§ 568 Abs. 1 BGB)?
+□ Schriftform gewahrt (Paragraf 568 Abs. 1 BGB)?
  → Eigenhändige Unterschrift auf Papier?
  → Oder qES-Dokument digital an Vermieter zugegangen?
 
-□ Kündigungsfrist: 3 Monate zum Monatsende (§ 573c Abs. 1 S. 1 BGB)
+□ Kündigungsfrist: 3 Monate zum Monatsende (Paragraf 573c Abs. 1 S. 1 BGB)
  → Zugang der Kündigung bis spätestens dritten Werktag des Monats?
  → Wenn später: Kündigung wirkt erst zum übernächsten Monatsende
 
@@ -113,9 +113,9 @@ Kündigung des Mietverhältnisses über die Wohnung [Adresse]
 Sehr geehrte(r) Herr/Frau [Name],
 
 hiermit kündige ich das Mietverhältnis über die oben genannte Wohnung
-ordentlich gemäß § 573 BGB zum [Datum, Berechnung: Zugang + Kündigungsfrist].
+ordentlich gemäß Paragraf 573 BGB zum [Datum, Berechnung: Zugang + Kündigungsfrist].
 
-Berechtigtes Interesse (§ 573 Abs. 2 Nr. ... BGB):
+Berechtigtes Interesse (Paragraf 573 Abs. 2 Nr. ... BGB):
 [Eigenbedarf / Pflichtverletzung / wirtschaftliche Verwertung: Begründung]
 
 Ich bitte Sie, die Wohnung bis zu diesem Termin vollständig geräumt
@@ -139,8 +139,8 @@ anbei übersende ich Ihnen die Kündigung des Mietverhältnisses über
 die Wohnung [Adresse] als PDF-Datei.
 
 Das Dokument ist mit einer qualifizierten elektronischen Signatur (qES)
-nach § 126a BGB versehen, welche die gesetzliche Schriftform des
-§ 568 Abs. 1 BGB ersetzt.
+nach Paragraf 126a BGB versehen, welche die gesetzliche Schriftform des
+Paragraf 568 Abs. 1 BGB ersetzt.
 
 Bitte bestätigen Sie den Empfang dieser E-Mail und die Öffnung der
 angehängten Datei per Antwort-E-Mail. Die Signatur können Sie mit
@@ -152,7 +152,7 @@ Mit freundlichen Grüßen
 
 ## Fallstricke
 
-- **E-Mail ohne qES**: Eine bloße E-Mail des Vermieters mit dem Kündigungstext erfüllt nicht die Schriftform des § 568 Abs. 1 BGB. Nur qES ersetzt die Schriftform — einfache oder fortgeschrittene Signatur reichen nicht.
+- **E-Mail ohne qES**: Eine bloße E-Mail des Vermieters mit dem Kündigungstext erfüllt nicht die Schriftform des Paragraf 568 Abs. 1 BGB. Nur qES ersetzt die Schriftform — einfache oder fortgeschrittene Signatur reichen nicht.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **Fehlende Begründung**: Fehlt die Begründung bei ordentlicher Kündigung durch den Vermieter, ist die Kündigung formell unwirksam (§ 573 Abs. 3 S. 1 BGB). Nachschieben von Gründen ist eingeschränkt.
+- **Fehlende Begründung**: Fehlt die Begründung bei ordentlicher Kündigung durch den Vermieter, ist die Kündigung formell unwirksam (Paragraf 573 Abs. 3 S. 1 BGB). Nachschieben von Gründen ist eingeschränkt.
 - **Teilkündigung**: Bei Wohnraummiete grundsätzlich unzulässig.

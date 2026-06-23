@@ -34,8 +34,8 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vergleichsverhandlung: Checkliste` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -54,7 +54,7 @@ Step 1: Vergleichsangebot entgegennehmen, NICHT sofort zustimmen
 Step 2: Bedenk- und Prüfzeit erbitten (mindestens eine Stunde, ggf. bis nächster Tag)
 Step 3: Alle Vergleichspunkte schriftlich festhalten (diese Checkliste)
 Step 4: Steuerliche und sozialversicherungsrechtliche Auswirkungen berücksichtigen
-Step 5: Vergleich bei Zustimmung protokollieren lassen (§ 794 Abs. 1 Nr. 1 ZPO)
+Step 5: Vergleich bei Zustimmung protokollieren lassen (Paragraf 794 Abs. 1 Nr. 1 ZPO)
 Step 6: Widerrufsvorbehalt prüfen (sofern möglich, zwei Wochen Widerrufsfrist vereinbaren)
 ```
 
@@ -68,7 +68,7 @@ Step 6: Widerrufsvorbehalt prüfen (sofern möglich, zwei Wochen Widerrufsfrist 
 
 - **Welches Datum** endet das Arbeitsverhältnis?
 - Ist es das Datum der Kündigung oder ein anderes Datum (z.B. nach Verhandlung, Ende Freistellung)?
-- Hinweis: Das Beendigungsdatum beeinflusst das Arbeitslosengeld (Anwartschaftszeit, Sperrzeit § 159 SGB III bei eigenem Verstoß)
+- Hinweis: Das Beendigungsdatum beeinflusst das Arbeitslosengeld (Anwartschaftszeit, Sperrzeit Paragraf 159 SGB III bei eigenem Verstoß)
 
 ### 2. Abfindung
 
@@ -87,7 +87,7 @@ Step 6: Widerrufsvorbehalt prüfen (sofern möglich, zwei Wochen Widerrufsfrist 
 ### 4. Urlaubsabgeltung
 
 - Wurden alle Urlaubstage genommen oder sind noch offene Urlaubstage vorhanden?
-- § 7 Abs. 4 BUrlG: Offener Urlaub wird bei Beendigung des Arbeitsverhältnisses abgegolten.
+- Paragraf 7 Abs. 4 BUrlG: Offener Urlaub wird bei Beendigung des Arbeitsverhältnisses abgegolten.
 - Auszahlungsbetrag: Tagesgehalt × Urlaubstage
 
 ### 5. Zeugnis
@@ -114,7 +114,7 @@ Step 6: Widerrufsvorbehalt prüfen (sofern möglich, zwei Wochen Widerrufsfrist 
 
 - Besteht bereits ein vertragliches Wettbewerbsverbot?
 - Wird es im Vergleich aufgehoben oder angepasst?
-- Karenzentschädigung (§ 74 Abs. 2 HGB: mindestens halbes Jahresgehalt pro Verbotsjahr)
+- Karenzentschädigung (Paragraf 74 Abs. 2 HGB: mindestens halbes Jahresgehalt pro Verbotsjahr)
 
 ### 9. Geheimhaltungsklausel
 
@@ -127,7 +127,7 @@ Step 6: Widerrufsvorbehalt prüfen (sofern möglich, zwei Wochen Widerrufsfrist 
 Die Parteien schließen zur Erledigung des Rechtsstreits folgenden Vergleich:
 
 1. Das Arbeitsverhältnis der Parteien endet auf Veranlassung der Beklagten mit Ablauf des [DATUM].
-2. Die Beklagte zahlt an den Kläger eine Abfindung nach §§ 9, 10 KSchG in Höhe von [BETRAG] EUR brutto.
+2. Die Beklagte zahlt an den Kläger eine Abfindung nach Paragrafen 9, 10 KSchG in Höhe von [BETRAG] EUR brutto.
 3. Der Kläger ist ab sofort unwiderruflich von der Arbeitspflicht freigestellt; offener Urlaub wird auf die Freistellung angerechnet.
 4. Die Beklagte erteilt dem Kläger ein qualifiziertes Zeugnis mit der Gesamtnote "gut" bis zum [DATUM].
 5. Damit sind alle wechselseitigen Ansprüche aus dem Arbeitsverhältnis und seiner Beendigung erledigt.

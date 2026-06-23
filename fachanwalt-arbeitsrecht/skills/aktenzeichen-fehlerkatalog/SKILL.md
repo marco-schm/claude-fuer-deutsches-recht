@@ -11,15 +11,15 @@ Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Fachanwalt Arbeitsrecht** v
 
 ## Fehlerkatalog
 
-### 1. Frist falsch berechnet oder übersehen (§ 4 KSchG 3 Wochen Kündigungsschutzklage)
+### 1. Frist falsch berechnet oder übersehen (Paragraf 4 KSchG 3 Wochen Kündigungsschutzklage)
 
-- **Symptom:** Frist falsch berechnet oder übersehen (§ 4 KSchG 3 Wochen Kündigungsschutzklage)
+- **Symptom:** Frist falsch berechnet oder übersehen (Paragraf 4 KSchG 3 Wochen Kündigungsschutzklage)
 - **Diagnose:** Fristbeginn ab falschem Ereignis gerechnet (Zugang vs. Datum des Schreibens) oder Vorfrist im Kanzleisystem fehlt
 - **Heilung:** Fristenkette aus dem Originaldokument rekonstruieren, Zugangsnachweis sichern, Vorfrist mit zwei Wochen setzen
 
-### 2. Parallelfrist vergessen (§ 7 KSchG Wirksamkeitsfiktion)
+### 2. Parallelfrist vergessen (Paragraf 7 KSchG Wirksamkeitsfiktion)
 
-- **Symptom:** Parallelfrist vergessen (§ 7 KSchG Wirksamkeitsfiktion)
+- **Symptom:** Parallelfrist vergessen (Paragraf 7 KSchG Wirksamkeitsfiktion)
 - **Diagnose:** Zweite, unabhängig laufende Frist wird von der ersten verdeckt
 - **Heilung:** Alle Fristen des Vorgangs tabellarisch erfassen und einzeln verfügen
 
@@ -41,9 +41,9 @@ Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Fachanwalt Arbeitsrecht** v
 - **Diagnose:** Arbeit mit Entwurfs- oder Altfassung statt der maßgeblichen Version
 - **Heilung:** Versionsstand und Datum jedes Dokuments prüfen; maßgebliche Fassung in der Akte markieren
 
-### 6. Normzitat ohne Fassungsprüfung (BGB §§ 611a ff., 623)
+### 6. Normzitat ohne Fassungsprüfung (BGB Paragrafen 611a ff., 623)
 
-- **Symptom:** Normzitat ohne Fassungsprüfung (BGB §§ 611a ff., 623)
+- **Symptom:** Normzitat ohne Fassungsprüfung (BGB Paragrafen 611a ff., 623)
 - **Diagnose:** Zitierte Norm wurde geändert, verschoben oder aufgehoben
 - **Heilung:** Vor Abgabe jeden Paragraphen gegen gesetze-im-internet.de prüfen; Übergangsvorschriften beachten
 
@@ -57,7 +57,7 @@ Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Fachanwalt Arbeitsrecht** v
 
 - **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
 - **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag
-- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (§ 43a Abs. 2 BRAO, § 203 StGB)
+- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (Paragraf 43a Abs. 2 BRAO, Paragraf 203 StGB)
 
 ## Ausgabe
 

@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Quellen-Live-Check für Schriftform/Textform BGB: prüft Normen (§§ 126/126a und 126b BGB, § 127 BGB, § 130 BGB Zugang) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Zivilgerichte und Quellenhygiene nach references/quellenhygiene.md."
+description: "Quellen-Live-Check für Schriftform/Textform BGB: prüft Normen (Paragrafen 126/126a und 126b BGB, Paragraf 127 BGB, Paragraf 130 BGB Zugang) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Zivilgerichte und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck

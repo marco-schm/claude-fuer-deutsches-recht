@@ -1,9 +1,9 @@
 ---
 name: kueschk-streitwert-kostenfolge-prozesskostenhilfe
-description: "Streitwert nach § 42 GKG drei Bruttomonatsgehaelter: § 12a ArbGG keine Kostenerstattung erste Instanz; Ausnahme Berufung; Prozesskostenhilfe §§ 114 ff. ZPO für einkommensschwache Parteien; praktische Hinw..."
+description: "Streitwert nach Paragraf 42 GKG drei Bruttomonatsgehaelter: Paragraf 12a ArbGG keine Kostenerstattung erste Instanz; Ausnahme Berufung; Prozesskostenhilfe Paragrafen 114 ff. ZPO für einkommensschwache Parteien; praktische Hinw..."
 ---
 
-# Streitwert nach § 42 GKG drei Bruttomonatsgehaelter
+# Streitwert nach Paragraf 42 GKG drei Bruttomonatsgehaelter
 
 
 ## Arbeitsweg
@@ -14,21 +14,21 @@ description: "Streitwert nach § 42 GKG drei Bruttomonatsgehaelter: § 12a ArbGG
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Streitwert nach § 42 GKG drei Bruttomonatsgehaelter; § 12a ArbGG keine Kostenerstattung erste Instanz; Ausnahme Berufung; Prozesskostenhilfe §§ 114 ff. ZPO für einkommensschwache Parteien; praktische Hinweise zu Gerichtskosten.
+**Fokus:** Streitwert nach Paragraf 42 GKG drei Bruttomonatsgehaelter; Paragraf 12a ArbGG keine Kostenerstattung erste Instanz; Ausnahme Berufung; Prozesskostenhilfe Paragrafen 114 ff. ZPO für einkommensschwache Parteien; praktische Hinweise zu Gerichtskosten.
 
 ### Streitwert, Kostenfolge und Prozesskostenhilfe
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Streitwert, Kostenfolge und Prozesskostenhilfe` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Streitwert § 42 GKG
+## Streitwert Paragraf 42 GKG
 
-Der Streitwert in Kündigungsschutzverfahren wird nach § 42 Abs. 2 GKG berechnet:
+Der Streitwert in Kündigungsschutzverfahren wird nach Paragraf 42 Abs. 2 GKG berechnet:
 
 > **Drei Bruttomonatsgehälter** bei einer ordentlichen Kündigung.
 
@@ -36,11 +36,11 @@ Der Streitwert in Kündigungsschutzverfahren wird nach § 42 Abs. 2 GKG berechne
 
 Der Streitwert beeinflusst die Gerichtsgebühren und die anwaltlichen Gebühren (RVG).
 
-## Keine Kostenerstattung erste Instanz — § 12a ArbGG
+## Keine Kostenerstattung erste Instanz — Paragraf 12a ArbGG
 
 **Wichtigste Regel im Arbeitsgerichtsprozess:**
 
-> § 12a Abs. 1 Satz 1 ArbGG: In Urteilsverfahren des ersten Rechtszuges besteht kein Anspruch der obsiegenden Partei auf Entschädigung wegen Zeitversäumnis und auf Erstattung der Kosten für die Zuziehung eines Bevollmächtigten.
+> Paragraf 12a Abs. 1 Satz 1 ArbGG: In Urteilsverfahren des ersten Rechtszuges besteht kein Anspruch der obsiegenden Partei auf Entschädigung wegen Zeitversäumnis und auf Erstattung der Kosten für die Zuziehung eines Bevollmächtigten.
 
 Das bedeutet:
 - Arbeitnehmer verliert Klage → Er zahlt eigenen Anwalt, aber **nicht** den Anwalt des Arbeitgebers.
@@ -51,12 +51,12 @@ Das bedeutet:
 
 **Ab Berufung (LAG):** Ab dem zweiten Rechtszug gilt das normale Kostenrecht der ZPO — die unterlegene Partei erstattet der obsiegenden die Anwaltskosten. Dies erhöht das Kostenrisiko erheblich.
 
-## Prozesskostenhilfe §§ 114 ff. ZPO
+## Prozesskostenhilfe Paragrafen 114 ff. ZPO
 
 Wer die Kosten des Prozesses nicht selbst tragen kann, kann Prozesskostenhilfe (PKH) beantragen.
 
 **Voraussetzungen:**
-1. **Bedürftigkeit:** Einkommen und Vermögen reichen nach den Tabellen nicht aus (§ 115 ZPO).
+1. **Bedürftigkeit:** Einkommen und Vermögen reichen nach den Tabellen nicht aus (Paragraf 115 ZPO).
 2. **Hinreichende Aussicht auf Erfolg:** Die Klage darf nicht offensichtlich aussichtslos sein.
 3. **Mutwilligkeit:** Die Rechtsverfolgung darf nicht mutwillig sein.
 
@@ -78,7 +78,7 @@ Wer die Kosten des Prozesses nicht selbst tragen kann, kann Prozesskostenhilfe (
 | Merkmal | Erste Instanz (ArbG) | Berufung (LAG) | Revision (BAG) |
 |---|---|---|---|
 | Anwaltszwang | Nein | Ja | Ja |
-| Kostenerstattung | Nein (§ 12a ArbGG) | Ja (ZPO) | Ja (ZPO) |
+| Kostenerstattung | Nein (Paragraf 12a ArbGG) | Ja (ZPO) | Ja (ZPO) |
 | Gerichtskosten | GKG (AG-Anteil bei Sieg) | GKG | GKG |
 | Risiko bei Verlust | Eigene Anwaltskosten | Eigene + fremde Anwaltskosten | Hoch |
 

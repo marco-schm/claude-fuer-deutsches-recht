@@ -11,8 +11,8 @@ Diese Quellenkarte sichert für **Fachanwalt Arbeitsrecht** jede tragende Aussag
 
 ## Tragende Normen (live prüfen)
 
-- **BGB §§ 611a ff., 623** — amtlichen Stand vor tragender Aussage prüfen
-- **KSchG §§ 1, 4, 7** — amtlichen Stand vor tragender Aussage prüfen
+- **BGB Paragrafen 611a ff., 623** — amtlichen Stand vor tragender Aussage prüfen
+- **KSchG Paragrafen 1, 4, 7** — amtlichen Stand vor tragender Aussage prüfen
 - **AGG** — amtlichen Stand vor tragender Aussage prüfen
 - **TzBfG** — amtlichen Stand vor tragender Aussage prüfen
 - **BetrVG** — amtlichen Stand vor tragender Aussage prüfen
@@ -33,9 +33,9 @@ Diese Quellenkarte sichert für **Fachanwalt Arbeitsrecht** jede tragende Aussag
 
 ## Fristen mit Quellenrelevanz
 
-- § 4 KSchG 3 Wochen Kündigungsschutzklage
-- § 7 KSchG Wirksamkeitsfiktion
-- § 15 AGG 2 Monate Geltendmachung
+- Paragraf 4 KSchG 3 Wochen Kündigungsschutzklage
+- Paragraf 7 KSchG Wirksamkeitsfiktion
+- Paragraf 15 AGG 2 Monate Geltendmachung
 
 ## Prüfroute
 

@@ -1,6 +1,6 @@
 ---
 name: kueschk-stricken-anwalt-risiko-und-vergleichsdruck
-description: "KERNSKILL: Warnung vor der Stricken-Strategie des Arbeitgeberanwalts: Risiko dass Arbeitgeber spaet nachgibt wenn Arbeitnehmer neuen Job hat und Rückkehrpflicht droht; Aufloeungsantrag §..."
+description: "KERNSKILL: Warnung vor der Stricken-Strategie des Arbeitgeberanwalts: Risiko dass Arbeitgeber spaet nachgibt wenn Arbeitnehmer neuen Job hat und Rückkehrpflicht droht; Aufloeungsantrag Paragraf..."
 ---
 
 # KERNSKILL: Warnung vor der Stricken-Strategie des Arbeitgeberanwalts
@@ -14,14 +14,14 @@ description: "KERNSKILL: Warnung vor der Stricken-Strategie des Arbeitgeberanwal
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** KERNSKILL: Warnung vor der Stricken-Strategie des Arbeitgeberanwalts; Risiko dass Arbeitgeber spaet nachgibt wenn Arbeitnehmer neuen Job hat und Rückkehrpflicht droht; Aufloeungsantrag § 9 KSchG; § 12 KSchG einseitige Lösung nach neuem Arbeitsverhältnis.
+**Fokus:** KERNSKILL: Warnung vor der Stricken-Strategie des Arbeitgeberanwalts; Risiko dass Arbeitgeber spaet nachgibt wenn Arbeitnehmer neuen Job hat und Rückkehrpflicht droht; Aufloeungsantrag Paragraf 9 KSchG; Paragraf 12 KSchG einseitige Lösung nach neuem Arbeitsverhältnis.
 
 ### KERNWARNUNG: Stricken-Anwalt-Risiko und Vergleichsdruck
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `KERNWARNUNG: Stricken-Anwalt-Risiko und Vergleichsdruck` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -31,14 +31,14 @@ description: "KERNSKILL: Warnung vor der Stricken-Strategie des Arbeitgeberanwal
 1. Läuft das Kündigungsschutzverfahren bereits länger als drei Monate?
 2. Hat der Arbeitnehmer inzwischen einen neuen Job angenommen oder konkrete Angebote?
 3. Hat der Arbeitgeber bisher keine Bereitschaft zum Vergleich gezeigt (Signale für Hinhalte-Strategie)?
-4. Könnte ein Auflösungsantrag nach § 9 KSchG die bessere Strategie sein als Weiterstreiten?
+4. Könnte ein Auflösungsantrag nach Paragraf 9 KSchG die bessere Strategie sein als Weiterstreiten?
 
 **Entscheidungsbaum Stricken-Strategie vs. Gegenmaßnahmen:**
 ```
-Neuer Job angenommen? → § 12 KSchG-Erklärung vorbereiten (Wochenfrist nach Rechtskraft)
-Rückkehr unzumutbar, Prozess laufend? → Auflösungsantrag § 9 KSchG stellen
+Neuer Job angenommen? → Paragraf 12 KSchG-Erklärung vorbereiten (Wochenfrist nach Rechtskraft)
+Rückkehr unzumutbar, Prozess laufend? → Auflösungsantrag Paragraf 9 KSchG stellen
 Vergleich vertretbar? → Im nächsten Termin Einigung anstreben
-Kein neuer Job, keine Unzumutbarkeit? → Prozess führen, § 102 Abs. 5 BetrVG prüfen
+Kein neuer Job, keine Unzumutbarkeit? → Prozess führen, Paragraf 102 Abs. 5 BetrVG prüfen
 ```
 
 ## Aktuelle Rechtsprechung
@@ -69,21 +69,21 @@ Diese Strategie gibt es wirklich und sie hat einen Spitznamen: die **Stricken-St
 
 ## Die Lösungen
 
-### Lösung 1: § 12 KSchG — Einseitige Erklärung des Arbeitnehmers
+### Lösung 1: Paragraf 12 KSchG — Einseitige Erklärung des Arbeitnehmers
 
 Wenn das Gericht feststellt, dass die Kündigung unwirksam war und der Arbeitnehmer bereits ein neues Arbeitsverhältnis eingegangen ist, kann der Arbeitnehmer **selbst einseitig** erklären, dass er das alte Arbeitsverhältnis nicht fortsetzt.
 
-**Bedingungen (§ 12 Satz 1 KSchG):**
+**Bedingungen (Paragraf 12 Satz 1 KSchG):**
 - Der Arbeitnehmer hat nach der Kündigung ein neues Arbeitsverhältnis begonnen.
 - Das Gericht hat die Kündigung für unwirksam erklärt.
 
-**Erklärungsfrist (§ 12 Satz 2 KSchG): Eine Woche** nach Rechtskraft des Urteils.
+**Erklärungsfrist (Paragraf 12 Satz 2 KSchG): Eine Woche** nach Rechtskraft des Urteils.
 
 Die Erklärung muss dem Arbeitgeber innerhalb dieser Woche zugehen. Nach Ablauf der Frist ist das Recht verwirkt.
 
-**Rechtsfolge:** Das Arbeitsverhältnis gilt mit dem Ablauf der Kündigungsfrist als aufgelöst. Der Arbeitnehmer hat Anspruch auf Annahmeverzugslohn für den Zeitraum bis zum Ende der alten Kündigungsfrist — aber **keine Abfindung** nach §§ 9, 10 KSchG.
+**Rechtsfolge:** Das Arbeitsverhältnis gilt mit dem Ablauf der Kündigungsfrist als aufgelöst. Der Arbeitnehmer hat Anspruch auf Annahmeverzugslohn für den Zeitraum bis zum Ende der alten Kündigungsfrist — aber **keine Abfindung** nach Paragrafen 9, 10 KSchG.
 
-### Lösung 2: § 9 KSchG — Auflösungsantrag des Arbeitnehmers
+### Lösung 2: Paragraf 9 KSchG — Auflösungsantrag des Arbeitnehmers
 
 Der Arbeitnehmer kann bereits während des Prozesses einen **Auflösungsantrag** stellen und dabei eine Abfindung beantragen — wenn die Fortsetzung des Arbeitsverhältnisses ihm **unzumutbar** ist.
 
@@ -98,8 +98,8 @@ Der sicherste Weg: Im Gütetermin oder Kammertermin einen **Vergleich mit Beendi
 **Wenn du einen neuen Job annimmst während der Kündigungsschutzklage läuft:**
 - Informiere deinen Anwalt sofort.
 - Prüfe, ob ein Vergleich zu vertretbaren Bedingungen möglich ist.
-- Notiere dir die Wochenfrist des § 12 KSchG für den Fall, dass das Gericht die Kündigung für unwirksam erklärt.
-- Erwäge einen Auflösungsantrag nach § 9 KSchG wenn die Rückkehr unzumutbar ist.
+- Notiere dir die Wochenfrist des Paragraf 12 KSchG für den Fall, dass das Gericht die Kündigung für unwirksam erklärt.
+- Erwäge einen Auflösungsantrag nach Paragraf 9 KSchG wenn die Rückkehr unzumutbar ist.
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 name: entgtranspg-verhandlung-vergleich-und-eskalation
-description: "EntgTranspG Entgelttransparenzgesetz: Auskunftsanspruch § 10, Verfahren, Fristen, Verhandlungsstrategie bei Lohnlücke, Eskalation zu AGG-Klage §§ 15 und 22 AGG, Paarvergleich BAG 8 AZR 300/24, EU-Lohntransparenz-RL 2023/970: EntgTranspG Entgelttransparenzg..."
+description: "EntgTranspG Entgelttransparenzgesetz: Auskunftsanspruch Paragraf 10, Verfahren, Fristen, Verhandlungsstrategie bei Lohnlücke, Eskalation zu AGG-Klage Paragrafen 15 und 22 AGG, Paarvergleich BAG 8 AZR 300/24, EU-Lohntransparenz-RL 2023/970: EntgTranspG Entgelttransparenzg..."
 ---
 
-# EntgTranspG Entgelttransparenzgesetz: Auskunftsanspruch § 10, Verfahren, Fristen, Verhandlungsstrategie bei Lohnlücke, Eskalation zu AGG-Klage §§ 15 und 22 AGG, Paarvergleich BAG 8 AZR 300/24, EU-Lohntransparenz-RL 2023/970.
+# EntgTranspG Entgelttransparenzgesetz: Auskunftsanspruch Paragraf 10, Verfahren, Fristen, Verhandlungsstrategie bei Lohnlücke, Eskalation zu AGG-Klage Paragrafen 15 und 22 AGG, Paarvergleich BAG 8 AZR 300/24, EU-Lohntransparenz-RL 2023/970.
 
 
 ## Arbeitsweg
@@ -14,14 +14,14 @@ description: "EntgTranspG Entgelttransparenzgesetz: Auskunftsanspruch § 10, Ver
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** EntgTranspG Entgelttransparenzgesetz: Auskunftsanspruch § 10, Verfahren, Fristen, Verhandlungsstrategie bei Lohnlücke, Eskalation zu AGG-Klage §§ 15 und 22 AGG, Paarvergleich BAG 8 AZR 300/24, EU-Lohntransparenz-RL 2023/970.
+**Fokus:** EntgTranspG Entgelttransparenzgesetz: Auskunftsanspruch Paragraf 10, Verfahren, Fristen, Verhandlungsstrategie bei Lohnlücke, Eskalation zu AGG-Klage Paragrafen 15 und 22 AGG, Paarvergleich BAG 8 AZR 300/24, EU-Lohntransparenz-RL 2023/970.
 
 ### Spezial: EntgTranspG — Verhandlung, Vergleich und Eskalation
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: EntgTranspG — Verhandlung, Vergleich und Eskalation` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -30,15 +30,15 @@ description: "EntgTranspG Entgelttransparenzgesetz: Auskunftsanspruch § 10, Ver
 Wenn eine Entgelttransparenz-Frage vorliegt, zuerst klären:
 
 1. **Mandant:** Arbeitnehmer (Auskunftsanspruch geltend machen, Lohnlücke schließen) oder Arbeitgeber (Auskunft erteilen, Diskriminierung vermeiden)?
-2. **Betriebsgröße:** Gilt das EntgTranspG? (§ 12 EntgTranspG: > 200 Beschäftigte)
+2. **Betriebsgröße:** Gilt das EntgTranspG? (Paragraf 12 EntgTranspG: > 200 Beschäftigte)
 3. **Vergleichstätigkeit:** Welche Tätigkeit hat der Mandant; welche ist vergleichbar?
 4. **Lohnlücke:** Gibt es konkrete Anhaltspunkte für eine Differenz? (z.B. Kolleg/-in bekannt mit höherem Gehalt)
-5. **Fristen:** Gilt die AGG-Frist § 15 Abs. 4 AGG (2 Monate) für eine Klage bereits?
+5. **Fristen:** Gilt die AGG-Frist Paragraf 15 Abs. 4 AGG (2 Monate) für eine Klage bereits?
 
-## EntgTranspG — Auskunftsanspruch § 10
+## EntgTranspG — Auskunftsanspruch Paragraf 10
 
 ### Anwendungsbereich
-- Betriebe mit > 200 Beschäftigten beim selben Arbeitgeber (§ 12 Abs. 1 EntgTranspG)
+- Betriebe mit > 200 Beschäftigten beim selben Arbeitgeber (Paragraf 12 Abs. 1 EntgTranspG)
 - Tarifgebundene Arbeitgeber mit > 200 Beschäftigten: Auskunft über tarifliche Einstufung
 - Nicht tarifgebundene: Auskunft über die Gehaltsspanne der Vergleichstätigkeit
 
@@ -49,7 +49,7 @@ Wenn eine Entgelttransparenz-Frage vorliegt, zuerst klären:
 ### Verfahren
 1. Auskunftsersuchen an HR oder BR (bei BR: innerhalb von 3 Monaten zu erteilen)
 2. Auskunftspflichtige: Arbeitgeber; wenn BR vorhanden, Weiterleitung durch BR-Vorgabe
-3. Frist: Innerhalb von 3 Monaten nach Eingang des Ersuchens beim BR (§ 14 EntgTranspG) oder direkt beim Arbeitgeber (§ 10 EntgTranspG)
+3. Frist: Innerhalb von 3 Monaten nach Eingang des Ersuchens beim BR (Paragraf 14 EntgTranspG) oder direkt beim Arbeitgeber (Paragraf 10 EntgTranspG)
 4. Inhalt: Median-Entgelt der Vergleichsgruppe; mind. 6 Personen in Vergleichsgruppe
 
 ### Was tun bei Lohnlücke?
@@ -60,17 +60,17 @@ Wenn eine Entgelttransparenz-Frage vorliegt, zuerst klären:
 ## AGG — Eskalation bei Entgeltdiskriminierung
 
 ### Anspruchsgrundlagen
-- § 15 Abs. 1 AGG: Schadensersatz bei schuldhafter Diskriminierung (Entgeltdifferenz rückwirkend)
-- § 15 Abs. 2 AGG: Entschädigungsanspruch bei immaterieller Schädigung (max. 3 Monatsgehälter)
-- § 8 Abs. 2 AGG: Gleiches Entgelt als Diskriminierungsverbot
+- Paragraf 15 Abs. 1 AGG: Schadensersatz bei schuldhafter Diskriminierung (Entgeltdifferenz rückwirkend)
+- Paragraf 15 Abs. 2 AGG: Entschädigungsanspruch bei immaterieller Schädigung (max. 3 Monatsgehälter)
+- Paragraf 8 Abs. 2 AGG: Gleiches Entgelt als Diskriminierungsverbot
 
-### Beweislast § 22 AGG — Paarvergleich
-Das BAG hat in BAG 8 AZR 300/24 (23.10.2025) entschieden: **Ein einziger Vergleichskollege des anderen Geschlechts genügt zur Begründung der Vermutung nach § 22 AGG** (Paarvergleich). Arbeitgeber muss dann beweisen, dass kein Verstoß gegen das Entgeltgleichheitsgebot vorliegt.
+### Beweislast Paragraf 22 AGG — Paarvergleich
+Das BAG hat in BAG 8 AZR 300/24 (23.10.2025) entschieden: **Ein einziger Vergleichskollege des anderen Geschlechts genügt zur Begründung der Vermutung nach Paragraf 22 AGG** (Paarvergleich). Arbeitgeber muss dann beweisen, dass kein Verstoß gegen das Entgeltgleichheitsgebot vorliegt.
 
 **Quellenregel:** BAG 8 AZR 300/24 — Pressemitteilung bundesarbeitsgericht.de; dejure.org-Vernetzung. Stets live prüfen, ob Urteilstext verfügbar.
 
 ### Klagebefugnis und Frist
-- Anspruch nach § 15 Abs. 1 AGG: Geltendmachung innerhalb von 2 Monaten ab Kenntnis (§ 15 Abs. 4 AGG)
+- Anspruch nach Paragraf 15 Abs. 1 AGG: Geltendmachung innerhalb von 2 Monaten ab Kenntnis (Paragraf 15 Abs. 4 AGG)
 - **Achtung:** Die Auskunft nach EntgTranspG setzt die 2-Monats-Frist nicht in Gang, sofern die Diskriminierung schon früher erkennbar war. Aktuelle BAG-Linie live prüfen.
 - Klage beim ArbG: Urteilsverfahren
 
@@ -91,10 +91,10 @@ Das BAG hat in BAG 8 AZR 300/24 (23.10.2025) entschieden: **Ein einziger Verglei
 
 | Stufe | Maßnahme | Ergebnis |
 |---|---|---|
-| 1 | Auskunftsersuchen nach § 10 EntgTranspG | Lohnlücke quantifiziert |
+| 1 | Auskunftsersuchen nach Paragraf 10 EntgTranspG | Lohnlücke quantifiziert |
 | 2 | Gesprächsangebot an AG: Angleichungsverhandlung | Freiwillige Angleichung |
 | 3 | AGG-Anspruch schriftlich geltend machen (2-Monats-Frist beachten!) | Vergleich oder Ablehnung |
-| 4 | Klage beim ArbG nach § 15 AGG | Urteil / gerichtlicher Vergleich |
+| 4 | Klage beim ArbG nach Paragraf 15 AGG | Urteil / gerichtlicher Vergleich |
 
 ### Vergleichsformel (Muster)
 > „Die Parteien einigen sich dahin, dass die Beklagte der Klägerin für den Zeitraum [von–bis] eine Nachzahlung von EUR [Betrag] brutto leistet. Mit dieser Zahlung sind alle Ansprüche der Klägerin nach dem AGG und EntgTranspG für den genannten Zeitraum abgegolten."

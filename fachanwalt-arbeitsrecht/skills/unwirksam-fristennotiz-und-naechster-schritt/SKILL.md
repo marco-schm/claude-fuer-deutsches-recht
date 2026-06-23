@@ -20,8 +20,8 @@ description: "Unwirksamkeit erkannt — Fristennotiz und nächster Schritt: sofo
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Unwirksam erkannt — Fristennotiz und nächster Schritt` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -31,7 +31,7 @@ Wenn ein Unwirksamkeitsgrund erkannt wurde, sofort folgende Schritte:
 
 1. **Unwirksamkeitsgrund identifizieren** (s. Checkliste unten)
 2. **Zugangsdatum / Beendigungsdatum sichern**
-3. **Fristablauf berechnen** (3 Wochen ab Zugang § 4 KSchG / § 17 TzBfG)
+3. **Fristablauf berechnen** (3 Wochen ab Zugang Paragraf 4 KSchG / Paragraf 17 TzBfG)
 4. **Wie viele Tage sind noch bis zum Fristablauf?**
 5. **Mandant sofort informieren; Handlungsempfehlung geben**
 
@@ -41,21 +41,21 @@ Wenn ein Unwirksamkeitsgrund erkannt wurde, sofort folgende Schritte:
 
 | Fehler | Norm | Rechtsfolge |
 |---|---|---|
-| Kündigung nicht handschriftlich unterschrieben | § 623 BGB | Nichtig § 125 BGB; kein Fristlauf |
-| Kündigung per E-Mail/WhatsApp/Fax | § 623 BGB | Nichtig |
-| Vollmacht nicht beigefügt und sofort gerügt (§ 174 BGB) | § 174 BGB | Unwirksamkeit; Fristlauf fraglich |
-| Befristungsabrede nach Dienstantritt unterzeichnet | § 14 Abs. 4 TzBfG | Befristung unwirksam; unbefristetes AV |
+| Kündigung nicht handschriftlich unterschrieben | Paragraf 623 BGB | Nichtig Paragraf 125 BGB; kein Fristlauf |
+| Kündigung per E-Mail/WhatsApp/Fax | Paragraf 623 BGB | Nichtig |
+| Vollmacht nicht beigefügt und sofort gerügt (Paragraf 174 BGB) | Paragraf 174 BGB | Unwirksamkeit; Fristlauf fraglich |
+| Befristungsabrede nach Dienstantritt unterzeichnet | Paragraf 14 Abs. 4 TzBfG | Befristung unwirksam; unbefristetes AV |
 
-**Sofortmaßnahme bei § 623 BGB-Nichtigkeit:**
+**Sofortmaßnahme bei Paragraf 623 BGB-Nichtigkeit:**
 > Keine Klagefrist läuft, da nichtige Kündigung das AV nicht berührt. Dennoch: vorsorglich Klage einreichen oder schriftlich gegenüber AG die Nichtigkeit rügen und Weiterbeschäftigung verlangen.
 
 ### Kategorie B: Betriebsrat nicht angehört (starke Position)
 
 | Fehler | Norm | Rechtsfolge |
 |---|---|---|
-| Betriebsrat gar nicht angehört | § 102 BetrVG | Kündigung unwirksam |
-| Anhörung unvollständig (fehlende Sozialdaten, falsche Gründe) | § 102 BetrVG | Kündigung unwirksam |
-| Anhörungsfrist nicht eingehalten | § 102 Abs. 2 BetrVG | Kündigung unwirksam |
+| Betriebsrat gar nicht angehört | Paragraf 102 BetrVG | Kündigung unwirksam |
+| Anhörung unvollständig (fehlende Sozialdaten, falsche Gründe) | Paragraf 102 BetrVG | Kündigung unwirksam |
+| Anhörungsfrist nicht eingehalten | Paragraf 102 Abs. 2 BetrVG | Kündigung unwirksam |
 
 **Sofortmaßnahme:** Klage einlegen; Beweismittel für fehlende Anhörung sichern (BR-Protokoll anfordern; BR-Mitglieder als Zeugen benennen).
 
@@ -63,10 +63,10 @@ Wenn ein Unwirksamkeitsgrund erkannt wurde, sofort folgende Schritte:
 
 | Schutz | Norm | Rechtsfolge |
 |---|---|---|
-| Schwangerschaft / Mutterschutz | § 17 MuSchG | Kündigung nichtig ohne Genehmigung |
-| Elternzeit | § 18 BEEG | Kündigung nichtig ohne Genehmigung |
-| Schwerbehinderung | § 168 SGB IX | Kündigung nichtig ohne Zustimmung Integrationsamt |
-| Betriebsratsmitglied | §§ 15 KSchG, 103 BetrVG | Kündigung ohne BR-Zustimmung unwirksam |
+| Schwangerschaft / Mutterschutz | Paragraf 17 MuSchG | Kündigung nichtig ohne Genehmigung |
+| Elternzeit | Paragraf 18 BEEG | Kündigung nichtig ohne Genehmigung |
+| Schwerbehinderung | Paragraf 168 SGB IX | Kündigung nichtig ohne Zustimmung Integrationsamt |
+| Betriebsratsmitglied | Paragrafen 15 KSchG, 103 BetrVG | Kündigung ohne BR-Zustimmung unwirksam |
 
 **Sofortmaßnahme:** Klage einlegen; Behörde oder BR als Zeuge oder um Akteneinsicht bitten.
 
@@ -74,9 +74,9 @@ Wenn ein Unwirksamkeitsgrund erkannt wurde, sofort folgende Schritte:
 
 | Fehler | Norm | Rechtsfolge |
 |---|---|---|
-| Anzeige vor BR-Konsultationsabschluss | § 17 Abs. 2, 3 KSchG | Alle betroffenen Kündigungen unwirksam (BAG 6 AZR 152/22) |
-| Anzeige fehlt | § 17 KSchG | Alle betroffenen Kündigungen unwirksam |
-| Anzeige nach Kündigungsausspruch | § 17 KSchG | EuGH C-134/24: keine Heilung |
+| Anzeige vor BR-Konsultationsabschluss | Paragraf 17 Abs. 2, 3 KSchG | Alle betroffenen Kündigungen unwirksam (BAG 6 AZR 152/22) |
+| Anzeige fehlt | Paragraf 17 KSchG | Alle betroffenen Kündigungen unwirksam |
+| Anzeige nach Kündigungsausspruch | Paragraf 17 KSchG | EuGH C-134/24: keine Heilung |
 
 **Sofortmaßnahme:** Klage für alle betroffenen AN einlegen; Anzeigenabschrift bei BA und BR-Konsultationsnachweis anfordern.
 
@@ -84,9 +84,9 @@ Wenn ein Unwirksamkeitsgrund erkannt wurde, sofort folgende Schritte:
 
 | Fehler | Norm | Rechtsfolge |
 |---|---|---|
-| Kein Sachgrund bei wiederholter Befristung | § 14 Abs. 1 TzBfG | Befristung unwirksam → unbefristetes AV |
-| Sachgrundlose Befristung: Vorbeschäftigung | § 14 Abs. 2 Satz 2 TzBfG | Befristung unwirksam |
-| Sachgrundlose Befristung: > 2 Jahre oder > 3 Verlängerungen | § 14 Abs. 2 TzBfG | Befristung unwirksam |
+| Kein Sachgrund bei wiederholter Befristung | Paragraf 14 Abs. 1 TzBfG | Befristung unwirksam → unbefristetes AV |
+| Sachgrundlose Befristung: Vorbeschäftigung | Paragraf 14 Abs. 2 Satz 2 TzBfG | Befristung unwirksam |
+| Sachgrundlose Befristung: > 2 Jahre oder > 3 Verlängerungen | Paragraf 14 Abs. 2 TzBfG | Befristung unwirksam |
 
 ## Fristennotiz — Vorlage
 
@@ -97,10 +97,10 @@ Mandant: [Name]
 Arbeitgeber: [Name]
 
 Unwirksamkeitsgrund: [beschreiben]
-Norm: [§ ...]
+Norm: [Paragraf ...]
 
 Zugangsdatum der Kündigung / Beendigungsdatum: [Datum]
-Klagefrist-Ablauf (§ 4 KSchG / § 17 TzBfG): [Datum + 3 Wochen]
+Klagefrist-Ablauf (Paragraf 4 KSchG / Paragraf 17 TzBfG): [Datum + 3 Wochen]
 Noch verbleibende Tage: [Anzahl]
 
 Nächster Schritt: [Klage einlegen / Schriftsatz erstellen / Mandant informieren]
@@ -131,7 +131,7 @@ Wiedervorlage: [Datum — 2 Tage vor Fristablauf als Sicherheitspolster]
 | Fehlende BR-Anhörung | Klage einlegen | Innerhalb 3 Wochen ab Zugang |
 | Sonderkündigungsschutz | Klage einlegen | Innerhalb 3 Wochen ab Zugang |
 | Massenentlassung fehlerhaft | Klage einlegen | Innerhalb 3 Wochen ab Zugang |
-| Befristungsfehler | Entfristungsklage § 17 TzBfG | Innerhalb 3 Wochen ab Beendigungsdatum |
+| Befristungsfehler | Entfristungsklage Paragraf 17 TzBfG | Innerhalb 3 Wochen ab Beendigungsdatum |
 
 ## Anschluss-Skills
 - `ar-kuendigungspruefung-workflow` für vollständige Kündigungsprüfung

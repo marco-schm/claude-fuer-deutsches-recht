@@ -1,14 +1,14 @@
 ---
 name: kueschk-annahmeverzug-loehne-anrechnung-zwischenverdienst
-description: "Annahmeverzugslohn nach § 615 BGB und § 11 KSchG: Anrechnung anderweitigen Verdienstes; boeswiches Unterlassen; Berechnung Nettolohnvorteil; Schadensminderungspflicht; Auswirkung auf Vergleichsdruck; steuerl..."
+description: "Annahmeverzugslohn nach Paragraf 615 BGB und Paragraf 11 KSchG: Anrechnung anderweitigen Verdienstes; boeswiches Unterlassen; Berechnung Nettolohnvorteil; Schadensminderungspflicht; Auswirkung auf Vergleichsdruck; steuerl..."
 ---
 
-# Annahmeverzugslohn nach § 615 BGB und § 11 KSchG
+# Annahmeverzugslohn nach Paragraf 615 BGB und Paragraf 11 KSchG
 
 
 ## Arbeitsbereich
 
-**Kueschk Annahmeverzug Lohnsteuer** ordnet den Fall über die tragenden Prüfungslinien: Annahmeverzugslohn nach § 615 BGB und § 11 KSchG, Beurteilt den sozialversicherungsrechtlichen Status, § 7a. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
+**Kueschk Annahmeverzug Lohnsteuer** ordnet den Fall über die tragenden Prüfungslinien: Annahmeverzugslohn nach Paragraf 615 BGB und Paragraf 11 KSchG, Beurteilt den sozialversicherungsrechtlichen Status, Paragraf 7a. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 
 ## Arbeitsweg
 
@@ -18,14 +18,14 @@ description: "Annahmeverzugslohn nach § 615 BGB und § 11 KSchG: Anrechnung and
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Annahmeverzugslohn nach § 615 BGB und § 11 KSchG; Anrechnung anderweitigen Verdienstes; boeswiches Unterlassen; Berechnung Nettolohnvorteil; Schadensminderungspflicht; Auswirkung auf Vergleichsdruck; steuerliche Behandlung.
+**Fokus:** Annahmeverzugslohn nach Paragraf 615 BGB und Paragraf 11 KSchG; Anrechnung anderweitigen Verdienstes; boeswiches Unterlassen; Berechnung Nettolohnvorteil; Schadensminderungspflicht; Auswirkung auf Vergleichsdruck; steuerliche Behandlung.
 
 ### Annahmeverzugslöhne und Zwischenverdienst
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Annahmeverzugslöhne und Zwischenverdienst` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -33,45 +33,45 @@ description: "Annahmeverzugslohn nach § 615 BGB und § 11 KSchG: Anrechnung and
 ## Triage zu Beginn — kläre vor der Berechnung
 
 1. Wann wurde das Arbeitsverhältnis durch den Arbeitgeber beendet? (Beginn des Annahmeverzugs)
-2. Hat der Arbeitnehmer ein neues Arbeitsverhältnis begründet? (Anrechnung § 11 KSchG)
+2. Hat der Arbeitnehmer ein neues Arbeitsverhältnis begründet? (Anrechnung Paragraf 11 KSchG)
 3. Falls ja: Wie hoch ist der neue Verdienst im Vergleich zum alten?
-4. Hat die Agentur für Arbeit ALG I gezahlt? (Forderungsübergang § 115 SGB X beachten)
+4. Hat die Agentur für Arbeit ALG I gezahlt? (Forderungsübergang Paragraf 115 SGB X beachten)
 5. Bis zu welchem Datum wird Annahmeverzug geltend gemacht? (Rechtskraft / Vergleich)
 
 ## Zentrale Normen
 
-- § 615 BGB — Annahmeverzugslohn (Vergütung ohne Arbeit)
-- § 11 KSchG — Anrechnung anderweitigen Verdienstes (analog zu § 615 Satz 2 BGB)
-- § 11 Nr. 2 KSchG — böswilliges Unterlassen zumutbarer Arbeit (Anrechnung fiktiven Verdienstes)
-- § 11 Nr. 3 KSchG — kein Übergang von ALG-I-Zahlungen (§ 115 SGB X)
-- § 615 Satz 2 BGB — anderweitiger Erwerb: Arbeitnehmer muss sich anrechnen lassen
-- § 297 BGB — Annahmeverzug entfällt wenn Arbeitnehmer nicht leistungsfähig/-willig
+- Paragraf 615 BGB — Annahmeverzugslohn (Vergütung ohne Arbeit)
+- Paragraf 11 KSchG — Anrechnung anderweitigen Verdienstes (analog zu Paragraf 615 Satz 2 BGB)
+- Paragraf 11 Nr. 2 KSchG — böswilliges Unterlassen zumutbarer Arbeit (Anrechnung fiktiven Verdienstes)
+- Paragraf 11 Nr. 3 KSchG — kein Übergang von ALG-I-Zahlungen (Paragraf 115 SGB X)
+- Paragraf 615 Satz 2 BGB — anderweitiger Erwerb: Arbeitnehmer muss sich anrechnen lassen
+- Paragraf 297 BGB — Annahmeverzug entfällt wenn Arbeitnehmer nicht leistungsfähig/-willig
 
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Annahmeverzug § 615 BGB
+## Annahmeverzug Paragraf 615 BGB
 
 **Voraussetzungen:**
 1. Arbeitgeber gerät in Annahmeverzug durch Ausspruch der Kündigung
-2. Arbeitnehmer war leistungswillig und leistungsfähig (§ 297 BGB)
+2. Arbeitnehmer war leistungswillig und leistungsfähig (Paragraf 297 BGB)
 3. Bei Kündigung: Arbeitsangebot gilt als entbehrlich (kein wörtliches Angebot nötig)
 
 **Rechtsfolge:** Arbeitgeber schuldet das vereinbarte Arbeitsentgelt einschließlich aller Zulagen, Boni und Sonderzahlungen, ohne dass der Arbeitnehmer Arbeit nachleisten muss.
 
-## Anrechnung anderweitigen Verdienstes § 11 KSchG
+## Anrechnung anderweitigen Verdienstes Paragraf 11 KSchG
 
-Nach § 11 Nr. 1 KSchG muss sich der Arbeitnehmer auf den Annahmeverzugslohn anrechnen lassen:
+Nach Paragraf 11 Nr. 1 KSchG muss sich der Arbeitnehmer auf den Annahmeverzugslohn anrechnen lassen:
 - Bruttoverdienst aus neuem Arbeitsverhältnis
 - Selbständige Tätigkeit / freiberufliche Einnahmen
 
 **Nicht angerechnet:**
-- Arbeitslosengeld I (§ 11 Nr. 3 KSchG — Forderungsübergang auf Agentur für Arbeit nach § 115 SGB X)
+- Arbeitslosengeld I (Paragraf 11 Nr. 3 KSchG — Forderungsübergang auf Agentur für Arbeit nach Paragraf 115 SGB X)
 - Eigenleistungen (Hausarbeit, Urlaub)
 - Vermögenserträge
 
-### Böswilliges Unterlassen § 11 Nr. 2 KSchG
+### Böswilliges Unterlassen Paragraf 11 Nr. 2 KSchG
 
 Arbeitnehmer muss sich auch dasjenige anrechnen lassen, was er **böswillig** nicht verdient hat.
 
@@ -94,7 +94,7 @@ Berechnung:
 
 - Annahmeverzugslöhne wachsen mit Dauer des Prozesses — **erhöhen Vergleichsdruck auf den Arbeitgeber**
 - Im Vergleich wird oft ein Pauschalabfindungsbetrag vereinbart, der Annahmeverzugsansprüche mit abgilt
-- Steuerfrage: Annahmeverzugslöhne sind lohnsteuerpflichtig; keine Fünftel-Regelung (§ 34 EStG)
+- Steuerfrage: Annahmeverzugslöhne sind lohnsteuerpflichtig; keine Fünftel-Regelung (Paragraf 34 EStG)
 - Annahmeverzug-Risiko bei langen Prozessen: Arbeitgeber hat Anreiz für frühen Vergleich
 
 ## Output-Template — Annahmeverzugsberechnung
@@ -109,10 +109,10 @@ Vereinbartes Bruttomonatsgehalt: [BETRAG] Euro
 Annahmeverzugszeitraum: [DATUM] bis [DATUM] = [MONATE] Monate
 Gesamt-Annahmeverzugslohn: [MONATE] × [BETRAG] = [ERGEBNIS] Euro brutto
 
-Abzüge § 11 KSchG:
+Abzüge Paragraf 11 KSchG:
  Zwischenverdienst: [BETRAG] Euro (Monate × neues Gehalt)
  Böswilliges Unterlassen: [ggf. — Begründung]
- ALG I: NICHT anzurechnen (§ 11 Nr. 3 KSchG)
+ ALG I: NICHT anzurechnen (Paragraf 11 Nr. 3 KSchG)
 
 Netto-Annahmeverzugsforderung: [ERGEBNIS] Euro brutto
 

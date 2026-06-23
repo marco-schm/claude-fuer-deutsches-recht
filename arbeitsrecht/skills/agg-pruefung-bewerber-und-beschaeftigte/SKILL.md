@@ -1,14 +1,14 @@
 ---
 name: agg-pruefung-bewerber-und-beschaeftigte
-description: "AGG-Prüfung bei Bewerbung und Beschäftigung: Diskriminierungsmerkmale § 1 AGG, Benachteiligungsverbot § 7 AGG, Entschädigungs- und Schadensersatzansprüche § 15 AGG, Beweislastumkehr § 22 AGG, Geltendmachungsfrist § 15 Abs: AGG-Prüfung bei Bewerbung und Besc..."
+description: "AGG-Prüfung bei Bewerbung und Beschäftigung: Diskriminierungsmerkmale Paragraf 1 AGG, Benachteiligungsverbot Paragraf 7 AGG, Entschädigungs- und Schadensersatzansprüche Paragraf 15 AGG, Beweislastumkehr Paragraf 22 AGG, Geltendmachungsfrist Paragraf 15 Absatz AGG-Prüfung bei Bewerbung und Besc..."
 ---
 
-# AGG-Prüfung bei Bewerbung und Beschäftigung: Diskriminierungsmerkmale § 1 AGG, Benachteiligungsverbot § 7 AGG, Entschädigungs- und Schadensersatzansprüche § 15 AGG, Beweislastumkehr § 22 AGG, Geltendmachungsfrist § 15 Abs
+# AGG-Prüfung bei Bewerbung und Beschäftigung: Diskriminierungsmerkmale Paragraf 1 AGG, Benachteiligungsverbot Paragraf 7 AGG, Entschädigungs- und Schadensersatzansprüche Paragraf 15 AGG, Beweislastumkehr Paragraf 22 AGG, Geltendmachungsfrist Paragraf 15 Abs
 
 
 ## Arbeitsbereich
 
-**Kueschk Annahmeverzug Lohnsteuer** ordnet den Fall über die tragenden Prüfungslinien: Annahmeverzugslohn nach § 615 BGB und § 11 KSchG, Beurteilt den sozialversicherungsrechtlichen Status, § 7a. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
+**Kueschk Annahmeverzug Lohnsteuer** ordnet den Fall über die tragenden Prüfungslinien: Annahmeverzugslohn nach Paragraf 615 BGB und Paragraf 11 KSchG, Beurteilt den sozialversicherungsrechtlichen Status, Paragraf 7a. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 
 ## Arbeitsweg
 
@@ -18,32 +18,32 @@ description: "AGG-Prüfung bei Bewerbung und Beschäftigung: Diskriminierungsmer
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** AGG-Prüfung bei Bewerbung und Beschäftigung: Diskriminierungsmerkmale § 1 AGG, Benachteiligungsverbot § 7 AGG, Entschädigungs- und Schadensersatzansprüche § 15 AGG, Beweislastumkehr § 22 AGG, Geltendmachungsfrist § 15 Abs. 4 AGG (zwei Monate). Stellenausschreibung, Auswahlverfahren, Beschäftigungsbedingungen, Beförderung, Entlohnung, Kündigung.
+**Fokus:** AGG-Prüfung bei Bewerbung und Beschäftigung: Diskriminierungsmerkmale Paragraf 1 AGG, Benachteiligungsverbot Paragraf 7 AGG, Entschädigungs- und Schadensersatzansprüche Paragraf 15 AGG, Beweislastumkehr Paragraf 22 AGG, Geltendmachungsfrist Paragraf 15 Abs. 4 AGG (zwei Monate). Stellenausschreibung, Auswahlverfahren, Beschäftigungsbedingungen, Beförderung, Entlohnung, Kündigung.
 
 ### AGG-Prüfung bei Bewerbern und Beschäftigten
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `AGG-Prüfung bei Bewerbern und Beschäftigten` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Zweck
 
-Das Allgemeine Gleichbehandlungsgesetz (AGG) schützt Bewerber und Beschäftigte vor Benachteiligungen wegen Rasse oder ethnischer Herkunft, Geschlecht, Religion oder Weltanschauung, Behinderung, Alters oder sexueller Identität (§ 1 AGG). Anwendungsfall: wenn - ein Bewerber eine Absage erhalten hat und eine AGG-widrige Selektion vermutet,
+Das Allgemeine Gleichbehandlungsgesetz (AGG) schützt Bewerber und Beschäftigte vor Benachteiligungen wegen Rasse oder ethnischer Herkunft, Geschlecht, Religion oder Weltanschauung, Behinderung, Alters oder sexueller Identität (Paragraf 1 AGG). Anwendungsfall: wenn - ein Bewerber eine Absage erhalten hat und eine AGG-widrige Selektion vermutet,
 - ein Beschäftigter bei Vergütung, Beförderung oder Arbeitsbedingungen benachteiligt wird,
 - ein Arbeitgeber ein Stelleninserat, ein Auswahlverfahren oder eine Personalmaßnahme AGG-konform gestalten will,
-- eine Entschädigungsforderung nach § 15 AGG droht oder gestellt worden ist,
-- die Zwei-Monats-Frist des § 15 Abs. 4 AGG zu überwachen ist.
+- eine Entschädigungsforderung nach Paragraf 15 AGG droht oder gestellt worden ist,
+- die Zwei-Monats-Frist des Paragraf 15 Abs. 4 AGG zu überwachen ist.
 
 ## Eingaben
 
 - Sachverhaltschilderung: Art der Benachteiligung (Absage, Nichtbeförderung, Gehaltsungleichbehandlung, Kündigung, Belästigung usw.)
-- Diskriminierungsmerkmal: Welches Merkmal des § 1 AGG wird behauptet?
+- Diskriminierungsmerkmal: Welches Merkmal des Paragraf 1 AGG wird behauptet?
 - Beweismittel: Ausschreibungstext, Korrespondenz, Interviewnotizen, Vergleichspersonen
-- Zeitpunkt: Wann wurde die benachteiligende Maßnahme mitgeteilt bzw. bekannt? (Fristberechnung § 15 Abs. 4 AGG)
+- Zeitpunkt: Wann wurde die benachteiligende Maßnahme mitgeteilt bzw. bekannt? (Fristberechnung Paragraf 15 Abs. 4 AGG)
 - Perspektive: Arbeitnehmer-/Bewerberseite (Anspruchsdurchsetzung) oder Arbeitgeberseite (Verteidigung, präventive Prüfung)
 - Betriebsgröße und Betriebsrat vorhanden?
 - `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` → Einstellungs- und HR-Richtlinien
@@ -52,18 +52,18 @@ Das Allgemeine Gleichbehandlungsgesetz (AGG) schützt Bewerber und Beschäftigte
 
 ### Primärnormen
 
-- **§ 1 AGG** – Diskriminierungsmerkmale: Rasse, ethnische Herkunft, Geschlecht, Religion, Weltanschauung, Behinderung, Alter, sexuelle Identität
-- **§ 2 AGG** – Sachlicher Anwendungsbereich: Beschäftigungs- und Arbeitsbedingungen, Zugang zu Beschäftigung, Sozialschutz, Bildung, soziale Vergünstigungen
-- **§ 3 AGG** – Unmittelbare und mittelbare Benachteiligung; Belästigung (§ 3 Abs. 3 AGG), sexuelle Belästigung (§ 3 Abs. 4 AGG)
-- **§ 7 AGG** – Benachteiligungsverbot gegenüber Beschäftigten i.S.d. § 6 AGG (auch Bewerber und Leiharbeitnehmer)
-- **§ 11 AGG** – Diskriminierungsfreie Ausschreibung: keine Merkmale nach § 1 AGG, keine mittelbar ausschließenden Formulierungen
-- **§ 12 AGG** – Arbeitgeberpflichten: Maßnahmen zur Prävention, Schulung, Aushang; Beschwerderecht § 13 AGG
-- **§ 15 Abs. 1 AGG** – Schadensersatz (Vermögensschaden): bei Verschulden des Arbeitgebers
-- **§ 15 Abs. 2 AGG** – Entschädigung (immaterieller Schaden): ohne Verschuldenserfordernis, max. drei Monatsgehälter bei Nichteinstellung
-- **§ 15 Abs. 4 AGG** – Geltendmachungsfrist: zwei Monate ab Kenntnis der Benachteiligung; Verfall bei Fristversäumung
-- **§ 15 Abs. 6 AGG** – Kein Anspruch auf Begründung; aber Auskunftspflicht aus Treu und Glauben (§ 242 BGB) diskutiert
-- **§ 22 AGG** – Beweislastverteilung: Beweislastumkehr, wenn Bewerber Indizien glaubhaft macht; dann Arbeitgeber muss beweisen, kein Verstoß gegen das Benachteiligungsverbot vorgelegen
-- **§ 24 AGG** – Anwendung auf öffentlichen Dienst
+- **Paragraf 1 AGG** – Diskriminierungsmerkmale: Rasse, ethnische Herkunft, Geschlecht, Religion, Weltanschauung, Behinderung, Alter, sexuelle Identität
+- **Paragraf 2 AGG** – Sachlicher Anwendungsbereich: Beschäftigungs- und Arbeitsbedingungen, Zugang zu Beschäftigung, Sozialschutz, Bildung, soziale Vergünstigungen
+- **Paragraf 3 AGG** – Unmittelbare und mittelbare Benachteiligung; Belästigung (Paragraf 3 Abs. 3 AGG), sexuelle Belästigung (Paragraf 3 Abs. 4 AGG)
+- **Paragraf 7 AGG** – Benachteiligungsverbot gegenüber Beschäftigten i.S.d. Paragraf 6 AGG (auch Bewerber und Leiharbeitnehmer)
+- **Paragraf 11 AGG** – Diskriminierungsfreie Ausschreibung: keine Merkmale nach Paragraf 1 AGG, keine mittelbar ausschließenden Formulierungen
+- **Paragraf 12 AGG** – Arbeitgeberpflichten: Maßnahmen zur Prävention, Schulung, Aushang; Beschwerderecht Paragraf 13 AGG
+- **Paragraf 15 Abs. 1 AGG** – Schadensersatz (Vermögensschaden): bei Verschulden des Arbeitgebers
+- **Paragraf 15 Abs. 2 AGG** – Entschädigung (immaterieller Schaden): ohne Verschuldenserfordernis, max. drei Monatsgehälter bei Nichteinstellung
+- **Paragraf 15 Abs. 4 AGG** – Geltendmachungsfrist: zwei Monate ab Kenntnis der Benachteiligung; Verfall bei Fristversäumung
+- **Paragraf 15 Abs. 6 AGG** – Kein Anspruch auf Begründung; aber Auskunftspflicht aus Treu und Glauben (Paragraf 242 BGB) diskutiert
+- **Paragraf 22 AGG** – Beweislastverteilung: Beweislastumkehr, wenn Bewerber Indizien glaubhaft macht; dann Arbeitgeber muss beweisen, kein Verstoß gegen das Benachteiligungsverbot vorgelegen
+- **Paragraf 24 AGG** – Anwendung auf öffentlichen Dienst
 
 ### Europarechtlicher Rahmen
 
@@ -74,49 +74,49 @@ Das Allgemeine Gleichbehandlungsgesetz (AGG) schützt Bewerber und Beschäftigte
 
 ### Rechtsprechung (Stand Mai 2026)
 
-- **BAG, Urteil vom 23.10.2025 - 8 AZR 300/24** (Paarvergleich bei Entgeltdiskriminierung): Zur Begruendung der Vermutung einer geschlechtsbezogenen Entgeltdiskriminierung (§ 22 AGG) genuegt der Paarvergleich mit einem einzelnen Vergleichskollegen des anderen Geschlechts, der für gleiche oder gleichwertige Arbeit hoehere Vergütung erhaelt. Auf Mediane, Vergleichsgruppengroessen oder Durchschnittsbetrachtungen kommt es nicht an. Auch der bestverdienende maennliche Kollege kann Vergleichsperson sein. Vorinstanz: LAG Baden-Wuerttemberg. Quellen: dejure.org-Vernetzung BAG 23.10.2025 - 8 AZR 300/24; BAG-Pressemitteilung "Anspruch auf Entgeltdifferenz wegen Geschlechtsdiskriminierung - Paarvergleich".
+- **BAG, Urteil vom 23.10.2025 - 8 AZR 300/24** (Paarvergleich bei Entgeltdiskriminierung): Zur Begruendung der Vermutung einer geschlechtsbezogenen Entgeltdiskriminierung (Paragraf 22 AGG) genuegt der Paarvergleich mit einem einzelnen Vergleichskollegen des anderen Geschlechts, der für gleiche oder gleichwertige Arbeit hoehere Vergütung erhaelt. Auf Mediane, Vergleichsgruppengroessen oder Durchschnittsbetrachtungen kommt es nicht an. Auch der bestverdienende maennliche Kollege kann Vergleichsperson sein. Vorinstanz: LAG Baden-Wuerttemberg. Quellen: dejure.org-Vernetzung BAG 23.10.2025 - 8 AZR 300/24; BAG-Pressemitteilung "Anspruch auf Entgeltdifferenz wegen Geschlechtsdiskriminierung - Paarvergleich".
 - **BAG, Urteil vom 20.02.2025 - 8 AZR 61/24** (DSGVO-Schadensersatz bei verspaeteter Auskunft): Allein ein "Stoergefuehl" oder negativer Gemuetszustand begruendet keinen Kontrollverlust i.S.v. Art. 82 DSGVO; erforderlich ist eine konkret begruendete Furcht vor Datenmissbrauch oder ein tatsaechlicher Kontrollverlust. Quellen: dejure.org-Vernetzung BAG 20.02.2025 - 8 AZR 61/24; Volltext-PDF auf bundesarbeitsgericht.de verfuegbar.
 - Weitere aktuelle Rechtsprechung vor Schriftsatzverwendung in offenen Quellen (dejure.org, openjur.de, bundesarbeitsgericht.de) verifizieren.
 
 ## Ablauf
 
-### 1. Anwendungsbereich klären (§§ 2, 6 AGG)
+### 1. Anwendungsbereich klären (Paragrafen 2, 6 AGG)
 
 | Frage | Inhalt |
 |---|---|
-| Persönlicher Anwendungsbereich | Beschäftigter i.S.d. § 6 AGG? (Arbeitnehmer, Beamte, Auszubildende, arbeitnehmerähnliche Personen, Bewerber) |
-| Sachlicher Anwendungsbereich | Maßnahme betrifft Zugang, Bedingungen, Aufstieg, Entgelt oder Kündigung (§ 2 Abs. 1 AGG)? |
-| Merkmal | Liegt ein Merkmal des § 1 AGG vor? (Beweislastindiz, nicht Beweis) |
+| Persönlicher Anwendungsbereich | Beschäftigter i.S.d. Paragraf 6 AGG? (Arbeitnehmer, Beamte, Auszubildende, arbeitnehmerähnliche Personen, Bewerber) |
+| Sachlicher Anwendungsbereich | Maßnahme betrifft Zugang, Bedingungen, Aufstieg, Entgelt oder Kündigung (Paragraf 2 Abs. 1 AGG)? |
+| Merkmal | Liegt ein Merkmal des Paragraf 1 AGG vor? (Beweislastindiz, nicht Beweis) |
 
 Falls kein AGG-Merkmal berührt: Prüfung beenden und Sachgebiet aufzeigen (z.B. allgemeines Arbeitsvertragsrecht, KSchG).
 
-### 2. Benachteiligung subsumieren (§ 3 AGG)
+### 2. Benachteiligung subsumieren (Paragraf 3 AGG)
 
-**Unmittelbare Benachteiligung (§ 3 Abs. 1 AGG):**
-Weniger günstige Behandlung wegen eines Merkmals des § 1 AGG als eine andere Person in einer vergleichbaren Situation erfährt, erfahren hat oder erfahren würde.
+**Unmittelbare Benachteiligung (Paragraf 3 Abs. 1 AGG):**
+Weniger günstige Behandlung wegen eines Merkmals des Paragraf 1 AGG als eine andere Person in einer vergleichbaren Situation erfährt, erfahren hat oder erfahren würde.
 
-**Mittelbare Benachteiligung (§ 3 Abs. 2 AGG):**
-Scheinbar neutrale Vorschrift, Kriterium oder Verfahren, das Personen mit einem Merkmal des § 1 AGG in besonderer Weise benachteiligen kann, es sei denn, es liegt eine sachliche Rechtfertigung vor.
+**Mittelbare Benachteiligung (Paragraf 3 Abs. 2 AGG):**
+Scheinbar neutrale Vorschrift, Kriterium oder Verfahren, das Personen mit einem Merkmal des Paragraf 1 AGG in besonderer Weise benachteiligen kann, es sei denn, es liegt eine sachliche Rechtfertigung vor.
 
-**Belästigung (§ 3 Abs. 3 AGG):**
+**Belästigung (Paragraf 3 Abs. 3 AGG):**
 Unerwünschte Verhaltensweise, die Würde verletzt und ein einschüchterndes, feindseliges, entwürdigendes, beleidigendes oder belästigendes Umfeld schafft.
 
-**Anweisung zur Benachteiligung (§ 3 Abs. 5 AGG):** Gilt selbst als Benachteiligung.
+**Anweisung zur Benachteiligung (Paragraf 3 Abs. 5 AGG):** Gilt selbst als Benachteiligung.
 
-### 3. Rechtfertigung prüfen (§§ 5, 8–10 AGG)
+### 3. Rechtfertigung prüfen (Paragrafen 5, 8–10 AGG)
 
-- **§ 8 AGG** – Berufliche Anforderung: Merkmal ist wesentliche und entscheidende berufliche Anforderung; Ziel ist legitim; Anforderung ist verhältnismäßig.
-- **§ 9 AGG** – Religionsgemeinschaften / Weltanschauungsgemeinschaften: besonderes Ethos.
-- **§ 10 AGG** – Altersdiskriminierung: sachliche Gründe (z.B. Berufszugang, Berufsausbildung, Schutzziele, angemessene Beschäftigungspolitik, Vergütungs- und Rentensysteme).
-- **Positive Maßnahmen (§ 5 AGG):** Bevorzugungsmaßnahmen zur Förderung von Benachteiligten zulässig, wenn bestehende Nachteile beseitigt werden sollen.
+- **Paragraf 8 AGG** – Berufliche Anforderung: Merkmal ist wesentliche und entscheidende berufliche Anforderung; Ziel ist legitim; Anforderung ist verhältnismäßig.
+- **Paragraf 9 AGG** – Religionsgemeinschaften / Weltanschauungsgemeinschaften: besonderes Ethos.
+- **Paragraf 10 AGG** – Altersdiskriminierung: sachliche Gründe (z.B. Berufszugang, Berufsausbildung, Schutzziele, angemessene Beschäftigungspolitik, Vergütungs- und Rentensysteme).
+- **Positive Maßnahmen (Paragraf 5 AGG):** Bevorzugungsmaßnahmen zur Förderung von Benachteiligten zulässig, wenn bestehende Nachteile beseitigt werden sollen.
 
-### 4. Beweislast analysieren (§ 22 AGG)
+### 4. Beweislast analysieren (Paragraf 22 AGG)
 
 Das Gericht der Arbeit wendet eine zweistufige Beweislastverteilung an:
 
 **Stufe 1 – Indizien (Bewerber/Beschäftigter):**
 Glaubhaftmachung von Tatsachen, die eine Benachteiligung wegen eines AGG-Merkmals vermuten lassen:
-- AGG-widrige Ausschreibung (§ 11 AGG Verstoß)
+- AGG-widrige Ausschreibung (Paragraf 11 AGG Verstoß)
 - Statistisch signifikante Unterrepräsentation
 - Zeitliche Nähe zwischen Bekanntwerden des Merkmals und der benachteili­genden Maßnahme
 - Abweichung vom üblichen Entscheidungsablauf
@@ -127,88 +127,88 @@ Arbeitgeber muss beweisen (Vollbeweis), dass kein Verstoß gegen das Benachteili
 
 ### 5. Ansprüche und Fristen
 
-**Schadensersatz (§ 15 Abs. 1 AGG):**
-- Voraussetzung: Verschulden des Arbeitgebers oder seiner Erfüllungsgehilfen (§ 278 BGB)
+**Schadensersatz (Paragraf 15 Abs. 1 AGG):**
+- Voraussetzung: Verschulden des Arbeitgebers oder seiner Erfüllungsgehilfen (Paragraf 278 BGB)
 - Inhalt: Ersatz des Vermögensschadens (z.B. entgangenes Gehalt)
-- Beweislast: Nach § 22 AGG
+- Beweislast: Nach Paragraf 22 AGG
 
-**Entschädigung (§ 15 Abs. 2 AGG):**
+**Entschädigung (Paragraf 15 Abs. 2 AGG):**
 - Kein Verschulden erforderlich
-- Bei Nichteinstellung: max. drei Monatsgehälter (§ 15 Abs. 2 S. 2 AGG); Richtwert – kann unterschritten werden
-- Richterliche Schätzung nach § 287 ZPO; Faktoren: Schwere des Verstoßes, Wiederholungsgefahr, Genugtuungsfunktion, Präventionswirkung
+- Bei Nichteinstellung: max. drei Monatsgehälter (Paragraf 15 Abs. 2 S. 2 AGG); Richtwert – kann unterschritten werden
+- Richterliche Schätzung nach Paragraf 287 ZPO; Faktoren: Schwere des Verstoßes, Wiederholungsgefahr, Genugtuungsfunktion, Präventionswirkung
 
-**Geltendmachungsfrist (§ 15 Abs. 4 AGG):**
+**Geltendmachungsfrist (Paragraf 15 Abs. 4 AGG):**
 - Zwei Monate ab Kenntnis der Benachteiligung
 - Schriftliche Geltendmachung beim Arbeitgeber genügt (kein Klageerhebungserfordernis, aber Vorsicht: AGB-Ausschlussfristen können kürzer sein)
 - Fristbeginn: Zugang der Absage bzw. Bekanntwerden der benachteiligenden Maßnahme
 - Fristversäumung: Anspruchsverlust (Ausschlussfrist, keine Verjährung)
-- Wichtig: "zwei Monate" bedeutet zwei Monate — nicht "2,0 Monate" und nicht "60 Tage" pauschal (§ 188 BGB Abs. 2 BGB: Fristende an dem Tag des zweiten Monats, der durch Zahl dem Fristbeginn entspricht)
+- Wichtig: "zwei Monate" bedeutet zwei Monate — nicht "2,0 Monate" und nicht "60 Tage" pauschal (Paragraf 188 BGB Abs. 2 BGB: Fristende an dem Tag des zweiten Monats, der durch Zahl dem Fristbeginn entspricht)
 
-### 6. Präventive Arbeitgeberpflichten (§ 12 AGG)
+### 6. Präventive Arbeitgeberpflichten (Paragraf 12 AGG)
 
 - Schulungspflicht: Beschäftigte über Verbote des AGG unterrichten
 - Aushangpflicht: AGG-Text oder Hinweis im Betrieb
-- Beschwerdesystem (§ 13 AGG): Zugang zu Beschwerdestelle; Dokumentation
-- Reaktionspflicht (§ 12 Abs. 3–4 AGG): Bei Belästigung geeignete Maßnahmen (Ermahnung, Abmahnung, Versetzung, Kündigung)
+- Beschwerdesystem (Paragraf 13 AGG): Zugang zu Beschwerdestelle; Dokumentation
+- Reaktionspflicht (Paragraf 12 Abs. 3–4 AGG): Bei Belästigung geeignete Maßnahmen (Ermahnung, Abmahnung, Versetzung, Kündigung)
 - Dokumentation des Auswahlverfahrens empfohlen (Stichwort: Auswahlgespräch-Protokoll, Bewertungsmatrix)
 
 ## Prüfschema
 
 **Checkliste AGG-Prüfung:**
 
-- [ ] Persönlicher Anwendungsbereich: Beschäftigter/Bewerber i.S.d. § 6 AGG?
-- [ ] Sachlicher Anwendungsbereich: § 2 Abs. 1 Nr. 1–8 AGG?
-- [ ] Merkmal des § 1 AGG identifiziert?
+- [ ] Persönlicher Anwendungsbereich: Beschäftigter/Bewerber i.S.d. Paragraf 6 AGG?
+- [ ] Sachlicher Anwendungsbereich: Paragraf 2 Abs. 1 Nr. 1–8 AGG?
+- [ ] Merkmal des Paragraf 1 AGG identifiziert?
 - [ ] Benachteiligungsform (unmittelbar / mittelbar / Belästigung)?
 - [ ] Vergleichsperson oder Vergleichsgruppe konkretisiert?
-- [ ] Rechtfertigungstatbestand (§§ 5, 8–10 AGG)?
-- [ ] Indizien für § 22 AGG glaubhaft gemacht?
+- [ ] Rechtfertigungstatbestand (Paragrafen 5, 8–10 AGG)?
+- [ ] Indizien für Paragraf 22 AGG glaubhaft gemacht?
 - [ ] Arbeitgeber-Gegenbeweis möglich?
-- [ ] Frist § 15 Abs. 4 AGG: Zwei Monate ab Kenntnis – gewahrt?
-- [ ] Betriebsinterne Beschwerde (§ 13 AGG) eingereicht?
-- [ ] Schadensersatz § 15 Abs. 1 AGG (Vermögensschaden) bezifferbar?
-- [ ] Entschädigung § 15 Abs. 2 AGG (max. drei Monatsgehälter) beansprucht?
+- [ ] Frist Paragraf 15 Abs. 4 AGG: Zwei Monate ab Kenntnis – gewahrt?
+- [ ] Betriebsinterne Beschwerde (Paragraf 13 AGG) eingereicht?
+- [ ] Schadensersatz Paragraf 15 Abs. 1 AGG (Vermögensschaden) bezifferbar?
+- [ ] Entschädigung Paragraf 15 Abs. 2 AGG (max. drei Monatsgehälter) beansprucht?
 
 ## Risikoampel
 
 | Befund | Rot | Orange | Grün |
 |--------|-----|--------|-------|
-| Stellenausschreibung | Merkmal des § 1 AGG explizit genannt (§ 11 AGG-Verstoß) | Mittelbar ausschließendes Kriterium ohne Rechtfertigung | Diskriminierungsmerkmalsneutral, Anforderungen sachlich |
+| Stellenausschreibung | Merkmal des Paragraf 1 AGG explizit genannt (Paragraf 11 AGG-Verstoß) | Mittelbar ausschließendes Kriterium ohne Rechtfertigung | Diskriminierungsmerkmalsneutral, Anforderungen sachlich |
 | Auswahlverfahren | Dokumentation fehlt, Entscheider hat diskriminierende Äußerungen gemacht | Lückenhaft dokumentiert, Merkmal bekannt geworden vor Entscheidung | Nachvollziehbarer, merkmalsneutraler Auswahlprozess dokumentiert |
-| Entschädigungsforderung | Frist § 15 Abs. 4 AGG läuft; Indizien stark; kein Gegenbeweis möglich | Indizien vorhanden; Gegenbeweis möglich aber aufwendig | Frist abgelaufen oder kein Indiz glaubhaft gemacht |
-| Präventionsmaßnahmen | Keine Schulung, kein Beschwerdesystem, keine Aushänge | Teilweise vorhanden, lückenhafte Dokumentation | Vollständig nach § 12 AGG, Beschwerdesystem aktiv |
+| Entschädigungsforderung | Frist Paragraf 15 Abs. 4 AGG läuft; Indizien stark; kein Gegenbeweis möglich | Indizien vorhanden; Gegenbeweis möglich aber aufwendig | Frist abgelaufen oder kein Indiz glaubhaft gemacht |
+| Präventionsmaßnahmen | Keine Schulung, kein Beschwerdesystem, keine Aushänge | Teilweise vorhanden, lückenhafte Dokumentation | Vollständig nach Paragraf 12 AGG, Beschwerdesystem aktiv |
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Ausgabeformat
 
 ```
 AGG-PRÜFUNG – [Position / Maßnahme] – [Datum]
-VERTRAULICH – § 43a Abs. 2 BRAO / § 203 StGB
+VERTRAULICH – Paragraf 43a Abs. 2 BRAO / Paragraf 203 StGB
 
 Ergebnis: [🟢 Kein AGG-Risiko / 🟡 Risiko – Maßnahmen erforderlich / 🔴 Hohes Diskriminierungsrisiko]
 
-Fristenwarnung: § 15 Abs. 4 AGG – Ablauf [Datum] – noch [X] Tage
+Fristenwarnung: Paragraf 15 Abs. 4 AGG – Ablauf [Datum] – noch [X] Tage
 
-I. Anwendungsbereich [§§ 2, 6 AGG]
+I. Anwendungsbereich [Paragrafen 2, 6 AGG]
  Persönlich: [Ergebnis]
  Sachlich: [Ergebnis]
- Merkmal: [§ 1 AGG-Merkmal oder keines identifiziert]
+ Merkmal: [Paragraf 1 AGG-Merkmal oder keines identifiziert]
 
-II. Benachteiligungsform [§ 3 AGG]
+II. Benachteiligungsform [Paragraf 3 AGG]
  [Unmittelbar / Mittelbar / Belästigung / Keine]
  Subsumtion: [Kurze Würdigung]
 
-III. Rechtfertigung [§§ 5, 8–10 AGG]
+III. Rechtfertigung [Paragrafen 5, 8–10 AGG]
  [Einschlägig / Nicht einschlägig]
  Begründung: [Norm und Verhältnismäßigkeit]
 
-IV. Beweislage [§ 22 AGG]
+IV. Beweislage [Paragraf 22 AGG]
  Indizien Bewerber/Beschäftigter: [Ja / Nein / Teilweise]
  Gegenbeweis Arbeitgeber: [Möglich / Schwierig / Ausgeschlossen]
 
-V. Ansprüche [§ 15 AGG]
- Schadensersatz (§ 15 Abs. 1): [Betrag / entfällt]
- Entschädigung (§ 15 Abs. 2): [Schätzung / entfällt]
+V. Ansprüche [Paragraf 15 AGG]
+ Schadensersatz (Paragraf 15 Abs. 1): [Betrag / entfällt]
+ Entschädigung (Paragraf 15 Abs. 2): [Schätzung / entfällt]
  Frist gewahrt: [Ja/Nein – Datum]
 
 VI. Risikoampel [🟢 / 🟡 / 🔴]
@@ -225,18 +225,18 @@ Verwandte Skills:
 
 ## Kombination AGG-Entschädigung und DSGVO-Auskunft
 
-**Typische Konstellation:** Bewerber oder Beschäftigte, die eine Diskriminierung geltend machen, stellen häufig zeitgleich mit oder unmittelbar nach der AGG-Entschädigungsklage (§ 15 Abs. 2 AGG) ein Auskunftsersuchen nach Art. 15 DSGVO. Ziel ist es, interne Auswahlunterlagen, Bewertungsbögen, Interviewprotokolle oder Vergleichsdaten zu erlangen, die als Indizienmittel im AGG-Verfahren dienen (§ 22 AGG).
+**Typische Konstellation:** Bewerber oder Beschäftigte, die eine Diskriminierung geltend machen, stellen häufig zeitgleich mit oder unmittelbar nach der AGG-Entschädigungsklage (Paragraf 15 Abs. 2 AGG) ein Auskunftsersuchen nach Art. 15 DSGVO. Ziel ist es, interne Auswahlunterlagen, Bewertungsbögen, Interviewprotokolle oder Vergleichsdaten zu erlangen, die als Indizienmittel im AGG-Verfahren dienen (Paragraf 22 AGG).
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Ein kumulativer Missbrauchsnachweis ist erforderlich:
 
-1. **Objektives Element:** Äußere Umstände — z. B. zeitlicher Zusammenhang zwischen Absage, AGG-Geltendmachung (Zwei-Monats-Frist § 15 Abs. 4 AGG) und Auskunftsantrag; Legal-Tech-Vollmacht oder Muster massenhafter Antragstellung; fehlende inhaltliche Anbindung an Datenschutzinteressen.
+1. **Objektives Element:** Äußere Umstände — z. B. zeitlicher Zusammenhang zwischen Absage, AGG-Geltendmachung (Zwei-Monats-Frist Paragraf 15 Abs. 4 AGG) und Auskunftsantrag; Legal-Tech-Vollmacht oder Muster massenhafter Antragstellung; fehlende inhaltliche Anbindung an Datenschutzinteressen.
 2. **Subjektives Element:** Missbräuchliche Absicht — vorrangige Nutzung des Auskunftsanspruchs zur Beweisbeschaft­ung im AGG-Verfahren oder zur Druckerzeugung, nicht zum Schutz personenbezogener Daten.
 
 Die Hürden bleiben **hoch**: Das Auskunftsrecht (Art. 8 GRCh) gilt; Ausnahmen sind eng auszulegen. Ein einziger Antrag ohne weitere Anhaltspunkte genügt nicht.
 
 **Praxishinweise für den Arbeitgeber:**
-- DSGVO-Auskunft (Art. 15 DSGVO) und AGG-Entschädigungsbegehren (§ 15 AGG) laufen auf verschiedenen Rechtsgebieten parallel: Auskunftsklage gehört vor das **Landgericht** (§ 44 BDSG i.V.m. Art. 79 DSGVO); AGG-Entschädigungsklage vor das **Arbeitsgericht** (§ 2 Abs. 1 Nr. 3 ArbGG).
+- DSGVO-Auskunft (Art. 15 DSGVO) und AGG-Entschädigungsbegehren (Paragraf 15 AGG) laufen auf verschiedenen Rechtsgebieten parallel: Auskunftsklage gehört vor das **Landgericht** (Paragraf 44 BDSG i.V.m. Art. 79 DSGVO); AGG-Entschädigungsklage vor das **Arbeitsgericht** (Paragraf 2 Abs. 1 Nr. 3 ArbGG).
 - Auskunft innerhalb eines Monats erteilen (Art. 12 Abs. 3 DSGVO); andernfalls droht eigenständiger Schadensersatz nach Art. 82 DSGVO zusätzlich zur AGG-Haftung.
 - Auswahlunterlagen und Bewertungsbögen sind personenbezogene Daten des Bewerbers — Offenlegungs- und Auskunftspflicht beachten; Geheimhaltungsinteressen Dritter (andere Bewerber) abwägen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -247,9 +247,9 @@ Querverweis: `arbeitsrecht/skills/kuendigungs-pruefung/SKILL.md` (Abschnitt DSGV
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- AGG-Beweislast: § 22 AGG und frei verifizierte BAG-Rechtsprechung verwenden; keine Kommentarzitate aus Modellwissen.
+- AGG-Beweislast: Paragraf 22 AGG und frei verifizierte BAG-Rechtsprechung verwenden; keine Kommentarzitate aus Modellwissen.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- AGG-Schutzmerkmale: §§ 1, 7, 15 AGG und freie Rechtsprechungsquellen verwenden; keine Kommentarzitate aus Modellwissen.
+- AGG-Schutzmerkmale: Paragrafen 1, 7, 15 AGG und freie Rechtsprechungsquellen verwenden; keine Kommentarzitate aus Modellwissen.
 
 Bei wesentlichen Rechtsentwicklungen Skill aktualisieren. Stand: 05/2026.
 
@@ -258,7 +258,7 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 Befund WRONG_TOPIC + falsche NZA-Fundstelle korrigiert.
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-schwerbehinderte Bewerber zu Vorstellungsgespräch einzuladen (auch intern); Entschädigung § 15 Abs. 2 AGG"
+schwerbehinderte Bewerber zu Vorstellungsgespräch einzuladen (auch intern); Entschädigung Paragraf 15 Abs. 2 AGG"
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=8+AZR+75%2F19
 Rn.-Angabe "Rn. 22" entfernt, da dejure-Auszug für dieses Thema Rn. 31 cc ausweist.
 -->
@@ -267,18 +267,18 @@ Rn.-Angabe "Rn. 22" entfernt, da dejure-Auszug für dieses Thema Rn. 31 cc auswe
 
 ### Kuratierte Normen-Bibliothek
 
-- § 14 TzBfG
-- § 102 BetrVG
-- § 4 KSchG
-- § 1 KSchG
-- § 17 TzBfG
-- § 26 BDSG
-- § 12 KSchG
-- § 9 KSchG
-- § 7 KSchG
-- § 15 AGG
-- § 23 KSchG
-- § 22 AGG
+- Paragraf 14 TzBfG
+- Paragraf 102 BetrVG
+- Paragraf 4 KSchG
+- Paragraf 1 KSchG
+- Paragraf 17 TzBfG
+- Paragraf 26 BDSG
+- Paragraf 12 KSchG
+- Paragraf 9 KSchG
+- Paragraf 7 KSchG
+- Paragraf 15 AGG
+- Paragraf 23 KSchG
+- Paragraf 22 AGG
 
 ### Leitentscheidungen
 

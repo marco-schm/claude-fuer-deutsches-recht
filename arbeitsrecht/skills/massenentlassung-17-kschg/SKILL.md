@@ -30,12 +30,12 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 **Fokus:** Massenentlassung 17 KSchG: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
-### Massenentlassung § 17 KSchG
+### Massenentlassung Paragraf 17 KSchG
 
 ## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Massenentlassung § 17 KSchG` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Massenentlassung Paragraf 17 KSchG` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -76,7 +76,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - **Befristungs-Ablauf** zählt nicht
 - **Eigen-Kündigung** Arbeitnehmer zählt nicht
 
-## Schritt 2 — Konsultations-Pflicht Betriebsrat § 17 Abs. 2 KSchG
+## Schritt 2 — Konsultations-Pflicht Betriebsrat Paragraf 17 Abs. 2 KSchG
 
 ### Zeitpunkt
 
@@ -105,7 +105,7 @@ Schriftlich an Betriebsrat:
 - **Erfolgreich beraten** — Bescheinigung BR oder Pflicht-Hinweis "BR hat sich nicht geäußert"
 - **Nichtbeteiligung BR** — Kündigung unwirksam
 
-## Schritt 3 — Massenentlassungs-Anzeige § 17 Abs. 1 KSchG
+## Schritt 3 — Massenentlassungs-Anzeige Paragraf 17 Abs. 1 KSchG
 
 ### Adressat
 
@@ -113,7 +113,7 @@ Schriftlich an Betriebsrat:
 - **Schriftform** Original
 - **Vor Zugang Kündigung**
 
-### Inhalt (§ 17 Abs. 3 KSchG)
+### Inhalt (Paragraf 17 Abs. 3 KSchG)
 
 - Name Anschrift Arbeitgeber
 - Zahl Berufsgruppen Gesamt-Beschäftigung
@@ -126,25 +126,25 @@ Schriftlich an Betriebsrat:
 ### Bestätigung Eingang
 
 - Agentur für Arbeit bestätigt Eingang
-- **Sperrfrist** ein Monat ab Anzeige § 18 KSchG
+- **Sperrfrist** ein Monat ab Anzeige Paragraf 18 KSchG
 - Vorzeitige Beendigung möglich auf Antrag
 
 ### Folge bei Mangel der Anzeige
 
 - BAG, Urteile vom 01.04.2026 - 6 AZR 152/22 und 6 AZR 157/22, sowie EuGH, Urteile vom 30.10.2025 - C-134/24 und C-402/24: Fehlende oder verfruehte (vor Abschluss der BR-Konsultation eingereichte) Massenentlassungsanzeige fuehrt zur Unwirksamkeit aller davon erfassten Kuendigungen. Eine Heilung nach Kuendigungsausspruch ist ausgeschlossen. Quellen: dejure.org-Vernetzungen; BAG-Pressemitteilung "Massenentlassung - Rechtsfolge von Fehlern im Anzeigeverfahren".
-- Nicht jeder Verfahrensfehler fuehrt zur Unwirksamkeit; insbesondere die bloss unterbliebene Uebermittlung der Abschrift nach § 17 Abs. 3 Satz 1 KSchG ist nach BAG 6 AZR 155/21 für sich allein kein zur Unwirksamkeit fuehrender Fehler.
+- Nicht jeder Verfahrensfehler fuehrt zur Unwirksamkeit; insbesondere die bloss unterbliebene Uebermittlung der Abschrift nach Paragraf 17 Abs. 3 Satz 1 KSchG ist nach BAG 6 AZR 155/21 für sich allein kein zur Unwirksamkeit fuehrender Fehler.
 
 ## Schritt 4 — Reihenfolge der Schritte
 
 1. **Plan** Massenentlassung intern
 2. **Beratung mit Betriebsrat** zwei Wochen ab Info-Übergabe
-3. **Sozialplan / Interessensausgleich** § 111 BetrVG
+3. **Sozialplan / Interessensausgleich** Paragraf 111 BetrVG
 4. **Anzeige Agentur für Arbeit** vor Kündigungen
 5. **Eingangsbestätigung abwarten**
 6. **Sperrfrist berücksichtigen** ein Monat
 7. **Kündigungen aussprechen** unter Beachtung KSchG Schutzbestimmungen
 
-## Schritt 5 — Sozialplan und Interessensausgleich § 111 BetrVG
+## Schritt 5 — Sozialplan und Interessensausgleich Paragraf 111 BetrVG
 
 ### Betriebsänderung
 
@@ -160,15 +160,15 @@ Schriftlich an Betriebsrat:
 
 ### Sozialplan
 
-- **Erzwingbar** durch Einigungsstelle § 112 Abs. 4 BetrVG
+- **Erzwingbar** durch Einigungsstelle Paragraf 112 Abs. 4 BetrVG
 - Inhalt: Abfindungen Umschulungs-Hilfen Wegfall-Ausgleich
 
-### Nachteilsausgleich § 113 BetrVG
+### Nachteilsausgleich Paragraf 113 BetrVG
 
 - Bei Massenentlassung ohne Interessensausgleich
 - Anspruch des einzelnen Arbeitnehmers
 
-## Schritt 6 — Sozialauswahl § 1 Abs. 3 KSchG
+## Schritt 6 — Sozialauswahl Paragraf 1 Abs. 3 KSchG
 
 ### Soziale Kriterien
 
@@ -180,7 +180,7 @@ Schriftlich an Betriebsrat:
 ### Gewichtung
 
 - Punkteschema möglich
-- Auswahlrichtlinie mit Betriebsrat § 95 BetrVG
+- Auswahlrichtlinie mit Betriebsrat Paragraf 95 BetrVG
 - Spielraum begrenzt
 
 ### Berechtigte Interessen Arbeitgeber
@@ -191,26 +191,26 @@ Schriftlich an Betriebsrat:
 
 ## Schritt 7 — Kündigungsschutz-Sonderfälle
 
-### Schwerbehinderte § 168 SGB IX
+### Schwerbehinderte Paragraf 168 SGB IX
 
 - Zustimmung Integrationsamt
 
-### Schwangere § 17 MuSchG
+### Schwangere Paragraf 17 MuSchG
 
 - Zustimmung obere Landesbehörde
 
-### Elternzeit § 18 BEEG
+### Elternzeit Paragraf 18 BEEG
 
 - Zustimmung obere Landesbehörde
 
-### Betriebsratsmitglieder § 15 KSchG
+### Betriebsratsmitglieder Paragraf 15 KSchG
 
 - Außerordentlich nur — Zustimmung BR
 
 ## Schritt 8 — Kündigungsschutzklage parallel
 
-- **Drei-Wochen-Frist** § 4 KSchG individuell beachten
-- Bei Mängeln § 17 KSchG ohnehin Klage erfolgsversprechend
+- **Drei-Wochen-Frist** Paragraf 4 KSchG individuell beachten
+- Bei Mängeln Paragraf 17 KSchG ohnehin Klage erfolgsversprechend
 - Skill `kuendigungsschutzklage`
 
 ## Schritt 9 — Strategische Aspekte
@@ -224,7 +224,7 @@ Schriftlich an Betriebsrat:
 
 ### Bei Massenentlassung in Insolvenz
 
-- § 125 InsO Sonder-Regelungen
+- Paragraf 125 InsO Sonder-Regelungen
 - Erleichterte Kündigungsfrist
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -258,11 +258,11 @@ Schriftlich an Betriebsrat:
 
 ## Quellen
 
-- KSchG §§ 1 4 17 18
-- BetrVG §§ 95 111 112 113
-- SGB IX § 168
-- MuSchG § 17
-- BEEG § 18
+- KSchG Paragrafen 1 4 17 18
+- BetrVG Paragrafen 95 111 112 113
+- SGB IX Paragraf 168
+- MuSchG Paragraf 17
+- BEEG Paragraf 18
 - Richtlinie 98/59/EG (Massenentlassungs-Richtlinie), insbesondere Art. 2 (Konsultation) und Art. 4 (Anzeige; 30-Tage-Sperrfrist)
 - BAG, Urteile vom 01.04.2026 - 6 AZR 152/22 und 6 AZR 157/22 (Unwirksamkeit bei Fehlern im Anzeigeverfahren) - dejure.org / bundesarbeitsgericht.de
 - EuGH, Urteile vom 30.10.2025 - C-134/24 und C-402/24 (keine Heilung fehlender oder verfruehter Anzeige) - dejure.org

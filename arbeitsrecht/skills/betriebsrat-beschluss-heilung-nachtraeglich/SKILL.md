@@ -20,27 +20,27 @@ description: "Betriebsrat Beschluss Heilung Nachtraeglich: ordnet Normen, Nutzer
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Betriebsratsbeschluss — Heilung nachträglich` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Rechtsgrundlagen
 
-- **§ 184 Abs. 1 BGB** — Genehmigung wirkt rückwirkend auf den Zeitpunkt der Vornahme
-- **§ 177 Abs. 1 BGB** — schwebende Unwirksamkeit bei Vertretung ohne Vertretungsmacht
-- **§ 40 Abs. 1 BetrVG** — Kostentragungspflicht des Arbeitgebers für erforderliche Betriebsratstätigkeit (Anwaltskosten)
-- **§ 25 Abs. 2, § 29 Abs. 2, § 33 BetrVG** — Verfahrensvorschriften der Beschlussfassung
+- **Paragraf 184 Abs. 1 BGB** — Genehmigung wirkt rückwirkend auf den Zeitpunkt der Vornahme
+- **Paragraf 177 Abs. 1 BGB** — schwebende Unwirksamkeit bei Vertretung ohne Vertretungsmacht
+- **Paragraf 40 Abs. 1 BetrVG** — Kostentragungspflicht des Arbeitgebers für erforderliche Betriebsratstätigkeit (Anwaltskosten)
+- **Paragraf 25 Abs. 2, Paragraf 29 Abs. 2, Paragraf 33 BetrVG** — Verfahrensvorschriften der Beschlussfassung
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- - Leitsatz 1: § 25 Abs. 2 BetrVG ist wesentliche Verfahrensvorschrift
+ - Leitsatz 1: Paragraf 25 Abs. 2 BetrVG ist wesentliche Verfahrensvorschrift
  - Leitsatz 2: Betriebsrat kann Freistellung von Anwaltskosten auch dann verlangen, wenn er einer zunächst auf einem unwirksamen Beschluss beruhenden Beauftragung durch späteren ordnungsgemäßen Beschluss zustimmt
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Kernaussage der neuen Linie
 
-Ein Betriebsratsbeschluss, der wegen Verstoßes gegen wesentliche Verfahrensvorschriften unwirksam ist (z. B. falsches Ersatzmitglied, fehlende Ladung, Verstoß gegen § 25 Abs. 2 BetrVG), ist nicht endgültig verloren. Der Betriebsrat kann die ursprüngliche Beauftragung oder den ursprünglichen Beschluss durch eine **nachträgliche, ordnungsgemäße Beschlussfassung** genehmigen. Diese Genehmigung wirkt nach § 184 Abs. 1 BGB **rückwirkend** auf den Zeitpunkt der ursprünglichen Handlung.
+Ein Betriebsratsbeschluss, der wegen Verstoßes gegen wesentliche Verfahrensvorschriften unwirksam ist (z. B. falsches Ersatzmitglied, fehlende Ladung, Verstoß gegen Paragraf 25 Abs. 2 BetrVG), ist nicht endgültig verloren. Der Betriebsrat kann die ursprüngliche Beauftragung oder den ursprünglichen Beschluss durch eine **nachträgliche, ordnungsgemäße Beschlussfassung** genehmigen. Diese Genehmigung wirkt nach Paragraf 184 Abs. 1 BGB **rückwirkend** auf den Zeitpunkt der ursprünglichen Handlung.
 
 ### Zeitliche Grenzen — präzise Trennung
 
@@ -54,7 +54,7 @@ Ein Betriebsratsbeschluss, der wegen Verstoßes gegen wesentliche Verfahrensvors
 
 - Der ursprünglich unwirksame Beschluss wird so behandelt, als sei er von Anfang an wirksam gewesen.
 - Die auf Grundlage des unwirksamen Beschlusses geschlossenen Verträge (Anwaltsmandat, Beauftragung Sachverständiger etc.) werden rückwirkend wirksam.
-- Der Arbeitgeber muss die Anwaltskosten nach § 40 Abs. 1 BetrVG übernehmen, sofern die Erforderlichkeit gegeben ist.
+- Der Arbeitgeber muss die Anwaltskosten nach Paragraf 40 Abs. 1 BetrVG übernehmen, sofern die Erforderlichkeit gegeben ist.
 
 ## Voraussetzungen einer wirksamen Heilungsbeschlussfassung
 
@@ -64,17 +64,17 @@ Ein Betriebsratsbeschluss, der wegen Verstoßes gegen wesentliche Verfahrensvors
  → "Nachträgliche Genehmigung des Beschlusses vom [Datum] zur
  Beauftragung von Rechtsanwalt [Name] in Sachen [Gegenstand]"
 
-□ Ordnungsgemäße Ladung (§ 29 Abs. 2 BetrVG)
+□ Ordnungsgemäße Ladung (Paragraf 29 Abs. 2 BetrVG)
  → rechtzeitig
  → an alle ordentlichen Mitglieder und ggf. Ersatzmitglieder
  → mit Tagesordnung
 
-□ Korrekte Besetzung (§ 25 Abs. 2 BetrVG)
+□ Korrekte Besetzung (Paragraf 25 Abs. 2 BetrVG)
  → die ursprünglich fehlerhafte Besetzung darf sich nicht
  wiederholen
  → Nachrückreihenfolge sauber abgearbeitet
 
-□ Beschlussfähigkeit (§ 33 Abs. 2 BetrVG)
+□ Beschlussfähigkeit (Paragraf 33 Abs. 2 BetrVG)
  → mehr als die Hälfte der Mitglieder anwesend
 
 □ Beschluss mit Mehrheit der abgegebenen Stimmen
@@ -102,7 +102,7 @@ Ein Betriebsratsbeschluss, der wegen Verstoßes gegen wesentliche Verfahrensvors
 ### Schritt 2: Heilungssitzung einberufen
 
 - **Vorsitzender** (oder bei dessen Verhinderung der Stellvertreter) lädt
-- **Rechtzeitige Ladung** mit Tagesordnung — Tagesordnungspunkt sollte heißen: "Nachträgliche Genehmigung des Betriebsratsbeschlusses vom [Datum] gemäß § 184 Abs. 1 BGB"
+- **Rechtzeitige Ladung** mit Tagesordnung — Tagesordnungspunkt sollte heißen: "Nachträgliche Genehmigung des Betriebsratsbeschlusses vom [Datum] gemäß Paragraf 184 Abs. 1 BGB"
 - **Korrekte Nachladung** etwaiger Ersatzmitglieder
 - **Alle Mitglieder informieren**, dass es um eine Heilung geht — Transparenz schützt vor erneuten Anfechtungen
 
@@ -113,7 +113,7 @@ Beispiel-Beschlusswortlaut:
 ```
 "Der Betriebsrat genehmigt hiermit den Beschluss vom [Datum]
 zur Beauftragung von Rechtsanwalt/Rechtsanwältin [Name] in Sachen
-[Gegenstand] gemäß § 184 Abs. 1 BGB rückwirkend auf den Zeitpunkt
+[Gegenstand] gemäß Paragraf 184 Abs. 1 BGB rückwirkend auf den Zeitpunkt
 der ursprünglichen Beschlussfassung. Etwaige Verfahrensmängel des
 ursprünglichen Beschlusses sind damit geheilt."
 
@@ -127,7 +127,7 @@ Abstimmung: [Ja] [Nein] [Enthaltung] — Mehrheit für Genehmigung
 
 ### Schritt 5: Erforderlichkeit der Anwaltsbeauftragung dokumentieren
 
-Auch nach Heilung muss die Erforderlichkeit der Anwaltskosten nach § 40 Abs. 1 BetrVG dargelegt werden:
+Auch nach Heilung muss die Erforderlichkeit der Anwaltskosten nach Paragraf 40 Abs. 1 BetrVG dargelegt werden:
 - Komplexität der Rechtsfrage
 - Drohende Nachteile bei Verzicht auf anwaltliche Beratung
 - Keine ausreichende eigene Sachkunde im Betriebsrat
@@ -141,14 +141,14 @@ Auch nach Heilung muss die Erforderlichkeit der Anwaltskosten nach § 40 Abs. 1 
 | Anwaltsbeauftragung; Klage bereits anhängig; Heilung in erster Instanz | Ja | Wirkt rückwirkend |
 | Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | Anwaltsbeauftragung; Verfahren beendet; nachträgliche Heilung für Kostenfreistellung | Ja | Leitsatz 2 ausdrücklich |
-| Ursprünglicher Beschluss wegen Quorum-Mangels (§ 33 Abs. 2 BetrVG) | Nicht klassisch heilbar | Neuer Beschluss mit Quorum nötig, der Vertrag muss dann durch konstitutiven neuen Beschluss bestätigt werden |
+| Ursprünglicher Beschluss wegen Quorum-Mangels (Paragraf 33 Abs. 2 BetrVG) | Nicht klassisch heilbar | Neuer Beschluss mit Quorum nötig, der Vertrag muss dann durch konstitutiven neuen Beschluss bestätigt werden |
 | Heilungssitzung wiederum mit fehlerhafter Besetzung | Nein — Heilung selbst unwirksam | Saubere zweite Sitzung erforderlich |
 | Inhalt des Beschlusses war anders als ursprünglich | Keine Heilung — neuer Beschluss | Heilung setzt Bestätigung des ursprünglich gebildeten Willens voraus |
 
 ## Strategische Hinweise
 
 - **Frühzeitig heilen**: Sobald der Verfahrensmangel erkannt wird, sollte die Heilungssitzung einberufen werden. Jede Verzögerung gibt der Gegenseite Argumente.
-- **Dokumentation**: Protokoll der Heilungssitzung möglichst ausführlich; Bezugnahme auf den ursprünglichen Beschluss; Klarstellung, dass es sich um eine Genehmigung im Sinne von § 184 Abs. 1 BGB handelt.
+- **Dokumentation**: Protokoll der Heilungssitzung möglichst ausführlich; Bezugnahme auf den ursprünglichen Beschluss; Klarstellung, dass es sich um eine Genehmigung im Sinne von Paragraf 184 Abs. 1 BGB handelt.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Vorsorge**: In Standardvorlagen für Beschlüsse einen Hinweis aufnehmen: "Sollte sich nachträglich herausstellen, dass dieser Beschluss an einem Verfahrensmangel leidet, ist eine Heilung durch nachfolgenden ordnungsgemäßen Beschluss vorgesehen."
-- **Geschlechterquote nicht vergessen**: § 15 Abs. 2 BetrVG bleibt auch bei der Nachrückreihenfolge anwendbar — bei der Heilungssitzung sollte das Geschlecht in der Minderheit erneut korrekt vertreten sein.
+- **Geschlechterquote nicht vergessen**: Paragraf 15 Abs. 2 BetrVG bleibt auch bei der Nachrückreihenfolge anwendbar — bei der Heilungssitzung sollte das Geschlecht in der Minderheit erneut korrekt vertreten sein.

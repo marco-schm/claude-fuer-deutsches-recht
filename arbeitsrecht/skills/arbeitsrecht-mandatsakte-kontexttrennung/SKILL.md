@@ -56,7 +56,7 @@ Falls `Aktiviert: ✗` (Syndikus / in-house):
 
 ### Aktenübergreifender Kontext
 
-Bei `Aktenübergreifender Kontext: deaktiviert` (Standard): Ein Skill, der in Akte A arbeitet, liest niemals Dateien aus Akte B. Dies ist datenschutzrechtlich geboten (§ 43a Abs. 2 BRAO, § 26 BDSG): Personalakte eines Arbeitnehmers darf nicht in die Analyse eines anderen einfließen.
+Bei `Aktenübergreifender Kontext: deaktiviert` (Standard): Ein Skill, der in Akte A arbeitet, liest niemals Dateien aus Akte B. Dies ist datenschutzrechtlich geboten (Paragraf 43a Abs. 2 BRAO, Paragraf 26 BDSG): Personalakte eines Arbeitnehmers darf nicht in die Analyse eines anderen einfließen.
 
 Lerneffekte, die mehrere Mandate betreffen, werden in die Kanzlei-CLAUDE.md geschrieben, nicht in eine Akten-Datei.
 
@@ -64,10 +64,10 @@ Lerneffekte, die mehrere Mandate betreffen, werden in die Kanzlei-CLAUDE.md gesc
 
 Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-buergerliches-recht.md`.
 
-- § 43a Abs. 2 BRAO (Verschwiegenheitspflicht des Rechtsanwalts)
-- § 203 StGB (Verletzung von Privatgeheimnissen)
-- § 26 BDSG (Beschäftigtendatenschutz; gilt auch für anwaltlich bearbeitete Personaldaten)
-- § 53 StPO (Zeugnisverweigerungsrecht des Rechtsanwalts)
+- Paragraf 43a Abs. 2 BRAO (Verschwiegenheitspflicht des Rechtsanwalts)
+- Paragraf 203 StGB (Verletzung von Privatgeheimnissen)
+- Paragraf 26 BDSG (Beschäftigtendatenschutz; gilt auch für anwaltlich bearbeitete Personaldaten)
+- Paragraf 53 StPO (Zeugnisverweigerungsrecht des Rechtsanwalts)
 
 ## Ausgabeformat
 
@@ -92,7 +92,7 @@ Dateien erstellt:
 Mandantenakten – Arbeitsrecht
 =================================
 ● mueller-ksg-2024     [offen]    Kündigungsschutzklage      geändert: heute
-  bayer-betriebsrat    [ruhend]   BR-Streitigkeit § 87 BetrVG   geändert: vor 3 Wo.
+  bayer-betriebsrat    [ruhend]   BR-Streitigkeit Paragraf 87 BetrVG   geändert: vor 3 Wo.
   huber-entsendung     [offen]    Entsendung Frankreich          geändert: gestern
 
 ● = aktive Akte
@@ -123,7 +123,7 @@ Kündigung wegen betriebsbedingter Restrukturierung, Sozialauswahl streitig.
 
 ## Risiken / typische Fehler
 
-- **Akten nicht schließen, wenn das Mandat endet.** Archivieren statt löschen – BRAO § 50 Abs. 2 schreibt 5 Jahre Aufbewahrung vor.
+- **Akten nicht schließen, wenn das Mandat endet.** Archivieren statt löschen – BRAO Paragraf 50 Abs. 2 schreibt 5 Jahre Aufbewahrung vor.
 - **Mandant nicht anonymisieren.** Kürzel und interne Bezeichnung sollten nicht von Unbefugten identifiziert werden können.
 - **Aktenübergreifende Suche ungewollt aktivieren.** Standardmäßig deaktiviert aus datenschutzrechtlichen Gründen.
 

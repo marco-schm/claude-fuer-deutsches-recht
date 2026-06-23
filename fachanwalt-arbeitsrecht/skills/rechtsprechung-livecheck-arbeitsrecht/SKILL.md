@@ -20,8 +20,8 @@ description: "Live-Check für arbeitsrechtliche Rechtsprechung: Prüfprotokoll f
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Rechtsprechung Live-Check Arbeitsrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -109,10 +109,10 @@ Primärquelle für BAG-Entscheidungen: [bundesarbeitsgericht.de](https://www.bun
 |---|---|---|
 | BAG 6 AZR 152/22 (01.04.2026) | Massenentlassung: Anzeige vor BR-Konsultationsabschluss → Unwirksamkeit | bundesarbeitsgericht.de |
 | EuGH C-134/24 (30.10.2025) | Massenentlassungsanzeige als Wirksamkeitsvoraussetzung | curia.europa.eu |
-| BAG 5 AZR 108/25 (25.03.2026) | Pauschale Freistellungsklausel § 307 BGB unwirksam | bundesarbeitsgericht.de |
+| BAG 5 AZR 108/25 (25.03.2026) | Pauschale Freistellungsklausel Paragraf 307 BGB unwirksam | bundesarbeitsgericht.de |
 | BAG 9 AZR 104/24 (03.06.2025) | Kein Urlaubsverzicht durch Prozessvergleich | bundesarbeitsgericht.de |
 | BAG 8 AZR 300/24 (23.10.2025) | Paarvergleich genügt für AGG-Vermutung | bundesarbeitsgericht.de |
-| BAG 7 AZR 50/24 (18.06.2025) | § 14 Abs. 2 TzBfG gilt für BR-Mitglieder | bundesarbeitsgericht.de |
+| BAG 7 AZR 50/24 (18.06.2025) | Paragraf 14 Abs. 2 TzBfG gilt für BR-Mitglieder | bundesarbeitsgericht.de |
 
 **Wichtig:** Alle Aktenzeichen in dieser Liste müssen vor Verwendung in Schriftsätzen live auf bundesarbeitsgericht.de verifiziert werden. Die obige Liste dient als Orientierung, nicht als zitierfähige Quelle.
 

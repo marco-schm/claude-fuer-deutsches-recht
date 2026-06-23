@@ -20,8 +20,8 @@ description: "Verifizierte Mandantenentscheidung: strukturierter Entscheidungspr
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Verifizierte Mandantenentscheidung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -35,7 +35,7 @@ Wenn eine wichtige rechtliche Entscheidung ansteht (Klageerhebung, Aufhebungsver
 4. **Besteht Zeitdruck?** (Fristablauf → dann kürzer, aber vollständig)
 5. **Ist die Entscheidung des Mandanten dokumentiert?**
 
-## Aufklärungspflicht des Anwalts (§ 1 BORA, §§ 4–6 BerufsO)
+## Aufklärungspflicht des Anwalts (Paragraf 1 BORA, Paragrafen 4–6 BerufsO)
 
 ### Umfang der Aufklärungspflicht
 Der Anwalt ist verpflichtet, den Mandanten vollständig und wahrheitsgemäß über die rechtliche Lage, die Erfolgaussichten, die Risiken und die Kosten des geplanten Vorgehens aufzuklären. Eine Entscheidung, die auf unvollständiger Information beruht, kann zur Haftung führen.
@@ -54,8 +54,8 @@ Der Anwalt ist verpflichtet, den Mandanten vollständig und wahrheitsgemäß üb
 |---|---|---|---|
 | Klage einlegen | Maximaler Schutz; Verhandlungsposition; Weiterbeschäftigung möglich | Prozessdauer; Kosten; Unsicherheit | Starke Unwirksamkeitsgründe; Mandant will Bestandsschutz |
 | Vergleich im Gütermin | Schnelle Einigung; sichere Abfindung; Vermeidung Risiko | Kein Bestandsschutz; Abfindung ggf. unter Optimal | Kündigung formell korrekt; Mandant will schnell Abfindung |
-| Aufhebungsvertrag | Planungssicherheit; mögliche höhere Abfindung; Freistellung regelbar | Sperrzeitrisiko § 159 SGB III; Klauselrisiken | Mandant hat Anschlussstelle; Kündigung war glaubhaft angedroht |
-| Nichtstun | Kein Aufwand | Frist § 4 KSchG läuft; § 7 KSchG-Fiktion | Niemals bei offener Klagefrist |
+| Aufhebungsvertrag | Planungssicherheit; mögliche höhere Abfindung; Freistellung regelbar | Sperrzeitrisiko Paragraf 159 SGB III; Klauselrisiken | Mandant hat Anschlussstelle; Kündigung war glaubhaft angedroht |
+| Nichtstun | Kein Aufwand | Frist Paragraf 4 KSchG läuft; Paragraf 7 KSchG-Fiktion | Niemals bei offener Klagefrist |
 
 ## Informed Consent — Muster-Mandantenerklärung (schriftlich)
 

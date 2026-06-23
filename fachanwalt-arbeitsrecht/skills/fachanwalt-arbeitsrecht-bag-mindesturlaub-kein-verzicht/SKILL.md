@@ -18,7 +18,7 @@ description: "Workflow-Skill zu fachanwalt arbeitsrecht bag mindesturlaub kein v
 
 Leitentscheidung: BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (Kein Urlaubsverzicht durch Prozessvergleich).
 
-Tragende Aussage: Im laufenden Arbeitsverhaeltnis ist ein Verzicht auf den gesetzlichen Mindesturlaub - auch in einem gerichtlichen Vergleich - unwirksam, soweit der Arbeitnehmer den Urlaub aufgrund Arbeitsunfaehigkeit oder anderer tatsaechlicher Hindernisse nicht in natura nehmen kann. Eine Klausel, wonach der gesetzliche Mindesturlaub "in natura gewaehrt" gilt, ist nach § 13 Abs. 1 Satz 3 BUrlG i.V.m. Art. 7 RL 2003/88/EG nichtig, soweit sie den gesetzlichen Mindesturlaub betrifft.
+Tragende Aussage: Im laufenden Arbeitsverhaeltnis ist ein Verzicht auf den gesetzlichen Mindesturlaub - auch in einem gerichtlichen Vergleich - unwirksam, soweit der Arbeitnehmer den Urlaub aufgrund Arbeitsunfaehigkeit oder anderer tatsaechlicher Hindernisse nicht in natura nehmen kann. Eine Klausel, wonach der gesetzliche Mindesturlaub "in natura gewaehrt" gilt, ist nach Paragraf 13 Abs. 1 Satz 3 BUrlG i.V.m. Art. 7 RL 2003/88/EG nichtig, soweit sie den gesetzlichen Mindesturlaub betrifft.
 
 Offene Quelle: dejure.org, Vernetzung BAG 03.06.2025 - 9 AZR 104/24; BAG-Pressemitteilung "Kein Urlaubsverzicht durch Prozessvergleich".
 
@@ -72,11 +72,11 @@ Verbindung mit `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit` fuer die Au
 
 ## Paragrafenkette
 
-- §§ 1, 3 BUrlG — Urlaubsanspruch (20 Werktage Mindesturlaub)
-- § 7 Abs. 3 BUrlG — Übertragung und Verfall
-- § 7 Abs. 4 BUrlG — Abgeltungsanspruch bei Beendigung
-- § 13 Abs. 1 BUrlG — Unabdingbarkeit des Mindesturlaubs
-- §§ 195, 199 BGB — Verjährung
+- Paragrafen 1, 3 BUrlG — Urlaubsanspruch (20 Werktage Mindesturlaub)
+- Paragraf 7 Abs. 3 BUrlG — Übertragung und Verfall
+- Paragraf 7 Abs. 4 BUrlG — Abgeltungsanspruch bei Beendigung
+- Paragraf 13 Abs. 1 BUrlG — Unabdingbarkeit des Mindesturlaubs
+- Paragrafen 195, 199 BGB — Verjährung
 
 ## Quellenregel
 

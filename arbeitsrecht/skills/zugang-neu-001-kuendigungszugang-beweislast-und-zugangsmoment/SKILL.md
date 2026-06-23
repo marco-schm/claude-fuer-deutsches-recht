@@ -20,9 +20,9 @@ description: "Arbeitsrecht: Kündigungszugang Beweislast und Zugangsmoment mit k
 
 ## Norm
 
-- **§ 130 Abs. 1 BGB**: Eine Willenserklaerung wird mit ihrem Zugang wirksam.
-- **§ 4 Satz 1 KSchG**: 3-Wochen-Klagefrist ab Zugang.
-- **§ 7 KSchG**: Fiktion der Wirksamkeit bei Fristversaeumnis.
+- **Paragraf 130 Abs. 1 BGB**: Eine Willenserklaerung wird mit ihrem Zugang wirksam.
+- **Paragraf 4 Satz 1 KSchG**: 3-Wochen-Klagefrist ab Zugang.
+- **Paragraf 7 KSchG**: Fiktion der Wirksamkeit bei Fristversaeumnis.
 
 ## Zugangsbegriff
 
@@ -50,5 +50,5 @@ Zugang = wenn die Erklaerung so in den Machtbereich des Empfaengers gelangt, das
 
 1. Wann wurde die Kuendigung versandt/uebergeben?
 2. Wann gelangte sie in den Machtbereich?
-3. Wann beginnt die Klagefrist § 4 KSchG?
+3. Wann beginnt die Klagefrist Paragraf 4 KSchG?
 4. Beweisbar?

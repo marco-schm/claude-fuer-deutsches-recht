@@ -20,8 +20,8 @@ description: "Zugang bei Abwesenheit: Urlaub, Krankheit, Klinikaufenthalt, Ausla
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Zugang bei Abwesenheit — Urlaub, Krankheit, Klinik, Ausland` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -35,7 +35,7 @@ Wenn ein Sachverhalt vorliegt, zuerst die Fakten sichern:
 4. **Beweise:** Gibt es Belege für die Abwesenheit (Urlaubsbuchung, Klinikbericht, Flugticket)?
 5. **Ziel:** Fristbeginn hinausschieben (Arbeitnehmer) oder Zugang früh belegen (Arbeitgeber)?
 
-## Grundregel: Zugang § 130 BGB und Kenntnisnahmemöglichkeit
+## Grundregel: Zugang Paragraf 130 BGB und Kenntnisnahmemöglichkeit
 
 Der Zugang tritt ein, wenn die Erklärung derart in den Machtbereich des Empfängers gelangt ist, dass dieser unter normalen Umständen von ihr Kenntnis nehmen konnte — nicht, wann er tatsächlich Kenntnis genommen hat.
 
@@ -65,7 +65,7 @@ Der Zugang tritt ein, wenn die Erklärung derart in den Machtbereich des Empfän
 - **Aber:** Gibt es eine Mitbewohnerin/einen Mitbewohner oder bevollmächtigte Person? Dann Zugang an diese Person möglich.
 - **Beweislage für Arbeitgeber:** Arbeitgeber kann in der Regel nicht wissen, dass der Empfänger im Krankenhaus ist. Das BAG hat differenziert: Wenn der Arbeitgeber den Aufenthalt nicht kannte und nicht kennen musste, geht das Risiko zu Lasten des Arbeitnehmers (umstr., Einzelfallentscheidung erforderlich).
 
-**Praktischer Hinweis:** Bei stationärem Aufenthalt: Sofort nach Entlassung Klageschrift vorbereiten; nachträgliche Zulassung nach § 5 KSchG erwägen.
+**Praktischer Hinweis:** Bei stationärem Aufenthalt: Sofort nach Entlassung Klageschrift vorbereiten; nachträgliche Zulassung nach Paragraf 5 KSchG erwägen.
 
 ### Szenario 4: Auslandsaufenthalt
 
@@ -79,9 +79,9 @@ Der Zugang tritt ein, wenn die Erklärung derart in den Machtbereich des Empfän
 
 Ist eine andere Person zum Empfang von Post bevollmächtigt (Mitbewohner, Ehepartner, Empfangsperson), kann Zugang über diese Person erfolgen. Voraussetzung: Empfänger hat die Bevollmächtigung erkennbar eingerichtet oder duldet sie.
 
-## Nachträgliche Zulassung § 5 KSchG
+## Nachträgliche Zulassung Paragraf 5 KSchG
 
-Wenn der Arbeitnehmer die Klagefrist nach § 4 KSchG unverschuldet versäumt hat, kann er nachträgliche Klagezulassung beantragen:
+Wenn der Arbeitnehmer die Klagefrist nach Paragraf 4 KSchG unverschuldet versäumt hat, kann er nachträgliche Klagezulassung beantragen:
 - Antrag innerhalb von 2 Wochen nach Behebung des Hindernisses
 - Unverschuldete Verhinderung: Klinikaufenthalt, Ausland ohne Kenntnis vom Zugang
 - Glaubhaftmachung der Hindernisumstände erforderlich
@@ -91,7 +91,7 @@ Wenn der Arbeitnehmer die Klagefrist nach § 4 KSchG unverschuldet versäumt hat
 | Position | Taktik |
 |---|---|
 | Arbeitgeber: Zugang früh belegen | Zustellungsart mit Beweisvermerk; Abwesenheitsrisiko beim Empfänger belassen |
-| Arbeitnehmer: Zugang hinausschieben | Abwesenheitsbeleg (Klinikbericht, Flugticket), ggf. § 5 KSchG-Antrag |
+| Arbeitnehmer: Zugang hinausschieben | Abwesenheitsbeleg (Klinikbericht, Flugticket), ggf. Paragraf 5 KSchG-Antrag |
 | Arbeitnehmer: Fiktion widerlegen | Nachweis, dass Kenntnisnahme objektiv unmöglich war |
 
 ## Anschluss-Skills

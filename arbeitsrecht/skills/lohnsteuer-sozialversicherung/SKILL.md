@@ -1,14 +1,14 @@
 ---
 name: lohnsteuer-sozialversicherung
-description: "Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbständigkeit, § 7a SGB IV) und lohnsteuerliche Fragen im Arbeitsverhältnis: Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbständigkeit, § 7a SGB IV) und lohnsteuerliche Fragen im..."
+description: "Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbständigkeit, Paragraf 7a SGB IV) und lohnsteuerliche Fragen im Arbeitsverhältnis: Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbständigkeit, Paragraf 7a SGB IV) und lohnsteuerliche Fragen im..."
 ---
 
-# Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbständigkeit, § 7a SGB IV) und lohnsteuerliche Fragen im Arbeitsverhältnis
+# Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbständigkeit, Paragraf 7a SGB IV) und lohnsteuerliche Fragen im Arbeitsverhältnis
 
 
 ## Arbeitsbereich
 
-**Kueschk Annahmeverzug Lohnsteuer** ordnet den Fall über die tragenden Prüfungslinien: Annahmeverzugslohn nach § 615 BGB und § 11 KSchG, Beurteilt den sozialversicherungsrechtlichen Status, § 7a. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
+**Kueschk Annahmeverzug Lohnsteuer** ordnet den Fall über die tragenden Prüfungslinien: Annahmeverzugslohn nach Paragraf 615 BGB und Paragraf 11 KSchG, Beurteilt den sozialversicherungsrechtlichen Status, Paragraf 7a. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 
 ## Arbeitsweg
 
@@ -18,21 +18,21 @@ description: "Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbst�
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbständigkeit, § 7a SGB IV) und lohnsteuerliche Fragen im Arbeitsverhältnis. Lädt, wenn ein Statusfeststellungsverfahren, Scheinselbständigkeit, Nachzahlungspflichten (§ 28e SGB IV), strafrechtliche Risiken (§ 266a StGB) oder die Abgrenzung Arbeitnehmer/Selbständiger zu prüfen ist.
+**Fokus:** Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbständigkeit, Paragraf 7a SGB IV) und lohnsteuerliche Fragen im Arbeitsverhältnis. Lädt, wenn ein Statusfeststellungsverfahren, Scheinselbständigkeit, Nachzahlungspflichten (Paragraf 28e SGB IV), strafrechtliche Risiken (Paragraf 266a StGB) oder die Abgrenzung Arbeitnehmer/Selbständiger zu prüfen ist.
 
 ### Lohnsteuer und Sozialversicherung – Statusfeststellung und Scheinselbständigkeit
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Lohnsteuer und Sozialversicherung – Statusfeststellung und Scheinselbständigkeit` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Zweck
 
-Dient der Beurteilung des sozialversicherungsrechtlichen Beschäftigtenstatus sowie damit zusammenhängender lohnsteuerlicher Fragen. Er ist einschlägig, wenn die Abgrenzung zwischen abhängiger Beschäftigung (§ 7 Abs. 1 SGB IV) und selbständiger Tätigkeit rechtlich zu klären ist, ein Statusfeststellungsverfahren nach § 7a SGB IV eingeleitet werden soll oder bereits von der Deutschen Rentenversicherung Bund (DRV) durchgeführt wird, ein Verdacht auf Scheinselbständigkeit besteht (mit Nachzahlungsrisiken nach § 28e SGB IV, § 28p SGB IV) oder strafrechtliche Risiken nach § 266a StGB zu bewerten sind. Der Skill berücksichtigt die BSG-Rechtsprechung zu den Abgrenzungskriterien sowie die steuerrechtliche Einordnung (Lohnsteuer vs. Einkommensteuer / Umsatzsteuer).
+Dient der Beurteilung des sozialversicherungsrechtlichen Beschäftigtenstatus sowie damit zusammenhängender lohnsteuerlicher Fragen. Er ist einschlägig, wenn die Abgrenzung zwischen abhängiger Beschäftigung (Paragraf 7 Abs. 1 SGB IV) und selbständiger Tätigkeit rechtlich zu klären ist, ein Statusfeststellungsverfahren nach Paragraf 7a SGB IV eingeleitet werden soll oder bereits von der Deutschen Rentenversicherung Bund (DRV) durchgeführt wird, ein Verdacht auf Scheinselbständigkeit besteht (mit Nachzahlungsrisiken nach Paragraf 28e SGB IV, Paragraf 28p SGB IV) oder strafrechtliche Risiken nach Paragraf 266a StGB zu bewerten sind. Der Skill berücksichtigt die BSG-Rechtsprechung zu den Abgrenzungskriterien sowie die steuerrechtliche Einordnung (Lohnsteuer vs. Einkommensteuer / Umsatzsteuer).
 
 ## Eingaben
 
@@ -50,15 +50,15 @@ Dient der Beurteilung des sozialversicherungsrechtlichen Beschäftigtenstatus so
 
 ### Kernvorschriften
 
-- § 7 Abs. 1 SGB IV: Definition der Beschäftigung (nicht selbständige Arbeit; Merkmale: Weisungsgebundenheit, Eingliederung in fremde Organisation)
-- § 7a SGB IV: Statusfeststellungsverfahren bei der DRV Bund; Antrag möglich, aber kein Muss; Bescheid mit aufschiebender Wirkung in laufenden Beschäftigungen (§ 7a Abs. 6 SGB IV)
-- § 28e SGB IV: Haftung des Arbeitgebers für Gesamtsozialversicherungsbeitrag (Arbeitgeber- und Arbeitnehmeranteil; bei Scheinselbständigkeit: Arbeitgeber trägt Nachzahlung alleine, kein Rückgriff auf Arbeitnehmer für > 3 Monate zurückliegende Zeiträume)
-- § 28p SGB IV: Prüfbefugnis der Rentenversicherungsträger bei Arbeitgebern (Betriebsprüfung)
-- § 266a StGB: Vorenthalten und Veruntreuen von Arbeitsentgelt (bei vorsätzlichem Nichtabführen von SV-Beiträgen; Strafbarkeit des Arbeitgebers)
-- § 19 Abs. 1 EStG: Einkünfte aus nichtselbständiger Arbeit → Lohnsteuerpflicht
-- § 15, § 18 EStG: Gewerbliche bzw. freiberufliche Einkünfte bei Selbständigen
-- § 41a EStG: Lohnsteuer-Anmeldungspflicht des Arbeitgebers
-- §§ 1, 3 LStDV: Arbeitnehmer-Begriff im Lohnsteuerrecht (enger gefasst als SV-Recht, aber in der Praxis weitgehend parallel)
+- Paragraf 7 Abs. 1 SGB IV: Definition der Beschäftigung (nicht selbständige Arbeit; Merkmale: Weisungsgebundenheit, Eingliederung in fremde Organisation)
+- Paragraf 7a SGB IV: Statusfeststellungsverfahren bei der DRV Bund; Antrag möglich, aber kein Muss; Bescheid mit aufschiebender Wirkung in laufenden Beschäftigungen (Paragraf 7a Abs. 6 SGB IV)
+- Paragraf 28e SGB IV: Haftung des Arbeitgebers für Gesamtsozialversicherungsbeitrag (Arbeitgeber- und Arbeitnehmeranteil; bei Scheinselbständigkeit: Arbeitgeber trägt Nachzahlung alleine, kein Rückgriff auf Arbeitnehmer für > 3 Monate zurückliegende Zeiträume)
+- Paragraf 28p SGB IV: Prüfbefugnis der Rentenversicherungsträger bei Arbeitgebern (Betriebsprüfung)
+- Paragraf 266a StGB: Vorenthalten und Veruntreuen von Arbeitsentgelt (bei vorsätzlichem Nichtabführen von SV-Beiträgen; Strafbarkeit des Arbeitgebers)
+- Paragraf 19 Abs. 1 EStG: Einkünfte aus nichtselbständiger Arbeit → Lohnsteuerpflicht
+- Paragraf 15, Paragraf 18 EStG: Gewerbliche bzw. freiberufliche Einkünfte bei Selbständigen
+- Paragraf 41a EStG: Lohnsteuer-Anmeldungspflicht des Arbeitgebers
+- Paragrafen 1, 3 LStDV: Arbeitnehmer-Begriff im Lohnsteuerrecht (enger gefasst als SV-Recht, aber in der Praxis weitgehend parallel)
 
 ### Leitentscheidungen (BGH-Stil)
 
@@ -71,7 +71,7 @@ Dient der Beurteilung des sozialversicherungsrechtlichen Beschäftigtenstatus so
 - **Rückwirkung des Statusfeststellungsbescheids:**
  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-- **§ 266a StGB / Vorsatz:**
+- **Paragraf 266a StGB / Vorsatz:**
  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Quellenregel
@@ -82,7 +82,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ### Schritt 1 – Abgrenzungsprüfung: Abhängige Beschäftigung oder Selbständigkeit?
 
-**Prüfschema (Gesamtbildbetrachtung nach § 7 Abs. 1 SGB IV):**
+**Prüfschema (Gesamtbildbetrachtung nach Paragraf 7 Abs. 1 SGB IV):**
 
 | Kriterium | Für abhängige Beschäftigung | Für Selbständigkeit |
 |---|---|---|
@@ -97,42 +97,42 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Vertragswortlaut ist nicht maßgeblich**, wenn tatsächliche Durchführung abweicht.
 
-### Schritt 2 – Statusfeststellungsverfahren (§ 7a SGB IV)
+### Schritt 2 – Statusfeststellungsverfahren (Paragraf 7a SGB IV)
 
 - **Antragsberechtigt**: Auftraggeber oder Auftragnehmer, ggf. Einzugsstelle.
 - **Zuständig**: Deutsche Rentenversicherung Bund (DRV Bund), Clearingstelle.
-- **Verfahrensablauf**: Antragstellung → Anhörung beider Parteien → Bescheid; aufschiebende Wirkung für laufende Aufträge bis Entscheidung (§ 7a Abs. 6 SGB IV, kein Beitragsrisiko für Übergangszeit, wenn Antrag rechtzeitig gestellt).
-- **Bindungswirkung**: Bescheid bindet alle Sozialversicherungsträger; Widerspruch und Klage zum Sozialgericht (§§ 84, 87 SGG) möglich.
+- **Verfahrensablauf**: Antragstellung → Anhörung beider Parteien → Bescheid; aufschiebende Wirkung für laufende Aufträge bis Entscheidung (Paragraf 7a Abs. 6 SGB IV, kein Beitragsrisiko für Übergangszeit, wenn Antrag rechtzeitig gestellt).
+- **Bindungswirkung**: Bescheid bindet alle Sozialversicherungsträger; Widerspruch und Klage zum Sozialgericht (Paragrafen 84, 87 SGG) möglich.
 - **Strategische Empfehlung**: Proaktive Antragstellung bei Zweifeln minimiert Nachzahlungsrisiko und strafrechtliche Exposition.
 
 ### Schritt 3 – Folgen bei Feststellung als abhängige Beschäftigung
 
 **Sozialversicherung:**
-- Nachzahlungspflicht für Gesamtsozialversicherungsbeitrag (Arbeitgeber- + Arbeitnehmeranteil) nach § 28e SGB IV; **Verjährung: 4 Jahre** (§ 25 Abs. 1 SGB IV), bei Vorsatz 30 Jahre.
-- Kein Rückgriff des Arbeitgebers auf den Arbeitnehmer für mehr als **3 Monate** rückwirkend (§ 28g Satz 3 SGB IV).
-- Säumniszuschläge § 24 SGB IV (1 % pro angefangenem Kalendermonat).
+- Nachzahlungspflicht für Gesamtsozialversicherungsbeitrag (Arbeitgeber- + Arbeitnehmeranteil) nach Paragraf 28e SGB IV; **Verjährung: 4 Jahre** (Paragraf 25 Abs. 1 SGB IV), bei Vorsatz 30 Jahre.
+- Kein Rückgriff des Arbeitgebers auf den Arbeitnehmer für mehr als **3 Monate** rückwirkend (Paragraf 28g Satz 3 SGB IV).
+- Säumniszuschläge Paragraf 24 SGB IV (1 % pro angefangenem Kalendermonat).
 
 **Lohnsteuer:**
-- Pflicht zur Lohnsteuer-Anmeldung (§ 41a EStG); Nachzahlung mit Haftung des Arbeitgebers (§ 42d EStG).
+- Pflicht zur Lohnsteuer-Anmeldung (Paragraf 41a EStG); Nachzahlung mit Haftung des Arbeitgebers (Paragraf 42d EStG).
 - Bereits gezahlte Einkommensteuer des Auftragnehmers wird angerechnet.
 
 **Strafrechtlich:**
-- § 266a StGB: Strafbarkeit des Arbeitgebers (Geschäftsführer, Vorstand) bei vorsätzlichem Vorenthalten von Beiträgen; Freiheitsstrafe bis zu 5 Jahren oder Geldstrafe.
+- Paragraf 266a StGB: Strafbarkeit des Arbeitgebers (Geschäftsführer, Vorstand) bei vorsätzlichem Vorenthalten von Beiträgen; Freiheitsstrafe bis zu 5 Jahren oder Geldstrafe.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Selbstanzeige / Nachentrichten: Bei § 266a StGB existiert – anders als bei § 371 AO – keine strafbefreiende Selbstanzeige; freiwillige Nachzahlung ist aber strafmildernd.
+- Selbstanzeige / Nachentrichten: Bei Paragraf 266a StGB existiert – anders als bei Paragraf 371 AO – keine strafbefreiende Selbstanzeige; freiwillige Nachzahlung ist aber strafmildernd.
 
 ### Schritt 4 – Gestaltungsoptionen und Risikominimierung
 
 1. **Vertragsgestaltung anpassen**: Weisungsrechte vertraglich und praktisch reduzieren, mehrere Auftraggeber fördern.
 2. **Statusfeststellungsverfahren proaktiv stellen** → schützt vor rückwirkenden Forderungen für Zeitraum ab Antragstellung.
 3. **Umwandlung in Arbeitsverhältnis**: Wenn Scheinselbständigkeit nahe liegt, geordnete Überführung in abhängige Beschäftigung mit klaren Verträgen.
-4. **Betriebsprüfung (§ 28p SGB IV)**: Auf kommende Prüfungen durch DRV vorbereiten; Dokumentation der tatsächlichen Verhältnisse.
-5. **Steuerberatung**: Lohnsteuerliche Folgen (§§ 41a, 42d EStG) mit Steuerberater abstimmen.
+4. **Betriebsprüfung (Paragraf 28p SGB IV)**: Auf kommende Prüfungen durch DRV vorbereiten; Dokumentation der tatsächlichen Verhältnisse.
+5. **Steuerberatung**: Lohnsteuerliche Folgen (Paragrafen 41a, 42d EStG) mit Steuerberater abstimmen.
 
 ### Schritt 5 – Besonderheiten Freiberufler
 
-- Freiberufler nach § 18 EStG unterliegen keiner Gewerbesteuer, jedoch ggf. der SV-Pflicht als Beschäftigte, wenn Eingliederung vorliegt.
-- Künstlerische und publizistische Tätigkeiten → Künstlersozialversicherung (KSVG) prüfen: Abgabepflicht des Auftraggebers (§§ 24, 25 KSVG).
+- Freiberufler nach Paragraf 18 EStG unterliegen keiner Gewerbesteuer, jedoch ggf. der SV-Pflicht als Beschäftigte, wenn Eingliederung vorliegt.
+- Künstlerische und publizistische Tätigkeiten → Künstlersozialversicherung (KSVG) prüfen: Abgabepflicht des Auftraggebers (Paragrafen 24, 25 KSVG).
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beispiel
@@ -148,20 +148,20 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-*Empfehlung:* Statusfeststellungsverfahren nach § 7a SGB IV sofort prüfen; SV-Beitragsrisiko nach § 25 SGB IV sauber zeitlich aufbauen (regelmäßige Verjährung vier Jahre, bei vorsätzlich vorenthaltenen Beiträgen dreißig Jahre), Säumniszuschläge und strafrechtliches Risiko § 266a StGB getrennt dokumentieren. Keine Kommentarstelle aus Modellwissen zitieren; für Rechtsprechung `rechtsstand-mai-2026-faktenbank` laden.
+*Empfehlung:* Statusfeststellungsverfahren nach Paragraf 7a SGB IV sofort prüfen; SV-Beitragsrisiko nach Paragraf 25 SGB IV sauber zeitlich aufbauen (regelmäßige Verjährung vier Jahre, bei vorsätzlich vorenthaltenen Beiträgen dreißig Jahre), Säumniszuschläge und strafrechtliches Risiko Paragraf 266a StGB getrennt dokumentieren. Keine Kommentarstelle aus Modellwissen zitieren; für Rechtsprechung `rechtsstand-mai-2026-faktenbank` laden.
 
 ## Risiken und typische Fehler
 
 | Fehler | Konsequenz | Abhilfe |
 |---|---|---|
-| Kein Statusfeststellungsverfahren trotz Zweifeln | Rückwirkende Nachzahlung; § 266a StGB | Proaktiv § 7a SGB IV beantragen |
-| Vertrag "Freier Mitarbeiter" ohne tatsächliche Umsetzung | Scheinselbständigkeit; Nachzahlungspflicht § 28e SGB IV | Vertragsgestaltung und tatsächliche Durchführung abstimmen |
-| Vorsätzliches Nichtabführen | § 266a StGB, Freiheitsstrafe bis 5 Jahre | Sofortige Klärung und Nachentrichten |
+| Kein Statusfeststellungsverfahren trotz Zweifeln | Rückwirkende Nachzahlung; Paragraf 266a StGB | Proaktiv Paragraf 7a SGB IV beantragen |
+| Vertrag "Freier Mitarbeiter" ohne tatsächliche Umsetzung | Scheinselbständigkeit; Nachzahlungspflicht Paragraf 28e SGB IV | Vertragsgestaltung und tatsächliche Durchführung abstimmen |
+| Vorsätzliches Nichtabführen | Paragraf 266a StGB, Freiheitsstrafe bis 5 Jahre | Sofortige Klärung und Nachentrichten |
 | Vergessen: KSVG-Abgabepflicht | Nachzahlung KSVG-Abgabe | Künstler/Publizisten gesondert prüfen |
-| Falsche Steuererklärung des Auftragnehmers | § 370 AO; Nachzahlung; Berichtigungspflicht | Steuerberater einschalten |
+| Falsche Steuererklärung des Auftragnehmers | Paragraf 370 AO; Nachzahlung; Berichtigungspflicht | Steuerberater einschalten |
 | Keine Dokumentation der tatsächlichen Verhältnisse | Beweisproblem bei Betriebsprüfung | Tatsächliche Leistungserbringung laufend dokumentieren |
-| § 203 StGB / Datenschutz | Strafbarkeit bei unbefugter Datenweitergabe | Personalstammdaten nur in zulässigen Systemen |
-| Rückgriff auf Arbeitnehmer > 3 Monate | § 28g Satz 3 SGB IV schließt das aus | Nur bis 3 Monate rückwirkender Rückgriff zulässig |
+| Paragraf 203 StGB / Datenschutz | Strafbarkeit bei unbefugter Datenweitergabe | Personalstammdaten nur in zulässigen Systemen |
+| Rückgriff auf Arbeitnehmer > 3 Monate | Paragraf 28g Satz 3 SGB IV schließt das aus | Nur bis 3 Monate rückwirkender Rückgriff zulässig |
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 

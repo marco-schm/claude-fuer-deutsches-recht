@@ -20,8 +20,8 @@ description: "Reaktion auf die Klageerwiderung des Arbeitgebers: Bestreiten von 
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Replik des Arbeitnehmers auf Klageerwiderung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -58,7 +58,7 @@ Eine Abmahnung wurde nie ausgesprochen. Dies ist unstreitig. Ohne vorherige Abma
 
 **III. Zur behaupteten Sozialauswahl [bei betriebsbed. Kündigung]**
 
-Die Beklagte hat keine nachvollziehbare Sozialauswahl-Tabelle vorgelegt. Der Kläger bestreitet, dass die Sozialauswahl ordnungsgemäß durchgeführt wurde. Kollegin K (Sozialdaten: Alter [ALTER], Betriebszugehörigkeit [DAUER], keine Unterhaltspflichten) ist mit dem Kläger vergleichbar. Sie hätte nach Maßgabe des § 1 Abs. 3 KSchG vorrangig entlassen werden müssen.
+Die Beklagte hat keine nachvollziehbare Sozialauswahl-Tabelle vorgelegt. Der Kläger bestreitet, dass die Sozialauswahl ordnungsgemäß durchgeführt wurde. Kollegin K (Sozialdaten: Alter [ALTER], Betriebszugehörigkeit [DAUER], keine Unterhaltspflichten) ist mit dem Kläger vergleichbar. Sie hätte nach Maßgabe des Paragraf 1 Abs. 3 KSchG vorrangig entlassen werden müssen.
 
 **IV. Zur Betriebsratsanhörung [sofern streitig]**
 
@@ -90,11 +90,11 @@ Step 6: Schriftsatz fristgerecht einreichen
 
 ## Zentrale Normen
 
-- **§ 1 Abs. 2 Satz 4 KSchG** — Darlegungs- und Beweislast beim Arbeitgeber für Kündigungsgrund
-- **§ 1 Abs. 3 Satz 3 KSchG** — Darlegungs- und Beweislast beim Arbeitgeber für Sozialauswahl
-- **§ 102 Abs. 1 BetrVG** — Betriebsratsanhörung vor Kündigung (Fehler = Unwirksamkeit)
-- **§ 138 Abs. 2, 3 ZPO i.V.m. § 46 Abs. 2 ArbGG** — Erklärungslast über Tatsachenbehauptungen der Gegenseite
-- **§ 139 ZPO** — Richterliche Hinweispflicht; Gericht fördert vollständigen Vortrag
+- **Paragraf 1 Abs. 2 Satz 4 KSchG** — Darlegungs- und Beweislast beim Arbeitgeber für Kündigungsgrund
+- **Paragraf 1 Abs. 3 Satz 3 KSchG** — Darlegungs- und Beweislast beim Arbeitgeber für Sozialauswahl
+- **Paragraf 102 Abs. 1 BetrVG** — Betriebsratsanhörung vor Kündigung (Fehler = Unwirksamkeit)
+- **Paragraf 138 Abs. 2, 3 ZPO i.V.m. Paragraf 46 Abs. 2 ArbGG** — Erklärungslast über Tatsachenbehauptungen der Gegenseite
+- **Paragraf 139 ZPO** — Richterliche Hinweispflicht; Gericht fördert vollständigen Vortrag
 
 ## Aktuelle Rechtsprechung
 

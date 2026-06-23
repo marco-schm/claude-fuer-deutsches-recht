@@ -20,8 +20,8 @@ description: "Arbeitgeber-Zustellworkflow: rechtssichere Organisation der Kündi
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Arbeitgeber-Zustell— Rechtssicher organisieren` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -49,7 +49,7 @@ Wenn ein konkreter Zustellungsauftrag vorliegt, zuerst klären:
 - **Nicht als alleiniger Weg** bei zeitkritischen Fristen (→ Skill 002 für Risiken)
 
 ### Weg 3: Gerichtsvollzieher-Zustellung
-- Auftrag über Anwalt; öffentliche Urkunde schafft Beweis nach § 418 ZPO
+- Auftrag über Anwalt; öffentliche Urkunde schafft Beweis nach Paragraf 418 ZPO
 - **Kosten:** Ca. 20–30 € Gebühr pro Zustellung
 - **Vorteil:** Unbestreitbarer Zugangszeitpunkt
 - **Empfehlung:** Bei besonders streitanfälligen Fällen oder wenn der Empfänger bereits anwaltlich vertreten ist
@@ -84,11 +84,11 @@ Dokumentation (gleicher Tag):
 
 ## Massenentlassung — Besondere Anforderungen
 
-### Koordination mit § 17 KSchG-Anzeige
+### Koordination mit Paragraf 17 KSchG-Anzeige
 **Wichtig (BAG 6 AZR 152/22, EuGH C-134/24):** Die Massenentlassungsanzeige muss nach Abschluss der Betriebsratsberatung, aber vor Ausspruch der Kündigungen bei der Agentur für Arbeit eingehen. Der Ausspruch der Kündigung = Zugang bei Arbeitnehmer.
 
 **Massenentlassung:**
-1. Konsultation Betriebsrat nach § 17 Abs. 2 KSchG abschließen
+1. Konsultation Betriebsrat nach Paragraf 17 Abs. 2 KSchG abschließen
 2. Massenentlassungsanzeige bei der Agentur für Arbeit einreichen
 3. Eingangsbestätigung der Agentur für Arbeit abwarten
 4. Erst dann: Kündigungen zustellen
@@ -102,13 +102,13 @@ Dokumentation (gleicher Tag):
 ## Sonderfälle
 
 ### Sonderkündigungsschutz (Betriebsratsmitglieder, Schwangere, Elternzeit)
-Keine Kündigung ohne behördliche Zustimmung oder (bei BR-Mitglied) BR-Beschluss gem. § 103 BetrVG! Zustellung einer Kündigung ohne diese Voraussetzungen ist unwirksam und setzt Frist nicht in Gang.
+Keine Kündigung ohne behördliche Zustimmung oder (bei BR-Mitglied) BR-Beschluss gem. Paragraf 103 BetrVG! Zustellung einer Kündigung ohne diese Voraussetzungen ist unwirksam und setzt Frist nicht in Gang.
 
 ### Empfänger verweigert Annahme
 - Verweigerung dokumentieren (Beweisvermerk)
 - Schreiben in Briefkasten einwerfen
 - Ggf. Zeuge für Verweigerungsvorgang
-- Annahmeverweigerung schließt Zugang nicht aus (§ 130 BGB: Empfänger kann Zugang nicht durch Verweigerung verhindern)
+- Annahmeverweigerung schließt Zugang nicht aus (Paragraf 130 BGB: Empfänger kann Zugang nicht durch Verweigerung verhindern)
 
 ## Checkliste Post-Zustellung
 
@@ -117,12 +117,12 @@ Keine Kündigung ohne behördliche Zustimmung oder (bei BR-Mitglied) BR-Beschlus
 - [ ] Kuvertierungsprotokoll archiviert
 - [ ] Klagefrist-Ablauf im Wiedervorlagenkalender notiert
 - [ ] Personalakte aktualisiert
-- [ ] Ggf. Betriebsrat über Ausspruch informiert (§ 102 Abs. 4 BetrVG)
+- [ ] Ggf. Betriebsrat über Ausspruch informiert (Paragraf 102 Abs. 4 BetrVG)
 
 ## Anschluss-Skills
 - `fazugang-neu-001-kuendigung-durch-boten-beweisvermerk-und-prozessstrategie` für Beweisvermerk-Details
 - `fazugang-neu-002-einwurf-einschreiben-risiko-nach-aktueller-bag-linie` für Einschreibenrisiken
-- `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` für § 17 KSchG-Anforderungen
+- `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` für Paragraf 17 KSchG-Anforderungen
 - `workflow-fristen-und-risikoampel` für Fristenmanagement
 
 ## Was dieser Arbeitsgang nicht macht

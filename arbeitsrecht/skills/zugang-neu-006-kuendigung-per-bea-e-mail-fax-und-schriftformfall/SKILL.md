@@ -18,26 +18,26 @@ description: "Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen 
 
 ### Zugang Kuendigung Per Bea E Mail Fax Und Schriftformfall
 
-## Schriftformerfordernis § 623 BGB
+## Schriftformerfordernis Paragraf 623 BGB
 
-- **Kuendigung erfordert SCHRIFTFORM** (= eigenhaendige Unterschrift im Original, § 126 BGB).
-- Elektronische Form (§ 126a BGB qualifizierte elektronische Signatur) ist NUR ausnahmsweise gleichgestellt — und im Arbeitsrecht durch § 623 BGB AUSGESCHLOSSEN.
+- **Kuendigung erfordert SCHRIFTFORM** (= eigenhaendige Unterschrift im Original, Paragraf 126 BGB).
+- Elektronische Form (Paragraf 126a BGB qualifizierte elektronische Signatur) ist NUR ausnahmsweise gleichgestellt — und im Arbeitsrecht durch Paragraf 623 BGB AUSGESCHLOSSEN.
 
 ## Was funktioniert NICHT
 
 - Einfache E-Mail (auch mit eingescannter Unterschrift).
 - Fax (BAG 6 AZR 519/12).
 - WhatsApp/SMS.
-- beA-Nachricht (qualifizierte Signatur reicht nach § 623 BGB nicht).
+- beA-Nachricht (qualifizierte Signatur reicht nach Paragraf 623 BGB nicht).
 
 ## Folge
 
-- Nicht-schriftliche Kuendigung ist **nichtig** § 125 BGB.
+- Nicht-schriftliche Kuendigung ist **nichtig** Paragraf 125 BGB.
 - Keine Wirkung — Arbeitsverhaeltnis besteht fort.
-- **§ 4 S. 1 KSchG laeuft NICHT an**, weil die Vorschrift ihrem Wortlaut nach nur eine **schriftliche** Kuendigung erfasst (BAG 22. Oktober 2015 - 2 AZR 720/14 Rn 23 ff.; BAG 17. Dezember 2015 - 6 AZR 709/14).
-- **Keine Heilung über § 7 KSchG** bei Formverstoss: Die Fiktionswirkung des § 7 KSchG setzt eine formwirksame schriftliche Kuendigung voraus; bei Nichtigkeit nach § 125 BGB iVm § 623 BGB greift sie nicht.
-- Der Arbeitnehmer kann den Fortbestand des Arbeitsverhaeltnisses jederzeit (vorbehaltlich Verwirkung) mit allgemeiner Feststellungsklage § 256 ZPO geltend machen, nicht nur mit Kuendigungsschutzklage § 4 KSchG.
-- Achtung Abgrenzung: Eine formwirksame, aber aus anderem Grund unwirksame Kuendigung (z.B. Sozialwidrigkeit, fehlende Anhörung Betriebsrat) muss innerhalb von 3 Wochen mit Kuendigungsschutzklage angegriffen werden, sonst Fiktion § 7 KSchG.
+- **Paragraf 4 S. 1 KSchG laeuft NICHT an**, weil die Vorschrift ihrem Wortlaut nach nur eine **schriftliche** Kuendigung erfasst (BAG 22. Oktober 2015 - 2 AZR 720/14 Rn 23 ff.; BAG 17. Dezember 2015 - 6 AZR 709/14).
+- **Keine Heilung über Paragraf 7 KSchG** bei Formverstoss: Die Fiktionswirkung des Paragraf 7 KSchG setzt eine formwirksame schriftliche Kuendigung voraus; bei Nichtigkeit nach Paragraf 125 BGB iVm Paragraf 623 BGB greift sie nicht.
+- Der Arbeitnehmer kann den Fortbestand des Arbeitsverhaeltnisses jederzeit (vorbehaltlich Verwirkung) mit allgemeiner Feststellungsklage Paragraf 256 ZPO geltend machen, nicht nur mit Kuendigungsschutzklage Paragraf 4 KSchG.
+- Achtung Abgrenzung: Eine formwirksame, aber aus anderem Grund unwirksame Kuendigung (z.B. Sozialwidrigkeit, fehlende Anhörung Betriebsrat) muss innerhalb von 3 Wochen mit Kuendigungsschutzklage angegriffen werden, sonst Fiktion Paragraf 7 KSchG.
 
 ## Empfehlung
 

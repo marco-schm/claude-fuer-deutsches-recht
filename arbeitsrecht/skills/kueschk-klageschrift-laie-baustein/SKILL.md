@@ -1,6 +1,6 @@
 ---
 name: kueschk-klageschrift-laie-baustein
-description: "Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage: punktueller Feststellungsantrag nach § 4 KSchG; allgemeiner Feststellungsantrag; Begründungsbausteine; Beweisangebote; Schritt-für-Schritt zum..."
+description: "Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage: punktueller Feststellungsantrag nach Paragraf 4 KSchG; allgemeiner Feststellungsantrag; Begründungsbausteine; Beweisangebote; Schritt-für-Schritt zum..."
 ---
 
 # Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage
@@ -14,21 +14,21 @@ description: "Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage: punktuel
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage; punktueller Feststellungsantrag nach § 4 KSchG; allgemeiner Feststellungsantrag; Begründungsbausteine; Beweisangebote; Schritt-für-Schritt zum Selbstausfuellen mit Warnkopf.
+**Fokus:** Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage; punktueller Feststellungsantrag nach Paragraf 4 KSchG; allgemeiner Feststellungsantrag; Begründungsbausteine; Beweisangebote; Schritt-für-Schritt zum Selbstausfuellen mit Warnkopf.
 
 ### Klageschrift für Laien — Baustein
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Klageschrift für Laien — Baustein` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 611a, 613a, 615, 623; KSchG §§ 1, 4, 7; TzBfG §§ 14, 15, 16; AGG §§ 1, 3, 7, 15, 22; EntgTranspG §§ 3, 5, 7; BUrlG §§ 1, 3, 7; BetrVG §§ 87, 99, 102; ArbZG; NachwG; SGB IX §§ 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer § 623 BGB, Zugang nach § 130 BGB, Dreiwochenfrist §§ 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
+- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
+- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Triage zu Beginn — kläre VOR Einreichung
 
-1. Drei-Wochen-Frist § 4 KSchG gewahrt? Verbleibende Tage bis Fristablauf?
+1. Drei-Wochen-Frist Paragraf 4 KSchG gewahrt? Verbleibende Tage bis Fristablauf?
 2. KSchG anwendbar? Betrieb > 10 Arbeitnehmer und Beschäftigung > 6 Monate?
 3. Welches Arbeitsgericht ist zuständig? (Sitz des Betriebs oder Wohnort)
 4. Gibt es einen offensichtlichen Formfehler (kein Original, per Fax etc.)?
@@ -37,13 +37,13 @@ description: "Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage: punktuel
 
 ## Zentrale Normen
 
-- § 4 Satz 1 KSchG — Klagefrist 3 Wochen; Ausschlussfrist
-- § 7 KSchG — Wirksamkeitsfiktion bei Fristversäumnis
-- § 11 Abs. 1 ArbGG — kein Anwaltszwang erste Instanz Arbeitsgericht
-- § 46 Abs. 2 ArbGG i.V.m. § 496 ZPO a.F. — Klage zu Protokoll des Urkundsbeamten
-- § 48 ArbGG i.V.m. §§ 12 ff. ZPO — örtliche Zuständigkeit
-- § 42 Abs. 2 GKG — Streitwert: 3 Bruttomonatsgehalter
-- § 12a ArbGG — kein Kostenerstattungsanspruch erste Instanz (jede Seite trägt eigene Anwaltskosten)
+- Paragraf 4 Satz 1 KSchG — Klagefrist 3 Wochen; Ausschlussfrist
+- Paragraf 7 KSchG — Wirksamkeitsfiktion bei Fristversäumnis
+- Paragraf 11 Abs. 1 ArbGG — kein Anwaltszwang erste Instanz Arbeitsgericht
+- Paragraf 46 Abs. 2 ArbGG i.V.m. Paragraf 496 ZPO a.F. — Klage zu Protokoll des Urkundsbeamten
+- Paragraf 48 ArbGG i.V.m. Paragrafen 12 ff. ZPO — örtliche Zuständigkeit
+- Paragraf 42 Abs. 2 GKG — Streitwert: 3 Bruttomonatsgehalter
+- Paragraf 12a ArbGG — kein Kostenerstattungsanspruch erste Instanz (jede Seite trägt eigene Anwaltskosten)
 
 ## Aktuelle Rechtsprechung
 
@@ -51,7 +51,7 @@ description: "Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage: punktuel
 
 ## Zweck
 
-Erzeugt eine ausfüllbare Klageschrift-Vorlage für Arbeitnehmer ohne Rechtsanwalt. In der ersten Instanz vor dem Arbeitsgericht besteht kein Anwaltszwang (§ 11 Abs. 1 ArbGG). Die Klageschrift kann auch direkt zu Protokoll des Urkundsbeamten der Geschäftsstelle erklärt werden (§ 46 Abs. 2 ArbGG i.V.m. § 496 ZPO a.F.).
+Erzeugt eine ausfüllbare Klageschrift-Vorlage für Arbeitnehmer ohne Rechtsanwalt. In der ersten Instanz vor dem Arbeitsgericht besteht kein Anwaltszwang (Paragraf 11 Abs. 1 ArbGG). Die Klageschrift kann auch direkt zu Protokoll des Urkundsbeamten der Geschäftsstelle erklärt werden (Paragraf 46 Abs. 2 ArbGG i.V.m. Paragraf 496 ZPO a.F.).
 
 **Vor Verwendung dieser Vorlage:** Stelle sicher, dass du `kueschk-grundwarnung-falsche-wiese-und-haftung` gelesen hast. Die Drei-Wochen-Frist läuft.
 
@@ -89,7 +89,7 @@ vertreten durch [VERTRETUNGSBERECHTIGTE PERSON, z.B. Geschäftsführer],
 
 — Beklagte(r) —
 
-**Streitwert:** Drei Bruttomonatsgehälter (§ 42 Abs. 2 GKG), also vorläufig [3 × MONATSLOHN] Euro
+**Streitwert:** Drei Bruttomonatsgehälter (Paragraf 42 Abs. 2 GKG), also vorläufig [3 × MONATSLOHN] Euro
 
 ---
 
@@ -123,7 +123,7 @@ Die Kündigung ist aus folgenden Gründen unwirksam:
 [HIER BEGRÜNDUNG EINFÜGEN — Bausteine:]
 
 *Option A — Keine soziale Rechtfertigung betriebsbedingt:*
-Die Beklagte hat keinen dringenden betrieblichen Grund nachgewiesen. Der Wegfall meines Arbeitsplatzes ist nicht belegt. Zudem wurde keine ordnungsgemäße Sozialauswahl nach § 1 Abs. 3 KSchG durchgeführt. Kollegen mit geringerer sozialer Schutzbedürftigkeit wurden bevorzugt.
+Die Beklagte hat keinen dringenden betrieblichen Grund nachgewiesen. Der Wegfall meines Arbeitsplatzes ist nicht belegt. Zudem wurde keine ordnungsgemäße Sozialauswahl nach Paragraf 1 Abs. 3 KSchG durchgeführt. Kollegen mit geringerer sozialer Schutzbedürftigkeit wurden bevorzugt.
 
 *Option B — Keine Abmahnung (verhaltensbedingt):*
 Die Kündigung ist unverhältnismäßig. Eine Abmahnung, die Voraussetzung für eine verhaltensbedingte Kündigung ist, wurde nicht ausgesprochen.
@@ -149,9 +149,9 @@ Die Kündigung ist formunwirksam. [FORMFEHLER BESCHREIBEN — z.B.: Die Kündigu
 ## Hinweise zum Einreichen
 
 - Die Klage muss **innerhalb von drei Wochen** nach Zugang der Kündigung beim zuständigen Arbeitsgericht eingehen.
-- Zuständiges Arbeitsgericht: Arbeitsgericht am Sitz des Betriebes oder am Wohnort des Arbeitnehmers (§ 48 ArbGG i.V.m. §§ 12 ff. ZPO).
+- Zuständiges Arbeitsgericht: Arbeitsgericht am Sitz des Betriebes oder am Wohnort des Arbeitnehmers (Paragraf 48 ArbGG i.V.m. Paragrafen 12 ff. ZPO).
 - Alternativ: Klageschrift zu Protokoll der Geschäftsstelle des Arbeitsgerichts erklären (persönlich vorbeigehen und diktieren).
-- Gerichtsgebühren: In der ersten Instanz trägt jede Partei ihre eigenen Anwaltskosten (§ 12a ArbGG). Gerichtsgebühren nach GKG fallen an.
+- Gerichtsgebühren: In der ersten Instanz trägt jede Partei ihre eigenen Anwaltskosten (Paragraf 12a ArbGG). Gerichtsgebühren nach GKG fallen an.
 
 ---
 
