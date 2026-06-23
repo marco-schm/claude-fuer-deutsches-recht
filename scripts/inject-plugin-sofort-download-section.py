@@ -122,7 +122,6 @@ def build_section(plugin_name: str, akten_slugs: list[str], plugin_dir: Path | N
     lines.append("## Sofort-Downloads")
     lines.append("")
     lines.append("Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).")
-    lines.append("Arbeitsprodukte aus diesen Dateien sollen, soweit technisch möglich, Times New Roman 11 pt, vollständige Sätze und ausschließlich dezimale Gliederung verwenden.")
     lines.append("")
     lines.append("### Plugin als ZIP")
     lines.append("")
