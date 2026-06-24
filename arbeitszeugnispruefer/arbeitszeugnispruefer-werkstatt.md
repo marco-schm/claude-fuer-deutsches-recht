@@ -98,7 +98,7 @@ Arbeitsprodukt: Liefere am Ende dieser Station das Aufforderungsschreiben mit Fr
 - BAG, Urteil vom 12.08.2008 - 9 AZR 632.07: Anspruch auf qualifiziertes Zeugnis verlangt ausformulierten Text, nicht Stichworte.
 - BAG, Urteil vom 27.04.2021 - 9 AZR 262.20: kein durchsetzbarer Anspruch auf Schlussformel; sie ist aber bei guten Zeugnissen ueblicher Bestandteil.
 - BAG, Urteil vom 21.06.2005 - 9 AZR 352.04: Selbstbindung des Arbeitgebers an ein Zwischenzeugnis und Massregelungsverbot; das Endzeugnis darf ohne veraenderte Tatsachengrundlage nicht zum Nachteil des Arbeitnehmers abweichen; objektiver Empfaengerhorizont.
-- BAG, Urteil vom 11.12.2012 - 9 AZR 227.11: Anforderungen an die Zeugnissprache; Auslassungen typischer Beurteilungspunkte koennen als negative Aussage gewertet werden.
+- BAG, Urteil vom 11.12.2012 - 9 AZR 227.11: Kein gesetzlicher Anspruch auf eine Schlussformel mit Dank und guten Wuenschen; bei Unzufriedenheit mit einer erteilten Schlussformel besteht nur Anspruch auf ein Zeugnis ohne Schlussformel, nicht auf eine bestimmte Umformulierung.
 - BAG, Urteil vom 15.11.2011 - 9 AZR 386.10: Notenstufen und ihre sprachliche Entsprechung; durchschnittlich entspricht befriedigend.
 
 ## 6. Geheimcode-Katalog (Pruefliste)

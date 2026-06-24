@@ -1,9 +1,9 @@
 ---
-name: zeugnisklarheit-bag-9-azr-227-11
-description: Pruefung eines Arbeitszeugnisses auf das Gebot der Zeugnisklarheit nach Paragraf 109 Absatz 2 GewO mit Anwendung des objektiven Empfaengerhorizonts als Massstab gemaess BAG-Urteil 9 AZR 227.11 und ergaenzender Rechtsprechung.
+name: zeugnisklarheit-objektiver-empfaengerhorizont
+description: Pruefung eines Arbeitszeugnisses auf das Gebot der Zeugnisklarheit nach Paragraf 109 Absatz 2 GewO mit Anwendung des objektiven Empfaengerhorizonts als Massstab gemaess der BAG-Rechtsprechung (9 AZR 352.04; 9 AZR 386.10).
 ---
 
-# Zeugnisklarheit nach BAG 9 AZR 227.11
+# Zeugnisklarheit nach dem objektiven Empfaengerhorizont (BAG 9 AZR 352.04; 9 AZR 386.10)
 
 Das Gebot der Zeugnisklarheit verlangt, dass jede Formulierung im Zeugnis dem objektiven Leser dasselbe vermittelt, was sie wortwortlich sagt. Mehrdeutigkeiten, verklausulierte Negativaussagen und ironisch ueberzogenes Lob verstoossen gegen dieses Gebot. Massgeblich ist nicht die Absicht des Arbeitgebers, sondern der objektive Empfaengerhorizont (BAG 21.6.2005 - 9 AZR 352.04).
 

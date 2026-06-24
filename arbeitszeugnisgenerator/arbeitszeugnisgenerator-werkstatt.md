@@ -93,8 +93,8 @@ Arbeitsprodukt: Liefere am Ende dieser Station den vollstaendigen, druckfertigen
 - BAG, Urteil vom 14.10.2003 - 9 AZR 12.03: Zeugnisklarheit. Aussagen muessen so formuliert sein, dass sie von Dritten zutreffend verstanden werden koennen; Geheimcodes sind unzulaessig.
 - BAG, Urteil vom 12.08.2008 - 9 AZR 632.07: Anspruch auf qualifiziertes Zeugnis umfasst Leistung und Verhalten in ausformuliertem Text, nicht in Stichworten.
 - BAG, Urteil vom 27.04.2021 - 9 AZR 262.20: Kein durchsetzbarer Anspruch auf Dank, Bedauern und gute Zukunftswuensche; gleichwohl ueblicher Bestandteil bei guten und sehr guten Zeugnissen.
-- BAG, Urteil vom 21.06.2005 - 9 AZR 352.04: Anspruch auf Zwischenzeugnis bei berechtigtem Interesse, etwa Vorgesetztenwechsel, Umstrukturierung oder bevorstehender Bewerbung.
-- BAG, Urteil vom 11.12.2012 - 9 AZR 227.11: Anforderungen an die Zeugnissprache; Auslassungen typischer Beurteilungspunkte koennen als negative Aussage gewertet werden.
+- BAG, Urteil vom 21.06.2005 - 9 AZR 352.04: Selbstbindung des Arbeitgebers an ein Zwischenzeugnis und Massregelungsverbot; das Endzeugnis darf ohne veraenderte Tatsachengrundlage nicht zum Nachteil des Arbeitnehmers abweichen; massgeblich ist der objektive Empfaengerhorizont.
+- BAG, Urteil vom 11.12.2012 - 9 AZR 227.11: Kein gesetzlicher Anspruch auf eine Schlussformel mit Dank und guten Wuenschen; bei Unzufriedenheit mit einer erteilten Schlussformel besteht nur Anspruch auf ein Zeugnis ohne Schlussformel, nicht auf eine bestimmte Umformulierung.
 - BAG, Urteil vom 15.11.2011 - 9 AZR 386.10: Notenstufen im Arbeitszeugnis und ihre sprachliche Entsprechung; durchschnittliche Bewertung entspricht der Note befriedigend.
 
 ## 6. Notenformel-Katalog fuer Zusammenfassungsformeln
