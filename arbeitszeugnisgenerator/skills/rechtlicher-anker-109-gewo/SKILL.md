@@ -33,7 +33,7 @@ Nebenpflicht des Arbeitgebers, ein leistungsgerechtes Zeugnis zu erteilen. Verle
 |---|---|
 | Paragraf 612a BGB | Maßregelungsverbot — Schlussformel darf nach Berichtigungsverlangen nicht gestrichen werden |
 | Paragraf 269 BGB | Holschuld — Zeugnis ist im Betrieb abzuholen |
-| Paragraf 195, 199 BGB | Regelmäßige Verjährung drei Jahre |
+| Paragraf 195 und 199 BGB | Regelmäßige Verjährung drei Jahre |
 | Paragraf 2 Abs. 1 Nr. 3 ArbGG | Zuständigkeit Arbeitsgericht |
 | Paragraf 12a ArbGG | Keine Anwaltskostenerstattung in erster Instanz |
 
