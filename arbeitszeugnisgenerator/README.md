@@ -36,7 +36,7 @@ Drei Modi zur Wahl:
 
 - **Wohlwollensgrundsatz versus Wahrheitspflicht**: Beides muss eingehalten werden, kein Schoenschreiben um den Preis der Wahrheit.
 - **Geheimcodes**: Versehentlich eingebaute Negativcodes ("bemueht sich", "im Grossen und Ganzen", "lernte schnell kennen und schaetzen") kippen die Note. Der Generator vermeidet sie aktiv.
-- **Zeugnisklarheit nach BAG 9 AZR 227.11**: Keine doppelten Boeden, keine widerspruechlichen Aussagen.
+- **Zeugnisklarheit (objektiver Empfaengerhorizont, BAG 9 AZR 352.04)**: Keine doppelten Boeden, keine widerspruechlichen Aussagen.
 - **Aussere Form**: Briefkopf, Datum, Unterschrift, kein Knick, keine Streichungen.
 - **Schlussformel-Wirkung**: Schlussformeln wirken oft staerker als die Bewertungssaetze. Eine schwache Schlussformel zieht die Gesamtnote.
 

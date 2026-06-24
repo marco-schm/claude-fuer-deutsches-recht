@@ -1,9 +1,9 @@
 ---
-name: zeugnisklarheit-bag-9-azr-227-11
-description: "Das Gebot der Zeugnisklarheit aus Paragraf 109 Abs. 2 GewO und der BAG-Rechtsprechung (9 AZR 352/04; 9 AZR 386/10; 9 AZR 227/11). Maßgeblich ist der objektive Empfängerhorizont. Formulierungen müssen das ausdrücken, was ihr Wortlaut besagt — nicht mehr, nicht weniger. Enthält Regeln zur Abgrenzung zulässiger Formulierungsspielräume von unzulässigen Codes."
+name: zeugnisklarheit-objektiver-empfaengerhorizont
+description: "Das Gebot der Zeugnisklarheit aus Paragraf 109 Abs. 2 GewO und der BAG-Rechtsprechung (9 AZR 352/04; 9 AZR 386/10). Maßgeblich ist der objektive Empfängerhorizont. Formulierungen müssen das ausdrücken, was ihr Wortlaut besagt — nicht mehr, nicht weniger. Enthält Regeln zur Abgrenzung zulässiger Formulierungsspielräume von unzulässigen Codes."
 ---
 
-# Zeugnisklarheit — BAG 9 AZR 227/11
+# Zeugnisklarheit — objektiver Empfängerhorizont (BAG 9 AZR 352/04; 9 AZR 386/10)
 
 ## Ziel
 
