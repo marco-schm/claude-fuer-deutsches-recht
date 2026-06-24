@@ -1,6 +1,6 @@
 # datenschutz-sanktionsverfahren-verteidigung
 
-**100 Skills** · Stand `v393.0.0`
+**100 Skills** · Stand `v394.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/datenschutz-sanktionsverfahren-verteidigung/README.md)

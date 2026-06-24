@@ -1,6 +1,6 @@
 # fachanwalt-versicherungsrecht
 
-**91 Skills** · Stand `v393.0.0`
+**91 Skills** · Stand `v394.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-versicherungsrecht/README.md)

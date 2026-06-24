@@ -1,3 +1,14 @@
+# v394.0.0 — Cowork-Kompatibilität verifiziert, Schönheitsreparaturen und Release-Bump
+
+- Vollständiger Cowork-Kompatibilitäts-Scan über alle 232 Plugins und 26051 Skills: Jeder Skill liegt unter `<plugin>/skills/<name>/SKILL.md` mit gültigem Frontmatter (genau `name` und `description`, `name` gleich Ordnername, ASCII und höchstens 64 Zeichen, `description` höchstens 1024 Zeichen ohne Komma-Ziffern), jedes Plugin hat ein valides `.claude-plugin/plugin.json`, Werkstatt- und Schnellstart-Prompts werden nicht als Skills geladen, keine verwaisten internen Links und keine als Skills getarnten Hilfsdateien.
+- Repo-eigene Validatoren laufen grün: Marketplace-Import, Plugin-Struktur und YAML-Frontmatter ohne Fehler oder Warnungen.
+- Bug-Hunt Rechtsprechungszitate: Alle 113 Skills mit Entscheidungszitaten aus dem Jahr 2026 tragen durchgängig einen Verifikations- oder Rechtsstandshinweis; keine ungerahmten Zukunftsfundstellen.
+- Skill-Benennungs-Korrekturen enthalten: `paragraf-308-nr-4-bgb-leistungsaenderung` statt `nr-1` (Inhalt behandelt durchgängig Paragraf 308 Nummer 4 BGB) und `zeugnisklarheit-objektiver-empfaengerhorizont` statt der Etikettierung auf 9 AZR 227/11, die in Wahrheit die Schlussformel-Entscheidung ist; fehlattribuierte BAG-Anker in den Arbeitszeugnis-Werkstattprompts korrigiert.
+- Lizenz-Harmonisierung: 14 Gerichts-Sub-Plugins auf den Repo-Standard Apache-2.0 OR MIT angeglichen.
+- Repo-weiter Versions-Bump auf v394.0.0.
+
+---
+
 # v393.0.0 — Importprüfung, Datenabruf-Slugpflege und Release-Härtung
 
 - Neuer repo-interner Marketplace-Importvalidator prüft Marketplace-Vollständigkeit, Plugin-Manifeste, Skill-Frontmatter, Prompt-Dateien, README-Direktdownloads, Prompt-Größen und fehlende Wrapper-Skills.

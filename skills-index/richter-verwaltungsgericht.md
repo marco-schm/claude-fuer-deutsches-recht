@@ -1,6 +1,6 @@
 # richter-verwaltungsgericht
 
-**11 Skills** · Stand `v393.0.0`
+**11 Skills** · Stand `v394.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-verwaltungsgericht/README.md)
