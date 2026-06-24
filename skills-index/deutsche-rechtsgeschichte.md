@@ -1,6 +1,6 @@
 # deutsche-rechtsgeschichte
 
-**205 Skills** · Stand `v395.0.0`
+**205 Skills** · Stand `v396.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/deutsche-rechtsgeschichte/README.md)
