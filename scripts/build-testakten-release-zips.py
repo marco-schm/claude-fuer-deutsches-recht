@@ -17,7 +17,6 @@ from testakte_file_filter import include_in_working_dump
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN = REPO_ROOT / "testakten"
 SKIP_DIRS = {
-    "formatvorlagen-paradebeispiele",
     "megaprompts",
 }
 

@@ -50,7 +50,7 @@ def expected_assets(dist: Path) -> dict[str, dict[str, Any]]:
     for path in sorted(dist.iterdir(), key=lambda p: p.name):
         if not path.is_file():
             continue
-        if path.suffix != ".zip" and path.name not in ASSET_NAMES:
+        if path.suffix not in {".zip", ".md"} and path.name not in ASSET_NAMES:
             continue
         data = path.read_bytes()
         expected[path.name] = {

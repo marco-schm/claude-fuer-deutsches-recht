@@ -37,22 +37,26 @@ jobs:
       - name: Werkstatt- und Schnellstart-Prompts erzeugen
         run: |
           # Werkstatt- und Schnellstart-Prompts sind reine Markdown-Begleitdateien,
-          # die NICHT als Skills in die Claude-Code-/Cowork-Plugin-Logik gehoeren.
+          # die NICHT als Skills in die Plugin-Logik gehören.
           # Das frueher hier aufgerufene sync-schnellstart-skill.py wurde absichtlich
           # entfernt, weil es pro Plugin einen skills/<plugin>-schnellstart/SKILL.md
-          # erzeugt hat. Diese Wrapper-Skills wuerden beim Marketplace-Install als
-          # zusaetzlicher Skill geladen, obwohl sie nur Werbe- und Einstiegstexte
-          # enthalten. Die Werkstatt- und Schnellstart-Prompts sind ueber die
-          # Plugin-README weiterhin als Direkt-Download verfuegbar.
+          # erzeugt hat. Diese Wrapper-Skills würden beim Marketplace-Install als
+          # zusätzlicher Skill geladen, obwohl sie nur Einstiegsdateien enthalten.
+          # Die Werkstatt- und Schnellstart-Prompts werden als Markdown-Assets
+          # im Release veröffentlicht.
           python3 scripts/generate-werkstatt-und-schnellstart-prompts.py
           python3 scripts/inject-streitstoff-beitrag-gerichtsplugins.py
           python3 scripts/inject-megaprompt-section.py
           python3 scripts/inject-plugin-sofort-download-section.py
           python3 scripts/inject-direkt-loslegen-section.py
+          python3 scripts/generate-skills-overview.py
           python3 scripts/generate-werkstatt-und-schnellstart-coverage.py
 
       - name: Skill-Indizes neu erzeugen (SKILLS.md + skills-index, Stand = marketplace-Version)
         run: python3 scripts/generate-skills-md.py
+
+      - name: Release-Asset-Index neu erzeugen
+        run: python3 scripts/generate-asset-index.py
 
       - name: Liste aller Plugins aus marketplace.json lesen
         id: plugins
@@ -98,6 +102,15 @@ jobs:
       - name: Release-ZIPs validieren
         run: python3 scripts/validate-release-zips.py dist .claude-plugin/marketplace.json
 
+      - name: Werkstatt- und Schnellstart-Markdownassets bauen
+        run: |
+          python3 scripts/build-werkstatt-schnellstart-sammelzips.py dist
+          test -s dist/alle-werkstatt-prompts.zip
+          test -s dist/alle-schnellstart-prompts.zip
+          ls dist/*-werkstatt.md | wc -l
+          ls dist/*-schnellstart.md | wc -l
+          ls -lh dist/alle-werkstatt-prompts.zip dist/alle-schnellstart-prompts.zip
+
       - name: Beispielakten separat verpacken (kein Teil der Plugins, testakte-Prefix)
         run: |
           # Beispielakten werden mit testakte-Prefix gepackt, damit sie sich im
@@ -119,6 +132,8 @@ jobs:
           mkdir -p dist/testakten-einzelpdfs
           python3 scripts/build-testakten-einzelpdf-zips.py dist/testakten-einzelpdfs
           cp dist/testakten-einzelpdfs/alle-testakten-einzelpdfs.zip dist/alle-testakten-einzelpdfs.zip
+          cp dist/testakten-einzelpdfs/testakte-formatvorlagen-paradebeispiele-einzelpdfs.zip dist/testakte-formatvorlagen-paradebeispiele-einzelpdfs.zip
+          cp dist/testakten-einzelpdfs/testakte-megaprompts-einzelpdfs.zip dist/testakte-megaprompts-einzelpdfs.zip
           ls -la dist/testakten-einzelpdfs/testakte-*-einzelpdfs.zip | head
           ls -lh dist/alle-testakten-einzelpdfs.zip
 
@@ -172,6 +187,8 @@ jobs:
           cp dist/alle-testakten-einzelpdfs.zip dist/komplettpaket/alle-testakten-einzelpdfs.zip
           cp dist/alle-skills-markdown.zip dist/komplettpaket/alle-skills-markdown.zip
           cp dist/alle-pluginlokalen-testakten.zip dist/komplettpaket/alle-pluginlokalen-testakten.zip
+          cp dist/alle-werkstatt-prompts.zip dist/komplettpaket/alle-werkstatt-prompts.zip
+          cp dist/alle-schnellstart-prompts.zip dist/komplettpaket/alle-schnellstart-prompts.zip
           for plugin in ${{ steps.plugins.outputs.names }}; do
             cp "dist/${plugin}.zip" "dist/komplettpaket/plugins/${plugin}.zip"
           done
@@ -216,8 +233,10 @@ jobs:
           test -s dist/alle-testakten-einzelpdfs.zip
           test -s dist/alle-skills-markdown.zip
           test -s dist/alle-pluginlokalen-testakten.zip
+          test -s dist/alle-werkstatt-prompts.zip
+          test -s dist/alle-schnellstart-prompts.zip
           test -s dist/alles-komplettpaket.zip
-          ls -lh dist/alle-plugins-megazip.zip dist/alle-testakten.zip dist/alle-testakten-einzelpdfs.zip dist/alle-skills-markdown.zip dist/alle-pluginlokalen-testakten.zip dist/alles-komplettpaket.zip
+          ls -lh dist/alle-plugins-megazip.zip dist/alle-testakten.zip dist/alle-testakten-einzelpdfs.zip dist/alle-skills-markdown.zip dist/alle-pluginlokalen-testakten.zip dist/alle-werkstatt-prompts.zip dist/alle-schnellstart-prompts.zip dist/alles-komplettpaket.zip
 
       - name: Checksums erzeugen
         run: |
@@ -227,7 +246,7 @@ jobs:
           dist = Path("dist")
           assets = sorted(
               p for p in dist.iterdir()
-              if p.is_file() and (p.suffix == ".zip" or p.name == "marketplace.json")
+              if p.is_file() and (p.suffix in {".zip", ".md"} or p.name == "marketplace.json")
           )
           with (dist / "checksums-sha256.txt").open("w", encoding="utf-8") as fh:
               for path in assets:
@@ -310,7 +329,7 @@ jobs:
             else
               sleep 2
             fi
-          done < <(find dist -maxdepth 1 -type f \( -name '*.zip' -o -name 'marketplace.json' -o -name 'checksums-sha256.txt' \) | sort)
+          done < <(find dist -maxdepth 1 -type f \( -name '*.zip' -o -name '*-werkstatt.md' -o -name '*-schnellstart.md' -o -name 'marketplace.json' -o -name 'checksums-sha256.txt' \) | sort)
 
       - name: Release-Assets remote verifizieren
         if: steps.tagref.outputs.tag != ''
@@ -324,6 +343,7 @@ jobs:
           name: plugin-zips
           path: |
             dist/*.zip
+            dist/*.md
             dist/**/*.zip
             dist/marketplace.json
             dist/checksums-sha256.txt
