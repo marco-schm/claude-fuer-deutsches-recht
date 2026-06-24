@@ -36,8 +36,15 @@ jobs:
 
       - name: Werkstatt- und Schnellstart-Prompts erzeugen
         run: |
+          # Werkstatt- und Schnellstart-Prompts sind reine Markdown-Begleitdateien,
+          # die NICHT als Skills in die Claude-Code-/Cowork-Plugin-Logik gehoeren.
+          # Das frueher hier aufgerufene sync-schnellstart-skill.py wurde absichtlich
+          # entfernt, weil es pro Plugin einen skills/<plugin>-schnellstart/SKILL.md
+          # erzeugt hat. Diese Wrapper-Skills wuerden beim Marketplace-Install als
+          # zusaetzlicher Skill geladen, obwohl sie nur Werbe- und Einstiegstexte
+          # enthalten. Die Werkstatt- und Schnellstart-Prompts sind ueber die
+          # Plugin-README weiterhin als Direkt-Download verfuegbar.
           python3 scripts/generate-werkstatt-und-schnellstart-prompts.py
-          python3 scripts/sync-schnellstart-skill.py
           python3 scripts/inject-streitstoff-beitrag-gerichtsplugins.py
           python3 scripts/inject-megaprompt-section.py
           python3 scripts/inject-plugin-sofort-download-section.py
