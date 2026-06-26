@@ -5,23 +5,23 @@
 
 ## Plugins in diesem Ordner
 
-| Plugin | Rolle |
-|---|---|
-| `richter-amtsgericht-zivil` | Amtsrichter in Zivilsachen (Streitwert bis 10.000 Euro, sonstige Zuständigkeiten nach Paragraf 23 GVG) |
-| `richter-amtsgericht-straf` | Strafrichter oder Schöffengericht am Amtsgericht (Paragraf 24 GVG, Paragraf 25 GVG, Paragrafen 28-30 GVG) |
-| `richter-amtsgericht-insolvenz-restrukturierung` | Insolvenzrichter oder Restrukturierungsrichter am Amtsgericht (Paragraf 2 InsO, Paragrafen 34 ff. StaRUG) |
-| `richter-amtsgericht-handelsregister` | Registerrichter oder Rechtspfleger für Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Vereinsregister |
-| `richter-landgericht-zivilkammer` | Vorsitzender oder Berichterstatter einer Zivilkammer (Paragraf 71 GVG, Streitwert ab 10.001 Euro; auch sonstige Zuständigkeiten Paragrafen 71-74 GVG) sowie zweite Instanz Berufung Paragraf 511 ZPO |
-| `richter-landgericht-strafkammer` | Vorsitzender oder Berichterstatter einer großen oder kleinen Strafkammer (Paragraf 74 GVG, Paragraf 76 GVG); Schwurgericht Paragraf 74 Abs. 2 GVG |
-| `richter-verwaltungsgericht` | Verwaltungsrichter als Einzelrichter oder Kammer (Paragrafen 4-6 VwGO) |
-| `richter-finanzgericht` | Finanzrichter als Einzelrichter oder Senat (Paragraf 5 FGO) |
-| `richter-sozialgericht` | Sozialrichter als Einzelrichter oder Kammer (Paragrafen 12, 31 SGG); mit ehrenamtlichen Richtern in muendlicher Verhandlung |
-| `richter-arbeitsgericht` | Arbeitsrichter als Vorsitzender einer Kammer (mit zwei ehrenamtlichen Richtern aus Arbeitgeber- und Arbeitnehmerkreis) Paragraf 16 ArbGG |
-| `richter-familiengericht` | Familienrichter am Amtsgericht (Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG) für Ehe-, Kindschafts-, Unterhalts-, Versorgungsausgleichs-, Gewaltschutz- und sonstige Familiensachen nach FamFG |
-| `richter-bverfg-verfassungsbeschwerden` | Wissenschaftlicher Mitarbeiter oder Berichterstatter in einer Kammer beider Senate des Bundesverfassungsgerichts (Paragrafen 93a-93d BVerfGG) |
-| `staatsanwaltschaft-amtsanwaltschaft` | Staatsanwalt oder Amtsanwalt (Paragrafen 141 ff. GVG, Paragrafen 152 ff. StPO) mit 28 Skills zu Anklage, Ermittlung, Durchsuchung, Vernehmung, Adhaesion, Opferschutz, Wiederaufnahme und EuHb |
-| `staatsanwaltschaft-praxis-einstieg` | Praxiseinstieg fuer Staatsanwaelte und Amtsanwaelte: Aktenfuehrung, Verfuegungslehre, taegliche Arbeitsablaeufe |
-| `relationstechnik-zivilrecht` | Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will |
+| Plugin | Rolle | README |
+|---|---|---|
+| `richter-amtsgericht-zivil` | Amtsrichter in Zivilsachen (Streitwert bis 10.000 Euro, sonstige Zuständigkeiten nach Paragraf 23 GVG) | [README](./richter-amtsgericht-zivil/README.md) |
+| `richter-amtsgericht-straf` | Strafrichter oder Schöffengericht am Amtsgericht (Paragraf 24 GVG, Paragraf 25 GVG, Paragrafen 28-30 GVG) | [README](./richter-amtsgericht-straf/README.md) |
+| `richter-amtsgericht-insolvenz-restrukturierung` | Insolvenzrichter oder Restrukturierungsrichter am Amtsgericht (Paragraf 2 InsO, Paragrafen 34 ff. StaRUG) | [README](./richter-amtsgericht-insolvenz-restrukturierung/README.md) |
+| `richter-amtsgericht-handelsregister` | Registerrichter oder Rechtspfleger für Handelsregister, Genossenschaftsregister, Partnerschaftsregister, Vereinsregister | [README](./richter-amtsgericht-handelsregister/README.md) |
+| `richter-landgericht-zivilkammer` | Vorsitzender oder Berichterstatter einer Zivilkammer (Paragraf 71 GVG, Streitwert ab 10.001 Euro; auch sonstige Zuständigkeiten Paragrafen 71-74 GVG) sowie zweite Instanz Berufung Paragraf 511 ZPO | [README](./richter-landgericht-zivilkammer/README.md) |
+| `richter-landgericht-strafkammer` | Vorsitzender oder Berichterstatter einer großen oder kleinen Strafkammer (Paragraf 74 GVG, Paragraf 76 GVG); Schwurgericht Paragraf 74 Abs. 2 GVG | [README](./richter-landgericht-strafkammer/README.md) |
+| `richter-verwaltungsgericht` | Verwaltungsrichter als Einzelrichter oder Kammer (Paragrafen 4-6 VwGO) | [README](./richter-verwaltungsgericht/README.md) |
+| `richter-finanzgericht` | Finanzrichter als Einzelrichter oder Senat (Paragraf 5 FGO) | [README](./richter-finanzgericht/README.md) |
+| `richter-sozialgericht` | Sozialrichter als Einzelrichter oder Kammer (Paragrafen 12, 31 SGG); mit ehrenamtlichen Richtern in muendlicher Verhandlung | [README](./richter-sozialgericht/README.md) |
+| `richter-arbeitsgericht` | Arbeitsrichter als Vorsitzender einer Kammer (mit zwei ehrenamtlichen Richtern aus Arbeitgeber- und Arbeitnehmerkreis) Paragraf 16 ArbGG | [README](./richter-arbeitsgericht/README.md) |
+| `richter-familiengericht` | Familienrichter am Amtsgericht (Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG) für Ehe-, Kindschafts-, Unterhalts-, Versorgungsausgleichs-, Gewaltschutz- und sonstige Familiensachen nach FamFG | [README](./richter-familiengericht/README.md) |
+| `richter-bverfg-verfassungsbeschwerden` | Wissenschaftlicher Mitarbeiter oder Berichterstatter in einer Kammer beider Senate des Bundesverfassungsgerichts (Paragrafen 93a-93d BVerfGG) | [README](./richter-bverfg-verfassungsbeschwerden/README.md) |
+| `staatsanwaltschaft-amtsanwaltschaft` | Staatsanwalt oder Amtsanwalt (Paragrafen 141 ff. GVG, Paragrafen 152 ff. StPO) mit 28 Skills zu Anklage, Ermittlung, Durchsuchung, Vernehmung, Adhaesion, Opferschutz, Wiederaufnahme und EuHb | [README](./staatsanwaltschaft-amtsanwaltschaft/README.md) |
+| `staatsanwaltschaft-praxis-einstieg` | Praxiseinstieg fuer Staatsanwaelte und Amtsanwaelte: Aktenfuehrung, Verfuegungslehre, taegliche Arbeitsablaeufe | [README](./staatsanwaltschaft-praxis-einstieg/README.md) |
+| `relationstechnik-zivilrecht` | Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will | [README](./relationstechnik-zivilrecht/README.md) |
 
 ## Wichtiger Hinweis vor Verwendung
 
