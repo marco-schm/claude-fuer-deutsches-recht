@@ -3,6 +3,12 @@
 > **Experimentelle Plugin-Sammlung für den moeglichen Einsatz von KI an deutschen Gerichten.**
 > Capability-Experiment. Keine Produktivempfehlung.
 
+## Was ist das hier?
+
+Dieser Ordner bündelt 15 Plugins, die typische gerichtliche Rollen abbilden: Amtsrichter in Zivil-, Straf-, Insolvenz- und Registersachen, Landgerichts-, Verwaltungs-, Finanz-, Sozial-, Arbeits- und Familienrichter, ein Plugin für die Verfassungsbeschwerde am BVerfG, zwei Plugins für Staatsanwaltschaft und Amtsanwaltschaft sowie ein Plugin zur Relationstechnik im Zivilrecht. Jedes Plugin enthält einen vollständigen Werkstatt-Prompt, einen kompakten Schnellstart-Prompt, eine fiktive Testakte aus Richtersicht und je nach Plugin 10 bis 28 fachliche Skills. Im Zentrum stehen Vorbereitung und Aufbau einer richterlichen Entscheidung: Tenor, Sachverhalt, Entscheidungsgründe, Beweiswürdigung, Subsumtion. Die Plugins funktionieren auch ohne Plugin-Setup, weil Werkstatt- und Schnellstart-Markdown portabel sind.
+
+Die richterliche Funktion ist eine besonders sensible Anwendung von KI. Deshalb steht dieser Ordner separat. Wir bilden hier die Werkzeuge ab, damit sichtbar wird, was technisch geht; die Frage, ob und wie das im Echtbetrieb rechtssicher genutzt werden kann, ist in jedem Gericht und in jedem Verfahren neu zu prüfen. Eine ausführliche rechtliche Einordnung zu KI-VO, DSGVO, Aktengeheimnis und Revisionssicherheit folgt unter "Wichtiger Hinweis vor Verwendung".
+
 ## Plugins in diesem Ordner
 
 | Plugin | Rolle | README |
