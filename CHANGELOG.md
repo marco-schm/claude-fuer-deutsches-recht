@@ -1,3 +1,13 @@
+# v404.0.0 — Rentenprüfer ausgebaut und Rentenrechtsakten ergänzt
+
+- Rentenprüfer auf Arbeitnehmer-, DRV-, Betriebsrenten-, private Renten- und Versorgungswerk-Schnittstellen geschärft.
+- 20 neue Kernskills ergänzt: Erstberatung, Versicherungsverlauf, Wartezeiten, Abschläge, Ausgleichszahlungen, Erwerbsminderung, Widerspruch/Klage, KVdR, Hinzuverdienst, Betriebsrente, private Renten, Versorgungsausgleich, Versorgungswerk und Hinterbliebenenrente.
+- Werkstatt- und Schnellstart-Prompt neu strukturiert: schneller Sachstand, klare Rückfragen, Variantenmatrix, Fristenblick, Bescheidangriff und Mehrsäulenstrategie.
+- Fünf zentrale Rentenrechtsakten ergänzt, jeweils mit ausführlichen Unterlagen, Gesamt-PDF, Daten-ZIP und Einzel-PDF-ZIP im Release-Pfad.
+- Rentenprüfer-README, Asset-Index und zentrale Testaktenübersicht auf v404.0.0 und die neuen Rentenrechtsakten nachgezogen.
+
+---
+
 # v403.0.0 — Tempo-Sweep und Prompt-Start geschärft
 
 - Werkstatt-Prompts aller 232 Plugins starten jetzt mit einem ausdrücklich verwertbaren Sofortbild: Sobald der Zwischenstand trägt, wird er ausgegeben und die anschließende Vertiefung markiert.
