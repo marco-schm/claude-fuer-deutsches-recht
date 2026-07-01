@@ -1,3 +1,11 @@
+# v405.1.0 — Rentenakten-Downloads vervollständigt
+
+- Fünf Rentenrecht-Testakten verlinken nun in ihrer README jeweils das Gesamt-PDF, das Akten-ZIP und das Einzel-PDF-ZIP im üblichen Download-Dreiklang.
+- Die zentrale Gesamt-PDF-Validierung läuft damit auch für die neuen Rentenrechtsakten sauber durch.
+- Repo-weiter Versions-Bump auf v405.1.0.
+
+---
+
 # v405.0.0 — Skill-Navigation nach Arbeitslogik
 
 - Plugin-READMEs erhalten eine zusätzliche, auto-generierte Orientierung nach Arbeitsphasen: Einstieg, Unterlagen, Prüfung, Gestaltung, Verfahren, Ergebnis, Kontrolle und Spezialmodule.
