@@ -1,17 +1,21 @@
 ---
 name: beihilfe-bayern-baybhv
-description: "Wenn es um Beihilfe für bayerische Beamte nach der Bayerischen Beihilfeverordnung (BayBhV) geht: klärt Beihilfeberechtigung, Bemessungssatz, Personenkreis, Zuständigkeit des Landesamts für Finanzen und Fristen; liefert Prüfraster, Fristen-/Risikoampel und Sofortschritte mit Antrags- oder Widerspruchsentwurf."
+description: "Wenn es um Beihilfe für bayerische Beamte nach der Bayerischen Beihilfeverordnung (BayBhV) geht: klärt Beihilfeberechtigung, Bemessungssatz, Personenkreis und Krankenversicherungsart (PKV/GKV freiwillig/GKV Pflicht) inkl. Tarifbeschäftigte und Angehörige; liefert Prüfraster, Fristen-/Risikoampel und Sofortschritte mit Antrags- oder Widerspruchsentwurf."
 ---
 
 # Beihilfe Bayern (BayBhV)
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt (Beamter, Ruhestandsbeamter, Hinterbliebener, Bevollmächtigter), welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht (Antrag, Widerspruch, Klage, Beratung)?
-- Fristen und Eilrisiken zuerst markieren: Widerspruch gegen Beihilfebescheid 1 Monat (VwGO § 70), Antragsfrist für Aufwendungen nach BayBhV (Ausschlussfrist beachten — bayerische Fassung live prüfen), Klage vor dem VG 1 Monat nach Widerspruchsbescheid.
-- Tragende Normen verifizieren: BayBhV (Verordnung), Art. 96 BayBG (Beihilfeanspruch), Art. 86a BayBG (Verordnungsermächtigung), ergänzend BeamtStG, GG Art. 33 Abs. 5 (Fürsorgepflicht/amtsangemessene Alimentation), SGB XI bei Pflege — Fundstellen über gesetze-bayern.de und gesetze-im-internet.de live prüfen; keine Modellwissen-Zitate, keine Bund-BBhV-Normen auf Bayern übertragen.
-- Zuständige Stelle bestimmen: Festsetzungsstelle ist regelmäßig das **Bayerische Landesamt für Finanzen (LfF)**; Rechtsweg VG (Bayern) → BayVGH → BVerwG (2. Senat).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beihilfebescheid, Rechnungen/Heilkostenbelege, ärztliche Verordnung/Notwendigkeitsbescheinigung, PKV-Erstattungsnachweis, Bemessungssatz-Feststellung, Pflegegutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+> ⚠️ **PFLICHT-FETCH vor jeder Antwort** — Normen nicht aus Modellwissen zitieren:
+> 1. GET https://www.gesetze-bayern.de/Content/Document/BayBhV/true → relevante §§ extrahieren
+> 2. GET https://www.lff.bayern.de/formulare/beihilfe/ → aktuelle Formulare und Merkblätter prüfen
+> 3. Erst danach antworten.
+
+- Rolle klären: Wer handelt (Beamter, Ruhestandsbeamter, Hinterbliebener, Angehöriger, Tarifbeschäftigter), welche KV-Art, welcher Output (Antrag, Widerspruch, Klage, Beratung)?
+- Fristen zuerst markieren: Widerspruch 1 Monat (VwGO § 70); Klage 1 Monat nach Widerspruchsbescheid; Antragsausschlussfrist BayBhV live prüfen.
+- **Keine BBhV-Normen auf Bayern übertragen** — BayBhV und BBhV sind eigenständige Verordnungen.
+- Zuständige Stelle: Bayerisches Landesamt für Finanzen (LfF); Rechtsweg VG Bayern → BayVGH → BVerwG.
 
 ## 1. Zweck und Anwendungsfall
 
@@ -19,50 +23,131 @@ Einstiegs- und Kern-Skill für die Beihilfe bayerischer Beamter, Ruhestandsbeamt
 
 ## 2. Abgrenzung Bund/Bayern
 
-- Bayerische Beamte, Richter und Versorgungsempfänger richten sich **nicht** nach der BBhV des Bundes, sondern nach der BayBhV. Bund-Beihilfe-Skills (`beihilfe-chronische-krankheit`, `beihilfe-heilbehandlung-ausland`, `beihilfe-implantatfaehige-hoergeraete`, `pflege-beihilfe-pflegeversicherung-beamte`) nur als Systematik-Vergleich heranziehen, nie als bayerische Norm zitieren.
+- Bayerische Beamte richten sich **ausschließlich** nach der BayBhV, nicht nach der BBhV des Bundes.
+- Bund-Beihilfe-Skills nur als Systematikvergleich — nie als bayerische Norm zitieren.
 - Für andere Länder: `landesrecht-16-laender-routenplan`.
 
 ## 3. Eingaben
 
-- Statusgruppe (aktiver Beamter / Ruhestand / Hinterbliebener / Angehöriger)
+- Statusgruppe (aktiver Beamter / Ruhestand / Hinterbliebener / Angehöriger / Tarifbeschäftigter)
+- Krankenversicherungsart (PKV Restkostenversicherung / GKV freiwillig / GKV Pflicht)
 - Art der Aufwendung (Krankheit, Zahnbehandlung, Arznei-/Hilfsmittel, Krankenhaus, Reha, Pflege)
-- Bemessungssatz laut Bescheid und PKV-Tarif (Restkostenversicherung)
+- Bemessungssatz laut Bescheid und PKV-Tarif
 - Beihilfebescheid und Rechnungen
 - Datum von Aufwendung, Rechnung, Bescheid und Zugang (für Fristen)
 
-## 4. Ablauf / Checkliste
+## 3a. Pflicht-Routing: Statusgruppe × Krankenversicherungsart
 
-### a) Beihilfeberechtigung und Personenkreis (Abschnitt II, §§ 2–6 BayBhV)
-- Berechtigung, berücksichtigungsfähige Angehörige (Ehegatte/Lebenspartner mit Einkommensgrenze, Kinder) und Konkurrenzregelungen prüfen.
+> ⚠️ Diesen Block **vor §§ 7 ff.** abarbeiten. Beihilfeanspruch und Bemessungssatz hängen
+> nicht allein von der BayBhV ab, sondern von der Kombination aus Statusgruppe und KV-Art.
+> Rechtsquellen: BayBhV §§ 2, 3, 46; BayBG Art. 96; §§ 249/257 SGB V; TV-L Bayern.
+> Alle Beträge und Sätze über gesetze-bayern.de live verifizieren.
 
-### b) Bemessungssatz
-- Regelbemessungssatz nach Statusgruppe und Zahl der berücksichtigungsfähigen Kinder feststellen; Zusammenspiel mit PKV-Restkostentarif (100 % Deckung Beihilfe + PKV).
+### Schritt 1 — Statusgruppe feststellen (BayBhV § 2)
 
-### c) Grundsatz der Beihilfefähigkeit (Abschnitt III, § 7)
-- Nur medizinisch notwendige und wirtschaftlich angemessene Aufwendungen; Angemessenheit anhand GOÄ/GOZ-Sätzen.
+- **(A) Aktiver Beamter / Ruhestandsbeamter / Richter / Hinterbliebener (Witwe/Waise)**
+  → Beihilfeberechtigung dem Grunde nach gegeben → weiter mit Schritt 2A
+- **(B) Tarifbeschäftigter des Freistaats Bayern**
+  → Kein Beihilfeanspruch nach BayBhV → weiter mit Schritt 2B
+- **(C) Berücksichtigungsfähiger Angehöriger (BayBhV § 3)**
+  → Ehegatte/Lebenspartner oder im Familienzuschlag berücksichtigtes Kind
+  → Keine Einkommensgrenze (§ 4 BayBhV aufgehoben); KV-Art des Angehörigen entscheidend
+  → weiter mit Schritt 2C
 
-### d) Aufwendungsart zuordnen und Detail-Skill wählen
+> ⚠️ Nicht beihilfeberechtigt nach § 2: Ehrenbeamte, Dienstverhältnisse unter 1 Jahr, Europaparlamentarier.
+
+---
+
+### Schritt 2A — Beamter: Krankenversicherungsart
+
+| KV-Art | Beihilfeanspruch | Hinweis | Rechtsquelle |
+|---|---|---|---|
+| **PKV Restkostenversicherung** | Ja, voll nach Bemessungssatz (Schritt 3) | Ziel: Beihilfe + PKV = 100 % | BayBhV § 46; BayBG Art. 96 |
+| **GKV freiwillig versichert** | Ja — nur **Restkosten**: Beihilfe erstattet was GKV nicht übernimmt (Differenzkostenerstattung, 100 %) | GKV-Erstattungsnachweis vor Antrag einholen; verbleibender Betrag oft gering | BayBhV § 46 |
+| **GKV pflichtversichert** | Nur bei bestimmten Beamtengruppen (z. B. Beamte auf Widerruf unter Jahresarbeitsentgeltgrenze) | Im Regelfall kein Anspruch — § 2 BayBhV live prüfen | BayBhV § 2 |
+
+> ⚠️ Sonderfall Vorerkrankungsausschluss (§ 46 BayBhV): Ist eine Erkrankung vom PKV-Tarif
+> ausgeschlossen, erhöht sich der Bemessungssatz um **20 Prozentpunkte** (max. 90 %), sofern
+> das Versicherungsunternehmen die Anforderungen des SGB V erfüllt.
+
+---
+
+### Schritt 2B — Tarifbeschäftigter: Krankenversicherungsart
+
+| KV-Art | Leistung des Arbeitgebers | Rechtsquelle |
+|---|---|---|
+| **PKV** | Zuschuss = Hälfte der gesetzlichen Beitragssätze, max. Hälfte des tatsächlichen PKV-Beitrags | § 257 Abs. 2 SGB V |
+| **GKV freiwillig** | Zuschuss wie bei Pflichtversicherung | § 257 Abs. 1 SGB V |
+| **GKV pflichtversichert** | Hälftige Beitragstragung | § 249 SGB V; TV-L |
+
+> ⚠️ Tarifbeschäftigte erhalten **keine Beihilfe nach BayBhV** — weder PKV noch GKV.
+> Der Freistaat erfüllt seine Fürsorgepflicht über den KV-Arbeitgeberzuschuss (SGB V).
+> Ausnahme: Einzelvertragliche Sonderregelungen — Arbeitsvertrag und TV-L live prüfen.
+
+---
+
+### Schritt 2C — Berücksichtigungsfähiger Angehöriger (BayBhV § 3)
+
+**Wer ist berücksichtigungsfähig?**
+- Ehegatte oder Lebenspartner
+- Im Familienzuschlag (BayBesG) berücksichtigte Kinder
+- Kinder in weiterer Ausbildung nach erstem Abschluss (§ 3 Abs. 2)
+
+**Nicht berücksichtigungsfähig:** Geschwister; Angehörige beihilfeberechtigter Waisen (§ 3 Abs. 3)
+
+> ⚠️ § 4 BayBhV ist **aufgehoben** — es gibt keine Einkommensgrenze mehr für Ehegatten/Lebenspartner.
+
+| KV-Art des Angehörigen | Beihilfefähigkeit | Hinweis |
+|---|---|---|
+| **PKV** | Ja — Bemessungssatz des Beamten gilt (Schritt 3) | Regelfall |
+| **GKV freiwillig** | Ja — nur Restkosten (Differenzkostenerstattung) | GKV-Erstattungsnachweis erforderlich |
+| **GKV pflichtversichert** | Eingeschränkt — § 3 BayBhV live prüfen | GKV deckt i. d. R. ab; Beihilfe für verbleibende Aufwendungen prüfen |
+
+---
+
+### Schritt 3 — Bemessungssatz (BayBhV § 46 i. V. m. BayBG Art. 96)
+
+| Personengruppe | Bemessungssatz |
+|---|---|
+| Beamter ohne berücksichtigungsfähige Angehörige | **50 %** |
+| Beamter mit berücksichtigungsfähigen Angehörigen | **70 %** |
+| Versorgungsempfänger / Witwen / Witwer / Waisen | **70 %** |
+| Berücksichtigungsfähige Kinder | **80 %** |
+| Vorerkrankungsausschluss durch PKV (§ 46 BayBhV) | **+20 PP** (max. 90 %) |
+
+> Ziel: Beihilfe + PKV/GKV-Restkosten = 100 % der beihilfefähigen Aufwendungen.
+
+---
+
+### Erst nach diesem Routing weiter mit §§ 7 ff. (Aufwendungsart)
+
+## 4. Aufwendungsart zuordnen — Detail-Skill wählen
+
 - Krankheitsfälle §§ 8–28 → `beihilfe-bayern-krankheit-aufwendungen`
-- Reha §§ 29–30 → `beihilfe-bayern-reha`
+- Reha/Kur §§ 29–30 → `beihilfe-bayern-reha`
 - Pflege §§ 31–40 → `beihilfe-bayern-pflege`
-- Sonstige Fälle §§ 41–45 (Geburt, Impfung, Vorsorge) hier prüfen.
+- Sonstige Fälle §§ 41–45 (Geburt, Impfung, Vorsorge) → hier prüfen
 
-### e) Verfahren und Fristen (Abschnitt VIII, §§ 46–48)
-- Antragsausschlussfrist und Belegpflichten prüfen; Widerspruchsfrist gegen Bescheid 1 Monat; Zuständigkeit LfF bestätigen.
+## 5. Verfahren und Fristen (BayBhV §§ 46 ff.)
 
-## 5. Quellenpflicht
+- Antragsausschlussfrist: BayBhV live prüfen
+- Widerspruch gegen Bescheid: **1 Monat** (VwGO § 70)
+- Klage vor VG: **1 Monat** nach Widerspruchsbescheid
+- Zuständigkeit: LfF (Festsetzungsstelle)
 
-- Normen: BayBhV; Art. 96, Art. 86a BayBG; ergänzend SGB XI (Pflege), GOÄ/GOZ (Angemessenheit).
-- Rspr.: BayVGH und BVerwG zur bayerischen Beihilfe — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
-- Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+## 6. Quellenpflicht
 
-## 6. Ausgabeformat
+- Normen: BayBhV; Art. 96, Art. 86a BayBG; SGB XI (Pflege); §§ 249/257 SGB V (Tarifbeschäftigte); GOÄ/GOZ (Angemessenheit).
+- Rspr.: BayVGH und BVerwG — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
+- Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BBhV-Normen, keine Blindzitate.
+
+## 7. Ausgabeformat
 
 - Prüfraster Beihilfefähigkeit Bayern mit Bemessungssatz und Fristen-/Risikoampel.
 - Bei Streit: Widerspruchs- oder Klageentwurf mit tragenden BayBhV-§§.
 
-## 7. Verifizierte Quellenanker
+## 8. Verifizierte Quellenanker
 
 - BayBhV: https://www.gesetze-bayern.de/Content/Document/BayBhV/true
-- BayBG (Art. 86a Verordnungsermächtigung, Art. 96 Beihilfe): https://www.gesetze-bayern.de/Content/Document/BayBG
-- Bayerisches Landesamt für Finanzen (Festsetzungsstelle): Zuständigkeit und aktuelle Merkblätter live prüfen.
+- BayBG (Art. 86a, Art. 96): https://www.gesetze-bayern.de/Content/Document/BayBG
+- LfF Formulare und Merkblätter: https://www.lff.bayern.de/formulare/beihilfe/
