@@ -71,3 +71,13 @@ Die ergänzte Wissenssammlung liegt unter [`recherche/beamtenrecht-und-richterre
 - § 53 BeamtVG, Ruhen bei Erwerbs- und Erwerbsersatzeinkommen: https://www.gesetze-im-internet.de/beamtvg/__53.html
 - Deutsche Rentenversicherung, Nachversicherung: https://www.deutsche-rentenversicherung.de/SharedDocs/Downloads/DE/Fachliteratur_Kommentare_Gesetzestexte/Studientexte/Versicherungsrecht/07_nachversicherung.pdf
 - Beihilfe immer nach Bund/Land trennen; Bundesbeihilfeverordnung nicht blind auf Landesbeamte übertragen.
+
+## Beihilfe Bayern (BayBhV) ab v406.1.0
+
+Für bayerische Beamte, Richter und Versorgungsempfänger gilt die BayBhV, nicht die BBhV des Bundes. Vor jeder konkreten Frist, jedem Bemessungssatz und jeder §-Angabe die aktuelle Fassung live prüfen; Zuständigkeit und Merkblätter des Bayerischen Landesamts für Finanzen (LfF) tagesaktuell bestätigen.
+
+- BayBhV: https://www.gesetze-bayern.de/Content/Document/BayBhV/true
+- BayBG (Art. 86a Verordnungsermächtigung, Art. 96 Beihilfeanspruch): https://www.gesetze-bayern.de/Content/Document/BayBG
+- SGB XI (Pflege, Anknüpfung der BayBhV-Pflegeleistungen): https://www.gesetze-im-internet.de/sgb_11/
+- GOÄ/GOZ für die Angemessenheitsprüfung ärztlicher/zahnärztlicher Aufwendungen: gesetze-im-internet.de live prüfen.
+- Zugehörige Skills: `beihilfe-bayern-baybhv` (Kern), `beihilfe-bayern-krankheit-aufwendungen`, `beihilfe-bayern-pflege`, `beihilfe-bayern-reha`.
